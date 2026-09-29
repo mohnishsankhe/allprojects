@@ -24,10 +24,10 @@
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, world-fate_
 
-terms: [uji (being-time)](../terms/uji.md) · concepts: `cpt:being-time` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+terms: [uji (being-time)](../terms/uji.md) · concepts: [Being-time (uji)](../concepts/being-time.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

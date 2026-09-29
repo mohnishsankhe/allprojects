@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — MDh 2.17–24 (Brahmāvarta, Brahmarṣideśa, Madhyadeśa, Āryāvarta) was found; BDh 1.1.2.9–13 gives Āryāvarta and the mixed regions. Rests on teaching checks confirmed in this sweep: tea:manusmrti:2.17-24.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

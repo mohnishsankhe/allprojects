@@ -14,4 +14,4 @@
 - contrasts-with → [The three states and the fourth (avasthā-traya, turīya)](three-states-and-turiya.md)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

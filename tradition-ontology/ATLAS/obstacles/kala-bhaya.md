@@ -13,4 +13,4 @@ Kāla (Time/death) devours the unpractised; out of fear of it Brahmā, yogīs an
   - [Gorakṣaśataka](../texts/goraksasataka.md) — ref: 97-98; rests_on: ["tea:goraksasataka:97-98"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._

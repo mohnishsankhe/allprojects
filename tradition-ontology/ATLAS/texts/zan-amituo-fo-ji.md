@@ -27,10 +27,10 @@ Tanluan's hymn: in the West, ten trillion lands from here, is the Land of Peace 
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: all · types: ultimate, practice_
 
-terms: `trm:amitabha` · concepts: `cpt:twelve-lights` · practices: `prc:pure-land-hymns` · teachers: [Tanluan](../teachers/tanluan.md)
+terms: [Amitābha](../terms/amitabha.md) · concepts: [The twelve lights of Amitābha](../concepts/twelve-lights.md) · practices: [Pure Land hymns and six-period worship (lizan)](../practices/pure-land-hymns.md) · teachers: [Tanluan](../teachers/tanluan.md)
 
 
 _Notes: Opening read locally (T47n1978 420c13 ff.)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

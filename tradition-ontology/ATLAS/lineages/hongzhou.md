@@ -33,16 +33,16 @@ The school of Mazu Daoyi (709–788) in Jiangxi, which taught that the ordinary 
 [Extensive Record of Baizhang (Baizhang guanglu)](../texts/baizhang-guanglu.md), [Baolin Biographies (Baolin zhuan)](../texts/baolin-zhuan.md), [Regulations of the Chan School (Chanmen guishi)](../texts/chanmen-guishi.md), [Essentials of the Transmission of Mind (Chuanxin fayao)](../texts/chuanxin-fayao.md), [Treatise on the Essential Gate of Entering the Way through Sudden Awakening (Dunwu rudao yaomen lun)](../texts/dunwu-rudao-yaomen-lun.md), [Extensive Record of Mazu Daoyi (Mazu yulu)](../texts/mazu-yulu.md), [Wanling Record (Wanling lu)](../texts/wanling-lu.md), [Record of Zhaozhou (Zhaozhou lu)](../texts/zhaozhou-lu.md)
 
 ## Teachers
-[Baizhang Huaihai 百丈懷海](../teachers/baizhang.md), [Damei Fachang 大梅法常](../teachers/damei-fachang.md), [Gao'an Dayu 高安大愚](../teachers/dayu.md), [Dazhu Huihai 大珠慧海](../teachers/dazhu-huihai.md), [Guishan Lingyou 溈山靈祐](../teachers/guishan-lingyou.md), [Guizong Zhichang 歸宗智常](../teachers/guizong-zhichang.md), [Guling Shenzan 古靈神贊](../teachers/guling-shenzan.md), [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md), [Layman Pang (Pang Yun 龐蘊)](../teachers/layman-pang.md), [Linji Yixuan 臨濟義玄](../teachers/linji.md), [Mazu Daoyi 馬祖道一](../teachers/mazu.md), [Muzhou Daoming (Chen Zunsu) 睦州道明](../teachers/muzhou-daoming.md), [Nanquan Puyuan 南泉普願](../teachers/nanquan.md), [Nanyue Huairang 南嶽懷讓](../teachers/nanyue-huairang.md), [Pei Xiu 裴休](../teachers/pei-xiu.md), [Xitang Zhizang 西堂智藏](../teachers/xitang-zhizang.md), [Zhaozhou Congshen 趙州從諗](../teachers/zhaozhou.md), [Zhiju 智炬](../teachers/zhiju.md)
+[Baizhang Huaihai 百丈懷海](../teachers/baizhang.md), [Damei Fachang 大梅法常](../teachers/damei-fachang.md), [Gao'an Dayu 高安大愚](../teachers/dayu.md), [Dazhu Huihai 大珠慧海](../teachers/dazhu-huihai.md), [Guishan Lingyou 溈山靈祐](../teachers/guishan-lingyou.md), [Guizong Zhichang 歸宗智常](../teachers/guizong-zhichang.md), [Guling Shenzan 古靈神贊](../teachers/guling-shenzan.md), [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md), [Layman Pang (Pang Yun 龐蘊)](../teachers/layman-pang.md), [Linji Yixuan 臨濟義玄](../teachers/linji.md), [Mazu Daoyi 馬祖道一](../teachers/mazu.md), [Moshan Liaoran 末山了然](../teachers/moshan-liaoran.md), [Muzhou Daoming (Chen Zunsu) 睦州道明](../teachers/muzhou-daoming.md), [Nanquan Puyuan 南泉普願](../teachers/nanquan.md), [Nanyue Huairang 南嶽懷讓](../teachers/nanyue-huairang.md), [Pei Xiu 裴休](../teachers/pei-xiu.md), [Xitang Zhizang 西堂智藏](../teachers/xitang-zhizang.md), [Zhaozhou Congshen 趙州從諗](../teachers/zhaozhou.md), [Zhiju 智炬](../teachers/zhiju.md)
 
 ## Practices
-_none recorded_
+[Shouts and blows (he, bang)](../practices/shout-and-staff.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Is all activity the function of buddha-nature (Hongzhou), or must numinous knowing be recognised and cultivated (Zongmi)?](../debates/hongzhou-all-activity-buddha-nature.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

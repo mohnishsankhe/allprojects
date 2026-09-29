@@ -14,4 +14,4 @@
 Master of the instruction series who, by tradition, was born in China (or Khotan), studied with Mañjuśrīmitra, divided the instruction series into outer, inner, secret and innermost secret cycles, and taught Jñānasūtra, Vimalamitra, Padmasambhava and Vairocana; co-translator of the Kunjed Gyalpo according to its colophon.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

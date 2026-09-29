@@ -8,6 +8,7 @@
 
 ## Definitions by tradition
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Death as a power with its own path (RV 10.18.1) and fetters (AVŚ 8.1); 'may I be freed from death, not from immortality' (RV 7.59.12).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Death: 'I am all-seizing death' (10.34); the Lord delivers his devotees from the ocean of death and saṃsāra (12.7).
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Death personified; identified with the year, which wears away mortals' lives by days and nights (ŚB 10.4.3.1); his claims are limited by knowledge and rite.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Death, as a power and as a person: death covered all at the beginning (BAU 1.2.1); death as weariness seizing the functions (BAU 1.5.21); Yama, Death, is the teacher of Naciketas (KU).
 
@@ -15,6 +16,11 @@
 - Pali: maccu  — partial
 
 ## Equivalents (interpretation layer)
+**Related:** [saṃsāra](samsara.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:10.34, tea:bhagavad-gita:12.7 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch10-12, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:34 IST._

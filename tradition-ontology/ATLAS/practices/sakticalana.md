@@ -24,4 +24,4 @@ RESTRICTED — summary only: rousing kuṇḍalinī, who sleeps coiled above the
 - The ten mudrās are to be guarded like a jewel-box and told to no one. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 3.8-9
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

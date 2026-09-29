@@ -12,4 +12,4 @@ Against laziness: desire-to-act, effort, faith and pliancy; against forgetting t
 **Sequences:** `pth:nine-stages-calm-abiding`
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

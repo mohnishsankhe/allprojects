@@ -13,4 +13,4 @@ A poem on the life of Bhāskararāya said to have been written by his disciple J
 _Notes: Title and author from memory; the main traditional source for Bhāskararāya's life._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

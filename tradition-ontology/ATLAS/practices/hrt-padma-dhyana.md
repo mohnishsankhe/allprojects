@@ -15,4 +15,4 @@ Seated evenly, gaze at the nose-tip, purify the breath-channels, raise Oṃ in t
 - Keep far from the company of the attached; meditate in a secluded, safe place. — [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) 11.14.29-30
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

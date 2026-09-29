@@ -28,10 +28,10 @@ Since the Lotus society took the master of Lushan (Huiyuan) as its first patriar
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission_
 
-concepts: `cpt:pure-land-patriarchs` · teachers: [Huiyuan of Lushan](../teachers/huiyuan-lushan.md), [Shandao](../teachers/shandao.md), [Fazhao](../teachers/fazhao.md), [Shaokang](../teachers/shaokang.md), [Shengchang](../teachers/shengchang.md), [Changlu Zongze](../teachers/changlu-zongze.md)
+concepts: [The patriarchs of the Lotus (Pure Land) school](../concepts/pure-land-patriarchs.md) · teachers: [Huiyuan of Lushan](../teachers/huiyuan-lushan.md), [Shandao](../teachers/shandao.md), [Fazhao](../teachers/fazhao.md), [Shaokang](../teachers/shaokang.md), [Shengchang](../teachers/shengchang.md), [Changlu Zongze](../teachers/changlu-zongze.md)
 
 
 _Notes: Patriarch list read locally (T47n1969A 192b–c)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -15,4 +15,4 @@ Impurity — fivefold error — variegated by beginningless karma, afflictions a
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 2.28; rests_on: ["tea:yoga-bhasya:2.28"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._

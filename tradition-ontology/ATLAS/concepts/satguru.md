@@ -16,4 +16,4 @@
 - is-a → [The guru-principle](guru-principle.md) — rests on [guru-govind-dou-khare](../texts/kabir-oral-corpus.md#tea-kabir-oral-corpus-guru-govind-dou-khare)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

@@ -32,7 +32,7 @@ World-honoured One, with single mind I take refuge in the Tathāgata of Unhinder
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: practice, ultimate_
 
-terms: [yixin (the one mind)](../terms/yixin.md), `trm:amitabha` · concepts: `cpt:shinjin` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [yixin (the one mind)](../terms/yixin.md), [Amitābha](../terms/amitabha.md) · concepts: [Shinjin — true entrusting](../concepts/shinjin.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 230c21-22 <a id="tea-wangsheng-lun-230c21-22"></a>
 `skeleton` · confidence high
@@ -43,18 +43,18 @@ Contemplating the features of that world, it surpasses the paths of the three re
 
 _level: bridging · standpoint: cosmic · path: meditation, devotion · stage: all · types: world-fate, ultimate_
 
-concepts: [Pure lands and buddha-fields](../concepts/pure-lands.md), `cpt:twenty-nine-adornments`
+concepts: [Pure lands and buddha-fields](../concepts/pure-lands.md), [The twenty-nine adornments of Sukhāvatī](../concepts/twenty-nine-adornments.md)
 
 ### 231a14 <a id="tea-wangsheng-lun-231a14"></a>
 `skeleton` · confidence high
 
 It is a realm of Mahāyāna good roots, all equal, without even the name of anything reproachable; women, those with deficient faculties and those of the two-vehicle kind are not born there. The prose explains that the land is free of reproach both in substance (no persons of the two vehicles, no women, no one lacking faculties) and in name (not even these names are heard), for all are equal, of one mark.
 
-> 大乘善根界， 等無譏嫌名，女人及根缺， 二乘種不生。
+> 大乘善根界，等無譏嫌名。女人及根缺，二乘種不生，
 
 _level: conventional · standpoint: cosmic · path: devotion · stage: all · types: world-fate_
 
-concepts: `cpt:twenty-nine-adornments` · disputes: `dsp:women-caste-liberation`
+concepts: [The twenty-nine adornments of Sukhāvatī](../concepts/twenty-nine-adornments.md) · disputes: `dsp:women-caste-liberation`
 
 ### 231a24-25 <a id="tea-wangsheng-lun-231a24-25"></a>
 `skeleton` · confidence high
@@ -65,7 +65,7 @@ Contemplating the power of the Buddha's original vow, none who meet it pass by i
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:benyuan-li` · concepts: `cpt:other-power` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [benyuan li](../terms/benyuan-li.md) · concepts: [Other-power (tali / tariki)](../concepts/other-power.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 231b08-24 <a id="tea-wangsheng-lun-231b08-24"></a>
 `skeleton` · confidence high
@@ -76,7 +76,7 @@ Whoever perfects the five gates of mindfulness will certainly be born in the Lan
 
 _level: conventional · standpoint: seeker · path: devotion, meditation, sound · stage: all · types: practice_
 
-terms: `trm:wu-nianmen`, `trm:huixiang`, `trm:chengming` · concepts: `cpt:five-gates-of-mindfulness` · practices: `prc:five-gates-of-mindfulness`
+terms: [wu nianmen](../terms/wu-nianmen.md), [pariṇāmanā](../terms/parinamana.md), [chengming](../terms/chengming.md) · concepts: [The five gates of mindfulness (wu nianmen)](../concepts/five-gates-of-mindfulness.md) · practices: [The five gates of mindfulness (Vasubandhu)](../practices/five-gates-of-mindfulness.md)
 
 ### 231b24-232b04 <a id="tea-wangsheng-lun-231b24-232b04"></a>
 `skeleton` · confidence high
@@ -87,7 +87,7 @@ The object of contemplation is twenty-nine adornments: seventeen of the land (pu
 
 _level: conventional · standpoint: analytic · path: meditation · stage: intermediate · types: practice, world-fate_
 
-concepts: `cpt:twenty-nine-adornments` · practices: `prc:five-gates-of-mindfulness`
+concepts: [The twenty-nine adornments of Sukhāvatī](../concepts/twenty-nine-adornments.md) · practices: [The five gates of mindfulness (Vasubandhu)](../practices/five-gates-of-mindfulness.md)
 
 ### 232b22-25 <a id="tea-wangsheng-lun-232b22-25"></a>
 `skeleton` · confidence high
@@ -98,7 +98,7 @@ These three kinds of accomplishment are adornments of the vow-mind; in brief the
 
 _level: bridging · standpoint: absolute · path: knowledge, meditation · stage: advanced · types: ultimate_
 
-terms: [dharmakāya](../terms/dharmakaya.md), `trm:yi-faju` · concepts: `cpt:two-dharmakayas`, `cpt:twenty-nine-adornments`
+terms: [dharmakāya](../terms/dharmakaya.md), [yi faju](../terms/yi-faju.md) · concepts: [The two dharma-bodies (of dharma-nature and of expedient means)](../concepts/two-dharmakayas.md), [The twenty-nine adornments of Sukhāvatī](../concepts/twenty-nine-adornments.md)
 
 ### 232c03-233a04 <a id="tea-wangsheng-lun-232c03-233a04"></a>
 `skeleton` · confidence high
@@ -109,7 +109,7 @@ By broad and brief practice of śamatha and vipaśyanā the bodhisattva gains a 
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: advanced · types: practice, ethics_
 
-terms: `trm:huixiang`, [bodhicitta](../terms/bodhicitta.md) · concepts: `cpt:five-gates-of-mindfulness` · practices: `prc:huixiang`
+terms: [pariṇāmanā](../terms/parinamana.md), [bodhicitta](../terms/bodhicitta.md) · concepts: [The five gates of mindfulness (wu nianmen)](../concepts/five-gates-of-mindfulness.md) · practices: [Dedicating merit (pariṇāmanā)](../practices/dedication-of-merit.md)
 
 ### 233a05-25 <a id="tea-wangsheng-lun-233a05-25"></a>
 `skeleton` · confidence high
@@ -120,10 +120,10 @@ Five gates of merit are gradually accomplished: by worship one enters the first 
 
 _level: conventional · standpoint: seeker · path: devotion, meditation · stage: all · types: karma-liberation, practice_
 
-terms: `trm:genso-eko`, `trm:wu-nianmen` · concepts: `cpt:two-aspects-of-merit-transfer`, `cpt:five-gates-of-mindfulness`
+terms: [gensō ekō](../terms/genso-eko.md), [wu nianmen](../terms/wu-nianmen.md) · concepts: [The two aspects of merit transfer: going and returning](../concepts/two-aspects-of-merit-transfer.md), [The five gates of mindfulness (wu nianmen)](../concepts/five-gates-of-mindfulness.md)
 
 
 _Notes: Whole text read locally (T26n1524, 230c13–233a26)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

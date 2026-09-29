@@ -20,4 +20,4 @@ Ignorance, I-am-ness, attachment, aversion and clinging to life (2.3), rooted in
 - partial: `obs:klesa` — Same word as the Buddhist defilements; Yoga's list of five differs from Buddhist lists
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._

@@ -10,4 +10,4 @@
 Author of a Sphoṭasiddhi distinct from Maṇḍana's.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._

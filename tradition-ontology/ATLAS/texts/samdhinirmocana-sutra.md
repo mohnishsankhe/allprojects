@@ -5,7 +5,7 @@
 **Alternate titles:** Sūtra Explaining the Thought, Jie shenmi jing 解深密經 (T676, Xuanzang 647), Shenmi jietuo jing (T675, Bodhiruci 514), dgongs pa nges par 'grel pa (Toh 106)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Yogācāra](../lineages/yogacara.md), `lin:faxiang`, `lin:gelug`, `lin:jonang`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Yogācāra](../lineages/yogacara.md), `lin:faxiang`, [Gelug](../lineages/gelug.md), [Jonang (jo nang pa)](../lineages/jonang.md)
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana) (Tibetan: the third turning of the wheel); scholarly: Anonymous; layered composition c. 2nd-4th c.; quoted whole in the Yogācārabhūmi; confidence: high
 **Dates:** Scholarly account: c. 200-350 CE; (confidence moderate)
@@ -111,4 +111,4 @@ terms: [dharmakāya](../terms/dharmakaya.md), [āśraya-parāvṛtti](../terms/a
 _Notes: No Sanskrit survives (fragments quoted); Chinese T676 (vol. 16) not local; Tibetan D106 present in sources_raw/derge-kangyur (catalog:Derge-Kangyur:D106) but not read in this phase. Chapter-level refs, Lamotte/Tibetan numbering._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

@@ -94,7 +94,7 @@ Those who received the command hastily, before the appointed time, are called t�
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission, ethics_
 
-concepts: [The samaya pledges](../concepts/samaya.md) · obstacles: [Breaking the samaya pledges](../obstacles/samaya-bhanga.md), [Slandering and turning from the guru](../obstacles/guru-apavada.md)
+concepts: [The samaya pledges](../concepts/samaya.md) · obstacles: [Breaking the samaya](../obstacles/samaya-bhanga.md), [Slandering and turning from the guru](../obstacles/guru-apavada.md)
 
 ### 23 <a id="tea-kubjikamata-tantra-23"></a>
 `skeleton` · confidence moderate · _restricted: summary only_
@@ -107,4 +107,4 @@ practices: [Yogic departure from the body (utkrānti)](../practices/utkranti.md)
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._

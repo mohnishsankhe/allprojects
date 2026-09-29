@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The vital points (marma)](marma.md) (anatomy of vital points): Āyurveda's marmas: related idea, different count
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._

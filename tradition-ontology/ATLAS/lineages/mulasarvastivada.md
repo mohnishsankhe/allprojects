@@ -22,8 +22,8 @@ The Mūlasarvāstivāda is known chiefly through its enormous Vinaya, preserved 
   - [Sarvāstivāda](sarvastivada.md) — what: the Abhidharma of the seven books and the Kośa; evidence: shared Abhidharma; Yijing reports the Mūlasarvāstivāda as one of four nikāyas
 **Transmissions given:** 
   - [Nyingma (the Ancient / Old Translation school)](nyingma.md) — what: the monastic ordination lineage brought by Śāntarakṣita (the 'lower Vinaya' line)
-  - `lin:kadam` — what: the Vinaya lines of the later spread
-  - `lin:gelug` — what: Vinaya study through Guṇaprabha's Vinayasūtra, one of the five great texts of the monastic curriculum
+  - [Kadam](kadam.md) — what: the Vinaya lines of the later spread
+  - [Gelug](gelug.md) — what: Vinaya study through Guṇaprabha's Vinayasūtra, one of the five great texts of the monastic curriculum
 
 ## The ultimate in this lineage
 `skeleton` · confidence low
@@ -53,4 +53,4 @@ _none recorded_
 _Notes: Parent set to Sarvāstivāda for convergence purposes; the tradition regards it as the root of which the others are branches. Scholarly views differ (identity, a later compilation, or a separate group)._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

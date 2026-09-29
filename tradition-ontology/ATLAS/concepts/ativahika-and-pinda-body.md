@@ -13,4 +13,4 @@
 - part-of → [The cycle of rites for the dead](sraddha-cycle.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

@@ -27,8 +27,8 @@ The mind-nature of beings interpenetrates without obstruction, vast as space and
 
 _level: bridging · standpoint: absolute · path: knowledge, devotion · stage: all · types: ultimate, consciousness-mind_
 
-concepts: `cpt:mind-only-pure-land` · teachers: `tch:wonhyo`
+concepts: [The Pure Land as mind only (weixin jingtu)](../concepts/mind-only-pure-land.md) · teachers: `tch:wonhyo`
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

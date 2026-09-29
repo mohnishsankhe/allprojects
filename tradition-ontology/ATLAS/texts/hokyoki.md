@@ -23,8 +23,8 @@ Rujing tells Dōgen that practising Chan is body and mind dropping off; burning 
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: all · types: practice, teacher-transmission_
 
-terms: [shinjin datsuraku (body and mind dropping off)](../terms/shinjin-datsuraku.md), [shikantaza (just sitting)](../terms/shikantaza.md) · practices: `prc:shikantaza` · teachers: [Tiantong Rujing 天童如淨](../teachers/rujing.md), [Eihei Dōgen 永平道元](../teachers/dogen.md)
+terms: [shinjin datsuraku (body and mind dropping off)](../terms/shinjin-datsuraku.md), [shikantaza (just sitting)](../terms/shikantaza.md) · practices: [Shikantaza (just sitting)](../practices/shikantaza.md) · teachers: [Tiantong Rujing 天童如淨](../teachers/rujing.md), [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

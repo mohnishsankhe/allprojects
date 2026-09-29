@@ -17,4 +17,4 @@ Early lineage history by the layman Du Fei, beginning the Chinese line with Bodh
 _Notes: Dunhuang (T85 no. 2838); not held locally._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -15,4 +15,4 @@
 Vasubandhu's commentary on the Lotus, extant in Chinese (T1519, T1520): the one vehicle, the seven parables matched to seven kinds of arrogant beings, and three kinds of buddha-body.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

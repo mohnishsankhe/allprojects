@@ -8,7 +8,7 @@
 
 Singing the names, qualities and deeds of the Lord, alone or together, with drums and cymbals, often in call-and-response; one of the nine forms of devotion (BhP 7.5.23) and, in the Kali age, the chief means (BhP 11.5.32; 12.3.51–52). Its forms include congregational chanting of the name (nāma-saṅkīrtana), narrative singing (harikathā), rāga-based songs of the singer-saints, and temple kīrtan of the Puṣṭimārga.
 **Stage:** all
-**Signs of progress:** ['the voice falters, the heart melts, one weeps, laughs, sings aloud and dances unabashed (BhP 11.14.24)', "love born, heart melted, laughing, weeping and dancing 'like one mad' (BhP 11.2.40)", 'the Lord manifests and makes the devotee experience him (NBS 80)']
+**Signs of progress:** ['the voice falters, the heart melts, one weeps, laughs, sings aloud and dances unabashed (BhP 11.14.24)', "love born, heart melted, laughing, weeping and dancing 'like one mad' (BhP 11.2.40)", 'the Lord manifests and makes the devotee experience him (NBS 80)', 'Contentment and delight (tuṣyanti ca ramanti ca, 10.9); the gift of buddhiyoga (10.10).']
 **Sources:** 
   - [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) — ref: 7.5.23-24; 11.5.32; 12.3.51-52; 2.1.11; rests_on: ["tea:bhagavata-purana:7.5.23-24", "tea:bhagavata-purana:11.5.32", "tea:bhagavata-purana:12.3.51-52", "tea:bhagavata-purana:2.1.11"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.13-15; rests_on: ["tea:bhagavad-gita:9.13-15"]
@@ -24,6 +24,9 @@ Singing the names, qualities and deeds of the Lord, alone or together, with drum
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.14; rests_on: ["tea:bhagavad-gita:9.14"]
   - [Nāmdev Gāthā](../texts/namdev-gatha.md) — ref: nacu-kirtanace-rangi; rests_on: ["tea:namdev-gatha:nacu-kirtanace-rangi"]
   - [Rāmcaritmānas](../texts/ramcaritmanas.md) — ref: 7.97-103; rests_on: ["tea:ramcaritmanas:7.97-103"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 10.9; rests_on: ["tea:bhagavad-gita:10.9"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 10.10; rests_on: ["tea:bhagavad-gita:10.10"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 11.36; rests_on: ["tea:bhagavad-gita:11.36"]
   - [Śikṣāṣṭaka](../texts/siksastaka.md) — ref: 1; rests_on: ["tea:siksastaka:1"]
 
 ## The texts' own warnings
@@ -40,5 +43,6 @@ _Notes: U05's contribution to a shared practice._
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.14 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:10.9, tea:bhagavad-gita:10.10, tea:bhagavad-gita:11.36 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U31-sound-arts, skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory, extraction:bhagavad-gita/ch07-09, skeleton:U26-regional-bhakti, skeleton:U16-bhedabheda, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory, extraction:bhagavad-gita/ch07-09, skeleton:U26-regional-bhakti, extraction:bhagavad-gita/ch10-12, skeleton:U16-bhedabheda, skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

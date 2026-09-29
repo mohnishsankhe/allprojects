@@ -23,16 +23,16 @@ The branch of the Linji house descending from Yangqi Fanghui, which produced Wuz
 [Blue Cliff Record (Biyan lu)](../texts/biyan-lu.md), [Precious Lessons of the Chan Groves (Chanlin baoxun)](../texts/chanlin-baoxun.md), [Essentials of Chan (Chanyao) of Gaofeng](../texts/chanyao-gaofeng.md), [Letters of Dahui (Dahui shu)](../texts/dahui-shu.md), [Recorded Sayings of Dahui (Dahui Pujue chanshi yulu)](../texts/dahui-yulu.md), [Gateless Barrier (Wumen guan)](../texts/wumenguan.md), [Recorded Sayings of Xutang (Xutang heshang yulu)](../texts/xutang-lu.md), [Recorded Sayings of Yuanwu (Yuanwu Foguo chanshi yulu)](../texts/yuanwu-yulu.md), [Treasury of the True Dharma Eye (Zhengfayanzang) of Dahui](../texts/zhengfayanzang-dahui.md), [Arsenal of the Chan School (Zongmen wuku)](../texts/zongmen-wuku.md)
 
 ## Teachers
-[Baiyun Shouduan 白雲守端](../teachers/baiyun-shouduan.md), [Dachuan Puji 大川普濟](../teachers/dachuan-puji.md), [Dahui Zonggao 大慧宗杲](../teachers/dahui.md), [Gaofeng Yuanmiao 高峰原妙](../teachers/gaofeng-yuanmiao.md), [Huqiu Shaolong 虎丘紹隆](../teachers/huqiu-shaolong.md), [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md), [Lanxi Daolong 蘭溪道隆 (Rankei Dōryū)](../teachers/lanxi-daolong.md), [Mi'an Xianjie 密庵咸傑](../teachers/mian-xianjie.md), [Songyuan Chongyue 松源崇嶽](../teachers/songyuan-chongyue.md), [Wumen Huikai 無門慧開](../teachers/wumen-huikai.md), [Wuxue Zuyuan 無學祖元 (Mugaku Sogen)](../teachers/wuxue-zuyuan.md), [Wuzhun Shifan 無準師範](../teachers/wuzhun-shifan.md), [Wuzu Fayan 五祖法演](../teachers/wuzu-fayan.md), [Xueyan Zuqin 雪巖祖欽](../teachers/xueyan-zuqin.md), [Xutang Zhiyu 虛堂智愚](../teachers/xutang-zhiyu.md), [Yangqi Fanghui 楊岐方會](../teachers/yangqi-fanghui.md), [Yuanwu Keqin 圜悟克勤](../teachers/yuanwu-keqin.md), [Zhongfeng Mingben 中峰明本](../teachers/zhongfeng-mingben.md), [Zhuoan Deguang 拙庵德光](../teachers/zhuoan-deguang.md), [Mixian Zongshao 彌衍宗紹](../teachers/zongshao.md)
+[Baiyun Shouduan 白雲守端](../teachers/baiyun-shouduan.md), [Dachuan Puji 大川普濟](../teachers/dachuan-puji.md), [Dahui Zonggao 大慧宗杲](../teachers/dahui.md), [Gaofeng Yuanmiao 高峰原妙](../teachers/gaofeng-yuanmiao.md), [Huqiu Shaolong 虎丘紹隆](../teachers/huqiu-shaolong.md), [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md), [Lanxi Daolong 蘭溪道隆 (Rankei Dōryū)](../teachers/lanxi-daolong.md), [Mi'an Xianjie 密庵咸傑](../teachers/mian-xianjie.md), [Miaodao 妙道](../teachers/miaodao.md), [Songyuan Chongyue 松源崇嶽](../teachers/songyuan-chongyue.md), [Wumen Huikai 無門慧開](../teachers/wumen-huikai.md), [Wuxue Zuyuan 無學祖元 (Mugaku Sogen)](../teachers/wuxue-zuyuan.md), [Wuzhun Shifan 無準師範](../teachers/wuzhun-shifan.md), [Wuzhuo Miaozong 無著妙總](../teachers/wuzhuo-miaozong.md), [Wuzu Fayan 五祖法演](../teachers/wuzu-fayan.md), [Xueyan Zuqin 雪巖祖欽](../teachers/xueyan-zuqin.md), [Xutang Zhiyu 虛堂智愚](../teachers/xutang-zhiyu.md), [Yangqi Fanghui 楊岐方會](../teachers/yangqi-fanghui.md), [Yuanwu Keqin 圜悟克勤](../teachers/yuanwu-keqin.md), [Zhongfeng Mingben 中峰明本](../teachers/zhongfeng-mingben.md), [Zhuoan Deguang 拙庵德光](../teachers/zhuoan-deguang.md), [Mixian Zongshao 彌衍宗紹](../teachers/zongshao.md)
 
 ## Practices
-_none recorded_
+[Huatou / hwadu (observing the critical phrase)](../practices/huatou.md), [Kōan introspection (sanzen, kōan practice)](../practices/koan-introspection.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Kōan (critical-phrase) introspection or silent illumination?](../debates/koan-or-silent-illumination.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

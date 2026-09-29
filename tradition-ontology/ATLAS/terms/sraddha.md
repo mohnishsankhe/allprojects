@@ -20,6 +20,8 @@
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Faith: offered by the gods into the fire of yonder world (ChU 5.4; BAU 6.2.9); 'have faith' (ChU 6.12.2); head of the self made of understanding (TU 2.4); 'give with faith' (TU 1.11).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Faith: firm trust in the words of scripture and teacher, by which the truth is grasped.
 - [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md): Faith — firm trust that by devotion to Kṛṣṇa all is accomplished; the first stage.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Faith: those who worship the Lord endowed with supreme faith are the most yoked (12.2); those who with faith attend to this nectar of dharma are exceedingly dear to him (12.20).
+- [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md): Faith (xin): 'if one plants good roots but doubts, the lotus does not open; with pure faith it opens'; faith is the source of the way (Wang Rixiu); the first of Ouyi's three provisions.
 - [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md): In the six-bhakti scheme of the vacana and manual tradition, the devotion characteristic of the bhakta stage. In the SSM's inner worship faith is the incense (12.13–20).
 - [Madhyamaka](../lineages/madhyamaka.md): Faith goes first and wisdom is chief (RĀ 1.5); the root to be made firm before setting the mind on awakening (ŚSK 2).
 
@@ -27,6 +29,7 @@
 - Pali: saddhā  — partial
 - Tibetan: dad pa  — exact
 - Chinese: xin 信  — exact
+- Chinese: xin / xinxin 信 / 信心 — partial
 
 ## Equivalents (interpretation layer)
 **Related:** [bhakti](bhakti.md), [asūyā](asuya.md), [mata](mata.md), [saṃśaya](samsaya.md)
@@ -38,5 +41,6 @@ _Notes: Not to be confused with śrāddha, the ancestral rite (trm:sraddha-ances
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.21, tea:bhagavad-gita:7.22, tea:bhagavad-gita:9.3, tea:bhagavad-gita:9.23 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.39, tea:bhagavad-gita:4.40, tea:bhagavad-gita:6.37, tea:bhagavad-gita:6.47 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:12.2, tea:bhagavad-gita:12.20 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U39-mahayana-sutras, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U16-bhedabheda, skeleton:U20-virasaiva, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U39-mahayana-sutras, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U16-bhedabheda, extraction:bhagavad-gita/ch10-12, skeleton:U43-pure-land, skeleton:U20-virasaiva, skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

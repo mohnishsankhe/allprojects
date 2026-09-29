@@ -28,7 +28,7 @@ All buddhas and sentient beings are only the one mind; there is no other dharma.
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-terms: [yixin (the one mind)](../terms/yixin.md) · concepts: `cpt:one-mind-chan` · teachers: [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md)
+terms: [yixin (the one mind)](../terms/yixin.md) · concepts: [The one mind](../concepts/one-mind-chan.md) · teachers: [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md)
 
 ### 380a13 <a id="tea-chuanxin-fayao-380a13"></a>
 `skeleton` · confidence high
@@ -39,18 +39,18 @@ In this one mind not a speck of dharma can be attained; this very mind is buddha
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, practice_
 
-terms: [wuxin (no-mind)](../terms/wuxin.md), [jixin jifo (this very mind is buddha)](../terms/jixin-jifo.md) · concepts: `cpt:no-mind`
+terms: [wuxin (no-mind)](../terms/wuxin.md), [jixin jifo (this very mind is buddha)](../terms/jixin-jifo.md) · concepts: [No-mind (wuxin)](../concepts/no-mind.md)
 
 ### 380b02 <a id="tea-chuanxin-fayao-380b02"></a>
 `skeleton` · confidence high
 
-Only be without mind (wuxin) and that is the ultimate; if students of the Way do not become without mind right now, they will not accomplish the Way however many kalpas they practise; some attain no-mind on hearing the Dharma in a single thought, others only after the ten stages — the attainment is the same, the latter only suffered longer.
+Only be without mind (wuxin) and that is the ultimate; if students of the Way do not become without mind right now, they will not accomplish the Way however many kalpas they practise; some attain no-mind in a single thought on hearing the Dharma, others only after passing through the ten faiths, abodes, practices and dedications — the attainment is equal, the latter only laboured longer.
 
 > 但能無心。便是究竟。學道人若不直下無心。累劫修行終不成道
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: practice, karma-liberation_
 
-terms: [wuxin (no-mind)](../terms/wuxin.md) · concepts: `cpt:no-mind` · teachers: [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md) · disputes: `dsp:sudden-or-gradual`
+terms: [wuxin (no-mind)](../terms/wuxin.md) · concepts: [No-mind (wuxin)](../concepts/no-mind.md) · teachers: [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md) · disputes: `dsp:sudden-or-gradual`
 
 ### 381c05 <a id="tea-chuanxin-fayao-381c05"></a>
 `skeleton` · confidence high
@@ -61,8 +61,8 @@ At the time of death one should only contemplate that the five aggregates are em
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: death-dying, powers-experiences_
 
-concepts: `cpt:chan-death-and-dying`
+concepts: [Death and dying in Chan](../concepts/chan-death-and-dying.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

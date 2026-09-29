@@ -20,4 +20,4 @@ Bhaṭṭa Bhāskara Miśra's commentary on the Taittirīya Saṃhitā (and Brā
 
 - 2026-09-28 websearch: partially-confirmed — https://catalog.hathitrust.org/Record/000816384, https://www.qalamos.net/receive/MyMssWork_work_00006074, https://archive.org/details/in.ernet.dli.2015.312238 — Existence, title (Jñānayajña), author and scope (Taittirīya Saṃhitā, Brāhmaṇa and Āraṇyaka), and its priority to Sāyaṇa are confirmed. The date 'c. 11th century' could not be confirmed from the sources found (kept at low confidence).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._

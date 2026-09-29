@@ -12,4 +12,4 @@ Laziness, boasting, the company of rogues, mantra-sādhana, alchemy (dhātuvāda
   - [Dattātreyayogaśāstra](../texts/dattatreyayogasastra.md) — ref: 47-48; rests_on: ["tea:dattatreyayogasastra:47-48"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._

@@ -13,4 +13,4 @@
 Rajput king of Gāgraun who renounced his throne to become a disciple of Rāmānanda and a wandering devotee with his wife Sītā; one hymn in the Ādi Granth ('the body is the temple, the body is the pilgrim').
 
 ---
-_Contributed by: skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

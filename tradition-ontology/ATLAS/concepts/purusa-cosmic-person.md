@@ -14,4 +14,4 @@
 - causes → [The four varṇas in the Puruṣa Sūkta](varna-in-purusa-sukta.md): The four varṇas are said to come from the Person's mouth, arms, thighs and feet. — rests on [10.90.11-12](../texts/rgveda.md#tea-rgveda-10-90-11-12)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._

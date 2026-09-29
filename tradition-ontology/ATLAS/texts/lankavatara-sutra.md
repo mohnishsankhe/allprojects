@@ -157,4 +157,4 @@ concepts: [The four yogic stages (Laṅkāvatāra)](../concepts/four-yogic-stage
 _Notes: Locator: chapter.pPAGE (Vaidya's page). Chapter colophons and cited passages read in the local e-text._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

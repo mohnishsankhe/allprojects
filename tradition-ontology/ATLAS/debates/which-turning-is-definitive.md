@@ -18,14 +18,14 @@ The first two turnings are surpassable and provisional; the third, which disting
 - The Saṃdhinirmocana's own statement about the three turnings.
 **Texts:** 
   - [Saṃdhinirmocana-sūtra](../texts/samdhinirmocana-sutra.md) — ref: ch. 7
-### `lin:jonang`
+### [Jonang (jo nang pa)](../lineages/jonang.md)
 The third turning's tathāgatagarbha sūtras and the Ratnagotravibhāga are definitive: the ultimate (dharmakāya, buddha-nature) is empty of what is other than it — the adventitious stains — and not empty of its own qualities (shentong).
 - Śrīmālā ch. 9 and RGV 1.154-155: empty of stains, not empty of qualities.
 - Dolpopa's Mountain Doctrine (U48).
 **Texts:** 
   - [Śrīmālādevīsiṃhanāda-sūtra](../texts/srimaladevi-sutra.md) — ref: ch. 9
   - [Ratnagotravibhāga (Mahāyānottaratantraśāstra)](../texts/ratnagotravibhaga.md) — ref: 1.154-155
-  - `src:mountain-doctrine` — 
+  - [Mountain Doctrine: Ocean of Definitive Meaning (ri chos nges don rgya mtsho)](../texts/mountain-doctrine.md) — 
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -36,4 +36,4 @@ The third turning's tathāgatagarbha sūtras and the Ratnagotravibhāga are defi
 **Queue:** RQ-U39-3
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

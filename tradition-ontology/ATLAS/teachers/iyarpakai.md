@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A merchant who never refused a devotee; wh
 **Realization — the tradition's account:** A merchant who never refused a devotee; when Śiva came as a brahmin and asked for his wife, he gave her, fought off his kinsmen who tried to stop them, and escorted the pair out of town — whereupon Śiva revealed himself.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

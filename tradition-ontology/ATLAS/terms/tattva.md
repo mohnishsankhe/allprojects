@@ -12,6 +12,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): A principle of the Sāṃkhya enumeration: twenty-four together with prakṛti, the twenty-fifth beyond them (MBh 12.294.42); listed in the field of BhG 13.5.
 - [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md): The thirty-six principles, which are the waves and bubbles of Śiva as the ocean of consciousness (SSM 1.3).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: Knowing the Lord's birth and action 'in truth' (tattvataḥ) frees from rebirth (4.9); the knower of reality (tattvavit) thinks 'I do nothing' (5.8); established in the happiness of yoga one does not waver from reality (6.21); truth-seeing knowers teach (4.34).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: whoever knows the Lord's vibhūti and yoga in truth (tattvataḥ) is joined with unwavering yoga (10.7); by undivided devotion he can be known and seen in truth (tattvena) and entered (11.54).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): One of the seven (or nine) realities whose true understanding and acceptance is right view (TS 1.2, 1.4).
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): (1) Reality, to which the mind is joined and dissolves (HYP 4.59). (2) In the svara science, the five elements present in the flow of breath (Śiva Svarodaya).
 - [Madhyamaka](../lineages/madhyamaka.md): Reality, whose mark is to be not dependent on another, peaceful, unelaborated, non-conceptual and without multiplicity (MMK 18.9); those who do not know the two truths do not know it (24.9).
@@ -35,5 +36,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.9, tea:bhagavad-gita:5.8, tea:bhagavad-gita:6.21, tea:bhagavad-gita:4.34 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:10.7, tea:bhagavad-gita:11.54 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U20-virasaiva, extraction:bhagavad-gita/ch04-06, skeleton:U35-jain-philosophy, skeleton:U28-hatha-texts, skeleton:U40-madhyamaka, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U20-virasaiva, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U28-hatha-texts, skeleton:U40-madhyamaka, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

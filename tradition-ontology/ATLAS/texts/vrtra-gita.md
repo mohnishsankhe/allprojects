@@ -35,4 +35,4 @@ _level: conventional · standpoint: causal · path: knowledge · stage: all · t
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.270.13-24 Vṛtra, Uśanas; 12.271.3-6 Sanatkumāra; 12.271.33 — Section located at CE 12.270-271 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

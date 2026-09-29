@@ -15,4 +15,4 @@
 _Notes: Scholarly account (labeled): known chiefly from the 15th-c. Śūnyasampādane and later hagiography; its form as a formal institution is debated._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._

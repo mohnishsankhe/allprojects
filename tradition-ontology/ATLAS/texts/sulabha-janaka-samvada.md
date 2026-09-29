@@ -24,4 +24,4 @@ The wandering female ascetic Sulabhā, doubting king Dharmadhvaja Janaka's claim
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.308.4 Dharmadhvaja; 12.308.7, 16; 12.308.24, 163 Pañcaśikha named — Section located at CE 12.308 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._

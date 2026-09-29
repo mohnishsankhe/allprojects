@@ -19,7 +19,7 @@ Dharmakīrti's great verse treatise re-founding Buddhist epistemology: the reaso
 **Editions / translations:** 
   - kind: original; name: R. Sāṅkṛtyāyana 1938 / Y. Miyasaka 1971–72 — local DSBC e-text; licence: ancient text public domain; e-text for research use (DSBC / GRETIL terms)
   - kind: original; name: Tibetan: Derge D4210
-**Commentaries on this text:** [Pramāṇavārttikālaṅkāra](pramanavarttikalankara.md), [Pramāṇavārttikapañjikā](pramanavarttikapanjika.md), [Pramāṇavārttikasvavṛtti](pramanavarttikasvavrtti.md), [Pramāṇavārttikavṛtti (Manorathanandin)](pramanavarttikavrtti-manorathanandin.md), [Rnam 'grel thar lam gsal byed](rnam-grel-thar-lam-gsal-byed.md)
+**Commentaries on this text:** [Pramāṇavārttikālaṅkāra](pramanavarttikalankara.md), [Pramāṇavārttikapañjikā](pramanavarttikapanjika.md), [Pramāṇavārttikasvavṛtti](pramanavarttikasvavrtti.md), [Pramāṇavārttikavṛtti (Manorathanandin)](pramanavarttikavrtti-manorathanandin.md), [Illuminating the Path to Liberation (rnam 'grel thar lam gsal byed)](rnam-grel-thar-lam-gsal-byed.md)
 
 ## Teachings (23: skeleton 23)
 
@@ -266,4 +266,4 @@ terms: [āgama](../terms/agama.md) · teachers: [Dharmakīrti](../teachers/dharm
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

@@ -14,4 +14,4 @@ Pre-Śaṅkara Vedāntin and commentator on the Bṛhadāraṇyaka (and reported
 _Notes: The list of eight 'states' (avasthā) of Brahman ascribed to him by Sureśvara is recalled with low confidence and not recorded as a teaching._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._

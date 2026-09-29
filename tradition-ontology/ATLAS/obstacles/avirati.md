@@ -13,4 +13,4 @@ The mind's greed for contact with objects. One of the nine obstacles (1.30, YBh 
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.30; rests_on: ["tea:yoga-bhasya:1.30"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._

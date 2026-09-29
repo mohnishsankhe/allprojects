@@ -17,4 +17,4 @@ Fayan Wenyi's critique of the faults of Chan teachers of his time: not having cl
 _Notes: Not held locally; the list of ten is summarised from memory — details low confidence._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

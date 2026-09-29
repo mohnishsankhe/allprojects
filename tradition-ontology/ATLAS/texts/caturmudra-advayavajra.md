@@ -24,7 +24,7 @@ The four seals are action seal (karmamudrā), dharma seal, great seal (mahāmudr
 
 _level: ultimate · standpoint: analytic · path: knowledge, body-breath · stage: advanced · types: ultimate, practice_
 
-terms: `trm:caturmudra`, [mahāmudrā](../terms/mahamudra.md), `trm:karmamudra` · concepts: `cpt:four-seals` · teachers: [Maitrīpa (Advayavajra)](../teachers/maitripa.md)
+terms: [caturmudrā](../terms/caturmudra.md), [mahāmudrā](../terms/mahamudra.md), [karmamudrā](../terms/karmamudra.md) · concepts: [The four seals (caturmudrā)](../concepts/four-seals.md) · teachers: [Maitrīpa (Advayavajra)](../teachers/maitripa.md)
 
 ### 4-verse <a id="tea-caturmudra-advayavajra-4-verse"></a>
 `skeleton` · confidence high
@@ -35,10 +35,10 @@ No mantra recitation, no austerity, no fire offering, no maṇḍala dweller and
 
 _level: ultimate · standpoint: absolute · path: ritual · stage: realized · types: ultimate, practice_
 
-concepts: `cpt:critique-of-ritual-siddha` · teachers: [Maitrīpa (Advayavajra)](../teachers/maitripa.md)
+concepts: [The siddhas' critique of ritual, caste and scholasticism](../concepts/critique-of-ritual-siddha.md) · teachers: [Maitrīpa (Advayavajra)](../teachers/maitripa.md)
 
 
 _Notes: The Tibetan Caturmudrāniścaya (Tōh 2225) is ascribed to Nāgārjuna; the relation to Advayavajra's text is not settled here._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

@@ -12,4 +12,4 @@ Prefer foods that increase life, vitality, strength, health, happiness and cheer
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.7–10; rests_on: ["tea:bhagavad-gita:17.7-10"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._

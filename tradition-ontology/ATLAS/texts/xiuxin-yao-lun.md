@@ -29,7 +29,7 @@ Asked whether guarding one's own mind is better than recollecting another buddha
 
 _level: bridging · standpoint: polemical · path: meditation, devotion · stage: all · types: practice_
 
-practices: `prc:shouxin`
+practices: [Guarding the mind (shouxin)](../practices/shouxin.md)
 
 ### 377c03 <a id="tea-xiuxin-yao-lun-377c03"></a>
 `skeleton` · confidence high
@@ -40,8 +40,8 @@ Guarding the original true mind, deluded thoughts do not arise, the sense of 'mi
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice, karma-liberation_
 
-terms: [shouxin (guarding the mind)](../terms/shouxin.md) · concepts: `cpt:east-mountain-guarding-mind` · practices: `prc:shouxin` · teachers: [Hongren 弘忍](../teachers/hongren.md)
+terms: [shouxin (guarding the mind)](../terms/shouxin.md) · concepts: [Guarding the mind (East Mountain)](../concepts/east-mountain-guarding-mind.md) · practices: [Guarding the mind (shouxin)](../practices/shouxin.md) · teachers: [Hongren 弘忍](../teachers/hongren.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

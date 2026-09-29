@@ -54,4 +54,4 @@ terms: [pratyekabuddha](../terms/pratyekabuddha-jain.md) · teachers: [Pārśva 
 
 
 ---
-_Contributed by: skeleton:U33-sramana, skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U33-sramana, skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

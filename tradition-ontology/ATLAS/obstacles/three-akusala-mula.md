@@ -16,8 +16,8 @@ Greed, hatred and delusion — the roots of the unwholesome (MN 9), the three fi
   - [Kālāma Sutta](../texts/kalama-sutta.md) — ref: 5-16; rests_on: ["tea:kalama-sutta:5-16"]
 
 ## Equivalents (interpretation layer)
-- exact: [The three roots of bad (greed, hatred, delusion)](three-poisons.md) — the same three under the later name 'three poisons'
+- exact: [The three poisons](three-poisons.md) — the same three under the later name 'three poisons'
 - partial: [The five afflictions (kleśa)](five-klesas.md) — the Yoga kleśas include rāga and dveṣa; avidyā corresponds partly to moha
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

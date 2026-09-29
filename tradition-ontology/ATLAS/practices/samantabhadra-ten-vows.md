@@ -11,4 +11,4 @@ Recitation and practice of the ten vows of the 40-fascicle Avataṃsaka, dedicat
   - [Bhadracarīpraṇidhāna](../texts/bhadracaripranidhana.md) — ref: T293 fasc. 40; rests_on: ["tea:bhadracaripranidhana:ten-vows"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

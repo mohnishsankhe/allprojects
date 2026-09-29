@@ -24,7 +24,7 @@ To think that practice and realization are not one is a non-Buddhist view; in th
 
 _level: ultimate · standpoint: absolute · path: meditation · stage: all · types: practice, ultimate_
 
-terms: [shushō ittō (oneness of practice and realization)](../terms/shusho-itto.md) · concepts: `cpt:practice-and-realization` · practices: `prc:shikantaza` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+terms: [shushō ittō (oneness of practice and realization)](../terms/shusho-itto.md) · concepts: [Practice and realization](../concepts/practice-and-realization.md) · practices: [Shikantaza (just sitting)](../practices/shikantaza.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 ### srenika <a id="tea-bendowa-srenika"></a>
 `skeleton` · confidence high
@@ -33,10 +33,10 @@ Rejects the view that the mind-nature is permanent while the body perishes, so t
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate, death-dying_
 
-concepts: `cpt:srenika-heresy` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md) · disputes: `dsp:srenika-heresy`
+concepts: [The 'Śreṇika heresy' (eternal mind-nature in a perishing body)](../concepts/srenika-heresy.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md) · disputes: [Is there a permanent mind-nature that leaves the perishing body at death?](../debates/srenika-heresy.md)
 
 
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

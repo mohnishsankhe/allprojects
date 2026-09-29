@@ -19,4 +19,4 @@ Contracting the throat and setting the chin firmly on the chest (HYP 3.70; GS 3.
   - [Yogakuṇḍalī Upaniṣad](../texts/yogakundali-upanisad.md) — ref: 1.40-52; rests_on: ["tea:yogakundali-upanisad:1.40-52"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._

@@ -13,4 +13,4 @@
 Brief glosses (dīpikā) by a commentator named Nārāyaṇa on many Atharvan and minor Upaniṣads, including texts outside the Muktikā list; used by Colebrooke's and later catalogues to define an 'Atharvan' list of 52.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

@@ -13,4 +13,4 @@
 Rāghavāṅka's ṣaṭpadi retelling of King Hariścandra's trials for the sake of truth; a classic of the Vīraśaiva poets, though not a doctrinal Vīraśaiva work.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._

@@ -22,8 +22,8 @@ Asked how to say the nenbutsu, Ippen cites Kūya: 'only by casting away' — the
 
 _level: ultimate · standpoint: apophatic · path: devotion, sound · stage: advanced · types: practice, ultimate_
 
-terms: `trm:sutete-koso` · concepts: `cpt:name-as-birth-ippen` · teachers: [Ippen](../teachers/ippen.md), [Kūya](../teachers/kuya.md)
+terms: [sutete koso](../terms/sutete-koso.md) · concepts: [The name as itself birth (Ippen)](../concepts/name-as-birth-ippen.md) · teachers: [Ippen](../teachers/ippen.md), [Kūya](../teachers/kuya.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -22,4 +22,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.19, tea:bhagavad-gita:6.2, tea:bhagavad-gita:6.4, tea:bhagavad-gita:6.24 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U09-samkhya, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U09-samkhya, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

@@ -18,4 +18,4 @@ A South Indian digest of Dharmaśāstra on conduct, law and impurity.
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/smriticandrika, https://archive.org/details/smritichandrika015336mbp — Extant (Mysore edition by Srinivasachar and Shamasastry). Devaṇṇabhaṭṭa's South Indian digest is dated 13th c. by Wisdomlib (another estimate: 1150–1200 CE), which supports the entry's 'c. 13th c.'.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

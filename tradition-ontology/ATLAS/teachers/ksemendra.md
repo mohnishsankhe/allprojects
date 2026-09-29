@@ -12,4 +12,4 @@
 Kashmiri polymath, pupil of Abhinavagupta, author of the Aucityavicāracarcā on propriety.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._

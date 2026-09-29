@@ -12,4 +12,4 @@ The anus set on the right ankle and the other foot, turned the other way, on the
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 2.38; rests_on: ["tea:gheranda-samhita:2.38"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._

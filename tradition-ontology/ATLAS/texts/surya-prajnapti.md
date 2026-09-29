@@ -11,4 +11,4 @@
 Jain canonical upāṅga on the courses of the sun, moon and asterisms in Jambūdvīpa, with the Jain doctrine of two suns and two moons and a five-year yuga close to that of the Vedāṅga Jyotiṣa.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._

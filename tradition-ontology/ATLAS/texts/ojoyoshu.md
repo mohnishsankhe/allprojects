@@ -27,7 +27,7 @@ The first chapter describes the six paths to be loathed — the eight great hell
 
 _level: conventional · standpoint: cosmic · path: devotion, meditation · stage: beginner · types: world-fate, karma-liberation_
 
-concepts: `cpt:loathing-this-world-seeking-the-pure-land` · teachers: [Genshin](../teachers/genshin.md)
+concepts: [Loathing this defiled world, joyfully seeking the Pure Land](../concepts/loathing-this-world-seeking-the-pure-land.md) · teachers: [Genshin](../teachers/genshin.md)
 
 ### 2 <a id="tea-ojoyoshu-2"></a>
 `skeleton` · confidence moderate
@@ -36,7 +36,7 @@ The second chapter sets out ten pleasures of the Pure Land: being welcomed by th
 
 _level: conventional · standpoint: cosmic · path: devotion · stage: beginner · types: world-fate, karma-liberation_
 
-concepts: `cpt:loathing-this-world-seeking-the-pure-land`, [Pure lands and buddha-fields](../concepts/pure-lands.md) · teachers: [Genshin](../teachers/genshin.md)
+concepts: [Loathing this defiled world, joyfully seeking the Pure Land](../concepts/loathing-this-world-seeking-the-pure-land.md), [Pure lands and buddha-fields](../concepts/pure-lands.md) · teachers: [Genshin](../teachers/genshin.md)
 
 ### 4 <a id="tea-ojoyoshu-4"></a>
 `skeleton` · confidence high
@@ -45,7 +45,7 @@ The right practice follows Vasubandhu's five gates — worship, praise, aspirati
 
 _level: conventional · standpoint: seeker · path: meditation, devotion, sound · stage: all · types: practice_
 
-concepts: `cpt:embraced-never-abandoned` · practices: `prc:five-gates-of-mindfulness`, `prc:guanxiang-nianfo`, [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Genshin](../teachers/genshin.md)
+concepts: [Embraced, never to be abandoned (shequ bu she)](../concepts/embraced-never-abandoned.md) · practices: [The five gates of mindfulness (Vasubandhu)](../practices/five-gates-of-mindfulness.md), [Recollection of the Buddha's body and qualities](../practices/buddhanusmrti-mahayana.md), [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Genshin](../teachers/genshin.md)
 
 ### 6.deathbed <a id="tea-ojoyoshu-6-deathbed"></a>
 `skeleton` · confidence high
@@ -54,7 +54,7 @@ Deathbed practice: following the Jetavana custom the sick monk is moved to a sep
 
 _level: conventional · standpoint: ritual · path: devotion, sound · stage: all · types: death-dying, practice_
 
-terms: `trm:rinju-gyogi`, `trm:linzhong-zhengnian` · concepts: `cpt:deathbed-practice` · practices: `prc:deathbed-rites` · teachers: [Genshin](../teachers/genshin.md)
+terms: [rinjū gyōgi](../terms/rinju-gyogi.md), [linzhong zhengnian](../terms/linzhong-zhengnian.md) · concepts: [Deathbed practice and right mindfulness at death](../concepts/deathbed-practice.md) · practices: [Deathbed rites for birth (linzhong xingyi / rinjū gyōgi)](../practices/deathbed-rites.md) · teachers: [Genshin](../teachers/genshin.md)
 
 ### nenbutsu-foundation <a id="tea-ojoyoshu-nenbutsu-foundation"></a>
 `skeleton` · confidence low
@@ -72,10 +72,10 @@ The teaching and practice for birth in the Land of Bliss are the eyes and feet f
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: beginner · types: practice, world-fate_
 
-terms: `trm:mofa`, [nianfo](../terms/nianfo.md) · concepts: `cpt:three-periods-of-the-dharma` · teachers: [Genshin](../teachers/genshin.md)
+terms: [mofa](../terms/mofa.md), [nianfo](../terms/nianfo.md) · concepts: [The three ages of the Dharma (true, semblance, final)](../concepts/three-periods-of-the-dharma.md) · teachers: [Genshin](../teachers/genshin.md)
 
 
 _Notes: Text not in the local corpus; chapter structure and teachings recalled._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -12,4 +12,4 @@ Argument is not to be resorted to, because it gives room for excess and is incon
   - [Nārada Bhakti Sūtra](../texts/narada-bhakti-sutra.md) — ref: 74-75; rests_on: ["tea:narada-bhakti-sutra:74-75"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._

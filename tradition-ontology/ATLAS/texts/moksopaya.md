@@ -588,4 +588,4 @@ concepts: [The world as the mind's projection](../concepts/world-as-projection-o
 _Notes: Lineage placement is by reception only (the Vedāntic recension was absorbed by Advaita); the Halle editors regard the Mokṣopāya as neither Advaita nor Śaiva. It is scholarly metadata for the Yoga Vāsiṣṭha as well as a text in its own right; U06 anchors Book 4 and Book 6 teachings on it._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

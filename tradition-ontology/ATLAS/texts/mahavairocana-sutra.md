@@ -26,7 +26,7 @@ The Lord teaches that the gnosis of omniscience has bodhicitta as its cause, com
 
 _level: bridging · standpoint: divine · path: knowledge, action · stage: all · types: practice, ethics_
 
-concepts: `cpt:three-phrases-mahavairocana`
+concepts: [The three phrases of the Mahāvairocana](../concepts/three-phrases-mahavairocana.md)
 
 ### 1.mind <a id="tea-mahavairocana-sutra-1-mind"></a>
 `skeleton` · confidence moderate
@@ -35,7 +35,7 @@ What is awakening? It is to know one's own mind as it truly is.
 
 _level: ultimate · standpoint: divine · path: knowledge, meditation · stage: all · types: consciousness-mind, ultimate_
 
-concepts: `cpt:three-phrases-mahavairocana`
+concepts: [The three phrases of the Mahāvairocana](../concepts/three-phrases-mahavairocana.md)
 
 ### 2 <a id="tea-mahavairocana-sutra-2"></a>
 `skeleton` · confidence moderate
@@ -44,7 +44,7 @@ The Womb maṇḍala arisen from great compassion is taught, with the Buddha Mah
 
 _level: conventional · standpoint: ritual · path: ritual · stage: intermediate · types: practice_
 
-concepts: `cpt:womb-and-vajra-mandalas`
+concepts: [The Womb and Vajra maṇḍalas](../concepts/womb-and-vajra-mandalas.md)
 
 ### a-syllable <a id="tea-mahavairocana-sutra-a-syllable"></a>
 `skeleton` · confidence moderate
@@ -53,10 +53,10 @@ The letter A is the gate of all dharmas because they are originally unborn; medi
 
 _level: ultimate · standpoint: analytic · path: sound, meditation · stage: all · types: sound-language, practice_
 
-concepts: `cpt:syllable-a` · practices: `prc:a-syllable-meditation`
+concepts: [The syllable A](../concepts/syllable-a.md) · practices: [Meditation on the syllable A](../practices/a-syllable-meditation.md)
 
 
 _Notes: Sanskrit lost apart from quotations._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

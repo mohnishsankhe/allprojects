@@ -14,4 +14,4 @@ Worship of the Buddhas, the Dharma and the bodhisattvas with offerings (actual a
 _Notes: The seven-limbed form follows the Bhadracarī (src:bhadracaripranidhana); its exact division in BCA 2–3 is from memory._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

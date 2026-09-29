@@ -17,4 +17,4 @@ _Notes: Recent (post-1800); no initiatory lineage — lineage field records the 
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Shrimad_Bhagavad_Gita_Rahasya — Confirmed; 1856–1920.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._

@@ -11,4 +11,4 @@ An annual festival of about twenty days in the month of Mārkaḻi, around Vaiku
 _Notes: Details (duration, the reenacted liberation of Nammāḻvār on the last day, opening with Tiruneṭuntāṇṭakam) recalled with moderate confidence._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._

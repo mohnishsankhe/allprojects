@@ -27,4 +27,4 @@ Rohagupta (Ṣaḍulūka), as reported by the Jain tradition: there are three he
 _Notes: Story details (the debate at Antarañjikā and the 'kutrikāpaṇa' test) recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

@@ -14,11 +14,13 @@
 - [Nyāya](../lineages/nyaya.md): Dream cognition is like memory and imagination (NS 4.2.34); the notion of dream-objects is destroyed on waking (NS 4.2.35).
 - [Vaiśeṣika](../lineages/vaisesika.md): Arises, like memory, from self–mind conjunction and impressions (VS 9.23 C); a form of non-knowledge (Praśastapāda).
 - [Spanda (the doctrine of vibration)](../lineages/spanda.md): Dream is thought-constructs (Śiva Sūtra 1.9).
+- [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md): rmi lam, dream: as a yoga, dreams are seized with mindfulness, trained, increased, transformed and emanated, and known as illusion; one who does not know dream as illusion will not know the bardo as illusion.
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Dream, whose objects the Lord creates for the dreamer to experience minor fruits of karma.
 
 ## Forms in other languages
+- Tibetan: rmi lam རྨི་ལམ — exact
 
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U19-kashmir-saivism, skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U19-kashmir-saivism, skeleton:U46-kagyu, skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._

@@ -15,4 +15,4 @@
 Nañjīyar's Maṇipravāḷa commentary on the Tiruvāymoḻi; the tradition says the copy made by Nampiḷḷai was lost in the Kāvēri and rewritten by him from memory.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._

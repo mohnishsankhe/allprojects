@@ -13,4 +13,4 @@ He trains: 'I shall breathe in (out) contemplating fading away (dispassion)'. St
 **Sequences:** [The sixteen steps of mindfulness of breathing (MN 118)](../paths/anapanasati-sixteen-steps.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

@@ -15,4 +15,4 @@ A long tantra on Nīlasarasvatī (Tārā), on her worship, the Cīna mode and Ka
   - kind: original; name: Muktabodha Digital Library e-text M00116
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._

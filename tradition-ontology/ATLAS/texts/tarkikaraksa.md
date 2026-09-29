@@ -14,4 +14,4 @@
 Varadarāja's verse manual of Nyāya with auto-commentary, a standard pre-Gaṅgeśa handbook.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._

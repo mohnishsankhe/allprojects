@@ -3,8 +3,8 @@
 `prc:confession-thirty-five-buddhas` · `skeleton` · confidence high
 
 **Category:** ritual
-**Convergence:** 5 independent lineage(s): `lin:gelug`, `lin:kadam`, `lin:kagyu`, [Mahāyāna](../lineages/mahayana.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md)
-**Taught in:** `lin:gelug`, `lin:kadam`, `lin:kagyu`, [Mahāyāna](../lineages/mahayana.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md)
+**Convergence:** 5 independent lineage(s): [Gelug](../lineages/gelug.md), [Kadam](../lineages/kadam.md), [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md), [Mahāyāna](../lineages/mahayana.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md)
+**Taught in:** [Gelug](../lineages/gelug.md), [Kadam](../lineages/kadam.md), [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md), [Mahāyāna](../lineages/mahayana.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md)
 
 Reciting the names of the thirty-five buddhas with prostrations, confessing wrongs, rejoicing and dedicating.
 **Sources:** 
@@ -12,4 +12,4 @@ Reciting the names of the thirty-five buddhas with prostrations, confessing wron
   - [Vinayaviniścaya-Upāliparipṛcchā](../texts/upalipariprccha.md) — 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

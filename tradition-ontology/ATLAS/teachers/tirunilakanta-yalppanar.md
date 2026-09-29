@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A bard (pāṇar) who accompanied Campanta
 **Realization — the tradition's account:** A bard (pāṇar) who accompanied Campantar's hymns on the yāḻ (harp) with his wife Mataṅkacūḷāmaṇiyār; he entered Śiva's light at Campantar's wedding.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

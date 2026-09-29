@@ -17,4 +17,4 @@ First restrain the senses and slay desire, the destroyer of knowledge and discer
 - The enemy in the form of desire is hard to overcome (durāsada). — [Bhagavad Gītā](../texts/bhagavad-gita.md) 3.43
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:34 IST._

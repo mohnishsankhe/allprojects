@@ -13,4 +13,4 @@
 Lakṣmīdhara Kavi's short verse treatise (c. 28 verses) on the self as existence, consciousness and bliss, the witness of all.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._

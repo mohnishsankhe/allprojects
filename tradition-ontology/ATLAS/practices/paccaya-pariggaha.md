@@ -14,4 +14,4 @@ Purification by overcoming doubt: seeking the causes of mentality-materiality (i
 **Sequences:** `pth:seven-purifications`
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._

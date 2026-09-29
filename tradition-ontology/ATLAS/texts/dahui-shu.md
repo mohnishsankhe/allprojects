@@ -30,8 +30,8 @@ This one word 'wu' is the weapon that destroys much wrong knowing and wrong perc
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [wu / mu (no)](../terms/wu-mu.md) · practices: `prc:huatou`
+terms: [wu / mu (no)](../terms/wu-mu.md) · practices: [Huatou / hwadu (observing the critical phrase)](../practices/huatou.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

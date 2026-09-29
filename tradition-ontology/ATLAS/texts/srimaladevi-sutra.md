@@ -5,7 +5,7 @@
 **Alternate titles:** Lion's Roar of Queen Śrīmālā, Shengman shizihou yisheng da fangbian fangguang jing 勝鬘師子吼一乘大方便方廣經 (T353, Guṇabhadra 436), Shengman furen hui (T310.48, Bodhiruci), lha mo dpal phreng gi seng ge'i sgra (Toh 92)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), `lin:huayan`, `lin:tiantai`, `lin:jonang`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), `lin:huayan`, `lin:tiantai`, [Jonang (jo nang pa)](../lineages/jonang.md)
 **Genre:** sūtra
 **Part of:** [Mahāratnakūṭa (collection)](maharatnakuta.md)
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); spoken by Queen Śrīmālā of Ayodhyā, daughter of Prasenajit, with the Buddha's confirmation; scholarly: Anonymous, c. 3rd c. CE; confidence: high
@@ -128,4 +128,4 @@ terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [prabhāsvara-citta](../
 _Notes: Chapter list and key lines (221c16, 222a23, 222b05, 222b28) read locally in T353._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

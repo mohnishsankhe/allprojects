@@ -24,10 +24,10 @@ Holding the name is of two kinds: holding it in phenomena (shichi) — hearing o
 
 _level: bridging · standpoint: seeker · path: sound, devotion, knowledge · stage: all · types: practice_
 
-terms: `trm:yixin-buluan`, `trm:chengming` · concepts: `cpt:chan-pure-land-dual-cultivation` · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Yunqi Zhuhong](../teachers/yunqi-zhuhong.md)
+terms: [yixin buluan](../terms/yixin-buluan.md), [chengming](../terms/chengming.md) · concepts: [Dual cultivation of Chan and Pure Land (chanjing shuangxiu)](../concepts/chan-pure-land-dual-cultivation.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Yunqi Zhuhong](../teachers/yunqi-zhuhong.md)
 
 
 _Notes: Xuzangjing text not in local corpus; recalled._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

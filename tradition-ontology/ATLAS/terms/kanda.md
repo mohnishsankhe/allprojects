@@ -16,4 +16,4 @@
 **Related:** [nāḍī](nadi.md), [kuṇḍalinī](kundalini.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

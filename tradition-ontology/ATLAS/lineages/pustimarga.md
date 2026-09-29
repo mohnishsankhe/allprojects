@@ -55,4 +55,4 @@ The householder path of grace founded by Vallabhācārya: a non-dualism in which
 [Does Brahman itself transform into the world, and if so does it change?](../debates/brahma-parinama-vada.md), [Is devotion a means to liberation, or is love of God a goal beyond liberation?](../debates/prema-beyond-moksa.md), [What is Rādhā's status — scriptural basis, relation to Kṛṣṇa, and place in worship?](../debates/status-of-radha.md)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._

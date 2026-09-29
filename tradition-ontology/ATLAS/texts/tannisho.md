@@ -25,7 +25,7 @@ When, entrusting ourselves to the inconceivable working of Amida's vow and belie
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:shinjin`, `trm:sheqi-bu-she` · concepts: `cpt:shinjin`, `cpt:embraced-never-abandoned` · teachers: [Shinran](../teachers/shinran.md)
+terms: [shinjin](../terms/shinjin.md), [shequ bu she](../terms/shequ-bu-she.md) · concepts: [Shinjin — true entrusting](../concepts/shinjin.md), [Embraced, never to be abandoned (shequ bu she)](../concepts/embraced-never-abandoned.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### 2 <a id="tea-tannisho-2"></a>
 `skeleton` · confidence high
@@ -34,7 +34,7 @@ To followers who had come from the Kantō at the risk of their lives to ask abou
 
 _level: conventional · standpoint: experiential · path: devotion · stage: all · types: teacher-transmission, karma-liberation_
 
-concepts: `cpt:shinjin` · teachers: [Shinran](../teachers/shinran.md), [Hōnen](../teachers/honen.md)
+concepts: [Shinjin — true entrusting](../concepts/shinjin.md) · teachers: [Shinran](../teachers/shinran.md), [Hōnen](../teachers/honen.md)
 
 ### 3 <a id="tea-tannisho-3"></a>
 `skeleton` · confidence high
@@ -43,7 +43,7 @@ Even a good person attains birth in the Pure Land, how much more an evil person.
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation, ethics_
 
-terms: `trm:akunin-shoki`, `trm:tariki`, `trm:jiriki` · concepts: `cpt:evil-person-as-true-object`, `cpt:other-power`, `cpt:self-power` · teachers: [Shinran](../teachers/shinran.md) · disputes: `dsp:self-power-or-other-power`
+terms: [akunin shōki](../terms/akunin-shoki.md), [tariki](../terms/tariki.md), [jiriki](../terms/jiriki.md) · concepts: [The evil person as the true object of the vow (akunin shōki)](../concepts/evil-person-as-true-object.md), [Other-power (tali / tariki)](../concepts/other-power.md), [Self-power (zili / jiriki)](../concepts/self-power.md) · teachers: [Shinran](../teachers/shinran.md) · disputes: [Is awakening reached by one's own practice (self-power) or by the power of Amitābha's vow (other-power)?](../debates/self-power-or-other-power.md)
 
 ### 4 <a id="tea-tannisho-4"></a>
 `skeleton` · confidence high
@@ -52,7 +52,7 @@ Compassion differs between the path of sages and the Pure Land path: the former 
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics_
 
-concepts: `cpt:two-aspects-of-merit-transfer`, `cpt:two-gates-holy-path-pure-land` · teachers: [Shinran](../teachers/shinran.md)
+concepts: [The two aspects of merit transfer: going and returning](../concepts/two-aspects-of-merit-transfer.md), [The two gates: the holy path and the Pure Land](../concepts/two-gates-holy-path-pure-land.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### 5 <a id="tea-tannisho-5"></a>
 `skeleton` · confidence high
@@ -61,7 +61,7 @@ Shinran has never said the nenbutsu even once as a memorial service for his fath
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, death-dying_
 
-concepts: `cpt:other-power` · teachers: [Shinran](../teachers/shinran.md)
+concepts: [Other-power (tali / tariki)](../concepts/other-power.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### 6 <a id="tea-tannisho-6"></a>
 `skeleton` · confidence high
@@ -70,7 +70,7 @@ It is absurd for followers of the exclusive nenbutsu to quarrel over 'my discipl
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:teacher-in-shinshu` · teachers: [Shinran](../teachers/shinran.md)
+concepts: [Teacher and disciple in Shinshū](../concepts/teacher-in-shinshu.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### 7 <a id="tea-tannisho-7"></a>
 `skeleton` · confidence high
@@ -88,7 +88,7 @@ For the practitioner the nenbutsu is neither a practice nor a good act: it is no
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: practice_
 
-terms: `trm:tariki` · concepts: `cpt:other-power` · teachers: [Shinran](../teachers/shinran.md)
+terms: [tariki](../terms/tariki.md) · concepts: [Other-power (tali / tariki)](../concepts/other-power.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### 9 <a id="tea-tannisho-9"></a>
 `skeleton` · confidence high
@@ -97,7 +97,7 @@ Yuien asks why, though he says the nenbutsu, he feels no dancing joy nor any wis
 
 _level: conventional · standpoint: experiential · path: devotion · stage: all · types: consciousness-mind, death-dying_
 
-terms: `trm:bonno` · concepts: `cpt:ordinary-being-fanfu` · teachers: [Shinran](../teachers/shinran.md), [Yuien](../teachers/yuien.md)
+terms: [kleśa](../terms/klesa.md) · concepts: [The ordinary foolish being (fanfu / bonbu)](../concepts/ordinary-being-fanfu.md) · teachers: [Shinran](../teachers/shinran.md), [Yuien](../teachers/yuien.md)
 
 ### 10 <a id="tea-tannisho-10"></a>
 `skeleton` · confidence high
@@ -106,7 +106,7 @@ In the nenbutsu, no working (no calculation) is true working, for it is beyond w
 
 _level: ultimate · standpoint: apophatic · path: devotion · stage: all · types: ultimate, practice_
 
-terms: `trm:hakarai`, `trm:jinen-honi` · concepts: `cpt:jinen-honi` · teachers: [Shinran](../teachers/shinran.md)
+terms: [hakarai](../terms/hakarai.md), [jinen hōni](../terms/jinen-honi.md) · concepts: [Jinen hōni (naturalness by the working of the vow)](../concepts/jinen-honi.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### 13 <a id="tea-tannisho-13"></a>
 `skeleton` · confidence high
@@ -115,7 +115,7 @@ Asked whether he would do whatever Shinran said, Yuien agreed; told to kill a th
 
 _level: conventional · standpoint: causal · path: devotion · stage: all · types: karma-liberation, ethics_
 
-terms: `trm:sukugo` · concepts: `cpt:evil-person-as-true-object` · obstacles: `obs:licensed-evil` · teachers: [Shinran](../teachers/shinran.md), [Yuien](../teachers/yuien.md)
+terms: [shukugō](../terms/shukugo.md) · concepts: [The evil person as the true object of the vow (akunin shōki)](../concepts/evil-person-as-true-object.md) · obstacles: [Licensed evil (zōaku muge)](../obstacles/licensed-evil.md) · teachers: [Shinran](../teachers/shinran.md), [Yuien](../teachers/yuien.md)
 
 ### 15 <a id="tea-tannisho-15"></a>
 `skeleton` · confidence moderate
@@ -124,7 +124,7 @@ The compiler laments the view that one attains awakening in this very body while
 
 _level: conventional · standpoint: polemical · path: devotion · stage: all · types: dispute, karma-liberation_
 
-concepts: `cpt:birth-in-the-pure-land` · teachers: [Shinran](../teachers/shinran.md)
+concepts: [Birth in the Pure Land (wangsheng / ōjō) as the condition for awakening](../concepts/birth-in-the-pure-land.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### colophon <a id="tea-tannisho-colophon"></a>
 `skeleton` · confidence moderate
@@ -133,7 +133,7 @@ Rennyo's colophon: this is an important text of our school, not to be shown indi
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:teacher-in-shinshu` · teachers: [Shinran](../teachers/shinran.md), [Rennyo](../teachers/rennyo.md)
+concepts: [Teacher and disciple in Shinshū](../concepts/teacher-in-shinshu.md) · teachers: [Shinran](../teachers/shinran.md), [Rennyo](../teachers/rennyo.md)
 
 ### postscript <a id="tea-tannisho-postscript"></a>
 `skeleton` · confidence high
@@ -142,10 +142,10 @@ Shinran often said: when I consider deeply the vow Amida pondered for five kalpa
 
 _level: conventional · standpoint: experiential · path: devotion · stage: all · types: karma-liberation, world-fate_
 
-concepts: `cpt:shinjin`, `cpt:ordinary-being-fanfu` · teachers: [Shinran](../teachers/shinran.md)
+concepts: [Shinjin — true entrusting](../concepts/shinjin.md), [The ordinary foolish being (fanfu / bonbu)](../concepts/ordinary-being-fanfu.md) · teachers: [Shinran](../teachers/shinran.md)
 
 
 _Notes: Section numbering standard; wording recalled, no original quoted._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

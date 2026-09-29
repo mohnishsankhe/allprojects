@@ -21,4 +21,4 @@
 Elaborates Rūpa's map (pth:rupa-gosvami-bhakti-stages, owned by U51). Chapter numbers approximate.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._

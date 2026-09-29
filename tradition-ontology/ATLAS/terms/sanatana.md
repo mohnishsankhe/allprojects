@@ -8,6 +8,7 @@
 
 ## Definitions by tradition
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: Epithet of the embodied one (2.24) and, in Arjuna's argument, of the family dharmas (1.40).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Arjuna holds the Lord to be the everlasting Person (sanātanaḥ puruṣaḥ) (11.18).
 
 ## Forms in other languages
 
@@ -15,4 +16,8 @@
 **Related:** [nitya](nitya.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:11.18 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:34 IST._

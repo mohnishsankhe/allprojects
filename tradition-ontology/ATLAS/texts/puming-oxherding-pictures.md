@@ -24,8 +24,8 @@ Puming's ten pictures show a black ox gradually turning white as it is tamed: un
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-concepts: `cpt:oxherding-stages` · teachers: [Puming 普明](../teachers/puming.md)
+concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [Puming 普明](../teachers/puming.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

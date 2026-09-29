@@ -10,4 +10,4 @@
 Author of the Sanskrit Śivasiddhāntacandrikā, of the Pūvalli Pañcavarṇa Bṛhanmaṭha.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._

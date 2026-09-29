@@ -10,4 +10,4 @@
 Founder of the Baotang school in Chengdu; rejected ritual and recitation, teaching no-thought alone; claimed Bodhidharma's robe.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

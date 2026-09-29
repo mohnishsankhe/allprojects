@@ -23,7 +23,7 @@ When one says Namu Amida Butsu, the benefits in this present life are boundless:
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: powers-experiences_
 
-concepts: `cpt:ten-benefits-in-present-life` · teachers: [Shinran](../teachers/shinran.md)
+concepts: [The benefits in the present life (genze riyaku / genshō jūyaku)](../concepts/ten-benefits-in-present-life.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### shinjin-buddha-nature <a id="tea-jodo-wasan-shinjin-buddha-nature"></a>
 `skeleton` · confidence high
@@ -32,10 +32,10 @@ Those who rejoice in shinjin are said to be equal to the Tathāgatas; great shin
 
 _level: bridging · standpoint: divine · path: devotion · stage: all · types: ultimate, consciousness-mind_
 
-terms: `trm:shinjin`, [buddhadhātu](../terms/buddhadhatu.md) · concepts: `cpt:shinjin` · teachers: [Shinran](../teachers/shinran.md)
+terms: [shinjin](../terms/shinjin.md), [buddhadhātu](../terms/buddhadhatu.md) · concepts: [Shinjin — true entrusting](../concepts/shinjin.md) · teachers: [Shinran](../teachers/shinran.md)
 
 
 _Notes: The three are together called the Sanjō wasan._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

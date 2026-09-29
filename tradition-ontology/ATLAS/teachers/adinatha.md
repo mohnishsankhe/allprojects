@@ -16,4 +16,4 @@
 **Realization — the tradition's account:** The supreme Lord himself; the source of the teaching.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._

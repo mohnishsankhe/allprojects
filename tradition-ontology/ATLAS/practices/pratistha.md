@@ -17,4 +17,4 @@ The series of rites that establish the deity in a liṅga or image and its templ
 - Installation done with a sub-division (upabheda) instead of a root āgama destroys the performer and the patron. — [Kāmikāgama](../texts/kamika-agama.md) purva.1.104-107
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._

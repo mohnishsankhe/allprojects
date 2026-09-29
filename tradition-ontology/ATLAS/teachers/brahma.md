@@ -3,7 +3,7 @@
 `tch:brahma` · `sourced` · confidence high
 
 **Alternate names:** Pitāmaha, Parameṣṭhin, Padmaja, Svayambhū
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Āyurveda](../lineages/ayurveda.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md), [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md)
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Āyurveda](../lineages/ayurveda.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md), [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md)
 **Historicity:** mythic
 **Students:** [Atharvan](atharvan.md), [Prajāpati (as teacher)](prajapati.md), [Dakṣa Prajāpati](daksa-prajapati.md)
 **Works:** 
@@ -14,6 +14,7 @@ The first of the gods, maker and protector of the world, who taught the knowledg
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:11.15 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl  — Located: MuU 1.1.1 ('brahmā devānāṃ prathamaḥ sambabhūva … atharvāya jyeṣṭhaputrāya prāha'); ChU 3.11.4 and 8.15.1 ('brahmā prajāpataya uvāca'); KauU 1.5-7 (Brahmā on the couch Amitaujas questions the knower).
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U30-ayurveda-rasa, skeleton:U04-minor-upanisads, skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch10-12, skeleton:U04-minor-upanisads, skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._

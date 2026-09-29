@@ -12,4 +12,4 @@ Seeing a self produces love for it, thirst for happiness, appropriation of means
   - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: 1.219-221; rests_on: ["tea:pramanavarttika:1.219-221"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

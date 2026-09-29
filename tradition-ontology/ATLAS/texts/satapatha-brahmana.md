@@ -477,4 +477,4 @@ _Notes: Commentaries: Harisvāmin (partial), Sāyaṇa. See also the Kāṇva re
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Śatapathabrāhmaṇa, catalog:GRETIL-dev:satapatha-brahmana, https://en.wikipedia.org/wiki/Shatapatha_Brahmana — Wikipedia confirms the Mādhyandina recension (14 kāṇḍas, 100 adhyāyas), its place in the late Brāhmaṇa period (8th–6th c. BCE, matching the entry), and the Yājñavalkya/Śāṇḍilya authorities. The summary's internal references were text-located, including BĀU as ŚB 14.4–9 and the vaṃśa ending in Yājñavalkya at 14.9.4.33.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

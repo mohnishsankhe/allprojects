@@ -13,4 +13,4 @@
 Vikramaśīla scholar (by tradition one of its 'gate-keepers') whose works on momentariness, exclusion, God and the reality of cognition's images mark the height of late Indian Buddhist philosophy.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

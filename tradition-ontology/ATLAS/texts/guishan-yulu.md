@@ -27,8 +27,8 @@ Asked whether one who has suddenly awakened still cultivates: when truly awakene
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: intermediate · types: practice, dispute_
 
-terms: [dunwu (sudden awakening)](../terms/dunwu.md), [jianxiu (gradual cultivation)](../terms/jianxiu.md), [xiqi (habit energies)](../terms/xiqi.md) · concepts: `cpt:sudden-and-gradual` · teachers: [Guishan Lingyou 溈山靈祐](../teachers/guishan-lingyou.md) · disputes: `dsp:sudden-or-gradual`
+terms: [dunwu (sudden awakening)](../terms/dunwu.md), [jianxiu (gradual cultivation)](../terms/jianxiu.md), [xiqi (habit energies)](../terms/xiqi.md) · concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · teachers: [Guishan Lingyou 溈山靈祐](../teachers/guishan-lingyou.md) · disputes: `dsp:sudden-or-gradual`
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -15,4 +15,4 @@ The domestic-rite manual of the Vaikhānasas, including the eighteen bodily rite
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Vaikhānasagṛhyasūtra, https://www.hindu-blog.com/2021/07/vaikhanasa-grihya-sutra-basic.html — Low-confidence entry confirmed. Extant (DCS). It deals with the eighteen bodily saṃskāras of the Vaikhānasas and the domestic worship of Viṣṇu (Hindu Blog summary).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

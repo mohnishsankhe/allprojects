@@ -24,7 +24,7 @@ The principal Dzogchen lineage of Bön, whose teaching passed from the Nine Budd
 [Dru Gyalwa Yungdrung ('bru rgyal ba g.yung drung)](../teachers/dru-gyalwa-yungdrung.md), [Gyerpung Nangzher Löpo (gyer spungs snang bzher lod po)](../teachers/nangzher-lopo.md), [Shardza Tashi Gyaltsen (shar rdza bkra shis rgyal mtshan)](../teachers/shardza-tashi-gyaltsen.md), [Tapihritsa (ta pi hri tsa)](../teachers/tapihritsa.md), [Lopön Tenzin Namdak (slob dpon bstan 'dzin rnam dag)](../teachers/tenzin-namdak.md)
 
 ## Practices
-_none recorded_
+[Bön preliminaries](../practices/bon-ngondro.md), [Guru yoga of Tapihritsa](../practices/tapihritsa-guru-yoga.md)
 
 ## Path maps
 _none recorded_
@@ -35,4 +35,4 @@ _none recorded_
 _Notes: Optional (Bön)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

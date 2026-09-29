@@ -14,4 +14,4 @@ Resolving to attain full buddhahood for the sake of all beings — the entry int
   - [Sukhāvatīvyūha-sūtra (larger)](../texts/sukhavativyuha-larger.md) — ref: three grades; rests_on: ["tea:sukhavativyuha-larger:three-grades"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

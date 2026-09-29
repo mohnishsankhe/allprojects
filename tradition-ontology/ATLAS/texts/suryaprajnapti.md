@@ -16,4 +16,4 @@ An Upāṅga on astronomy and calendar: the motions of the two suns and two moon
 _Notes: Lists differ on the order of the Sūrya-, Jambūdvīpa- and Candra-prajñaptis (5th–7th Upāṅgas)._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

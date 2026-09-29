@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The three knots (granthi)](three-granthis.md): in the HYP the first, second and fourth stages coincide with the piercing of the three knots — rests on [4.70-71](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-4-70-71), [4.72-73](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-4-72-73), [4.76-77](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-4-76-77)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

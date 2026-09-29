@@ -5,7 +5,7 @@
 **Alternate titles:** Samantabhadra's vows, Bhadracarī, bzang spyod smon lam (Toh 1095 / 4377), Puxian xingyuan pin (T293 fasc. 40), Ārya-bhadracarī-praṇidhāna-rāja
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:huayan`, [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), `lin:newar-vajrayana`, `lin:gelug`, [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), `lin:kagyu`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:huayan`, [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), `lin:newar-vajrayana`, [Gelug](../lineages/gelug.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md)
 **Genre:** praṇidhāna (vow verses)
 **Part of:** [Gaṇḍavyūha-sūtra](gandavyuha.md)
 **Location in parent:** Gaṇḍavyūha final section (Vaidya §56)
@@ -32,7 +32,7 @@ At the close of Samantabhadra's vows the practitioner aspires: at the moment of 
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: death-dying, practice_
 
-concepts: `cpt:five-sutras-one-treatise`, `cpt:deathbed-welcome` · teachers: [Samantabhadra](../teachers/samantabhadra.md)
+concepts: [The five sūtras and one treatise (Chinese Pure Land canon)](../concepts/five-sutras-one-treatise.md), [The Buddha's welcome at death (raigō)](../concepts/deathbed-welcome.md) · teachers: [Samantabhadra](../teachers/samantabhadra.md)
 
 ### ten-vows <a id="tea-bhadracaripranidhana-ten-vows"></a>
 `skeleton` · confidence high
@@ -45,4 +45,4 @@ concepts: [Samantabhadra's vows](../concepts/samantabhadra-vows.md) · practices
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

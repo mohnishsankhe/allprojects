@@ -18,7 +18,7 @@ The second Indian exegetical tradition of the Guhyasamāja, founded by Buddhajñ
 - The 'two stages' are presented in Buddhajñānapāda's 'Oral Instruction' (Dvikramatattvabhāvanā-mukhāgama), given, by the tradition's account, by Mañjuśrī himself.
 
 **Transmissions given:** 
-  - `lin:sakya` — what: the Jñānapāda Guhyasamāja (Mañjuvajra) lineage
+  - [Sakya](sakya.md) — what: the Jñānapāda Guhyasamāja (Mañjuvajra) lineage
 
 ## The ultimate in this lineage
 `skeleton` · confidence low
@@ -36,7 +36,7 @@ The second Indian exegetical tradition of the Guhyasamāja, founded by Buddhajñ
 [Buddhajñānapāda](../teachers/buddhajnanapada.md), [Dīpaṅkarabhadra](../teachers/dipankarabhadra.md), [Śāntipa (Ratnākaraśānti)](../teachers/ratnakarasanti.md), [Vitapāda](../teachers/vitapada.md)
 
 ## Practices
-_none recorded_
+[Deity yoga (generation-stage sādhana)](../practices/deity-yoga.md)
 
 ## Path maps
 _none recorded_
@@ -47,4 +47,4 @@ _none recorded_
 _Notes: The 19-deity count and the Mukhāgama's reception from Mañjuśrī are recalled, not checked in a text._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

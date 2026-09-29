@@ -15,4 +15,4 @@
 Mantreśvara's popular horā in 28 chapters: planets and signs, divisional charts, strength, yogas, houses, periods, transits (gocara), longevity and renunciation; it is a common source for the table of planetary gems.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._

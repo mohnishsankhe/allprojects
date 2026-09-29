@@ -21,4 +21,4 @@ _Notes: Distinct in this unit from Kumāraśiras Bharadvāja who speaks in Ca S�
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/kAThakam/ (TB 3.10–12) — Text-located: TB 3.10.11.3–5.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.176.1, 12.179.1 [bharadvāja] (the jīva doubted) — Located as described.
 
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

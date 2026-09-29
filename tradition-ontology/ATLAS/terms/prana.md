@@ -18,12 +18,18 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The (in-)breath, offered into apāna in breath-sacrifice (BhG 4.29), fixed between the brows (8.10) or in the head (8.12) at death; the Lord as vaiśvānara joined with prāṇa and apāna digests food (15.14).
 - [Vaiśeṣika](../lineages/vaisesika.md): The air moving within the body; one, named prāṇa, apāna and the rest by differences of adjunct (Tarkasaṅgraha); inhalation and exhalation are marks of the self (VS 3.2.4 C).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4.27–30, 5.27: the activities of prāṇa are offered into the fire of self-restraint (4.27); prāṇa is offered into apāna and apāna into prāṇa, and their movements restrained (4.29); those regulating food offer prāṇas into prāṇas (4.30); prāṇa and apāna moving within the nostrils are made equal (5.27).
+- [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md): Wind, 'the vehicle of consciousness', fivefold and tenfold (Pañcakrama 1.3); its dissolution in the central channel brings the empties and clear light.
+- [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md): Saraha: 'where wind and mind do not move, there take rest' (People Dohā v26–27).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Life-breath: the devotees' prāṇas have 'gone into' the Lord (madgataprāṇāḥ) (10.9).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The vital breath; the self in the Brahma Upaniṣad; chief of the ten vāyus; its vibration is a seed of mind.
 - [Trika ('the Triad')](../lineages/trika.md): The breath-power (marudrūpā śakti) whose arising, turning and suspension are contemplated (VBT 24-27, 64); in the āṇava means its five forms carry the seven blisses (TĀ 5).
 - [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md): Prāṇa and apāna prevail in waking and dream, samāna in deep sleep, udāna in the fourth, vyāna beyond (ĪPK 3.2.19-20).
+- [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md): Wind (rlung): the five root and five branch winds that move in the channels; karmic winds of delusion and wisdom winds, mastered in the completion stage.
+- [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md): rlung, wind: the energy on which mind rides; when winds and mind enter the central channel there is non-conceptuality; the 21,600 daily movements of the five root winds cease into wisdom (Karṇatantravajrapada).
 
 ## Forms in other languages
 - Pali: pāṇa  — partial
+- Tibetan: rlung རླུང — exact
 
 ## Equivalents (interpretation layer)
 **Related:** [apāna](apana.md), [vyāna](vyana.md), [udāna](udana.md), [samāna](samana.md), [Vāyu](vayu.md), [antaḥkaraṇa](antahkarana.md), [vāta](vata.md), [prāṇāyāma](pranayama.md)
@@ -32,5 +38,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.27, tea:bhagavad-gita:4.29, tea:bhagavad-gita:4.30, tea:bhagavad-gita:5.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:10.9 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U44-indian-vajrayana, extraction:bhagavad-gita/ch10-12, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._

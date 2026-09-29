@@ -5,7 +5,7 @@
 **Alternate titles:** dbu ma'i man ngag (Tibetan)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Madhyamaka](../lineages/madhyamaka.md), [Prāsaṅgika-Madhyamaka](../lineages/prasangika.md), `lin:kadam`
+**Lineages:** [Madhyamaka](../lineages/madhyamaka.md), [Prāsaṅgika-Madhyamaka](../lineages/prasangika.md), [Kadam](../lineages/kadam.md)
 **Genre:** upadeśa
 **Authors:** 
   - [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) — role: author; attribution: accepted
@@ -16,4 +16,4 @@ Atiśa's short 'Instruction on the Middle Way' for meditation: analysing the obj
   - kind: translation; name: Tibetan translation, Derge Tengyur D3929 (dbu ma'i man ngag) — catalog:Derge-Tengyur:D3929
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

@@ -116,7 +116,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -279,7 +279,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -391,7 +391,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -505,7 +505,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -626,7 +626,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -709,7 +709,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -805,7 +805,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -1002,7 +1002,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -1177,7 +1177,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -1280,7 +1280,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -1391,7 +1391,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -1495,7 +1495,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -1598,7 +1598,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -1724,7 +1724,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -1841,7 +1841,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -2105,7 +2105,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -2239,7 +2239,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -2391,7 +2391,111 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:bon-nine-ways",
+  "name": "The nine ways of Bön",
+  "lineage": "lin:bon",
+  "lineages": [
+   "lin:bon"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "phywa gshen theg pa",
+    "gloss": "way of prediction",
+    "description": "Divination, astrology, diagnosis."
+   },
+   {
+    "order": 2,
+    "name": "snang gshen theg pa",
+    "gloss": "way of the visible world",
+    "description": "Rites to the gods; ransom and exorcism."
+   },
+   {
+    "order": 3,
+    "name": "'phrul gshen theg pa",
+    "gloss": "way of magical power",
+    "description": "Rites to overcome harmful forces."
+   },
+   {
+    "order": 4,
+    "name": "srid gshen theg pa",
+    "gloss": "way of existence",
+    "description": "Funeral and after-death rites."
+   },
+   {
+    "order": 5,
+    "name": "dge bsnyen theg pa",
+    "gloss": "way of lay virtue",
+    "description": "Ten virtues and lay vows."
+   },
+   {
+    "order": 6,
+    "name": "drang srong theg pa",
+    "gloss": "way of the ascetics",
+    "description": "Monastic discipline."
+   },
+   {
+    "order": 7,
+    "name": "a dkar theg pa",
+    "gloss": "way of the white A",
+    "description": "Tantra: generation of deities."
+   },
+   {
+    "order": 8,
+    "name": "ye gshen theg pa",
+    "gloss": "way of the primordial shen",
+    "description": "Higher tantra, the guru and consort practices."
+   },
+   {
+    "order": 9,
+    "name": "bla med theg pa",
+    "gloss": "unsurpassed way",
+    "description": "The Great Perfection."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:zijid",
+    "rests_on": [
+     "tea:zijid:nine-ways"
+    ]
+   }
+  ],
+  "notes": "Optional (Bön). Doxographical ordering (Southern Treasure); bands not assigned.",
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:bon"
+   ],
+   "schools": [
+    "lin:bon"
+   ],
+   "families": [
+    "shared"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -2519,7 +2623,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -2593,7 +2697,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -2688,7 +2792,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -2800,7 +2904,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -2883,7 +2987,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -2992,7 +3096,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -3071,7 +3175,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -3167,7 +3271,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -3303,7 +3407,222 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:dongshan-five-ranks",
+  "name": "The five ranks of the real and the apparent (Dongshan / Caoshan)",
+  "lineage": "lin:caodong",
+  "names": [
+   {
+    "lineage": "lin:caodong",
+    "name": "zheng pian wuwei 正偏五位 / wuwei junchen 五位君臣"
+   },
+   {
+    "lineage": "lin:rinzai",
+    "name": "Tōzan goi"
+   }
+  ],
+  "lineages": [
+   "lin:caodong",
+   "lin:soto",
+   "lin:rinzai"
+  ],
+  "sources": [
+   {
+    "source": "src:dongshan-yulu",
+    "ref": "T1986B 525c01",
+    "rests_on": [
+     "tea:dongshan-yulu:525c01"
+    ]
+   },
+   {
+    "source": "src:caoshan-yulu",
+    "ref": "T1987A 527a05",
+    "rests_on": [
+     "tea:caoshan-yulu:527a05"
+    ]
+   },
+   {
+    "source": "src:baojing-sanmei",
+    "ref": "T1986A 515a17",
+    "rests_on": [
+     "tea:baojing-sanmei:515a17"
+    ]
+   }
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "zheng zhong pian 正中偏",
+    "gloss": "the apparent within the real",
+    "description": "Midnight before the moon shines: meeting without recognising — the real (emptiness, lord) holding the apparent within it.",
+    "ref": "Dongshan yulu 525c01",
+    "band": "B5"
+   },
+   {
+    "order": 2,
+    "name": "pian zhong zheng 偏中正",
+    "gloss": "the real within the apparent",
+    "description": "An old woman who overslept meets an ancient mirror: the real seen within phenomena, no other face than one's own.",
+    "ref": "Dongshan yulu 525c01",
+    "band": "B6"
+   },
+   {
+    "order": 3,
+    "name": "zheng zhong lai 正中來",
+    "gloss": "coming from within the real",
+    "description": "A road out of nothingness beyond the dust: function arising from the real.",
+    "ref": "Dongshan yulu 525c01",
+    "band": "B6"
+   },
+   {
+    "order": 4,
+    "name": "jian zhong zhi 兼中至 (also read pian zhong zhi 偏中至)",
+    "gloss": "arriving within both",
+    "description": "Crossed swords, a lotus in fire: acting freely amid opposites.",
+    "ref": "Dongshan yulu 525c01",
+    "band": "B8"
+   },
+   {
+    "order": 5,
+    "name": "jian zhong dao 兼中到",
+    "gloss": "arrived within both",
+    "description": "Not falling into being or non-being; returning to sit among the coals — complete integration.",
+    "ref": "Dongshan yulu 525c01",
+    "band": "B8"
+   }
+  ],
+  "notes": "Bands are an interpretive, low-confidence alignment: Caoshan and the Baojing sanmei present the ranks as relations of lord and minister, real and apparent, not necessarily a sequence; Hakuin's line studies them as a late stage of kōan training. The fourth rank's wording varies between sources.",
+  "coverage": [
+   "B4",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 3,
+   "lineages": [
+    "lin:caodong",
+    "lin:rinzai",
+    "lin:soto"
+   ],
+   "schools": [
+    "lin:caodong",
+    "lin:rinzai",
+    "lin:soto"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:dongshan-five-ranks-of-merit",
+  "name": "The five ranks of merit (Dongshan)",
+  "lineage": "lin:caodong",
+  "lineages": [
+   "lin:caodong",
+   "lin:soto"
+  ],
+  "sources": [
+   {
+    "source": "src:dongshan-yulu",
+    "ref": "T1986B 525c09",
+    "rests_on": [
+     "tea:dongshan-yulu:525c09"
+    ]
+   }
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "xiang 向",
+    "gloss": "turning toward",
+    "description": "Orienting toward the lord (the real).",
+    "ref": "525c09",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "feng 奉",
+    "gloss": "serving",
+    "description": "Serving the lord — practice in accord.",
+    "ref": "525c09",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "gong 功",
+    "gloss": "merit",
+    "description": "Accomplishment — 'when putting down the hoe'.",
+    "ref": "525c09",
+    "band": "B5"
+   },
+   {
+    "order": 4,
+    "name": "gonggong 共功",
+    "gloss": "shared merit",
+    "description": "Merit shared with others / practice and realization together.",
+    "ref": "525c09",
+    "band": "B6"
+   },
+   {
+    "order": 5,
+    "name": "gonggong 功功",
+    "gloss": "merit of merits",
+    "description": "Merit beyond merit, without trace.",
+    "ref": "525c09",
+    "band": "B7"
+   }
+  ],
+  "notes": "Glosses and bands are low-confidence reconstructions; Dongshan answers each with everyday acts rather than definitions.",
+  "coverage": [
+   "B4",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:caodong",
+    "lin:soto"
+   ],
+   "schools": [
+    "lin:caodong",
+    "lin:soto"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -3410,7 +3729,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -3563,7 +3882,91 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:faith-vow-practice-ouyi",
+  "name": "Ouyi's three provisions: faith, vow, holding the name",
+  "lineage": "lin:pure-land",
+  "lineages": [
+   "lin:pure-land"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "faith (xin)",
+    "gloss": "believing self, other, cause, effect, phenomena, principle",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "vow (yuan)",
+    "gloss": "loathing Sahā, delighting in Bliss",
+    "band": "B0"
+   },
+   {
+    "order": 3,
+    "name": "practice: holding the name (chiming)",
+    "band": "B2"
+   },
+   {
+    "order": 4,
+    "name": "undistracted single mind in phenomena (shi yixin)",
+    "band": "B3"
+   },
+   {
+    "order": 5,
+    "name": "undistracted single mind in principle (li yixin)",
+    "band": "B5"
+   },
+   {
+    "order": 6,
+    "name": "birth, grade according to the depth of holding the name",
+    "band": "B5"
+   },
+   {
+    "order": 7,
+    "name": "buddhahood",
+    "band": "B7"
+   }
+  ],
+  "rests_on": [
+   "tea:amituo-jing-yaojie:faith-vow-practice",
+   "tea:amituo-jing-shuchao:holding-the-name"
+  ],
+  "notes": "Stages 4–5 combine Ouyi with Zhuhong's two kinds of single mind (recalled).",
+  "coverage": [
+   "B4",
+   "I1",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:pure-land"
+   ],
+   "schools": [
+    "lin:pure-land"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -3670,7 +4073,82 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:ganga-three-phases",
+  "name": "Torrent, river, ocean (Tilopa's Gaṅgā Mahāmudrā)",
+  "lineage": "lin:mahasiddha",
+  "lineages": [
+   "lin:mahasiddha"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "gcong rong chu",
+    "gloss": "torrent in a gorge",
+    "description": "Beginning practice, turbulent.",
+    "ref": "Gaṅgāmā v21",
+    "band": "B3"
+   },
+   {
+    "order": 2,
+    "name": "chu bo gang+gA",
+    "gloss": "the Gaṅgā flowing gently",
+    "description": "Middle practice, steady.",
+    "ref": "Gaṅgāmā v21",
+    "band": "B6"
+   },
+   {
+    "order": 3,
+    "name": "chu bran ma bu phrad",
+    "gloss": "river meeting the ocean, mother and child",
+    "description": "Final realization.",
+    "ref": "Gaṅgāmā v21",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:ganga-mahamudra",
+    "ref": "v21",
+    "rests_on": [
+     "tea:ganga-mahamudra:v21"
+    ]
+   }
+  ],
+  "notes": "Correspondence with the later four yogas of mahāmudrā (pth:mahamudra-four-yogas) is not stated by Tilopa.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "F"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:mahasiddha"
+   ],
+   "schools": [
+    "lin:mahasiddha"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -3782,7 +4260,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -3954,7 +4432,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -3962,7 +4440,8 @@
   "name": "The graded devotional practices of BhG 12.8–12",
   "lineage": "lin:bhagavata-early",
   "lineages": [
-   "lin:bhagavata-early"
+   "lin:bhagavata-early",
+   "lin:epic-teaching"
   ],
   "stages": [
    {
@@ -4014,39 +4493,73 @@
      "tea:bhagavad-gita:12.8-11",
      "tea:bhagavad-gita:12.12"
     ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "12.8-12",
+    "rests_on": [
+     "tea:bhagavad-gita:12.8",
+     "tea:bhagavad-gita:12.9",
+     "tea:bhagavad-gita:12.10",
+     "tea:bhagavad-gita:12.11",
+     "tea:bhagavad-gita:12.12"
+    ]
    }
   ],
   "verification": {
    "level": "skeleton",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:12.8",
+      "tea:bhagavad-gita:12.9",
+      "tea:bhagavad-gita:12.10",
+      "tea:bhagavad-gita:12.11",
+      "tea:bhagavad-gita:12.12"
+     ],
+     "result": "corrected",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl."
+    }
+   ]
   },
   "notes": "The text presents the steps from the highest downward as alternatives by capacity; they are listed here from the most accessible upward. 12.12 gives a different ranking (practice < knowledge < meditation < relinquishing the fruit, from which peace follows); commentators reconcile the two differently.",
   "coverage": [
    "A3",
    "F"
   ],
+  "alt_notes": [
+   "The text states the four instructions from the highest downward (12.8, then 'if you cannot …' 12.9, 12.10, 12.11), each for one unable to do the previous; they are listed here upward from the most accessible, as the conditional sequence implies. 12.12 then ranks knowledge above practice, meditation above knowledge and relinquishing the fruit of actions above meditation, with peace following immediately on relinquishment — an order that does not coincide with 12.8–11, where relinquishment is the step for one unable to do the others; Śaṅkara reads 12.12 as praise (stuti) of relinquishment (recalled; see the notes of teaching 12.12), and the commentators take the ranking variously. Bands are interpretive and left to the interpretation layer."
+  ],
   "provenance": {
    "units": [
-    "skeleton:U05-gita-epic"
+    "skeleton:U05-gita-epic",
+    "extraction:bhagavad-gita/ch10-12"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   },
   "convergence": {
-   "count": 1,
+   "count": 2,
    "lineages": [
-    "lin:bhagavata-early"
+    "lin:bhagavata-early",
+    "lin:epic-teaching"
    ],
    "schools": [
-    "lin:bhagavata-early"
+    "lin:bhagavata-early",
+    "lin:epic-teaching"
    ],
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -4150,7 +4663,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -4248,7 +4761,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -4454,7 +4967,238 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:guhyasamaja-sadanga-yoga",
+  "name": "The six-limbed service of the Guhyasamāja (ch. 18)",
+  "lineage": "lin:vajrayana",
+  "lineages": [
+   "lin:vajrayana",
+   "lin:arya-guhyasamaja"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "pratyāhāra",
+    "gloss": "withdrawal",
+    "description": "The ten senses resting in their own places; blessed by all mantras.",
+    "ref": "GST 18.139, 152",
+    "band": "B3"
+   },
+   {
+    "order": 2,
+    "name": "dhyāna",
+    "gloss": "meditation",
+    "description": "The five objects of desire as the five buddhas, fivefold; the five superknowledges.",
+    "ref": "GST 18.140–143, 153",
+    "band": "B4"
+   },
+   {
+    "order": 3,
+    "name": "prāṇāyāma",
+    "gloss": "breath control",
+    "description": "The five-gnosis breath as a jewel at the nose tip; blessed by bodhisattvas.",
+    "ref": "GST 18.144, 153",
+    "band": "B3"
+   },
+   {
+    "order": 4,
+    "name": "dhāraṇā",
+    "gloss": "retention",
+    "description": "Mantra in the heart in the drop of life-wind; the five signs; Vajrasattva enters.",
+    "ref": "GST 18.145–149, 154",
+    "band": "B4"
+   },
+   {
+    "order": 5,
+    "name": "anusmṛti",
+    "gloss": "recollection",
+    "description": "Recollecting the visualized form, an appearance arises; a halo of light.",
+    "ref": "GST 18.150, 154",
+    "band": "B5"
+   },
+   {
+    "order": 6,
+    "name": "samādhi",
+    "gloss": "absorption",
+    "description": "Sudden arising of gnosis; free of obscurations.",
+    "ref": "GST 18.151–152, 155",
+    "band": "B6"
+   }
+  ],
+  "notes": "Verse numbers are the unit's count in Bhattacharya's e-text; bands are interpretive. U51 owns the Kālacakra version (pth:kalacakra-six-branches), which has the same order of limbs.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "F"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:arya-guhyasamaja",
+    "lin:vajrayana"
+   ],
+   "schools": [
+    "lin:arya-guhyasamaja",
+    "lin:vajrayana"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:hakuin-koan-curriculum",
+  "name": "The Hakuin-line kōan curriculum",
+  "lineage": "lin:rinzai",
+  "lineages": [
+   "lin:rinzai"
+  ],
+  "sources": [
+   {
+    "source": "src:sekishu-onjo",
+    "ref": "one-hand",
+    "rests_on": [
+     "tea:sekishu-onjo:one-hand"
+    ]
+   },
+   {
+    "source": "src:wumenguan",
+    "ref": "1",
+    "rests_on": [
+     "tea:wumenguan:1"
+    ]
+   },
+   {
+    "source": "src:shumon-mujinto-ron",
+    "ref": "stages",
+    "rests_on": [
+     "tea:shumon-mujinto-ron:stages"
+    ]
+   }
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "shokan (first barrier): mu or the sound of one hand",
+    "gloss": "first barrier",
+    "description": "Great doubt on an initial kōan leading to kenshō.",
+    "ref": "Wumen guan 1; Sekishu onjō",
+    "band": "B5"
+   },
+   {
+    "order": 2,
+    "name": "hosshin kōan",
+    "gloss": "Dharma-body kōans",
+    "description": "Clarifying the undifferentiated.",
+    "ref": "",
+    "band": "B6"
+   },
+   {
+    "order": 3,
+    "name": "kikan kōan",
+    "gloss": "dynamic-function kōans",
+    "description": "Function within differentiation.",
+    "ref": "",
+    "band": "B6"
+   },
+   {
+    "order": 4,
+    "name": "gonsen kōan",
+    "gloss": "verbal-expression kōans",
+    "description": "Penetrating the ancients' words.",
+    "ref": "",
+    "band": "B6"
+   },
+   {
+    "order": 5,
+    "name": "nantō kōan",
+    "gloss": "difficult-to-pass kōans",
+    "description": "",
+    "ref": "",
+    "band": "B6"
+   },
+   {
+    "order": 6,
+    "name": "kōjō kōan",
+    "gloss": "going-beyond kōans",
+    "description": "",
+    "ref": "",
+    "band": "B7"
+   },
+   {
+    "order": 7,
+    "name": "goi",
+    "gloss": "the five ranks",
+    "description": "The Caodong five ranks studied as kōans.",
+    "ref": "",
+    "band": "B7"
+   },
+   {
+    "order": 8,
+    "name": "jūjūkinkai",
+    "gloss": "the ten grave precepts",
+    "description": "The precepts studied as kōans.",
+    "ref": "",
+    "band": "B8"
+   },
+   {
+    "order": 9,
+    "name": "matsugo no rōkan",
+    "gloss": "the last barrier",
+    "description": "",
+    "ref": "",
+    "band": "B7"
+   }
+  ],
+  "notes": "Tradition's account: Hakuin's system. Scholarly account: systematised by his heirs (Tōrei, Gasan, Inzan, Takujū); the named five-fold classification is a later formulation. Low confidence on order and names beyond the first barrier.",
+  "coverage": [
+   "B4",
+   "F",
+   "I1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:rinzai"
+   ],
+   "schools": [
+    "lin:rinzai"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -4581,7 +5325,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -4663,7 +5407,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -4781,7 +5525,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -4907,7 +5651,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -5011,7 +5755,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -5149,7 +5893,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -5294,7 +6038,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -5382,7 +6126,107 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:jodo-shu-anjin-kigyo-sagyo",
+  "name": "Jōdo-shū: settled mind, practice undertaken, manner of practice",
+  "lineage": "lin:jodo-shu",
+  "lineages": [
+   "lin:jodo-shu",
+   "lin:jodo-shu-chinzei",
+   "lin:jodo-shu-seizan"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "anjin (settled mind)",
+    "gloss": "the three minds",
+    "description": "Sincere, deep and dedicating mind; the conviction of birth.",
+    "ref": "Wangsheng lizan 438c01-13; Senchakushū 8",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "kigyō (practice undertaken)",
+    "gloss": "the five right practices",
+    "description": "Chiefly calling the name, the rightly determined act.",
+    "ref": "Guanjing shu fasc. 4; Senchakushū 2",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "sagyō (manner of practice)",
+    "gloss": "the four modes",
+    "description": "Reverent, exclusive, uninterrupted, lifelong.",
+    "ref": "Wangsheng lizan 439a",
+    "band": "B2"
+   },
+   {
+    "order": 4,
+    "name": "right mindfulness and welcome at death (rinjū shōnen, raigō)",
+    "description": "Amida and the holy ones come to welcome.",
+    "ref": "19th vow",
+    "band": "B2"
+   },
+   {
+    "order": 5,
+    "name": "birth in the Pure Land",
+    "description": "Non-retrogression; seeing the Buddha.",
+    "band": "B5"
+   },
+   {
+    "order": 6,
+    "name": "attaining buddhahood there",
+    "band": "B7"
+   },
+   {
+    "order": 7,
+    "name": "returning to save beings",
+    "band": "B8"
+   }
+  ],
+  "rests_on": [
+   "tea:wangsheng-lizan:438c01-13",
+   "tea:wangsheng-lizan:439a08-23",
+   "tea:senchakushu:16",
+   "tea:senchakushu:8"
+  ],
+  "notes": "The triad comes from Shandao's question 'how to settle the mind, undertake practice and carry it out' (T1980 438c01-02, read locally); the later stages are the general Pure Land sequence.",
+  "coverage": [
+   "B4",
+   "I1",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:jodo-shu",
+    "lin:jodo-shu-chinzei",
+    "lin:jodo-shu-seizan"
+   ],
+   "schools": [
+    "lin:jodo-shu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -5488,7 +6332,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -5594,7 +6438,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -5694,7 +6538,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -5796,7 +6640,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -5897,7 +6741,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -6007,7 +6851,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -6103,7 +6947,188 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:kunzang-lamai-shelung-ngondro",
+  "name": "The preliminaries according to the Words of My Perfect Teacher",
+  "lineage": "lin:longchen-nyingthig",
+  "lineages": [
+   "lin:nyingma",
+   "lin:dzogchen",
+   "lin:longchen-nyingthig"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "how to listen",
+    "gloss": "attitude and conduct in listening",
+    "description": "Avoiding the three defects and six stains; vast and skilful attitudes.",
+    "ref": "intro",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "dal 'byor",
+    "gloss": "the freedoms and advantages",
+    "description": "Rarity of the precious human life.",
+    "ref": "1.1",
+    "band": "B0"
+   },
+   {
+    "order": 3,
+    "name": "mi rtag pa",
+    "gloss": "impermanence",
+    "description": "Death certain, time uncertain.",
+    "ref": "1.2",
+    "band": "B0"
+   },
+   {
+    "order": 4,
+    "name": "'khor ba'i nyes dmigs",
+    "gloss": "defects of saṃsāra",
+    "description": "Suffering of the six realms.",
+    "ref": "1.3",
+    "band": "B0"
+   },
+   {
+    "order": 5,
+    "name": "las rgyu 'bras",
+    "gloss": "cause and effect",
+    "description": "Ten virtues and non-virtues.",
+    "ref": "1.4",
+    "band": "B1"
+   },
+   {
+    "order": 6,
+    "name": "thar pa'i phan yon",
+    "gloss": "benefits of liberation",
+    "description": "Aspiration to liberation.",
+    "ref": "1.5",
+    "band": "B0"
+   },
+   {
+    "order": 7,
+    "name": "bshes gnyen bsten tshul",
+    "gloss": "following a teacher",
+    "description": "Examining, following and emulating the teacher.",
+    "ref": "1.6",
+    "band": "B0"
+   },
+   {
+    "order": 8,
+    "name": "skyabs 'gro",
+    "gloss": "refuge",
+    "description": "Refuge with prostrations.",
+    "ref": "2.1",
+    "band": "B0"
+   },
+   {
+    "order": 9,
+    "name": "sems bskyed",
+    "gloss": "bodhicitta",
+    "description": "Aspiring and applying bodhicitta.",
+    "ref": "2.2",
+    "band": "B1"
+   },
+   {
+    "order": 10,
+    "name": "rdor sems",
+    "gloss": "Vajrasattva",
+    "description": "Purification with the four powers.",
+    "ref": "2.3",
+    "band": "B1"
+   },
+   {
+    "order": 11,
+    "name": "maNDal",
+    "gloss": "maṇḍala offering",
+    "description": "Accumulation of merit and wisdom.",
+    "ref": "2.4",
+    "band": "B2"
+   },
+   {
+    "order": 12,
+    "name": "ku sA li",
+    "gloss": "kusāli offering",
+    "description": "Cutting attachment to the body.",
+    "ref": "2.5",
+    "band": "B2"
+   },
+   {
+    "order": 13,
+    "name": "bla ma'i rnal 'byor",
+    "gloss": "guru yoga",
+    "description": "Blessing, the four empowerments, mingling minds.",
+    "ref": "2.6",
+    "band": "B2"
+   },
+   {
+    "order": 14,
+    "name": "'pho ba",
+    "gloss": "transference (auxiliary)",
+    "description": "Preparation for death (restricted).",
+    "ref": "3",
+    "band": "B2"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:kunzang-lamai-shelung",
+    "ref": "parts 1-3",
+    "rests_on": [
+     "tea:kunzang-lamai-shelung:intro",
+     "tea:kunzang-lamai-shelung:1.1",
+     "tea:kunzang-lamai-shelung:1.2",
+     "tea:kunzang-lamai-shelung:1.3",
+     "tea:kunzang-lamai-shelung:1.4",
+     "tea:kunzang-lamai-shelung:1.5",
+     "tea:kunzang-lamai-shelung:1.6",
+     "tea:kunzang-lamai-shelung:2.1",
+     "tea:kunzang-lamai-shelung:2.2",
+     "tea:kunzang-lamai-shelung:2.3",
+     "tea:kunzang-lamai-shelung:2.4",
+     "tea:kunzang-lamai-shelung:2.5",
+     "tea:kunzang-lamai-shelung:2.6",
+     "tea:kunzang-lamai-shelung:3"
+    ]
+   }
+  ],
+  "recent": true,
+  "coverage": [
+   "B6",
+   "F",
+   "H"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:dzogchen",
+    "lin:longchen-nyingthig",
+    "lin:nyingma"
+   ],
+   "schools": [
+    "lin:nyingma"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -6232,7 +7257,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -6317,7 +7342,114 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:larger-sutra-birth-to-buddhahood",
+  "name": "From hearing the name to buddhahood (Larger Sūtra)",
+  "lineage": "lin:pure-land",
+  "lineages": [
+   "lin:pure-land",
+   "lin:jodo-shinshu"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "hearing the name and rejoicing, even one thought",
+    "description": "Gains the great benefit.",
+    "ref": "T360 279a01-03",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "aspiration, recollection, merit (the three grades)",
+    "description": "Arousing bodhicitta, recollecting Amitāyus, doing good according to capacity.",
+    "ref": "T360 juan 2 (three grades)",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "welcome at death",
+    "description": "Amitābha appears with the assembly (19th vow).",
+    "ref": "268a29-b02",
+    "band": "B2"
+   },
+   {
+    "order": 4,
+    "name": "birth by transformation; the rightly established group",
+    "description": "Necessary attainment of nirvāṇa (11th vow); non-retrogression.",
+    "ref": "268a11-12",
+    "band": "B5"
+   },
+   {
+    "order": 5,
+    "name": "one life from buddhahood",
+    "description": "Bodhisattvas there reach the stage of one-life replacement (22nd vow).",
+    "ref": "268b08-10",
+    "band": "B6"
+   },
+   {
+    "order": 6,
+    "name": "buddhahood / nirvāṇa",
+    "description": "Extinction (miedu) reached necessarily.",
+    "ref": "268a11-12",
+    "band": "B7"
+   },
+   {
+    "order": 7,
+    "name": "returning to save beings",
+    "description": "Those who by their own vow choose to teach in other lands, practising Samantabhadra's virtue.",
+    "ref": "268b09-13",
+    "band": "B8"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:sukhavativyuha-larger",
+    "ref": "T360"
+   }
+  ],
+  "rests_on": [
+   "tea:sukhavativyuha-larger:entrustment",
+   "tea:sukhavativyuha-larger:vow11",
+   "tea:sukhavativyuha-larger:vow19",
+   "tea:sukhavativyuha-larger:vow22",
+   "tea:sukhavativyuha-larger:three-grades"
+  ],
+  "coverage": [
+   "B4",
+   "I1",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:jodo-shinshu",
+    "lin:pure-land"
+   ],
+   "schools": [
+    "lin:jodo-shinshu",
+    "lin:pure-land"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -6446,7 +7578,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -6571,7 +7703,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -6646,7 +7778,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -6794,7 +7926,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -6952,7 +8084,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -7048,7 +8180,82 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:mahasiddha-view-meditation-conduct",
+  "name": "Realization, meditation, conduct (the siddhas' sequence)",
+  "lineage": "lin:mahasiddha",
+  "lineages": [
+   "lin:mahasiddha"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "rtogs pa skyed",
+    "gloss": "generating realization",
+    "description": "First the intelligent generate realization (from the true guru).",
+    "ref": "Tōh 2292 no. 82 (Lakṣmīṅkarā); no. 43 (Mekopa)",
+    "band": "B5"
+   },
+   {
+    "order": 2,
+    "name": "gnas lugs ma yengs sgom",
+    "gloss": "undistracted meditation on the natural state",
+    "description": "Meditating without distraction; making all appearances undivided.",
+    "ref": "Tōh 2292 nos. 82, 43",
+    "band": "B6"
+   },
+   {
+    "order": 3,
+    "name": "spyod pa",
+    "gloss": "conduct",
+    "description": "When experience has arisen, practising conduct with care — for Mekopa the cremation ground and the 'mad' observance.",
+    "ref": "Tōh 2292 nos. 82, 43",
+    "band": "B8"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:caturasiti-siddha-bodhihrdaya",
+    "ref": "82, 43",
+    "rests_on": [
+     "tea:caturasiti-siddha-bodhihrdaya:82",
+     "tea:caturasiti-siddha-bodhihrdaya:43"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "F"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:mahasiddha"
+   ],
+   "schools": [
+    "lin:mahasiddha"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -7133,7 +8340,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -7262,7 +8469,82 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:mahayoga-four-vidyadharas",
+  "name": "The four vidyādhara levels of Mahāyoga",
+  "lineage": "lin:nyingma",
+  "lineages": [
+   "lin:nyingma"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "rnam smin rig 'dzin",
+    "gloss": "matured vidyādhara",
+    "description": "The mind matured as the deity while the body is not yet transformed.",
+    "band": "B5"
+   },
+   {
+    "order": 2,
+    "name": "tshe dbang rig 'dzin",
+    "gloss": "vidyādhara with power over life",
+    "description": "The body transformed into a vajra body free of birth and death.",
+    "band": "B6"
+   },
+   {
+    "order": 3,
+    "name": "phyag chen rig 'dzin",
+    "gloss": "mahāmudrā vidyādhara",
+    "description": "Arising in the deity's form of union on the path of meditation.",
+    "band": "B6"
+   },
+   {
+    "order": 4,
+    "name": "lhun grub rig 'dzin",
+    "gloss": "spontaneously present vidyādhara",
+    "description": "The final fruit, equal to buddhahood.",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:yonten-dzod"
+   }
+  ],
+  "notes": "Correspondence to the five paths and the bands is the unit's low-confidence reconstruction.",
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:nyingma"
+   ],
+   "schools": [
+    "lin:nyingma"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -7352,7 +8634,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -7467,7 +8749,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -7604,7 +8886,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -7720,7 +9002,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -7826,7 +9108,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -7942,7 +9224,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -8055,7 +9337,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -8144,7 +9426,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -8251,7 +9533,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -8351,7 +9633,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -8441,7 +9723,142 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:nine-grades-of-birth",
+  "name": "The nine grades of birth (Contemplation Sūtra 14–16)",
+  "lineage": "lin:pure-land",
+  "lineages": [
+   "lin:pure-land",
+   "lin:jodo-shu",
+   "lin:jodo-shinshu",
+   "lin:mahayana"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "upper grade, upper birth",
+    "gloss": "three minds; precepts, Mahāyāna sūtras, six recollections",
+    "description": "Welcomed by Amitābha and the assembly; on birth at once sees the Buddha and awakens to the acceptance of non-arising.",
+    "ref": "T365 344c10-345a04",
+    "band": "B2"
+   },
+   {
+    "order": 2,
+    "name": "upper grade, middle birth",
+    "gloss": "understands the meaning of the Mahāyāna",
+    "description": "Lotus opens overnight; non-retrogression after seven days; acceptance of non-arising after one small kalpa.",
+    "ref": "345a04-21",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "upper grade, lower birth",
+    "gloss": "believes cause and effect, arouses bodhicitta",
+    "description": "Lotus opens after a day and night; sees the Buddha clearly after three weeks; after three small kalpas enters the ground of joy.",
+    "ref": "345a22-b05",
+    "band": "B2"
+   },
+   {
+    "order": 4,
+    "name": "middle grade, upper birth",
+    "gloss": "keeps the five and eight precepts",
+    "description": "At once attains arhatship.",
+    "ref": "345b08-17",
+    "band": "B1"
+   },
+   {
+    "order": 5,
+    "name": "middle grade, middle birth",
+    "gloss": "keeps precepts for a day and night",
+    "description": "Becomes a stream-enterer; an arhat after half a kalpa.",
+    "ref": "345b18-28",
+    "band": "B1"
+   },
+   {
+    "order": 6,
+    "name": "middle grade, lower birth",
+    "gloss": "filial and kind worldly person",
+    "description": "Meets the two bodhisattvas after seven days, becomes a stream-enterer; an arhat after a small kalpa.",
+    "ref": "345c01-08",
+    "band": "B1"
+   },
+   {
+    "order": 7,
+    "name": "lower grade, upper birth",
+    "gloss": "evil-doer who does not slander the Mahāyāna; calls the name once at death",
+    "description": "Lotus opens after forty-nine days; after ten small kalpas enters the first ground.",
+    "ref": "345c10-24",
+    "band": "B0"
+   },
+   {
+    "order": 8,
+    "name": "lower grade, middle birth",
+    "gloss": "precept-breaker; hears of the Buddha's virtues at death",
+    "description": "Hell-fires become a cool wind; lotus opens after six kalpas; arouses the aspiration for awakening.",
+    "ref": "345c27-346a11",
+    "band": "B0"
+   },
+   {
+    "order": 9,
+    "name": "lower grade, lower birth",
+    "gloss": "five offences and ten evils; ten recitations at death",
+    "description": "Lotus opens after twelve great kalpas; the two bodhisattvas teach the real mark; arouses the aspiration for awakening.",
+    "ref": "346a12-26",
+    "band": "B0"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:amitayurdhyana-sutra",
+    "ref": "344c10-346a26"
+   }
+  ],
+  "rests_on": [
+   "tea:amitayurdhyana-sutra:14",
+   "tea:amitayurdhyana-sutra:16",
+   "tea:guanjing-shu:1.reward-land"
+  ],
+  "notes": "Grades read locally in T365. Bands are assigned by the practitioner's conduct in this life (upper: Mahāyāna practice; middle: precepts; lower: evil-doers saved at death); for Shandao all nine are ordinary beings.",
+  "coverage": [
+   "B4",
+   "I1",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 4,
+   "lineages": [
+    "lin:jodo-shinshu",
+    "lin:jodo-shu",
+    "lin:mahayana",
+    "lin:pure-land"
+   ],
+   "schools": [
+    "lin:jodo-shinshu",
+    "lin:jodo-shu",
+    "lin:mahayana",
+    "lin:pure-land"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -8604,7 +10021,128 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:nyingma-nine-vehicles",
+  "name": "The nine vehicles (theg pa rim pa dgu)",
+  "lineage": "lin:nyingma",
+  "lineages": [
+   "lin:nyingma",
+   "lin:dzogchen"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "śrāvakayāna",
+    "gloss": "vehicle of hearers",
+    "description": "Renunciation, ethics and insight into selflessness of the person; nirvāṇa as arhatship.",
+    "ref": "Dudjom, Fundamentals"
+   },
+   {
+    "order": 2,
+    "name": "pratyekabuddhayāna",
+    "gloss": "vehicle of solitary realizers",
+    "description": "Realization of dependent origination; selflessness of the person and part of phenomena."
+   },
+   {
+    "order": 3,
+    "name": "bodhisattvayāna",
+    "gloss": "vehicle of bodhisattvas",
+    "description": "Bodhicitta, the six perfections, the two selflessnesses; the five paths and ten grounds."
+   },
+   {
+    "order": 4,
+    "name": "kriyātantra",
+    "gloss": "action tantra",
+    "description": "Outer tantra: purity, ritual and the deity seen as lord and servant."
+   },
+   {
+    "order": 5,
+    "name": "ubhayatantra / caryātantra",
+    "gloss": "dual / conduct tantra",
+    "description": "Outer tantra: the deity as friend; view of yoga, conduct of kriyā."
+   },
+   {
+    "order": 6,
+    "name": "yogatantra",
+    "gloss": "yoga tantra",
+    "description": "Outer tantra: union with the deity in meditation."
+   },
+   {
+    "order": 7,
+    "name": "mahāyoga",
+    "gloss": "great yoga",
+    "description": "Inner tantra: generation stage; great purity and equality."
+   },
+   {
+    "order": 8,
+    "name": "anuyoga",
+    "gloss": "subsequent yoga",
+    "description": "Inner tantra: completion stage; union of expanse and wisdom."
+   },
+   {
+    "order": 9,
+    "name": "atiyoga",
+    "gloss": "utmost yoga (Dzogchen)",
+    "description": "Awareness itself: cutting through and direct crossing."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:dudjom-chojung",
+    "ref": "Fundamentals",
+    "rests_on": [
+     "tea:dudjom-chojung:nine-vehicles"
+    ]
+   },
+   {
+    "source": "src:mengak-tawai-trengwa",
+    "rests_on": [
+     "tea:mengak-tawai-trengwa:views"
+    ]
+   },
+   {
+    "source": "src:kunjed-gyalpo",
+    "ref": "ch.10",
+    "rests_on": [
+     "tea:kunjed-gyalpo:10"
+    ]
+   }
+  ],
+  "notes": "The nine vehicles are a doxographical hierarchy (each vehicle a complete path for its practitioners) rather than successive stages of one person's progress; interpretive bands are therefore not assigned.",
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:dzogchen",
+    "lin:nyingma"
+   ],
+   "schools": [
+    "lin:nyingma"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -8720,7 +10258,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -8824,7 +10362,108 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:pancakrama-five-stages",
+  "name": "The five stages of the Pañcakrama (Ārya Guhyasamāja)",
+  "lineage": "lin:arya-guhyasamaja",
+  "lineages": [
+   "lin:arya-guhyasamaja"
+  ],
+  "stages": [
+   {
+    "order": 0,
+    "name": "utpattikrama",
+    "gloss": "generation stage (prerequisite)",
+    "description": "The practitioner established in the generation stage.",
+    "ref": "Pañcakrama 1.2",
+    "band": "B2"
+   },
+   {
+    "order": 1,
+    "name": "vajrajāpa (vāgviveka)",
+    "gloss": "vajra recitation / speech isolation",
+    "description": "Mantra joined with the winds.",
+    "ref": "Pañcakrama ch. 1",
+    "band": "B3"
+   },
+   {
+    "order": 2,
+    "name": "sarvaśuddhiviśuddhi (cittaviveka)",
+    "gloss": "purification of all / mind isolation",
+    "description": "The three appearances and four empties with the eighty natural conceptions.",
+    "ref": "Pañcakrama ch. 2",
+    "band": "B4"
+   },
+   {
+    "order": 3,
+    "name": "svādhiṣṭhāna",
+    "gloss": "self-consecration",
+    "description": "The illusory body, conventional truth, by the guru's grace.",
+    "ref": "Pañcakrama ch. 3",
+    "band": "B4"
+   },
+   {
+    "order": 4,
+    "name": "abhisambodhi",
+    "gloss": "full awakening",
+    "description": "Clear light, the all-empty, ultimate truth.",
+    "ref": "Pañcakrama ch. 4",
+    "band": "B5"
+   },
+   {
+    "order": 5,
+    "name": "yuganaddha",
+    "gloss": "union",
+    "description": "Union of illusory body and clear light; buddhahood as Vajradhara.",
+    "ref": "Pañcakrama ch. 5",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:pancakrama",
+    "ref": "chs. 1–5",
+    "rests_on": [
+     "tea:pancakrama:1.5-8",
+     "tea:pancakrama:2.4",
+     "tea:pancakrama:3.13-14",
+     "tea:pancakrama:5.2-5"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "F"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:arya-guhyasamaja"
+   ],
+   "schools": [
+    "lin:arya-guhyasamaja"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -8932,7 +10571,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -9057,7 +10696,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -9198,7 +10837,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -9286,7 +10925,141 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:puming-ten-oxherding-pictures",
+  "name": "Puming's ten oxherding pictures (the whitening ox)",
+  "lineage": "lin:chan",
+  "lineages": [
+   "lin:chan",
+   "lin:zen"
+  ],
+  "sources": [
+   {
+    "source": "src:puming-oxherding-pictures",
+    "ref": "1–10",
+    "rests_on": [
+     "tea:puming-oxherding-pictures:1-10"
+    ]
+   }
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "weimu 未牧",
+    "gloss": "undisciplined",
+    "description": "The black ox runs wild.",
+    "ref": "1",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "chutiao 初調",
+    "gloss": "discipline begun",
+    "description": "The nose is pierced; the herder begins training.",
+    "ref": "2",
+    "band": "B1"
+   },
+   {
+    "order": 3,
+    "name": "shouzhi 受制",
+    "gloss": "in harness",
+    "description": "The ox submits to control.",
+    "ref": "3",
+    "band": "B2"
+   },
+   {
+    "order": 4,
+    "name": "huishou 回首",
+    "gloss": "turning the head",
+    "description": "The ox turns its head back; whitening begins.",
+    "ref": "4",
+    "band": "B3"
+   },
+   {
+    "order": 5,
+    "name": "xunfu 馴伏",
+    "gloss": "tamed",
+    "description": "The ox is tame.",
+    "ref": "5",
+    "band": "B4"
+   },
+   {
+    "order": 6,
+    "name": "wuai 無礙",
+    "gloss": "unimpeded",
+    "description": "Free of obstruction.",
+    "ref": "6",
+    "band": "B5"
+   },
+   {
+    "order": 7,
+    "name": "renyun 任運",
+    "gloss": "letting be",
+    "description": "Going naturally without effort.",
+    "ref": "7",
+    "band": "B6"
+   },
+   {
+    "order": 8,
+    "name": "xiangwang 相忘",
+    "gloss": "all forgotten",
+    "description": "Herder and ox forget each other; the ox is white.",
+    "ref": "8",
+    "band": "B7"
+   },
+   {
+    "order": 9,
+    "name": "duzhao 獨照",
+    "gloss": "solitary illumination",
+    "description": "The herder alone, shining.",
+    "ref": "9",
+    "band": "B7"
+   },
+   {
+    "order": 10,
+    "name": "shuangmin 雙泯",
+    "gloss": "both vanished",
+    "description": "An empty circle.",
+    "ref": "10",
+    "band": "B7"
+   }
+  ],
+  "notes": "From memory; titles moderately certain; bands low confidence. Kuoan's series (pth:ten-oxherding-pictures) is owned by U51.",
+  "coverage": [
+   "B4",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:chan",
+    "lin:zen"
+   ],
+   "schools": [
+    "lin:chan",
+    "lin:zen"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -9366,7 +11139,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -9482,7 +11255,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -9601,7 +11374,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -9748,7 +11521,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -9875,7 +11648,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -9959,7 +11732,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -10072,7 +11845,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -10149,7 +11922,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -10276,7 +12049,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -10411,7 +12184,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -10536,7 +12309,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -10710,7 +12483,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -10821,7 +12594,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -10942,7 +12715,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -11040,7 +12813,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -11169,7 +12942,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -11337,7 +13110,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -11455,7 +13228,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -11545,7 +13318,169 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:shinran-shinjin-path",
+  "name": "Shinran: hearing, shinjin, the truly settled, birth-as-nirvāṇa, return",
+  "lineage": "lin:jodo-shinshu",
+  "lineages": [
+   "lin:jodo-shinshu",
+   "lin:shinshu-honganji-ha",
+   "lin:shinshu-otani-ha",
+   "lin:shinshu-takada-ha"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "hearing the name and the vow (monpō)",
+    "description": "Hearing the origin and fulfilment of the vow without doubt.",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "one thought-moment of shinjin",
+    "gloss": "entering the truly settled (shōjōju)",
+    "description": "Embraced, never to be abandoned; crosswise transcendence.",
+    "ref": "Kyōgyōshinshō, Shin",
+    "band": "B5"
+   },
+   {
+    "order": 3,
+    "name": "life of the nenbutsu in gratitude",
+    "gloss": "'equal to the Tathāgatas', 'the same as Maitreya'",
+    "description": "Still a foolish being full of passions; the ten benefits in the present life.",
+    "ref": "Mattōshō; Kyōgyōshinshō, Shin",
+    "band": "B6"
+   },
+   {
+    "order": 4,
+    "name": "birth in the true land = great nirvāṇa",
+    "description": "Necessary attainment of nirvāṇa (11th vow).",
+    "ref": "Kyōgyōshinshō, Shō",
+    "band": "B7"
+   },
+   {
+    "order": 5,
+    "name": "returning aspect (gensō)",
+    "description": "Returning to the forest of passions to save beings.",
+    "ref": "Kyōgyōshinshō, Shō",
+    "band": "B8"
+   }
+  ],
+  "rests_on": [
+   "tea:kyogyoshinsho:shin.cause",
+   "tea:mattosho:1",
+   "tea:mattosho:equal-to-tathagata",
+   "tea:kyogyoshinsho:sho"
+  ],
+  "notes": "Band B5 for shinjin is interpretive: Shinshū itself speaks of entering the stage of the truly settled, not of 'seeing'; it would object to equating shinjin with a meditative insight.",
+  "coverage": [
+   "B4",
+   "I1",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:jodo-shinshu",
+    "lin:shinshu-honganji-ha",
+    "lin:shinshu-otani-ha",
+    "lin:shinshu-takada-ha"
+   ],
+   "schools": [
+    "lin:jodo-shinshu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:shinran-three-vows",
+  "name": "Shinran's turning through the three vows",
+  "lineage": "lin:jodo-shinshu",
+  "lineages": [
+   "lin:jodo-shinshu"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "the nineteenth vow: various goods, welcome at death",
+    "gloss": "the provisional gate of myriad practices",
+    "description": "Self-power practice of meditative and non-meditative good leading to the transformed land.",
+    "ref": "T360 vow 19",
+    "band": "B2"
+   },
+   {
+    "order": 2,
+    "name": "the twentieth vow: self-power nenbutsu",
+    "gloss": "the true gate",
+    "description": "Saying the name while relying on one's own merit.",
+    "ref": "T360 vow 20",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "the eighteenth vow: other-power shinjin",
+    "gloss": "the ocean of the selected vow",
+    "description": "Entrusting to the primal vow; birth in the true land.",
+    "ref": "T360 vow 18",
+    "band": "B5"
+   }
+  ],
+  "rests_on": [
+   "tea:kyogyoshinsho:keshindo.three-vows",
+   "tea:sukhavativyuha-larger:vow19",
+   "tea:sukhavativyuha-larger:vow20"
+  ],
+  "coverage": [
+   "B4",
+   "I1",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:jodo-shinshu"
+   ],
+   "schools": [
+    "lin:jodo-shinshu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -12414,7 +14349,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -12535,7 +14470,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -12692,7 +14627,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -12811,7 +14746,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -12915,7 +14850,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -13056,7 +14991,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -13193,7 +15128,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -13331,7 +15266,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -13445,7 +15380,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -13576,7 +15511,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -13743,7 +15678,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -13824,7 +15759,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -13909,7 +15844,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -14064,7 +15999,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -14189,7 +16124,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -14330,7 +16265,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -14488,7 +16423,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -14599,7 +16534,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -14687,7 +16622,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -14794,7 +16729,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -14933,7 +16868,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -15018,7 +16953,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -15149,7 +17084,121 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:vajrayana-two-stages",
+  "name": "The path of the two stages (Indian Vajrayāna)",
+  "lineage": "lin:vajrayana",
+  "lineages": [
+   "lin:vajrayana"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "abhiṣeka",
+    "gloss": "consecration",
+    "description": "Entry into the maṇḍala and the four consecrations from a vajra master.",
+    "ref": "Sekoddeśa 8–22; Queen Dohā v15–17",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "samaya",
+    "gloss": "pledges",
+    "description": "Keeping the pledges and avoiding the root downfalls; the three vows.",
+    "ref": "Gurupañcāśikā 49; Advayavajrasaṃgraha §2",
+    "band": "B1"
+   },
+   {
+    "order": 3,
+    "name": "utpattikrama",
+    "gloss": "generation stage",
+    "description": "Deity yoga: arising as the deity in the maṇḍala, mantra, service.",
+    "ref": "Pañcakrama 1.2; Tattvasaṃgraha",
+    "band": "B2"
+   },
+   {
+    "order": 4,
+    "name": "utpattikrama (stable)",
+    "gloss": "stable generation",
+    "description": "Clarity and pride of the deity stabilized; the 'staircase' to the completion stage.",
+    "ref": "Pañcakrama 1.2",
+    "band": "B4"
+   },
+   {
+    "order": 5,
+    "name": "utpannakrama",
+    "gloss": "completion stage",
+    "description": "Winds drawn into the central channel; isolations, empties, illusory body; or the six-branch yoga.",
+    "ref": "Pañcakrama 1–3; GST 18",
+    "band": "B4"
+   },
+   {
+    "order": 6,
+    "name": "prabhāsvara",
+    "gloss": "clear light",
+    "description": "Direct realization of clear light (the all-empty).",
+    "ref": "Pañcakrama 2.5, ch. 4",
+    "band": "B5"
+   },
+   {
+    "order": 7,
+    "name": "yuganaddha (śaikṣa)",
+    "gloss": "union of the learner",
+    "description": "Union of illusory body and clear light still to be cultivated.",
+    "ref": "Pañcakrama 5.11",
+    "band": "B6"
+   },
+   {
+    "order": 8,
+    "name": "yuganaddha (aśaikṣa) / Vajradhara",
+    "gloss": "union beyond learning",
+    "description": "Buddhahood in this very life: non-dual gnosis, non-abiding nirvāṇa.",
+    "ref": "Pañcakrama 5.25; 3.12",
+    "band": "B7"
+   },
+   {
+    "order": 9,
+    "name": "samayamudrā",
+    "gloss": "pledge seal / activity",
+    "description": "Vajradhara radiating as Heruka with enjoyment and emanation bodies for beings.",
+    "ref": "Advayavajra, Caturmudrā §4",
+    "band": "B8"
+   }
+  ],
+  "notes": "A composite map assembled by the unit from the cited texts; the 'learner/non-learner' split of union is the later scholastic presentation.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "F"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:vajrayana"
+   ],
+   "schools": [
+    "lin:vajrayana"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -15240,7 +17289,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -15351,7 +17400,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -15455,7 +17504,154 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:vasubandhu-five-gates",
+  "name": "Vasubandhu's five gates of practice and five gates of merit",
+  "lineage": "lin:pure-land",
+  "lineages": [
+   "lin:pure-land",
+   "lin:jodo-shu",
+   "lin:jodo-shinshu"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "worship (lìbài mén)",
+    "gloss": "bodily worship of Amitābha",
+    "description": "Bowing to Amitābha intending birth.",
+    "ref": "T1524 231b13-15",
+    "band": "B2"
+   },
+   {
+    "order": 2,
+    "name": "praise (zàntàn mén)",
+    "gloss": "calling the name",
+    "description": "Calling the name in accord with the light and meaning of the name.",
+    "ref": "231b15-17",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "aspiration (zuòyuàn mén)",
+    "gloss": "śamatha",
+    "description": "Single-minded aspiration for birth = practising śamatha.",
+    "ref": "231b17-18",
+    "band": "B3"
+   },
+   {
+    "order": 4,
+    "name": "contemplation (guānchá mén)",
+    "gloss": "vipaśyanā of the 29 adornments",
+    "description": "Contemplating the land, the Buddha and the bodhisattvas with right mindfulness.",
+    "ref": "231b18-23",
+    "band": "B4"
+   },
+   {
+    "order": 5,
+    "name": "transfer (huíxiàng mén)",
+    "gloss": "dedication with great compassion",
+    "description": "Not abandoning suffering beings, making transfer foremost.",
+    "ref": "231b23-24",
+    "band": "B2"
+   },
+   {
+    "order": 6,
+    "name": "gate of approach (jìn mén)",
+    "gloss": "born in the Land of Peace and Bliss",
+    "description": "Fruit of worship.",
+    "ref": "233a09-10",
+    "band": "B5"
+   },
+   {
+    "order": 7,
+    "name": "gate of the great assembly (dàhuìzhòng mén)",
+    "gloss": "entering the number of the great assembly",
+    "description": "Fruit of praise.",
+    "ref": "233a11-13",
+    "band": "B5"
+   },
+   {
+    "order": 8,
+    "name": "gate of the dwelling (zhái mén)",
+    "gloss": "entering the lotus-store world",
+    "description": "Fruit of śamatha.",
+    "ref": "233a14-16",
+    "band": "B6"
+   },
+   {
+    "order": 9,
+    "name": "gate of the chamber (wū mén)",
+    "gloss": "enjoying the flavours of the Dharma",
+    "description": "Fruit of vipaśyanā.",
+    "ref": "233a17-19",
+    "band": "B6"
+   },
+   {
+    "order": 10,
+    "name": "gate of the garden of play (yuánlín yóuxìdì mén)",
+    "gloss": "going out to teach",
+    "description": "Manifesting transformation bodies in the garden of birth-and-death and forest of passions, by the power of the original vow.",
+    "ref": "233a19-22",
+    "band": "B8"
+   },
+   {
+    "order": 11,
+    "name": "perfect awakening (anuttarā samyaksaṃbodhi)",
+    "gloss": "swift attainment",
+    "description": "By practising the five gates for self and others the bodhisattva swiftly attains perfect awakening.",
+    "ref": "233a24-25",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:wangsheng-lun",
+    "ref": "231b08-233a25"
+   }
+  ],
+  "rests_on": [
+   "tea:wangsheng-lun:231b08-24",
+   "tea:wangsheng-lun:233a05-25"
+  ],
+  "notes": "Bands are the interpretation layer; the gates of merit belong to the Pure Land after birth.",
+  "coverage": [
+   "B4",
+   "I1",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 3,
+   "lineages": [
+    "lin:jodo-shinshu",
+    "lin:jodo-shu",
+    "lin:pure-land"
+   ],
+   "schools": [
+    "lin:jodo-shinshu",
+    "lin:jodo-shu",
+    "lin:pure-land"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -15553,7 +17749,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -15668,7 +17864,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -15809,7 +18005,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -15932,7 +18128,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -16028,7 +18224,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -16113,7 +18309,114 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
+  }
+ },
+ {
+  "id": "pth:yeshe-lama-path",
+  "name": "The path of the Yeshe Lama (Longchen Nyingthig Dzogchen)",
+  "lineage": "lin:longchen-nyingthig",
+  "lineages": [
+   "lin:dzogchen",
+   "lin:longchen-nyingthig"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "sngon 'gro",
+    "gloss": "common and uncommon preliminaries",
+    "description": "As in pth:kunzang-lamai-shelung-ngondro.",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "ru shan",
+    "gloss": "separating saṃsāra and nirvāṇa",
+    "description": "Outer, inner and secret rushen distinguishing mind and awareness.",
+    "ref": "rushen",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "ngo sprod",
+    "gloss": "direct introduction",
+    "description": "Recognition of awareness pointed out by the master.",
+    "band": "B5"
+   },
+   {
+    "order": 4,
+    "name": "khregs chod",
+    "gloss": "cutting through",
+    "description": "Resting in primordially pure awareness; self-liberation.",
+    "ref": "trekcho",
+    "band": "B6"
+   },
+   {
+    "order": 5,
+    "name": "thod rgal",
+    "gloss": "direct crossing (restricted)",
+    "description": "The four visions of spontaneous presence.",
+    "ref": "togal",
+    "band": "B6"
+   },
+   {
+    "order": 6,
+    "name": "chos nyid zad pa",
+    "gloss": "exhaustion in dharmatā / rainbow body",
+    "description": "Final fruit.",
+    "band": "B7"
+   },
+   {
+    "order": 7,
+    "name": "bar do",
+    "gloss": "bardo instructions (for those not liberated in life)",
+    "description": "Recognition at death, in dharmatā or in becoming.",
+    "ref": "bardo"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:yeshe-lama",
+    "rests_on": [
+     "tea:yeshe-lama:rushen",
+     "tea:yeshe-lama:trekcho",
+     "tea:yeshe-lama:togal",
+     "tea:yeshe-lama:bardo"
+    ]
+   }
+  ],
+  "notes": "Structure reconstructed from memory at section level.",
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:dzogchen",
+    "lin:longchen-nyingthig"
+   ],
+   "schools": [
+    "lin:nyingma"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -16213,7 +18516,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -16327,7 +18630,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -16435,7 +18738,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -16553,7 +18856,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -16643,7 +18946,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -16774,7 +19077,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -16860,7 +19163,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -16965,7 +19268,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -17046,7 +19349,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -17125,7 +19428,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -17216,7 +19519,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  },
  {
@@ -17305,7 +19608,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:10 IST"
+   "computed": "2026-09-29 17:34 IST"
   }
  }
 ]

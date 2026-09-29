@@ -17,4 +17,4 @@ Singing the verses of the Sāmaveda to their melodies as given in the song-books
 - The forest (āraṇyageya) melodies are regarded as potent and are learned apart, outside the village (as reported). — [Āraṇyageya-gāna (Araṇyegāna)](../texts/aranyageya-gana.md) (tradition)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._

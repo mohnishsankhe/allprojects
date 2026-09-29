@@ -15,4 +15,4 @@
 Samantabhadra's hymn of about one hundred verses to the Jinas written in elaborate figured verse (citrakāvya).
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

@@ -14,4 +14,4 @@ Repeating 'hare rāma hare rāma rāma rāma hare hare, hare kṛṣṇa hare k�
 _Notes: Gauḍīya practice recites it with the 'hare kṛṣṇa' half first; the Upaniṣad gives the 'hare rāma' half first._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

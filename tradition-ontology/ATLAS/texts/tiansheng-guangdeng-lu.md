@@ -17,4 +17,4 @@ Second 'lamp' record (1036), compiled by the layman Li Zunxu, favouring the Linj
 _Notes: Not held locally; claim about the flower-sermon source is moderate confidence._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

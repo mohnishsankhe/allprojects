@@ -31,4 +31,4 @@ The Veda is authorless and eternal in its word–meaning relation; human composi
 _Notes: No Mīmāṃsaka text written against the Prabandham is recalled; the Mīmāṃsā side is stated from its general doctrine of scriptural authority, and the objections the Ācārya Hṛdayam answers (Tamil language, non-brahmin author) are the tradition's own report of them. Feeds dsp:status-of-veda (U50)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._

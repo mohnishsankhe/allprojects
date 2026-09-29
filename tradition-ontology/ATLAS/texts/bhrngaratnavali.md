@@ -17,4 +17,4 @@ A Sahajiyā text attributed to Mukunda Dāsa on the lotuses and lakes of the inn
 _Notes: Existence recalled from the scholarly literature (M. M. Basu, S. B. Dasgupta, E. C. Dimock); contents only in outline._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

@@ -13,6 +13,8 @@
 - [Mahāyāna](../lineages/mahayana.md): The Heart Sūtra calls the perfection of wisdom the great mantra and gives gate gate pāragate pārasaṃgate bodhi svāhā.
 - [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md): The Saṃhitā portion of the Veda — verses, formulas and chants — which, with the Brāhmaṇa, makes up the Veda (ĀpŚS 24.1.31); to be recited with exact accent (PŚ 52) and understood (Nirukta 1.15–18).
 - [Mantraśāstra (the science of mantras: the smārta-tantric mantra manuals)](../lineages/mantrasastra.md): A sacred formula made of the letters (mātṛkā), each with its seer, metre, deity, seed, power and pin; mantras proper have male deities, vidyās female; they are male, female or neuter by their endings (ŚT 2.57–59) and fiery or lunar (ŚT 2.60–63).
+- [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md): Sacred formula of a deity; the mantra way is named after it; its essence is the vajra recitation of OṂ ĀḤ HŪṂ with the breath (Pañcakrama 1).
+- [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md): Saraha: 'I have not seen a single mantra or tantra' — the innate is beyond mantra (People Dohā v41).
 - [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md): Śiva's powers present as sound-forms through which ritual acts; the perfected mantras paralyse and destroy the soul's bonds in initiation.
 - [Spanda (the doctrine of vibration)](../lineages/spanda.md): The mind is mantra (Śiva Sūtra 2.1); mantras rest on the strength of spanda and dissolve in it with the worshipper's mind (SK 2.1-2).
 - [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md): Tamil mantiram: the Siddhars use seed-syllables (the three letters of Vālai, the five letters) yet ask 'for those who stand in the true tantra, why mantra?' (Kuṭampai 7) and prize the unspoken mantra.
@@ -21,6 +23,7 @@
 - Pali: manta  — partial
 - Tibetan: sngags  — exact
 - Chinese: zhou 咒  — exact
+- Chinese: zhenyan 真言  — exact
 - Tamil: mantiram மந்திரம் — exact
 
 ## Equivalents (interpretation layer)
@@ -29,4 +32,4 @@
 _Notes: Scholarly metadata only (not used in interpretation): cognate of Avestan maθra._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U12-mimamsa, skeleton:U39-mahayana-sutras, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U12-mimamsa, skeleton:U39-mahayana-sutras, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, skeleton:U44-indian-vajrayana, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._

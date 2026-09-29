@@ -19,7 +19,7 @@
   - kind: original; name: Sanskrit in the DCS corpus (sources_raw/dcs, 'BoCA'); ed. Minayeff; ed. Vaidya (1960, with the Pañjikā)
   - kind: translation; name: Tibetan translation, Derge Tengyur D3871 (byang chub sems dpa'i spyod pa la 'jug pa) — catalog:Derge-Tengyur:D3871
   - kind: translation; name: Chinese: Puti xing jing 菩提行經, T1662 (11th c.) — catalog:CBETA:T32n1662
-**Commentaries on this text:** [Bodhicaryāvatārapañjikā](bodhicaryavatara-panjika.md), [Norbu Ketaka (nor bu ke ta ka), Mipham's commentary on Bodhicaryāvatāra ch. 9](ketaka-mipham.md)
+**Commentaries on this text:** [Bodhicaryāvatārapañjikā](bodhicaryavatara-panjika.md), [Entrance for the Bodhisattvas (rgyal sras 'jug ngogs)](gyalse-jugngog.md), [Norbu Ketaka (nor bu ke ta ka), Mipham's commentary on Bodhicaryāvatāra ch. 9](ketaka-mipham.md)
 
 ## Teachings (36: skeleton 36)
 
@@ -409,4 +409,4 @@ concepts: [The awakening mind (bodhicitta) in the Madhyamaka manuals](../concept
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

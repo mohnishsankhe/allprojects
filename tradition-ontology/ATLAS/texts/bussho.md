@@ -24,7 +24,7 @@ Quoting Huineng that impermanence is buddha-nature and permanence is the discrim
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-concepts: `cpt:buddha-nature-chan` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md), [Huineng 惠能 / 慧能 (the Sixth Patriarch)](../teachers/huineng.md)
+concepts: [Buddha-nature in Chan, Seon and Zen](../concepts/buddha-nature-chan.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md), [Huineng 惠能 / 慧能 (the Sixth Patriarch)](../teachers/huineng.md)
 
 ### whole-being <a id="tea-bussho-whole-being"></a>
 `skeleton` · confidence high
@@ -33,10 +33,10 @@ The Nirvāṇa-sūtra line 'all sentient beings without exception have buddha-na
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-terms: [foxing (buddha-nature)](../terms/foxing.md) · concepts: `cpt:buddha-nature-chan` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+terms: [foxing (buddha-nature)](../terms/foxing.md) · concepts: [Buddha-nature in Chan, Seon and Zen](../concepts/buddha-nature-chan.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

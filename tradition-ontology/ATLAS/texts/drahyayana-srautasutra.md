@@ -17,4 +17,4 @@ The Śrauta manual of the Rāṇāyanīya Sāmaveda singers.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Drāhyāyaṇaśrautasūtra, https://en.wikipedia.org/wiki/%C5%9Arauta — Low-confidence entry confirmed as extant (DCS); the Rāṇāyanīya Sāmaveda Śrautasūtra.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

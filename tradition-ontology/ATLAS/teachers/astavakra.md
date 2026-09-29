@@ -11,4 +11,4 @@
 A sage born bent in eight places by his father Kahoḍa's curse; as a boy he defeated Bandin at Janaka's court (Mahābhārata 3.132-134). The Aṣṭāvakra Gītā presents him as Janaka's teacher of non-dual knowledge.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

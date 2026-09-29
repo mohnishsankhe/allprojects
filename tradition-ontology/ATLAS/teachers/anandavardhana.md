@@ -11,4 +11,4 @@
 Kashmiri poet-theorist, author of the Dhvanyāloka, who established suggestion (dhvani) as the soul of poetry and rasa-dhvani as its highest form; he named śānta the principal rasa of the Mahābhārata.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._

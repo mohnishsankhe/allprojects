@@ -28,8 +28,8 @@ The essential function of buddhas and the functioning essence of patriarchs: it 
 
 _level: ultimate · standpoint: experiential · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-concepts: `cpt:silent-illumination` · practices: `prc:silent-illumination`, `prc:zazen`
+concepts: [Silent illumination (mozhao)](../concepts/silent-illumination.md) · practices: [Silent illumination (mozhao)](../practices/silent-illumination.md), [Zazen / zuochan (seated meditation)](../practices/zazen.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

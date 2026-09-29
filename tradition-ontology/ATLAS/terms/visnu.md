@@ -16,4 +16,4 @@
 **Related:** [Nārāyaṇa](narayana.md), [Hari](hari.md), [brahman](brahman.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._

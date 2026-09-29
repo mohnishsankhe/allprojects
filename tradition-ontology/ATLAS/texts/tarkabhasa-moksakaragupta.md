@@ -37,8 +37,8 @@ The treatise closes with the four Buddhist tenet systems — Vaibhāṣika, Saut
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-concepts: [The four Buddhist tenet systems](../concepts/four-tenet-systems.md) · teachers: [Mokṣākaragupta](../teachers/moksakaragupta.md)
+concepts: [The four tenet systems (grub mtha' bzhi)](../concepts/four-tenet-systems.md) · teachers: [Mokṣākaragupta](../teachers/moksakaragupta.md)
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

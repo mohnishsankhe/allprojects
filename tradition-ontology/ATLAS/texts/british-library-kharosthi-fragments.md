@@ -14,4 +14,4 @@
 The collection that opened Gāndhārī studies: Dharmapada-type verses, the Rhinoceros Sūtra, Ekottarikāgama-type sūtras, a commentary on the Saṃgīti-sūtra, Abhidharma, avadānas and the Anavatapta verses.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

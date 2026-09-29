@@ -24,7 +24,7 @@ Three essentials for the dying: first, skilfully instruct and comfort the dying 
 
 _level: conventional · standpoint: ethical-social · path: devotion, sound · stage: all · types: death-dying, practice_
 
-terms: `trm:zhunian` · concepts: `cpt:deathbed-practice` · practices: `prc:zhunian`, `prc:deathbed-rites` · teachers: [Yinguang](../teachers/yinguang.md)
+terms: [zhunian](../terms/zhunian.md) · concepts: [Deathbed practice and right mindfulness at death](../concepts/deathbed-practice.md) · practices: [Assisted recitation for the dying (zhunian)](../practices/zhunian.md), [Deathbed rites for birth (linzhong xingyi / rinjū gyōgi)](../practices/deathbed-rites.md) · teachers: [Yinguang](../teachers/yinguang.md)
 
 ### summary-of-teaching <a id="tea-yinguang-wenchao-summary-of-teaching"></a>
 `skeleton` · confidence moderate
@@ -33,8 +33,8 @@ Fulfil your human relations and duties, guard against evil and keep sincerity, d
 
 _level: conventional · standpoint: ethical-social · path: devotion, action · stage: all · types: ethics, practice_
 
-terms: `trm:xinyuanxing`, [bodhicitta](../terms/bodhicitta.md) · concepts: `cpt:faith-vow-practice` · teachers: [Yinguang](../teachers/yinguang.md)
+terms: [xin yuan xing](../terms/xinyuanxing.md), [bodhicitta](../terms/bodhicitta.md) · concepts: [Faith and practice (faith, vow, practice)](../concepts/faith-vow-practice.md) · teachers: [Yinguang](../teachers/yinguang.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

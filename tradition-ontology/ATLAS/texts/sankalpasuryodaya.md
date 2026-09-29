@@ -14,4 +14,4 @@
 Deśika's allegorical drama in ten acts on the soul's liberation (King Viveka against Mahāmoha), written as a Viśiṣṭādvaita answer to Kṛṣṇamiśra's Prabodhacandrodaya.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._

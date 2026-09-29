@@ -38,7 +38,7 @@ Asked whether there is an easy way to reach non-retrogression quickly, the teach
 
 _level: conventional · standpoint: seeker · path: devotion, general · stage: beginner · types: practice, karma-liberation_
 
-terms: `trm:yixing`, `trm:nanxing`, [avaivartika / avinivartanīya](../terms/avaivartika.md) · concepts: `cpt:easy-and-difficult-practice` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [yixing](../terms/yixing.md), [nanxing](../terms/nanxing.md), [avaivartika / avinivartanīya](../terms/avaivartika.md) · concepts: [The easy path and the difficult path](../concepts/easy-and-difficult-practice.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 41b13-17 <a id="tea-dasabhumika-vibhasa-41b13-17"></a>
 `skeleton` · confidence high
@@ -49,7 +49,7 @@ Naming ten buddhas of the ten directions, the verse says: whoever wishes quickly
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: beginner · types: practice_
 
-terms: `trm:chengming` · concepts: `cpt:easy-and-difficult-practice` · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md)
+terms: [chengming](../terms/chengming.md) · concepts: [The easy path and the difficult path](../concepts/easy-and-difficult-practice.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md)
 
 ### 43a09-20 <a id="tea-dasabhumika-vibhasa-43a09-20"></a>
 `skeleton` · confidence high
@@ -60,7 +60,7 @@ Among the many buddhas to be recollected, Amitābha's original vow is this: 'If 
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: all · types: practice, karma-liberation_
 
-terms: `trm:biding`, `trm:benyuan` · concepts: `cpt:easy-and-difficult-practice`, `cpt:rightly-established-state` · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md), [Amitābha / Amitāyus](../teachers/amitabha.md)
+terms: [zhengding ju](../terms/zhengding-ju.md), [benyuan](../terms/benyuan.md) · concepts: [The easy path and the difficult path](../concepts/easy-and-difficult-practice.md), [The rightly established state (zhengding ju / shōjōju)](../concepts/rightly-established-state.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md), [Amitābha / Amitāyus](../teachers/amitabha.md)
 
 ### 43b18-19 <a id="tea-dasabhumika-vibhasa-43b18-19"></a>
 `skeleton` · confidence high
@@ -71,8 +71,8 @@ If one plants good roots but doubts, the lotus does not open; for one whose fait
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:xinxin` · concepts: `cpt:true-and-transformed-lands` · obstacles: `obs:doubt-of-buddha-wisdom`
+terms: [śraddhā](../terms/sraddha.md) · concepts: [True and transformed lands; womb-birth and the borderland](../concepts/true-and-transformed-lands.md) · obstacles: [Doubting the Buddha's wisdom](../obstacles/doubt-of-buddha-wisdom.md)
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

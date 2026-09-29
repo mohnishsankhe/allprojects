@@ -93,7 +93,7 @@ Neither method without wisdom nor wisdom without method is the bodhisattva's lib
 
 _level: conventional · standpoint: seeker · path: action, knowledge · stage: all · types: practice_
 
-concepts: [Union of method and wisdom](../concepts/union-of-method-and-wisdom.md) · teachers: [Kamalaśīla](../teachers/kamalasila.md)
+concepts: [The union of method and wisdom](../concepts/union-of-method-and-wisdom.md) · teachers: [Kamalaśīla](../teachers/kamalasila.md)
 
 ### 3 <a id="tea-bhavanakrama-3"></a>
 `skeleton` · confidence high
@@ -108,4 +108,4 @@ concepts: [Correct analysis precedes non-conceptuality](../concepts/bhutapratyav
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

@@ -15,4 +15,4 @@ An akaval to Śiva of Kāñcī detailing the body's impurity, the snare of women
   - kind: original; name: Cittar pāṭalkaḷ tokuppu II: Paṭṭiṉattār pāṭalkaḷ (Project Madurai 1998–2000; GRETIL Devanāgarī transliteration)
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._

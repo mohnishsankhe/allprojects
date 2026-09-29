@@ -7,7 +7,7 @@
 **Dates:** Scholarly account: c. 1007–1085; (confidence moderate)
 **Historicity:** historical
 **Teachers:** [Śavaripa](savaripa.md)
-**Students:** `tch:marpa`, [Sahajavajra](sahajavajra.md), [Vajrapāṇi (the Indian master)](vajrapani-indian.md)
+**Students:** [Marpa Chökyi Lodrö (Marpa the Translator)](marpa.md), [Sahajavajra](sahajavajra.md), [Vajrapāṇi (the Indian master)](vajrapani-indian.md)
 **Works:** 
   - [Advayavajrasaṃgraha](../texts/advayavajrasamgraha.md) — attribution: accepted
   - [Amanasikārādhāra](../texts/amanasikaradhara.md) — attribution: accepted
@@ -23,4 +23,4 @@ U44 contribution: Indian scholar-siddha (c. 1007–1085), disciple of Śavaripa 
 _Notes: Contribution of U41; U44/U46 own the entry._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

@@ -24,4 +24,4 @@ The book of peace: Yudhiṣṭhira's grief and wish to renounce, the arguments o
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) book 12: 353 chapters — Book 12 has exactly 353 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._

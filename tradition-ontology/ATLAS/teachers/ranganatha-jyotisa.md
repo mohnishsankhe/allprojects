@@ -10,4 +10,4 @@
 Author of the Gūḍhārthaprakāśa on the Sūrya Siddhānta (1603).
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._

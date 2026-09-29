@@ -26,8 +26,8 @@ Advayavajra's defence of 'non-mentation' (amanasikāra) as the realization of th
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: advanced · types: ultimate, sound-language_
 
-terms: [amanasikāra](../terms/amanasikara.md), `trm:a-syllable` · concepts: `cpt:amanasikara`, `cpt:syllable-a` · teachers: [Maitrīpa (Advayavajra)](../teachers/maitripa.md)
+terms: [amanasikāra](../terms/amanasikara.md), [akāra](../terms/a-syllable.md) · concepts: [Non-mentation (amanasikāra)](../concepts/amanasikara.md), [The syllable A](../concepts/syllable-a.md) · teachers: [Maitrīpa (Advayavajra)](../teachers/maitripa.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

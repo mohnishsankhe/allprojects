@@ -14,4 +14,4 @@ A late list of the fifty-one Śākta seats, naming for each the part of Satī's 
 _Notes: Not in the local corpus; attribution to the Tantracūḍāmaṇi and date as usually reported (D. C. Sircar, The Śākta Pīṭhas). Verify._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._

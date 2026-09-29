@@ -16,4 +16,4 @@ The long-lived sage who instructs the Pāṇḍavas in the forest (3.180–221):
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.180.5, 3.186.81-91, 3.197.1 [mārka] — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

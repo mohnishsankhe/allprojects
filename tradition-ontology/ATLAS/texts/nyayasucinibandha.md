@@ -15,4 +15,4 @@
 Vācaspati Miśra's index of the sūtras and prakaraṇas of the Nyāya Sūtra, which fixed the sūtra text as read by the later tradition; its closing verse gives a date (year 898 of an unnamed era).
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._

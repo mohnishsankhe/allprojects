@@ -28,4 +28,4 @@ terms: [saptāha](../terms/saptaha.md), [preta](../terms/preta.md) · concepts: 
 _Notes: Colophons 'śrīpadmapurāṇe uttarakhaṇḍe śrīmadbhāgavatamāhātmye' checked in the local e-text (BhP wiki 00)._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

@@ -25,7 +25,7 @@ Musang's assemblies: first drawn-out recitation of the Buddha's name to the end 
 
 _level: bridging · standpoint: seeker · path: meditation, sound · stage: all · types: practice, ethics_
 
-terms: [wunian (no-thought)](../terms/wunian.md), [sanxue (three trainings)](../terms/sanxue.md) · concepts: `cpt:no-thought-no-form-non-abiding` · practices: `prc:yinsheng-nianfo` · teachers: [Musang 無相 (Kim heshang 金和尚)](../teachers/musang.md)
+terms: [wunian (no-thought)](../terms/wunian.md), [sanxue (three trainings)](../terms/sanxue.md) · concepts: [No-thought as tenet, no-form as substance, non-abiding as root](../concepts/no-thought-no-form-non-abiding.md) · practices: [Drawn-out recitation of the Buddha's name (Jingzhong)](../practices/yinsheng-nianfo.md) · teachers: [Musang 無相 (Kim heshang 金和尚)](../teachers/musang.md)
 
 ### 189a17 <a id="tea-lidai-fabao-ji-189a17"></a>
 `skeleton` · confidence moderate
@@ -40,4 +40,4 @@ terms: [wunian (no-thought)](../terms/wunian.md) · teachers: [Wuzhu 無住](../
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -17,4 +17,4 @@
 - part-of → [The five primary devotional rasas](five-devotional-rasas.md): dāsya is one of the devotional relationships — rests on [4.3](../texts/ramcaritmanas.md#tea-ramcaritmanas-4-3)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

@@ -18,5 +18,19 @@ Verse attributed to the Oxhead founder: the nature of mind is unborn; knowing an
 **Editions / translations:** 
   - kind: original; name: CBETA XML P5, Taishō T51n2076 (Jingde chuandeng lu 景德傳燈錄); local copy sources_raw/cbeta/T/T51/T51n2076.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
+## Teachings (1: skeleton 1)
+
+### 457b26 <a id="tea-xinming-457b26"></a>
+`skeleton` · confidence moderate
+
+The nature of mind is unborn — what need of knowing and seeing? Originally there is not one dharma — who speaks of cultivation and refinement? … To use the mind to guard stillness is still not free of sickness; forgetting birth and death is the original nature.
+
+> 心性不生何須知見。本無一法誰論熏鍊
+
+_level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, practice_
+
+terms: [wuxin (no-mind)](../terms/wuxin.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · teachers: [Niutou Farong 牛頭法融](../teachers/niutou-farong.md)
+
+
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

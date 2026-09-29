@@ -268,4 +268,4 @@ teachers: [Devahūti](../teachers/devahuti.md)
 _Notes: Circulated as an independent text (e.g. the 1912 Venkatesvara Press edition and the 1915 Gītāsaṅgraha, whose colophons read 'śrīmadbhāgavate kapilagītāyām'). Verses 3.28.37-38 recur verbatim at 11.13.36-37._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

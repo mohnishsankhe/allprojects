@@ -15,4 +15,4 @@ Author of the Mugdhabodha grammar.
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/bopadeva, https://www.wisdomlib.org/definition/mugdhabodha — Confirmed: 13th c., Maharashtra (Wisdomlib).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

@@ -14,4 +14,4 @@ A lost Śaiva scripture known through quotations, above all Jayaratha's on Tantr
 _Notes: Quoted list checked in sources_raw/raw_etexts/AgamAH/shaivam/tantrAlokaH_viveka-vyAkhyA-sahitaH-1.md (Tantrāloka with Jayaratha's Viveka, KSTS vol. 1). The quoted Śivabheda list is lacunose after 'Dīpta'._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._

@@ -28,7 +28,7 @@ First doubt: bodhisattvas' task is great compassion, so should they not vow to b
 
 _level: conventional · standpoint: seeker · path: devotion · stage: beginner · types: ethics, dispute_
 
-concepts: `cpt:non-retrogression-in-the-pure-land`, `cpt:bodhicitta-in-pure-land` · teachers: `tch:zhiyi`
+concepts: [Non-retrogression of those born in Sukhāvatī](../concepts/non-retrogression-in-the-pure-land.md), [The aspiration for awakening in Pure Land teaching](../concepts/bodhicitta-in-pure-land.md) · teachers: `tch:zhiyi`
 
 ### 78a01-b01 <a id="tea-jingtu-shiyi-lun-78a01-b01"></a>
 `skeleton` · confidence high
@@ -39,7 +39,7 @@ Second doubt: if all dharmas are empty and unborn, is seeking birth in the West 
 
 _level: bridging · standpoint: polemical · path: knowledge, devotion · stage: all · types: dispute, ultimate_
 
-terms: [weixin jingtu (mind-only Pure Land)](../terms/weixin-jingtu.md), `trm:wusheng-zhi-sheng` · concepts: `cpt:birth-of-non-birth`, `cpt:mind-only-pure-land` · teachers: `tch:zhiyi` · disputes: `dsp:pure-land-real-or-mind-only`
+terms: [weixin jingtu (mind-only Pure Land)](../terms/weixin-jingtu.md), [wusheng zhi sheng](../terms/wusheng-zhi-sheng.md) · concepts: [The birth of non-birth](../concepts/birth-of-non-birth.md), [The Pure Land as mind only (weixin jingtu)](../concepts/mind-only-pure-land.md) · teachers: `tch:zhiyi` · disputes: [Is the Pure Land a real land in the West, or the purified mind only?](../debates/pure-land-real-or-mind-only.md)
 
 ### 79b03 <a id="tea-jingtu-shiyi-lun-79b03"></a>
 `skeleton` · confidence high
@@ -50,7 +50,7 @@ How can ordinary beings in bondage be non-retrogressive once born? For five reas
 
 _level: conventional · standpoint: cosmic · path: devotion · stage: all · types: karma-liberation_
 
-terms: [avaivartika / avinivartanīya](../terms/avaivartika.md) · concepts: `cpt:non-retrogression-in-the-pure-land` · teachers: `tch:zhiyi`
+terms: [avaivartika / avinivartanīya](../terms/avaivartika.md) · concepts: [Non-retrogression of those born in Sukhāvatī](../concepts/non-retrogression-in-the-pure-land.md) · teachers: `tch:zhiyi`
 
 ### 79b17 <a id="tea-jingtu-shiyi-lun-79b17"></a>
 `skeleton` · confidence high
@@ -61,7 +61,7 @@ Seventh doubt: why not seek Maitreya's Tuṣita? They seem alike but differ grea
 
 _level: conventional · standpoint: polemical · path: devotion · stage: all · types: dispute_
 
-concepts: `cpt:non-retrogression-in-the-pure-land` · teachers: `tch:zhiyi` · disputes: `dsp:tusita-or-sukhavati`
+concepts: [Non-retrogression of those born in Sukhāvatī](../concepts/non-retrogression-in-the-pure-land.md) · teachers: `tch:zhiyi` · disputes: [Should one aspire to Maitreya's Tuṣita or to Amitābha's Sukhāvatī?](../debates/tusita-or-sukhavati.md)
 
 ### 80b05 <a id="tea-jingtu-shiyi-lun-80b05"></a>
 `skeleton` · confidence high
@@ -83,10 +83,10 @@ Tenth doubt: what practice ensures birth, and can householders who have not ende
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: beginner · types: practice, ethics_
 
-concepts: `cpt:loathing-this-world-seeking-the-pure-land` · practices: `prc:impurity-contemplation-pure-land` · teachers: `tch:zhiyi`
+concepts: [Loathing this defiled world, joyfully seeking the Pure Land](../concepts/loathing-this-world-seeking-the-pure-land.md) · practices: [Loathing practice: contemplating the body's impurity (Jingtu shiyi lun)](../practices/impurity-contemplation-pure-land.md) · teachers: `tch:zhiyi`
 
 
 _Notes: Read locally (T47n1961)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

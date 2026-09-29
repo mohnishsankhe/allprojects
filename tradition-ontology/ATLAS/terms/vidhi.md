@@ -18,4 +18,4 @@
 **Related:** [codanā](codana.md), [niyoga](niyoga.md), [bhāvanā](bhavana.md), [caryā](carya.md), [vrata](vrata.md), [dvāra](dvara.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U17-pasupata-kapalika, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U17-pasupata-kapalika, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._

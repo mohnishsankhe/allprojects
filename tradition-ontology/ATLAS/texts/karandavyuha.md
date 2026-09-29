@@ -5,7 +5,7 @@
 **Alternate titles:** za ma tog bkod pa (Toh 116), Dasheng zhuangyan baowang jing (T1050, Tianxizai 983), Guṇakāraṇḍavyūha (verse version)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), `lin:newar-vajrayana`, [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), `lin:kagyu`, `lin:gelug`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), `lin:newar-vajrayana`, [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md), [Gelug](../lineages/gelug.md)
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous, c. 4th-5th c., probably Kashmir; confidence: high
 **Dates:** Scholarly account: c. 4th-5th c. CE; (confidence moderate)
@@ -39,4 +39,4 @@ terms: [ṣaḍakṣarī mahāvidyā](../terms/sadaksari-vidya.md) · practices:
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

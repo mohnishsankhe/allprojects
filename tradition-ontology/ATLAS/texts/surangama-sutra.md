@@ -41,7 +41,7 @@ Mahāsthāmaprāpta tells how he entered samādhi by recollecting the Buddha: as
 
 _level: conventional · standpoint: experiential · path: meditation, devotion, sound · stage: intermediate · types: practice, powers-experiences_
 
-terms: `trm:nianfo-sanmei` · concepts: `cpt:five-sutras-one-treatise` · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Mahāsthāmaprāpta](../teachers/mahasthamaprapta.md)
+terms: [nianfo sanmei](../terms/nianfo-sanmei.md) · concepts: [The five sūtras and one treatise (Chinese Pure Land canon)](../concepts/five-sutras-one-treatise.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Mahāsthāmaprāpta](../teachers/mahasthamaprapta.md)
 
 ### 6 <a id="tea-surangama-sutra-6"></a>
 `skeleton` · confidence moderate
@@ -105,4 +105,4 @@ disputes: `dsp:sudden-or-gradual`
 _Notes: T945 (vol. 19) is not in the local CBETA subset; fascicle-level refs from memory. The Tibetan Toh 236 (a translation from Chinese of part of the last chapter) is attested in the local Derge catalogue._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

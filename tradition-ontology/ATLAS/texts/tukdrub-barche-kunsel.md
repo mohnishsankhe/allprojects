@@ -4,7 +4,7 @@
 
 **Language:** Tibetan
 **Family:** ascetic
-**Lineages:** [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), [Chokling Tersar (the New Treasures of Chokgyur Lingpa)](../lineages/chokling-tersar.md), `lin:rime`
+**Lineages:** [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), [Chokling Tersar (the New Treasures of Chokgyur Lingpa)](../lineages/chokling-tersar.md), [Rimé (ris med), the non-sectarian movement](../lineages/rime.md)
 **Genre:** treasure cycle
 **Authors:** 
   - [Chokgyur Dechen Lingpa (mchog gyur bde chen gling pa)](../teachers/chokgyur-lingpa.md) — role: revealer; attribution: accepted
@@ -13,4 +13,4 @@
 The guru sādhana cycle of Padmasambhava revealed by Chokgyur Lingpa with Jamyang Khyentse Wangpo.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

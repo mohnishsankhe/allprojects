@@ -17,7 +17,7 @@ The canonical Chan genealogy (1004) by Daoyuan: the seven buddhas, 28 Indian and
 **Editions / translations:** 
   - kind: original; name: CBETA XML P5, Taishō T51n2076 (Jingde chuandeng lu 景德傳燈錄); local copy sources_raw/cbeta/T/T51/T51n2076.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
-## Teachings (17: skeleton 17)
+## Teachings (19: skeleton 19)
 
 ### 219a26 <a id="tea-jingde-chuandeng-lu-219a26"></a>
 `skeleton` · confidence high
@@ -28,7 +28,7 @@ Emperor Wu asks Bodhidharma the first principle of the holy truths: 'vast emptin
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, teacher-transmission, narrative_
 
-practices: `prc:biguan` · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Emperor Wu of Liang (Liang Wudi 梁武帝)](../teachers/emperor-wu-liang.md)
+practices: [Wall-gazing (biguan)](../practices/biguan.md) · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Emperor Wu of Liang (Liang Wudi 梁武帝)](../teachers/emperor-wu-liang.md)
 
 ### 219b21 <a id="tea-jingde-chuandeng-lu-219b21"></a>
 `skeleton` · confidence high
@@ -39,7 +39,7 @@ Shenguang cut off his own left arm and placed it before Bodhidharma; renamed Hui
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: intermediate · types: practice, teacher-transmission_
 
-concepts: `cpt:anxin-pacifying-mind` · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Huike 慧可 (Shenguang)](../teachers/huike.md)
+concepts: [Pacifying the mind](../concepts/anxin-pacifying-mind.md) · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Huike 慧可 (Shenguang)](../teachers/huike.md)
 
 ### 220c16 <a id="tea-jingde-chuandeng-lu-220c16"></a>
 `skeleton` · confidence high
@@ -50,7 +50,7 @@ A layman with a wasting disease asked Huike to absolve his sins: 'bring me your 
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: practice, ethics, teacher-transmission_
 
-practices: `prc:formless-repentance` · teachers: [Huike 慧可 (Shenguang)](../teachers/huike.md), [Sengcan 僧璨](../teachers/sengcan.md)
+practices: [Formless repentance](../practices/formless-repentance.md) · teachers: [Huike 慧可 (Shenguang)](../teachers/huike.md), [Sengcan 僧璨](../teachers/sengcan.md)
 
 ### 221c19 <a id="tea-jingde-chuandeng-lu-221c19"></a>
 `skeleton` · confidence high
@@ -83,7 +83,7 @@ Huairang sees Mazu sitting in meditation to become a buddha and polishes a tile 
 
 _level: bridging · standpoint: polemical · path: meditation · stage: intermediate · types: practice_
 
-concepts: `cpt:practice-and-realization` · practices: `prc:zazen` · obstacles: `obs:attachment-to-stillness` · teachers: [Nanyue Huairang 南嶽懷讓](../teachers/nanyue-huairang.md), [Mazu Daoyi 馬祖道一](../teachers/mazu.md)
+concepts: [Practice and realization](../concepts/practice-and-realization.md) · practices: [Zazen / zuochan (seated meditation)](../practices/zazen.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · teachers: [Nanyue Huairang 南嶽懷讓](../teachers/nanyue-huairang.md), [Mazu Daoyi 馬祖道一](../teachers/mazu.md)
 
 ### 244b26 <a id="tea-jingde-chuandeng-lu-244b26"></a>
 `skeleton` · confidence moderate
@@ -94,7 +94,7 @@ Asked about his teaching that insentient things preach the Dharma, Huizhong says
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, sound-language_
 
-concepts: `cpt:insentient-preach-dharma` · teachers: [Nanyang Huizhong 南陽慧忠 (National Teacher Zhong)](../teachers/nanyang-huizhong.md) · disputes: `dsp:buddha-nature-of-insentient`
+concepts: [The insentient preach the Dharma](../concepts/insentient-preach-dharma.md) · teachers: [Nanyang Huizhong 南陽慧忠 (National Teacher Zhong)](../teachers/nanyang-huizhong.md) · disputes: [Do insentient things (walls, tiles, grasses) have buddha-nature or preach the Dharma?](../debates/buddha-nature-of-insentient.md)
 
 ### 254c03 <a id="tea-jingde-chuandeng-lu-254c03"></a>
 `skeleton` · confidence high
@@ -116,7 +116,7 @@ Layman Pang's verse to Shitou on his daily activity: nothing special, just in ha
 
 _level: ultimate · standpoint: experiential · path: action · stage: realized · types: powers-experiences, practice_
 
-concepts: `cpt:everyday-activity-as-the-way`, `cpt:chan-view-of-powers` · teachers: [Layman Pang (Pang Yun 龐蘊)](../teachers/layman-pang.md), [Shitou Xiqian 石頭希遷](../teachers/shitou.md)
+concepts: [Everyday activity as the Way](../concepts/everyday-activity-as-the-way.md), [Chan attitude to supernatural powers](../concepts/chan-view-of-powers.md) · teachers: [Layman Pang (Pang Yun 龐蘊)](../teachers/layman-pang.md), [Shitou Xiqian 石頭希遷](../teachers/shitou.md)
 
 ### 268a21 <a id="tea-jingde-chuandeng-lu-268a21"></a>
 `skeleton` · confidence high
@@ -138,7 +138,7 @@ Xiangyan's awakening verse after a swept pebble struck bamboo: one strike and I 
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: realized · types: powers-experiences_
 
-concepts: `cpt:kensho-seeing-nature` · teachers: [Xiangyan Zhixian 香嚴智閑](../teachers/xiangyan-zhixian.md)
+concepts: [Seeing the nature (kenshō) and awakening (satori)](../concepts/kensho-seeing-nature.md) · teachers: [Xiangyan Zhixian 香嚴智閑](../teachers/xiangyan-zhixian.md)
 
 ### 285a25 <a id="tea-jingde-chuandeng-lu-285a25"></a>
 `skeleton` · confidence high
@@ -149,7 +149,18 @@ Lingyun's verse on awakening at peach blossoms: thirty years I sought the swords
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: realized · types: powers-experiences_
 
-concepts: `cpt:kensho-seeing-nature` · teachers: [Lingyun Zhiqin 靈雲志勤](../teachers/lingyun-zhiqin.md), [Guishan Lingyou 溈山靈祐](../teachers/guishan-lingyou.md)
+concepts: [Seeing the nature (kenshō) and awakening (satori)](../concepts/kensho-seeing-nature.md) · teachers: [Lingyun Zhiqin 靈雲志勤](../teachers/lingyun-zhiqin.md), [Guishan Lingyou 溈山靈祐](../teachers/guishan-lingyou.md)
+
+### 289a07 <a id="tea-jingde-chuandeng-lu-289a07"></a>
+`skeleton` · confidence high
+
+Guanxi Zhixian came to test the nun Moshan Liaoran; asked 'what is the master of Moshan?', she said 'not a male or female form'; he shouted 'why don't you transform (into a man)?' — 'I am not a spirit or a ghost; what would I change into?' He bowed and served as her gardener for three years.
+
+> 如何是末山主。然云。非男女相。閑乃喝云。何不變去。然云。不是神不是鬼變箇什麼
+
+_level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, teacher-transmission, ethics_
+
+teachers: [Moshan Liaoran 末山了然](../teachers/moshan-liaoran.md), [Guanxi Zhixian 灌溪志閑](../teachers/guanxi-zhixian.md) · disputes: `dsp:women-caste-liberation`
 
 ### 309b13 <a id="tea-jingde-chuandeng-lu-309b13"></a>
 `skeleton` · confidence high
@@ -171,7 +182,7 @@ A monk asked Yaoshan, sitting, what he was thinking: 'thinking of not-thinking.'
 
 _level: ultimate · standpoint: experiential · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: [hishiryō (non-thinking)](../terms/hishiryo.md) · practices: `prc:shikantaza` · teachers: [Yaoshan Weiyan 藥山惟儼](../teachers/yaoshan.md)
+terms: [hishiryō (non-thinking)](../terms/hishiryo.md) · practices: [Shikantaza (just sitting)](../practices/shikantaza.md) · teachers: [Yaoshan Weiyan 藥山惟儼](../teachers/yaoshan.md)
 
 ### 321c21 <a id="tea-jingde-chuandeng-lu-321c21"></a>
 `skeleton` · confidence high
@@ -182,7 +193,7 @@ Dongshan's verse on seeing his reflection crossing a stream: do not seek it from
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: realized · types: powers-experiences, ultimate_
 
-concepts: `cpt:kensho-seeing-nature` · teachers: [Dongshan Liangjie 洞山良价](../teachers/dongshan.md), [Yunyan Tansheng 雲巖曇晟](../teachers/yunyan.md)
+concepts: [Seeing the nature (kenshō) and awakening (satori)](../concepts/kensho-seeing-nature.md) · teachers: [Dongshan Liangjie 洞山良价](../teachers/dongshan.md), [Yunyan Tansheng 雲巖曇晟](../teachers/yunyan.md)
 
 ### 437c19 <a id="tea-jingde-chuandeng-lu-437c19"></a>
 `skeleton` · confidence high
@@ -193,7 +204,18 @@ A monk from the south reports the teachers there: this very mind is buddha; you 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate, death-dying_
 
-concepts: `cpt:srenika-heresy` · teachers: [Nanyang Huizhong 南陽慧忠 (National Teacher Zhong)](../teachers/nanyang-huizhong.md) · disputes: `dsp:srenika-heresy`
+concepts: [The 'Śreṇika heresy' (eternal mind-nature in a perishing body)](../concepts/srenika-heresy.md) · teachers: [Nanyang Huizhong 南陽慧忠 (National Teacher Zhong)](../teachers/nanyang-huizhong.md) · disputes: [Is there a permanent mind-nature that leaves the perishing body at death?](../debates/srenika-heresy.md)
+
+### 438a09 <a id="tea-jingde-chuandeng-lu-438a09"></a>
+`skeleton` · confidence high
+
+Asked what the buddha-mind is, Huizhong answers 'walls, tiles and pebbles'; the monk objects that the Nirvāṇa-sūtra says buddha-nature is what is apart from walls and insentient things, and that buddha-nature is permanent while mind is impermanent; Huizhong: deluded, they differ; awakened, they do not — like ice and water: when beings are deluded the nature congeals into mind, when awakened the mind melts into the nature.
+
+> 阿那箇是佛心。師曰。牆壁瓦礫。是僧曰。與經大相違也。涅槃云。離牆壁無情之物故名佛性
+
+_level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
+
+concepts: [The insentient preach the Dharma](../concepts/insentient-preach-dharma.md), [Buddha-nature in Chan, Seon and Zen](../concepts/buddha-nature-chan.md) · teachers: [Nanyang Huizhong 南陽慧忠 (National Teacher Zhong)](../teachers/nanyang-huizhong.md) · disputes: [Do insentient things (walls, tiles, grasses) have buddha-nature or preach the Dharma?](../debates/buddha-nature-of-insentient.md)
 
 ### 440a03 <a id="tea-jingde-chuandeng-lu-440a03"></a>
 `skeleton` · confidence high
@@ -204,8 +226,8 @@ Mazu's sermon: the Way needs no cultivation — only do not defile it. Defilemen
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, practice_
 
-terms: [pingchang xin (ordinary mind)](../terms/pingchang-xin.md) · concepts: `cpt:ordinary-mind` · teachers: [Mazu Daoyi 馬祖道一](../teachers/mazu.md) · disputes: `dsp:hongzhou-all-activity-buddha-nature`
+terms: [pingchang xin (ordinary mind)](../terms/pingchang-xin.md) · concepts: [Ordinary mind is the Way](../concepts/ordinary-mind.md) · teachers: [Mazu Daoyi 馬祖道一](../teachers/mazu.md) · disputes: [Is all activity the function of buddha-nature (Hongzhou), or must numinous knowing be recognised and cultivated (Zongmi)?](../debates/hongzhou-all-activity-buddha-nature.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

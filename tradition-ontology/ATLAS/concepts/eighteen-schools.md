@@ -18,4 +18,4 @@
 _Notes: The number eighteen is traditional; the actual lists differ in names, counts and derivations._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

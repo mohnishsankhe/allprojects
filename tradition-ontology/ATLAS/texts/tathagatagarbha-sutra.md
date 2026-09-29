@@ -5,7 +5,7 @@
 **Alternate titles:** Dafangdeng rulaizang jing 大方等如來藏經 (T666, Buddhabhadra c. 420), Dafangguang rulaizang jing (T667, Amoghavajra), de bzhin gshegs pa'i snying po (Toh 258)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), [Chan (Chinese Meditation school)](../lineages/chan.md), `lin:huayan`, `lin:jonang`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), [Chan (Chinese Meditation school)](../lineages/chan.md), `lin:huayan`, [Jonang (jo nang pa)](../lineages/jonang.md)
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana) at Rājagṛha, in the Vulture Peak's jewel-pavilion; scholarly: Anonymous; perhaps the earliest tathāgatagarbha text, c. 3rd c. CE (Chinese c. 290-306, lost; extant 420); confidence: high
 **Dates:** Scholarly account: c. 200-300 CE; (confidence moderate)
@@ -46,4 +46,4 @@ terms: [tathāgatagarbha](../terms/tathagatagarbha.md) · concepts: [The permane
 _Notes: Sanskrit lost apart from RGV citations; T666 (vol. 16) not local; Tibetan D258 in the local catalogue._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

@@ -20,7 +20,7 @@ Nāgārjuna's root verses on the middle way: in 27 examinations (parīkṣā) it
   - kind: original; name: GRETIL e-text (after de Jong / Vaidya), local: sources_raw/prepared/mulamadhyamakakarika; licence: GRETIL CC BY-NC-SA 4.0
   - kind: original; name: embedded in Candrakīrti's Prasannapadā, ed. P. L. Vaidya (Darbhanga 1960; 2nd ed. S. Tripathi 1987) — local e-text
   - kind: translation; name: Tibetan translation, Derge Tengyur D3824 (dbu ma rtsa ba'i tshig le'ur byas pa shes rab) — catalog:Derge-Tengyur:D3824
-**Commentaries on this text:** [Akutobhayā](akutobhaya.md), [Buddhapālita-Mūlamadhyamakavṛtti](buddhapalita-vrtti.md), [Dasheng zhongguan shilun 大乘中觀釋論](dasheng-zhongguan-shilun.md), [Prajñāpradīpa](prajnapradipa.md), [Prasannapadā](prasannapada.md), [Zhong lun 中論](zhong-lun.md)
+**Commentaries on this text:** [Akutobhayā](akutobhaya.md), [Buddhapālita-Mūlamadhyamakavṛtti](buddhapalita-vrtti.md), [Dasheng zhongguan shilun 大乘中觀釋論](dasheng-zhongguan-shilun.md), [Ocean of Reasoning (rtsa she ṭīk chen rigs pa'i rgya mtsho)](ocean-of-reasoning.md), [Prajñāpradīpa](prajnapradipa.md), [Prasannapadā](prasannapada.md), [Zhong lun 中論](zhong-lun.md)
 
 ## Teachings (105: skeleton 105)
 
@@ -1183,4 +1183,4 @@ terms: [dṛṣṭi](../terms/drsti.md), [karuṇā](../terms/karuna.md) · conc
 _Notes: Chapter titles confirmed from the Prasannapadā colophons in the local Vaidya/Tripathi e-text (ch.12 colophon reads 'duḥkhaparīkṣā'). Chapter verse counts (GRETIL): 14,25,9,9,8,10,34,13,12,16,8,10,8,8,11,10,33,12,6,24,21,16,25,40,24,12,30._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

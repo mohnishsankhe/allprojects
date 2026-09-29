@@ -14,4 +14,4 @@
 _Notes: Scholarly metadata: F. O. Schrader (1916) combined several saṃhitās' lists into over 200 titles; many titles are lost. Members are the src entries with lineage lin:pancaratra._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._

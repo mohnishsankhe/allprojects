@@ -14,4 +14,4 @@
 Second of the five early mind-series translations of Vairocana (moderate). Its text is part of the mind-series collection in the Nyingma Gyubum.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

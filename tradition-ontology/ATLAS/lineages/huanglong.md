@@ -24,7 +24,7 @@ The branch of the Linji house from Huanglong Huinan, prominent in the Northern S
 [Record from the Groves (Linjian lu)](../texts/linjian-lu.md), [Lettered Chan of Shimen (Shimen wenzi Chan)](../texts/shimen-wenzi-chan.md)
 
 ## Teachers
-[Donglin Changzong 東林常總](../teachers/donglin-changzong.md), [Huanglong Huinan 黃龍慧南](../teachers/huanglong-huinan.md), [Huitang Zuxin 晦堂祖心](../teachers/huitang-zuxin.md), [Juefan Huihong 覺範慧洪](../teachers/juefan-huihong.md), [Xu'an Huaichang 虛庵懷敞](../teachers/xuan-huaichang.md)
+[Donglin Changzong 東林常總](../teachers/donglin-changzong.md), [Doushuai Congyue 兜率從悅](../teachers/doushuai-congyue.md), [Huanglong Huinan 黃龍慧南](../teachers/huanglong-huinan.md), [Huitang Zuxin 晦堂祖心](../teachers/huitang-zuxin.md), [Juefan Huihong 覺範慧洪](../teachers/juefan-huihong.md), [Xu'an Huaichang 虛庵懷敞](../teachers/xuan-huaichang.md)
 
 ## Practices
 _none recorded_
@@ -36,4 +36,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -11,4 +11,4 @@
 Jaffna Śaiva reformer and scholar: prose catechisms of Śaiva Siddhānta, printed editions of Tamil Śaiva texts, schools, and polemic against Christian missionaries.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

@@ -17,4 +17,4 @@ _Notes: Commentators differ on its nature; not reconstructed here._
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (MuU 3.2.10-11). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:34 IST._

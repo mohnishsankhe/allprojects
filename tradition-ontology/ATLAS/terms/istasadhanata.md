@@ -16,4 +16,4 @@
 _Notes: Assigned to lin:bhatta-mimamsa because Maṇḍana is placed there by tradition; the view differs from Kumārila's._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._

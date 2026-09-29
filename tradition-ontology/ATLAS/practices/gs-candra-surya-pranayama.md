@@ -20,4 +20,4 @@ In the bound lotus, filling through the left (moon) and releasing through the ri
 _Notes: Measures of retention given in the text are not reproduced._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._

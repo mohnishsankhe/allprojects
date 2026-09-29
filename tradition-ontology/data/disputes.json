@@ -66,6 +66,76 @@
   }
  },
  {
+  "id": "dsp:acceptance-of-the-kalacakra",
+  "question": "Was the newly arrived Kālacakra to be accepted as authoritative, and the other tantras read in its light?",
+  "sides": [
+   {
+    "lineage": "lin:kalacakra",
+    "position": "Yes: the Kālacakra is the Ādibuddha's definitive teaching; the 'bodhisattva commentaries' read the Hevajra and Cakrasaṃvara through it.",
+    "arguments": [
+     "Vimalaprabhā's framing; Vajragarbha's Hevajra commentary."
+    ],
+    "texts": [
+     {
+      "source": "src:vimalaprabha",
+      "ref": "1"
+     },
+     {
+      "source": "src:hevajrapindarthatika",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:vimalaprabha:1"
+    ]
+   },
+   {
+    "lineage": "lin:vajrayana",
+    "position": "Some Indian paṇḍitas are reported to have resisted the new tantra when Kālacakrapāda introduced it (Tibetan histories; low confidence).",
+    "arguments": [
+     "Tibetan accounts of the debates at Nālandā/Vikramaśīla."
+    ],
+    "texts": [
+     {
+      "source": "src:gyagar-chojung-taranatha",
+      "ref": ""
+     }
+    ],
+    "rests_on": [],
+    "note": "Reported only in Tibetan histories recalled from memory."
+   }
+  ],
+  "queue_ref": "RQ-U44-acceptance-of-kalacakra",
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled; the historical debate is known only through later reports.",
+   "candidate_readings": [
+    "P5-neyartha: the Kālacakra as definitive, other tantras as provisional (the Kālacakra's own claim)",
+    "P3-path: parallel systems for different practitioners"
+   ],
+   "tradition_objections": "The Kālacakra tradition rejects parity; its critics are not documented in texts read."
+  },
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "G"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:adhyatma-niscaya-and-ritual",
   "question": "Is knowledge of the pure self by the ultimate standpoint the whole path, so that outward rites, worship and monastic authority are not needed?",
   "coverage_ref": "B2 / G",
@@ -823,6 +893,89 @@
   "provenance": {
    "units": [
     "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:amitabha-land-reward-or-transformation",
+  "question": "Is Amitābha a reward-body buddha in a reward land, or a transformation body in a land where ordinary beings and sages dwell together?",
+  "sides": [
+   {
+    "lineage": "lin:mahayana",
+    "position": "(Jingying Huiyuan and other Sui scholars, as reported) Sukhāvatī is a land manifested for beings; the upper grades are sages of the stages; ordinary beings are born into a lower land.",
+    "texts": [
+     {
+      "source": "src:guan-wuliangshou-jing-yishu",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:guanjing-shu:1.reward-land"
+    ]
+   },
+   {
+    "lineage": "lin:pure-land",
+    "position": "(Daochuo, Shandao) Amitābha is a reward buddha and Sukhāvatī a reward land; the old view is 'a great error'; ordinary beings enter by the vow's power; all nine grades are ordinary beings.",
+    "texts": [
+     {
+      "source": "src:anle-ji",
+      "ref": "5c11-15"
+     },
+     {
+      "source": "src:guanjing-shu",
+      "ref": "fasc. 1"
+     }
+    ],
+    "rests_on": [
+     "tea:anle-ji:5c11-15",
+     "tea:guanjing-shu:1.reward-land"
+    ]
+   },
+   {
+    "lineage": "lin:tiantai",
+    "position": "(Tiantai four-land scheme, as later Pure Land writers use it) Sukhāvatī is chiefly the land where ordinary beings and sages dwell together, while also containing the higher lands.",
+    "texts": [
+     {
+      "source": "src:jingtu-yibian",
+      "ref": "420b02"
+     }
+    ],
+    "rests_on": [
+     "tea:jingtu-yibian:420a23-b14"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: the two sides classify the same land within different three-body/four-land schemes.",
+   "candidate_readings": [
+    "P2-standpoint: 'reward' from the Buddha's side (fruit of the vow), 'land shared by ordinary beings' from the beings' side",
+    "P4-stage: the land appears according to the capacity of those born (Tiantai four lands)"
+   ],
+   "rests_on": [
+    "tea:anle-ji:5c11-15",
+    "tea:guanjing-shu:1.reward-land"
+   ]
+  },
+  "notes": "The Sui opponents' view is recorded as reported by Shandao and Daochuo (reported_by_opponent).",
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -2752,6 +2905,132 @@
   }
  },
  {
+  "id": "dsp:authenticity-of-nyingma-tantras",
+  "question": "Are the Old Tantras (rnying rgyud) authentic Indian scripture?",
+  "sides": [
+   {
+    "lineage": "lin:kadam",
+    "position": "Critics of the later diffusion questioned tantras translated in the early period for which no Indian original was known, and condemned practices they held to be perversions of tantra.",
+    "arguments": [
+     "No Sanskrit originals were found in India for many Old Tantras.",
+     "Royal ordinances of the western Tibetan kings (Lha bla ma Yeshe Ö, late 10th c.; Zhiwa Ö, late 11th c.) and a polemic attributed to 'Gö Khukpa Lhetse (Refutation of Perverted Mantras) rejected certain tantras and practices.",
+     "Butön excluded most Old Tantras from his canon for lack of Indian originals."
+    ],
+    "texts": [],
+    "notes": "Attributions and dates of the ordinances and polemics are given at low confidence (REPORT.md)."
+   },
+   {
+    "lineage": "lin:nyingma",
+    "position": "The Old Tantras were translated under imperial sponsorship by Indian masters and Tibetan translators; their Indian lineages are recorded; the Guhyagarbha has Indian commentaries and a Sanskrit manuscript was reported found at Samye; later editors placed an Old Tantra section in the Kangyur.",
+    "arguments": [
+     "Colophons name Indian translators (e.g. Śrī Siṃha and Vairocana for the Kunjed Gyalpo; Dharmabodhi, Dānarakṣita and Che btsan skyes for the Dupa Do).",
+     "The Derge Kangyur contains an Old Tantra section.",
+     "Nyingma apologists (e.g. Sokdokpa Lodrö Gyaltsen, 16th c.) answered the critiques point by point."
+    ],
+    "texts": [
+     {
+      "source": "src:kunjed-gyalpo",
+      "ref": "colophon"
+     },
+     {
+      "source": "src:dupa-do",
+      "ref": "colophon"
+     }
+    ],
+    "rests_on": []
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "A question of history and canon for which no reconciliation principle applies; not yet reconciled.",
+   "candidate_readings": [
+    "Indian texts whose originals were lost in India (Nyingma).",
+    "Compositions made in Tibet within an Indian framework (critics).",
+    "Scripture validated by its lineage and fruit whatever its place of writing (a reading some Nyingma apologists also offer)."
+   ],
+   "tradition_objections": "The Nyingma reject any reading that denies Indian origin."
+  },
+  "queue_ref": "RQ-U45-1",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:authenticity-of-terma",
+  "question": "Are revealed treasures (gter ma) genuine teachings of Padmasambhava and the buddhas?",
+  "sides": [
+   {
+    "lineage": "lin:sakya",
+    "position": "Sceptics (Sakya Paṇḍita among others) warned against texts 'dug from the earth' or received in dreams whose origin cannot be verified, and noted false revealers.",
+    "arguments": [
+     "Unverifiable origin opens the door to forgery.",
+     "Some treasures were exposed as fabrications."
+    ],
+    "texts": [],
+    "notes": "Low confidence on exact loci."
+   },
+   {
+    "lineage": "lin:nyingma",
+    "position": "Treasures are concealed by Padmasambhava, sealed in the revealer's mind by aspiration and entrusted to ḍākinīs; genuine revealers are prophesied and authenticated, and the tradition itself distinguishes true from false treasures.",
+    "arguments": [
+     "The six transmissions ensure a continuous lineage.",
+     "Treasures meet the needs of later times, as intended.",
+     "Their fruit — realization in practitioners — authenticates them."
+    ],
+    "texts": [
+     {
+      "source": "src:terjung-chenmo-chowang"
+     },
+     {
+      "source": "src:dudjom-chojung",
+      "ref": "terma"
+     }
+    ],
+    "rests_on": [
+     "tea:dudjom-chojung:terma"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Turns on criteria of scriptural authority on which the parties differ; not yet reconciled.",
+   "candidate_readings": [
+    "Authentic by the tradition's own tests (prophecy, lineage, fruit).",
+    "Valid as skilful means for their time whatever their mode of origin (P6-upaya reading; not accepted by critics).",
+    "Tibetan compositions (sceptics)."
+   ],
+   "tradition_objections": "The Nyingma reject the sceptical reading; the sceptics reject the upāya reading as evading the question of origin."
+  },
+  "queue_ref": "RQ-U45-2",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:authority-of-abhidhamma",
   "question": "Is the Abhidhamma the word of the Buddha?",
   "sides": [
@@ -3775,6 +4054,101 @@
   "provenance": {
    "units": [
     "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "dsp:bhagavad-gita-lord-or-unmanifest",
+  "question": "Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?",
+  "sides": [
+   {
+    "lineage": "lin:advaita-vedanta",
+    "party": "Śaṅkara, Gītābhāṣya on 12.1–5, 12.12–13 (recalled, not checked against the bhāṣya, which is not available locally)",
+    "position": "'The imperishable, the unmanifest' is brahman free of all attributes and adjuncts, beyond the senses and speech; its worshippers are renunciants established in the knowledge of oneness. They 'reach me alone' because the knower is the Lord's very self (7.18), so the question whether they are 'the most yoked' does not arise for them. Those called 'most yoked' (12.2) are the devotees who worship the Lord in the form just shown; the path of the unmanifest is harder only for those who identify with the body (12.5); the graded means of 12.8–11 are for those not fit for it, 12.12's exaltation of relinquishing the fruit of actions is praise (stuti) meant to encourage them, and the marks of 12.13–19 describe the worshippers of the imperishable.",
+    "arguments": [
+     "12.4 'te prāpnuvanti mām eva' read with 7.18 'jñānī tv ātmaiva me matam': the knowers are the Lord himself (recalled)",
+     "12.5 'dehavadbhiḥ': the hardship lies in identification with the body, not in a lesser goal (recalled)",
+     "12.13 'adveṣṭā sarvabhūtānām …': the marks that follow are those of the renunciant knowers of the imperishable (recalled)"
+    ],
+    "texts": [
+     {
+      "source": "src:gita-bhasya-sankara",
+      "ref": "on 12.1–5, 12.12–13"
+     }
+    ],
+    "rests_on": [
+     "tea:bhagavad-gita:12.1",
+     "tea:bhagavad-gita:12.2",
+     "tea:bhagavad-gita:12.3",
+     "tea:bhagavad-gita:12.4",
+     "tea:bhagavad-gita:12.5",
+     "tea:bhagavad-gita:12.12",
+     "tea:bhagavad-gita:12.13"
+    ]
+   },
+   {
+    "lineage": "lin:visistadvaita",
+    "party": "Rāmānuja, Gītābhāṣya on 12.1–7 (recalled, not checked against the bhāṣya, which is not available locally)",
+    "position": "'The imperishable, the unmanifest' is the individual self (pratyag-ātman) in its own nature, not perceptible to the senses. Those who meditate on it reach a self of the same form as the Lord, free from saṃsāra, slowly and with hardship; those who meditate on the Lord himself, with his auspicious qualities, are superior — 'the most yoked' — reach him swiftly and easily, and are themselves lifted out of saṃsāra by him (12.2, 12.6–7).",
+    "arguments": [
+     "the Lord's own verdict 'yuktatamāḥ' (12.2)",
+     "the contrast between the greater hardship of 12.5 and the deliverance 'before long' of 12.7",
+     "12.4 'mām eva': what they reach is a self like the Lord's (recalled)"
+    ],
+    "texts": [
+     {
+      "source": "src:gita-bhasya-ramanuja",
+      "ref": "on 12.1–7"
+     }
+    ],
+    "rests_on": [
+     "tea:bhagavad-gita:12.1",
+     "tea:bhagavad-gita:12.2",
+     "tea:bhagavad-gita:12.4",
+     "tea:bhagavad-gita:12.5",
+     "tea:bhagavad-gita:12.6",
+     "tea:bhagavad-gita:12.7"
+    ]
+   }
+  ],
+  "notes": "The text's own answer (12.2–7): those who fix the mind on the Lord and worship him, ever yoked, with supreme faith, he holds 'the most yoked' (12.2); those who worship the imperishable — indefinable, unmanifest, all-pervading, unthinkable, unchanging, immovable, constant — with the senses restrained, even in understanding everywhere and delighting in the welfare of all beings, also reach him (12.3–4), but their hardship is greater, for the unmanifest goal is reached with difficulty by the embodied (12.5); those who resign all actions to him and meditate on him with undivided yoga he delivers before long (12.6–7). The text does not deny that the second path reaches him; the two groups as the text presents them are recorded in cpt:worship-of-the-lord-and-of-the-unmanifest. Both commentarial positions are recorded from the extractors' and the merger's knowledge of the bhāṣyas (recalled), not from their texts: the Sanskrit commentaries of the gita/gita corpus are reserved for Wave 2 and are not available here; the sides must be checked against src:gita-bhasya-sankara and src:gita-bhasya-ramanuja before any upgrade. Related: dsp:bhakti-jnana-precedence (whether devotion or knowledge is the higher means), dsp:gita-primary-teaching. Merged from extractor A's dsp:bhagavad-gita-lord-or-unmanifest (sides as the Gītā presents them) and extractor B's dsp:bhagavad-gita-manifest-or-unmanifest-worship (sides as Śaṅkara and Rāmānuja state them); B's links to the undefined dsp:saguna-nirguna are mapped here. No reconciliation is attempted (extraction layer).",
+  "coverage": [
+   "A3",
+   "D",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:12.1",
+      "tea:bhagavad-gita:12.2",
+      "tea:bhagavad-gita:12.3",
+      "tea:bhagavad-gita:12.4",
+      "tea:bhagavad-gita:12.5",
+      "tea:bhagavad-gita:12.12",
+      "tea:bhagavad-gita:12.13",
+      "tea:bhagavad-gita:12.6",
+      "tea:bhagavad-gita:12.7"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch10-12"
    ],
    "phases": [
     "extraction"
@@ -4969,6 +5343,75 @@
   }
  },
  {
+  "id": "dsp:bon-and-buddhism",
+  "question": "What is Bön's relation to Buddhism: an independent older revelation, or a Tibetan religion that took over Buddhist doctrine?",
+  "sides": [
+   {
+    "lineage": "lin:bon",
+    "position": "Bön is the teaching of Tönpa Shenrab, a fully enlightened teacher of Ölmo Lungring in Tagzig, far older than Śākyamuni; it reached Tibet through Zhang Zhung, was persecuted and hidden, and recovered as treasure; its parallels with Buddhism reflect one truth or Buddhist borrowing from Bön.",
+    "arguments": [
+     "The biographies (Dodü, Zermig, Zijid) and the histories (Shardza's Treasury of Good Sayings).",
+     "An oral Dzogchen lineage (Zhang Zhung Nyengyü) never interrupted."
+    ],
+    "texts": [
+     {
+      "source": "src:legshe-dzod-shardza"
+     },
+     {
+      "source": "src:zijid"
+     }
+    ],
+    "rests_on": [
+     "tea:legshe-dzod-shardza:1",
+     "tea:zijid:nine-ways"
+    ]
+   },
+   {
+    "lineage": "lin:gelug",
+    "position": "Buddhist historians (e.g. Thuken's Crystal Mirror of Tenets, early 19th c.) describe Bön as a pre-Buddhist religion of rites and spirits that later 'transformed' itself by adopting Buddhist scriptures; Buddhist accounts of Samye report Bön priests defeated and exiled.",
+    "arguments": [
+     "Three phases: revealed, deviant and transformed Bön.",
+     "Parallel scriptures and terminology are taken as evidence of copying."
+    ],
+    "texts": [
+     {
+      "source": "src:bashe"
+     }
+    ],
+    "reported_by_opponent": true,
+    "notes": "An opponent's report of Bön (reported_by_opponent: the Buddhist historians)."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Both traditions insist on distinct identities; P2 could present the shared Dzogchen as one truth from two standpoints, but that would erase a distinction both sides insist on — not yet reconciled.",
+   "candidate_readings": [
+    "Two independent lineages converging on the same Great Perfection (P2 reading, rejected by both as a statement of origin).",
+    "Mutual borrowing over centuries (neither tradition accepts this fully).",
+    "Bön as the older source (Bön position).",
+    "Bön as derivative (Buddhist polemical position)."
+   ],
+   "tradition_objections": "Bön rejects being classified as Buddhism or as derivative; Buddhist polemicists reject Bön's antiquity claims."
+  },
+  "queue_ref": "RQ-U45-3",
+  "notes": "Optional (Bön).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:brahma-parinama-vada",
   "question": "Does Brahman itself transform into the world, and if so does it change?",
   "sides": [
@@ -5256,6 +5699,87 @@
   "provenance": {
    "units": [
     "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:buddha-nature-of-insentient",
+  "question": "Do insentient things (walls, tiles, grasses) have buddha-nature or preach the Dharma?",
+  "coverage_ref": "G",
+  "sides": [
+   {
+    "lineage": "lin:chan",
+    "position": "Nanyang Huizhong: the buddha-mind is walls, tiles and pebbles; the insentient preach the Dharma, heard when free of the feelings of consciousness.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:jingde-chuandeng-lu",
+      "ref": "juan 28; juan 5"
+     }
+    ],
+    "rests_on": [
+     "tea:jingde-chuandeng-lu:438a09",
+     "tea:jingde-chuandeng-lu:244b26"
+    ]
+   },
+   {
+    "lineage": "lin:mahayana",
+    "position": "(Objection voiced by a monk, citing the Nirvāṇa-sūtra) Buddha-nature is what is apart from walls and insentient things; buddha-nature is permanent, mind impermanent.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:mahaparinirvana-sutra-mahayana",
+      "ref": "as cited in Jingde chuandeng lu juan 28"
+     }
+    ],
+    "rests_on": [
+     "tea:jingde-chuandeng-lu:438a09"
+    ]
+   },
+   {
+    "lineage": "lin:soto",
+    "position": "Dōgen: whole being is buddha-nature; impermanence is buddha-nature.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:bussho",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:bussho:whole-being",
+     "tea:bussho:impermanence"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P1-level",
+    "P2-standpoint"
+   ],
+   "explanation": "Huizhong's own answer: 'deluded, they differ; awakened, they do not' — like ice and water — distinguishes the standpoint of delusion from that of awakening.",
+   "tradition_objections": "Scholastic readers of the Nirvāṇa-sūtra keep the distinction between sentient buddha-nature and insentient things; Tiantai (Zhanran) argued the insentient have buddha-nature on other grounds (U54).",
+   "rests_on": [
+    "tea:jingde-chuandeng-lu:438a09"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
    ],
    "phases": [
     "skeleton"
@@ -5774,6 +6298,189 @@
   "provenance": {
    "units": [
     "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:can-grave-offenders-be-born",
+  "question": "Can those who have committed the five grave offences or slandered the Dharma be born in the Pure Land?",
+  "sides": [
+   {
+    "lineage": "lin:mahayana",
+    "position": "The eighteenth vow excludes those who commit the five grave offences and slander the true Dharma (the Sanskrit likewise).",
+    "texts": [
+     {
+      "source": "src:sukhavativyuha-larger",
+      "ref": "vow 18"
+     }
+    ],
+    "rests_on": [
+     "tea:sukhavativyuha-larger:vow18",
+     "tea:sukhavativyuha-larger:skt.vow19"
+    ]
+   },
+   {
+    "lineage": "lin:mahayana",
+    "position": "The Contemplation Sūtra's lowest grade: one who has committed the five offences and ten evils is born by ten recitations at death.",
+    "texts": [
+     {
+      "source": "src:amitayurdhyana-sutra",
+      "ref": "16"
+     }
+    ],
+    "rests_on": [
+     "tea:amitayurdhyana-sutra:16"
+    ]
+   },
+   {
+    "lineage": "lin:pure-land",
+    "position": "(Tanluan) One guilty of both offences and slander cannot be born; one who committed the offences without slandering can, since slander rejects the very Dharma.",
+    "texts": [
+     {
+      "source": "src:wangsheng-lun-zhu",
+      "ref": "fasc. 1"
+     }
+    ],
+    "rests_on": [
+     "tea:wangsheng-lun-zhu:1.eight-questions"
+    ]
+   },
+   {
+    "lineage": "lin:pure-land",
+    "position": "(Shandao) The vow's exclusion is a gate of restraint to deter; once committed, these too are embraced.",
+    "texts": [
+     {
+      "source": "src:guanjing-shu",
+      "ref": "fasc. 4"
+     }
+    ],
+    "rests_on": [
+     "tea:guanjing-shu:4.restraint-gate"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shinshu",
+    "position": "(Shinran) Even the 'difficult to cure' — slanderers, grave offenders, icchantikas — are healed, as Ajātaśatru was.",
+    "texts": [
+     {
+      "source": "src:kyogyoshinsho",
+      "ref": "Shin chapter"
+     }
+    ],
+    "rests_on": [
+     "tea:kyogyoshinsho:shin.ajatasatru"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "reconciled",
+   "principles": [
+    "P6-upaya"
+   ],
+   "explanation": "Shandao reads the exclusion as a skilful deterrent (gate of restraint) and the lower-grade birth as the gate of embrace — the tradition's own reconciliation by skilful means.",
+   "detail": "Tanluan's earlier solution (distinguishing slander) is retained as a reading of degree.",
+   "tradition_objections": "Tanluan's position that slanderers cannot be born is not the same as Shandao's; the two readings are recorded side by side.",
+   "rests_on": [
+    "tea:guanjing-shu:4.restraint-gate",
+    "tea:wangsheng-lun-zhu:1.eight-questions"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:can-other-practices-lead-to-birth",
+  "question": "Can practices other than the nenbutsu bring birth in the Pure Land?",
+  "sides": [
+   {
+    "lineage": "lin:pure-land",
+    "position": "Yes: the three meritorious acts, the sixteen contemplations and all good roots dedicated to birth lead there (the sūtras; Chinese masters).",
+    "texts": [
+     {
+      "source": "src:amitayurdhyana-sutra",
+      "ref": "intro.3"
+     }
+    ],
+    "rests_on": [
+     "tea:amitayurdhyana-sutra:intro.3"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shu",
+    "position": "(Hōnen) They are set aside; the primal vow's practice is the nenbutsu alone. (Chōsai, as reported) The various practices too are vowed in the primal vow. (Benchō's line, as usually stated) They can bring birth but are not the vow's own practice.",
+    "texts": [
+     {
+      "source": "src:senchakushu",
+      "ref": "ch. 2-4"
+     }
+    ],
+    "rests_on": [
+     "tea:senchakushu:4",
+     "tea:senchakushu:2"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shinshu",
+    "position": "They lead only to the transformed land (19th vow).",
+    "texts": [
+     {
+      "source": "src:kyogyoshinsho",
+      "ref": "Transformed Lands"
+     }
+    ],
+    "rests_on": [
+     "tea:kyogyoshinsho:keshindo.three-vows"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled among Hōnen's disciples' lines.",
+   "candidate_readings": [
+    "P4-stage: other practices for those unable to entrust exclusively (Shinran's provisional gate)",
+    "P6-upaya: other practices taught to lead beings toward the nenbutsu (Senchakushū 4's first reading)"
+   ],
+   "rests_on": [
+    "tea:senchakushu:4",
+    "tea:kyogyoshinsho:keshindo.three-vows"
+   ]
+  },
+  "notes": "Positions of Chōsai and Benchō given in general terms only (low confidence).",
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -6648,6 +7355,278 @@
   }
  },
  {
+  "id": "dsp:chan-and-nianfo",
+  "question": "Is recitation of the Buddha's name compatible with Chan?",
+  "coverage_ref": "G",
+  "sides": [
+   {
+    "lineage": "lin:chan",
+    "position": "The deluded recite the Buddha's name seeking the West; the awakened purify their own minds — the Pure Land is the pure mind (Platform Sūtra); guarding one's own mind surpasses recollecting another buddha (Xiuxin yao lun).",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:platform-sutra",
+      "ref": "6.8"
+     },
+     {
+      "source": "src:xiuxin-yao-lun",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:platform-sutra:6.8",
+     "tea:xiuxin-yao-lun:377b17"
+    ]
+   },
+   {
+    "lineage": "lin:fayan",
+    "position": "Joint practice: Chan and recitation together, as advocated by Yongming Yanshou, Zhongfeng Mingben, Yunqi Zhuhong and the Ōbaku school; Musang opened his assemblies with recitation.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:wanshan-tonggui-ji",
+      "ref": ""
+     },
+     {
+      "source": "src:lidai-fabao-ji",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:lidai-fabao-ji:185a13"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P3-path",
+    "P6-upaya"
+   ],
+   "explanation": "Recitation as a method for devotional temperaments and as a huatou ('who recites?') within Chan practice.",
+   "tradition_objections": "Pure Land schools (U43) hold rebirth through Amitābha's vow to be the point, not a mind-only reading; some Chan teachers reject mixing the two.",
+   "rests_on": [
+    "tea:platform-sutra:6.8",
+    "tea:lidai-fabao-ji:185a13"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:chan-and-the-teachings",
+  "question": "Is Chan a special transmission outside the scriptural teachings, or one with them?",
+  "coverage_ref": "G",
+  "sides": [
+   {
+    "lineage": "lin:chan",
+    "position": "A special transmission outside the teachings, not established on words and letters; the twelve divisions of scripture are only expressions; one must not seek the meaning in words.",
+    "arguments": [
+     "Flower sermon; Linji's dismissal of names and phrases; Dahui is said to have burned the Blue Cliff blocks."
+    ],
+    "texts": [
+     {
+      "source": "src:wumenguan",
+      "ref": "6"
+     },
+     {
+      "source": "src:linji-lu",
+      "ref": ""
+     },
+     {
+      "source": "src:biyan-lu",
+      "ref": "12"
+     }
+    ],
+    "rests_on": [
+     "tea:wumenguan:6",
+     "tea:linji-lu:500b22",
+     "tea:biyan-lu:12"
+    ]
+   },
+   {
+    "lineage": "lin:heze",
+    "position": "Chan and the teachings coincide: Zongmi correlates the three Chan tenets with three doctrinal teachings; Yanshou takes the one mind as the source of both.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:chanyuan-zhuquanji-duxu",
+      "ref": ""
+     },
+     {
+      "source": "src:zongjing-lu",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:zongjing-lu:415a18"
+    ]
+   },
+   {
+    "lineage": "lin:seon",
+    "position": "Hyujeong: Chan is the Buddha's mind and the teachings his words; first understand through the teachings, then enter Chan through the live word.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:seonga-gwigam",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:seonga-gwigam:seon-and-teachings"
+    ]
+   },
+   {
+    "lineage": "lin:chan",
+    "position": "The Platform Sūtra: those who say 'do not use words' slander the scriptures, for 'not using' is itself words.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:platform-sutra",
+      "ref": "13.1"
+     }
+    ],
+    "rests_on": [
+     "tea:platform-sutra:13.1"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P4-stage",
+    "P6-upaya"
+   ],
+   "explanation": "Teachings as the provisional means and first stage, Chan as direct realization of what they point to (Hyujeong's sequence).",
+   "tradition_objections": "Strict Linji voices reject subordinating Chan to doctrine; doctrinal schools (e.g. Tiantai) reject the claim of a separate transmission.",
+   "rests_on": [
+    "tea:seonga-gwigam:seon-and-teachings",
+    "tea:platform-sutra:13.1"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:chan-pure-land-dual-practice",
+  "question": "Should Chan meditation and Pure Land recitation be practised together?",
+  "sides": [
+   {
+    "lineage": "lin:pure-land",
+    "position": "Yes: both return to the one source; Chan is the Chan of Pure Land and Pure Land the Pure Land of Chan; practise one gate deeply; all good practices share one end.",
+    "texts": [
+     {
+      "source": "src:jingtu-yibian",
+      "ref": "420a"
+     },
+     {
+      "source": "src:wanshan-tonggui-ji",
+      "ref": "966b"
+     },
+     {
+      "source": "src:jingtu-huowen",
+      "ref": "295a"
+     }
+    ],
+    "rests_on": [
+     "tea:jingtu-yibian:420a11-22",
+     "tea:wanshan-tonggui-ji:966b26-c10",
+     "tea:jingtu-huowen:295a13"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shu",
+    "position": "Mixing practices loses birth; exclusive practice alone is right.",
+    "texts": [
+     {
+      "source": "src:wangsheng-lizan",
+      "ref": "439b"
+     }
+    ],
+    "rests_on": [
+     "tea:wangsheng-lizan:439b17-c08",
+     "tea:senchakushu:2"
+    ]
+   },
+   {
+    "lineage": "lin:chan",
+    "position": "Recitation is for those of lesser capacity, or a huatou; seeking a Buddha outside is contrary to seeing one's nature (as reported).",
+    "texts": [
+     {
+      "source": "src:jingtu-yibian",
+      "ref": "420a11"
+     }
+    ],
+    "rests_on": [
+     "tea:jingtu-yibian:420a11-22"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P3-path"
+   ],
+   "explanation": "Zhuhong's 'return to the source is not two, expedient gates are many' reconciles by path, while urging depth in one gate.",
+   "tradition_objections": "Shandao's line (and Jōdo-shū) warns that mixed practice fails; Chan purists deny the need.",
+   "rests_on": [
+    "tea:jingtu-yibian:420a11-22",
+    "tea:wangsheng-lizan:439b17-c08"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:citta-momentary-or-enduring",
   "question": "Is the mind a series of momentary cognitions, or one enduring mind with many objects?",
   "coverage_ref": "G",
@@ -7212,6 +8191,88 @@
   }
  },
  {
+  "id": "dsp:daruma-shu-precepts",
+  "question": "Are precepts and practice needed once one has awakened?",
+  "coverage_ref": "I1",
+  "sides": [
+   {
+    "lineage": "lin:daruma-shu",
+    "position": "(Reported by its opponent Eisai) There are no precepts to keep and no practice to do: the mind is buddha from the beginning.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:kozen-gokoku-ron",
+      "ref": "reported"
+     }
+    ],
+    "rests_on": [
+     "tea:kozen-gokoku-ron:precepts"
+    ]
+   },
+   {
+    "lineage": "lin:rinzai",
+    "position": "Eisai: the precepts are the foundation of Zen; one who does not keep them cannot practise Zen.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:kozen-gokoku-ron",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:kozen-gokoku-ron:precepts"
+    ]
+   },
+   {
+    "lineage": "lin:chan",
+    "position": "The Platform Sūtra: 'when the mind is level, what need to keep precepts?' — yet it gives formless precepts and repentance.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:platform-sutra",
+      "ref": "6.15; 9.4"
+     }
+    ],
+    "rests_on": [
+     "tea:platform-sutra:6.15",
+     "tea:platform-sutra:9.4"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P1-level"
+   ],
+   "explanation": "From the ultimate standpoint there is nothing to keep; at the conventional level precepts remain the foundation — the Platform Sūtra gives both.",
+   "tradition_objections": "Eisai treats the Daruma-school position as wrong view, not as a difference of level.",
+   "rests_on": [
+    "tea:platform-sutra:6.15",
+    "tea:platform-sutra:9.4",
+    "tea:kozen-gokoku-ron:precepts"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "G",
+   "I1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:dasoham-soham",
   "question": "Should the devotee say 'I am He' (so'ham) or 'I am your servant' (dāsō'ham)?",
   "sides": [
@@ -7280,6 +8341,92 @@
   "provenance": {
    "units": [
     "skeleton:U20-virasaiva"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:deathbed-welcome-or-settled-in-life",
+  "question": "Is birth settled only at death with the Buddha's welcome, or already in this life?",
+  "sides": [
+   {
+    "lineage": "lin:jodo-shu",
+    "position": "Right mindfulness at death and Amida's welcoming descent are sought; the nenbutsu is continued so that the practitioner is welcomed.",
+    "texts": [
+     {
+      "source": "src:senchakushu",
+      "ref": "ch. 7"
+     },
+     {
+      "source": "src:ojoyoshu",
+      "ref": "ch. 6"
+     }
+    ],
+    "rests_on": [
+     "tea:ojoyoshu:6.deathbed",
+     "tea:sukhavativyuha-larger:vow19"
+    ]
+   },
+   {
+    "lineage": "lin:pure-land",
+    "position": "Deathbed rites and assisted recitation secure right mindfulness; Daochuo's wax seal: the moment life ends is the moment of birth.",
+    "texts": [
+     {
+      "source": "src:guannian-famen",
+      "ref": "24b"
+     },
+     {
+      "source": "src:anle-ji",
+      "ref": "11b"
+     }
+    ],
+    "rests_on": [
+     "tea:guannian-famen:24b21-c04",
+     "tea:anle-ji:11b19-29"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shinshu",
+    "position": "The welcome belongs to those of various practices; the person of shinjin is settled at the moment of shinjin and need not wait for the moment of death.",
+    "texts": [
+     {
+      "source": "src:mattosho",
+      "ref": "letter 1"
+     }
+    ],
+    "rests_on": [
+     "tea:mattosho:1"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P4-stage"
+   ],
+   "explanation": "Shinran himself assigns the welcome at death to practitioners of the nineteenth vow and settlement in life to those of the eighteenth — a distinction by the practitioner's stage.",
+   "tradition_objections": "Jōdo-shū does not accept that its practitioners are of the nineteenth vow.",
+   "rests_on": [
+    "tea:mattosho:1",
+    "tea:kyogyoshinsho:keshindo.three-vows"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -8808,6 +9955,111 @@
   }
  },
  {
+  "id": "dsp:dzogchen-and-chan",
+  "question": "Is the Great Perfection the 'sudden' Chan of Moheyan, rejected at Samye, in another guise?",
+  "coverage_ref": "G6",
+  "sides": [
+   {
+    "lineage": "lin:sakya",
+    "position": "Critics (notably Sakya Paṇḍita in his Clear Differentiation of the Three Vows) held that teachings claiming liberation by recognizing the mind's nature without accumulations or analysis — the 'white panacea' and a 'Chinese-style Great Perfection' — revive the view of the Chinese master defeated at Samye.",
+    "arguments": [
+     "The Samye verdict (as told in the Testament of Ba) ruled for Kamalaśīla's gradual path against Moheyan's non-thinking.",
+     "Kamalaśīla's Bhāvanākrama argues that mere absence of thought cannot uproot ignorance without discriminating insight.",
+     "A realization said to need no merit, analysis or effort cannot be the Buddha's path."
+    ],
+    "texts": [
+     {
+      "source": "src:bhavanakrama",
+      "ref": "third Bhāvanākrama"
+     },
+     {
+      "source": "src:bashe",
+      "ref": "samye-debate"
+     }
+    ],
+    "rests_on": [
+     "tea:bashe:samye-debate"
+    ],
+    "notes": "The white panacea critique is aimed chiefly at Kagyu Mahāmudrā and is owned by U47; recorded here for its bearing on Dzogchen."
+   },
+   {
+    "lineage": "lin:nyingma",
+    "position": "The Nyingma deny the identification: Nupchen's Lamp for the Eye in Contemplation already ranks the simultaneous approach of Chan below Mahāyoga and Atiyoga; the Great Perfection is recognition of awareness, not the suppression of thought; its lineage is Indian (Garab Dorje, Mañjuśrīmitra, Śrī Siṃha, Vimalamitra).",
+    "arguments": [
+     "The Samten Migdrön distinguishes four approaches and places Atiyoga above the simultaneous approach.",
+     "The Kunjed Gyalpo itself directs those without fortune to the vehicles of cause and result.",
+     "Longchenpa and Jigme Lingpa require the preliminaries and the accumulations and reject a blank thoughtless state (the all-base) as a deviation.",
+     "Vimalamitra's Madhyamaka manual on simultaneous entry is preserved in the Tengyur."
+    ],
+    "texts": [
+     {
+      "source": "src:samten-migdron",
+      "ref": "sections on the four approaches"
+     },
+     {
+      "source": "src:kunjed-gyalpo",
+      "ref": "ch.44"
+     },
+     {
+      "source": "src:cigcar-jugpa-vimalamitra",
+      "ref": "colophon"
+     }
+    ],
+    "rests_on": [
+     "tea:samten-migdron:simultaneous",
+     "tea:samten-migdron:atiyoga",
+     "tea:kunjed-gyalpo:44",
+     "tea:cigcar-jugpa-vimalamitra:colophon",
+     "tea:tsigdon-dzod:ch2"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "The Samye debate (as background)",
+    "date": "late 8th c.",
+    "participants": [
+     "tch:kamalasila",
+     "tch:moheyan",
+     "tch:trisong-detsen"
+    ],
+    "accounts": "Testament of Ba and later histories; recorded in full under dsp:sudden-or-gradual (U50).",
+    "outcome_by_tradition": "The Tibetan histories report a ruling for the gradual Indian path; Chinese sources report otherwise (see U50)."
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P4-stage"
+   ],
+   "explanation": "The 'effortless' teaching and the gradual path are addressed to different capacities, as the Kunjed Gyalpo itself states (ch.44); the question of historical derivation is not reconciled.",
+   "detail": "Under P4 the Nyingma's non-meditation is not a rejection of accumulation for those who need it. Whether Dzogchen's view is the view condemned at Samye remains not yet reconciled.",
+   "tradition_objections": "The Nyingma reject any identification with Moheyan's teaching; the critics would say a stage-reconciliation does not answer their objection to the view itself.",
+   "rests_on": [
+    "tea:kunjed-gyalpo:44",
+    "tea:samten-migdron:atiyoga"
+   ],
+   "candidate_readings": [
+    "Dzogchen and Chan are independent 'sudden' teachings with different views of non-conceptuality (Nyingma position).",
+    "Dzogchen absorbed Chan elements in the 8th-10th c. (critics' position)."
+   ]
+  },
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:earth-rotation",
   "question": "Does the earth rotate, or do the stars revolve around a fixed earth?",
   "sides": [
@@ -9815,6 +11067,137 @@
   "provenance": {
    "units": [
     "skeleton:U32-jyotisa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:exclusive-nenbutsu-controversy",
+  "question": "May the nenbutsu be practised exclusively, setting aside all other practices and deities?",
+  "sides": [
+   {
+    "lineage": "lin:jodo-shu",
+    "position": "Yes: the primal vow selected the nenbutsu alone; set aside the holy path, the miscellaneous practices and the auxiliary acts.",
+    "texts": [
+     {
+      "source": "src:senchakushu",
+      "ref": "ch. 1-3, 16"
+     }
+    ],
+    "rests_on": [
+     "tea:senchakushu:16",
+     "tea:senchakushu:3"
+    ]
+   },
+   {
+    "lineage": "lin:faxiang",
+    "position": "(Kōfukuji, Jōkei) No: exclusive nenbutsu slights Śākyamuni and the kami, hinders all good practices, misunderstands the nenbutsu as mere calling, harms the order and disturbs the nation (nine errors).",
+    "texts": [
+     {
+      "source": "src:kofukuji-sojo",
+      "ref": "nine articles"
+     }
+    ],
+    "rests_on": [
+     "tea:kofukuji-sojo:nine-errors"
+    ]
+   },
+   {
+    "lineage": "lin:huayan",
+    "position": "(Myōe) The Senchakushū discards bodhicitta and calls holy-path practitioners bandits.",
+    "texts": [
+     {
+      "source": "src:zaijarin",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:zaijarin:bodhicitta"
+    ]
+   },
+   {
+    "lineage": "lin:nichiren",
+    "position": "(Nichiren) The nenbutsu leads to the Avīci hell; the Senchakushū's 'set aside' is slander of the Lotus (Risshō ankoku ron).",
+    "texts": [
+     {
+      "source": "src:rissho-ankoku-ron",
+      "ref": "whole"
+     }
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shinshu",
+    "position": "(Shinran) The persecution was contrary to the Dharma; he became neither monk nor layman.",
+    "texts": [
+     {
+      "source": "src:kyogyoshinsho",
+      "ref": "postscript"
+     }
+    ],
+    "rests_on": [
+     "tea:kyogyoshinsho:postscript"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Kōfukuji petition",
+    "date": "1205",
+    "participants": [
+     "tch:jokei"
+    ],
+    "accounts": "Kōfukuji sōjō",
+    "outcome_by_tradition": "Led to the 1207 prohibition."
+   },
+   {
+    "name": "Jōgen persecution",
+    "date": "1207",
+    "participants": [
+     "tch:honen",
+     "tch:shinran"
+    ],
+    "accounts": "Kyōgyōshinshō postscript; biographies",
+    "outcome_by_tradition": "Four disciples executed; Hōnen, Shinran and others laicised and exiled."
+   },
+   {
+    "name": "Karoku persecution",
+    "date": "1227",
+    "participants": [
+     "tch:ryukan"
+    ],
+    "accounts": "Hōnen biographies",
+    "outcome_by_tradition": "Blocks of the Senchakushū burned; Ryūkan and others exiled (recalled)."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: an exclusivist claim about the one practice for this age against the view that exclusivity denies the other teachings.",
+   "candidate_readings": [
+    "P3-path: exclusive nenbutsu as one temperament's path, all others valid for others (Hōnen's own Seven-Article Pledge forbids disparaging other schools)",
+    "P4-stage / age: selection as fitted to the last age (Daochuo's time and capacity)"
+   ],
+   "rests_on": [
+    "tea:shichikajo-kishomon:articles",
+    "tea:anle-ji:4a26-b03"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -12108,6 +13491,165 @@
   }
  },
  {
+  "id": "dsp:higher-consecrations-for-monastics",
+  "question": "May celibate monastics receive the secret and wisdom consecrations?",
+  "sides": [
+   {
+    "lineage": "lin:kadam",
+    "position": "No: forbidden by the Ādibuddha tantra; monastics may receive the master's consecration, study, teach and perform rituals.",
+    "arguments": [
+     "Bodhipathapradīpa 65–68."
+    ],
+    "texts": [
+     {
+      "source": "src:bodhipathapradipa",
+      "ref": "65-68"
+     }
+    ],
+    "rests_on": [
+     "tea:bodhipathapradipa:65-67",
+     "tea:bodhipathapradipa:68"
+    ]
+   },
+   {
+    "lineage": "lin:kalacakra",
+    "position": "The Kālacakra tradition ranks the fully ordained monk as the best vajra master (with novice and householder below) and gives the higher consecrations within its system (reported; low confidence).",
+    "arguments": [
+     "Vimalaprabhā on the three kinds of vajra master (recalled)."
+    ],
+    "texts": [
+     {
+      "source": "src:vimalaprabha",
+      "ref": "(ch. 3?)"
+     }
+    ],
+    "rests_on": [],
+    "note": "Recalled, not read; the resolution in the Indian sources (visualized consort, etc.) is not established here."
+   }
+  ],
+  "queue_ref": "RQ-U44-higher-consecrations-monastics",
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled.",
+   "candidate_readings": [
+    "P4-stage: monastics take the higher consecrations only in visualized form (a later Tibetan solution)",
+    "P3-path: monastics follow the perfection way with the lower tantras",
+    "Literal restriction by vow (Atiśa) versus ranking of monk-masters (Kālacakra)"
+   ],
+   "tradition_objections": "Atiśa's position is explicit and vow-based; the Kālacakra's is institutional."
+  },
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "G"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:hongzhou-all-activity-buddha-nature",
+  "question": "Is all activity the function of buddha-nature (Hongzhou), or must numinous knowing be recognised and cultivated (Zongmi)?",
+  "coverage_ref": "G",
+  "sides": [
+   {
+    "lineage": "lin:hongzhou",
+    "position": "The Way needs no cultivation — only do not defile it; the ordinary mind is the Way; walking, standing, sitting and lying, responding to things — all is the Way; this very mind is buddha.",
+    "arguments": [
+     "All dharmas are mind-dharmas; the whole of activity is the wondrous function."
+    ],
+    "texts": [
+     {
+      "source": "src:jingde-chuandeng-lu",
+      "ref": "juan 28 (Mazu)"
+     }
+    ],
+    "rests_on": [
+     "tea:jingde-chuandeng-lu:440a03",
+     "tea:jingde-chuandeng-lu:254c03"
+    ]
+   },
+   {
+    "lineage": "lin:heze",
+    "position": "Hongzhou equates every movement — greed and anger as much as compassion — with buddha-nature and so neglects the essential 'empty and calm knowing' and the need for gradual cultivation after awakening.",
+    "arguments": [
+     "The one word 'knowing' is the gate of all wonders; function must be distinguished from essence."
+    ],
+    "texts": [
+     {
+      "source": "src:chanyuan-zhuquanji-duxu",
+      "ref": ""
+     },
+     {
+      "source": "src:chanmen-shizi-chengxi-tu",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:402c28"
+    ]
+   },
+   {
+    "lineage": "lin:chan",
+    "position": "Nanyang Huizhong criticises those who take seeing, hearing and knowing as buddha-nature and the body as its perishing shell.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:jingde-chuandeng-lu",
+      "ref": "juan 28"
+     }
+    ],
+    "rests_on": [
+     "tea:jingde-chuandeng-lu:437c19"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P2-standpoint",
+    "P4-stage"
+   ],
+   "explanation": "Mazu speaks from the standpoint of the realized ('no cultivation, only no defilement'), Zongmi from the seeker who has awakened only in understanding and must still cultivate.",
+   "detail": "Jinul adopts Zongmi's framework while honouring Hongzhou masters as awakened.",
+   "tradition_objections": "Zongmi explicitly judged the Hongzhou view deficient; the Linji tradition descending from Mazu rejected Zongmi's classification.",
+   "rests_on": [
+    "tea:jingde-chuandeng-lu:440a03",
+    "tea:chanyuan-zhuquanji-duxu:402c28",
+    "tea:susim-kyol:1006b15"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:how-cognition-is-known",
   "question": "How is a cognition (and its validity) known?",
   "coverage_ref": "A5",
@@ -12741,6 +14283,112 @@
   }
  },
  {
+  "id": "dsp:huatai-true-lineage",
+  "question": "Who is the true Sixth Patriarch — was the Northern school collateral?",
+  "coverage_ref": "G",
+  "sides": [
+   {
+    "lineage": "lin:heze",
+    "position": "Bodhidharma's robe and the true transmission passed from Hongren to Huineng; Shenxiu's line is collateral and its teaching gradual.",
+    "arguments": [
+     "The robe as token of transmission.",
+     "Northern practice is 'freezing the mind to enter samādhi' — gradual."
+    ],
+    "texts": [
+     {
+      "source": "src:nanzong-ding-shifei-lun",
+      "ref": "Huatai record"
+     },
+     {
+      "source": "src:platform-sutra-dunhuang",
+      "ref": "49.1"
+     }
+    ],
+    "rests_on": [
+     "tea:nanzong-ding-shifei-lun:huatai",
+     "tea:platform-sutra-dunhuang:49.1"
+    ]
+   },
+   {
+    "lineage": "lin:northern-chan",
+    "position": "Shenxiu was the recognised heir of Hongren, honoured by the court as 'Dharma lord of the two capitals'; Puji held the patriarchal succession in the capitals.",
+    "arguments": [
+     "Epitaphs and the Chuan fabao ji / Lengqie shizi ji present the line through Faru and Shenxiu."
+    ],
+    "texts": [
+     {
+      "source": "src:chuan-fabao-ji",
+      "ref": ""
+     },
+     {
+      "source": "src:lengqie-shizi-ji",
+      "ref": ""
+     }
+    ],
+    "rests_on": []
+   },
+   {
+    "lineage": "lin:chan",
+    "position": "The Platform Sūtra itself: 'the Dharma is one school, people are northern and southern'; Shenxiu praises Huineng's 'wisdom without a teacher' and sends students to him.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:platform-sutra",
+      "ref": "11.1"
+     }
+    ],
+    "rests_on": [
+     "tea:platform-sutra:11.1"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "The Great Assembly of Huatai",
+    "date": "732 (Dayun temple, Huatai)",
+    "participants": [
+     "tch:shenhui"
+    ],
+    "accounts": "Shenhui's challenge recorded by Dugu Pei; his interlocutor was the Dharma master Chongyuan (name from memory, low confidence). An imperial commission of 796 is said to have confirmed Shenhui as seventh patriarch.",
+    "outcome_by_tradition": "All later Chan lineages trace through Huineng; the Northern school died out."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "A question of lineage legitimacy rather than doctrine; no reconciliation principle applies directly.",
+   "candidate_readings": [
+    "P6-upaya: the Platform Sūtra's own irenic reading — one Dharma, different people.",
+    "Both lines descend from Hongren; the 'sixth patriarch' title was contested in the 8th c.",
+    "Scholarly reading: the robe and verse-contest stories were composed in Shenhui's campaign."
+   ],
+   "tradition_objections": "Southern tradition treats Huineng's patriarchy as settled fact.",
+   "rests_on": [
+    "tea:platform-sutra:11.1",
+    "tea:platform-sutra-dunhuang:49.1"
+   ]
+  },
+  "queue_ref": "RQ-U42-huatai",
+  "coverage": [
+   "B4",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:identity-of-matsyendra",
   "question": "Who is Matsyendranātha — a Śaiva siddha, a form of the bodhisattva Karuṇāmaya, or the Buddhist siddha Lūipa?",
   "sides": [
@@ -13029,6 +14677,91 @@
   }
  },
  {
+  "id": "dsp:indian-patriarch-lineage",
+  "question": "Is the Chan list of 28 Indian patriarchs authentic?",
+  "coverage_ref": "G",
+  "sides": [
+   {
+    "lineage": "lin:chan",
+    "position": "The Dharma passed from Mahākāśyapa through 28 patriarchs to Bodhidharma (Baolin zhuan; Platform Sūtra; Qisong's defence).",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:platform-sutra",
+      "ref": "13.11"
+     },
+     {
+      "source": "src:chuanfa-zhengzong-ji",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:platform-sutra:13.11"
+    ]
+   },
+   {
+    "lineage": "lin:tiantai",
+    "position": "Critics relying on the Fu fazang yinyuan zhuan held that the transmission ended with Siṃha's execution, so the Chan continuation is unfounded.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:fu-fazang-yinyuan-zhuan",
+      "ref": ""
+     }
+    ],
+    "rests_on": []
+   },
+   {
+    "lineage": "lin:chan",
+    "position": "The Dunhuang Platform Sūtra itself gives a different list.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:platform-sutra-dunhuang",
+      "ref": "51.1"
+     }
+    ],
+    "rests_on": [
+     "tea:platform-sutra-dunhuang:51.1"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "A historical claim; not yet reconciled.",
+   "candidate_readings": [
+    "Mind-to-mind transmission does not depend on a written list (P5-neyartha).",
+    "Scholarly: the list is an 8th–9th c. construction."
+   ],
+   "tradition_objections": "Chan tradition upholds the list as the true lineage.",
+   "rests_on": [
+    "tea:platform-sutra:13.11",
+    "tea:platform-sutra-dunhuang:51.1"
+   ]
+  },
+  "queue_ref": "RQ-U42-patriarchs",
+  "coverage": [
+   "B4",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "notes": "Names of the Tiantai critics of Qisong's era are not given (not recalled with confidence).",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:inheritance-by-birth-or-death",
   "question": "Does a son own ancestral property from birth or only on the father's death?",
   "sides": [
@@ -13101,6 +14834,89 @@
   "provenance": {
    "units": [
     "skeleton:U02-brahmana-vedanga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:intention-for-another-time",
+  "question": "Does the promise of birth by vows or ten recitations bring birth at once, or only at 'another time' (Mahāyānasaṃgraha)?",
+  "sides": [
+   {
+    "lineage": "lin:yogacara",
+    "position": "(Mahāyānasaṃgraha teachers, as reported) Sayings that one is born by merely vowing are an 'intention for another time': they create a cause that ripens only in a distant future, as one coin buys a thousand only in time.",
+    "texts": [
+     {
+      "source": "src:mahayanasamgraha",
+      "ref": "on the four intentions"
+     }
+    ],
+    "rests_on": [
+     "tea:anle-ji:10a11-24"
+    ]
+   },
+   {
+    "lineage": "lin:pure-land",
+    "position": "(Daochuo) A treatise cannot contradict the sūtra; the ten-recitation reciter has hidden past causes and is born at once. (Huaigan) 'By vow alone' means a bare vow without practice; sincere recitation is practice of body, speech and mind, so birth follows at once.",
+    "texts": [
+     {
+      "source": "src:anle-ji",
+      "ref": "10a11"
+     },
+     {
+      "source": "src:shi-jingtu-qunyi-lun",
+      "ref": "39a"
+     }
+    ],
+    "rests_on": [
+     "tea:anle-ji:10a11-24",
+     "tea:shi-jingtu-qunyi-lun:39a01"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "The bieshiyi controversy",
+    "date": "6th–7th c.",
+    "participants": [
+     "tch:daochuo",
+     "tch:shandao",
+     "tch:huaigan",
+     "tch:jiacai"
+    ],
+    "accounts": "Anle ji; Shi jingtu qunyi lun; Shandao's commentary.",
+    "outcome_by_tradition": "Pure Land: refuted."
+   }
+  ],
+  "reconciliation": {
+   "status": "reconciled",
+   "principles": [
+    "P5-neyartha"
+   ],
+   "explanation": "Huaigan's distinction: the 'another time' statement concerns a bare vow (provisional encouragement), while calling the name with the three acts is practice that brings birth — the two refer to different cases.",
+   "tradition_objections": "The Yogācāra side's own later response is not recorded here.",
+   "rests_on": [
+    "tea:shi-jingtu-qunyi-lun:39a01",
+    "tea:anle-ji:10a11-24"
+   ]
+  },
+  "notes": "The Mahāyānasaṃgraha side is known here only as reported by Pure Land authors.",
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -13529,6 +15345,114 @@
   "provenance": {
    "units": [
     "skeleton:U30-ayurveda-rasa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:is-bodhicitta-needed-for-birth",
+  "question": "Is the aspiration for awakening (bodhicitta) required for birth in the Pure Land?",
+  "sides": [
+   {
+    "lineage": "lin:pure-land",
+    "position": "(Tanluan; the Larger Sūtra's three grades; the three meritorious acts) All aspirants must arouse bodhicitta, which is the vow to save beings; seeking birth for pleasure does not bring birth.",
+    "texts": [
+     {
+      "source": "src:wangsheng-lun-zhu",
+      "ref": "fasc. 2"
+     },
+     {
+      "source": "src:amitayurdhyana-sutra",
+      "ref": "intro"
+     }
+    ],
+    "rests_on": [
+     "tea:wangsheng-lun-zhu:2.bodhicitta",
+     "tea:amitayurdhyana-sutra:intro.3"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shu",
+    "position": "(Hōnen) Bodhicitta is among the practices mentioned for the three grades in order to be set aside in favour of the nenbutsu alone.",
+    "texts": [
+     {
+      "source": "src:senchakushu",
+      "ref": "ch. 4"
+     }
+    ],
+    "rests_on": [
+     "tea:senchakushu:4"
+    ]
+   },
+   {
+    "lineage": "lin:huayan",
+    "position": "(Myōe) Discarding bodhicitta is the first great error of the Senchakushū; without it the nenbutsu is not Buddhism.",
+    "texts": [
+     {
+      "source": "src:zaijarin",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:zaijarin:bodhicitta"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shinshu",
+    "position": "(Shinran) The true bodhicitta is other-power: shinjin itself, given by Amida.",
+    "texts": [
+     {
+      "source": "src:kyogyoshinsho",
+      "ref": "Shin chapter"
+     }
+    ],
+    "rests_on": [
+     "tea:kyogyoshinsho:shin.cause"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Myōe's Zaijarin against the Senchakushū",
+    "date": "1212–1213",
+    "participants": [
+     "tch:myoe",
+     "tch:honen"
+    ],
+    "accounts": "Zaijarin and Zaijarin shōgonki.",
+    "outcome_by_tradition": "Jōdo and Shinshū answered through later commentaries and Shinran's other-power bodhicitta."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: the sides disagree whether bodhicitta is a practitioner's condition or is subsumed in (or given with) the nenbutsu.",
+   "candidate_readings": [
+    "P2-standpoint: Shinran relocates bodhicitta to the Buddha's side, where Myōe's requirement and Hōnen's selection might both hold",
+    "P4-stage: bodhicitta as required for higher grades only (Senchakushū's parallel reading)"
+   ],
+   "rests_on": [
+    "tea:zaijarin:bodhicitta",
+    "tea:senchakushu:4",
+    "tea:kyogyoshinsho:shin.cause"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -17921,6 +19845,121 @@
   }
  },
  {
+  "id": "dsp:koan-or-silent-illumination",
+  "question": "Kōan (critical-phrase) introspection or silent illumination?",
+  "coverage_ref": "B4",
+  "sides": [
+   {
+    "lineage": "lin:yangqi",
+    "position": "Awakening is the standard; one must raise great doubt on the critical phrase ('wu') throughout daily life until it shatters; 'silent-illumination Chan' that teaches people to sit like cold ash and dead wood, and teachers who deny awakening, cut off the life of buddha-wisdom.",
+    "arguments": [
+     "Quiet alone cannot kill 'the monkey' of discriminating mind.",
+     "Taking stillness as ultimate is to be captured by heretical silent illumination.",
+     "Many teachers now deny that there is awakening."
+    ],
+    "texts": [
+     {
+      "source": "src:dahui-yulu",
+      "ref": "884c25; 891b05; 910c22; 921c05"
+     }
+    ],
+    "rests_on": [
+     "tea:dahui-yulu:884c25",
+     "tea:dahui-yulu:891b05",
+     "tea:dahui-yulu:910c22",
+     "tea:dahui-yulu:921c05"
+    ]
+   },
+   {
+    "lineage": "lin:caodong",
+    "position": "In silence the words are forgotten and illumination is clear; silence and illumination are one, knowing without touching things; the original field is already present and is revealed by letting go, not produced by striving.",
+    "arguments": [
+     "If illumination loses silence there is aggression; if silence loses illumination there is murky superfluous dharma — so Hongzhi himself rejects mere quietism.",
+     "Buddhas and patriarchs' essential function knows without objects."
+    ],
+    "texts": [
+     {
+      "source": "src:mozhao-ming",
+      "ref": "100a26"
+     },
+     {
+      "source": "src:zuochan-zhen-hongzhi",
+      "ref": "98a29"
+     },
+     {
+      "source": "src:hongzhi-guanglu",
+      "ref": "73c05"
+     }
+    ],
+    "rests_on": [
+     "tea:mozhao-ming:100a26",
+     "tea:mozhao-ming:100b07",
+     "tea:zuochan-zhen-hongzhi:98a29",
+     "tea:hongzhi-guanglu:73c05"
+    ]
+   },
+   {
+    "lineage": "lin:yangqi",
+    "position": "Wumen too lists 'keeping the mind clear and still' as heretical silent-illumination Chan among the faults of practice.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:wumenguan",
+      "ref": "Chanzhen"
+     }
+    ],
+    "rests_on": [
+     "tea:wumenguan:zenzhen"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Dahui's campaign against 'heretical silent illumination'",
+    "date": "1130s–1150s (in Fujian from c. 1134)",
+    "participants": [
+     "tch:dahui",
+     "tch:hongzhi",
+     "tch:zhenxie-qingliao"
+    ],
+    "accounts": "Dahui's sermons and letters name no target explicitly; scholars have suggested Zhenxie Qingliao or other Caodong teachers rather than Hongzhi himself. Tradition records a cordial friendship between Dahui and Hongzhi (Hongzhi is said to have entrusted his funeral arrangements to Dahui).",
+    "outcome_by_tradition": "Linji tradition: kanhua became the mainstream; Caodong/Sōtō tradition: silent illumination/just sitting remained its practice."
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P3-path",
+    "P2-standpoint"
+   ],
+   "explanation": "Both sides reject quietist 'silence without illumination'; they differ as methods suited to different temperaments and in whether awakening is framed as a breakthrough event.",
+   "detail": "Hongzhi's own inscription condemns silence that loses illumination, which is what Dahui attacks; what remains unreconciled is the use of the kōan and the status of the awakening experience.",
+   "tradition_objections": "Rinzai tradition holds kōan practice to be necessary for genuine kenshō; Sōtō tradition (Dōgen) holds that aiming at a future awakening misunderstands practice-realization and criticised Dahui.",
+   "rests_on": [
+    "tea:mozhao-ming:100b07",
+    "tea:dahui-yulu:884c25"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:krsna-and-kali",
   "question": "Is Kṛṣṇa a form of Kālī, or is the Goddess a power of Kṛṣṇa?",
   "sides": [
@@ -19229,6 +21268,93 @@
   }
  },
  {
+  "id": "dsp:legitimacy-of-tantra",
+  "question": "Are the tantras the word of the Buddha and a legitimate Buddhist path?",
+  "sides": [
+   {
+    "lineage": "lin:vajrayana",
+    "position": "Yes: the tantras were taught by the Buddha in the form of Vajradhara; they share the Mahāyāna goal and view and excel in means.",
+    "arguments": [
+     "The Buddha taught the Guhyasamāja in Oḍḍiyāna and the Kālacakra at Dhānyakaṭaka (tradition's account).",
+     "Same goal as the perfection way, superior by four features (Nayatrayapradīpa, quoted by Advayavajra).",
+     "The tantras' shocking statements are 'the pure dharmatā of the buddhas' (GST ch. 5), to be read with the explanatory tantras and the six alternatives."
+    ],
+    "texts": [
+     {
+      "source": "src:tattvaratnavali",
+      "ref": "end"
+     },
+     {
+      "source": "src:guhyasamaja-tantra",
+      "ref": "5"
+     },
+     {
+      "source": "src:pradipoddyotana",
+      "ref": "intro"
+     }
+    ],
+    "rests_on": [
+     "tea:tattvaratnavali:end",
+     "tea:guhyasamaja-tantra:5.3-9",
+     "tea:pradipoddyotana:intro"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "position": "No (as reported): the tantras are not the Buddha's word; their rites and conduct violate the Vinaya and resemble non-Buddhist practice.",
+    "arguments": [
+     "The objection is dramatized within the Guhyasamāja itself, where the bodhisattvas are astonished at the Lord's 'ill-spoken words'.",
+     "Tibetan histories (Tāranātha) report śrāvaka monks at Vajrāsana destroying tantric images and texts (low confidence)."
+    ],
+    "texts": [
+     {
+      "source": "src:guhyasamaja-tantra",
+      "ref": "5"
+     },
+     {
+      "source": "src:gyagar-chojung-taranatha",
+      "ref": "(late chapters)"
+     }
+    ],
+    "rests_on": [
+     "tea:guhyasamaja-tantra:5.3-9"
+    ],
+    "reported_by_opponent": true,
+    "note": "Known only through the Vajrayāna's own sources (the tantra's framing, Tibetan histories); no Indian anti-tantric treatise read."
+   }
+  ],
+  "queue_ref": "RQ-U44-legitimacy-of-tantra",
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: the critics deny the tantras' authority, which no hermeneutic principle internal to the tantras can establish for them.",
+   "candidate_readings": [
+    "P5-neyartha: the tantras' offensive statements are provisional/intentional speech (the tradition's own reading) — answers the conduct objection, not the authority objection",
+    "P6-upaya: the tantras as skilful means for particular disciples (tīkṣṇendriya)",
+    "P4-stage: tantra restricted to consecrated and qualified practitioners (Atiśa's position)"
+   ],
+   "tradition_objections": "The Vajrayāna insists that the tantras are buddhavacana of definitive meaning; the reported critics insist they are not the Buddha's word at all."
+  },
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "G"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:liberated-soul-qualities",
   "question": "At liberation, are the Lord's qualities transferred to, possessed by or produced in the soul - or is the soul's own Śiva-nature manifested?",
   "sides": [
@@ -19521,6 +21647,114 @@
   "provenance": {
    "units": [
     "skeleton:U20-virasaiva"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:literal-or-symbolic-tantric-conduct",
+  "question": "Are the transgressive statements and practices of the tantras to be taken literally or as intentional language?",
+  "sides": [
+   {
+    "lineage": "lin:arya-guhyasamaja",
+    "position": "Read by the six alternatives: many statements are intentional and not literal, pointing to completion-stage yoga (e.g. 'the bhagas of the vajra-women' = gnosis that destroys afflictions).",
+    "arguments": [
+     "Candrakīrti's six alternatives (provisional/definitive, intentional/not, literal/not).",
+     "Indrabhūti's gloss of the Guhyasamāja opening."
+    ],
+    "texts": [
+     {
+      "source": "src:pradipoddyotana",
+      "ref": "intro"
+     },
+     {
+      "source": "src:jnanasiddhi",
+      "ref": "p. 58"
+     }
+    ],
+    "rests_on": [
+     "tea:pradipoddyotana:intro",
+     "tea:jnanasiddhi:p58",
+     "tea:guhyasamaja-tantra:1.1"
+    ]
+   },
+   {
+    "lineage": "lin:mahasiddha",
+    "position": "The observance is actually lived by the realized yogin — cremation ground, outcaste companions, equal vision of pure and impure — but only after realization and as a hidden observance.",
+    "arguments": [
+     "Pañcakrama 5.29–35: the yogin in union acts without hesitation, seeing mother and courtesan, food and excrement as equal.",
+     "Queen Dohā v40–52 describes the conduct; the lives narrate transgressive acts (Virūpa, Ḍombi).",
+     "Nāgārjuna's and Mekopa's songs: not before realization."
+    ],
+    "texts": [
+     {
+      "source": "src:pancakrama",
+      "ref": "5.29-35"
+     },
+     {
+      "source": "src:dohakosa-queen-saraha",
+      "ref": "v40-52"
+     },
+     {
+      "source": "src:caturasiti-siddha-bodhihrdaya",
+      "ref": "16, 43"
+     }
+    ],
+    "rests_on": [
+     "tea:pancakrama:5.29-35",
+     "tea:dohakosa-queen-saraha:v40-52",
+     "tea:caturasiti-siddha-bodhihrdaya:16",
+     "tea:caturasiti-siddha-bodhihrdaya:43"
+    ]
+   },
+   {
+    "lineage": "lin:kadam",
+    "position": "For monastics the literal higher consecrations are forbidden; the master's consecration, study and ritual are allowed (Atiśa).",
+    "arguments": [
+     "The Ādibuddha tantra forbids the secret and wisdom consecrations to celibates; taking them destroys their vows."
+    ],
+    "texts": [
+     {
+      "source": "src:bodhipathapradipa",
+      "ref": "65-68"
+     }
+    ],
+    "rests_on": [
+     "tea:bodhipathapradipa:65-67",
+     "tea:bodhipathapradipa:68"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P5-neyartha",
+    "P4-stage"
+   ],
+   "explanation": "By the tantras' own hermeneutic (P5) many statements are intentional; where conduct is meant literally it is restricted by stage and vow (P4): only the realized, and not monastics.",
+   "detail": "The six alternatives are the tradition's own version of the provisional/definitive principle; the siddha songs and the Pañcakrama tie literal observance to the stage of union; Atiśa ties it to the practitioner's vows.",
+   "tradition_objections": "The siddha narratives insist that the conduct was real, not merely symbolic; the monastic tradition refuses it to monks whatever their stage.",
+   "rests_on": [
+    "tea:pradipoddyotana:intro",
+    "tea:pancakrama:5.29-35",
+    "tea:bodhipathapradipa:65-67"
+   ]
+  },
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "G"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
     "skeleton"
@@ -20857,6 +23091,108 @@
   }
  },
  {
+  "id": "dsp:mantra-and-paramita-ways",
+  "question": "Is the mantra way superior to the perfection way?",
+  "sides": [
+   {
+    "lineage": "lin:vajrayana",
+    "position": "Same goal, but the mantra way is superior: unconfused, rich in means, not difficult, for the sharp; it gives buddhahood in this very life.",
+    "arguments": [
+     "Nayatrayapradīpa's four features, quoted by Advayavajra.",
+     "Pañcakrama 3.12: buddhahood in this birth."
+    ],
+    "texts": [
+     {
+      "source": "src:nayatrayapradipa",
+      "ref": ""
+     },
+     {
+      "source": "src:tattvaratnavali",
+      "ref": "end"
+     },
+     {
+      "source": "src:pancakrama",
+      "ref": "3.12"
+     }
+    ],
+    "rests_on": [
+     "tea:tattvaratnavali:end",
+     "tea:nayatrayapradipa:four-superiorities",
+     "tea:pancakrama:3.10-12"
+    ]
+   },
+   {
+    "lineage": "lin:mahasiddha",
+    "position": "Neither mantra nor pāramitā as systems sees clear-light mahāmudrā; the innate is beyond both.",
+    "arguments": [
+     "Tilopa: those who speak of mantra, pāramitā and Vinaya with their tenets do not see clear light.",
+     "Saraha: 'I have not seen a single mantra or tantra'."
+    ],
+    "texts": [
+     {
+      "source": "src:ganga-mahamudra",
+      "ref": "v21-22"
+     },
+     {
+      "source": "src:dohakosa-saraha",
+      "ref": "v41"
+     }
+    ],
+    "rests_on": [
+     "tea:ganga-mahamudra:v21-22",
+     "tea:dohakosa-saraha:v41-42"
+    ]
+   },
+   {
+    "lineage": "lin:mahayana",
+    "position": "The perfection way is itself a complete path to buddhahood over three incalculable aeons (the sūtra position as presented in the tantric doxographies).",
+    "arguments": [
+     "The goal is one; the tantras concede the identity of the goal ('ekārthatve 'pi')."
+    ],
+    "texts": [
+     {
+      "source": "src:tattvaratnavali",
+      "ref": "end"
+     }
+    ],
+    "rests_on": [
+     "tea:tattvaratnavali:end"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P3-path",
+    "P4-stage"
+   ],
+   "explanation": "All sides agree the goal is one; the difference is in means suited to temperament and faculty (P3) and in the practitioner's stage and qualification (P4).",
+   "tradition_objections": "The Vajrayāna holds the mantra way strictly superior, not merely different; the siddhas decline to rank systems at all.",
+   "rests_on": [
+    "tea:tattvaratnavali:end",
+    "tea:ganga-mahamudra:v21-22"
+   ]
+  },
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "G"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:mastery-of-the-senses",
   "question": "What is mastery of the senses (indriya-jaya)?",
   "coverage_ref": "G",
@@ -21718,6 +24054,92 @@
   "provenance": {
    "units": [
     "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:mipham-gelug-madhyamaka",
+  "question": "In Prāsaṅgika Madhyamaka, is the ultimate only a non-affirming negation of true existence, or the union beyond all four extremes in which nothing is apprehended?",
+  "sides": [
+   {
+    "lineage": "lin:nyingma",
+    "position": "Mipham: the enumerated ultimate is the negation of true existence, but the actual (non-enumerated) ultimate is beyond all four extremes, and in equipoise nothing — not even emptiness — is grasped; Madhyamaka has no thesis from the ultimate standpoint.",
+    "arguments": [
+     "The distinction of enumerated and non-enumerated ultimate.",
+     "Nāgārjuna's refusal of all four extremes."
+    ],
+    "texts": [
+     {
+      "source": "src:ketaka-mipham"
+     },
+     {
+      "source": "src:ngeshe-dronme",
+      "ref": "q1, q7"
+     }
+    ],
+    "rests_on": [
+     "tea:ngeshe-dronme:q1",
+     "tea:ngeshe-dronme:q7",
+     "tea:ketaka-mipham:1"
+    ]
+   },
+   {
+    "lineage": "lin:gelug",
+    "position": "Gelug scholars (e.g. Pari Rabsel, Drakar Lobzang Palden) defended Tsongkhapa: the object of negation is true existence specifically; emptiness is a non-affirming negation and is apprehended in equipoise; to negate without qualification risks nihilism.",
+    "arguments": [
+     "Unqualified negation would undermine conventional existence and karma.",
+     "Tsongkhapa's identification of the object of negation."
+    ],
+    "texts": [
+     {
+      "source": "src:lamrim-chenmo",
+      "ref": "insight section"
+     }
+    ],
+    "rests_on": []
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Mipham's exchanges with Gelug critics",
+    "date": "late 19th - early 20th c.",
+    "participants": [
+     "tch:mipham"
+    ],
+    "accounts": "Written replies and counter-replies (rtsod lan).",
+    "outcome_by_tradition": "Each side regards its view as upheld."
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P1-level",
+    "P4-stage"
+   ],
+   "explanation": "Mipham himself reconciles by levels: the Gelug non-affirming negation is valid as the enumerated ultimate for analysis; the union beyond extremes is the non-enumerated ultimate of equipoise.",
+   "tradition_objections": "Gelug scholars reject the claim that their view is only the 'enumerated' ultimate.",
+   "rests_on": [
+    "tea:ngeshe-dronme:q1"
+   ]
+  },
+  "recent": true,
+  "coverage": [
+   "B6",
+   "G",
+   "H"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
    ],
    "phases": [
     "skeleton"
@@ -24396,6 +26818,101 @@
   }
  },
  {
+  "id": "dsp:one-calling-or-many-calling",
+  "question": "Is birth settled by one calling (or one thought of faith), or by lifelong many callings?",
+  "sides": [
+   {
+    "lineage": "lin:jodo-shu",
+    "position": "(Kōsai, ichinengi) Birth is settled in a single thought of faith / one calling; further callings add nothing.",
+    "texts": [
+     {
+      "source": "src:kurodani-shonin-gotoroku",
+      "ref": "letters"
+     }
+    ],
+    "rests_on": [
+     "tea:kurodani-shonin-gotoroku:one-calling-letter"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shu",
+    "position": "(Ryūkan, tanengi) One should call continuously all one's life, as Shandao taught ('until the end of life').",
+    "texts": [
+     {
+      "source": "src:wangsheng-lizan",
+      "ref": "439b17"
+     },
+     {
+      "source": "src:ichinen-tanen-funbetsu-ji",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:wangsheng-lizan:439b17-c08"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shinshu",
+    "position": "Neither should be insisted on; the nenbutsu of the primal vow includes both; one thought-moment of shinjin settles birth and the callings follow in gratitude.",
+    "texts": [
+     {
+      "source": "src:ichinen-tanen-mon-i",
+      "ref": "conclusion"
+     }
+    ],
+    "rests_on": [
+     "tea:ichinen-tanen-mon-i:conclusion",
+     "tea:sukhavativyuha-larger:entrustment"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "One-calling / many-calling controversy in Hōnen's circle",
+    "date": "c. 1200–1230",
+    "participants": [
+     "tch:kosai",
+     "tch:ryukan",
+     "tch:honen",
+     "tch:shinran"
+    ],
+    "accounts": "Hōnen's letters; Ryūkan's tract; Shinran's Ichinen tanen mon'i.",
+    "outcome_by_tradition": "Hōnen warned against the excesses of one-calling; Shinran counselled against insisting on either."
+   }
+  ],
+  "reconciliation": {
+   "status": "reconciled",
+   "principles": [
+    "P2-standpoint"
+   ],
+   "explanation": "Hōnen: believe with one calling (standpoint of faith), practise with many (standpoint of practice); Shinran: do not set one against the other.",
+   "tradition_objections": "The historical ichinengi and tanengi parties each held the other in error; their lines did not survive.",
+   "rests_on": [
+    "tea:kurodani-shonin-gotoroku:one-calling-letter",
+    "tea:ichinen-tanen-mon-i:conclusion"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:one-or-many-purusas",
   "question": "Is the conscious self one or many?",
   "coverage_ref": "G (Sāṃkhya–Advaita)",
@@ -26732,6 +29249,134 @@
   }
  },
  {
+  "id": "dsp:pure-land-real-or-mind-only",
+  "question": "Is the Pure Land a real land in the West, or the purified mind only?",
+  "sides": [
+   {
+    "lineage": "lin:pure-land",
+    "position": "The Western land is to be sought really; birth there is the 'birth of non-birth'; mind-only and the Western land are not two, and those whose power is not sufficient must be born there.",
+    "arguments": [
+     "Only those who can live in a latrine without disgust may say every place is the West (Zhuhong).",
+     "The wise seek birth ardently while knowing its nature cannot be found (Shiyi lun)."
+    ],
+    "texts": [
+     {
+      "source": "src:wanshan-tonggui-ji",
+      "ref": "966b26"
+     },
+     {
+      "source": "src:jingtu-yibian",
+      "ref": "420a23"
+     },
+     {
+      "source": "src:jingtu-shiyi-lun",
+      "ref": "78a"
+     }
+    ],
+    "rests_on": [
+     "tea:wanshan-tonggui-ji:966b26-c10",
+     "tea:jingtu-yibian:420a23-b14",
+     "tea:jingtu-shiyi-lun:78a01-b01",
+     "tea:anle-ji:11c08-14"
+    ]
+   },
+   {
+    "lineage": "lin:chan",
+    "position": "The Pure Land is the pure mind; 'as the mind is pure the buddha-land is pure'; Amitābha is one's own nature (as reported by Pure Land writers answering the view).",
+    "texts": [
+     {
+      "source": "src:platform-sutra",
+      "ref": "chapter on doubts"
+     },
+     {
+      "source": "src:jingtu-huowen",
+      "ref": "295a"
+     }
+    ],
+    "rests_on": [
+     "tea:jingtu-huowen:295a13"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shu",
+    "position": "The Pure Land is pointed to in a direction and given form (Shandao) for ordinary beings; it is a reward land, not merely mind.",
+    "texts": [
+     {
+      "source": "src:guanjing-shu",
+      "ref": "fasc. 1"
+     }
+    ],
+    "rests_on": [
+     "tea:guanjing-shu:1.reward-land"
+    ]
+   },
+   {
+    "lineage": "lin:mahayana",
+    "position": "The Buddha seen in the samādhi neither comes nor goes; mind makes the buddha (Pratyutpanna; Contemplation Sūtra 8).",
+    "texts": [
+     {
+      "source": "src:pratyutpanna-samadhi-sutra",
+      "ref": "3"
+     },
+     {
+      "source": "src:amitayurdhyana-sutra",
+      "ref": "8"
+     }
+    ],
+    "rests_on": [
+     "tea:pratyutpanna-samadhi-sutra:3",
+     "tea:amitayurdhyana-sutra:8"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Huiyuan's question to Kumārajīva",
+    "date": "c. 405",
+    "participants": [
+     "tch:huiyuan-lushan",
+     "tch:kumarajiva"
+    ],
+    "accounts": "Dasheng dayi zhang (T1856).",
+    "outcome_by_tradition": "Kumārajīva: the vision is not false; seen by the Buddha's power, the samādhi and one's merit."
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P1-level",
+    "P6-upaya"
+   ],
+   "explanation": "Chinese Pure Land masters reconcile mind-only (ultimate level) with the Western land (conventional level, a skilful means for those of insufficient power) — a reconciliation made within the tradition.",
+   "detail": "Tanluan's birth of non-birth, the Jingtu shiyi lun's appeal to the two truths, Yanshou and Zhuhong.",
+   "tradition_objections": "Jōdo-shū and Shinshū reject dissolving the Western land into mind; Chan radicals reject the need for any land.",
+   "rests_on": [
+    "tea:jingtu-shiyi-lun:78a01-b01",
+    "tea:wanshan-tonggui-ji:966b26-c10",
+    "tea:jingtu-yibian:420a11-22"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:purity-impurity-kaula",
   "question": "Are the rules of ritual purity and conventional conduct binding on the knower?",
   "sides": [
@@ -28042,6 +30687,222 @@
   }
  },
  {
+  "id": "dsp:rinzai-or-soto",
+  "question": "Kōan introspection and kenshō (Rinzai) or just sitting as practice-realization (Sōtō)?",
+  "coverage_ref": "I1",
+  "sides": [
+   {
+    "lineage": "lin:rinzai",
+    "position": "Kenshō must be attained through great doubt on kōans and then deepened by post-awakening training; quiet sitting without the kōan becomes dead sitting; practice in activity surpasses practice in stillness.",
+    "arguments": [
+     "Hakuin's own breakthrough through great doubt.",
+     "Wumen: without passing the barrier one is a ghost clinging to grasses."
+    ],
+    "texts": [
+     {
+      "source": "src:wumenguan",
+      "ref": "1"
+     },
+     {
+      "source": "src:orategama",
+      "ref": ""
+     },
+     {
+      "source": "src:itsumadegusa",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:wumenguan:1",
+     "tea:orategama:activity",
+     "tea:itsumadegusa:bell"
+    ]
+   },
+   {
+    "lineage": "lin:soto",
+    "position": "Practice and realization are one; just sitting is itself the enactment of buddhahood, not a means to a later kenshō; students should just sit rather than rely on kōan stories.",
+    "arguments": [
+     "Bendōwa: even a beginner's practice is the whole of original realization.",
+     "Rujing: just sit; body and mind dropping off."
+    ],
+    "texts": [
+     {
+      "source": "src:bendowa",
+      "ref": ""
+     },
+     {
+      "source": "src:shobogenzo-zuimonki",
+      "ref": ""
+     },
+     {
+      "source": "src:hokyoki",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:bendowa:practice-realization",
+     "tea:shobogenzo-zuimonki:just-sitting",
+     "tea:hokyoki:dropping-off"
+    ]
+   },
+   {
+    "lineage": "lin:rinzai",
+    "position": "Bankei (within Rinzai) rejects both manufactured doubt and effortful method: simply abide in the Unborn.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:bankei-zenji-seppo",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:bankei-zenji-seppo:no-koan"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Sectarian polemics of the Tokugawa period",
+    "date": "17th–18th c.",
+    "participants": [
+     "tch:hakuin",
+     "tch:bankei"
+    ],
+    "accounts": "Hakuin's writings attack 'silent-illumination' and 'do-nothing' Zen; Sōtō scholar-monks (Menzan, Manzan) defended Dōgen's just sitting. Specific texts of these polemics are not given here (low confidence).",
+    "outcome_by_tradition": "Each school maintains its practice; Dōgen used kōans extensively and Rinzai practises zazen, so the difference is one of emphasis."
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P3-path",
+    "P4-stage"
+   ],
+   "explanation": "Different methods for different temperaments and stages within one zazen-centred practice.",
+   "tradition_objections": "Sōtō rejects the idea that kenshō is a goal separate from sitting; Rinzai rejects sitting without kōan as insufficient for most practitioners.",
+   "rests_on": [
+    "tea:bendowa:practice-realization",
+    "tea:wumenguan:1"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "G",
+   "I1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:ritual-or-innate",
+  "question": "Are ritual, consecration and contrived meditation needed, or is the innate realized directly?",
+  "sides": [
+   {
+    "lineage": "lin:mahasiddha",
+    "position": "The innate is not reached by maṇḍala, fire offering, mantra, austerity or contrived meditation; only the guru's instruction and resting in the natural state.",
+    "arguments": [
+     "Saraha's critique of all observances (People Dohā v2–15, v24).",
+     "Queen Dohā v32; Advayavajra's verse 'no mantra recitation … that is the mantra recitation'.",
+     "Tilopa's Dohākoṣa: do not worship gods."
+    ],
+    "texts": [
+     {
+      "source": "src:dohakosa-saraha",
+      "ref": "v2-15, v24"
+     },
+     {
+      "source": "src:dohakosa-queen-saraha",
+      "ref": "v32"
+     },
+     {
+      "source": "src:dohakosa-tilopa",
+      "ref": "2"
+     }
+    ],
+    "rests_on": [
+     "tea:dohakosa-saraha:v24",
+     "tea:dohakosa-queen-saraha:v32",
+     "tea:caturmudra-advayavajra:4-verse",
+     "tea:dohakosa-tilopa:2"
+    ]
+   },
+   {
+    "lineage": "lin:vajrayana",
+    "position": "Consecration, pledges, the two accumulations and sādhana are indispensable; without them practice is theft and leads to hell.",
+    "arguments": [
+     "Queen Dohā v15–17 (without consecration, the vajra hell).",
+     "Dārikapa: without the two accumulations and a guru, no great bliss.",
+     "Advayavajra: the beginner's practice continues even in the mad observance.",
+     "The ritual manuals (Vajrāvalī, Kriyāsaṃgraha)."
+    ],
+    "texts": [
+     {
+      "source": "src:dohakosa-queen-saraha",
+      "ref": "v15-17"
+     },
+     {
+      "source": "src:caturasiti-siddha-bodhihrdaya",
+      "ref": "77"
+     },
+     {
+      "source": "src:kudrstinirghatana",
+      "ref": "end"
+     }
+    ],
+    "rests_on": [
+     "tea:dohakosa-queen-saraha:v15-17",
+     "tea:caturasiti-siddha-bodhihrdaya:77",
+     "tea:kudrstinirghatana:end"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "reconciled",
+   "principles": [
+    "P1-level",
+    "P4-stage"
+   ],
+   "explanation": "Ultimately (P1) no ritual touches the innate; conventionally, for one in the causal state (P4), all the beginner's practices, consecration and accumulations are required — as Advayavajra states.",
+   "detail": "The same authors hold both sides (Saraha's Queen Dohā requires consecration and pledges; Advayavajra both writes 'no mantra, no homa' and insists on ādikarma), which the tradition itself explains by the states of cause, fruit and activity.",
+   "tradition_objections": "Some songs reject contrived meditation even as a stage (People Dohā v25: 'do not spoil the pure mind with meditations').",
+   "rests_on": [
+    "tea:kudrstinirghatana:tippani",
+    "tea:kudrstinirghatana:end",
+    "tea:dohakosa-saraha:v25"
+   ]
+  },
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "G"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:rv-1-164-32-rebirth-reading",
   "question": "Does RV 1.164.32 ('having many offspring he has entered Nirṛti') speak of repeated births?",
   "sides": [
@@ -28885,6 +31746,67 @@
   }
  },
  {
+  "id": "dsp:sango-wakuran",
+  "question": "Must one petition Amida with body, speech and mind (sangō kimyō) to be saved?",
+  "sides": [
+   {
+    "lineage": "lin:shinshu-honganji-ha",
+    "position": "(The Honganji academy's heads, as usually reported) One should rely on Amida with the three acts — bowing, calling for help and wishing — as the form of entrusting."
+   },
+   {
+    "lineage": "lin:jodo-shinshu",
+    "position": "(Their provincial critics) Entrusting is the one thought of shinjin given by Amida; requiring the three acts is self-power.",
+    "texts": [
+     {
+      "source": "src:kyogyoshinsho",
+      "ref": "Shin"
+     }
+    ],
+    "rests_on": [
+     "tea:kyogyoshinsho:shin.cause"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Sangō wakuran",
+    "date": "1797–1806",
+    "participants": [],
+    "accounts": "Nishi Honganji controversy settled by the shogunate's intervention (recalled).",
+    "outcome_by_tradition": "The three-acts view was judged erroneous (recalled)."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Recorded as a historical controversy; not reconciled here.",
+   "candidate_readings": [
+    "P2-standpoint: three acts as the outward form of shinjin vs as its condition"
+   ]
+  },
+  "notes": "Participants' names not recalled with confidence and omitted; to be sourced.",
+  "recent": true,
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:sant-mat-living-master-and-succession",
   "question": "Is a living master necessary, and how is the true successor known?",
   "sides": [
@@ -29670,6 +32592,132 @@
   }
  },
  {
+  "id": "dsp:self-power-or-other-power",
+  "question": "Is awakening reached by one's own practice (self-power) or by the power of Amitābha's vow (other-power)?",
+  "sides": [
+   {
+    "lineage": "lin:chan",
+    "position": "Awakening is to see one's own nature; the Pure Land is in the purified mind and Amitābha is one's own nature; seeking a Buddha outside is delusion (as the Pure Land texts report the objection).",
+    "arguments": [
+     "The Platform Sūtra asks where the man of the West will seek birth if he does evil."
+    ],
+    "texts": [
+     {
+      "source": "src:platform-sutra",
+      "ref": "Dunhuang/Zongbao chapter on doubts"
+     },
+     {
+      "source": "src:jingtu-yibian",
+      "ref": "420a11"
+     }
+    ],
+    "rests_on": [
+     "tea:jingtu-yibian:420a11-22"
+    ]
+   },
+   {
+    "lineage": "lin:pure-land",
+    "position": "In an age without a buddha one cannot reach non-retrogression by self-power; the easy path is to be born by riding the power of the vow; Amitābha's vow is the dominant condition.",
+    "arguments": [
+     "Nāgārjuna's water route; the lame man on another's ship; the three vows that prove other-power."
+    ],
+    "texts": [
+     {
+      "source": "src:wangsheng-lun-zhu",
+      "ref": "fasc. 1-2"
+     },
+     {
+      "source": "src:dasabhumika-vibhasa",
+      "ref": "ch. 9"
+     }
+    ],
+    "rests_on": [
+     "tea:wangsheng-lun-zhu:1.easy-path",
+     "tea:wangsheng-lun-zhu:2.other-power",
+     "tea:dasabhumika-vibhasa:41b02-06"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shu",
+    "position": "Birth is by other-power through the nenbutsu that accords with the vow; one keeps calling all one's life.",
+    "texts": [
+     {
+      "source": "src:senchakushu",
+      "ref": "ch. 3, 16"
+     }
+    ],
+    "rests_on": [
+     "tea:senchakushu:3",
+     "tea:kurodani-shonin-gotoroku:one-calling-letter"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shinshu",
+    "position": "Nothing is self-power: shinjin and the nenbutsu are given; the self-power good person is not the object of the vow until he turns; self-power nenbutsu leads only to the transformed land.",
+    "texts": [
+     {
+      "source": "src:tannisho",
+      "ref": "3, 8"
+     },
+     {
+      "source": "src:kyogyoshinsho",
+      "ref": "Transformed Lands"
+     }
+    ],
+    "rests_on": [
+     "tea:tannisho:3",
+     "tea:tannisho:8",
+     "tea:kyogyoshinsho:keshindo.three-vows"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Ōhara dialogue",
+    "date": "1186",
+    "participants": [
+     "tch:honen"
+    ],
+    "accounts": "Hōnen before Tendai and Nara scholars at Shōrin-in, Ōhara (Hōnen biographies).",
+    "outcome_by_tradition": "Jōdo-shū: the scholars were moved and joined the nenbutsu."
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P3-path",
+    "P4-stage"
+   ],
+   "explanation": "The Pure Land tradition itself presents the holy path and the Pure Land as two gates suited to different capacities and ages (Daochuo), a reconciliation by temperament and stage of the student.",
+   "detail": "Chinese masters (Yanshou, Zhuhong) accept both gates and even join them; Hōnen sets the holy path aside for himself and his age without denying its truth.",
+   "tradition_objections": "Shinshū denies that self-power can bring birth in the true land and would not accept that the two are equal paths; Chan teachers who reject seeking outside would not accept the Western land as more than expedient.",
+   "rests_on": [
+    "tea:anle-ji:13c05-22",
+    "tea:jingtu-yibian:420a11-22",
+    "tea:tannisho:3"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:sentence-meaning",
   "question": "How does a sentence convey its meaning: by the connection of word-meanings already expressed (abhihitānvaya) or by words that express meanings already connected (anvitābhidhāna)?",
   "coverage_ref": "A5",
@@ -29805,6 +32853,86 @@
    "units": [
     "skeleton:U12-mimamsa",
     "skeleton:U31-sound-arts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:seon-sudden-cultivation-debate",
+  "question": "Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?",
+  "coverage_ref": "G",
+  "sides": [
+   {
+    "lineage": "lin:seon",
+    "position": "Jinul: all sages first awaken, then cultivate; habit energies are removed gradually after sudden awakening; even 'sudden/sudden' rests on past-life cultivation.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:susim-kyol",
+      "ref": "1006b15; 1006c11"
+     }
+    ],
+    "rests_on": [
+     "tea:susim-kyol:1006b15",
+     "tea:susim-kyol:1006c11"
+    ]
+   },
+   {
+    "lineage": "lin:seon",
+    "position": "Seongcheol: true Chan awakening is realization in which cultivation is complete — sudden awakening, sudden cultivation; Jinul's awakening is only understanding.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:seonmun-jeongno",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:seonmun-jeongno:donodonsu",
+     "tea:platform-sutra:11.7"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Korean dono-jeomsu / dono-donsu controversy",
+    "date": "1980s–1990s",
+    "participants": [
+     "tch:seongcheol"
+    ],
+    "accounts": "Triggered by Seongcheol's Seonmun jeongno (1981); defenders of Jinul (Songgwangsa) replied at conferences in the 1990s.",
+    "outcome_by_tradition": "Both positions remain in the Jogye Order."
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P4-stage"
+   ],
+   "explanation": "Jinul himself allows sudden/sudden for the highest faculties and treats sudden/gradual as the path of most practitioners.",
+   "tradition_objections": "Seongcheol explicitly rejects understanding-awakening as heterodox for Chan, so he would not accept the reconciliation.",
+   "rests_on": [
+    "tea:susim-kyol:1006b15",
+    "tea:seonmun-jeongno:donodonsu"
+   ]
+  },
+  "recent": true,
+  "coverage": [
+   "B4",
+   "G",
+   "H"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
    ],
    "phases": [
     "skeleton"
@@ -31173,6 +34301,90 @@
   "provenance": {
    "units": [
     "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:srenika-heresy",
+  "question": "Is there a permanent mind-nature that leaves the perishing body at death?",
+  "coverage_ref": "G1",
+  "sides": [
+   {
+    "lineage": "lin:chan",
+    "position": "(Reported view of certain 'southern' teachers) The knowing nature is permanent and has never arisen or perished; the body perishes like a snake's shed skin while the nature departs.",
+    "arguments": [
+     "Seeing, hearing and knowing pervade the body — that is the buddha."
+    ],
+    "texts": [
+     {
+      "source": "src:jingde-chuandeng-lu",
+      "ref": "juan 28 (reported by Huizhong)"
+     }
+    ],
+    "rests_on": [
+     "tea:jingde-chuandeng-lu:437c19"
+    ]
+   },
+   {
+    "lineage": "lin:chan",
+    "position": "Nanyang Huizhong: this is no different from the heretic Śreṇika, who holds that a spirit leaves the house of the body when it burns.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:jingde-chuandeng-lu",
+      "ref": "juan 28"
+     }
+    ],
+    "rests_on": [
+     "tea:jingde-chuandeng-lu:437c19"
+    ]
+   },
+   {
+    "lineage": "lin:soto",
+    "position": "Dōgen: body and mind are one, nature and form are not two; the Śreṇika view is not the buddha-dharma.",
+    "arguments": [],
+    "texts": [
+     {
+      "source": "src:bendowa",
+      "ref": ""
+     }
+    ],
+    "rests_on": [
+     "tea:bendowa:srenika"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "The first side is known only through its critics; not yet reconciled.",
+   "candidate_readings": [
+    "P5-neyartha: talk of a permanent nature (from the Nirvāṇa-sūtra) is provisional and misread as a soul.",
+    "P1-level: permanence of buddha-nature at the ultimate level confused with a conventional entity that transmigrates."
+   ],
+   "tradition_objections": "Huizhong and Dōgen reject the view outright rather than as a difference of level.",
+   "rests_on": [
+    "tea:jingde-chuandeng-lu:437c19",
+    "tea:bendowa:srenika"
+   ]
+  },
+  "queue_ref": "RQ-U42-srenika",
+  "coverage": [
+   "B4",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
    ],
    "phases": [
     "skeleton"
@@ -33424,6 +36636,173 @@
   "provenance": {
    "units": [
     "skeleton:U34-jain-canon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:true-cause-of-birth",
+  "question": "Is the cause of birth the nenbutsu (with the three minds) or shinjin?",
+  "sides": [
+   {
+    "lineage": "lin:jodo-shu",
+    "position": "The nenbutsu is the rightly determined act and cause of birth; the three minds accompany it.",
+    "texts": [
+     {
+      "source": "src:senchakushu",
+      "ref": "ch. 2, 8, 16"
+     }
+    ],
+    "rests_on": [
+     "tea:senchakushu:16",
+     "tea:senchakushu:8"
+    ]
+   },
+   {
+    "lineage": "lin:jodo-shinshu",
+    "position": "Shinjin is the true cause (shinjin shōin); the nenbutsu is the expression of gratitude (shōmyō hōon).",
+    "texts": [
+     {
+      "source": "src:kyogyoshinsho",
+      "ref": "Shin"
+     },
+     {
+      "source": "src:rennyo-ofumi",
+      "ref": "5.1"
+     }
+    ],
+    "rests_on": [
+     "tea:kyogyoshinsho:shin.cause",
+     "tea:rennyo-ofumi:5.1"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "The debate on shinjin in Hōnen's circle",
+    "date": "c. 1205",
+    "participants": [
+     "tch:shinran",
+     "tch:honen"
+    ],
+    "accounts": "Godenshō (the 'debate on shinjin' episode, Shinran's claim that his shinjin and Hōnen's were one)",
+    "outcome_by_tradition": "Shinshū: Hōnen affirmed that shinjin, being given by the Buddha, is the same in all."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled between the schools.",
+   "candidate_readings": [
+    "P2-standpoint: from the practice side the nenbutsu, from the entrusting side shinjin — Hōnen's 'believe with one calling, practise with the whole life'",
+    "Shinran's own claim that the name and shinjin are inseparable (the name as the cause, shinjin as the condition, or the reverse)"
+   ],
+   "rests_on": [
+    "tea:kurodani-shonin-gotoroku:one-calling-letter",
+    "tea:shoshinge:opening"
+   ]
+  },
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:tusita-or-sukhavati",
+  "question": "Should one aspire to Maitreya's Tuṣita or to Amitābha's Sukhāvatī?",
+  "sides": [
+   {
+    "lineage": "lin:faxiang",
+    "position": "(Aspirants to Tuṣita, as reported) Maitreya is the next buddha; being born in Tuṣita one hears him and descends with him; the ten goods suffice.",
+    "texts": [
+     {
+      "source": "src:jingtu-shiyi-lun",
+      "ref": "seventh doubt"
+     }
+    ],
+    "rests_on": [
+     "tea:jingtu-shiyi-lun:79b17"
+    ]
+   },
+   {
+    "lineage": "lin:pure-land",
+    "position": "Tuṣita is in the desire realm, a place of retrogression and sensual attachment, without a vow to receive beings; in Sukhāvatī all are non-retrogressive and the vow and light embrace reciters.",
+    "texts": [
+     {
+      "source": "src:anle-ji",
+      "ref": "9b22"
+     },
+     {
+      "source": "src:jingtu-shiyi-lun",
+      "ref": "79b17"
+     },
+     {
+      "source": "src:xifang-yaojue",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:anle-ji:9b22-c09",
+     "tea:jingtu-shiyi-lun:79b17"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Tuṣita vs Sukhāvatī comparisons",
+    "date": "7th c.",
+    "participants": [
+     "tch:daochuo",
+     "tch:kuiji"
+    ],
+    "accounts": "Anle ji; Jingtu shiyi lun; Xifang yaojue.",
+    "outcome_by_tradition": "Pure Land: Sukhāvatī superior."
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P3-path"
+   ],
+   "explanation": "Both are Mahāyāna aspirations to be near a buddha; the Pure Land texts rank them by ease and non-retrogression rather than denying Tuṣita's value.",
+   "tradition_objections": "Daochuo and the Shiyi lun insist that the difference is 'great in substance', not merely of temperament.",
+   "rests_on": [
+    "tea:anle-ji:9b22-c09",
+    "tea:jingtu-shiyi-lun:79b17"
+   ]
+  },
+  "notes": "Xuanzang and Kuiji personally aspired to Tuṣita (recalled); the Xifang yaojue attributed to Kuiji nonetheless favours the West.",
+  "coverage": [
+   "B4",
+   "I1",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"

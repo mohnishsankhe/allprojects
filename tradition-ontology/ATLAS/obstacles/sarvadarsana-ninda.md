@@ -12,4 +12,4 @@ Censuring any school is forbidden (PKS 1.14; Kaula Upaniṣad): the schools are 
   - [Kaulopaniṣad-bhāṣya (Bhāskararāya)](../texts/kaula-upanisad-bhasya-bhaskararaya.md) — ref: lokan-na-nindyat; rests_on: ["tea:kaula-upanisad-bhasya-bhaskararaya:lokan-na-nindyat"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

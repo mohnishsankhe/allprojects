@@ -11,4 +11,4 @@
 Three short sections of hymn to Rudra as the blue-necked one ('apaśyaṃ tvāvarohantam…'), close to the Śatarudrīya; transmitted in the Atharvan (Paippalāda) tradition and commented by Nārāyaṇa.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

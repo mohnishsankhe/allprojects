@@ -9,4 +9,4 @@
 Bangalore astrologer and editor of The Astrological Magazine; wrote widely in English on horā and muhūrta and proposed his own ayanāṃśa.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._

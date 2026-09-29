@@ -15,4 +15,4 @@
 - exact: [iddhi](iddhi.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

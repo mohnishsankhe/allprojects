@@ -8,4 +8,4 @@
 A brahmin farmer answered with the simile of spiritual ploughing (Snp 1.4; SN 7.11); he went forth and became an arahant.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

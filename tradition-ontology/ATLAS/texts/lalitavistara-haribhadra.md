@@ -14,4 +14,4 @@
 Haribhadra's commentary on the Caityavandana-sūtra (the liturgy of image veneration), explaining the Jina's qualities invoked in the Śakrastava; it quotes the lost 'Yāpanīya-tantra' in support of women's liberation.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

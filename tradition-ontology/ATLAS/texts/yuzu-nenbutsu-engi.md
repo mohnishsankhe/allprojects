@@ -21,8 +21,8 @@ Amida's revelation to Ryōnin: one person is all people, all people are one pers
 
 _level: bridging · standpoint: divine · path: devotion, sound · stage: all · types: practice, ultimate_
 
-terms: `trm:yuzu-nenbutsu` · concepts: `cpt:yuzu-interfusion` · practices: `prc:yuzu-nenbutsu` · teachers: [Ryōnin](../teachers/ryonin.md), [Amitābha / Amitāyus](../teachers/amitabha.md)
+terms: [yūzū nenbutsu](../terms/yuzu-nenbutsu.md) · concepts: [Interfusion of one and all in the nenbutsu (yūzū)](../concepts/yuzu-interfusion.md) · practices: [Interfusing nenbutsu with the name register](../practices/yuzu-nenbutsu.md) · teachers: [Ryōnin](../teachers/ryonin.md), [Amitābha / Amitāyus](../teachers/amitabha.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

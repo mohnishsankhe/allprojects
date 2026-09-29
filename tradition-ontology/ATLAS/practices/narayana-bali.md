@@ -11,4 +11,4 @@ An offering to Nārāyaṇa for one who died a bad or untimely death, allowing t
   - [Garuḍa Purāṇa](../texts/garuda-purana.md) — ref: 2.5.39-40; rests_on: ["tea:garuda-purana:2.5.39-40"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

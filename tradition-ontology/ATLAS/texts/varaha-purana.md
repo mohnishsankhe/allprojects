@@ -17,4 +17,4 @@
 Varāha's teaching to the Earth: vows (especially the dvādaśī vows), Viṣṇu worship, the glory of Mathurā, and narratives of hell and Yama's realm (a Naciketas episode).
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

@@ -30,4 +30,4 @@ _Notes: In Nyāya the supreme self is a distinct self, not the self of all._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.7 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._

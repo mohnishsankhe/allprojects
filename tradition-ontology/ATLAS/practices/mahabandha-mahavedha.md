@@ -11,4 +11,4 @@ Combined locks and the 'great piercing' named in the Yogatattva; summary only.
   - [Yogatattva Upaniṣad](../texts/yogatattva-upanisad.md) — ref: 112-128 (summary); rests_on: ["tea:yogatattva-upanisad:112-128-summary"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

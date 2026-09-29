@@ -28,8 +28,8 @@ Ten ways of practising no-mind: 1 awareness (as soon as a thought arises, break 
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [wuxin (no-mind)](../terms/wuxin.md) · concepts: `cpt:no-mind` · practices: `prc:ten-methods-of-no-mind`
+terms: [wuxin (no-mind)](../terms/wuxin.md) · concepts: [No-mind (wuxin)](../concepts/no-mind.md) · practices: [Ten methods of practising no-mind](../practices/ten-methods-of-no-mind.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

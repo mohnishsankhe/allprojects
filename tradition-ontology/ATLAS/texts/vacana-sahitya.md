@@ -21,4 +21,4 @@ The corpus of vacanas — short rhythmic Kannada prose-poems, usually closing wi
 _Notes: Vacanas are not numbered uniformly across editions; teachings from them are cited here by incipit. family 'vedic' follows the coverage-map grouping (A7, Vedic family); it does not settle the tradition's internal debate on Vedic authority (see dsp:virasaiva-veda-agama-authority)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._

@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The Tathāgata after death](tathagata-after-death.md): the same set of undetermined questions — rests on [27.1-2](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-27-1-2)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

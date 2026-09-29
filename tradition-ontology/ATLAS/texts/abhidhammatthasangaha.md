@@ -242,4 +242,4 @@ concepts: [The four paths and four fruits](../concepts/four-paths-and-fruits.md)
 _Notes: No local e-text; chapter structure from the author's knowledge (high confidence). Colophon details (Mūlasoma) moderate/low._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._

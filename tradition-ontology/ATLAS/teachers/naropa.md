@@ -4,10 +4,10 @@
 
 **Alternate names:** Nāḍapāda, Nāro Paṇchen, Yaśobhadra (monastic name, per Tibetan accounts), na ro pa (Tibetan)
 **Lineages:** [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), [Kālacakra tradition in India](../lineages/kalacakra.md)
-**Dates:** Scholarly account: c. 1016–1100 (Tibetan reckonings vary: 956–1040 or 1016–1100); (confidence moderate)
+**Dates:** Tradition's account: 956–1040 or 1016–1100 (Tibetan histories differ); Scholarly account: c. 1016–1100 (the later Tibetan reckoning, commonly adopted); (confidence moderate)
 **Historicity:** historical
 **Teachers:** [Tilopa](tilopa.md), [Kālacakrapāda](kalacakrapada.md)
-**Students:** `tch:marpa`
+**Students:** [Marpa Chökyi Lodrö (Marpa the Translator)](marpa.md)
 **Works:** 
   - [Sekoddeśaṭīkā (Paramārthasaṃgraha)](../texts/sekoddesatika.md) — attribution: accepted
   - [Ṣaḍdharmopadeśa of Tilopa](../texts/saddharmopadesa-tilopa.md) — attribution: accepted
@@ -18,4 +18,4 @@ No. 20 of the eighty-four siddhas (Tōh 2292 order). A great scholar and gatekee
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

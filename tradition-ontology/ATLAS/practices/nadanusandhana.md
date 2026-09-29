@@ -38,4 +38,4 @@ _Notes: Later haṭha and yoga Upaniṣads elaborate nāda practice (U28/U29)._
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/maitri-upanisad/segments.j — Located: ChU 3.13.8, BĀU 5.9.1 and MaiU 6.22 ('śravaṇāṅguṣṭhayogenāntarhṛdayākāśaśabdam ākarṇayanti saptavidheyaṃ tasyopamā'). All 4 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 3.13.8; BĀU 5.9.1; MaiU 6.22; ChU 3.13.7-8). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._

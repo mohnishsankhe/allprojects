@@ -14,4 +14,4 @@
 Vādirāja Tīrtha's Sanskrit poem describing the holy places of India on a pilgrimage circuit, with praise of their deities.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._

@@ -44,4 +44,4 @@ The person is not found as a real and ultimate fact (saccikaṭṭha-paramattha)
 _Notes: Related to the registry dispute dsp:is-there-a-self (U50), which concerns the non-Buddhist self; Śāntarakṣita's Tattvasaṃgraha also examines the Vātsīputrīya self (low confidence on the chapter). Related dispute from the Theravāda side: dsp:kv-puggala (U37, the Kathāvatthu debate); this entry records the cross-school debate — candidate for dedupe/merge at synthesis._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

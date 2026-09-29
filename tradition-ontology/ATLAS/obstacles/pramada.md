@@ -19,10 +19,13 @@ Heedlessness is death (Sanatsujāta, MBh 5.42.4); negligence is a bond of tamas 
   - [Katha Upaniṣad](../texts/katha-upanisad.md) — ref: 2.3.11; rests_on: ["tea:katha-upanisad:2.3.10-11"]
   - [Pāśupata Sūtra](../texts/pasupata-sutra.md) — ref: 2.12; 5.40; rests_on: ["tea:pasupata-sutra:2.12-14", "tea:pasupata-sutra:5.35-40"]
   - [Pañcārthabhāṣya](../texts/pancarthabhasya.md) — ref: on PS 5.40; rests_on: ["tea:pancarthabhasya:5.39"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 11.41; rests_on: ["tea:bhagavad-gita:11.41"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 11.42; rests_on: ["tea:bhagavad-gita:11.42"]
 
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:11.41, tea:bhagavad-gita:11.42 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering), text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā m — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (TU 1.11; MuU 2.2.4; MuU 3.2.4; KU 2.3.11). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U17-pasupata-kapalika, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:34 IST._

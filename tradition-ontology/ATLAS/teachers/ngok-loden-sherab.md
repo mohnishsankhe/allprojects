@@ -3,7 +3,7 @@
 `tch:ngok-loden-sherab` · `skeleton` · confidence high
 
 **Alternate names:** rngog blo ldan shes rab
-**Lineages:** `lin:kadam`, [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md), [Yogācāra](../lineages/yogacara.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md)
+**Lineages:** [Kadam](../lineages/kadam.md), [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md), [Yogācāra](../lineages/yogacara.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md)
 **Dates:** Scholarly account: 1059–1109 CE; (confidence high)
 **Historicity:** historical
 **Teachers:** [Sajjana](sajjana.md)
@@ -16,4 +16,4 @@ Translator of the Pramāṇaviniścaya, Pramāṇavārttikālaṅkāra and the M
 _Notes: Contribution of U41._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

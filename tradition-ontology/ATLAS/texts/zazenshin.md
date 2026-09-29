@@ -24,10 +24,10 @@ On Nanyue's polishing a tile: Dōgen reads it not as a rejection of sitting but 
 
 _level: ultimate · standpoint: polemical · path: meditation · stage: advanced · types: practice_
 
-concepts: `cpt:practice-and-realization` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+concepts: [Practice and realization](../concepts/practice-and-realization.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

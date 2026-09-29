@@ -27,4 +27,4 @@ terms: [taṉiyaṉ](../terms/taniyan.md) · teachers: [Maṇavāḷa Māmuni](.
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._

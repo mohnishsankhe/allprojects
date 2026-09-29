@@ -27,8 +27,8 @@ Objection: the mind-only pure land pervades the ten directions; why lodge in a l
 
 _level: bridging · standpoint: polemical · path: devotion, knowledge · stage: all · types: dispute, ultimate_
 
-terms: [weixin jingtu (mind-only Pure Land)](../terms/weixin-jingtu.md) · concepts: `cpt:mind-only-pure-land`, `cpt:chan-pure-land-dual-cultivation` · teachers: [Yongming Yanshou](../teachers/yongming-yanshou.md) · disputes: `dsp:pure-land-real-or-mind-only`, `dsp:chan-pure-land-dual-practice`
+terms: [weixin jingtu (mind-only Pure Land)](../terms/weixin-jingtu.md) · concepts: [The Pure Land as mind only (weixin jingtu)](../concepts/mind-only-pure-land.md), [Dual cultivation of Chan and Pure Land (chanjing shuangxiu)](../concepts/chan-pure-land-dual-cultivation.md) · teachers: [Yongming Yanshou](../teachers/yongming-yanshou.md) · disputes: [Is the Pure Land a real land in the West, or the purified mind only?](../debates/pure-land-real-or-mind-only.md), [Should Chan meditation and Pure Land recitation be practised together?](../debates/chan-pure-land-dual-practice.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

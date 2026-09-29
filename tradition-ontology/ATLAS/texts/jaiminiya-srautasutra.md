@@ -15,4 +15,4 @@ The Śrauta manual of the Jaiminīya Sāmaveda.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Jaiminīyaśrautasūtra, catalog:raw_etexts:jaimini_shrauta_sutra — Low-confidence entry confirmed as extant (DCS, raw_etexts).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

@@ -210,4 +210,4 @@ concepts: [Pure lands and buddha-fields](../concepts/pure-lands.md) · teachers:
 _Notes: Locator: Sanskrit chapter.paragraph (vkn c|p), Kumārajīva's chapter in teaching sections. The brief's 'ch. 9' for the silence is Kumārajīva's numbering (= Skt ch. 8)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

@@ -16,4 +16,4 @@ In the Nārāyaṇīya the supreme Lord, also present as the ṛṣi Nārāyaṇ
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.332.19 (āvām api ca dharmasya gṛhe jātau), 12.326.1 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

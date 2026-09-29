@@ -15,4 +15,4 @@ In the same way, on a dark night at the coming of the dark fortnight, contemplat
 _Notes: Verses 87 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._

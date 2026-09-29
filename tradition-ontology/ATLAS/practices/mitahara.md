@@ -32,4 +32,4 @@ Agreeable, sweet, unctuous food leaving a quarter of the stomach empty, offered 
 - Overeating is the first of the six things that destroy yoga. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 1.15
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

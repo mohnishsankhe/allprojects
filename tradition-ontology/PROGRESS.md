@@ -101,12 +101,19 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | bhagavad-gita | ch01-03 | done (165) | done (165) | done (165 tea, 554 disagreements; skeleton 72 up · 1 corr · 0 ret) | done: 151 passed · 14 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch04-06 | done (123) | done (125) | done (124 tea, 534 disagreements; skeleton 63 up · 4 corr · 0 ret) | done: 109 passed · 15 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch07-09 | done (95) | done (95) | done (97 tea, 449 disagreements; skeleton 40 up · 6 corr · 0 ret) | done: 68 passed · 29 fixed · 0 failed → text-verified | |
-| bhagavad-gita | ch10-12 | done (120) | done (120) | done (125 tea, 498 disagreements; skeleton 33 up · 3 corr · 0 ret) | running | |
+| bhagavad-gita | ch10-12 | done (120) | done (120) | done (125 tea, 498 disagreements; skeleton 33 up · 3 corr · 0 ret) | done: 121 passed · 4 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch13-15 | done (85) | done (88) | running | | |
-| bhagavad-gita | ch16-18 | | | | | |
+| bhagavad-gita | ch16-18 | running | | | | |
 
 ### Gītā text-level gates (after ch16-18)
 - One consistency pass across all 18 chapters: citta/cetas → "thought (citta/cetas)" (ch. 6.18–23 still read "mind (citta)"), reflexive ātman, adhyātma gloss; one policy for the level tag 'bridging' vs 'unmarked'; resolve forward links to later chapters (13.x uses this edition's numbering); errata pass for the edition's glitches (DECISIONS 2026-09-28); then the quality gates (misreading hunter, hallucination hunter, reconciliation auditor, reviewer 5%) and the thesis entry by the ch16-18 merger.
+- From ch10-12 F:
+  - cetas is rendered "awareness (cetas)" in ch10-12 but "thought (cetas)" in ch04-09 — fix one rendering;
+  - the 'ultimate' level tag is used for praise of the Lord as paraṃ brahma (10.12, 10.15, 11.18, 11.37, 11.38, 12.3), while similar descriptions are 'unmarked' — one policy;
+  - shared-entity names that go beyond the verse: prc:kirtana ("singing") at 10.9 and 11.36; tch:bhrgu "Vāruṇi"; tch:kapila as founder of Sāṃkhya; tch:brhaspati as Lokāyata;
+  - 11.54 śakyam/śakya aham — variant or glitch;
+  - dedupe prc:vandana ≈ prc:namaskara;
+  - check the commentators' positions recalled in the 12.1–5 and 12.12 notes against the bhāṣyas in Wave 2.
 
 Prepared verse-level segments (sources_raw/prepared/, git-ignored) as of 2026-09-28 04:51 IST:
 - [x] bhagavad-gita (701 verses; gita/gita vulgate) — 6 chunks of 3 chapters

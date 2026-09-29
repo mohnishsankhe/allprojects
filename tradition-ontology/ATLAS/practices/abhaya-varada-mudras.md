@@ -14,4 +14,4 @@ The raised open palm that grants fearlessness (abhaya) and the lowered open palm
 _Notes: Buddhist and Jain iconographic use is noted; those units own their fuller treatment._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._

@@ -14,4 +14,4 @@ Repetition of the praṇava (for renunciants, who are initiated into it) and of 
   - [Sumadhvavijaya](../texts/sumadhvavijaya.md) — ref: 4.32-33; rests_on: ["tea:sumadhvavijaya:4.32-33"]
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._

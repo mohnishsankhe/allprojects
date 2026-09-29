@@ -10,4 +10,4 @@
 The last to know ten Pūrvas (daśapūrvin) in the Śvetāmbara account; famous child-renouncer and wonder-worker who (the stories say) carried the saṅgha through a famine by magical power.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

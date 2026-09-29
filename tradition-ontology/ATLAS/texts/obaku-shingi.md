@@ -15,4 +15,4 @@
 Ōbaku monastic code (1672) compiled under Ingen, with Ming-style ordination, chanting and ritual.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -14,4 +14,4 @@ Relatives and monks help the dying recollect their good deeds, chant, and bring 
 _Notes: Popular practice resting on the Abhidhamma account of death; text support is the doctrine, not an injunction._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._

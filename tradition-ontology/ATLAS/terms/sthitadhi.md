@@ -15,4 +15,4 @@
 **Related:** [sthitaprajña](sthitaprajna.md), [muni](muni.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:34 IST._

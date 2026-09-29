@@ -24,4 +24,4 @@ _Notes: Also TS 1.8.6.2 and VS 3.60 (both checked); VS 3.60 adds a second form f
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_7.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_7.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/saMhit — Hymn located in the local Śākala text. 7.59.12 (seer Vasiṣṭha; header: deity Rudra, 'mṛtyuvimocinī ṛk'). TS 1.8.6 and VS 3.60 parallels located; AVŚ 14.1.17 Aryaman form located.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._

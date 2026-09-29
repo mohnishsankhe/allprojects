@@ -41,8 +41,8 @@ Walking too is Chan, sitting too is Chan; in speaking and silence, moving and st
 
 _level: ultimate · standpoint: experiential · path: meditation · stage: realized · types: practice_
 
-concepts: `cpt:everyday-activity-as-the-way` · practices: `prc:zazen`, `prc:kinhin`
+concepts: [Everyday activity as the Way](../concepts/everyday-activity-as-the-way.md) · practices: [Zazen / zuochan (seated meditation)](../practices/zazen.md), [Kinhin (walking meditation)](../practices/kinhin.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

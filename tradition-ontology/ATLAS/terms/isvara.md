@@ -16,6 +16,7 @@
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): The Lord: Brahman associated with māyā (or reflected in it), omniscient ruler, creator, sustainer and dissolver, giver of the fruits of action; his lordship depends on adjuncts of name and form.
 - [Vivaraṇa school (Vivaraṇa-prasthāna)](../lineages/vivarana.md): The prototype (bimba) consciousness, of which the jīva is the reflection.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: Kṛṣṇa is lord of beings though unborn (4.6), and great lord of all the worlds (sarva-loka-maheśvara), enjoyer of sacrifices and austerities and friend of all beings, knowing whom one attains peace (5.29).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: The Lord: to be known as 'the great lord of the world' (lokamaheśvara) (10.3); addressed as supreme lord (parameśvara, 11.3), lord of all (viśveśvara, 11.16), lord of gods (deveśa, 11.25) and 'the lord to be praised' (11.44).
 - [Prābhākara Mīmāṃsā](../lineages/prabhakara-mimamsa.md): Rejected as director of dharma and adharma and as creator: the fruit comes from dharma and adharma with place, time and circumstance (Prakaraṇapañcikā).
 - [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md): Kumārila rejects a creator Prajāpati (ŚV sambandhākṣepaparihāra 42–116); later Bhāṭṭas (Āpadeva, Laugākṣi Bhāskara) teach offering dharma to Īśvara/Govinda.
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Nārāyaṇa, the third reality: the self of all, cause of the world, opposed to all evil and abode of infinite auspicious qualities, present in five forms.
@@ -26,11 +27,12 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [paramātman](paramatman.md), [Puruṣottama](purusottama.md), [puruṣa](purusa.md), [saguṇa](saguna.md), [māyā](maya.md), [jīva](jiva.md), [aja](aja.md)
+**Related:** [paramātman](paramatman.md), [Puruṣottama](purusottama.md), [puruṣa](purusa.md), [saguṇa](saguna.md), [māyā](maya.md), [jīva](jiva.md), [aja](aja.md), [Parameśvara](paramesvara.md)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.6, tea:bhagavad-gita:5.29 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:10.3, tea:bhagavad-gita:11.3, tea:bhagavad-gita:11.16, tea:bhagavad-gita:11.44 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, extraction:bhagavad-gita/ch04-06, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads, skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads, skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

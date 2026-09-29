@@ -17,4 +17,4 @@ Holding birth-group as real difference; denied by the Siddhars (Sivavākkiyar; K
 - partial: [Pride of birth (kula-mada)](kula-mada.md) — Pride of family/lineage; the Sant critique extends to the whole caste order.
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U22-tamil-siddha, skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

@@ -11,4 +11,4 @@
 Bengali physician and scholar who edited and commented on the Caraka Saṃhitā (Jalpakalpataru).
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._

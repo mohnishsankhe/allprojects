@@ -13,4 +13,4 @@ First contemplating the objects of desire whose false construction breeds attach
 **Sequences:** [The Nyāya path to liberation (apavarga)](../paths/nyaya-path-to-apavarga.md)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._

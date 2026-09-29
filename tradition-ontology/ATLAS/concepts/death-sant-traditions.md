@@ -17,4 +17,4 @@
 _Notes: Bāul burial practice recorded from general report (moderate confidence)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

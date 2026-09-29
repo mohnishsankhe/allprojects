@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The five primary devotional rasas](five-devotional-rasas.md): the Āḻvārs' stances answer to the Gauḍīya dāsya, sakhya, vātsalya and madhura rasas, but are not framed as rasas and include the benedictory stance, which the rasa list lacks — rests on [3.3.1](../texts/tiruvaymoli.md#tea-tiruvaymoli-3-3-1), [1-3](../texts/periyalvar-tirumoli.md#tea-periyalvar-tirumoli-1-3), [6](../texts/nacciyar-tirumoli.md#tea-nacciyar-tirumoli-6), [3](../texts/bhaktirasamrtasindhu.md#tea-bhaktirasamrtasindhu-3)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._

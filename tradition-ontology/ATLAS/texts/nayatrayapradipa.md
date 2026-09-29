@@ -23,8 +23,8 @@ Though the perfection way and the mantra way share one goal, the mantra way is s
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute_
 
-concepts: `cpt:superiority-of-mantranaya` · teachers: [Tripiṭakamala](../teachers/tripitakamala.md) · disputes: `dsp:mantra-and-paramita-ways`
+concepts: [The superiority of the mantra way](../concepts/superiority-of-mantranaya.md) · teachers: [Tripiṭakamala](../teachers/tripitakamala.md) · disputes: [Is the mantra way superior to the perfection way?](../debates/mantra-and-paramita-ways.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

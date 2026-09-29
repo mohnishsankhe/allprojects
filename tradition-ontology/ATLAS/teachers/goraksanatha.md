@@ -32,4 +32,4 @@ Disciple of Matsyendra and the great organiser of the Nāth order, to whom the N
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Names Matsyendra (ma tsin+d+hi) explicitly — Tōh 2292 itself links Mīnapa/Matsyendra, Cauraṅgi and Gorakṣa. The word 'ba dzi' in the last line is not understood._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

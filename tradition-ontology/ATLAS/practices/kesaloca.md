@@ -12,4 +12,4 @@ At initiation and periodically thereafter (for Digambara monks every two to four
   - [Mūlācāra](../texts/mulacara.md) — ref: 1.2-3; rests_on: ["tea:mulacara:1.2-3"]
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

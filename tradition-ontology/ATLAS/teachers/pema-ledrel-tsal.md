@@ -11,4 +11,4 @@
 Revealer of the Khandro Nyingthig; by tradition the rebirth of Princess Pemasal, and Longchenpa was his rebirth.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

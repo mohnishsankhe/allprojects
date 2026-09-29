@@ -19,4 +19,4 @@ The most influential commentator on the Bhāgavata and the Viṣṇu Purāṇa (
 
 - 2026-09-29 websearch: confirmed — https://www.wisdomlib.org/history/book/studies-in-indian-literary-history/d/doc1474985.html — Confirmed, including the c. 1350–1450 date.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._

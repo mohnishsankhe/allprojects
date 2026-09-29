@@ -16,4 +16,4 @@ The obscuration of afflictions (kleśāvaraṇa), which prevents liberation, and
   - [Triṃśikāvijñaptibhāṣya](../texts/trimsikabhasya.md) — ref: intro; rests_on: ["tea:trimsikabhasya:intro"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

@@ -19,4 +19,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_1.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_9.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers), te — Headers: 'kaśyapo mārīcaḥ' for 1.99 and 9.113–114; seer of 10.137.2; AVŚ 19.53.10 'svayambhūḥ kaśyapaḥ kālāt'.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._

@@ -28,7 +28,7 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[Must one petition Amida with body, speech and mind (sangō kimyō) to be saved?](../debates/sango-wakuran.md)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

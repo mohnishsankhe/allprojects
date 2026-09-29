@@ -14,4 +14,4 @@
 - contrasts-with → [Omniscience (sarvajñatva)](omniscience.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

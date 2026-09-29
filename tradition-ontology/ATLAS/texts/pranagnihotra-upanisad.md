@@ -52,4 +52,4 @@ _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-t
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:Muktabodha:prANAgnihotra__M00268, catalog:raw_etexts:108_Upanishads — Low-confidence entry confirmed. No. 97 of the Muktikā collection in the local 108-Upaniṣad file, colophon 'ity ātharvaṇīyā prāṇāgnihotropaniṣat'. Its content is the śārīra yajña, with food offered into the breaths, the bodily fires and the correspondences (see tea:pranagnihotra-upanisad:1-4).
 
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

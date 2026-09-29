@@ -28,4 +28,4 @@ Under P2, 'one' names the single nature (pure consciousness) all puruṣas share
 **The traditions' own objections:** Advaita rejects the reading: the texts of non-duality teach numerical identity of the self with Brahman, and plurality belongs to adjuncts.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:34 IST._

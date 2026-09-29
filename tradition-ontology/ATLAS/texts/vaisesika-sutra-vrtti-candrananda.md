@@ -17,4 +17,4 @@ Candrānanda's brief commentary, the oldest complete commentary on the Vaiśeṣ
   - kind: original; name: Digital Corpus of Sanskrit (DCS) e-text, github.com/OliverHellwig/sanskrit (Vaiśeṣikasūtravṛtti); licence: CC BY 4.0 (DCS data); the ancient text itself is public domain; url: https://github.com/OliverHellwig/sanskrit
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._

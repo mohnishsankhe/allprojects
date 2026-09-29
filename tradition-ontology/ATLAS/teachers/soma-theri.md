@@ -8,4 +8,4 @@
 A nun who answered Māra's taunt about women's 'two-finger wisdom' (SN 5.2; Thig 3.8).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

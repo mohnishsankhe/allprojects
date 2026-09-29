@@ -40,13 +40,13 @@ Japanese Chan: the Rinzai, Sōtō and Ōbaku lineages established from the late 
 [Bankei Yōtaku 盤珪永琢](../teachers/bankei.md), [Bassui Tokushō 拔隊得勝](../teachers/bassui.md), [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Eihei Dōgen 永平道元](../teachers/dogen.md), [Myōan Eisai 明菴榮西 (Yōsai)](../teachers/eisai.md), [Enni Ben'en 圓爾辨圓 (Shōichi kokushi)](../teachers/enni-benen.md), [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md), [Hakuyū 白幽子 (Ishikawa Jishun)](../teachers/hakuyu.md), [Huineng 惠能 / 慧能 (the Sixth Patriarch)](../teachers/huineng.md), [Ikkyū Sōjun 一休宗純](../teachers/ikkyu.md), [Ingen Ryūki 隱元隆琦 (Yinyuan Longqi)](../teachers/ingen.md), [Keizan Jōkin 瑩山紹瑾](../teachers/keizan.md), [Lanxi Daolong 蘭溪道隆 (Rankei Dōryū)](../teachers/lanxi-daolong.md), [Musō Soseki 夢窓疎石](../teachers/muso-soseki.md), [Shūhō Myōchō 宗峰妙超 (Daitō kokushi)](../teachers/shuho-myocho.md), [Suzuki Shōsan 鈴木正三](../teachers/suzuki-shosan.md), [Takuan Sōhō 澤庵宗彭](../teachers/takuan.md), [Tōrei Enji 東嶺圓慈](../teachers/toirei-enji.md)
 
 ## Practices
-[Receiving the Brahmajāla bodhisattva precepts](../practices/bodhisattva-precepts-fanwang.md), [Seeing the conditioned as a dream (Diamond verse)](../practices/contemplating-conditioned-as-dream.md), [Reciting the Heart Sūtra and its mantra](../practices/heart-mantra-recitation.md), [The Śūraṅgama mantra](../practices/surangama-mantra.md), [Giving without support](../practices/unsupported-giving.md)
+[Receiving the Brahmajāla bodhisattva precepts](../practices/bodhisattva-precepts-fanwang.md), [Seeing the conditioned as a dream (Diamond verse)](../practices/contemplating-conditioned-as-dream.md), [The four great vows (inward form)](../practices/four-great-vows.md), [Reciting the Heart Sūtra and its mantra](../practices/heart-mantra-recitation.md), [Jukai (receiving the precepts)](../practices/jukai.md), [Kinhin (walking meditation)](../practices/kinhin.md), [Niō Zen (guardian-king Zen)](../practices/nio-zen.md), [Ōryōki (formal monastic meal)](../practices/oryoki.md), [Monastic life under the pure rules](../practices/qinggui-monastic-life.md), [Samu / puqing (communal work)](../practices/samu.md), [Sesshin (intensive retreat)](../practices/sesshin.md), [The Śūraṅgama mantra](../practices/surangama-mantra.md), [Susokukan (counting the breath)](../practices/susokukan.md), [Sūtra and dhāraṇī chanting in Zen liturgy](../practices/sutra-chanting-zen.md), [Takuhatsu (alms round)](../practices/takuhatsu.md), [Giving without support](../practices/unsupported-giving.md), [Zazen / zuochan (seated meditation)](../practices/zazen.md)
 
 ## Path maps
-`pth:dogen-practice-realization`, `pth:hakuin-koan-curriculum`
+`pth:dogen-practice-realization`, [The Hakuin-line kōan curriculum](../paths/hakuin-koan-curriculum.md)
 
 ## Debates
 _none recorded_
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

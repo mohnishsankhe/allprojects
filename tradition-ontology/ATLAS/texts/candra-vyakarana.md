@@ -18,4 +18,4 @@ Candragomin's grammar, closely based on Pāṇini but without Vedic rules and ac
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/candragomin, https://archive.org/details/Liebich1902 — Confirmed: Candragomin's Pāṇini-based grammar (Liebich's edition), dated c. 5th c. CE (Wisdomlib), inside the entry's 450–650 range.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

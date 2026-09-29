@@ -24,7 +24,7 @@ Bankei tells his audience there is no need to raise a great doubt or to work on 
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: practice, dispute_
 
-concepts: `cpt:the-unborn`, `cpt:great-doubt` · teachers: [Bankei Yōtaku 盤珪永琢](../teachers/bankei.md) · disputes: `dsp:rinzai-or-soto`
+concepts: [The Unborn (fushō)](../concepts/the-unborn.md), [Great doubt](../concepts/great-doubt.md) · teachers: [Bankei Yōtaku 盤珪永琢](../teachers/bankei.md) · disputes: [Kōan introspection and kenshō (Rinzai) or just sitting as practice-realization (Sōtō)?](../debates/rinzai-or-soto.md)
 
 ### unborn <a id="tea-bankei-zenji-seppo-unborn"></a>
 `skeleton` · confidence moderate
@@ -33,8 +33,8 @@ What everyone has from their parents is only the unborn buddha-mind; the unborn 
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [fushō (the Unborn)](../terms/fusho.md) · concepts: `cpt:the-unborn` · teachers: [Bankei Yōtaku 盤珪永琢](../teachers/bankei.md)
+terms: [fushō (the Unborn)](../terms/fusho.md) · concepts: [The Unborn (fushō)](../concepts/the-unborn.md) · teachers: [Bankei Yōtaku 盤珪永琢](../teachers/bankei.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -25,7 +25,7 @@ The great practice is to say the name of the Tathāgata of Unhindered Light; it 
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: practice, sound-language_
 
-terms: `trm:chengming`, `trm:tariki` · concepts: `cpt:other-power`, `cpt:name-embodies-all-virtues` · teachers: [Shinran](../teachers/shinran.md)
+terms: [chengming](../terms/chengming.md), [tariki](../terms/tariki.md) · concepts: [Other-power (tali / tariki)](../concepts/other-power.md), [The name contains all virtues](../concepts/name-embodies-all-virtues.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### keshindo.gods <a id="tea-kyogyoshinsho-keshindo-gods"></a>
 `skeleton` · confidence moderate
@@ -34,7 +34,7 @@ Quoting sūtras, Shinran teaches that one who has taken refuge in the Buddha sho
 
 _level: conventional · standpoint: polemical · path: devotion · stage: all · types: ethics, dispute_
 
-concepts: `cpt:neither-monk-nor-layman` · teachers: [Shinran](../teachers/shinran.md)
+concepts: [Neither monk nor layman (hisō hizoku) and the married clergy](../concepts/neither-monk-nor-layman.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### keshindo.mappo <a id="tea-kyogyoshinsho-keshindo-mappo"></a>
 `skeleton` · confidence moderate
@@ -43,7 +43,7 @@ The teachings of the holy path are suited to the time when the Buddha was in the
 
 _level: conventional · standpoint: cosmic · path: devotion · stage: all · types: world-fate_
 
-terms: `trm:mofa` · concepts: `cpt:three-periods-of-the-dharma` · teachers: [Shinran](../teachers/shinran.md)
+terms: [mofa](../terms/mofa.md) · concepts: [The three ages of the Dharma (true, semblance, final)](../concepts/three-periods-of-the-dharma.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### keshindo.three-vows <a id="tea-kyogyoshinsho-keshindo-three-vows"></a>
 `skeleton` · confidence high
@@ -52,7 +52,7 @@ Those who practise various goods (nineteenth vow) or say the name by self-power 
 
 _level: conventional · standpoint: experiential · path: devotion · stage: all · types: karma-liberation, practice_
 
-terms: `trm:sangan-tennyu`, `trm:jiriki`, `trm:taisheng`, `trm:xieman-jie` · concepts: `cpt:three-vows-turning`, `cpt:true-and-transformed-lands`, `cpt:self-power` · teachers: [Shinran](../teachers/shinran.md)
+terms: [sangan tennyū](../terms/sangan-tennyu.md), [jiriki](../terms/jiriki.md), [taisheng](../terms/taisheng.md), [xieman jie](../terms/xieman-jie.md) · concepts: [Turning through the three vows (sangan tennyū)](../concepts/three-vows-turning.md), [True and transformed lands; womb-birth and the borderland](../concepts/true-and-transformed-lands.md), [Self-power (zili / jiriki)](../concepts/self-power.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### kyo <a id="tea-kyogyoshinsho-kyo"></a>
 `skeleton` · confidence high
@@ -61,7 +61,7 @@ There are two aspects of Amida's transfer of merit, going and returning; in the 
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: teacher-transmission, karma-liberation_
 
-terms: `trm:oso-eko`, `trm:genso-eko` · concepts: `cpt:two-aspects-of-merit-transfer` · teachers: [Shinran](../teachers/shinran.md)
+terms: [ōsō ekō](../terms/oso-eko.md), [gensō ekō](../terms/genso-eko.md) · concepts: [The two aspects of merit transfer: going and returning](../concepts/two-aspects-of-merit-transfer.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### postscript <a id="tea-kyogyoshinsho-postscript"></a>
 `skeleton` · confidence high
@@ -70,7 +70,7 @@ The monks of the holy path in the temples, blind to the teaching, and the schola
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: teacher-transmission, dispute_
 
-terms: `trm:hiso-hizoku`, `trm:gutoku` · concepts: `cpt:neither-monk-nor-layman` · teachers: [Shinran](../teachers/shinran.md), [Hōnen](../teachers/honen.md) · disputes: `dsp:exclusive-nenbutsu-controversy`
+terms: [hisō hizoku](../terms/hiso-hizoku.md), [Gutoku](../terms/gutoku.md) · concepts: [Neither monk nor layman (hisō hizoku) and the married clergy](../concepts/neither-monk-nor-layman.md) · teachers: [Shinran](../teachers/shinran.md), [Hōnen](../teachers/honen.md) · disputes: [May the nenbutsu be practised exclusively, setting aside all other practices and deities?](../debates/exclusive-nenbutsu-controversy.md)
 
 ### preface <a id="tea-kyogyoshinsho-preface"></a>
 `skeleton` · confidence moderate
@@ -79,7 +79,7 @@ The universal vow difficult to fathom is a great ship bearing us across the sea 
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: all · types: karma-liberation_
 
-concepts: `cpt:name-embodies-all-virtues`, `cpt:shinjin` · teachers: [Shinran](../teachers/shinran.md)
+concepts: [The name contains all virtues](../concepts/name-embodies-all-virtues.md), [Shinjin — true entrusting](../concepts/shinjin.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### shin.ajatasatru <a id="tea-kyogyoshinsho-shin-ajatasatru"></a>
 `skeleton` · confidence moderate
@@ -88,7 +88,7 @@ Quoting the Nirvāṇa Sūtra at length, Shinran shows that those difficult to c
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation, dispute_
 
-obstacles: [The five deadly acts (ānantarya)](../obstacles/five-anantarya-karmas.md), `obs:slander-of-the-dharma` · teachers: [Shinran](../teachers/shinran.md) · disputes: `dsp:can-grave-offenders-be-born`
+obstacles: [The five deadly acts (ānantarya)](../obstacles/five-anantarya-karmas.md), [Rejecting the true dharma (saddharmapratikṣepa)](../obstacles/rejecting-the-true-dharma.md) · teachers: [Shinran](../teachers/shinran.md) · disputes: [Can those who have committed the five grave offences or slandered the Dharma be born in the Pure Land?](../debates/can-grave-offenders-be-born.md)
 
 ### shin.cause <a id="tea-kyogyoshinsho-shin-cause"></a>
 `skeleton` · confidence high
@@ -97,7 +97,7 @@ Great shinjin is the true cause of birth; it is hard to attain, not because the 
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: `trm:shinjin`, [yixin (the one mind)](../terms/yixin.md), `trm:ocho`, `trm:zhengding-ju` · concepts: `cpt:shinjin`, `cpt:three-minds-of-the-primal-vow`, `cpt:rightly-established-state` · teachers: [Shinran](../teachers/shinran.md) · disputes: `dsp:true-cause-of-birth`
+terms: [shinjin](../terms/shinjin.md), [yixin (the one mind)](../terms/yixin.md), [ōchō](../terms/ocho.md), [zhengding ju](../terms/zhengding-ju.md) · concepts: [Shinjin — true entrusting](../concepts/shinjin.md), [The three minds of the eighteenth vow (sincere mind, entrusting, aspiration)](../concepts/three-minds-of-the-primal-vow.md), [The rightly established state (zhengding ju / shōjōju)](../concepts/rightly-established-state.md) · teachers: [Shinran](../teachers/shinran.md) · disputes: [Is the cause of birth the nenbutsu (with the three minds) or shinjin?](../debates/true-cause-of-birth.md)
 
 ### shin.ten-benefits <a id="tea-kyogyoshinsho-shin-ten-benefits"></a>
 `skeleton` · confidence moderate
@@ -106,7 +106,7 @@ One who attains the diamond-like true mind gains ten benefits in the present lif
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation, powers-experiences_
 
-concepts: `cpt:ten-benefits-in-present-life` · teachers: [Shinran](../teachers/shinran.md)
+concepts: [The benefits in the present life (genze riyaku / genshō jūyaku)](../concepts/ten-benefits-in-present-life.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### shinbutsudo <a id="tea-kyogyoshinsho-shinbutsudo"></a>
 `skeleton` · confidence high
@@ -115,7 +115,7 @@ The true Buddha is the Tathāgata of inconceivable light and the true land is th
 
 _level: ultimate · standpoint: divine · path: devotion · stage: all · types: ultimate_
 
-concepts: `cpt:true-and-transformed-lands`, `cpt:twelve-lights` · teachers: [Shinran](../teachers/shinran.md)
+concepts: [True and transformed lands; womb-birth and the borderland](../concepts/true-and-transformed-lands.md), [The twelve lights of Amitābha](../concepts/twelve-lights.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### sho <a id="tea-kyogyoshinsho-sho"></a>
 `skeleton` · confidence high
@@ -124,10 +124,10 @@ True realization is the wondrous fruit of perfect benefit for others, from the v
 
 _level: bridging · standpoint: divine · path: devotion · stage: realized · types: karma-liberation, ultimate_
 
-terms: `trm:zhengding-ju`, `trm:genso-eko` · concepts: `cpt:rightly-established-state`, `cpt:two-aspects-of-merit-transfer`, `cpt:birth-in-the-pure-land` · teachers: [Shinran](../teachers/shinran.md)
+terms: [zhengding ju](../terms/zhengding-ju.md), [gensō ekō](../terms/genso-eko.md) · concepts: [The rightly established state (zhengding ju / shōjōju)](../concepts/rightly-established-state.md), [The two aspects of merit transfer: going and returning](../concepts/two-aspects-of-merit-transfer.md), [Birth in the Pure Land (wangsheng / ōjō) as the condition for awakening](../concepts/birth-in-the-pure-land.md) · teachers: [Shinran](../teachers/shinran.md)
 
 
 _Notes: Not in local corpus; recalled at chapter level._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

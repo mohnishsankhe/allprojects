@@ -23,8 +23,8 @@ In his early twenties, working on 'wu' at Eiganji, Hakuin fell into great doubt 
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences_
 
-concepts: `cpt:great-doubt`, `cpt:kensho-seeing-nature`, `cpt:post-awakening-practice` · obstacles: `obs:pride-in-attainment` · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md), [Shōju Rōjin (Dōkyō Etan) 道鏡慧端](../teachers/shoju-rojin.md)
+concepts: [Great doubt](../concepts/great-doubt.md), [Seeing the nature (kenshō) and awakening (satori)](../concepts/kensho-seeing-nature.md), [Practice after awakening](../concepts/post-awakening-practice.md) · obstacles: [Pride in attainment](../obstacles/pride-in-attainment.md) · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md), [Shōju Rōjin (Dōkyō Etan) 道鏡慧端](../teachers/shoju-rojin.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -29,8 +29,8 @@ The tathāgatas come to the bodhisattva Sarvārthasiddhi, seated in the 'unmovin
 
 _level: conventional · standpoint: divine · path: ritual, meditation · stage: advanced · types: practice, karma-liberation_
 
-terms: `trm:abhisambodhi` · concepts: `cpt:five-abhisambodhis`, `cpt:deity-yoga` · practices: `prc:five-abhisambodhis`
+terms: [abhisambodhi](../terms/abhisambodhi.md) · concepts: [The five manifest awakenings](../concepts/five-abhisambodhis.md), [Deity yoga](../concepts/deity-yoga.md) · practices: [The five manifest awakenings](../practices/five-abhisambodhis.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

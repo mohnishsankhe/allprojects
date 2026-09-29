@@ -24,8 +24,8 @@ The line of Madhyamaka exegesis that follows Buddhapālita's commentary on the M
 **Transmissions received:** 
   - [Madhyamaka](madhyamaka.md) — what: Nāgārjuna's and Āryadeva's texts and method of refuting by consequences
 **Transmissions given:** 
-  - `lin:kadam` — what: Candrakīrti's view through Atiśa
-  - `lin:gelug` — what: Prāsaṅgika as the highest view, as systematized by Tsongkhapa
+  - [Kadam](kadam.md) — what: Candrakīrti's view through Atiśa
+  - [Gelug](gelug.md) — what: Prāsaṅgika as the highest view, as systematized by Tsongkhapa
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -38,10 +38,10 @@ The line of Madhyamaka exegesis that follows Buddhapālita's commentary on the M
 **Caveat:** The name 'Prāsaṅgika' is a Tibetan classification. Candrakīrti and Śāntideva deny that emptiness is an entity or a thesis to be proved by autonomous inference; any 'one truth' reading as a positive absolute is rejected.
 
 ## Texts
-[Bodhicaryāvatāra](../texts/bodhicaryavatara.md), [Bodhicaryāvatārapañjikā](../texts/bodhicaryavatara-panjika.md), [Buddhapālita-Mūlamadhyamakavṛtti](../texts/buddhapalita-vrtti.md), [Bodhisattvayogācāra-catuḥśatakaṭīkā](../texts/catuhsataka-tika.md), [Madhyamakāvatāra](../texts/madhyamakavatara.md), [Madhyamakāvatārabhāṣya](../texts/madhyamakavatara-bhasya.md), [Madhyamakāvatāraṭīkā (Jayānanda)](../texts/madhyamakavatara-tika-jayananda.md), [Madhyamakopadeśa](../texts/madhyamakopadesa.md), [Pañcaskandhaprakaraṇa (Candrakīrti)](../texts/pancaskandhaprakarana-candrakirti.md), [Prasannapadā](../texts/prasannapada.md), [Satyadvayāvatāra](../texts/satyadvayavatara.md), [Śikṣāsamuccaya](../texts/siksasamuccaya.md), [Śūnyatāsaptativṛtti](../texts/sunyatasaptati-vrtti.md), [Tarkamudgarakārikā](../texts/tarkamudgara.md), [Yuktiṣaṣṭikāvṛtti](../texts/yuktisastika-vrtti.md)
+[Bodhicaryāvatāra](../texts/bodhicaryavatara.md), [Bodhicaryāvatārapañjikā](../texts/bodhicaryavatara-panjika.md), [Buddhapālita-Mūlamadhyamakavṛtti](../texts/buddhapalita-vrtti.md), [Bodhisattvayogācāra-catuḥśatakaṭīkā](../texts/catuhsataka-tika.md), [Illumination of the Thought (dbu ma dgongs pa rab gsal)](../texts/illumination-of-the-thought.md), [Madhyamakāvatāra](../texts/madhyamakavatara.md), [Madhyamakāvatārabhāṣya](../texts/madhyamakavatara-bhasya.md), [Madhyamakāvatāraṭīkā (Jayānanda)](../texts/madhyamakavatara-tika-jayananda.md), [Madhyamakopadeśa](../texts/madhyamakopadesa.md), [Ocean of Reasoning (rtsa she ṭīk chen rigs pa'i rgya mtsho)](../texts/ocean-of-reasoning.md), [Pañcaskandhaprakaraṇa (Candrakīrti)](../texts/pancaskandhaprakarana-candrakirti.md), [Prasannapadā](../texts/prasannapada.md), [Entry into the Two Truths (Satyadvayāvatāra; bden pa gnyis la 'jug pa)](../texts/satyadvayavatara.md), [Śikṣāsamuccaya](../texts/siksasamuccaya.md), [Śūnyatāsaptativṛtti](../texts/sunyatasaptati-vrtti.md), [Tarkamudgarakārikā](../texts/tarkamudgara.md), [Yuktiṣaṣṭikāvṛtti](../texts/yuktisastika-vrtti.md)
 
 ## Teachers
-[Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md), [Buddhapālita](../teachers/buddhapalita.md), [Candrakīrti](../teachers/candrakirti.md), [Jayānanda (Madhyamaka)](../teachers/jayananda-madhyamaka.md), [Kamalabuddhi](../teachers/kamalabuddhi.md), [Prajñākaramati](../teachers/prajnakaramati.md), [Śāntideva](../teachers/santideva.md)
+[Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md), [Buddhapālita](../teachers/buddhapalita.md), [Candrakīrti](../teachers/candrakirti.md), [Jayānanda (Madhyamaka)](../teachers/jayananda-madhyamaka.md), [Kamalabuddhi](../teachers/kamalabuddhi.md), [Prajñākaramati](../teachers/prajnakaramati.md), [Śāntideva](../teachers/santideva.md), [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ## Practices
 [Analytical meditation on emptiness](../practices/analytical-meditation-on-emptiness.md), [Taking the bodhisattva vows (praṇidhāna)](../practices/bodhisattva-vow.md), [Confession of faults](../practices/confession-of-faults.md), [Contemplating death and impermanence](../practices/contemplating-death-and-impermanence.md), [Cultivating patience](../practices/cultivating-patience.md), [Dedicating merit (pariṇāmanā)](../practices/dedication-of-merit.md), [Equalizing self and other](../practices/equalizing-self-and-other.md), [Exchanging self and other](../practices/exchanging-self-and-other.md), [Examining arising by the four alternatives](../practices/four-alternatives-reasoning.md), [Generating the awakening mind](../practices/generating-bodhicitta.md), [Giving body, enjoyments and merit](../practices/giving-body-enjoyments-merit.md), [Guarding the mind with mindfulness and introspection](../practices/guarding-the-mind.md), [Reliance on the spiritual friend](../practices/reliance-on-spiritual-friend.md), [The sevenfold reasoning (chariot analysis)](../practices/sevenfold-reasoning.md), [The supreme worship (sevenfold service)](../practices/sevenfold-worship.md), [Solitude and contemplation of the body](../practices/solitude-and-body-contemplation.md)
@@ -53,4 +53,4 @@ The line of Madhyamaka exegesis that follows Buddhapālita's commentary on the M
 [Is there a store-consciousness (ālaya-vijñāna) distinct from the six consciousnesses?](../debates/existence-of-alaya.md), [Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](../debates/madhyamaka-yogacara.md), [Is a cognition aware of itself?](../debates/self-awareness-of-cognition.md), [Do śrāvakas and pratyekabuddhas realize the emptiness (selflessness) of phenomena?](../debates/sravaka-realization-of-emptiness.md), [Is consciousness reflexively aware of itself (svasaṃvedana)?](../debates/svasamvedana.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

@@ -10,4 +10,4 @@
 16th-c. Advaitin of the Vivaraṇa line, author of the Vedāntatattvaviveka, the Advaitadīpikā and the Bhedadhikkāra.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._

@@ -12,4 +12,4 @@
 Yuan monk of Donglin si on Lushan who compiled the Lushan lianzong baojian (1305) to defend the Lotus school and Mao Ziyuan against heterodox White Lotus groups.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

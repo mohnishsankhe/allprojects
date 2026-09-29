@@ -39,7 +39,7 @@ The itinerant school of Ippen (1239–1289), who after the Kumano oracle of 1274
 [Amitābha / Amitāyus](../teachers/amitabha.md), [Ippen](../teachers/ippen.md), [Shinkyō](../teachers/shinkyo.md), [Shōkai](../teachers/shokai.md)
 
 ## Practices
-_none recorded_
+[Distributing nenbutsu talismans (fusan)](../practices/fusan.md), [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md), [Dancing nenbutsu (odori nenbutsu)](../practices/odori-nenbutsu.md)
 
 ## Path maps
 _none recorded_
@@ -48,4 +48,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

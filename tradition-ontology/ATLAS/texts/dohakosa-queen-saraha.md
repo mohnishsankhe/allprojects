@@ -19,7 +19,7 @@ The song to the queen, 'the secret speech of the ḍākinīs': the innate as mah
 ## Teachings (19: skeleton 19)
 
 ### v1-2 <a id="tea-dohakosa-queen-saraha-v1-2"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 E ma, the secret speech of the ḍākinīs: the non-dual nature is the abode of mahāmudrā; the Buddha, Dharma and Saṅgha are its nature; bowing to the bodhisattva, lord of bliss, I will explain.
 
@@ -27,10 +27,10 @@ E ma, the secret speech of the ḍākinīs: the non-dual nature is the abode of 
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-terms: [mahāmudrā](../terms/mahamudra.md), `trm:dakini` · concepts: `cpt:sandhyabhasa` · teachers: [Saraha](../teachers/saraha.md)
+terms: [mahāmudrā](../terms/mahamudra.md), [ḍākinī](../terms/dakini.md) · concepts: [Intentional language (sandhyābhāṣā)](../concepts/sandhyabhasa.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v10-11 <a id="tea-dohakosa-queen-saraha-v10-11"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Earth, water, fire, wind and space are nothing other than the one taste of the innate; not conceiving saṃsāra and nirvāṇa as two is said to be the mode of the dharmadhātu.
 
@@ -38,10 +38,10 @@ Earth, water, fire, wind and space are nothing other than the one taste of the i
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-terms: [dharmadhātu](../terms/dharmadhatu.md) · concepts: `cpt:non-duality-of-samsara-nirvana` · teachers: [Saraha](../teachers/saraha.md)
+terms: [dharmadhātu](../terms/dharmadhatu.md) · concepts: [The non-duality of saṃsāra and nirvāṇa](../concepts/non-duality-of-samsara-nirvana.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v11-12 <a id="tea-dohakosa-queen-saraha-v11-12"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Kye ma, look and point out that reality by yourself in yourself; with an undistracted mind free of views (it is realized); a distracted mind does not realize it, and the jewel is lost in the thicket of things.
 
@@ -49,10 +49,10 @@ Kye ma, look and point out that reality by yourself in yourself; with an undistr
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-obstacles: `obs:distraction-vajrayana` · teachers: [Saraha](../teachers/saraha.md)
+obstacles: [Distraction](../obstacles/distraction-vajrayana.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v14-15 <a id="tea-dohakosa-queen-saraha-v14-15"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 When the yogin's mind is intoxicated by the poison of hope and fear, the innate gnosis is bound; do not say the natural reality is something to be meditated; if one conceives meditation and meditator as two, the grasping mind abandons bodhicitta and one harms oneself.
 
@@ -60,10 +60,10 @@ When the yogin's mind is intoxicated by the poison of hope and fear, the innate 
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-obstacles: `obs:hope-and-fear` · teachers: [Saraha](../teachers/saraha.md)
+obstacles: [Hope and fear](../obstacles/hope-and-fear.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v15-17 <a id="tea-dohakosa-queen-saraha-v15-17"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Take the drops of nectar from the guru's mouth with the preliminaries; one skilled in time and means who does not rely on them at the right time is like a blind man stealing the king's treasury; a person without the precious consecration is like an outcaste hoping to be king; deceived by the vidyādhara tantras, he is punished by the ḍākinīs and falls into the vajra hell.
 
@@ -71,10 +71,10 @@ Take the drops of nectar from the guru's mouth with the preliminaries; one skill
 
 _level: conventional · standpoint: seeker · path: ritual, devotion · stage: all · types: teacher-transmission, karma-liberation_
 
-terms: [abhiṣeka](../terms/abhiseka.md), `trm:vajra-hell` · concepts: `cpt:abhiseka-four`, `cpt:secrecy-and-qualification` · teachers: [Saraha](../teachers/saraha.md)
+terms: [abhiṣeka](../terms/abhiseka.md), [vajranaraka](../terms/vajra-hell.md) · concepts: [The four consecrations](../concepts/abhiseka-four.md), [Secrecy and the qualified recipient](../concepts/secrecy-and-qualification.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v18-19 <a id="tea-dohakosa-queen-saraha-v18-19"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Kye ma, one who has reached the stable ground but lacks the pledges is like a man seized for the king's punishment; the karmic ripening, seizing his life-wind with an iron hook, pours boiling liquid into his mouth — hard to bear.
 
@@ -82,10 +82,10 @@ Kye ma, one who has reached the stable ground but lacks the pledges is like a ma
 
 _level: conventional · standpoint: seeker · path: ritual · stage: advanced · types: ethics, karma-liberation_
 
-terms: [samaya](../terms/samaya.md) · concepts: `cpt:samaya-vows` · teachers: [Saraha](../teachers/saraha.md)
+terms: [samaya](../terms/samaya.md) · concepts: [The tantric pledges (samaya)](../concepts/samaya-vows.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v19-20 <a id="tea-dohakosa-queen-saraha-v19-20"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Kye ma, one who realizes the natural state but still acts basely is like a king who comes down from his throne to sweep the floor; abandoning inexhaustible great bliss he is bound by touching the pleasures of saṃsāra.
 
@@ -96,7 +96,7 @@ _level: conventional · standpoint: seeker · path: general · stage: advanced �
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v20-21 <a id="tea-dohakosa-queen-saraha-v20-21"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Kye ma, the yogin who, having seen his own mind free of elaboration, strives purposely at elaborations is like one who, having found a precious jewel, goes looking for a glass bead.
 
@@ -107,7 +107,7 @@ _level: ultimate · standpoint: seeker · path: meditation · stage: advanced ·
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v24 <a id="tea-dohakosa-queen-saraha-v24"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 One should come to understand greatly by relying on the guru's time and means; it is found in the Prajñāpāramitā and other sūtras; meditate on the mind applied to everything, the mind that looks neither outside nor inside.
 
@@ -118,7 +118,7 @@ _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: 
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v32 <a id="tea-dohakosa-queen-saraha-v32"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Empty of maṇḍala-makers and fire-offerers, free of mantra, mudrā, consecration of images and the like, this vajra gnosis, which no tantra or treatise can accomplish, is beautiful when it abides in its own nature.
 
@@ -126,10 +126,10 @@ Empty of maṇḍala-makers and fire-offerers, free of mantra, mudrā, consecrat
 
 _level: ultimate · standpoint: polemical · path: ritual, knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: `cpt:critique-of-ritual-siddha` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The siddhas' critique of ritual, caste and scholasticism](../concepts/critique-of-ritual-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v39 <a id="tea-dohakosa-queen-saraha-v39"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Pointing to the sky with a finger does not show the sky; the guru pointed out by the guru is likewise.
 
@@ -137,10 +137,10 @@ Pointing to the sky with a finger does not show the sky; the guru pointed out by
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: teacher-transmission_
 
-concepts: `cpt:pointing-out-siddha` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [Pointing out the nature of mind](../concepts/pointing-out-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v4-5 <a id="tea-dohakosa-queen-saraha-v4-5"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 The hearts of all scholars are pervaded by poison; the meaning of mind itself is hard for all to realize; the essence untouched by extremes is primordially not something to be analysed; if one analyses it one is merely bitten by the snake; all the dharmas posited by the intellect are empty of themselves.
 
@@ -148,28 +148,28 @@ The hearts of all scholars are pervaded by poison; the meaning of mind itself is
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: `cpt:nature-of-mind-siddha` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The nature of mind in the siddha songs](../concepts/nature-of-mind-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v40-52 <a id="tea-dohakosa-queen-saraha-v40-52"></a>
-`skeleton` · confidence high · _restricted: summary only_
+`skeleton` · confidence high · _restricted: summary only_ · [AI-translated]
 
 The song describes the conduct (brtul zhugs spyod pa) of the realized yogin: entering towns, palaces, markets, feasts (gaṇacakra) and cremation grounds without fear, sleeping among ghosts, keeping company with outcastes, singing and dancing Heruka's dance, wearing bone ornaments and animal skins and carrying the khaṭvāṅga and bell, acting like a mad elephant; 'practising low dharmas, one is freed', says the arrow-maker.
 
 _level: conventional · standpoint: experiential · path: ritual, general · stage: realized · types: practice, ethics_
 
-concepts: `cpt:vratacarya`, `cpt:karmamudra` · practices: `prc:vratacarya` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The observance of the realized yogin (vratacaryā)](../concepts/vratacarya.md), [Karmamudrā (the action seal)](../concepts/karmamudra.md) · practices: [The observance (vratacaryā)](../practices/vratacarya.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v53-57 <a id="tea-dohakosa-queen-saraha-v53-57"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 The guru who shows all the various dharmas as one taste is to be received with devotion on the crown of one's head; the guru is the one who points out, the disciple's own heart the ground pointed to; he is the hero who destroys all suffering in an instant, the king of physicians, the supreme boat across the ocean of saṃsāra, the sun of gnosis — rely on him always.
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:guru-in-vajrayana` · practices: `prc:guru-devotion-vajrayana` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The guru in the Vajrayāna](../concepts/guru-in-vajrayana.md) · practices: [Devotion to the vajra master](../practices/guru-devotion-vajrayana.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v62-63 <a id="tea-dohakosa-queen-saraha-v62-63"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 E ma, the secret speech of the ḍākinīs: realizing the equality of means and wisdom, the innate is found from clear light; like the waxing moon it comes from habituation; the vajra master is the root of all attainments.
 
@@ -177,19 +177,19 @@ E ma, the secret speech of the ḍākinīs: realizing the equality of means and 
 
 _level: bridging · standpoint: seeker · path: knowledge, devotion · stage: advanced · types: teacher-transmission, ultimate_
 
-terms: `trm:prabhasvara`, `trm:vajracarya` · concepts: `cpt:union-of-wisdom-and-means` · teachers: [Saraha](../teachers/saraha.md)
+terms: [prabhāsvara](../terms/prabhasvara.md), [vajrācārya](../terms/vajracarya.md) · concepts: [The union of wisdom and means (prajñopāya)](../concepts/union-of-wisdom-and-means.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v64-68 <a id="tea-dohakosa-queen-saraha-v64-68"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 The dharmakāya, saṃbhogakāya and nirmāṇakāya, with the svābhāvikakāya, are to be known as cause and result; the svābhāvika body's bliss is the great enjoyment; through the power of aspiration and compassion the two form bodies arise, beautiful like the good vase, the wish-granting tree and the jewel, appearing variously to those to be trained — inconceivable emanations.
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: realized · types: ultimate, karma-liberation_
 
-terms: [dharmakāya](../terms/dharmakaya.md), [sāṃbhogika-kāya](../terms/sambhogakaya.md), [nairmāṇika-kāya](../terms/nirmanakaya.md), [svābhāvika-kāya](../terms/svabhavikakaya.md) · concepts: `cpt:buddha-bodies-vajrayana` · teachers: [Saraha](../teachers/saraha.md)
+terms: [dharmakāya](../terms/dharmakaya.md), [sāṃbhogika-kāya](../terms/sambhogakaya.md), [nairmāṇika-kāya](../terms/nirmanakaya.md), [svābhāvika-kāya](../terms/svabhavikakaya.md) · concepts: [The three (four, five) bodies of a buddha in the tantras](../concepts/buddha-bodies-vajrayana.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v69 <a id="tea-dohakosa-queen-saraha-v69"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 This path of the unsurpassed essence of the Great Vehicle takes the fruit as the path and abides as the fruit from the beginning; the perfect benefit of others is the supreme fruit.
 
@@ -197,10 +197,10 @@ This path of the unsurpassed essence of the Great Vehicle takes the fruit as the
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: `cpt:fruit-as-path` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [Taking the fruit as the path](../concepts/fruit-as-path.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v8-9 <a id="tea-dohakosa-queen-saraha-v8-9"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Liberation in an instant is called the dharmakāya; children say there is a ground of great bliss other than that liberation, but it is like a mirage; grounds, paths and buddhahood are all one, this very innate gnosis.
 
@@ -208,10 +208,10 @@ Liberation in an instant is called the dharmakāya; children say there is a grou
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: karma-liberation, ultimate_
 
-terms: [dharmakāya](../terms/dharmakaya.md) · concepts: `cpt:tantric-bhumis` · teachers: [Saraha](../teachers/saraha.md)
+terms: [dharmakāya](../terms/dharmakaya.md) · concepts: [The tantric grounds (bhūmi)](../concepts/tantric-bhumis.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v81-82 <a id="tea-dohakosa-queen-saraha-v81-82"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Clearing away the chaff of speculation and elaboration, realizing this unsurpassed essence of meaning born of the natural faculties, one abides on the fourteenth ground; may beings, by the gradual and the simultaneous entry, attain mahāmudrā.
 
@@ -219,8 +219,8 @@ Clearing away the chaff of speculation and elaboration, realizing this unsurpass
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: `cpt:tantric-bhumis`, `cpt:gradual-and-simultaneous-siddha` · teachers: [Saraha](../teachers/saraha.md) · disputes: `dsp:sudden-or-gradual`
+concepts: [The tantric grounds (bhūmi)](../concepts/tantric-bhumis.md), [Gradual and simultaneous entry](../concepts/gradual-and-simultaneous-siddha.md) · teachers: [Saraha](../teachers/saraha.md) · disputes: `dsp:sudden-or-gradual`
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

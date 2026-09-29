@@ -23,7 +23,7 @@ The Way is fundamentally complete and pervades everywhere — why depend on prac
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-concepts: `cpt:practice-and-realization` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+concepts: [Practice and realization](../concepts/practice-and-realization.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 ### non-thinking <a id="tea-fukanzazengi-non-thinking"></a>
 `skeleton` · confidence high
@@ -32,10 +32,10 @@ Sit in full or half lotus with the body upright, the left hand on the right in t
 
 _level: ultimate · standpoint: seeker · path: meditation, body-breath · stage: all · types: practice_
 
-terms: [hishiryō (non-thinking)](../terms/hishiryo.md) · practices: `prc:zazen`, `prc:shikantaza` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md), [Yaoshan Weiyan 藥山惟儼](../teachers/yaoshan.md)
+terms: [hishiryō (non-thinking)](../terms/hishiryo.md) · practices: [Zazen / zuochan (seated meditation)](../practices/zazen.md), [Shikantaza (just sitting)](../practices/shikantaza.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md), [Yaoshan Weiyan 藥山惟儼](../teachers/yaoshan.md)
 
 
 _Notes: Not held locally; the not-thinking passage quotes Yaoshan (read locally in Jingde chuandeng lu juan 14)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

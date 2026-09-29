@@ -26,7 +26,7 @@ The communities of the Fourth and Fifth Patriarchs Daoxin and Hongren at Huangme
 [Daoxin 道信](../teachers/daoxin.md), [Faru 法如](../teachers/faru.md), [Hongren 弘忍](../teachers/hongren.md), [Huineng 惠能 / 慧能 (the Sixth Patriarch)](../teachers/huineng.md), [Lao'an (Hui'an 慧安)](../teachers/laoan.md), [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md), [Zhishen 智詵](../teachers/zhishen.md)
 
 ## Practices
-_none recorded_
+[Guarding the mind (shouxin)](../practices/shouxin.md), [One-practice samādhi (yixing sanmei)](../practices/yixing-sanmei.md)
 
 ## Path maps
 _none recorded_
@@ -35,4 +35,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -13,4 +13,4 @@ The lowest āṇava support: positing the divine in 'places' - in the breath and
 **Sequences:** `pth:kashmir-four-upayas`
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._

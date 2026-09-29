@@ -17,4 +17,4 @@
 **Related:** [naimittika-karma](naimittika-karma.md), [kāmya-karma](kamya-karma.md), [pratyavāya](pratyavaya.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._

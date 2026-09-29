@@ -143,4 +143,4 @@ concepts: [The Lord's devotees as one's masters; service to devotees](../concept
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._

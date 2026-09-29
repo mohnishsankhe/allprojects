@@ -28,7 +28,7 @@ The sūtra has two gates: the essential gate (yaomen) — Śākyamuni's teaching
 
 _level: conventional · standpoint: analytic · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:yaomen`, `trm:hongyuan`, `trm:dingshan`, `trm:sanshan` · concepts: `cpt:meditative-and-non-meditative-good` · teachers: [Shandao](../teachers/shandao.md)
+terms: [yaomen](../terms/yaomen.md), [hongyuan](../terms/hongyuan.md), [dingshan](../terms/dingshan.md), [sanshan](../terms/sanshan.md) · concepts: [Meditative and non-meditative good](../concepts/meditative-and-non-meditative-good.md) · teachers: [Shandao](../teachers/shandao.md)
 
 ### 1.reward-land <a id="tea-guanjing-shu-1-reward-land"></a>
 `skeleton` · confidence high
@@ -37,7 +37,7 @@ Shandao 'settles the old and the new': the Buddha and land are reward, not trans
 
 _level: conventional · standpoint: polemical · path: devotion · stage: all · types: dispute, karma-liberation_
 
-terms: `trm:baotu`, `trm:fanfu` · concepts: `cpt:reward-land-for-ordinary-beings`, `cpt:ordinary-being-fanfu` · teachers: [Shandao](../teachers/shandao.md), [Jingying Huiyuan](../teachers/jingying-huiyuan.md) · disputes: `dsp:amitabha-land-reward-or-transformation`
+terms: [baotu](../terms/baotu.md), [fanfu](../terms/fanfu.md) · concepts: [Sukhāvatī as a reward land into which ordinary beings are born](../concepts/reward-land-for-ordinary-beings.md), [The ordinary foolish being (fanfu / bonbu)](../concepts/ordinary-being-fanfu.md) · teachers: [Shandao](../teachers/shandao.md), [Jingying Huiyuan](../teachers/jingying-huiyuan.md) · disputes: [Is Amitābha a reward-body buddha in a reward land, or a transformation body in a land where ordinary beings and sages dwell together?](../debates/amitabha-land-reward-or-transformation.md)
 
 ### 4.buddha-intent <a id="tea-guanjing-shu-4-buddha-intent"></a>
 `skeleton` · confidence high
@@ -46,7 +46,7 @@ Although the sūtra has taught the benefits of meditative and non-meditative goo
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: practice_
 
-terms: `trm:chengming` · concepts: `cpt:selected-primal-vow` · teachers: [Shandao](../teachers/shandao.md)
+terms: [chengming](../terms/chengming.md) · concepts: [The selected primal vow (senchaku hongan)](../concepts/selected-primal-vow.md) · teachers: [Shandao](../teachers/shandao.md)
 
 ### 4.postscript-dream <a id="tea-guanjing-shu-4-postscript-dream"></a>
 `skeleton` · confidence moderate
@@ -64,7 +64,7 @@ Why does the eighteenth vow exclude the five grave offences and slander while th
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: dispute, karma-liberation_
 
-terms: `trm:yizhi-men`, [ānantarya](../terms/anantarya.md), `trm:bangfa` · obstacles: [The five deadly acts (ānantarya)](../obstacles/five-anantarya-karmas.md), `obs:slander-of-the-dharma` · teachers: [Shandao](../teachers/shandao.md) · disputes: `dsp:can-grave-offenders-be-born`
+terms: [yizhi men](../terms/yizhi-men.md), [ānantarya](../terms/anantarya.md), [saddharma-pratikṣepa](../terms/saddharma-pratiksepa.md) · obstacles: [The five deadly acts (ānantarya)](../obstacles/five-anantarya-karmas.md), [Rejecting the true dharma (saddharmapratikṣepa)](../obstacles/rejecting-the-true-dharma.md) · teachers: [Shandao](../teachers/shandao.md) · disputes: [Can those who have committed the five grave offences or slandered the Dharma be born in the Pure Land?](../debates/can-grave-offenders-be-born.md)
 
 ### 4.rightly-determined-act <a id="tea-guanjing-shu-4-rightly-determined-act"></a>
 `skeleton` · confidence high
@@ -73,7 +73,7 @@ Practices are of two kinds, right and miscellaneous. The right practices are fiv
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice_
 
-terms: `trm:zhengding-ye`, `trm:zhuye`, `trm:zaxing`, `trm:wu-zhengxing` · concepts: `cpt:five-right-practices`, `cpt:exclusive-and-miscellaneous-practice` · practices: `prc:five-right-practices`, [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Shandao](../teachers/shandao.md)
+terms: [zhengding ye](../terms/zhengding-ye.md), [zhuye](../terms/zhuye.md), [zaxing](../terms/zaxing.md), [wu zhengxing](../terms/wu-zhengxing.md) · concepts: [The five right practices and the rightly determined act](../concepts/five-right-practices.md), [Exclusive and miscellaneous practice](../concepts/exclusive-and-miscellaneous-practice.md) · practices: [The five right practices (Shandao)](../practices/five-right-practices.md), [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Shandao](../teachers/shandao.md)
 
 ### 4.sincere-mind <a id="tea-guanjing-shu-4-sincere-mind"></a>
 `skeleton` · confidence high
@@ -82,7 +82,7 @@ The sincere mind means that practice of body, speech and mind must be done with 
 
 _level: conventional · standpoint: seeker · path: devotion, action · stage: all · types: ethics, practice_
 
-terms: `trm:zhichengxin` · concepts: `cpt:three-minds-contemplation-sutra` · teachers: [Shandao](../teachers/shandao.md)
+terms: [zhicheng xin](../terms/zhichengxin.md) · concepts: [The three minds of the Contemplation Sūtra](../concepts/three-minds-contemplation-sutra.md) · teachers: [Shandao](../teachers/shandao.md)
 
 ### 4.two-deep-minds <a id="tea-guanjing-shu-4-two-deep-minds"></a>
 `skeleton` · confidence high
@@ -91,7 +91,7 @@ The deep mind is deeply entrusting mind, of two kinds: first, to believe deeply 
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: `trm:shenxin`, `trm:erzhong-shenxin` · concepts: `cpt:two-kinds-of-deep-entrusting` · teachers: [Shandao](../teachers/shandao.md)
+terms: [shen xin](../terms/shenxin.md), [erzhong shenxin](../terms/erzhong-shenxin.md) · concepts: [The two kinds of deep entrusting (nishu jinshin)](../concepts/two-kinds-of-deep-entrusting.md) · teachers: [Shandao](../teachers/shandao.md)
 
 ### 4.two-rivers <a id="tea-guanjing-shu-4-two-rivers"></a>
 `skeleton` · confidence high
@@ -100,10 +100,10 @@ A traveller going west across a wilderness, pursued by bandits and wild beasts, 
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: practice, karma-liberation_
 
-concepts: `cpt:parable-of-two-rivers` · obstacles: `obs:two-rivers-greed-anger` · teachers: [Shandao](../teachers/shandao.md) · disputes: `dsp:exclusive-nenbutsu-controversy`
+concepts: [The parable of the two rivers and the white path](../concepts/parable-of-two-rivers.md) · obstacles: [The rivers of water and fire (greed and anger)](../obstacles/two-rivers-greed-anger.md) · teachers: [Shandao](../teachers/shandao.md) · disputes: [May the nenbutsu be practised exclusively, setting aside all other practices and deities?](../debates/exclusive-nenbutsu-controversy.md)
 
 
 _Notes: T37 not in the local corpus; teachings from it are recalled, no original quoted._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -33,7 +33,7 @@ Lay Pure Land repentance societies founded by the monk Mao Ziyuan (Cizhao zongzh
 [Amitābha / Amitāyus](../teachers/amitabha.md), [Mao Ziyuan](../teachers/mao-ziyuan.md), [Pudu of Lushan](../teachers/pudu.md)
 
 ## Practices
-_none recorded_
+[Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md), [Recitation societies (jieshe nianfo)](../practices/nianfo-society.md), [Repentance and vows for birth (Zunshi's rite)](../practices/pure-land-repentance.md)
 
 ## Path maps
 _none recorded_
@@ -44,4 +44,4 @@ _none recorded_
 _Notes: Scope limited to the Song–Yuan Buddhist societies as described in T1973._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

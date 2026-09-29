@@ -439,4 +439,4 @@ terms: [pada](../terms/pada.md) · concepts: [Equal taste (samarasa)](../concept
 _Notes: Refs in this shard follow the Kuvalayananda–Shukla (GRETIL) numbering. U28 may add the haṭha analysis._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._

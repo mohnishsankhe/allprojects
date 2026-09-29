@@ -13,4 +13,4 @@ Action done for its results; desirelessness, flawless service and fitness are th
   - [Brahmasūtrabhāṣya (Madhva)](../texts/brahma-sutra-bhasya-madhva.md) — ref: 1.1.1; rests_on: ["tea:brahma-sutra-bhasya-madhva:1.1.1/5"]
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._

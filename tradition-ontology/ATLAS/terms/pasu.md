@@ -31,4 +31,4 @@
 _Notes: Contribution from U08; U18 owns the Siddhānta definition._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U17-pasupata-kapalika, skeleton:U20-virasaiva, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya, skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism, skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U17-pasupata-kapalika, skeleton:U20-virasaiva, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya, skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism, skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._

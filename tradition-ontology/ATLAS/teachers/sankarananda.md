@@ -12,4 +12,4 @@
 14th-c. Advaitin saluted as guru in the opening verse of the Pañcadaśī; author of the Ātmapurāṇa and of Upaniṣad and Gītā commentaries.
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

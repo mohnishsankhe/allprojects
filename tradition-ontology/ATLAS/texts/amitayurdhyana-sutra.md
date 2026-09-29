@@ -48,7 +48,7 @@ Ninth contemplation, of Amitāyus's true body: he has eighty-four thousand marks
 
 _level: conventional · standpoint: divine · path: meditation, devotion · stage: intermediate · types: practice, ultimate_
 
-terms: `trm:sheqi-bu-she`, `trm:nianfo-sanmei` · concepts: `cpt:embraced-never-abandoned` · practices: [The sixteen contemplations of the Contemplation Sūtra](../practices/sixteen-contemplations.md)
+terms: [shequ bu she](../terms/shequ-bu-she.md), [nianfo sanmei](../terms/nianfo-sanmei.md) · concepts: [Embraced, never to be abandoned (shequ bu she)](../concepts/embraced-never-abandoned.md) · practices: [The sixteen contemplations of the Contemplation Sūtra](../practices/sixteen-contemplations.md)
 
 ### 14 <a id="tea-amitayurdhyana-sutra-14"></a>
 `skeleton` · confidence high
@@ -81,7 +81,7 @@ Merely hearing the names of the Buddha and the two bodhisattvas removes the sins
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: sound-language, karma-liberation_
 
-terms: `trm:minghao`, `trm:fentuoli` · concepts: `cpt:name-embodies-all-virtues` · teachers: [Ānanda](../teachers/ananda.md)
+terms: [minghao](../terms/minghao.md), [puṇḍarīka](../terms/pundarika.md) · concepts: [The name contains all virtues](../concepts/name-embodies-all-virtues.md) · teachers: [Ānanda](../teachers/ananda.md)
 
 ### closing <a id="tea-amitayurdhyana-sutra-closing-2"></a>
 `skeleton` · confidence high
@@ -92,7 +92,7 @@ Hearing this, Vaidehī and her five hundred attendants at once see the vast Land
 
 _level: bridging · standpoint: experiential · path: meditation, devotion · stage: realized · types: powers-experiences, karma-liberation_
 
-terms: `trm:wusheng-faren` · concepts: `cpt:seeing-the-buddha` · teachers: [Vaidehī](../teachers/vaidehi.md)
+terms: [anutpattika-dharma-kṣānti](../terms/anutpattika-dharmaksanti.md) · concepts: [Seeing the Buddha (jianfo) in samādhi, dream or at death](../concepts/seeing-the-buddha.md) · teachers: [Vaidehī](../teachers/vaidehi.md)
 
 ### intro.1 <a id="tea-amitayurdhyana-sutra-intro-1"></a>
 `skeleton` · confidence high
@@ -103,7 +103,7 @@ Vaidehī, imprisoned by her son, throws herself down weeping before the Buddha: 
 
 _level: conventional · standpoint: seeker · path: devotion · stage: beginner · types: world-fate, karma-liberation_
 
-concepts: `cpt:loathing-this-world-seeking-the-pure-land` · teachers: [Vaidehī](../teachers/vaidehi.md)
+concepts: [Loathing this defiled world, joyfully seeking the Pure Land](../concepts/loathing-this-world-seeking-the-pure-land.md) · teachers: [Vaidehī](../teachers/vaidehi.md)
 
 ### intro.2 <a id="tea-amitayurdhyana-sutra-intro-2"></a>
 `skeleton` · confidence high
@@ -125,7 +125,7 @@ Amitābha is not far from here. Those who wish to be born there should cultivate
 
 _level: conventional · standpoint: ethical-social · path: action, devotion · stage: all · types: ethics, practice_
 
-terms: `trm:sanfu`, `trm:sanshan` · concepts: `cpt:meditative-and-non-meditative-good` · practices: `prc:three-meritorious-acts`
+terms: [sanfu](../terms/sanfu.md), [sanshan](../terms/sanshan.md) · concepts: [Meditative and non-meditative good](../concepts/meditative-and-non-meditative-good.md) · practices: [The three meritorious acts (sanfu)](../practices/three-meritorious-acts.md)
 
 ### intro.4 <a id="tea-amitayurdhyana-sutra-intro-4"></a>
 `skeleton` · confidence high
@@ -136,10 +136,10 @@ The Buddha tells Vaidehī: you are an ordinary being, your mind and thought are 
 
 _level: conventional · standpoint: seeker · path: devotion, meditation · stage: beginner · types: practice, consciousness-mind_
 
-terms: `trm:fanfu` · concepts: `cpt:ordinary-being-fanfu`
+terms: [fanfu](../terms/fanfu.md) · concepts: [The ordinary foolish being (fanfu / bonbu)](../concepts/ordinary-being-fanfu.md)
 
 
 _Notes: Lower-lower grade read locally in T365 (346a12-26)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

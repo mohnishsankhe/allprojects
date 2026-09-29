@@ -28,7 +28,7 @@ Dahui: nowadays some teachers of heretical silent-illumination Chan, seeing offi
 
 _level: conventional · standpoint: polemical · path: meditation · stage: all · types: dispute, practice_
 
-concepts: `cpt:silent-illumination` · obstacles: `obs:dead-sitting` · teachers: [Dahui Zonggao 大慧宗杲](../teachers/dahui.md) · disputes: `dsp:koan-or-silent-illumination`
+concepts: [Silent illumination (mozhao)](../concepts/silent-illumination.md) · obstacles: [Dead sitting / 'cold ash and dead wood'](../obstacles/dead-sitting.md) · teachers: [Dahui Zonggao 大慧宗杲](../teachers/dahui.md) · disputes: [Kōan (critical-phrase) introspection or silent illumination?](../debates/koan-or-silent-illumination.md)
 
 ### 891a07 <a id="tea-dahui-yulu-891a07"></a>
 `skeleton` · confidence moderate
@@ -48,7 +48,7 @@ Students of the Way should keep mind and consciousness calm at all times and sit
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-practices: `prc:zazen` · disputes: `dsp:koan-or-silent-illumination`
+practices: [Zazen / zuochan (seated meditation)](../practices/zazen.md) · disputes: [Kōan (critical-phrase) introspection or silent illumination?](../debates/koan-or-silent-illumination.md)
 
 ### 903b29 <a id="tea-dahui-yulu-903b29"></a>
 `skeleton` · confidence high
@@ -59,7 +59,7 @@ While the feeling of doubt is not yet broken, just look at a critical phrase by 
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [yiqing (feeling of doubt)](../terms/yiqing.md), [huatou / hwadu (critical phrase)](../terms/huatou.md) · concepts: `cpt:great-doubt` · practices: `prc:huatou`
+terms: [yiqing (feeling of doubt)](../terms/yiqing.md), [huatou / hwadu (critical phrase)](../terms/huatou.md) · concepts: [Great doubt](../concepts/great-doubt.md) · practices: [Huatou / hwadu (observing the critical phrase)](../practices/huatou.md)
 
 ### 910c22 <a id="tea-dahui-yulu-910c22"></a>
 `skeleton` · confidence high
@@ -70,7 +70,7 @@ terms: [yiqing (feeling of doubt)](../terms/yiqing.md), [huatou / hwadu (critica
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, practice_
 
-terms: [wu / satori (awakening)](../terms/wu-satori.md) · concepts: `cpt:kensho-seeing-nature` · disputes: `dsp:koan-or-silent-illumination`
+terms: [wu / satori (awakening)](../terms/wu-satori.md) · concepts: [Seeing the nature (kenshō) and awakening (satori)](../concepts/kensho-seeing-nature.md) · disputes: [Kōan (critical-phrase) introspection or silent illumination?](../debates/koan-or-silent-illumination.md)
 
 ### 921c05 <a id="tea-dahui-yulu-921c05"></a>
 `skeleton` · confidence high
@@ -81,8 +81,8 @@ Letter to Fu Shumi: press down at once the deluded mind, the discriminating mind
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: all · types: practice_
 
-terms: [huatou / hwadu (critical phrase)](../terms/huatou.md), [wu / mu (no)](../terms/wu-mu.md) · concepts: `cpt:koan` · practices: `prc:huatou` · obstacles: `obs:ten-defects-of-hwadu` · teachers: [Dahui Zonggao 大慧宗杲](../teachers/dahui.md) · disputes: `dsp:koan-or-silent-illumination`
+terms: [huatou / hwadu (critical phrase)](../terms/huatou.md), [wu / mu (no)](../terms/wu-mu.md) · concepts: [Kōan (gong'an) and critical phrase (huatou)](../concepts/koan.md) · practices: [Huatou / hwadu (observing the critical phrase)](../practices/huatou.md) · obstacles: [Defects in contemplating the hwadu](../obstacles/ten-defects-of-hwadu.md) · teachers: [Dahui Zonggao 大慧宗杲](../teachers/dahui.md) · disputes: [Kōan (critical-phrase) introspection or silent illumination?](../debates/koan-or-silent-illumination.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

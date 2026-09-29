@@ -18,4 +18,4 @@ Candrakīrti's commentary on Āryadeva's Four Hundred Verses, rich in narratives
   - kind: original; name: Sanskrit fragments (chs. 8–16), local e-text chatuHshatikA
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

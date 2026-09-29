@@ -20,4 +20,4 @@ Mahīdhara's commentary on the Mādhyandina Saṃhitā, composed at Vārāṇas�
 
 - 2026-09-28 websearch: partially-confirmed — https://en.wikipedia.org/wiki/Mah%C4%ABdhara, https://archive.org/details/in.ernet.dli.2015.408325 — Confirmed: Mahīdhara (16th c., Vārāṇasī) wrote the Vedadīpa on the Vājasaneyi Saṃhitā. The specific date 'c. 1589' is attested in the sources for his Mantramahodadhi (c. 1588/1589), not for the Vedadīpa itself; the Vedadīpa's own year was not confirmed (century confirmed).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._

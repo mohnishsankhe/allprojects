@@ -22,7 +22,7 @@ The Sixth Patriarch Huineng's autobiography and sermons at the Dafan temple: the
   - kind: original; name: CBETA XML P5, Taishō T48n2008 (Liuzu dashi fabao tanjing 六祖大師法寶壇經 (Zongbao ed.)); local copy sources_raw/cbeta/T/T48/T48n2008.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
   - kind: original; name: prepared segments sources_raw/prepared/platform-sutra/ (refs 'section.segment' as used here); licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
-## Teachings (53: skeleton 53)
+## Teachings (54: skeleton 54)
 
 ### 4.2 <a id="tea-platform-sutra-4-2"></a>
 `skeleton` · confidence high
@@ -33,7 +33,7 @@ Huineng opens his sermon: the self-nature of bodhi is originally pure; simply us
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-terms: [zixing (self-nature, own nature)](../terms/zixing.md), [jianxing chengfo (seeing the nature and becoming buddha)](../terms/jianxing-chengfo.md) · concepts: `cpt:buddha-nature-chan`, `cpt:original-purity-self-nature`
+terms: [zixing (self-nature, own nature)](../terms/zixing.md), [jianxing chengfo (seeing the nature and becoming buddha)](../terms/jianxing-chengfo.md) · concepts: [Buddha-nature in Chan, Seon and Zen](../concepts/buddha-nature-chan.md), [Original purity of the self-nature](../concepts/original-purity-self-nature.md)
 
 ### 4.3 <a id="tea-platform-sutra-4-3"></a>
 `skeleton` · confidence high
@@ -44,7 +44,7 @@ Asked by Hongren how a southern 'barbarian' could become a buddha, Huineng answe
 
 _level: ultimate · standpoint: absolute · path: general · stage: all · types: ultimate, ethics_
 
-terms: [foxing (buddha-nature)](../terms/foxing.md) · concepts: `cpt:buddha-nature-chan`
+terms: [foxing (buddha-nature)](../terms/foxing.md) · concepts: [Buddha-nature in Chan, Seon and Zen](../concepts/buddha-nature-chan.md)
 
 ### 4.4 <a id="tea-platform-sutra-4-4"></a>
 `skeleton` · confidence high
@@ -55,7 +55,7 @@ Hongren tells his monks that birth and death is the great matter, yet they seek 
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: practice, teacher-transmission, karma-liberation_
 
-terms: [shengsi shida (birth and death is the great matter)](../terms/shengsi-shida.md), [jianxing / kenshō (seeing the nature)](../terms/jianxing.md) · concepts: `cpt:great-matter-birth-death`
+terms: [shengsi shida (birth and death is the great matter)](../terms/shengsi-shida.md), [jianxing / kenshō (seeing the nature)](../terms/jianxing.md) · concepts: [The great matter of birth and death](../concepts/great-matter-birth-death.md)
 
 ### 4.6 <a id="tea-platform-sutra-4-6"></a>
 `skeleton` · confidence high
@@ -66,7 +66,7 @@ The verse Shenxiu wrote on the south corridor wall: the body is the bodhi tree, 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: beginner · types: practice, consciousness-mind_
 
-concepts: `cpt:verse-contest`, `cpt:sudden-and-gradual` · teachers: [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md) · disputes: `dsp:sudden-or-gradual`
+concepts: [The verse contest at Huangmei](../concepts/verse-contest.md), [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · teachers: [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md) · disputes: `dsp:sudden-or-gradual`
 
 ### 4.8 <a id="tea-platform-sutra-4-8"></a>
 `skeleton` · confidence high
@@ -77,7 +77,7 @@ Hongren has the verse kept instead of a painting, quoting the Diamond Sūtra 'al
 
 _level: conventional · standpoint: seeker · path: meditation · stage: beginner · types: practice_
 
-concepts: `cpt:verse-contest`
+concepts: [The verse contest at Huangmei](../concepts/verse-contest.md)
 
 ### 4.9 <a id="tea-platform-sutra-4-9"></a>
 `skeleton` · confidence high
@@ -88,7 +88,7 @@ To Shenxiu privately Hongren says the verse has not seen the original nature; it
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: intermediate · types: practice, teacher-transmission_
 
-terms: [jianxing / kenshō (seeing the nature)](../terms/jianxing.md), [benxin (original mind)](../terms/benxin.md) · concepts: `cpt:verse-contest`, `cpt:kensho-seeing-nature`
+terms: [jianxing / kenshō (seeing the nature)](../terms/jianxing.md), [benxin (original mind)](../terms/benxin.md) · concepts: [The verse contest at Huangmei](../concepts/verse-contest.md), [Seeing the nature (kenshō) and awakening (satori)](../concepts/kensho-seeing-nature.md)
 
 ### 4.11 <a id="tea-platform-sutra-4-11"></a>
 `skeleton` · confidence high
@@ -99,7 +99,7 @@ Huineng's verse: bodhi originally has no tree, the bright mirror is also no stan
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [benlai wu yi wu (originally not a single thing)](../terms/benlai-wuyiwu.md) · concepts: `cpt:verse-contest`, `cpt:sudden-and-gradual` · disputes: `dsp:sudden-or-gradual`
+terms: [benlai wu yi wu (originally not a single thing)](../terms/benlai-wuyiwu.md) · concepts: [The verse contest at Huangmei](../concepts/verse-contest.md), [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: `dsp:sudden-or-gradual`
 
 ### 4.13 <a id="tea-platform-sutra-4-13"></a>
 `skeleton` · confidence high
@@ -110,7 +110,7 @@ When Hongren expounded the Diamond Sūtra to 'one should produce a mind that abi
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: realized · types: ultimate, powers-experiences, teacher-transmission_
 
-terms: [zixing (self-nature, own nature)](../terms/zixing.md), [ying wu suo zhu er sheng qi xin (produce a mind that abides nowhere)](../terms/yingwusuozhu.md) · concepts: `cpt:original-purity-self-nature`, `cpt:kensho-seeing-nature` · teachers: [Hongren 弘忍](../teachers/hongren.md)
+terms: [zixing (self-nature, own nature)](../terms/zixing.md), [ying wu suo zhu er sheng qi xin (produce a mind that abides nowhere)](../terms/yingwusuozhu.md) · concepts: [Original purity of the self-nature](../concepts/original-purity-self-nature.md), [Seeing the nature (kenshō) and awakening (satori)](../concepts/kensho-seeing-nature.md) · teachers: [Hongren 弘忍](../teachers/hongren.md)
 
 ### 4.15 <a id="tea-platform-sutra-4-15"></a>
 `skeleton` · confidence high
@@ -121,7 +121,7 @@ Hongren explains the robe: since people did not at first believe Bodhidharma, th
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission_
 
-terms: [yi xin chuan xin (transmission from mind to mind)](../terms/yixin-chuanxin.md) · concepts: `cpt:mind-to-mind-transmission`, `cpt:robe-and-bowl`
+terms: [yi xin chuan xin (transmission from mind to mind)](../terms/yixin-chuanxin.md) · concepts: [Mind-to-mind transmission](../concepts/mind-to-mind-transmission.md), [The robe and bowl as tokens of transmission](../concepts/robe-and-bowl.md)
 
 ### 4.16 <a id="tea-platform-sutra-4-16"></a>
 `skeleton` · confidence high
@@ -132,7 +132,7 @@ Overtaken by Huiming on Dayu ridge, Huineng tells him to set aside all condition
 
 _level: ultimate · standpoint: seeker · path: knowledge, meditation · stage: intermediate · types: practice, ultimate, powers-experiences_
 
-terms: [benlai mianmu (original face)](../terms/benlai-mianmu.md), [fanzhao / huiguang fanzhao (turning the light around)](../terms/fanzhao.md) · concepts: `cpt:original-face`
+terms: [benlai mianmu (original face)](../terms/benlai-mianmu.md), [fanzhao / huiguang fanzhao (turning the light around)](../terms/fanzhao.md) · concepts: [The original face](../concepts/original-face.md)
 
 ### 4.17 <a id="tea-platform-sutra-4-17"></a>
 `skeleton` · confidence high
@@ -143,7 +143,7 @@ Hiding among hunters for fifteen years, Huineng released animals from the nets a
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, narrative_
 
-concepts: `cpt:chan-precepts`
+concepts: [Precepts in Chan and Zen](../concepts/chan-precepts.md)
 
 ### 4.18 <a id="tea-platform-sutra-4-18"></a>
 `skeleton` · confidence high
@@ -154,7 +154,7 @@ At Faxing temple two monks argued whether the wind or the banner was moving; Hui
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: consciousness-mind, ultimate_
 
-terms: [jianxing / kenshō (seeing the nature)](../terms/jianxing.md) · concepts: `cpt:non-duality-chan`
+terms: [jianxing / kenshō (seeing the nature)](../terms/jianxing.md) · concepts: [Non-duality in Chan](../concepts/non-duality-chan.md)
 
 ### 5.1 <a id="tea-platform-sutra-5-1"></a>
 `skeleton` · confidence high
@@ -165,7 +165,7 @@ The wisdom of bodhi and prajñā is originally present in everyone; only because
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all · types: practice, teacher-transmission, consciousness-mind_
 
-terms: [wuji kong (indeterminate emptiness)](../terms/wuji-kong.md), [shan zhishi (good friend, spiritual teacher)](../terms/shanzhishi.md) · concepts: `cpt:good-friend-kalyanamitra-chan` · obstacles: `obs:blank-emptiness`
+terms: [wuji kong (indeterminate emptiness)](../terms/wuji-kong.md), [shan zhishi (good friend, spiritual teacher)](../terms/shanzhishi.md) · concepts: [The good friend (teacher) in Chan](../concepts/good-friend-kalyanamitra-chan.md) · obstacles: [Indeterminate (blank) emptiness](../obstacles/blank-emptiness.md)
 
 ### 5.2 <a id="tea-platform-sutra-5-2"></a>
 `skeleton` · confidence high
@@ -176,7 +176,7 @@ Prajñā is wisdom: in all places and times, moment after moment not being fooli
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [fannao ji puti (afflictions are bodhi)](../terms/fannao-ji-puti.md) · concepts: `cpt:sudden-and-gradual`
+terms: [fannao ji puti (afflictions are bodhi)](../terms/fannao-ji-puti.md) · concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md)
 
 ### 5.3 <a id="tea-platform-sutra-5-3"></a>
 `skeleton` · confidence high
@@ -187,7 +187,7 @@ Great wisdom breaks through the afflictions of the five aggregates and turns the
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: advanced · types: practice, ethics_
 
-terms: [sanxue (three trainings)](../terms/sanxue.md) · obstacles: `obs:three-poisons-chan`
+terms: [sanxue (three trainings)](../terms/sanxue.md) · obstacles: [The three poisons in the Platform Sūtra](../obstacles/three-poisons-chan.md)
 
 ### 5.6 <a id="tea-platform-sutra-5-6"></a>
 `skeleton` · confidence high
@@ -198,7 +198,7 @@ The formless verse: the Dharma has no sudden or gradual — delusion and awakeni
 
 _level: bridging · standpoint: absolute · path: general · stage: all · types: ultimate, practice_
 
-concepts: `cpt:sudden-and-gradual` · disputes: `dsp:sudden-or-gradual`
+concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: `dsp:sudden-or-gradual`
 
 ### 6.6 <a id="tea-platform-sutra-6-6"></a>
 `skeleton` · confidence high
@@ -209,7 +209,7 @@ Emperor Wu's temple-building, ordinations and alms were seeking blessings, not m
 
 _level: bridging · standpoint: polemical · path: knowledge, action · stage: all · types: ethics, karma-liberation_
 
-concepts: `cpt:merit-versus-blessings` · teachers: [Emperor Wu of Liang (Liang Wudi 梁武帝)](../teachers/emperor-wu-liang.md), [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md)
+concepts: [Merit versus blessings](../concepts/merit-versus-blessings.md) · teachers: [Emperor Wu of Liang (Liang Wudi 梁武帝)](../teachers/emperor-wu-liang.md), [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md)
 
 ### 6.8 <a id="tea-platform-sutra-6-8"></a>
 `skeleton` · confidence high
@@ -220,18 +220,18 @@ On rebirth in the Western Land: the Buddha spoke of it as far for those of lower
 
 _level: bridging · standpoint: polemical · path: knowledge, devotion · stage: all · types: practice, karma-liberation, world-fate_
 
-terms: [weixin jingtu (mind-only Pure Land)](../terms/weixin-jingtu.md) · concepts: `cpt:mind-only-pure-land` · practices: `prc:nianfo-chan`
+terms: [weixin jingtu (mind-only Pure Land)](../terms/weixin-jingtu.md) · concepts: [The Pure Land as mind only (weixin jingtu)](../concepts/mind-only-pure-land.md) · practices: [Nenbutsu Zen (joint practice of Chan and recitation)](../practices/nianfo-chan.md)
 
 ### 6.10 <a id="tea-platform-sutra-6-10"></a>
 `skeleton` · confidence high
 
-The body is a city, the senses are gates, the mind is the ground and the nature the king; if the self-nature is deluded one is a sentient being, if awakened a buddha. Compassion is Avalokiteśvara, joy and equanimity are Mahāsthāmaprāpta, purity is Śākyamuni, equanimity and straightness are Amitābha; greed, hatred and delusion are the hells and animal realms.
+The body is a city, the senses are gates, the mind is the ground and the nature the king; if the self-nature is deluded one is a sentient being, if awakened a buddha. Compassion is Avalokiteśvara, joy and equanimity are Mahāsthāmaprāpta, purity is Śākyamuni, evenness and straightness are Amitābha; greed, hatred and delusion are the hells and animal realms.
 
 > 自性迷即是眾生，自性覺即是佛
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: all · types: ultimate, world-fate, body-layers_
 
-concepts: `cpt:mind-only-pure-land`
+concepts: [The Pure Land as mind only (weixin jingtu)](../concepts/mind-only-pure-land.md)
 
 ### 6.12 <a id="tea-platform-sutra-6-12"></a>
 `skeleton` · confidence high
@@ -242,7 +242,7 @@ One can practise at home as well as in a monastery: a layperson who practises is
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: practice, ethics_
 
-concepts: `cpt:lay-practice-chan`
+concepts: [Lay practice](../concepts/lay-practice-chan.md)
 
 ### 6.15 <a id="tea-platform-sutra-6-15"></a>
 `skeleton` · confidence high
@@ -253,7 +253,7 @@ The formless verse for laypeople: when the mind is level, what need to keep prec
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-concepts: `cpt:chan-precepts`, `cpt:lay-practice-chan`
+concepts: [Precepts in Chan and Zen](../concepts/chan-precepts.md), [Lay practice](../concepts/lay-practice-chan.md)
 
 ### 7.1 <a id="tea-platform-sutra-7-1"></a>
 `skeleton` · confidence high
@@ -264,7 +264,7 @@ This Dharma gate takes samādhi and prajñā as its basis; they are one substanc
 
 _level: ultimate · standpoint: analytic · path: meditation, knowledge · stage: all · types: practice, consciousness-mind_
 
-terms: [dinghui dengchi (balanced samādhi and prajñā)](../terms/dinghui-dengchi.md), [ti and yong (substance and function)](../terms/ti-yong.md) · concepts: `cpt:samadhi-prajna-unity`
+terms: [dinghui dengchi (balanced samādhi and prajñā)](../terms/dinghui-dengchi.md), [ti and yong (substance and function)](../terms/ti-yong.md) · concepts: [Unity of samādhi and prajñā](../concepts/samadhi-prajna-unity.md)
 
 ### 7.2 <a id="tea-platform-sutra-7-2"></a>
 `skeleton` · confidence high
@@ -275,7 +275,7 @@ The one-practice samādhi is always practising a straight mind in walking, stand
 
 _level: bridging · standpoint: polemical · path: meditation · stage: all · types: practice, dispute_
 
-terms: [yixing sanmei (one-practice samādhi)](../terms/yixing-sanmei.md) · practices: `prc:yixing-sanmei` · obstacles: `obs:attachment-to-stillness` · disputes: `dsp:sudden-or-gradual`
+terms: [yixing sanmei (one-practice samādhi)](../terms/yixing-sanmei.md) · practices: [One-practice samādhi (yixing sanmei)](../practices/yixing-sanmei.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · disputes: `dsp:sudden-or-gradual`
 
 ### 7.3 <a id="tea-platform-sutra-7-3"></a>
 `skeleton` · confidence high
@@ -286,7 +286,7 @@ The true teaching has no sudden or gradual; people's natures are sharp or dull �
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: all · types: practice, consciousness-mind, ultimate_
 
-terms: [wunian (no-thought)](../terms/wunian.md), [wuxiang (no-form)](../terms/wuxiang.md), [wuzhu (non-abiding)](../terms/wuzhu.md) · concepts: `cpt:no-thought-no-form-non-abiding`, `cpt:sudden-and-gradual` · obstacles: `obs:blank-emptiness` · disputes: `dsp:sudden-or-gradual`
+terms: [wunian (no-thought)](../terms/wunian.md), [wuxiang (no-form)](../terms/wuxiang.md), [wuzhu (non-abiding)](../terms/wuzhu.md) · concepts: [No-thought as tenet, no-form as substance, non-abiding as root](../concepts/no-thought-no-form-non-abiding.md), [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · obstacles: [Indeterminate (blank) emptiness](../obstacles/blank-emptiness.md) · disputes: `dsp:sudden-or-gradual`
 
 ### 8.1 <a id="tea-platform-sutra-8-1"></a>
 `skeleton` · confidence high
@@ -297,7 +297,7 @@ Seated meditation in this gate is not attaching to mind, not attaching to purity
 
 _level: bridging · standpoint: polemical · path: meditation · stage: all · types: practice_
 
-concepts: `cpt:zazen-redefined` · practices: `prc:zazen` · obstacles: `obs:attachment-to-stillness`
+concepts: [Seated meditation redefined](../concepts/zazen-redefined.md) · practices: [Zazen / zuochan (seated meditation)](../practices/zazen.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md)
 
 ### 8.2 <a id="tea-platform-sutra-8-2"></a>
 `skeleton` · confidence high
@@ -308,7 +308,7 @@ What is seated meditation (zuochan)? Outwardly, when thoughts do not arise towar
 
 _level: ultimate · standpoint: analytic · path: meditation · stage: all · types: practice_
 
-terms: [zuochan (seated meditation, zazen)](../terms/zuochan.md), [chan (meditation; the Chan school)](../terms/chan.md) · concepts: `cpt:zazen-redefined` · practices: `prc:zazen`
+terms: [zuochan (seated meditation, zazen)](../terms/zuochan.md), [chan (meditation; the Chan school)](../terms/chan.md) · concepts: [Seated meditation redefined](../concepts/zazen-redefined.md) · practices: [Zazen / zuochan (seated meditation)](../practices/zazen.md)
 
 ### 9.2 <a id="tea-platform-sutra-9-2"></a>
 `skeleton` · confidence high
@@ -319,7 +319,7 @@ The formless repentance: in past, present and future thoughts, not to be stained
 
 _level: conventional · standpoint: seeker · path: ritual, action · stage: all · types: ethics, practice_
 
-practices: `prc:formless-repentance`
+practices: [Formless repentance](../practices/formless-repentance.md)
 
 ### 9.3 <a id="tea-platform-sutra-9-3"></a>
 `skeleton` · confidence high
@@ -330,7 +330,7 @@ The four great vows are taken inwardly: I vow to save the countless beings of my
 
 _level: bridging · standpoint: seeker · path: action, knowledge · stage: all · types: ethics, practice_
 
-terms: [zixing zidu (saving oneself by the self-nature)](../terms/zixing-zidu.md) · practices: `prc:four-great-vows`
+terms: [zixing zidu (saving oneself by the self-nature)](../terms/zixing-zidu.md) · practices: [The four great vows (inward form)](../practices/four-great-vows.md)
 
 ### 9.4 <a id="tea-platform-sutra-9-4"></a>
 `skeleton` · confidence high
@@ -341,7 +341,7 @@ The formless threefold refuge: take refuge in awakening, the honoured of two fee
 
 _level: bridging · standpoint: ritual · path: ritual, knowledge · stage: all · types: ethics, practice_
 
-concepts: `cpt:chan-precepts` · practices: `prc:formless-precepts`
+concepts: [Precepts in Chan and Zen](../concepts/chan-precepts.md) · practices: [Formless precepts and threefold refuge](../practices/formless-precepts.md)
 
 ### 9.5 <a id="tea-platform-sutra-9-5"></a>
 `skeleton` · confidence high
@@ -352,7 +352,7 @@ The three bodies of the buddha are in one's own nature: the pure Dharma body is 
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: all · types: ultimate, body-layers_
 
-terms: [sanshen (three bodies) in Chan](../terms/sanshen-chan.md) · concepts: `cpt:three-bodies-in-self-nature`
+terms: [sanshen (three bodies) in Chan](../terms/sanshen-chan.md) · concepts: [The three bodies in one's own nature](../concepts/three-bodies-in-self-nature.md)
 
 ### 10.2 <a id="tea-platform-sutra-10-2"></a>
 `skeleton` · confidence high
@@ -374,7 +374,7 @@ Verse to Fada, who had recited the Lotus three thousand times: when the mind is 
 
 _level: bridging · standpoint: seeker · path: knowledge, sound · stage: intermediate · types: practice, sound-language_
 
-concepts: `cpt:words-and-letters`
+concepts: [Words and letters in Chan](../concepts/words-and-letters.md)
 
 ### 10.16 <a id="tea-platform-sutra-10-16"></a>
 `skeleton` · confidence high
@@ -385,7 +385,18 @@ To Zhitong, who could not understand the three bodies and four wisdoms: the pure
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate, consciousness-mind_
 
-concepts: `cpt:three-bodies-in-self-nature`
+concepts: [The three bodies in one's own nature](../concepts/three-bodies-in-self-nature.md)
+
+### 10.19 <a id="tea-platform-sutra-10-19"></a>
+`skeleton` · confidence high
+
+Verse to Zhitong on the four wisdoms: the great perfect mirror wisdom is the pure nature, the wisdom of equality is the mind without sickness, the wondrous observing wisdom sees without effort, the wisdom that accomplishes what is to be done is the same as the perfect mirror; the fifth and eighth, sixth and seventh consciousnesses are transformed at fruition and cause — only names, without real nature; if at the point of transformation one does not linger in feeling, amid all activity one abides forever in the nāga's samādhi.
+
+> 大圓鏡智性清淨，平等性智心無病，妙觀察智見非功，成所作智同圓鏡
+
+_level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: consciousness-mind, ultimate_
+
+concepts: [The four wisdoms in the Platform Sūtra](../concepts/four-wisdoms-chan.md)
 
 ### 10.27 <a id="tea-platform-sutra-10-27"></a>
 `skeleton` · confidence high
@@ -405,7 +416,7 @@ Qingyuan Xingsi asked what to do so as not to fall into stages; Huineng asked wh
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: teacher-transmission, practice_
 
-concepts: `cpt:sudden-and-gradual` · teachers: [Qingyuan Xingsi 青原行思](../teachers/qingyuan-xingsi.md)
+concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · teachers: [Qingyuan Xingsi 青原行思](../teachers/qingyuan-xingsi.md)
 
 ### 10.32 <a id="tea-platform-sutra-10-32"></a>
 `skeleton` · confidence high
@@ -416,7 +427,7 @@ Nanyue Huairang, asked 'what thing comes thus?', answered 'to say it is like a t
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: advanced · types: teacher-transmission, practice_
 
-concepts: `cpt:practice-and-realization` · teachers: [Nanyue Huairang 南嶽懷讓](../teachers/nanyue-huairang.md), [Prajñātāra (Bore Duoluo 般若多羅)](../teachers/prajnatara.md)
+concepts: [Practice and realization](../concepts/practice-and-realization.md) · teachers: [Nanyue Huairang 南嶽懷讓](../teachers/nanyue-huairang.md), [Prajñātāra (Bore Duoluo 般若多羅)](../teachers/prajnatara.md)
 
 ### 10.33 <a id="tea-platform-sutra-10-33"></a>
 `skeleton` · confidence high
@@ -427,7 +438,7 @@ Yongjia Xuanjue, awakened through the Vimalakīrti but without a confirming teac
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: teacher-transmission, death-dying_
 
-concepts: `cpt:inka-confirmation`, `cpt:great-matter-birth-death` · teachers: [Yongjia Xuanjue 永嘉玄覺](../teachers/yongjia-xuanjue.md)
+concepts: [Confirmation by a teacher (inka)](../concepts/inka-confirmation.md), [The great matter of birth and death](../concepts/great-matter-birth-death.md) · teachers: [Yongjia Xuanjue 永嘉玄覺](../teachers/yongjia-xuanjue.md)
 
 ### 10.34 <a id="tea-platform-sutra-10-34"></a>
 `skeleton` · confidence high
@@ -438,7 +449,7 @@ Zhihuang had sat in samādhi for twenty years; Xuance asked whether he entered s
 
 _level: bridging · standpoint: polemical · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-concepts: `cpt:zazen-redefined` · obstacles: `obs:attachment-to-stillness`
+concepts: [Seated meditation redefined](../concepts/zazen-redefined.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md)
 
 ### 10.40 <a id="tea-platform-sutra-10-40"></a>
 `skeleton` · confidence high
@@ -458,7 +469,7 @@ Shenxiu's disciple Zhicheng reports that his teacher tells students to 'fix the 
 
 _level: bridging · standpoint: polemical · path: meditation · stage: all · types: practice, dispute_
 
-concepts: `cpt:sudden-and-gradual` · obstacles: `obs:attachment-to-stillness` · teachers: [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md) · disputes: `dsp:sudden-or-gradual`
+concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · teachers: [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md) · disputes: `dsp:sudden-or-gradual`
 
 ### 11.2 <a id="tea-platform-sutra-11-2"></a>
 `skeleton` · confidence high
@@ -489,7 +500,7 @@ Huineng's verse on the three trainings of the self-nature: the mind-ground witho
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ethics, practice_
 
-terms: [sanxue (three trainings)](../terms/sanxue.md) · concepts: `cpt:chan-precepts`
+terms: [sanxue (three trainings)](../terms/sanxue.md) · concepts: [Precepts in Chan and Zen](../concepts/chan-precepts.md)
 
 ### 11.7 <a id="tea-platform-sutra-11-7"></a>
 `skeleton` · confidence high
@@ -500,7 +511,7 @@ Shenxiu's three trainings are for people of small faculties, Huineng's for peopl
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: practice, dispute, karma-liberation_
 
-terms: [dunwu (sudden awakening)](../terms/dunwu.md), [dunxiu (sudden cultivation)](../terms/dunxiu.md) · concepts: `cpt:sudden-and-gradual` · disputes: `dsp:sudden-or-gradual`, `dsp:seon-sudden-cultivation-debate`
+terms: [dunwu (sudden awakening)](../terms/dunwu.md), [dunxiu (sudden cultivation)](../terms/dunxiu.md) · concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: `dsp:sudden-or-gradual`, [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md)
 
 ### 11.12 <a id="tea-platform-sutra-11-12"></a>
 `skeleton` · confidence high
@@ -511,7 +522,7 @@ Huineng: 'I have a thing without head or tail, without name or word, without bac
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, teacher-transmission_
 
-terms: [zhijie (intellectual understanding)](../terms/zhijie.md) · obstacles: `obs:intellectual-understanding` · teachers: [Heze Shenhui 荷澤神會](../teachers/shenhui.md)
+terms: [zhijie (intellectual understanding)](../terms/zhijie.md) · obstacles: [Intellectual understanding (zhijie)](../obstacles/intellectual-understanding.md) · teachers: [Heze Shenhui 荷澤神會](../teachers/shenhui.md)
 
 ### 13.1 <a id="tea-platform-sutra-13-1"></a>
 `skeleton` · confidence high
@@ -522,7 +533,7 @@ Huineng's method for his ten disciples: raise the three categories (aggregates, 
 
 _level: bridging · standpoint: analytic · path: knowledge, sound · stage: advanced · types: sound-language, teacher-transmission_
 
-concepts: `cpt:thirty-six-pairs`, `cpt:words-and-letters`
+concepts: [The thirty-six pairs of opposites](../concepts/thirty-six-pairs.md), [Words and letters in Chan](../concepts/words-and-letters.md)
 
 ### 13.6 <a id="tea-platform-sutra-13-6"></a>
 `skeleton` · confidence high
@@ -533,7 +544,7 @@ To attain omniscience one must master the one-characteristic samādhi — not ab
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [yixing sanmei (one-practice samādhi)](../terms/yixing-sanmei.md) · practices: `prc:yixing-sanmei`
+terms: [yixing sanmei (one-practice samādhi)](../terms/yixing-sanmei.md) · practices: [One-practice samādhi (yixing sanmei)](../practices/yixing-sanmei.md)
 
 ### 13.8 <a id="tea-platform-sutra-13-8"></a>
 `skeleton` · confidence high
@@ -544,7 +555,7 @@ The Dharma is not two, nor is the mind; be careful not to contemplate stillness 
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-obstacles: `obs:attachment-to-stillness`, `obs:blank-emptiness`
+obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md), [Indeterminate (blank) emptiness](../obstacles/blank-emptiness.md)
 
 ### 13.11 <a id="tea-platform-sutra-13-11"></a>
 `skeleton` · confidence high
@@ -555,7 +566,7 @@ The lineage of transmission: after the seven buddhas, beginning with Śākyamuni
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission_
 
-concepts: `cpt:twenty-eight-indian-patriarchs`, `cpt:mind-to-mind-transmission` · teachers: [Mahākassapa](../teachers/mahakassapa.md), [Ānanda](../teachers/ananda.md), [Śāṇavāsa (Shangna Hexiu 商那和修)](../teachers/sanavasa.md), [Upagupta](../teachers/upagupta.md), [Nāgārjuna](../teachers/nagarjuna.md), [Āryadeva](../teachers/aryadeva.md), [Siṃha / Āryasiṃha (Shizi 師子)](../teachers/aryasimha.md), [Prajñātāra (Bore Duoluo 般若多羅)](../teachers/prajnatara.md), [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Huike 慧可 (Shenguang)](../teachers/huike.md), [Sengcan 僧璨](../teachers/sengcan.md), [Daoxin 道信](../teachers/daoxin.md)
+concepts: [The twenty-eight Indian patriarchs and six Chinese patriarchs](../concepts/twenty-eight-indian-patriarchs.md), [Mind-to-mind transmission](../concepts/mind-to-mind-transmission.md) · teachers: [Mahākassapa](../teachers/mahakassapa.md), [Ānanda](../teachers/ananda.md), [Śāṇavāsa (Shangna Hexiu 商那和修)](../teachers/sanavasa.md), [Upagupta](../teachers/upagupta.md), [Nāgārjuna](../teachers/nagarjuna.md), [Āryadeva](../teachers/aryadeva.md), [Siṃha / Āryasiṃha (Shizi 師子)](../teachers/aryasimha.md), [Prajñātāra (Bore Duoluo 般若多羅)](../teachers/prajnatara.md), [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Huike 慧可 (Shenguang)](../teachers/huike.md), [Sengcan 僧璨](../teachers/sengcan.md), [Daoxin 道信](../teachers/daoxin.md)
 
 ### 13.13 <a id="tea-platform-sutra-13-13"></a>
 `skeleton` · confidence high
@@ -566,7 +577,7 @@ Last teaching on how later people may see buddha-nature: know sentient beings an
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-concepts: `cpt:buddha-nature-chan`
+concepts: [Buddha-nature in Chan, Seon and Zen](../concepts/buddha-nature-chan.md)
 
 ### 13.15 <a id="tea-platform-sutra-13-15"></a>
 `skeleton` · confidence high
@@ -577,7 +588,7 @@ Instructions for after his death: do not weep in worldly fashion, accept condole
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: death-dying, ethics_
 
-concepts: `cpt:chan-death-and-dying`
+concepts: [Death and dying in Chan](../concepts/chan-death-and-dying.md)
 
 ### 13.16 <a id="tea-platform-sutra-13-16"></a>
 `skeleton` · confidence high
@@ -588,7 +599,7 @@ Huineng's last verse: unmoving, not cultivating good; free, not doing evil; quie
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: death-dying, ultimate_
 
-concepts: `cpt:chan-death-and-dying`
+concepts: [Death and dying in Chan](../concepts/chan-death-and-dying.md)
 
 ### 13.17 <a id="tea-platform-sutra-13-17"></a>
 `skeleton` · confidence high
@@ -599,10 +610,10 @@ Having spoken the verse Huineng sat upright until the third watch, said 'I am go
 
 _level: unmarked · standpoint: experiential · path: general · stage: realized · types: death-dying, powers-experiences, narrative_
 
-concepts: `cpt:chan-death-and-dying`
+concepts: [Death and dying in Chan](../concepts/chan-death-and-dying.md)
 
 
 _Notes: Registry id src:platform-sutra = the received Zongbao text (T2008) as prepared in sources_raw/prepared/platform-sutra; the Dunhuang recension is src:platform-sutra-dunhuang. Teaching refs follow the prepared segment numbering (section.segment; section 4 = chapter 1 行由, 5 = ch. 2, … 13 = ch. 10)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

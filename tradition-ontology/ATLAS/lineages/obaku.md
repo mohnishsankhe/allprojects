@@ -34,10 +34,10 @@ The third Japanese Zen denomination, founded by the Chinese Linji master Yinyuan
 [Pure Rules of Ōbaku (Ōbaku shingi)](../texts/obaku-shingi.md)
 
 ## Teachers
-[Feiyin Tongrong 費隱通容](../teachers/feiyin-tongrong.md), [Ingen Ryūki 隱元隆琦 (Yinyuan Longqi)](../teachers/ingen.md), [Mokuan Shōtō 木庵性瑫](../teachers/mokuan-shoto.md), [Sokuhi Nyoitsu 即非如一](../teachers/sokuhi-nyoitsu.md), [Tetsugen Dōkō 鐵眼道光](../teachers/tetsugen-doko.md)
+[Feiyin Tongrong 費隱通容](../teachers/feiyin-tongrong.md), [Ingen Ryūki 隱元隆琦 (Yinyuan Longqi)](../teachers/ingen.md), [Mokuan Shōtō 木庵性瑫](../teachers/mokuan-shoto.md), [Ryōnen Genso 了然元總](../teachers/ryonen-genso.md), [Sokuhi Nyoitsu 即非如一](../teachers/sokuhi-nyoitsu.md), [Tetsugen Dōkō 鐵眼道光](../teachers/tetsugen-doko.md)
 
 ## Practices
-_none recorded_
+[Nenbutsu Zen (joint practice of Chan and recitation)](../practices/nianfo-chan.md), [Zazen / zuochan (seated meditation)](../practices/zazen.md)
 
 ## Path maps
 _none recorded_
@@ -46,4 +46,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

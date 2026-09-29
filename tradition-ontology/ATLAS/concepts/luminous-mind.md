@@ -13,6 +13,7 @@
 - [Mahāsāṃghika](../lineages/mahasanghika.md): The nature of mind is originally pure, defiled by adventitious defilements (Vasumitra).
 - [Vibhajyavāda](../lineages/vibhajyavada.md): Attributed to the Vibhajyavādins in the Vibhāṣā.
 - [Sarvāstivāda](../lineages/sarvastivada.md): Rejected: a defiled mind is not by nature pure.
+- [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md): Mind itself is clear light: clear because it is awareness, non-conceptual because self-awareness does not conceptualize itself (Nāropa); 'as the sun's essence cannot be obscured by aeons of darkness, so the clear-light essence of mind cannot be obscured by aeons of saṃsāra' (Gaṅgā Mahāmudrā v12).
 
 ## Relations (interpretation layer)
 - contrasts-with → [Buddha-nature (tathāgatagarbha, buddhadhātu)](buddha-nature.md): later Mahāyāna texts cite a luminous mind; the Pali passage does not posit an innate buddha-nature — rests on [1.51-52](../texts/anguttara-nikaya.md#tea-anguttara-nikaya-1-51-52)
@@ -22,4 +23,4 @@
 _Notes: Shared id (U38 contributes the early-school definition)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._

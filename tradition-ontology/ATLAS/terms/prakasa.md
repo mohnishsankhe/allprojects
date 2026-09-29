@@ -16,4 +16,4 @@
 **Related:** [vimarśa](vimarsa.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

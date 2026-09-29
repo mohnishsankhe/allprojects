@@ -16,4 +16,4 @@ A hymn of about two hundred āryā verses ascribed to Durvāsas, describing Lali
 _Notes: A verse on Kubera in the region before the city is quoted from 'Durvāsas' in the Saubhāgyabhāskara (checked)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

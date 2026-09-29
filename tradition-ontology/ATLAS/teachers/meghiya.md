@@ -8,4 +8,4 @@
 The Buddha's attendant who left to meditate in a mango grove and was overcome by unwholesome thoughts; taught the five things that ripen the liberation of mind (Ud 4.1; AN 9.3).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

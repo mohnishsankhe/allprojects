@@ -13,4 +13,4 @@ Suffering from oneself (bodily and mental), from other beings, and from divine/n
   - [Liṅga Purāṇa](../texts/linga-purana.md) — ref: 1.9.8-9; rests_on: ["tea:linga-purana:1.9.1-13"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

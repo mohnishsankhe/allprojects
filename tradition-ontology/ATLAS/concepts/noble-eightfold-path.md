@@ -15,4 +15,4 @@
 - part-of → [The three trainings (tisso sikkhā)](three-trainings.md) — rests on [13-20](../texts/kassapasihanada-sutta.md#tea-kassapasihanada-sutta-13-20), [5.27](../texts/mahaparinibbana-sutta.md#tea-mahaparinibbana-sutta-5-27)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

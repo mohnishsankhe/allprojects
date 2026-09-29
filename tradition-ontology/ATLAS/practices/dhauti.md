@@ -23,4 +23,4 @@ The first of the six acts. In the Haṭhapradīpikā dhauti is the swallowing an
 - The Śivasaṃhitā counts washing by dhauti (with sitting in gomukha, stirring the belly and the like) among the obstacles that take the form of knowledge. — [Śiva Saṃhitā](../texts/siva-samhita.md) 5.5
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._

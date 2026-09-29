@@ -19,4 +19,4 @@ The Sui scholar Jingying Huiyuan's commentary, which ranks the nine grades as sa
 _Notes: Not local; content recalled (moderate)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

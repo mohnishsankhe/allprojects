@@ -13,8 +13,10 @@
 - [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md): Service in the practitioner's body and in the inner perfected body.
 - [Sant Mat (Radhasoami and its successor lines)](../lineages/sant-mat.md): Voluntary service of the Master and the community (physical, financial, mental), a support of meditation.
 - [Bāul](../lineages/baul.md): Sādhu-sevā: feeding and serving the sādhus at melās and ākhṛās.
+- [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md): 'Service' or 'approach': the first of the four branches of practice; in GST ch. 18 the ordinary service is the fourfold vajra (emptiness, seed, image, syllables) and the supreme service the six-branch yoga.
 
 ## Forms in other languages
+- Tibetan: bsnyen pa  — exact
 
 ## Equivalents (interpretation layer)
 **Related:** [praṇipāta](pranipata.md), [paripraśna](pariprasna.md)
@@ -24,4 +26,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.34, tea:bhagavad-gita:6.20 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U16-bhedabheda, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U16-bhedabheda, skeleton:U27-sant-baul, skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

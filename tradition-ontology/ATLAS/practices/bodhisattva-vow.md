@@ -20,4 +20,4 @@ Formulating vows for beings' welfare — Śrīmālā's ten vows and three aspira
 - One who promises happiness to the whole world and then deceives it faces a worse destiny than one who fails to give a trifle he intended to give. — [Bodhicaryāvatāra](../texts/bodhicaryavatara.md) 4.5-6
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

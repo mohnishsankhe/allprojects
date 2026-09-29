@@ -4,7 +4,7 @@
 
 **Language:** Tibetan
 **Family:** ascetic
-**Lineages:** `lin:kadam`, [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
+**Lineages:** [Kadam](../lineages/kadam.md), [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 **Authors:** 
   - [Chapa Chökyi Senge](../teachers/chapa-chokyi-senge.md) — role: author; attribution: accepted
 **Availability:** digitized-original
@@ -16,4 +16,4 @@ Chapa Chökyi Senge's summary of epistemology, from which (by tradition) the Col
 _Notes: Title and role recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

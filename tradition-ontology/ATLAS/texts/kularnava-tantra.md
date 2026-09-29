@@ -211,7 +211,7 @@ No perfection comes to the wilful one without the samaya discipline; he falls fr
 
 _level: conventional · standpoint: ethical-social · path: ritual · stage: all · types: ethics, karma-liberation_
 
-concepts: [The five tattvas / five M's (pañcatattva, pañca-makāra)](../concepts/pancatattva.md), [The samaya pledges](../concepts/samaya.md) · obstacles: [Indulgence in the Kula substances outside the rite](../obstacles/indulgence-without-rite.md), [Breaking the samaya pledges](../obstacles/samaya-bhanga.md)
+concepts: [The five tattvas / five M's (pañcatattva, pañca-makāra)](../concepts/pancatattva.md), [The samaya pledges](../concepts/samaya.md) · obstacles: [Indulgence in the Kula substances outside the rite](../obstacles/indulgence-without-rite.md), [Breaking the samaya](../obstacles/samaya-bhanga.md)
 
 ### 7.94 <a id="tea-kularnava-tantra-7-94"></a>
 `skeleton` · confidence moderate · _restricted: summary only_
@@ -451,4 +451,4 @@ terms: [kula](../terms/kula.md), [akula](../terms/akula.md), [kaulika](../terms/
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._

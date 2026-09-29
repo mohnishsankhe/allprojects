@@ -9,4 +9,4 @@
 Founder of the Ād Dharm movement in Punjab (1925), which declared the Ravidāsī Dalits a distinct religious community.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

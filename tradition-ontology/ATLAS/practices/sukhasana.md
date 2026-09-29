@@ -15,4 +15,4 @@ A comfortable seated posture: in the Śivasaṃhitā the name is given to svasti
   - [Triśikhibrāhmaṇa Upaniṣad](../texts/trisikhibrahmana-upanisad.md) — ref: 34-52; rests_on: ["tea:trisikhibrahmana-upanisad:34-52"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._

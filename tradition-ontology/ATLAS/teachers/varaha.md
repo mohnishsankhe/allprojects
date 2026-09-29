@@ -11,4 +11,4 @@
 Viṣṇu's boar form, who appears to Ṛbhu after twelve divine years of austerity and teaches him the 96 tattvas and non-dual knowledge (Varāha 1–3).
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

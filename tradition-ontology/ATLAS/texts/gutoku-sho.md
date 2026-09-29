@@ -21,8 +21,8 @@ The teachings divide into two pairs and four levels: vertical and crosswise, goi
 
 _level: conventional · standpoint: analytic · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:ocho` · concepts: `cpt:two-pairs-four-levels` · teachers: [Shinran](../teachers/shinran.md)
+terms: [ōchō](../terms/ocho.md) · concepts: [Two pairs and four levels (nisō shijū)](../concepts/two-pairs-four-levels.md) · teachers: [Shinran](../teachers/shinran.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

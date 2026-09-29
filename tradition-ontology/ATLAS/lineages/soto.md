@@ -41,13 +41,13 @@ The Japanese Caodong lineage founded by Dōgen (1200–1253) after training with
 [Eihei Dōgen 永平道元](../teachers/dogen.md), [Dongshan Liangjie 洞山良价](../teachers/dongshan.md), [Gasan Jōseki 峨山韶碩](../teachers/gasan-joseki.md), [Hongzhi Zhengjue 宏智正覺](../teachers/hongzhi.md), [Jakuen 寂圓](../teachers/jakuen.md), [Keizan Jōkin 瑩山紹瑾](../teachers/keizan.md), [Kenzei 建撕](../teachers/kenzei.md), [Koun Ejō 孤雲懷奘](../teachers/koun-ejo.md), [Manzan Dōhaku 卍山道白](../teachers/manzan-dohaku.md), [Menzan Zuihō 面山瑞方](../teachers/menzan-zuiho.md), [Tiantong Rujing 天童如淨](../teachers/rujing.md), [Taigu Ryōkan 大愚良寛](../teachers/ryokan.md), [Tettsū Gikai 徹通義介](../teachers/tettsu-gikai.md)
 
 ## Practices
-_none recorded_
+[Dokusan / sanzen (private interview)](../practices/dokusan.md), [Jukai (receiving the precepts)](../practices/jukai.md), [Ōryōki (formal monastic meal)](../practices/oryoki.md), [Sesshin (intensive retreat)](../practices/sesshin.md), [Shikantaza (just sitting)](../practices/shikantaza.md), [Silent illumination (mozhao)](../practices/silent-illumination.md), [Zazen / zuochan (seated meditation)](../practices/zazen.md)
 
 ## Path maps
 `pth:dogen-practice-realization`
 
 ## Debates
-_none recorded_
+[Do insentient things (walls, tiles, grasses) have buddha-nature or preach the Dharma?](../debates/buddha-nature-of-insentient.md), [Kōan introspection and kenshō (Rinzai) or just sitting as practice-realization (Sōtō)?](../debates/rinzai-or-soto.md), [Is there a permanent mind-nature that leaves the perishing body at death?](../debates/srenika-heresy.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

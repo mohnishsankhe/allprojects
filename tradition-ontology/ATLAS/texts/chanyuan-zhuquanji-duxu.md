@@ -27,7 +27,7 @@ Zongmi's preface (c. 833) to his lost anthology of Chan writings: correlates thr
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, consciousness-mind, practice_
 
-terms: [kongji lingzhi (empty and calm, numinous awareness)](../terms/kongji-lingzhi.md) · concepts: `cpt:numinous-awareness` · teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md), [Heze Shenhui 荷澤神會](../teachers/shenhui.md)
+terms: [kongji lingzhi (empty and calm, numinous awareness)](../terms/kongji-lingzhi.md) · concepts: [Empty and calm, numinous awareness](../concepts/numinous-awareness.md) · teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md), [Heze Shenhui 荷澤神會](../teachers/shenhui.md)
 
 ### 405b12 <a id="tea-chanyuan-zhuquanji-duxu-405b12"></a>
 `skeleton` · confidence moderate
@@ -38,10 +38,10 @@ Zongmi's account of transmission: the six patriarchs transmitted the mind-seal s
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission_
 
-concepts: `cpt:mind-to-mind-transmission`, `cpt:numinous-awareness` · teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md), [Heze Shenhui 荷澤神會](../teachers/shenhui.md)
+concepts: [Mind-to-mind transmission](../concepts/mind-to-mind-transmission.md), [Empty and calm, numinous awareness](../concepts/numinous-awareness.md) · teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md), [Heze Shenhui 荷澤神會](../teachers/shenhui.md)
 
 
 _Notes: Zongmi is owned by U54 (Huayan); this entry contributes the Chan side. One of the four texts of the Korean curriculum (Doseo)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

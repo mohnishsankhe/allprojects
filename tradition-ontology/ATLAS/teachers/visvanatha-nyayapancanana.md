@@ -14,4 +14,4 @@
 Bengali Naiyāyika, author of the Bhāṣāpariccheda (Kārikāvalī) with its auto-commentary the Siddhāntamuktāvalī — opening with a salutation to Kṛṣṇa — and of a Nyāyasūtravṛtti.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._

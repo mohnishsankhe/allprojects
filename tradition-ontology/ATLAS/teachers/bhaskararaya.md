@@ -24,4 +24,4 @@ The great 18th-c. systematizer of Śrīvidyā (initiatory name Bhāsurānandanā
 _Notes: Initiatory name and guru's name checked in the Varivasyārahasya colophon and the Saubhāgyabhāskara opening. Places and exact dates are from memory (low)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

@@ -11,4 +11,4 @@
 U33 contribution: author of the Tarkarahasyadīpikā on Haribhadra's Ṣaḍdarśanasamuccaya, a main Jain report on the Lokāyata.
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._

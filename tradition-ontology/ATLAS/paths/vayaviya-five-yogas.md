@@ -18,4 +18,4 @@
 The text also gives the eight (or six) limbs as the general frame, and saviṣaya→nirviṣaya meditation (7.2.39); presenting the five yogas as a sequence is itself an interpretation (the text says only that mahā-yoga is highest).
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

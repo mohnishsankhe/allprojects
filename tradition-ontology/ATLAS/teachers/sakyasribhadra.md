@@ -1,13 +1,16 @@
 # Śākyaśrībhadra
 
-`tch:sakyasribhadra` · `skeleton` · confidence moderate
+`tch:sakyasribhadra` · `skeleton` · confidence high
 
 **Alternate names:** Kha che paṇ chen, kha che paN chen (Tibetan)
-**Lineages:** [Mūlasarvāstivāda](../lineages/mulasarvastivada.md), `lin:sakya`, [Kālacakra tradition in India](../lineages/kalacakra.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
-**Dates:** Scholarly account: c. 1140s–1225 CE; in Tibet from 1204; (confidence low)
+**Lineages:** [Sakya](../lineages/sakya.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), [Mūlasarvāstivāda](../lineages/mulasarvastivada.md), [Kālacakra tradition in India](../lineages/kalacakra.md)
+**Dates:** Scholarly account: 1127–1225 CE; (confidence moderate)
 **Historicity:** historical
+**Students:** [Sakya Paṇḍita Kunga Gyaltsen](sakya-pandita.md)
 
-Kashmiri master who came to Tibet in 1204 and began the 'Kashmiri paṇḍita' Mūlasarvāstivāda ordination lineage, transmitted in the Sakya and other schools.
+Kashmiri mahāpaṇḍita who came to Tibet in 1204 and fully ordained Sakya Paṇḍita, teaching him Indian epistemology and the sciences.
+
+_Notes: U44 also references this id; Sakya contribution._
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

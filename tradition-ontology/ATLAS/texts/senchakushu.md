@@ -25,7 +25,7 @@ Following Daochuo, all the Buddha's teachings fall into two gates, the holy path
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: practice, teacher-transmission_
 
-terms: `trm:shengdao-men`, `trm:jingtu-men` · concepts: `cpt:two-gates-holy-path-pure-land`, `cpt:three-pure-land-sutras` · teachers: [Hōnen](../teachers/honen.md)
+terms: [shengdao men](../terms/shengdao-men.md), [jingtu men](../terms/jingtu-men.md) · concepts: [The two gates: the holy path and the Pure Land](../concepts/two-gates-holy-path-pure-land.md), [The three Pure Land sūtras and one treatise](../concepts/three-pure-land-sutras.md) · teachers: [Hōnen](../teachers/honen.md)
 
 ### 2 <a id="tea-senchakushu-2"></a>
 `skeleton` · confidence high
@@ -34,7 +34,7 @@ Following Shandao, set aside the miscellaneous practices and take the right: the
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice_
 
-terms: `trm:zhengding-ye`, `trm:zhuye`, `trm:zaxing` · concepts: `cpt:five-right-practices`, `cpt:exclusive-and-miscellaneous-practice` · teachers: [Hōnen](../teachers/honen.md)
+terms: [zhengding ye](../terms/zhengding-ye.md), [zhuye](../terms/zhuye.md), [zaxing](../terms/zaxing.md) · concepts: [The five right practices and the rightly determined act](../concepts/five-right-practices.md), [Exclusive and miscellaneous practice](../concepts/exclusive-and-miscellaneous-practice.md) · teachers: [Hōnen](../teachers/honen.md)
 
 ### 3 <a id="tea-senchakushu-3"></a>
 `skeleton` · confidence high
@@ -43,7 +43,7 @@ Dharmākara, surveying 21 billion buddha-lands, selected (senchaku) the good and
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: karma-liberation, sound-language_
 
-terms: `trm:senchaku`, `trm:benyuan` · concepts: `cpt:selected-primal-vow`, `cpt:name-embodies-all-virtues`, [The eighteenth (primal) vow](../concepts/eighteenth-vow.md) · teachers: [Hōnen](../teachers/honen.md) · disputes: `dsp:exclusive-nenbutsu-controversy`
+terms: [senchaku](../terms/senchaku.md), [benyuan](../terms/benyuan.md) · concepts: [The selected primal vow (senchaku hongan)](../concepts/selected-primal-vow.md), [The name contains all virtues](../concepts/name-embodies-all-virtues.md), [The eighteenth (primal) vow](../concepts/eighteenth-vow.md) · teachers: [Hōnen](../teachers/honen.md) · disputes: [May the nenbutsu be practised exclusively, setting aside all other practices and deities?](../debates/exclusive-nenbutsu-controversy.md)
 
 ### 4 <a id="tea-senchakushu-4"></a>
 `skeleton` · confidence moderate
@@ -52,7 +52,7 @@ The Larger Sūtra mentions other practices for the three grades besides the nenb
 
 _level: conventional · standpoint: analytic · path: devotion, sound · stage: all · types: practice_
 
-concepts: `cpt:selected-primal-vow` · teachers: [Hōnen](../teachers/honen.md)
+concepts: [The selected primal vow (senchaku hongan)](../concepts/selected-primal-vow.md) · teachers: [Hōnen](../teachers/honen.md)
 
 ### 8 <a id="tea-senchakushu-8"></a>
 `skeleton` · confidence high
@@ -61,7 +61,7 @@ The practitioner of the nenbutsu must possess the three minds of the Contemplati
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice_
 
-terms: `trm:sanxin`, `trm:anjin` · concepts: `cpt:three-minds-contemplation-sutra`, `cpt:two-kinds-of-deep-entrusting` · teachers: [Hōnen](../teachers/honen.md)
+terms: [sanxin](../terms/sanxin.md), [anjin](../terms/anjin.md) · concepts: [The three minds of the Contemplation Sūtra](../concepts/three-minds-contemplation-sutra.md), [The two kinds of deep entrusting (nishu jinshin)](../concepts/two-kinds-of-deep-entrusting.md) · teachers: [Hōnen](../teachers/honen.md)
 
 ### 16 <a id="tea-senchakushu-16"></a>
 `skeleton` · confidence high
@@ -70,7 +70,7 @@ If you wish quickly to leave birth-and-death, of the two excellent teachings set
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice, karma-liberation_
 
-terms: `trm:senchaku`, `trm:zhengding-ye`, `trm:senju-nenbutsu` · concepts: `cpt:selected-primal-vow`, `cpt:two-gates-holy-path-pure-land`, `cpt:five-right-practices` · teachers: [Hōnen](../teachers/honen.md)
+terms: [senchaku](../terms/senchaku.md), [zhengding ye](../terms/zhengding-ye.md), [senju nenbutsu](../terms/senju-nenbutsu.md) · concepts: [The selected primal vow (senchaku hongan)](../concepts/selected-primal-vow.md), [The two gates: the holy path and the Pure Land](../concepts/two-gates-holy-path-pure-land.md), [The five right practices and the rightly determined act](../concepts/five-right-practices.md) · teachers: [Hōnen](../teachers/honen.md)
 
 ### postscript <a id="tea-senchakushu-postscript"></a>
 `skeleton` · confidence high
@@ -79,10 +79,10 @@ Hōnen explains that he relies solely on Shandao, whose commentary is like a sū
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:secrecy-of-the-senchakushu` · teachers: [Hōnen](../teachers/honen.md), [Shandao](../teachers/shandao.md), [Kujō Kanezane](../teachers/kujo-kanezane.md)
+concepts: [The restriction on showing the Senchakushū](../concepts/secrecy-of-the-senchakushu.md) · teachers: [Hōnen](../teachers/honen.md), [Shandao](../teachers/shandao.md), [Kujō Kanezane](../teachers/kujo-kanezane.md)
 
 
 _Notes: Not in local corpus; chapter contents recalled (high for structure)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

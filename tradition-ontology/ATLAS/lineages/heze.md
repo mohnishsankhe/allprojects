@@ -35,13 +35,13 @@ The line of Heze Shenhui (684–758), who championed Huineng and sudden awakenin
 [Dugu Pei 獨孤沛](../teachers/dugu-pei.md), [Huineng 惠能 / 慧能 (the Sixth Patriarch)](../teachers/huineng.md), [Heze Shenhui 荷澤神會](../teachers/shenhui.md), [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md)
 
 ## Practices
-_none recorded_
+[Awareness of arising thoughts](../practices/awareness-of-arising-thoughts.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Is Chan a special transmission outside the scriptural teachings, or one with them?](../debates/chan-and-the-teachings.md), [Is all activity the function of buddha-nature (Hongzhou), or must numinous knowing be recognised and cultivated (Zongmi)?](../debates/hongzhou-all-activity-buddha-nature.md), [Who is the true Sixth Patriarch — was the Northern school collateral?](../debates/huatai-true-lineage.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

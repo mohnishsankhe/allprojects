@@ -15,4 +15,4 @@ As waves belong to water, flames to fire, rays to the sun, so these differentiat
 _Notes: Verses 110 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._

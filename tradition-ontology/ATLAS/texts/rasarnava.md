@@ -108,4 +108,4 @@ concepts: [Guru, disciple and secrecy in Rasa Śāstra](../concepts/rasa-guru-an
 
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._

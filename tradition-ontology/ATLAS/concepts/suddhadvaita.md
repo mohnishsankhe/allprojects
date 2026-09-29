@@ -14,4 +14,4 @@
 - contrasts-with → [Apparent transformation (vivarta-vāda)](vivarta-vada.md): rejects māyā as the explanation of the world — rests on [1](../texts/tattvarthadipanibandha.md#tea-tattvarthadipanibandha-1)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._

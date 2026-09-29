@@ -18,4 +18,4 @@
 - part-of → [The three jewels (ratnatraya)](three-jewels.md): Belief in the realities is the content of right view (TS 1.2). — rests on [1.2](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-1-2)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

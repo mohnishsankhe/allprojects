@@ -9,4 +9,4 @@
 Modern Chinese master who restored many monasteries (including Huineng's Nanhua) and is said to have held transmission in all five houses.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -30,7 +30,7 @@ In the age of the final Dharma many have dry wisdom; to test true and false ther
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: advanced · types: teacher-transmission_
 
-terms: [sanzhong shenlou (three leaks)](../terms/sanzhong-shenlou.md) · obstacles: `obs:three-leaks`
+terms: [sanzhong shenlou (three leaks)](../terms/sanzhong-shenlou.md) · obstacles: [Dongshan's three leaks](../obstacles/three-leaks.md)
 
 ### 525c01 <a id="tea-dongshan-yulu-525c01"></a>
 `skeleton` · confidence moderate
@@ -41,9 +41,9 @@ The five ranks of lord and minister in verse: the apparent within the real (midn
 
 _level: ultimate · standpoint: analytic · path: meditation, knowledge · stage: advanced · types: ultimate, practice_
 
-terms: [zheng and pian (the real and the apparent)](../terms/zheng-pian.md) · concepts: `cpt:five-ranks` · teachers: [Dongshan Liangjie 洞山良价](../teachers/dongshan.md)
+terms: [zheng and pian (the real and the apparent)](../terms/zheng-pian.md) · concepts: [The five ranks (goi)](../concepts/five-ranks.md) · teachers: [Dongshan Liangjie 洞山良价](../teachers/dongshan.md)
 
-### 525c09 <a id="tea-dongshan-yulu-525c09-2"></a>
+### 525c09 <a id="tea-dongshan-yulu-525c09"></a>
 `skeleton` · confidence moderate
 
 The five ranks of merit: turning toward, serving, merit, shared merit, merit of merits — asked what each is, Dongshan answers with everyday acts ('when eating', 'when putting down the hoe').
@@ -52,8 +52,8 @@ The five ranks of merit: turning toward, serving, merit, shared merit, merit of 
 
 _level: bridging · standpoint: analytic · path: meditation, action · stage: advanced · types: practice_
 
-concepts: `cpt:five-ranks`
+concepts: [The five ranks (goi)](../concepts/five-ranks.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

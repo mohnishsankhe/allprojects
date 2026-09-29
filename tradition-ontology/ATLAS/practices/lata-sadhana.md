@@ -14,4 +14,4 @@ The Kaula rite with a female partner (latā). Restricted: named only; the Mahān
 - Women are goddesses; never to be struck, reviled or deceived. — [Kaulāvalīnirṇaya](../texts/kaulavalinirnaya.md) 10.87-88
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._

@@ -22,8 +22,8 @@ One should not insist on 'one-calling' or 'many-calling' as the true teaching; t
 
 _level: bridging · standpoint: seeker · path: devotion, sound · stage: all · types: dispute, karma-liberation_
 
-terms: `trm:yinian`, `trm:ichinengi`, `trm:tanengi` · concepts: `cpt:rightly-established-state` · teachers: [Shinran](../teachers/shinran.md) · disputes: `dsp:one-calling-or-many-calling`
+terms: [yinian](../terms/yinian.md), [ichinengi](../terms/ichinengi.md), [tanengi](../terms/tanengi.md) · concepts: [The rightly established state (zhengding ju / shōjōju)](../concepts/rightly-established-state.md) · teachers: [Shinran](../teachers/shinran.md) · disputes: [Is birth settled by one calling (or one thought of faith), or by lifelong many callings?](../debates/one-calling-or-many-calling.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

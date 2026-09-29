@@ -15,4 +15,4 @@ A hymn to the Goddess (Lalitā) ascribed to Śaṅkara.
   - kind: original; name: eBhāratī e-text
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

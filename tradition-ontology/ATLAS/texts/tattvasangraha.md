@@ -111,4 +111,4 @@ teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is the u
 _Notes: U12, U31 use this id; U09 used src:tattvasangraha-santaraksita for the same text — dedupe. Verse and chapter totals from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._

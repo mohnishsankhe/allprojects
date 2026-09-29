@@ -25,7 +25,7 @@ The Sichuan lineage of Zhishen, Chuji and the Korean master Musang (Kim heshang,
 [Chuji 處寂](../teachers/chuji.md), [Musang 無相 (Kim heshang 金和尚)](../teachers/musang.md), [Zhishen 智詵](../teachers/zhishen.md)
 
 ## Practices
-_none recorded_
+[Drawn-out recitation of the Buddha's name (Jingzhong)](../practices/yinsheng-nianfo.md)
 
 ## Path maps
 _none recorded_
@@ -34,4 +34,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

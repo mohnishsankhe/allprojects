@@ -22,7 +22,8 @@ A Tang Chan lineage of the Jiangnan region traced to Niutou Farong, which stress
 `skeleton` · confidence low
 
 **Names:** the Way as fundamentally empty
-**Descriptions:** Mind is fundamentally quiescent; 'forgetting feelings' is practice (Zongmi's report).
+**Descriptions:** Mind is fundamentally quiescent; 'forgetting feelings' is practice (Zongmi's report).; 'The nature of mind is unborn — what need of knowing and seeing?' (Xinming).
+**Negations:** 'Originally there is not one dharma — who speaks of cultivation?' (Xinming).
 **Caveat:** Known mostly through others' reports; the Xinming and Jueguan lun attributions are disputed. Low confidence.
 
 ## Texts
@@ -41,4 +42,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

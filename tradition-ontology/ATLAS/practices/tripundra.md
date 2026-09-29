@@ -16,4 +16,4 @@ Ash taken with the five brahma-mantras and applied in three horizontal lines, ea
   - [Jābāli Upaniṣad](../texts/jabali-upanisad.md) — ref: 3-4; rests_on: ["tea:jabali-upanisad:3-4"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

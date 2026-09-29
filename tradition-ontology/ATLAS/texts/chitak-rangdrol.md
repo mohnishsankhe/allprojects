@@ -13,5 +13,17 @@
 
 Karma Lingpa's text on the outer, inner and secret signs of approaching death and the rites to avert premature death.
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-chitak-rangdrol-1"></a>
+`skeleton` · confidence low
+
+Karma Lingpa's text teaches how to examine the outer, inner and secret signs of approaching death and, where they appear before one's time, the rites that ransom and avert death; when death is certain, one prepares with transference and the bardo instructions.
+
+_level: conventional · standpoint: ritual · path: ritual · stage: all · types: death-dying_
+
+concepts: [Signs of death and their reversal](../concepts/signs-of-death-nyingma.md) · practices: [Rites to avert death ('chi bslu)](../practices/cheating-death-rites.md)
+
+
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

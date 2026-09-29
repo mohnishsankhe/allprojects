@@ -13,4 +13,4 @@
 Seizan monk of Dazaifu, Ippen's teacher.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

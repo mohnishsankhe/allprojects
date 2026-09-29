@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering) — Located: MaiU 5.2 (Rudra the tāmasa part, Brahmā the rājasa, Viṣṇu the sāttvika) and MaiU 5.1 (Kautsāyana's hymn: 'tvaṃ brahmā tvaṃ ca vai viṣṇus tvaṃ rudraḥ'). All 2 Upaniṣad refs cited in the entry are located in the prepared segments (MaiU 5.2; MaiU 5.1). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

@@ -19,4 +19,4 @@
 **Related:** [apūrva](apurva.md)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._

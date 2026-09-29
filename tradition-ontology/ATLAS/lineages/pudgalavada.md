@@ -48,4 +48,4 @@ _none recorded_
 [Does the destruction of a conditioned thing have a cause?](../debates/cause-of-destruction.md), [Is there an intermediate existence between death and rebirth?](../debates/kv-antarabhava.md), [Is the person (puggala) found as a real and ultimate fact?](../debates/kv-puggala.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

@@ -11,4 +11,4 @@
 Author of the standard commentary (bhāṣya) on the Śāṇḍilya Bhakti Sūtra.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._

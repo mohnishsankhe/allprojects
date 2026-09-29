@@ -25,8 +25,8 @@ The mantra way is not explained here because it is very profound, meant for thos
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, practice_
 
-concepts: `cpt:superiority-of-mantranaya` · teachers: [Maitrīpa (Advayavajra)](../teachers/maitripa.md) · disputes: `dsp:mantra-and-paramita-ways`
+concepts: [The superiority of the mantra way](../concepts/superiority-of-mantranaya.md) · teachers: [Maitrīpa (Advayavajra)](../teachers/maitripa.md) · disputes: [Is the mantra way superior to the perfection way?](../debates/mantra-and-paramita-ways.md)
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

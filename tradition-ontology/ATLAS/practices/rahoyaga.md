@@ -15,4 +15,4 @@ A secret rite by whose sequence the Goddess is worshipped, with secret libations
 - The Kaula worship is to be done in secret; making it public leads to hell. — [Paraśurāma Kalpasūtra](../texts/parasurama-kalpasutra.md) 1.12
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

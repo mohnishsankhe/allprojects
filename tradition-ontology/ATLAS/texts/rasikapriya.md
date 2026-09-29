@@ -14,4 +14,4 @@
 Mahārāṇā Kumbhakarṇa (Kumbhā) of Mewar's commentary on the Gīta Govinda, explaining its poetics, rāgas and meaning.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._

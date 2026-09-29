@@ -19,7 +19,7 @@ The song Saraha sang to the king: the one innate appears as many like waves on w
 ## Teachings (15: skeleton 15)
 
 ### v1 <a id="tea-dohakosa-king-saraha-v1"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As unmoving water struck by the wind becomes waves, so the king sees Saraha, though one, in many forms.
 
@@ -30,7 +30,7 @@ _level: illusory · standpoint: analytic · path: knowledge · stage: all · typ
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v12 <a id="tea-dohakosa-king-saraha-v12"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 If it cannot be spoken, it is not suffering; if it cannot be meditated, that itself is bliss; as the dragon's thunder frightens yet its rain ripens the crops.
 
@@ -41,7 +41,7 @@ _level: ultimate · standpoint: apophatic · path: meditation · stage: advanced
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v13 <a id="tea-dohakosa-king-saraha-v13"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Beginning and end are not elsewhere; there is no beginning, end or middle; to the deluded whose minds are full of concepts, emptiness and compassion are taught.
 
@@ -52,7 +52,7 @@ _level: bridging · standpoint: seeker · path: knowledge · stage: all · types
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v18 <a id="tea-dohakosa-king-saraha-v18"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Mind, whose nature is stainless, is not stained by the mud of saṃsāra and nirvāṇa; yet a supreme jewel sunk in mud does not shine.
 
@@ -60,10 +60,10 @@ Mind, whose nature is stainless, is not stained by the mud of saṃsāra and nir
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-concepts: `cpt:nature-of-mind-siddha` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The nature of mind in the siddha songs](../concepts/nature-of-mind-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v2 <a id="tea-dohakosa-king-saraha-v2"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As the deluded, looking askance, see one lamp as two, so, though there is no seen and seer, alas, the intellect appears as two things.
 
@@ -74,7 +74,7 @@ _level: illusory · standpoint: analytic · path: knowledge · stage: all · typ
 terms: [grāhya-grāhaka](../terms/grahya-grahaka.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v21 <a id="tea-dohakosa-king-saraha-v21"></a>
-`skeleton` · confidence high · _restricted: summary only_
+`skeleton` · confidence high · _restricted: summary only_ · [AI-translated]
 
 Attached to the bliss of union, the deluded say 'this is the ultimate' — like one who, having come out of the house, asks at the door for news of Kāmarūpa.
 
@@ -82,21 +82,21 @@ Attached to the bliss of union, the deluded say 'this is the ultimate' — like 
 
 _level: conventional · standpoint: polemical · path: body-breath · stage: advanced · types: dispute, powers-experiences_
 
-concepts: `cpt:karmamudra` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [Karmamudrā (the action seal)](../concepts/karmamudra.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v24 <a id="tea-dohakosa-king-saraha-v24"></a>
-`skeleton` · confidence high · _restricted: summary only_
+`skeleton` · confidence high · _restricted: summary only_ · [AI-translated]
 
-Some raise light at the place of Brahmā and with the tongue move the uvula, binding and churning violently, and out of pride call themselves yogins.
+Some raise light at the place of Brahmā and with the tongue — in 'kunduru' (union) — move the uvula, binding and churning violently, and out of pride call themselves yogins.
 
 > kha cig tshangs pa'i gnas su 'od spar nas/ / lce yis kun du ru yis lce chung bskyod/ / 'ching bar byed pa shin du dkrugs byas te/ / nga rgyal dbang gis rnal 'byor pa zhes zer/ /
 
 _level: conventional · standpoint: polemical · path: body-breath · stage: advanced · types: dispute, practice_
 
-obstacles: `obs:pride-in-powers` · teachers: [Saraha](../teachers/saraha.md)
+obstacles: [Pride in powers and practices](../obstacles/pride-in-powers.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v25-26 <a id="tea-dohakosa-king-saraha-v25-26"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Teaching others self-awareness by awareness, they say 'what binds, that frees'; like the deluded who cannot judge a gem and take brass for gold; they carry away experiences as if achieving the ultimate, cling to dream-bliss and call the bliss of the impermanent aggregates permanent.
 
@@ -104,10 +104,10 @@ Teaching others self-awareness by awareness, they say 'what binds, that frees'; 
 
 _level: conventional · standpoint: polemical · path: meditation · stage: advanced · types: dispute, powers-experiences_
 
-obstacles: `obs:clinging-to-meditative-experience` · teachers: [Saraha](../teachers/saraha.md)
+obstacles: [Clinging to meditative experiences](../obstacles/clinging-to-meditative-experience.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v27 <a id="tea-dohakosa-king-saraha-v27"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 They understand by themselves the letters E VAṂ, set out the four seals by distinguishing the moments, and call experience 'the innate' — like looking at a reflection in a mirror.
 
@@ -115,10 +115,10 @@ They understand by themselves the letters E VAṂ, set out the four seals by dis
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: advanced · types: dispute_
 
-terms: `trm:evam`, `trm:caturmudra` · concepts: `cpt:four-joys` · teachers: [Saraha](../teachers/saraha.md)
+terms: [evaṃ](../terms/evam.md), [caturmudrā](../terms/caturmudra.md) · concepts: [The four joys (ānanda)](../concepts/four-joys.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v3 <a id="tea-dohakosa-king-saraha-v3"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Though many lamps are lit in a house, the blind remain in darkness; though the innate pervades everything and is near, for the deluded it is very far.
 
@@ -129,7 +129,7 @@ _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types
 terms: [sahaja](../terms/sahaja.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v33 <a id="tea-dohakosa-king-saraha-v33"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Intellect, mind and mind's appearances are that very self; the worlds that appear as other are that very self; all the variety, seen and seer, is that very self; desire, hatred, delusion and bodhicitta are that very self.
 
@@ -140,7 +140,7 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: realized �
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v35 <a id="tea-dohakosa-king-saraha-v35"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 There is no negation and no affirmation, no grasping — it is inconceivable; the deluded are bound by the intellect's divisions; the undivided innate is wholly pure.
 
@@ -151,7 +151,7 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · ty
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v39-40 <a id="tea-dohakosa-king-saraha-v39-40"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Form itself, attached or unattached, is emptiness; like a pig attached to the mud of existence ... when mind has become stainless, what fault is there? What is not stained by anything, why should it be bound?
 
@@ -162,7 +162,7 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: realized �
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v4 <a id="tea-dohakosa-king-saraha-v4"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 The many rivers are one in the ocean; many lies are overcome by one truth; one rising sun dispels many darknesses.
 
@@ -173,7 +173,7 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: all · typ
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v7 <a id="tea-dohakosa-king-saraha-v7"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Abandoning the holy bliss they go elsewhere and hope for bliss born of conditions; honey put in one's own mouth, near at hand, they do not drink, and it becomes far away.
 
@@ -181,8 +181,8 @@ Abandoning the holy bliss they go elsewhere and hope for bliss born of condition
 
 _level: ultimate · standpoint: seeker · path: general · stage: all · types: karma-liberation_
 
-terms: `trm:mahasukha` · teachers: [Saraha](../teachers/saraha.md)
+terms: [mahāsukha](../terms/mahasukha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

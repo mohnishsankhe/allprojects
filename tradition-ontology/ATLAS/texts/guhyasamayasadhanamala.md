@@ -13,4 +13,4 @@ A Sanskrit collection of some forty-six sādhanas of Vajrayoginī/Vajravārāhī
 _Notes: Number of sādhanas from memory; no edition consulted._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

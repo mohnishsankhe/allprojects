@@ -32,4 +32,4 @@ The 'four thousand divine compositions': the collected hymns of the twelve Āḻ
 _Notes: Part counts (947 / 1134 / 817 / 1102 = 4000) as recalled, counting Ciṟiya Tirumaṭal as 40 and Periya Tirumaṭal as 78 units; placement of Tirukkuṟuntāṇṭakam/Tiruneṭuntāṇṭakam differs in some arrangements. Commentaries: see src:tiruvaymoli and the U14 commentary entries (src:arayirappati etc.). Periyavāccāṉ Piḷḷai commented on nearly the whole Prabandham._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._

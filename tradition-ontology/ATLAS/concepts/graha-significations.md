@@ -14,4 +14,4 @@
 _Notes: Beyond BJ 2.1 the list follows common later texts (BPHS 32; Phaladīpikā 2) from memory._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._

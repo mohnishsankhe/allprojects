@@ -23,4 +23,4 @@ The first human Nāth after Ādinātha and guru of Gorakṣa; the Kaulajñānani
 _Notes: HYP 1.5 lists both 'Matsyendra' and 'Mīna', and some traditions distinguish Mīnanātha from Matsyendra (e.g. as father/son); this shard keeps one entry and records the question in dsp:identity-of-matsyendra._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._

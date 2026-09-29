@@ -15,4 +15,4 @@ Not taking hold of form or any dharma, not even of 'bodhisattva', 'perfection of
 - Beginners hearing this may be frightened; not to be taught to the unprepared (see also Ākāśagarbha's downfall of teaching emptiness to the unready). — [Aṣṭasāhasrikā Prajñāpāramitā](../texts/astasahasrika-prajnaparamita.md) ch. 1
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

@@ -36,4 +36,4 @@ Rūpa himself distinguishes worldly (prākṛta) rasa from devotional rasa, so t
 _Notes: U31 contribution adding the anchored alaṅkāra side (KP 4); U16 owns the Gauḍīya side._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._

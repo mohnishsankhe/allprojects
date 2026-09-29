@@ -45,13 +45,13 @@ The Jōdo school founded by Hōnen (1133–1212), who after decades of Tendai st
 [Amitābha / Amitāyus](../teachers/amitabha.md), [Benchō](../teachers/bencho.md), [Chōsai](../teachers/chosai.md), [Daochuo](../teachers/daochuo.md), [Genchi](../teachers/genchi.md), [Genshin](../teachers/genshin.md), [Hōnen](../teachers/honen.md), [Kōsai](../teachers/kosai.md), [Kujō Kanezane](../teachers/kujo-kanezane.md), [Kumagai Naozane](../teachers/kumagai-naozane.md), [Mahāsthāmaprāpta](../teachers/mahasthamaprapta.md), [Nāgārjuna](../teachers/nagarjuna.md), [Ryōchū](../teachers/ryochu.md), [Ryōe Dōkō](../teachers/ryoe-doko.md), [Ryūkan](../teachers/ryukan.md), [Seikaku](../teachers/seikaku.md), [Shandao](../teachers/shandao.md), [Shinran](../teachers/shinran.md), [Shōgei](../teachers/shogei.md), [Shōkū](../teachers/shoku.md), [Shunjō](../teachers/shunjo.md), [Tanluan](../teachers/tanluan.md), [Vaidehī](../teachers/vaidehi.md), [Vasubandhu](../teachers/vasubandhu.md)
 
 ## Practices
-[Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md)
+[Nenbutsu at special times (betsuji nenbutsu)](../practices/bekiji-nenbutsu.md), [Deathbed rites for birth (linzhong xingyi / rinjū gyōgi)](../practices/deathbed-rites.md), [Dedicating merit (pariṇāmanā)](../practices/dedication-of-merit.md), [The five gates of mindfulness (Vasubandhu)](../practices/five-gates-of-mindfulness.md), [The five right practices (Shandao)](../practices/five-right-practices.md), [The fivefold transmission rite (gojū sōden)](../practices/goju-soden.md), [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md), [Pure Land hymns and six-period worship (lizan)](../practices/pure-land-hymns.md)
 
 ## Path maps
-`pth:jodo-shu-anjin-kigyo-sagyo`
+[Jōdo-shū: settled mind, practice undertaken, manner of practice](../paths/jodo-shu-anjin-kigyo-sagyo.md)
 
 ## Debates
-_none recorded_
+[Can practices other than the nenbutsu bring birth in the Pure Land?](../debates/can-other-practices-lead-to-birth.md), [Should Chan meditation and Pure Land recitation be practised together?](../debates/chan-pure-land-dual-practice.md), [Is birth settled only at death with the Buddha's welcome, or already in this life?](../debates/deathbed-welcome-or-settled-in-life.md), [May the nenbutsu be practised exclusively, setting aside all other practices and deities?](../debates/exclusive-nenbutsu-controversy.md), [Is the aspiration for awakening (bodhicitta) required for birth in the Pure Land?](../debates/is-bodhicitta-needed-for-birth.md), [Is birth settled by one calling (or one thought of faith), or by lifelong many callings?](../debates/one-calling-or-many-calling.md), [Is the Pure Land a real land in the West, or the purified mind only?](../debates/pure-land-real-or-mind-only.md), [Is awakening reached by one's own practice (self-power) or by the power of Amitābha's vow (other-power)?](../debates/self-power-or-other-power.md), [Is the cause of birth the nenbutsu (with the three minds) or shinjin?](../debates/true-cause-of-birth.md)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

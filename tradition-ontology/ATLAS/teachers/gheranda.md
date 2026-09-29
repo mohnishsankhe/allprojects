@@ -11,4 +11,4 @@
 The sage who, in his hut, teaches Caṇḍakāpāli the sevenfold 'yoga of the pot' in the Gheraṇḍa Saṃhitā (c. 1700). The text presents him as a Vaiṣṇava-leaning yogin; no historical information exists.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._

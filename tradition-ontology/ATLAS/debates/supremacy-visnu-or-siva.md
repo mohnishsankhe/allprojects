@@ -40,4 +40,4 @@ The reconciliation claims only that the texts contain their own unity-passages; 
 **The traditions' own objections:** Śrīvaiṣṇava, Mādhva and Gauḍīya authors hold Viṣṇu alone supreme and Śiva a jīva/devotee; Śaiva Siddhānta and Vīraśaiva authors hold Śiva alone supreme; Śāktas the Goddess.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

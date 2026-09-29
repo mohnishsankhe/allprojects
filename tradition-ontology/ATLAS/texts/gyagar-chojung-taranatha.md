@@ -5,14 +5,14 @@
 **Alternate titles:** rgya gar chos 'byung (1608)
 **Language:** Tibetan
 **Family:** ascetic
-**Lineages:** `lin:jonang`
+**Lineages:** [Jonang (jo nang pa)](../lineages/jonang.md)
 **Genre:** history
 **Authors:** 
-  - [Tāranātha](../teachers/taranatha.md) — role: author; attribution: accepted
+  - [Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)](../teachers/taranatha.md) — role: author; attribution: accepted
 **Dates:** Scholarly account: 1608 CE; (confidence high)
 **Availability:** digitized-translation
 
 Tāranātha's history of Indian Buddhism, including traditional accounts of the councils and the divisions into eighteen schools.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

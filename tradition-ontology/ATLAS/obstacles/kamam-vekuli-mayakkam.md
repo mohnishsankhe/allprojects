@@ -13,7 +13,7 @@ The triad whose very names must perish for suffering to end (Kuṟaḷ 360).
   - [Tirukkuṟaḷ](../texts/tirukkural.md) — ref: 360; rests_on: ["tea:tirukkural:360"]
 
 ## Equivalents (interpretation layer)
-- analogous: [The three roots of bad (greed, hatred, delusion)](three-poisons.md) — Buddhist greed, hatred, delusion
+- analogous: [The three poisons](three-poisons.md) — Buddhist greed, hatred, delusion
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

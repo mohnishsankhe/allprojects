@@ -28,7 +28,7 @@ Of Baizhang: in work he shared the labour equally with the assembly and always s
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, practice_
 
-practices: `prc:samu` · teachers: [Baizhang Huaihai 百丈懷海](../teachers/baizhang.md)
+practices: [Samu / puqing (communal work)](../practices/samu.md) · teachers: [Baizhang Huaihai 百丈懷海](../teachers/baizhang.md)
 
 ### 1144a27 <a id="tea-chixiu-baizhang-qinggui-1144a27"></a>
 `skeleton` · confidence high
@@ -39,8 +39,8 @@ The procedure of the universal invitation (puqing): high and low equally lend th
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, practice_
 
-practices: `prc:samu`
+practices: [Samu / puqing (communal work)](../practices/samu.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

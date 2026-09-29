@@ -13,4 +13,4 @@ A proud ascetic, on whose head birds nested while he stood motionless, sent to l
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.253.20-39 (birds nesting on his head) — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._

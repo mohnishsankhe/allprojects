@@ -9,8 +9,11 @@
 ## Definitions by tradition
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 7–9: The teaching of ch. 9 is 'most secret' (guhyatama), to be told to one free of cavilling (9.1), and 'the royal secret' (rājaguhya) (9.2).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The secret teaching: the ancient yoga (BhG 4.3), the royal secret (9.2), the most secret (15.20, 18.63–64), not to be told to the undisciplined or undevoted (18.67).
+- [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md): The secret: the tantras are to be kept from the unconsecrated; revealing the secret to the unripe is a root downfall.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Secret: of secret things the Lord is silence (10.38); Arjuna calls the teaching he has received 'the supreme secret called adhyātma' (11.1).
 
 ## Forms in other languages
+- Tibetan: gsang ba  — exact
 
 ## Equivalents (interpretation layer)
 **Related:** [rājavidyā](rajavidya.md)
@@ -19,5 +22,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.1, tea:bhagavad-gita:9.2 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:10.38, tea:bhagavad-gita:11.1 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U44-indian-vajrayana, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:34 IST._

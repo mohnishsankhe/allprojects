@@ -12,4 +12,4 @@ Deceit, dissimulation, pride, spite, enmity, harmfulness — secondary defilemen
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 5.47-50; rests_on: ["tea:abhidharmakosa:5.47-50"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

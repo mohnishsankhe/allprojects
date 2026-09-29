@@ -410,4 +410,4 @@ teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md) · disputes: [To which
 _Notes: lineages lists traditions that have claimed or canonically commented the text (Śaiva, Jain, Vaiṣṇava), not an established affiliation; the Buddhist and non-sectarian claims are in dsp:affiliation-of-tirukkural._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

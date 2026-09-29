@@ -11,6 +11,7 @@ Withdraw the senses from their objects on all sides as a tortoise draws in its l
 **Signs of progress:** ['wisdom firmly established (2.58, 2.61, 2.68)', 'serenity (prasāda), the end of all sorrows and steady understanding (2.64–65)', 'even the inner taste for objects turns away on seeing the highest (2.59)']
 **Sources:** 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.58, 2.59, 2.60, 2.61, 2.64, 2.68, 3.6, 3.7, 3.34, 3.41; rests_on: ["tea:bhagavad-gita:2.58", "tea:bhagavad-gita:2.59", "tea:bhagavad-gita:2.60", "tea:bhagavad-gita:2.61", "tea:bhagavad-gita:2.64", "tea:bhagavad-gita:2.68", "tea:bhagavad-gita:3.6", "tea:bhagavad-gita:3.7", "tea:bhagavad-gita:3.34", "tea:bhagavad-gita:3.41"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.4; rests_on: ["tea:bhagavad-gita:12.4"]
 
 ## The texts' own warnings
 - For one who abstains, the objects turn away but the taste (rasa) remains; it turns away only on seeing the highest. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 2.59
@@ -26,4 +27,8 @@ Withdraw the senses from their objects on all sides as a tortoise draws in its l
 _Notes: Merger: probably the same as the skeleton's prc:indriya-nigraha ('Restraint and withdrawal of the senses', BhG 2.58, 3.41); both extractors used this id, so it is kept; flagged for the de-duplication pass._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:12.4 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:34 IST._

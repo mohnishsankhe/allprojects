@@ -12,4 +12,4 @@ Because a thing arises in dependence it is empty of own-nature, and because it i
   - [Mūlamadhyamakakārikā](../texts/mulamadhyamakakarika.md) — ref: 24.18-19; rests_on: ["tea:mulamadhyamakakarika:24.18", "tea:mulamadhyamakakarika:24.19"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

@@ -12,4 +12,4 @@
 The Sanskrit sūtra of the founding of the four assemblies — the awakening, the first sermon and the first conversions — parallel to Vinaya Mahāvagga 1 and the Mahāvastu.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

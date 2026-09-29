@@ -12,4 +12,4 @@ Examining each sheath in turn — food, vital air, mind, intellect, bliss — as
   - [Pañcadaśī](../texts/pancadasi.md) — ref: ch. 3
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._

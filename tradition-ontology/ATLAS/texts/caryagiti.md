@@ -13,7 +13,7 @@
   - [Bhusuku](../teachers/bhusuku.md) — role: author; attribution: traditional
   - [Saraha](../teachers/saraha.md) — role: author; attribution: traditional
 **Dates:** Scholarly account: c. 10th–12th c. (the songs); manuscript found in Nepal by H. P. Shastri in 1907, published 1916; (confidence low)
-**Structure:** 50 songs (49 complete in the manuscript: 23 incomplete; 24, 25 and 48 lost from the Sanskrit manuscript and known from the Tibetan)
+**Structure:** about fifty songs; in Shastri's manuscript songs 24, 25 and 48 and the end of 23 are missing and known only from the Tibetan (recalled, not checked)
 **Availability:** digitized-original
 
 About fifty songs in Old Bengali (Apabhraṃśa-like Eastern vernacular) by some two dozen siddhas (Lūipa, Kukkuripa, Virūpa, Bhusuku, Kāṇha, Saraha, Śabara, Ḍombi, Śānti and others), each set to a rāga and signed by its poet, in intentional language about the innate and the yoga of the channels; with Munidatta's Sanskrit commentary.
@@ -25,7 +25,7 @@ About fifty songs in Old Bengali (Apabhraṃśa-like Eastern vernacular) by some
 ## Teachings (8: skeleton 8)
 
 ### 1 <a id="tea-caryagiti-1"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Lūipa's song: the body is a fine tree with five branches; Rāhu enters the fickle mind; make it steady — the measure of great bliss; Lūi says, ask the guru and know: what use are all the samādhis? Pulling out bliss by the root one surely dies; abandon the scheming, deceitful mind that composes (and) binds with the noose to the side of emptiness; Lūi sees by his own meditation; bringing down moon and sun, set them above.
 
@@ -36,7 +36,7 @@ _level: conventional · standpoint: experiential · path: meditation, body-breat
 teachers: [Lūipa](../teachers/luipa.md)
 
 ### 2 <a id="tea-caryagiti-2"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Kukkuripa's song ends: 'This song Kukkuripa sang — among ten million, could it enter the heart of even one?' (preceded by riddling images of the house with seven doors, the thief at midnight and the mother-in-law asleep).
 
@@ -44,7 +44,7 @@ Kukkuripa's song ends: 'This song Kukkuripa sang — among ten million, could it
 
 _level: conventional · standpoint: experiential · path: knowledge · stage: advanced · types: sound-language, teacher-transmission_
 
-concepts: `cpt:sandhyabhasa` · teachers: [Kukkuripa](../teachers/kukkuripa.md)
+concepts: [Intentional language (sandhyābhāṣā)](../concepts/sandhyabhasa.md) · teachers: [Kukkuripa](../teachers/kukkuripa.md)
 
 ### 5 <a id="tea-caryagiti-5"></a>
 `skeleton` · confidence low
@@ -53,7 +53,7 @@ Cāṭila's song: the river of existence is deep and swift; build a bridge (of t
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
 
-teachers: `tch:catila`
+teachers: [Cāṭila](../teachers/catila.md)
 
 ### 6 <a id="tea-caryagiti-6"></a>
 `skeleton` · confidence low
@@ -71,7 +71,7 @@ Kāṇha's song to the Ḍombī: 'O Ḍombī, your hut is outside the city' — 
 
 _level: conventional · standpoint: experiential · path: body-breath, knowledge · stage: advanced · types: body-layers, sound-language_
 
-concepts: `cpt:sandhyabhasa` · teachers: [Kāṇhapa (Kṛṣṇācārya)](../teachers/kanha.md)
+concepts: [Intentional language (sandhyābhāṣā)](../concepts/sandhyabhasa.md) · teachers: [Kāṇhapa (Kṛṣṇācārya)](../teachers/kanha.md)
 
 ### 28 <a id="tea-caryagiti-28"></a>
 `skeleton` · confidence low
@@ -80,7 +80,7 @@ concepts: `cpt:sandhyabhasa` · teachers: [Kāṇhapa (Kṛṣṇācārya)](../t
 
 _level: conventional · standpoint: experiential · path: knowledge · stage: advanced · types: sound-language_
 
-concepts: `cpt:sandhyabhasa` · teachers: [Śavaripa](../teachers/savaripa.md)
+concepts: [Intentional language (sandhyābhāṣā)](../concepts/sandhyabhasa.md) · teachers: [Śavaripa](../teachers/savaripa.md)
 
 ### 33 <a id="tea-caryagiti-33"></a>
 `skeleton` · confidence low
@@ -89,10 +89,10 @@ concepts: `cpt:sandhyabhasa` · teachers: [Śavaripa](../teachers/savaripa.md)
 
 _level: unmarked · standpoint: experiential · path: knowledge · stage: advanced · types: sound-language_
 
-concepts: `cpt:sandhyabhasa` · teachers: `tch:dhendhanapa`
+concepts: [Intentional language (sandhyābhāṣā)](../concepts/sandhyabhasa.md) · teachers: [Ḍheṇḍhaṇa](../teachers/dhendhanapa.md)
 
 ### colophon-commentary <a id="tea-caryagiti-colophon-commentary"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Munidatta's commentary ends: the vajra songs of the siddhas, with their commentary, were composed by the master Munidatta for those who would clearly know reality; translated by Grags pa rgyal mtshan at Yambu in Nepal, instructed by Kīrticandra.
 
@@ -104,4 +104,4 @@ teachers: [Munidatta](../teachers/munidatta.md)
 _Notes: Old-Bengali original not local; Munidatta's commentary in Tibetan read in part (song 1 by Lūipa, songs by Kukkuripa and Kāṇha located)._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

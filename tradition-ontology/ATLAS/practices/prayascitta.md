@@ -18,4 +18,4 @@ Correction of faults by nine (Śvetāmbara ten) graded means: confession, repent
   - [Mīmāṃsā Sūtra](../texts/mimamsa-sutra.md) — ref: 6.4
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon, skeleton:U08-agama-catalogue, skeleton:U12-mimamsa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon, skeleton:U08-agama-catalogue, skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._

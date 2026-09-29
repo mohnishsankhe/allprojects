@@ -14,4 +14,4 @@
 _Notes: The Upaniṣads (BĀU 6.2; ChU 5.10) develop the two paths; that development is U03's._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._

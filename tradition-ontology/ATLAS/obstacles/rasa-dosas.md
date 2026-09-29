@@ -13,4 +13,4 @@ Mercury carries natural impurities (poison, fire, dirt) and adventitious 'coveri
   - [Rasaratnasamuccaya](../texts/rasaratnasamuccaya.md) — ref: 11.20-25; rests_on: ["tea:rasaratnasamuccaya:11.17-25"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._

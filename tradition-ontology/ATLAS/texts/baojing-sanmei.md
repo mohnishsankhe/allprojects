@@ -29,8 +29,8 @@ The Precious Mirror Samādhi: this Dharma is intimately entrusted by buddhas and
 
 _level: ultimate · standpoint: absolute · path: meditation, knowledge · stage: advanced · types: ultimate, practice, teacher-transmission_
 
-terms: [zheng and pian (the real and the apparent)](../terms/zheng-pian.md) · concepts: `cpt:five-ranks` · teachers: [Dongshan Liangjie 洞山良价](../teachers/dongshan.md)
+terms: [zheng and pian (the real and the apparent)](../terms/zheng-pian.md) · concepts: [The five ranks (goi)](../concepts/five-ranks.md) · teachers: [Dongshan Liangjie 洞山良价](../teachers/dongshan.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

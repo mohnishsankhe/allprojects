@@ -15,4 +15,4 @@
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/sAhityam/sAhityetihAsaH/em__kRShNamAchAryaH_em__shrInivAsAchAryaH/hisTarI-oph-klAsikal-saMskRt-liTarechar.md, https://www.indica.today/long-reads/glory-shri-kameshwara-nandikesvara-maheshvara-sutras/ — Low-confidence entry confirmed as a traditional attribution: the Kāśikā on the Māheśvara sūtras is ascribed to Nandikeśvara (local reproduction; Indica Today). Historical authorship remains uncertain, as the entry says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._

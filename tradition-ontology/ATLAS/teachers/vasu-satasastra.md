@@ -10,4 +10,4 @@
 Author of the commentary on Āryadeva's verses in the Bai lun translated by Kumārajīva; otherwise unknown.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

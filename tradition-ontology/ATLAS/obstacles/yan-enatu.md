@@ -15,4 +15,4 @@ The pride of self and possession, whose destruction leads beyond the gods' world
 - partial: [The sense of 'I' (ahaṃkāra)](ahankara.md) — ego-sense and possessiveness
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

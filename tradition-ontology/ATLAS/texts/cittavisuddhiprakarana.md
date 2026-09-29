@@ -26,7 +26,7 @@ By whatever violent deeds beings are bound, by those very deeds, joined with mea
 
 _level: bridging · standpoint: seeker · path: general · stage: advanced · types: karma-liberation, ethics_
 
-concepts: `cpt:passions-as-path`, `cpt:upaya-tantric` · teachers: [Karṇaripa (Āryadeva)](../teachers/aryadeva-tantric.md)
+concepts: [The passions as the path](../concepts/passions-as-path.md), [Skilful means in the tantras](../concepts/upaya-tantric.md) · teachers: [Karṇaripa (Āryadeva)](../teachers/aryadeva-tantric.md)
 
 ### 18 <a id="tea-cittavisuddhiprakarana-18"></a>
 `skeleton` · confidence high
@@ -37,7 +37,7 @@ As one who knows the truth of poison eats poison seeing it for what it is and is
 
 _level: bridging · standpoint: seeker · path: general · stage: advanced · types: practice_
 
-concepts: `cpt:passions-as-path` · teachers: [Karṇaripa (Āryadeva)](../teachers/aryadeva-tantric.md)
+concepts: [The passions as the path](../concepts/passions-as-path.md) · teachers: [Karṇaripa (Āryadeva)](../teachers/aryadeva-tantric.md)
 
 ### 20 <a id="tea-cittavisuddhiprakarana-20"></a>
 `skeleton` · confidence high
@@ -48,8 +48,8 @@ Fools are attached to forms, the middling go to dispassion, and those of highest
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: `cpt:passions-as-path` · teachers: [Karṇaripa (Āryadeva)](../teachers/aryadeva-tantric.md)
+concepts: [The passions as the path](../concepts/passions-as-path.md) · teachers: [Karṇaripa (Āryadeva)](../teachers/aryadeva-tantric.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

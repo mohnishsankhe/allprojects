@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The fourteen stages of quality (guṇasthāna)](fourteen-gunasthanas.md): Wrong view ends at stage 4, non-abstinence at 5–6, carelessness at 7, passion at 11/12, activity at 14 (commentaries). — rests on [8.1](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-8-1)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

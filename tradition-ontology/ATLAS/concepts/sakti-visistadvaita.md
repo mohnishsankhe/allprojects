@@ -16,4 +16,4 @@
 - contrasts-with → [Qualified non-dualism of Śiva (Śrīkaṇṭha)](siva-visistadvaita.md): Śrīkaṇṭha's body–soul model vs Śrīpati's Śakti-qualified union; Vīraśaiva authors claim both as their own
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._

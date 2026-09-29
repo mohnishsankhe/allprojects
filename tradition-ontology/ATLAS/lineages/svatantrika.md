@@ -24,7 +24,7 @@ The line of Madhyamaka that, following Bhāviveka's criticism of Buddhapālita, 
 **Transmissions received:** 
   - [Buddhist epistemology and logic (pramāṇa school)](pramana-buddhist.md) — what: Dignāga's formal inference (the three-mode reason) applied to proving emptiness
 **Transmissions given:** 
-  - `lin:sakya` — what: early Tibetan Madhyamaka (Ngok Loden Sherab's line) read Madhyamaka through Svātantrika authors
+  - [Sakya](sakya.md) — what: early Tibetan Madhyamaka (Ngok Loden Sherab's line) read Madhyamaka through Svātantrika authors
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -52,4 +52,4 @@ _none recorded_
 [Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](../debates/madhyamaka-yogacara.md), [Do śrāvakas and pratyekabuddhas realize the emptiness (selflessness) of phenomena?](../debates/sravaka-realization-of-emptiness.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

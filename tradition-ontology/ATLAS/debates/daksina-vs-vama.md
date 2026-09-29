@@ -32,4 +32,4 @@ The Mahānirvāṇa itself restricts the tattvas and substitutes the sweet triad
 **The traditions' own objections:** The Kaula texts hold Kaula to be the highest for all who are eligible, not merely an option; the Kālīvilāsa denies the vīra and divya dispositions in the Kali age; Lakṣmīdhara's Samaya school rejects the Kaula way outright.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._

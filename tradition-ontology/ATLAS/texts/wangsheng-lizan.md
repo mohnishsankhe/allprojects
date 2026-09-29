@@ -27,7 +27,7 @@ How should one settle the mind, undertake practice and carry it out so as surely
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice, karma-liberation_
 
-terms: `trm:anjin`, `trm:sanxin`, `trm:shenxin`, `trm:zhichengxin`, `trm:huixiang-fayuan-xin` · concepts: `cpt:three-minds-contemplation-sutra`, `cpt:two-kinds-of-deep-entrusting` · teachers: [Shandao](../teachers/shandao.md)
+terms: [anjin](../terms/anjin.md), [sanxin](../terms/sanxin.md), [shen xin](../terms/shenxin.md), [zhicheng xin](../terms/zhichengxin.md), [huixiang fayuan xin](../terms/huixiang-fayuan-xin.md) · concepts: [The three minds of the Contemplation Sūtra](../concepts/three-minds-contemplation-sutra.md), [The two kinds of deep entrusting (nishu jinshin)](../concepts/two-kinds-of-deep-entrusting.md) · teachers: [Shandao](../teachers/shandao.md)
 
 ### 439a08-23 <a id="tea-wangsheng-lizan-439a08-23"></a>
 `skeleton` · confidence high
@@ -38,7 +38,7 @@ Four modes of practice spur the three minds: reverent practice (worshipping that
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice_
 
-terms: `trm:sixiu` · concepts: `cpt:four-modes-of-practice` · teachers: [Shandao](../teachers/shandao.md)
+terms: [sixiu](../terms/sixiu.md) · concepts: [The four modes of practice (sixiu)](../concepts/four-modes-of-practice.md) · teachers: [Shandao](../teachers/shandao.md)
 
 ### 439a20-b01 <a id="tea-wangsheng-lizan-439a20-b01"></a>
 `skeleton` · confidence high
@@ -49,7 +49,7 @@ Citing the Mañjuśrī Prajñāpāramitā's single-practice samādhi (dwell alon
 
 _level: conventional · standpoint: seeker · path: sound, devotion, meditation · stage: beginner · types: practice_
 
-terms: `trm:chengming` · concepts: `cpt:easy-and-difficult-practice` · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Shandao](../teachers/shandao.md)
+terms: [chengming](../terms/chengming.md) · concepts: [The easy path and the difficult path](../concepts/easy-and-difficult-practice.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Shandao](../teachers/shandao.md)
 
 ### 439b17-c08 <a id="tea-wangsheng-lizan-439b17-c08"></a>
 `skeleton` · confidence high
@@ -60,7 +60,7 @@ If one continues moment after moment until the end of life, ten of ten are born,
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice_
 
-terms: `trm:zhuanxiu`, `trm:zaxing` · concepts: `cpt:exclusive-and-miscellaneous-practice` · obstacles: `obs:mixed-practice` · teachers: [Shandao](../teachers/shandao.md)
+terms: [zhuanxiu](../terms/zhuanxiu.md), [zaxing](../terms/zaxing.md) · concepts: [Exclusive and miscellaneous practice](../concepts/exclusive-and-miscellaneous-practice.md) · obstacles: [Mixed (miscellaneous) practice](../obstacles/mixed-practice.md) · teachers: [Shandao](../teachers/shandao.md)
 
 ### 447c23-26 <a id="tea-wangsheng-lizan-447c23-26"></a>
 `skeleton` · confidence high
@@ -71,10 +71,10 @@ Shandao paraphrases the eighteenth vow as: 'If, when I become a buddha, beings o
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: karma-liberation, sound-language_
 
-terms: `trm:benyuan`, `trm:chengming`, `trm:shinian` · concepts: [The eighteenth (primal) vow](../concepts/eighteenth-vow.md), `cpt:ten-recitations` · teachers: [Shandao](../teachers/shandao.md)
+terms: [benyuan](../terms/benyuan.md), [chengming](../terms/chengming.md), [shinian](../terms/shinian.md) · concepts: [The eighteenth (primal) vow](../concepts/eighteenth-vow.md), [The ten recitations (shinian / jūnen)](../concepts/ten-recitations.md) · teachers: [Shandao](../teachers/shandao.md)
 
 
 _Notes: Preface read locally (T47n1980 438c–439c; 447c)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

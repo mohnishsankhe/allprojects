@@ -5,7 +5,7 @@
 **Alternate titles:** Wujinyi pusa jing (T397.12, in the Mahāsaṃnipāta), blo gros mi zad pas bstan pa (Toh 175)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:gelug`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), [Gelug](../lineages/gelug.md)
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous, c. 2nd-3rd c.; confidence: high
 **Availability:** digitized-translation
@@ -36,4 +36,4 @@ terms: [pratisaraṇa](../terms/pratisarana.md) · concepts: [The four reliances
 _Notes: Sanskrit lost apart from citations (Prasannapadā, Śikṣāsamuccaya); chapter-level refs._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

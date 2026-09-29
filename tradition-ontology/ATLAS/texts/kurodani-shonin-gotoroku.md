@@ -24,7 +24,7 @@ Live your present life in whatever way lets you best say the nenbutsu; whatever 
 
 _level: conventional · standpoint: ethical-social · path: devotion, sound · stage: all · types: ethics, practice_
 
-concepts: `cpt:neither-monk-nor-layman` · teachers: [Hōnen](../teachers/honen.md)
+concepts: [Neither monk nor layman (hisō hizoku) and the married clergy](../concepts/neither-monk-nor-layman.md) · teachers: [Hōnen](../teachers/honen.md)
 
 ### one-calling-letter <a id="tea-kurodani-shonin-gotoroku-one-calling-letter"></a>
 `skeleton` · confidence moderate
@@ -33,8 +33,8 @@ Take it in faith that birth is attained by a single calling, yet in practice str
 
 _level: bridging · standpoint: seeker · path: devotion, sound · stage: all · types: practice, dispute_
 
-terms: `trm:yinian`, `trm:ichinengi`, `trm:tanengi` · teachers: [Hōnen](../teachers/honen.md) · disputes: `dsp:one-calling-or-many-calling`
+terms: [yinian](../terms/yinian.md), [ichinengi](../terms/ichinengi.md), [tanengi](../terms/tanengi.md) · teachers: [Hōnen](../teachers/honen.md) · disputes: [Is birth settled by one calling (or one thought of faith), or by lifelong many callings?](../debates/one-calling-or-many-calling.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

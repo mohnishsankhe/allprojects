@@ -14,4 +14,4 @@ Pain (threefold), dejection, trembling of the limbs, and [disturbed] inhalation 
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.31; rests_on: ["tea:yoga-bhasya:1.31"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._

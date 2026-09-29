@@ -23,4 +23,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

@@ -15,4 +15,4 @@
 Vātsya Varadaguru, celebrated expounder of the Śrībhāṣya at Kāñcī, whose lectures Sudarśana Sūri recorded in the Śrutaprakāśikā; disciple of Engaḷāḻvāṉ and teacher of Ātreya Rāmānuja.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._

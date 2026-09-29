@@ -8,4 +8,4 @@
 A sick elder who explained the residual conceit 'I am' in one who does not regard any aggregate as self (SN 22.89).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

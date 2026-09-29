@@ -16,4 +16,4 @@ The Vidyāpīṭha sādhaka, to master a goddess-mantra, lives in Kāpālika sty
 _Notes: Sexual and impure-substance rites of the Yāmala tantras are not described (restricted)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._

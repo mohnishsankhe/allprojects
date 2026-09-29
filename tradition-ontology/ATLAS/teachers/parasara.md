@@ -27,4 +27,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/parasara-smrti_plain_text.md (GRETIL) — Confirmed: the Parāśarasmṛti assigns 'pārāśarāḥ' dharmas to the Kali age (1.24, text-located); he is also named at YājñS 1.5.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.279.3, 12.280.1 [parāśara], 12.287.1 — Located as described.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

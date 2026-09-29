@@ -12,4 +12,4 @@ Denial of the self, the afterlife and the Veda's authority; Kumārila writes to 
   - [Ślokavārttika](../texts/slokavarttika.md) — ref: pratijñā 10; ātmavāda 148; rests_on: ["tea:slokavarttika:pratijna.10", "tea:slokavarttika:atmavada.148"]
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._

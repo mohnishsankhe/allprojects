@@ -23,8 +23,8 @@ Two hands clap and there is a sound; what is the sound of one hand? Hakuin says 
 
 _level: bridging · standpoint: seeker · path: meditation, sound · stage: all · types: practice, sound-language_
 
-terms: [sekishu (one hand)](../terms/sekishu.md) · concepts: `cpt:great-doubt`, `cpt:koan` · practices: `prc:koan-introspection` · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md)
+terms: [sekishu (one hand)](../terms/sekishu.md) · concepts: [Great doubt](../concepts/great-doubt.md), [Kōan (gong'an) and critical phrase (huatou)](../concepts/koan.md) · practices: [Kōan introspection (sanzen, kōan practice)](../practices/koan-introspection.md) · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

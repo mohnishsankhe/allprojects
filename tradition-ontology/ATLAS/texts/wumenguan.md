@@ -30,7 +30,7 @@ Case 1, Zhaozhou's dog: a monk asked whether a dog has buddha-nature; Zhaozhou s
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: intermediate · types: practice, powers-experiences_
 
-terms: [wu / mu (no)](../terms/wu-mu.md), [yituan (mass of doubt)](../terms/yituan.md), [huatou / hwadu (critical phrase)](../terms/huatou.md) · concepts: `cpt:great-doubt`, `cpt:koan` · practices: `prc:koan-introspection`, `prc:huatou` · teachers: [Zhaozhou Congshen 趙州從諗](../teachers/zhaozhou.md), [Wumen Huikai 無門慧開](../teachers/wumen-huikai.md) · disputes: `dsp:koan-or-silent-illumination`
+terms: [wu / mu (no)](../terms/wu-mu.md), [yituan (mass of doubt)](../terms/yituan.md), [huatou / hwadu (critical phrase)](../terms/huatou.md) · concepts: [Great doubt](../concepts/great-doubt.md), [Kōan (gong'an) and critical phrase (huatou)](../concepts/koan.md) · practices: [Kōan introspection (sanzen, kōan practice)](../practices/koan-introspection.md), [Huatou / hwadu (observing the critical phrase)](../practices/huatou.md) · teachers: [Zhaozhou Congshen 趙州從諗](../teachers/zhaozhou.md), [Wumen Huikai 無門慧開](../teachers/wumen-huikai.md) · disputes: [Kōan (critical-phrase) introspection or silent illumination?](../debates/koan-or-silent-illumination.md)
 
 ### 2 <a id="tea-wumenguan-2"></a>
 `skeleton` · confidence high
@@ -41,7 +41,7 @@ Case 2, Baizhang's fox: an old man had once answered that a person of great prac
 
 _level: bridging · standpoint: causal · path: knowledge · stage: advanced · types: karma-liberation, dispute_
 
-concepts: `cpt:karma-after-awakening` · teachers: [Baizhang Huaihai 百丈懷海](../teachers/baizhang.md), [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md)
+concepts: [Cause and effect for the awakened](../concepts/karma-after-awakening.md) · teachers: [Baizhang Huaihai 百丈懷海](../teachers/baizhang.md), [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md)
 
 ### 3 <a id="tea-wumenguan-3"></a>
 `skeleton` · confidence high
@@ -52,7 +52,7 @@ Case 3, Juzhi raises a finger: whenever asked, Juzhi raised one finger; when a b
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: advanced · types: teacher-transmission, narrative_
 
-concepts: `cpt:koan` · teachers: [Juzhi 俱胝 (One-Finger Juzhi)](../teachers/juzhi.md)
+concepts: [Kōan (gong'an) and critical phrase (huatou)](../concepts/koan.md) · teachers: [Juzhi 俱胝 (One-Finger Juzhi)](../teachers/juzhi.md)
 
 ### 6 <a id="tea-wumenguan-6"></a>
 `skeleton` · confidence high
@@ -63,7 +63,7 @@ Case 6, the World-Honoured One holds up a flower: on Vulture Peak the Buddha hel
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: teacher-transmission, sound-language_
 
-terms: [zhengfayanzang (treasury of the true Dharma eye)](../terms/zhengfayanzang.md), [jiaowai biechuan (a special transmission outside the teachings)](../terms/jiaowai-biechuan.md), [buli wenzi (not established on words and letters)](../terms/buli-wenzi.md) · concepts: `cpt:flower-sermon`, `cpt:mind-to-mind-transmission`, `cpt:four-line-self-description` · teachers: [Mahākassapa](../teachers/mahakassapa.md)
+terms: [zhengfayanzang (treasury of the true Dharma eye)](../terms/zhengfayanzang.md), [jiaowai biechuan (a special transmission outside the teachings)](../terms/jiaowai-biechuan.md), [buli wenzi (not established on words and letters)](../terms/buli-wenzi.md) · concepts: [The flower sermon](../concepts/flower-sermon.md), [Mind-to-mind transmission](../concepts/mind-to-mind-transmission.md), [The four-line self-description of Chan](../concepts/four-line-self-description.md) · teachers: [Mahākassapa](../teachers/mahakassapa.md)
 
 ### 7 <a id="tea-wumenguan-7"></a>
 `skeleton` · confidence high
@@ -74,7 +74,7 @@ Case 7, Zhaozhou 'wash your bowl': a new monk asks for instruction; 'have you ea
 
 _level: ultimate · standpoint: absolute · path: action · stage: beginner · types: practice_
 
-concepts: `cpt:everyday-activity-as-the-way` · teachers: [Zhaozhou Congshen 趙州從諗](../teachers/zhaozhou.md)
+concepts: [Everyday activity as the Way](../concepts/everyday-activity-as-the-way.md) · teachers: [Zhaozhou Congshen 趙州從諗](../teachers/zhaozhou.md)
 
 ### 14 <a id="tea-wumenguan-14"></a>
 `skeleton` · confidence high
@@ -85,7 +85,7 @@ Case 14, Nanquan cuts the cat: when the east and west halls quarrelled over a ca
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: teacher-transmission, ethics, narrative_
 
-concepts: `cpt:koan` · teachers: [Nanquan Puyuan 南泉普願](../teachers/nanquan.md), [Zhaozhou Congshen 趙州從諗](../teachers/zhaozhou.md)
+concepts: [Kōan (gong'an) and critical phrase (huatou)](../concepts/koan.md) · teachers: [Nanquan Puyuan 南泉普願](../teachers/nanquan.md), [Zhaozhou Congshen 趙州從諗](../teachers/zhaozhou.md)
 
 ### 18 <a id="tea-wumenguan-18"></a>
 `skeleton` · confidence high
@@ -107,7 +107,7 @@ Case 19, the ordinary mind is the Way: Zhaozhou asked Nanquan 'what is the Way?'
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, practice_
 
-terms: [pingchang xin (ordinary mind)](../terms/pingchang-xin.md) · concepts: `cpt:ordinary-mind` · teachers: [Nanquan Puyuan 南泉普願](../teachers/nanquan.md), [Zhaozhou Congshen 趙州從諗](../teachers/zhaozhou.md)
+terms: [pingchang xin (ordinary mind)](../terms/pingchang-xin.md) · concepts: [Ordinary mind is the Way](../concepts/ordinary-mind.md) · teachers: [Nanquan Puyuan 南泉普願](../teachers/nanquan.md), [Zhaozhou Congshen 趙州從諗](../teachers/zhaozhou.md)
 
 ### 21 <a id="tea-wumenguan-21"></a>
 `skeleton` · confidence high
@@ -129,7 +129,7 @@ Case 23, think neither good nor evil: the Sixth Patriarch to Huiming — 'not th
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: intermediate · types: practice, ultimate_
 
-terms: [benlai mianmu (original face)](../terms/benlai-mianmu.md) · concepts: `cpt:original-face` · teachers: [Huineng 惠能 / 慧能 (the Sixth Patriarch)](../teachers/huineng.md)
+terms: [benlai mianmu (original face)](../terms/benlai-mianmu.md) · concepts: [The original face](../concepts/original-face.md) · teachers: [Huineng 惠能 / 慧能 (the Sixth Patriarch)](../teachers/huineng.md)
 
 ### 29 <a id="tea-wumenguan-29"></a>
 `skeleton` · confidence high
@@ -184,7 +184,7 @@ Case 41, Bodhidharma pacifies the mind: the second patriarch, standing in the sn
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: intermediate · types: practice, teacher-transmission_
 
-concepts: `cpt:anxin-pacifying-mind` · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Huike 慧可 (Shenguang)](../teachers/huike.md)
+concepts: [Pacifying the mind](../concepts/anxin-pacifying-mind.md) · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Huike 慧可 (Shenguang)](../teachers/huike.md)
 
 ### 46 <a id="tea-wumenguan-46"></a>
 `skeleton` · confidence high
@@ -195,7 +195,7 @@ Case 46, stepping forward from the top of the pole: Shishuang asked how to step 
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: advanced · types: practice_
 
-concepts: `cpt:post-awakening-practice` · teachers: [Shishuang Qingzhu 石霜慶諸](../teachers/shishuang-qingzhu.md)
+concepts: [Practice after awakening](../concepts/post-awakening-practice.md) · teachers: [Shishuang Qingzhu 石霜慶諸](../teachers/shishuang-qingzhu.md)
 
 ### 47 <a id="tea-wumenguan-47"></a>
 `skeleton` · confidence high
@@ -206,7 +206,7 @@ Case 47, Doushuai's three barriers: going through the grass to study the mystery
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: advanced · types: practice, death-dying_
 
-concepts: `cpt:kensho-seeing-nature`, `cpt:great-matter-birth-death` · teachers: `tch:doushuai-congyue`
+concepts: [Seeing the nature (kenshō) and awakening (satori)](../concepts/kensho-seeing-nature.md), [The great matter of birth and death](../concepts/great-matter-birth-death.md) · teachers: [Doushuai Congyue 兜率從悅](../teachers/doushuai-congyue.md)
 
 ### huanglong-three-barriers <a id="tea-wumenguan-huanglong-three-barriers"></a>
 `skeleton` · confidence high
@@ -217,7 +217,7 @@ Huanglong's three barriers (appended): 'how is my hand like the Buddha's hand? h
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: practice_
 
-concepts: `cpt:koan` · teachers: [Huanglong Huinan 黃龍慧南](../teachers/huanglong-huinan.md)
+concepts: [Kōan (gong'an) and critical phrase (huatou)](../concepts/koan.md) · teachers: [Huanglong Huinan 黃龍慧南](../teachers/huanglong-huinan.md)
 
 ### preface <a id="tea-wumenguan-preface"></a>
 `skeleton` · confidence high
@@ -228,7 +228,7 @@ Wumen's preface: the Buddha's words take mind as the source and the gateless as 
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: practice, sound-language_
 
-concepts: `cpt:koan` · teachers: [Wumen Huikai 無門慧開](../teachers/wumen-huikai.md)
+concepts: [Kōan (gong'an) and critical phrase (huatou)](../concepts/koan.md) · teachers: [Wumen Huikai 無門慧開](../teachers/wumen-huikai.md)
 
 ### zenzhen <a id="tea-wumenguan-zenzhen"></a>
 `skeleton` · confidence high
@@ -239,10 +239,10 @@ Wumen's Admonitions on Chan (appended): following rules and measures is binding 
 
 _level: bridging · standpoint: polemical · path: meditation · stage: advanced · types: practice, dispute_
 
-obstacles: `obs:dead-sitting`, `obs:attachment-to-stillness` · disputes: `dsp:koan-or-silent-illumination`
+obstacles: [Dead sitting / 'cold ash and dead wood'](../obstacles/dead-sitting.md), [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · disputes: [Kōan (critical-phrase) introspection or silent illumination?](../debates/koan-or-silent-illumination.md)
 
 
 _Notes: Brought to Japan by Shinchi Kakushin (1254)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

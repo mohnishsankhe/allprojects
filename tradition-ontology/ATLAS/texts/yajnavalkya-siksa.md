@@ -17,4 +17,4 @@ A phonetic manual of the White Yajurveda (Vājasaneyi) tradition, chiefly on the
 
 - 2026-09-28 catalog: confirmed — catalog:raw_etexts:yagyavalkya_shiksha — Extant locally under the White Yajurveda (shuklaH) Śikṣās, which fits the entry's Vājasaneyi attribution. The ascription to Yājñavalkya is traditional, as the entry marks it ('doubtful').
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

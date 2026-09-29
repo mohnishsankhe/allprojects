@@ -30,4 +30,4 @@ terms: [samatha](../terms/samatha.md), [vipassanā](../terms/vipassana.md) · co
 _Notes: SuttaCentral uid mn149; Mahāsaṅgīti title 'Mahāsaḷāyatanikasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

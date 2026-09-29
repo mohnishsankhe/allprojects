@@ -27,8 +27,8 @@ Caoshan on the five ranks: the real position is the realm of emptiness, original
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, practice_
 
-terms: [zheng and pian (the real and the apparent)](../terms/zheng-pian.md) · concepts: `cpt:five-ranks` · teachers: [Caoshan Benji 曹山本寂](../teachers/caoshan-benji.md)
+terms: [zheng and pian (the real and the apparent)](../terms/zheng-pian.md) · concepts: [The five ranks (goi)](../concepts/five-ranks.md) · teachers: [Caoshan Benji 曹山本寂](../teachers/caoshan-benji.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

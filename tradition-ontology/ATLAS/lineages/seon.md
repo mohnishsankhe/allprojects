@@ -43,13 +43,13 @@ Korean Chan: introduced from Tang China from the 9th century as the Nine Mountai
 [Beomnang 法朗](../teachers/beomnang.md), [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Dahui Zonggao 大慧宗杲](../teachers/dahui.md), [Doui 道義](../teachers/doui.md), [Gaofeng Yuanmiao 高峰原妙](../teachers/gaofeng-yuanmiao.md), [Gyeongheo Seong'u 鏡虛惺牛](../teachers/gyeongheo.md), [Huineng 惠能 / 慧能 (the Sixth Patriarch)](../teachers/huineng.md), [Hyesim 慧諶 (Jingak guksa)](../teachers/hyesim.md), [Hyujeong 休靜 (Seosan daesa)](../teachers/hyujeong.md), [Jinul 知訥 (Bojo)](../teachers/jinul.md), [Mangong Wolmyeon 滿空月面](../teachers/mangong.md), [Musang 無相 (Kim heshang 金和尚)](../teachers/musang.md), [Naong Hyegeun 懶翁慧勤](../teachers/naong-hyegeun.md), [Samyeong Yujeong 四溟惟政](../teachers/samyeong-yujeong.md), [Toeong Seongcheol 退翁性徹](../teachers/seongcheol.md), [Taego Bou 太古普愚](../teachers/taego-bou.md)
 
 ## Practices
-[The Śūraṅgama mantra](../practices/surangama-mantra.md), [Turning the hearing back (Avalokiteśvara's perfect penetration)](../practices/turning-hearing-inward.md)
+[Awareness of arising thoughts](../practices/awareness-of-arising-thoughts.md), [Long sitting without lying down (changzuo buwo / jangjwa bulwa)](../practices/changzuo-buwo.md), [The four great vows (inward form)](../practices/four-great-vows.md), [Huatou / hwadu (observing the critical phrase)](../practices/huatou.md), [Turning the light around (huiguang fanzhao / hoegwang banjo)](../practices/huiguang-fanzhao.md), [Kinhin (walking meditation)](../practices/kinhin.md), [Kōan introspection (sanzen, kōan practice)](../practices/koan-introspection.md), [Monastic life under the pure rules](../practices/qinggui-monastic-life.md), [Samu / puqing (communal work)](../practices/samu.md), [The Śūraṅgama mantra](../practices/surangama-mantra.md), [Sūtra and dhāraṇī chanting in Zen liturgy](../practices/sutra-chanting-zen.md), [Ten methods of practising no-mind](../practices/ten-methods-of-no-mind.md), [Turning the hearing back (Avalokiteśvara's perfect penetration)](../practices/turning-hearing-inward.md), [Zazen / zuochan (seated meditation)](../practices/zazen.md)
 
 ## Path maps
 `pth:jinul-sudden-gradual`
 
 ## Debates
-_none recorded_
+[Is Chan a special transmission outside the scriptural teachings, or one with them?](../debates/chan-and-the-teachings.md), [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

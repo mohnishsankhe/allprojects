@@ -11,6 +11,7 @@
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Desire, which arose in the beginning as the first seed of mind (RV 10.129.4; AVŚ 19.52.1).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Desire, born of rajas, the all-devouring enemy that veils knowledge, seated in senses, mind and intellect (BhG 3.37–41); one of the three gates of hell (16.21); yet 'in beings I am desire not opposed to dharma' (7.11); born of intention (saṃkalpa), as Maṅki says (MBh 12.171.25).
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): The five cords of sensual pleasure (MN 26); like the sores of a leper (MN 75); gratification, danger and escape (MN 13).
+- [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md): The 'spoken word': the long lineage of scriptures and instructions transmitted without interruption from master to disciple since the first diffusion.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: undertakings free of desire mark the learned (4.19); the unyoked is bound through the drive of desire (5.12); the surge of desire and anger is to be withstood before leaving the body (5.23); brahma-nirvāṇa is near those free of desire and anger (5.26); desires born of intention are to be abandoned in meditation (6.24); the yoked one is free of craving for all desires (6.18).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): Desire: not praiseworthy in itself, yet no action is without it (MDh 2.2–4); never quenched by enjoyment (MDh 2.94).
 - [Kāmaśāstra (the science of love and pleasure)](../lineages/kamasastra.md): The aim of love and pleasure, proper to youth, to be pursued without harming dharma and artha (Kāmasūtra 1.2).
@@ -23,11 +24,11 @@
 - Sanskrit: kāma  — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [krodha](krodha.md), [saṅga](sanga.md), [rajas](rajas.md), [rāga](raga.md), [lobha](lobha.md), [kāmaguṇa](kamaguna.md), [saṅkalpa](sankalpa.md)
+**Related:** [krodha](krodha.md), [saṅga](sanga.md), [rajas](rajas.md), [rāga](raga.md), [lobha](lobha.md), [kāmaguṇa](kamaguna.md), [gter ma](terma.md), [dag snang](dagnang.md), [saṅkalpa](sankalpa.md)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.19, tea:bhagavad-gita:5.12, tea:bhagavad-gita:5.23, tea:bhagavad-gita:5.26, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.24 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U36-pali-suttas, skeleton:U45-nyingma-bon, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

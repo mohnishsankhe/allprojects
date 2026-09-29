@@ -20,8 +20,8 @@ The exegetical school of the Guhyasamāja tantra associated with the tantric Nā
 - The root tantra is coded and must be read through the explanatory tantras (Vajramālā, Sandhivyākaraṇa, Caturdevīparipṛcchā) and the six alternatives (Pradīpoddyotana).
 
 **Transmissions given:** 
-  - `lin:gelug` — what: the Ārya Guhyasamāja exegesis (Tsongkhapa's Rim lnga gsal sgron)
-  - `lin:kagyu` — what: Marpa's Guhyasamāja from Nāropa
+  - [Gelug](gelug.md) — what: the Ārya Guhyasamāja exegesis (Tsongkhapa's Rim lnga gsal sgron)
+  - [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](kagyu.md) — what: Marpa's Guhyasamāja from Nāropa
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -34,19 +34,19 @@ The exegetical school of the Guhyasamāja tantra associated with the tantric Nā
 **Caveat:** Clear light is 'all-empty' and non-dual gnosis — the tradition frames it within the two truths of Madhyamaka and would not accept it as a self-existent absolute.
 
 ## Texts
-[Caryāmelāpakapradīpa](../texts/caryamelapakapradipa.md), [Cittaviśuddhiprakaraṇa](../texts/cittavisuddhiprakarana.md), [Guhyasamāja Tantra](../texts/guhyasamaja-tantra.md), [Pañcakrama](../texts/pancakrama.md), [Piṇḍīkṛtasādhana (Piṇḍīkrama)](../texts/pindikrama.md), [Pradīpoddyotana](../texts/pradipoddyotana.md), [Sandhivyākaraṇa](../texts/sandhivyakarana-tantra.md), [Svādhiṣṭhānakramaprabheda](../texts/svadhisthanakramaprabheda.md), [Vajramālā](../texts/vajramala-tantra.md)
+[Caryāmelāpakapradīpa](../texts/caryamelapakapradipa.md), [Cittaviśuddhiprakaraṇa](../texts/cittavisuddhiprakarana.md), [Guhyasamāja Tantra](../texts/guhyasamaja-tantra.md), [Lamp Thoroughly Illuminating the Five Stages (rim lnga rab tu gsal ba'i sgron me)](../texts/lamp-illuminating-five-stages.md), [Pañcakrama](../texts/pancakrama.md), [Piṇḍīkṛtasādhana (Piṇḍīkrama)](../texts/pindikrama.md), [Pradīpoddyotana](../texts/pradipoddyotana.md), [Sandhivyākaraṇa](../texts/sandhivyakarana-tantra.md), [Svādhiṣṭhānakramaprabheda](../texts/svadhisthanakramaprabheda.md), [Vajramālā](../texts/vajramala-tantra.md)
 
 ## Teachers
 [Karṇaripa (Āryadeva)](../teachers/aryadeva-tantric.md), [Candrakīrti (the tantric)](../teachers/candrakirti-tantric.md), [Nāgabodhi](../teachers/nagabodhi.md), [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md), [Nāropa](../teachers/naropa.md), [Śākyamitra](../teachers/sakyamitra.md)
 
 ## Practices
-_none recorded_
+[Clear-light yoga](../practices/clear-light-yoga.md), [Deity yoga (generation-stage sādhana)](../practices/deity-yoga.md), [Meditation on the drop at the nose tip](../practices/drop-at-nose-tip.md), [Illusory-body yoga](../practices/illusory-body.md), [Vajra recitation (vajrajāpa)](../practices/vajra-recitation.md)
 
 ## Path maps
-`pth:pancakrama-five-stages`
+[The five stages of the Pañcakrama (Ārya Guhyasamāja)](../paths/pancakrama-five-stages.md)
 
 ## Debates
-_none recorded_
+[Are the transgressive statements and practices of the tantras to be taken literally or as intentional language?](../debates/literal-or-symbolic-tantric-conduct.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

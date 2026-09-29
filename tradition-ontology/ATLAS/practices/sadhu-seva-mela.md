@@ -9,4 +9,4 @@
 Gathering at festivals — Joydeb-Kenduli at Pauṣ Saṃkrānti, Lalon's festival at Cheuṛiyā, the Kartābhajā Dol melā at Ghoshpara — for singing, teaching and feeding sādhus.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

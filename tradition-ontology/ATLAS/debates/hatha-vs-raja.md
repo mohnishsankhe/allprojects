@@ -32,4 +32,4 @@ Under P4 haṭha is the means for the 'strong' aspirant and nāda/laya the easy 
 **The traditions' own objections:** The Amanaska denies that laborious methods lead to the mindless state at all; the Haṭhapradīpikā denies that haṭha is fruitful without rājayoga. The reconciliation claims only that both sides agree on the goal (the mindless state) and differ on means for different students; it does not claim the Amanaska accepts haṭha.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._

@@ -14,6 +14,7 @@
 - [Vaiṣṇava Sahajiyā](../lineages/vaisnava-sahajiya.md): The innate beyond the two, known only by one who has crossed the darkness; the goal of the couple's discipline.
 - [Bāul](../lineages/baul.md): The sahaj path and the sahaj Man, found in the body under the guru.
 - [Kartābhajā](../lineages/kartabhaja.md): The sahaja religion (satya-dharma) revealed by Āulcānd.
+- [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md): lhan cig skyes pa, the co-emergent: the dharmakāya inseparable from mind, appearances and thoughts; 'co-emergent wisdom, clarity-emptiness free of grasping' (Karṇatantravajrapada).
 
 ## Relations (interpretation layer)
 - contrasts-with → [The made and the innate paths (kṛtaka and sahaja)](krtaka-sahaja.md): the innate as against the made — rests on [b.43-45](../texts/akulavira-tantra.md#tea-akulavira-tantra-b-43-45)
@@ -21,4 +22,4 @@
 _Notes: The Buddhist Sahajiyā 'sahaja' of the siddhas (U44, same concept id expected) is the scholarly-hypothesized ancestor of the Bengali usage (brw:mahasiddha-to-vaisnava-sahajiya); the Sant usage comes via the Nāths (brw:natha-to-sant)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U27-sant-baul, skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._

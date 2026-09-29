@@ -10,4 +10,4 @@
 A later Bhadrabāhu to whom some scholars (and a late Śvetāmbara tradition, which makes him brother of the astronomer Varāhamihira) assign the niryuktis; his identity and date (c. 5th–6th c. CE) are uncertain.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

@@ -18,9 +18,11 @@
 - [Jainism (Jaina dharma)](../lineages/jainism.md): (1) In Jain epistemology the fourth stage of sensory knowledge: retention enabling memory (TS 1.15). (2) In Jain yoga, concentration — Haribhadra's kāntā view; Hemacandra's five visualised concentrations of embodied meditation (YŚ 7).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Concentration; the five element-concentrations; holding mind in the Self.
 - [Trika ('the Triad')](../lineages/trika.md): Each of the 112 'teachings of the waveless state' of the Vijñāna Bhairava (v. 139); in the Mālinīvijayottara, concentrations on elements, subtle elements and senses (chs. 12-17).
+- [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md): Retention, fourth branch of the six-branch yoga: one's mantra in the heart placed in the drop of life-wind (GST 18.145).
 
 ## Forms in other languages
 - Prakrit: dhāraṇā  — exact
+- Tibetan: 'dzin pa  — exact
 
 ## Equivalents (interpretation layer)
 **Related:** [prāṇa](prana.md), [hṛd](hrd.md)
@@ -30,4 +32,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.12 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

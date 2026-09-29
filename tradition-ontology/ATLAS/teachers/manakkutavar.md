@@ -11,4 +11,4 @@
 Author of the oldest surviving Kuṟaḷ commentary; his own affiliation (some say Jain) is uncertain.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

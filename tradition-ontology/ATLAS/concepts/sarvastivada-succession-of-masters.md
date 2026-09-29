@@ -15,4 +15,4 @@
 - contrasts-with → [The councils (saṃgīti)](councils.md): Succession of masters vs the councils as the two ways the traditions tell their continuity.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

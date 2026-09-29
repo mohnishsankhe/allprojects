@@ -12,4 +12,4 @@ Using the Kaula substances for pleasure, without initiation, consecration or ins
   - [Kulārṇava Tantra](../texts/kularnava-tantra.md) — ref: 2.117; 5.96-105; rests_on: ["tea:kularnava-tantra:2.117", "tea:kularnava-tantra:5.96-105"]
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._

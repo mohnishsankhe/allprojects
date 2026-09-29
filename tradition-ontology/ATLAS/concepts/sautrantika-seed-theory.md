@@ -13,4 +13,4 @@
 - leads-to → `cpt:storehouse-consciousness`: Yogācāra reworks the seeds as stored in the ālaya (historical relation; see borrowings). — rests on [2.36](../texts/abhidharmakosabhasya.md#tea-abhidharmakosabhasya-2-36)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

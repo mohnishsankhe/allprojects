@@ -13,4 +13,4 @@ Recollecting that death may come soon, before one's evil is exhausted, that one 
   - [Catuḥśataka](../texts/catuhsataka.md) — ref: ch.1; rests_on: ["tea:catuhsataka:1"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

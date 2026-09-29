@@ -15,4 +15,4 @@ When one object has been abandoned, [if] consciousness, held back, does not go t
 _Notes: Verses 62 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._

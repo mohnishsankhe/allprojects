@@ -13,4 +13,4 @@
 Telugu and Kannada Vīraśaiva poet-scholar, author of the Basava Purāṇamu, the Paṇḍitārādhya Caritra and the Vṛṣādhipa Śatakamu.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._

@@ -16,4 +16,4 @@
 _Notes: U17 owns the Atimārga's own account (lin:atimarga). The 'householder vs ascetic' contrast follows scholarly synthesis (Sanderson) of the texts and is to be checked against the Niśvāsamukha in Phase D._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._

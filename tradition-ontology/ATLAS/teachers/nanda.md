@@ -9,4 +9,4 @@
 The Buddha's half-brother, son of Mahāpajāpatī, who went forth reluctantly and was led by the Buddha to overcome his longing (Ud 3.2); foremost in guarding the sense doors.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

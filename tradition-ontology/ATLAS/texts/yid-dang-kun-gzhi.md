@@ -1,17 +1,21 @@
-# Yid dang kun gzhi'i dka' gnas (Difficult Points of Mind and Basis)
+# Treatise on the Mind and the Basis-of-All (yid dang kun gzhi'i dka' ba'i gnas rgya cher 'grel pa)
 
 `src:yid-dang-kun-gzhi` · `skeleton` · confidence moderate
 
 **Language:** Tibetan
 **Family:** ascetic
-**Lineages:** `lin:gelug`, [Yogācāra](../lineages/yogacara.md)
+**Lineages:** [Gelug](../lineages/gelug.md), [Yogācāra](../lineages/yogacara.md)
+**Genre:** treatise
 **Authors:** 
   - [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) — role: author; attribution: accepted
-**Availability:** digitized-original
+**Availability:** digitized-translation
 
-Tsongkhapa's early treatise on the afflicted mind and the store-consciousness as taught in Yogācāra.
+Tsongkhapa's early treatise explaining the Yogācāra afflicted mind and storehouse consciousness.
 **Editions / translations:** 
+  - kind: original; name: Tibetan: collected works (gsung 'bum), several xylograph and modern editions
   - kind: original; name: Tibetan: Tsongkhapa's collected works
 
+_Notes: Shared id with U41._
+
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

@@ -14,4 +14,4 @@ Meditation through the five concentrations: visualising the world as an ocean of
 **Sequences:** [The four objects of meditation (piṇḍastha to rūpātīta)](../paths/jain-four-dhyeyas.md)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

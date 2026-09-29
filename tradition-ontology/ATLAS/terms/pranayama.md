@@ -16,8 +16,10 @@
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Breath-control: first limb of the Maitrī's yoga (MaiU 6.18); ŚU 2.9 describes restraining the breaths and breathing out gently through the nose.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Regulation of breath; inwardly, seeing all as Brahman (exhalation negating the world, inhalation 'I am Brahman', retention steadiness).
 - [Śvetāmbara](../lineages/svetambara.md): Described by Hemacandra and Śubhacandra (inhaling, holding, exhaling; the winds and their circles) but declared not a means to liberation because it torments the mind (YŚ 6.4–5); Haribhadra's dīprā view gives it an inner sense — expelling outer states and taking in inner ones.
+- [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md): Third branch of the six-branch yoga in the Buddhist order (after dhyāna): the breath of the five gnoses imagined as a five-coloured jewel at the nose tip (GST 18.144; Pañcakrama 1.10–15).
 
 ## Forms in other languages
+- Tibetan: srog rtsol  — exact
 
 ## Equivalents (interpretation layer)
 **Related:** [kumbhaka](kumbhaka.md), [recaka](recaka.md), [pūraka](puraka.md), [prāṇa](prana.md), [apāna](apana.md)
@@ -29,4 +31,4 @@ _Notes: The Gītā names no counts or retention durations._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.29 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U35-jain-philosophy, skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

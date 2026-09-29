@@ -15,4 +15,4 @@ The fragile powers of a worldling distract from insight and are easily lost.
 - analogous: [Powers as obstacles](siddhis-as-obstacles.md) — YS 3.37's warning that the powers are obstacles to samādhi
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._

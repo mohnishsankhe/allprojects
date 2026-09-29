@@ -28,4 +28,4 @@ concepts: [The loss of the canon (Digambara account)](../concepts/loss-of-script
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

@@ -47,4 +47,4 @@ concepts: [Jain views of the other darśanas](../concepts/jain-views-of-other-da
 _Notes: Language given as old Gujarati-Rajasthani (Marugurjara). Commented by Jñānavimala and by Śrīmad Rājacandra's circle (recalled)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

@@ -15,7 +15,21 @@ A Madhyamaka meditation manual attributed to Vimalamitra on entering non-concept
 **Editions / translations:** 
   - kind: original; name: Derge Tengyur, dbu ma, Tōh 3910 (local e-text); licence: Public domain (Derge xylograph; Esukhia/Barom digital edition, per the repository)
 
+## Teachings (1: skeleton 1)
+
+### colophon <a id="tea-cigcar-jugpa-vimalamitra-colophon"></a>
+`skeleton` · confidence high
+
+Closing verse: by the explanation of this simultaneous entry into non-conceptuality, may all the countless beings of the three realms obtain the eye of wisdom, realize the meaning of the Middle Way and quickly attain omniscience; the one who wishes for this should cultivate non-conceptual samādhi.
+
+> mi rtog cig car 'jug pa 'di bshad pas/ /khams gsum sems can mtha' yas ji snyed kun/ /shes rab mig thob dbu ma'i don rtogs nas/ /thams cad mkhyen pa myur du thob par shog
+
+_level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice_
+
+teachers: [Vimalamitra](../teachers/vimalamitra.md) · disputes: `dsp:sudden-or-gradual`, [Is the Great Perfection the 'sudden' Chan of Moheyan, rejected at Samye, in another guise?](../debates/dzogchen-and-chan.md)
+
+
 _Notes: Local: catalog:Derge-Tengyur:D3910; colophon read._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

@@ -14,4 +14,4 @@
 - opposes → [Emptiness (śūnyatā) in Madhyamaka](sunyata.md): guards against reifying emptiness — rests on [13.8](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-13-8)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

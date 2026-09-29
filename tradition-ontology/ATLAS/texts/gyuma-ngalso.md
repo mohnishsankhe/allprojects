@@ -13,5 +13,17 @@
 
 On all phenomena as illusion, taught through eight similes of illusion (dream, magic show, optical illusion, mirage, echo, city of gandharvas, reflection, emanation).
 
+## Teachings (1: skeleton 1)
+
+### 1-8 <a id="tea-gyuma-ngalso-1-8"></a>
+`skeleton` · confidence moderate
+
+All phenomena are to be understood as illusion through eight similes — dream, magic show, optical illusion, mirage, echo, city of gandharvas, reflection and emanation — so that clinging to their reality relaxes and one finds rest.
+
+_level: conventional · standpoint: apophatic · path: knowledge, meditation · stage: intermediate · types: ultimate, practice_
+
+teachers: [Longchenpa (Longchen Rabjam Drime Özer)](../teachers/longchenpa.md)
+
+
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

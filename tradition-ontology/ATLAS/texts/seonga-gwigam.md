@@ -23,10 +23,10 @@ Seon is the Buddha's mind and the teachings are the Buddha's words; the student 
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all · types: practice, dispute_
 
-terms: [huatou / hwadu (critical phrase)](../terms/huatou.md) · concepts: `cpt:three-essentials-of-huatou`, `cpt:words-and-letters` · teachers: [Hyujeong 休靜 (Seosan daesa)](../teachers/hyujeong.md) · disputes: `dsp:chan-and-the-teachings`
+terms: [huatou / hwadu (critical phrase)](../terms/huatou.md) · concepts: [Three essentials of huatou practice](../concepts/three-essentials-of-huatou.md), [Words and letters in Chan](../concepts/words-and-letters.md) · teachers: [Hyujeong 休靜 (Seosan daesa)](../teachers/hyujeong.md) · disputes: [Is Chan a special transmission outside the scriptural teachings, or one with them?](../debates/chan-and-the-teachings.md)
 
 
 _Notes: Not held locally._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

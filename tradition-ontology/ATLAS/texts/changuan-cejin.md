@@ -27,8 +27,8 @@ Xueyan Zuqin recounts that a senior told him his practice was stagnant water: 'i
 
 _level: bridging · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: [yiqing (feeling of doubt)](../terms/yiqing.md) · concepts: `cpt:great-doubt` · obstacles: `obs:torpor-and-scattering` · teachers: [Xueyan Zuqin 雪巖祖欽](../teachers/xueyan-zuqin.md), [Yunqi Zhuhong](../teachers/yunqi-zhuhong.md)
+terms: [yiqing (feeling of doubt)](../terms/yiqing.md) · concepts: [Great doubt](../concepts/great-doubt.md) · obstacles: [Dullness and scattering (hunchen, sanluan / diaoju)](../obstacles/torpor-and-scattering.md) · teachers: [Xueyan Zuqin 雪巖祖欽](../teachers/xueyan-zuqin.md), [Yunqi Zhuhong](../teachers/yunqi-zhuhong.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

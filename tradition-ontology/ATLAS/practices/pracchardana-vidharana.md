@@ -14,4 +14,4 @@ Steadying the mind by expelling the air of the abdomen through the nostrils with
 _Notes: No measures are given in the YS; haṭha texts add warnings about breath practice (units U28/U29)._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._

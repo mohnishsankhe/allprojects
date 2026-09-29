@@ -13,4 +13,4 @@ The extreme that the being is annihilated at death; with eternalism one of the t
   - [Avijjāpaccayā Sutta](../texts/avijjapaccaya-sutta.md) — ref: SN 12.35; rests_on: ["tea:avijjapaccaya-sutta:1"]
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._

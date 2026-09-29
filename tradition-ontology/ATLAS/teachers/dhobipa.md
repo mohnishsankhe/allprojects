@@ -12,4 +12,4 @@ No. 28 of the eighty-four siddhas (Tōh 2292 order). A washerman taught to see h
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. The washing imagery confirms the identification with Abhayadatta's washerman._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

@@ -12,4 +12,4 @@ Excessive affection for family and home, by which the householder perishes like 
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.7.52-74; rests_on: ["tea:uddhava-gita:11.7.52-74"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

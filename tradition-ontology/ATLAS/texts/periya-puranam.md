@@ -114,4 +114,4 @@ practices: [Caryā (Śaiva temple service)](../practices/saiva-carya.md) · teac
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

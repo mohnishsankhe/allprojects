@@ -37,4 +37,4 @@ _none recorded_
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.), https://en.wikipedia.org/wiki/Nirukta, https://en.wikipedia.org/wiki/Y%C4%81ska — Nirukta 1.12 was found: 'tatra nāmāny ākhyātajānīti śākaṭāyano nairuktasamayaś ca'. Nirukta 7.5 was found: 'tisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthāno vāyur vendro vāntarikṣasthānaḥ sūryo dyusthānaḥ'. Nirukta 2.16 was found: 'tat ko vṛtraḥ | megha iti nairuktāḥ | tvāṣṭro 'sura ity aitihāsikāḥ'. Nirukta 12.1 has the Aśvins read as heaven and earth, day and night, or sun and moon. The low-confidence date range of 700–400 BCE is consistent with Yāska's usual dating.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

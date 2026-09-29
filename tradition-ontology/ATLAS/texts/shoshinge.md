@@ -24,7 +24,7 @@ I take refuge in the Tathāgata of Immeasurable Life, I entrust myself to the Bu
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: all · types: karma-liberation, sound-language_
 
-terms: `trm:zhengding-ye`, `trm:shinjin` · concepts: `cpt:shinjin`, [The eighteenth (primal) vow](../concepts/eighteenth-vow.md) · practices: `prc:shinshu-gongyo` · teachers: [Shinran](../teachers/shinran.md)
+terms: [zhengding ye](../terms/zhengding-ye.md), [shinjin](../terms/shinjin.md) · concepts: [Shinjin — true entrusting](../concepts/shinjin.md), [The eighteenth (primal) vow](../concepts/eighteenth-vow.md) · practices: [Shinshū morning and evening service (gongyō)](../practices/shinshu-gongyo.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### pundarika <a id="tea-shoshinge-pundarika"></a>
 `skeleton` · confidence high
@@ -33,7 +33,7 @@ When ordinary beings, good or evil, hear and entrust themselves to the Tathāgat
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:fentuoli` · concepts: `cpt:difficulty-of-faith` · teachers: [Shinran](../teachers/shinran.md)
+terms: [puṇḍarīka](../terms/pundarika.md) · concepts: [The difficulty of faith in the easy practice](../concepts/difficulty-of-faith.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### seven-masters <a id="tea-shoshinge-seven-masters"></a>
 `skeleton` · confidence high
@@ -42,8 +42,8 @@ The masters of India, China and Japan revealed the Buddha's intent: Nāgārjuna 
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:seven-masters-shinshu` · teachers: [Nāgārjuna](../teachers/nagarjuna.md), [Vasubandhu](../teachers/vasubandhu.md), [Tanluan](../teachers/tanluan.md), [Daochuo](../teachers/daochuo.md), [Shandao](../teachers/shandao.md), [Genshin](../teachers/genshin.md), [Hōnen](../teachers/honen.md)
+concepts: [The seven masters of Jōdo Shinshū (shichi kōsō)](../concepts/seven-masters-shinshu.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md), [Vasubandhu](../teachers/vasubandhu.md), [Tanluan](../teachers/tanluan.md), [Daochuo](../teachers/daochuo.md), [Shandao](../teachers/shandao.md), [Genshin](../teachers/genshin.md), [Hōnen](../teachers/honen.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

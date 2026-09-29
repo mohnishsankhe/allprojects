@@ -18,4 +18,4 @@ Refraining from taking any life and protecting all creatures, even at the cost o
 - exact: [Non-harming (ahiṃsā)](ahimsa.md)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._

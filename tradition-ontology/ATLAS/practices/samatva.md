@@ -11,6 +11,14 @@ Make pleasure and pain, gain and loss, victory and defeat the same, and then act
 **Signs of progress:** ['not disturbed by pleasure and pain (2.15)', 'neither rejoicing nor hating on meeting the pleasant or the unpleasant (2.57)']
 **Sources:** 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.15, 2.38, 2.48; rests_on: ["tea:bhagavad-gita:2.15", "tea:bhagavad-gita:2.38", "tea:bhagavad-gita:2.48"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.4; rests_on: ["tea:bhagavad-gita:12.4"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.13; rests_on: ["tea:bhagavad-gita:12.13"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.18; rests_on: ["tea:bhagavad-gita:12.18"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.19; rests_on: ["tea:bhagavad-gita:12.19"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:12.4, tea:bhagavad-gita:12.13, tea:bhagavad-gita:12.18, tea:bhagavad-gita:12.19 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:34 IST._

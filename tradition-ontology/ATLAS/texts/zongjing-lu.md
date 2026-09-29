@@ -28,8 +28,8 @@ Yanshou's preface: taking the one mind as the source (zong) and illumining the m
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-terms: [yixin (the one mind)](../terms/yixin.md) · concepts: `cpt:one-mind-chan` · teachers: [Yongming Yanshou](../teachers/yongming-yanshou.md) · disputes: `dsp:chan-and-the-teachings`
+terms: [yixin (the one mind)](../terms/yixin.md) · concepts: [The one mind](../concepts/one-mind-chan.md) · teachers: [Yongming Yanshou](../teachers/yongming-yanshou.md) · disputes: [Is Chan a special transmission outside the scriptural teachings, or one with them?](../debates/chan-and-the-teachings.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

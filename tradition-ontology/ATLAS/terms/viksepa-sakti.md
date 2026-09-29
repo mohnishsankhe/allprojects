@@ -16,4 +16,4 @@
 **Related:** [āvaraṇaśakti](avarana-sakti.md), [māyā](maya.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._

@@ -15,4 +15,4 @@ Reciting or chanting the Guru Gītā, prescribed in the text for success, protec
 - Not to be taught to the faithless, the deceiver or the hypocrite. — [Guru Gītā](../texts/guru-gita.md) 182-185
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

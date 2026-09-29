@@ -33,7 +33,7 @@ There are many ways into the Way but essentially two: entry by principle and ent
 
 _level: ultimate · standpoint: seeker · path: knowledge, meditation · stage: all · types: practice, ultimate_
 
-terms: [biguan (wall-gazing)](../terms/biguan.md), [liru and xingru (entry by principle, entry by practice)](../terms/liru-xingru.md) · concepts: `cpt:two-entrances`, `cpt:buddha-nature-chan` · practices: `prc:biguan` · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md)
+terms: [biguan (wall-gazing)](../terms/biguan.md), [liru and xingru (entry by principle, entry by practice)](../terms/liru-xingru.md) · concepts: [The two entrances (principle and practice)](../concepts/two-entrances.md), [Buddha-nature in Chan, Seon and Zen](../concepts/buddha-nature-chan.md) · practices: [Wall-gazing (biguan)](../practices/biguan.md) · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md)
 
 ### 369c25 <a id="tea-two-entrances-four-practices-369c25"></a>
 `skeleton` · confidence high
@@ -44,7 +44,7 @@ Entry by practice consists of four practices that include all others: requiting 
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice, ethics, karma-liberation_
 
-concepts: `cpt:two-entrances` · practices: `prc:four-practices-bodhidharma`
+concepts: [The two entrances (principle and practice)](../concepts/two-entrances.md) · practices: [The four practices of Bodhidharma](../practices/four-practices-bodhidharma.md)
 
 ### 370a01 <a id="tea-two-entrances-four-practices-370a01"></a>
 `skeleton` · confidence high
@@ -55,10 +55,10 @@ On requiting enmity: when suffering comes the practitioner reflects that through
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics, practice_
 
-practices: `prc:four-practices-bodhidharma`
+practices: [The four practices of Bodhidharma](../practices/four-practices-bodhidharma.md)
 
 
 _Notes: Local texts: Shaoshi liumen T2009 (third gate, 二種入), Jingde chuandeng lu T2076 juan 30, and the summary in Xu gaoseng zhuan T2060 juan 16. Teaching refs use the Shaoshi liumen Taishō lines._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

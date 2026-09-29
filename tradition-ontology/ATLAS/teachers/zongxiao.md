@@ -2,7 +2,7 @@
 
 `tch:zongxiao` · `skeleton` · confidence moderate
 
-**Alternate names:** 宗曉, Shiji
+**Alternate names:** 宗曉, Shizhi 石芝
 **Lineages:** [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tiantai`
 **Dates:** Scholarly account: 1151–1214 CE; (confidence moderate)
 **Historicity:** historical
@@ -12,4 +12,4 @@
 Southern Song Tiantai monk who compiled the Lebang wenlei (1200), the first to name a line of Lotus-school patriarchs.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

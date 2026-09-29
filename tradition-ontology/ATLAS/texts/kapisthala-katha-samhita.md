@@ -18,4 +18,4 @@ The fragmentary Saṃhitā of the Kapiṣṭhala branch of the Kaṭhas, close t
 
 - 2026-09-28 catalog: confirmed — catalog:eBharati:kapiShThalakaThasaMhitA — Extant (fragmentary) and digitized in the local eBhāratī collection; Raghu Vira's 1932 edition is the standard one (not separately web-checked).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._

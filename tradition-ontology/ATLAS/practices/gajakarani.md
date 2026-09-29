@@ -16,4 +16,4 @@ Raising the apāna breath to the throat, one vomits what is in the stomach; by g
 - One with excess fat or phlegm should first practise the six acts; others should not do them, their doṣas being in balance. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 2.21
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._

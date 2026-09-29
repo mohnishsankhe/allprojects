@@ -5,7 +5,7 @@
 **Alternate titles:** Da banniepan jing 大般涅槃經 (T374, Dharmakṣema 421, 40 juan — 'northern text'), T375 (36 juan, 'southern text', revised by Huiyan and Xie Lingyun), Da banniyuan jing 大般泥洹經 (T376, Faxian & Buddhabhadra 418, 6 juan), yongs su mya ngan las 'das pa chen po (Toh 119 from Sanskrit; Toh 120 from Chinese), Nirvāṇa Sūtra, Nehangyō
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), `lin:tiantai`, [Chan (Chinese Meditation school)](../lineages/chan.md), `lin:huayan`, `lin:jonang`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), `lin:tiantai`, [Chan (Chinese Meditation school)](../lineages/chan.md), `lin:huayan`, [Jonang (jo nang pa)](../lineages/jonang.md)
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana) at Kuśinagara on the day of his parinirvāṇa; scholarly: Anonymous; the core (≈ T376) c. 2nd-3rd c.; the additional chapters of T374 from Dharmakṣema's further manuscripts (Central Asia), 5th c.; confidence: high
 **Dates:** Tradition's account: the last day of the Buddha's life; Scholarly account: core c. 200-300 CE; expanded to c. 400; Chinese 418 and 421; (confidence moderate)
@@ -135,4 +135,4 @@ concepts: [The four perfections of the dharmakāya](../concepts/four-guna-parami
 _Notes: Locator: juan (fascicle) of T374; Taishō lines in teaching sections (read locally). Not to be confused with the Pali Mahāparinibbāna Sutta (src:mahaparinibbana-sutta)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

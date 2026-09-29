@@ -60,4 +60,4 @@ Vaiśeṣika is the Vedic darśana of categorial analysis and atomism founded on
 _Notes: Status 'absorbed': Vaiśeṣika ontology is still studied, but within Nyāya-Vaiśeṣika manuals._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._

@@ -12,4 +12,4 @@ Seeking the master (āriyaṉ) and bowing at his feet (Pattirakiriyār 26); gazi
   - [Tirumūla nāyaṉār ñāṉam (the wisdom of Tirumūlar)](../texts/tirumular-nanam.md) — ref: 5-6; rests_on: ["tea:tirumular-nanam:5", "tea:tirumular-nanam:6"]
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._

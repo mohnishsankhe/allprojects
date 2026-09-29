@@ -24,7 +24,7 @@ _none recorded_
 [Puhua 普化](../teachers/puhua.md), [Shinchi Kakushin 心地覺心 (Hottō kokushi)](../teachers/shinchi-kakushin.md)
 
 ## Practices
-_none recorded_
+[Suizen (blowing Zen)](../practices/suizen.md)
 
 ## Path maps
 _none recorded_
@@ -33,4 +33,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

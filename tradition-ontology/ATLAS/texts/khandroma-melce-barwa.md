@@ -16,4 +16,4 @@ A ḍākinī tantra of the Old Tantra section, associated with the Mātaraḥ (m
 _Notes: Existence and title local (catalog:Derge-Kangyur:D842); the assignment to the Eight Herukas (bka' brgyad) is the unit's reading from memory of the Nyingma classification._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

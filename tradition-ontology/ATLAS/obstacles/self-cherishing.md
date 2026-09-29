@@ -12,4 +12,4 @@ All who suffer in the world suffer from desiring their own happiness; all calami
   - [Bodhicaryāvatāra](../texts/bodhicaryavatara.md) — ref: 8.129-136; rests_on: ["tea:bodhicaryavatara:8.129-131", "tea:bodhicaryavatara:8.134-136"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

@@ -23,10 +23,10 @@ Hymns praising Nāgārjuna, Vasubandhu, Tanluan, Daochuo, Shandao, Genshin and H
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:seven-masters-shinshu` · teachers: [Shinran](../teachers/shinran.md), [Hōnen](../teachers/honen.md)
+concepts: [The seven masters of Jōdo Shinshū (shichi kōsō)](../concepts/seven-masters-shinshu.md) · teachers: [Shinran](../teachers/shinran.md), [Hōnen](../teachers/honen.md)
 
 
 _Notes: The three are together called the Sanjō wasan._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -14,4 +14,4 @@ One first reflects that others want happiness and fear suffering exactly as ones
 **Sequences:** [The sequence of the Bodhicaryāvatāra](../paths/bodhicaryavatara-sequence.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

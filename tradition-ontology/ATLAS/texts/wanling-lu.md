@@ -28,8 +28,8 @@ Huangbo's verse: getting free of the dust of the world is no ordinary matter; gr
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-concepts: `cpt:great-doubt`
+concepts: [Great doubt](../concepts/great-doubt.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

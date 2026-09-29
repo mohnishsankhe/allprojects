@@ -36,4 +36,4 @@ _Notes: New lineage id (not in the registry) created by U02 for the puruṣārth
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/6_kama/vatsyayana_kamasutra.md (GRETIL) — Kāmasūtra 1.2.1ff was found: 'śatāyur vai puruṣo vibhajya kālam anyonyānubaddhaṃ parasparasyānupaghātakaṃ trivargaṃ seveta'. The order of weight (each earlier aim weightier) is at 1.2.14. The Mīmāṃsaka objection (kāma needs no śāstra) and the Lokāyatika objection (the pigeon today) are both reported and answered in KS 1.2. The id is a new, non-registry lineage created by the unit.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

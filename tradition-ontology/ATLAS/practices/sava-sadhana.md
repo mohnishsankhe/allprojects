@@ -13,4 +13,4 @@ A vīra rite of winning the Goddess's vision seated on a corpse in the cremation
 - Aghora practice is given only by the guru and kept secret; the recent teacher Aghoreśvar Bhagavān Rām is reported to have taught that it is naturalness and service, not spectacle (the lineage's oral rule as reported; no text located — to be sourced).
 
 ---
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._

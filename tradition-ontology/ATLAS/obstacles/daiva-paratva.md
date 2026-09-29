@@ -12,4 +12,4 @@ Relying on fate instead of effort, which the Yoga Vāsiṣṭha calls the delusi
   - [Mokṣopāya](../texts/moksopaya.md) — ref: 2.4-8; rests_on: ["tea:moksopaya:2.4.8-18", "tea:moksopaya:2.6.1-6"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

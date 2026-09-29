@@ -16,4 +16,4 @@
 _Notes: The servant Pūrṇānanda of this story is not Pūrṇānanda Giri, author of the Śrītattvacintāmaṇi._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._

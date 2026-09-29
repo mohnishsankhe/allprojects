@@ -11,4 +11,4 @@ Gain and loss, fame and disrepute, praise and blame, pleasure and pain, which tu
   - [Lokadhamma Sutta](../texts/lokadhamma-sutta.md) — ref: 1-9; rests_on: ["tea:lokadhamma-sutta:1-9"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

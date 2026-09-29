@@ -16,4 +16,4 @@
 _Notes: Which Atimārga school held which of the rejected views is a scholarly attribution, not stated in the passage._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:34 IST._

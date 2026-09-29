@@ -9,4 +9,4 @@
 The guru who initiated Tukārām in a dream, giving the mantra 'Rāma Kṛṣṇa Hari'; Tukārām names his line through Rāghava Caitanya and Keśava Caitanya.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

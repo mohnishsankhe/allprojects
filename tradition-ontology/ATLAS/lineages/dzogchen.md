@@ -23,7 +23,7 @@ The Great Perfection: the Nyingma (and Bön) teaching that the mind's nature, aw
 - Saṃsāra and nirvāṇa have one ground and two paths: recognition (Samantabhadra) and non-recognition (beings).
 
 **Transmissions given:** 
-  - `lin:kagyu` — what: Nyingthig instruction adopted by Kagyu masters (e.g. the Third Karmapa Rangjung Dorje)
+  - [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](kagyu.md) — what: Nyingthig instruction adopted by Kagyu masters (e.g. the Third Karmapa Rangjung Dorje)
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -42,13 +42,13 @@ The Great Perfection: the Nyingma (and Bön) teaching that the mind's nature, aw
 [Adzom Drukpa Natsok Rangdrol (a 'dzom 'brug pa)](../teachers/adzom-drukpa.md), [Chatral Sangye Dorje (bya bral sangs rgyas rdo rje)](../teachers/chatral-sangye-dorje.md), [Chetsün Senge Wangchuk (lce btsun seng ge dbang phyug)](../teachers/chetsun-senge-wangchuk.md), [Dudjom Lingpa (bdud 'joms gling pa)](../teachers/dudjom-lingpa.md), [Garab Dorje (Prahevajra)](../teachers/garab-dorje.md), [Jigme Lingpa (rig 'dzin 'jigs med gling pa)](../teachers/jigme-lingpa.md), [Jñānasūtra](../teachers/jnanasutra.md), [Karma Lingpa](../teachers/karma-lingpa.md), [Khenpo Ngawang Palzang (Khenpo Ngakchung)](../teachers/khenpo-ngakchung.md), [Rigdzin Kumārādza (rig 'dzin ku mA rA dza)](../teachers/kumaraja.md), [Longchenpa (Longchen Rabjam Drime Özer)](../teachers/longchenpa.md), [Mañjuśrīmitra](../teachers/manjusrimitra.md), [Mipham Jamyang Namgyal Gyatso ('ju mi pham)](../teachers/mipham.md), [Chögyal Namkhai Norbu (nam mkha'i nor bu)](../teachers/namkhai-norbu.md), [Neten Dangma Lhungyal (gnas brtan ldang ma lhun rgyal)](../teachers/neten-dangma-lhungyal.md), [Nupchen Sangye Yeshe (gnubs chen sangs rgyas ye shes)](../teachers/nubchen-sangye-yeshe.md), [Nyang Tingdzin Zangpo (myang ting 'dzin bzang po)](../teachers/nyang-tingdzin-zangpo.md), [Nyoshul Lungtok Tenpai Nyima (smyo shul lung rtogs bstan pa'i nyi ma)](../teachers/nyoshul-lungtok.md), [Padmasambhava (Guru Rinpoche)](../teachers/padmasambhava.md), [Patrul Rinpoche (dpal sprul o rgyan 'jigs med chos kyi dbang po)](../teachers/patrul-rinpoche.md), [Pema Ledrel Tsal (padma las 'brel rtsal)](../teachers/pema-ledrel-tsal.md), [Rigdzin Gödem (rig 'dzin rgod ldem)](../teachers/rigdzin-godem.md), [Rongzom Chökyi Zangpo (rong zom chos kyi bzang po)](../teachers/rongzompa.md), [Samantabhadra (Kun tu bzang po), the primordial buddha](../teachers/samantabhadra-adibuddha.md), [Śrī Siṃha](../teachers/sri-simha.md), [Vairocana the translator (Pagor Vairocana)](../teachers/vairocana-translator.md), [Vajrasattva (Dorje Sempa)](../teachers/vajrasattva.md), [Vimalamitra](../teachers/vimalamitra.md), [Yudra Nyingpo (g.yu sgra snying po)](../teachers/yudra-nyingpo.md), [Zhangtön Tashi Dorje (zhang ston bkra shis rdo rje)](../teachers/zhangton-tashi-dorje.md)
 
 ## Practices
-_none recorded_
+[Training for the bardos](../practices/bardo-practice.md), [Dark retreat (mun mtshams)](../practices/dark-retreat.md), [Direct introduction to awareness (ngo sprod)](../practices/direct-introduction.md), [The four thoughts that turn the mind (blo ldog rnam bzhi)](../practices/four-thoughts-that-turn-the-mind.md), [Guru yoga (bla ma'i rnal 'byor)](../practices/guru-yoga.md), [Searching for the mind (sems 'tshol)](../practices/mind-searching.md), [The Nyingma preliminaries (sngon 'gro)](../practices/ngondro-nyingma.md), [Separating saṃsāra and nirvāṇa ('khor 'das ru shan)](../practices/rushen.md), [Holding the mind (sems 'dzin)](../practices/semdzin.md), [Calm abiding in the Great Perfection (zhi gnas)](../practices/shine-dzogchen.md), [Direct crossing (thod rgal)](../practices/togal.md), [Cutting through (khregs chod)](../practices/trekcho.md)
 
 ## Path maps
-`pth:dzogchen-four-visions`, `pth:yeshe-lama-path`
+`pth:dzogchen-four-visions`, [The path of the Yeshe Lama (Longchen Nyingthig Dzogchen)](../paths/yeshe-lama-path.md)
 
 ## Debates
 _none recorded_
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

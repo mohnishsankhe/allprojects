@@ -1,21 +1,21 @@
 {
- "total_distinct": 765,
+ "total_distinct": 354,
  "by_prefix": {
-  "lin": 43,
-  "tch": 17,
-  "src": 9,
-  "tea": 160,
-  "pth": 49,
-  "dsp": 35,
-  "prc": 69,
-  "cpt": 212,
-  "obs": 35,
-  "trm": 136
+  "lin": 35,
+  "tch": 10,
+  "src": 8,
+  "tea": 110,
+  "pth": 42,
+  "dsp": 23,
+  "prc": 48,
+  "obs": 21,
+  "cpt": 31,
+  "trm": 26
  },
  "top": [
   {
    "id": "dsp:women-caste-liberation",
-   "refs": 130,
+   "refs": 131,
    "e.g.": [
     "tch:nantanar",
     "tch:prabhacandra",
@@ -24,7 +24,7 @@
   },
   {
    "id": "lin:tiantai",
-   "refs": 108,
+   "refs": 118,
    "e.g.": [
     "src:mahaprajnaparamita-sutra",
     "src:prajnaparamita-hrdaya",
@@ -50,12 +50,30 @@
    ]
   },
   {
+   "id": "prc:lojong",
+   "refs": 88,
+   "e.g.": [
+    "tea:seven-point-mind-training:1.1",
+    "tea:seven-point-mind-training:2.1",
+    "tea:seven-point-mind-training:2.2"
+   ]
+  },
+  {
    "id": "dsp:world-real-or-appearance",
    "refs": 64,
    "e.g.": [
     "tea:bhagavad-gita:2.16",
     "tea:chandogya-upanisad:6.1.4-6",
     "tea:svetasvatara-upanisad:4.9-10"
+   ]
+  },
+  {
+   "id": "lin:tendai",
+   "refs": 60,
+   "e.g.": [
+    "src:renwang-jing",
+    "src:saddharmapundarika",
+    "src:wuliangyi-jing"
    ]
   },
   {
@@ -77,17 +95,8 @@
    ]
   },
   {
-   "id": "lin:gelug",
-   "refs": 49,
-   "e.g.": [
-    "src:bhadracaripranidhana",
-    "src:samdhinirmocana-sutra",
-    "src:vinayasutra-gunaprabha"
-   ]
-  },
-  {
    "id": "lin:huayan",
-   "refs": 47,
+   "refs": 51,
    "e.g.": [
     "src:avatamsaka-sutra",
     "src:dasabhumika-sutra",
@@ -104,21 +113,21 @@
    ]
   },
   {
-   "id": "lin:tendai",
-   "refs": 39,
-   "e.g.": [
-    "src:renwang-jing",
-    "src:saddharmapundarika",
-    "src:wuliangyi-jing"
-   ]
-  },
-  {
    "id": "lin:jagannatha",
    "refs": 34,
    "e.g.": [
     "src:gita-govinda",
     "src:krsnagiti",
     "src:rasikapriya"
+   ]
+  },
+  {
+   "id": "lin:faxiang",
+   "refs": 34,
+   "e.g.": [
+    "src:mahaprajnaparamita-sutra",
+    "src:samdhinirmocana-sutra",
+    "src:xiyu-ji"
    ]
   },
   {
@@ -131,12 +140,12 @@
    ]
   },
   {
-   "id": "lin:faxiang",
-   "refs": 32,
+   "id": "dsp:sudden-or-gradual",
+   "refs": 33,
    "e.g.": [
-    "src:mahaprajnaparamita-sutra",
-    "src:samdhinirmocana-sutra",
-    "src:xiyu-ji"
+    "tea:astavakra-gita:1.14-15",
+    "tea:avatamsaka-sutra:16",
+    "tea:varaha-upanisad:4.34-42"
    ]
   },
   {
@@ -149,15 +158,6 @@
    ]
   },
   {
-   "id": "lin:kagyu",
-   "refs": 31,
-   "e.g.": [
-    "src:bhadracaripranidhana",
-    "src:karandavyuha",
-    "src:samadhiraja-sutra"
-   ]
-  },
-  {
    "id": "pth:yoga-sutra-eight-limbs",
    "refs": 30,
    "e.g.": [
@@ -167,12 +167,12 @@
    ]
   },
   {
-   "id": "dsp:sudden-or-gradual",
-   "refs": 24,
+   "id": "dsp:rangtong-shentong",
+   "refs": 25,
    "e.g.": [
-    "tea:astavakra-gita:1.14-15",
-    "tea:avatamsaka-sutra:16",
-    "tea:varaha-upanisad:4.34-42"
+    "tea:lankavatara-sutra:2.p33",
+    "tea:ratnagotravibhaga:1.154-155",
+    "tea:srimaladevi-sutra:9"
    ]
   },
   {
@@ -186,7 +186,7 @@
   },
   {
    "id": "lin:nichiren",
-   "refs": 22,
+   "refs": 23,
    "e.g.": [
     "src:guan-puxian-jing",
     "src:saddharmapundarika",
@@ -195,7 +195,7 @@
   },
   {
    "id": "lin:shingon",
-   "refs": 20,
+   "refs": 21,
    "e.g.": [
     "src:adhyardhasatika-prajnaparamita",
     "src:prajnaparamita-hrdaya",
@@ -203,12 +203,12 @@
    ]
   },
   {
-   "id": "lin:sakya",
-   "refs": 19,
+   "id": "pth:ten-bhumis",
+   "refs": 20,
    "e.g.": [
     "lin:madhyamaka",
-    "src:ratnagotravibhaga",
-    "src:tshad-ma-rigs-gter"
+    "lin:mahayana",
+    "lin:yogacara"
    ]
   },
   {
@@ -221,26 +221,8 @@
    ]
   },
   {
-   "id": "lin:jonang",
-   "refs": 17,
-   "e.g.": [
-    "src:gyagar-chojung-taranatha",
-    "src:samdhinirmocana-sutra",
-    "src:tathagatagarbha-sutra"
-   ]
-  },
-  {
-   "id": "lin:kadam",
-   "refs": 16,
-   "e.g.": [
-    "src:akasagarbha-sutra",
-    "src:satyadvayavatara",
-    "src:triskandhaka-sutra"
-   ]
-  },
-  {
-   "id": "pth:ten-bhumis",
-   "refs": 16,
+   "id": "pth:five-paths",
+   "refs": 18,
    "e.g.": [
     "lin:madhyamaka",
     "lin:mahayana",
@@ -266,6 +248,15 @@
    ]
   },
   {
+   "id": "pth:three-trainings",
+   "refs": 15,
+   "e.g.": [
+    "lin:early-buddhism",
+    "lin:theravada",
+    "tea:samannaphala-sutta:43-63"
+   ]
+  },
+  {
    "id": "lin:haridasa-karnataka",
    "refs": 14,
    "e.g.": [
@@ -284,21 +275,30 @@
    ]
   },
   {
-   "id": "pth:three-trainings",
-   "refs": 14,
+   "id": "pth:nine-stages-calm-abiding",
+   "refs": 13,
    "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada",
-    "tea:samannaphala-sutta:43-63"
+    "lin:gelug",
+    "lin:yogacara",
+    "tea:bhavanakrama:1/5"
    ]
   },
   {
-   "id": "pth:five-paths",
-   "refs": 14,
+   "id": "pth:mahamudra-four-yogas",
+   "refs": 13,
    "e.g.": [
-    "lin:madhyamaka",
-    "lin:mahayana",
-    "lin:yogacara"
+    "lin:drikung-kagyu",
+    "lin:kagyu",
+    "lin:karma-kagyu"
+   ]
+  },
+  {
+   "id": "pth:three-principal-aspects",
+   "refs": 13,
+   "e.g.": [
+    "lin:gelug",
+    "tea:three-principal-aspects:1-2",
+    "tea:three-principal-aspects:3"
    ]
   },
   {
@@ -329,15 +329,6 @@
    ]
   },
   {
-   "id": "lin:rime",
-   "refs": 12,
-   "e.g.": [
-    "src:ratnagotravibhaga",
-    "src:sugatagarbha-lions-roar-mipham",
-    "src:uttaratantra-commentary-kongtrul"
-   ]
-  },
-  {
    "id": "pth:hatha-four-stages",
    "refs": 12,
    "e.g.": [
@@ -365,24 +356,6 @@
    ]
   },
   {
-   "id": "cpt:sudden-and-gradual",
-   "refs": 12,
-   "e.g.": [
-    "tea:platform-sutra:4.11",
-    "tea:platform-sutra:4.6",
-    "tea:platform-sutra:5.2"
-   ]
-  },
-  {
-   "id": "cpt:shinjin",
-   "refs": 12,
-   "e.g.": [
-    "tea:kyogyoshinsho:preface",
-    "tea:wangsheng-lun-zhu:2.praise-gate",
-    "tea:wangsheng-lun:230c17-20"
-   ]
-  },
-  {
    "id": "pth:jain-fourteen-gunasthanas",
    "refs": 11,
    "e.g.": [
@@ -401,39 +374,12 @@
    ]
   },
   {
-   "id": "cpt:kensho-seeing-nature",
+   "id": "cpt:zhentong",
    "refs": 11,
    "e.g.": [
-    "tea:linji-lu:504c16",
-    "tea:platform-sutra:4.13",
-    "tea:platform-sutra:4.9"
-   ]
-  },
-  {
-   "id": "cpt:mind-only-pure-land",
-   "refs": 11,
-   "e.g.": [
-    "tea:platform-sutra:6.10",
-    "tea:platform-sutra:6.8",
-    "tea:zazen-wasan:closing"
-   ]
-  },
-  {
-   "id": "cpt:oxherding-stages",
-   "refs": 11,
-   "e.g.": [
-    "tea:ten-oxherding-pictures:1",
-    "tea:ten-oxherding-pictures:2",
-    "tea:ten-oxherding-pictures:3"
-   ]
-  },
-  {
-   "id": "cpt:guru-in-vajrayana",
-   "refs": 11,
-   "e.g.": [
-    "tea:dohakosa-saraha:v17-19",
-    "tea:dohakosa-saraha:v19",
-    "tea:dohakosa-saraha:v66"
+    "tea:mountain-doctrine:ground",
+    "tea:mountain-doctrine:ground/2",
+    "tea:taway-shenje:three-views"
    ]
   },
   {
@@ -446,48 +392,21 @@
    ]
   },
   {
-   "id": "cpt:buddha-nature-chan",
+   "id": "dsp:prasangika-svatantrika",
    "refs": 10,
    "e.g.": [
-    "tea:platform-sutra:13.13",
-    "tea:platform-sutra:4.2",
-    "tea:platform-sutra:4.3"
+    "tea:buddhapalita-vrtti:1.1",
+    "tea:catuhsataka:16.25",
+    "tea:mulamadhyamakakarika:1.1"
    ]
   },
   {
-   "id": "cpt:great-doubt",
+   "id": "dsp:sutra-mahamudra",
    "refs": 10,
    "e.g.": [
-    "tea:dahui-yulu:903b29",
-    "tea:wanling-lu:387b13",
-    "tea:wumenguan:1"
-   ]
-  },
-  {
-   "id": "trm:shinian",
-   "refs": 10,
-   "e.g.": [
-    "tea:luelun-anle-jingtu-yi:2b05-17",
-    "tea:sukhavativyuha-larger:skt.vow19",
-    "tea:wangsheng-lun-zhu:1.eight-questions"
-   ]
-  },
-  {
-   "id": "cpt:critique-of-ritual-siddha",
-   "refs": 10,
-   "e.g.": [
-    "tea:dohakosa-saraha:v2-3",
-    "tea:dohakosa-saraha:v4-6",
-    "tea:dohakosa-saraha:v7-9"
-   ]
-  },
-  {
-   "id": "cpt:sandhyabhasa",
-   "refs": 10,
-   "e.g.": [
-    "tea:caryagiti:10",
-    "tea:caryagiti:2",
-    "tea:dohakosa-queen-saraha:v1-2"
+    "tea:ajnasamyakpramana:271a.3",
+    "tea:gampopa-collected-works:sutra-mahamudra",
+    "tea:moonbeams-of-mahamudra:pt.2/9"
    ]
   },
   {
@@ -509,39 +428,12 @@
    ]
   },
   {
-   "id": "pth:nine-stages-calm-abiding",
+   "id": "pth:kalacakra-six-branches",
    "refs": 9,
    "e.g.": [
-    "lin:yogacara",
-    "tea:bhavanakrama:1/5",
-    "tea:madhyantavibhaga:4.3-5"
-   ]
-  },
-  {
-   "id": "prc:zazen",
-   "refs": 9,
-   "e.g.": [
-    "tea:jingde-chuandeng-lu:240c20",
-    "tea:platform-sutra:8.1",
-    "tea:platform-sutra:8.2"
-   ]
-  },
-  {
-   "id": "cpt:koan",
-   "refs": 9,
-   "e.g.": [
-    "tea:wumenguan:1",
-    "tea:wumenguan:3",
-    "tea:wumenguan:preface"
-   ]
-  },
-  {
-   "id": "trm:chengming",
-   "refs": 9,
-   "e.g.": [
-    "tea:dasabhumika-vibhasa:41b13-17",
-    "tea:wangsheng-lun-zhu:2.praise-gate",
-    "tea:wangsheng-lun:231b08-24"
+    "lin:jonang",
+    "lin:kalacakra",
+    "lin:vajrayana"
    ]
   },
   {
@@ -563,48 +455,12 @@
    ]
   },
   {
-   "id": "obs:attachment-to-stillness",
+   "id": "prc:tonglen",
    "refs": 8,
    "e.g.": [
-    "tea:platform-sutra:10.34",
-    "tea:platform-sutra:7.2",
-    "tea:platform-sutra:8.1"
-   ]
-  },
-  {
-   "id": "trm:amitabha",
-   "refs": 8,
-   "e.g.": [
-    "tea:sukhavativyuha-larger:vow12-13",
-    "tea:wangsheng-lun:230c17-20",
-    "tea:zan-amituo-fo-ji:420c18-421a11"
-   ]
-  },
-  {
-   "id": "cpt:three-periods-of-the-dharma",
-   "refs": 8,
-   "e.g.": [
-    "tea:anle-ji:4a26-b03",
-    "tea:anle-ji:4b03-22",
-    "tea:sukhavativyuha-larger:sutra-remains"
-   ]
-  },
-  {
-   "id": "trm:nianfo-sanmei",
-   "refs": 8,
-   "e.g.": [
-    "tea:amitayurdhyana-sutra:9",
-    "tea:anle-ji:5a14",
-    "tea:surangama-sutra:5.mahasthamaprapta"
-   ]
-  },
-  {
-   "id": "cpt:other-power",
-   "refs": 8,
-   "e.g.": [
-    "tea:wangsheng-lun-zhu:1.easy-path",
-    "tea:wangsheng-lun-zhu:2.other-power",
-    "tea:wangsheng-lun:231a24-25"
+    "tea:seven-point-mind-training:2.6",
+    "tea:seven-point-mind-training:2.7",
+    "tea:seven-point-mind-training:2.9"
    ]
   },
   {
@@ -653,75 +509,21 @@
    ]
   },
   {
-   "id": "cpt:mind-to-mind-transmission",
+   "id": "prc:tummo",
    "refs": 7,
    "e.g.": [
-    "tea:platform-sutra-dunhuang:38.1",
-    "tea:platform-sutra:13.11",
-    "tea:platform-sutra:4.15"
+    "tea:bka-dpe-phyi-ma:273b.1/2",
+    "tea:bka-dpe-phyi-ma:273b.3",
+    "tea:karnatantravajrapada:303a.2"
    ]
   },
   {
-   "id": "cpt:practice-and-realization",
+   "id": "dsp:object-of-negation-madhyamaka",
    "refs": 7,
    "e.g.": [
-    "tea:fukanzazengi:complete",
-    "tea:jingde-chuandeng-lu:240c20",
-    "tea:platform-sutra:10.32"
-   ]
-  },
-  {
-   "id": "dsp:koan-or-silent-illumination",
-   "refs": 7,
-   "e.g.": [
-    "tea:mozhao-ming:100a26",
-    "tea:wumenguan:1",
-    "tea:wumenguan:zenzhen"
-   ]
-  },
-  {
-   "id": "cpt:rightly-established-state",
-   "refs": 7,
-   "e.g.": [
-    "tea:dasabhumika-vibhasa:43a09-20",
-    "tea:kyogyoshinsho:shin.cause",
-    "tea:sukhavativyuha-larger:vow11"
-   ]
-  },
-  {
-   "id": "cpt:name-embodies-all-virtues",
-   "refs": 7,
-   "e.g.": [
-    "tea:amitayurdhyana-sutra:closing",
-    "tea:sukhavativyuha-larger:entrustment",
-    "tea:sukhavativyuha-larger:vow17"
-   ]
-  },
-  {
-   "id": "dsp:pure-land-real-or-mind-only",
-   "refs": 7,
-   "e.g.": [
-    "tea:anle-ji:11c08-14",
-    "tea:jingtu-shiyi-lun:78a01-b01",
-    "tea:wangsheng-lun-zhu:2.birth-of-non-birth"
-   ]
-  },
-  {
-   "id": "trm:mahasukha",
-   "refs": 7,
-   "e.g.": [
-    "tea:dohakosa-king-saraha:v7",
-    "tea:dohakosa-saraha:v28-29",
-    "tea:dohakosa-saraha:v45-47"
-   ]
-  },
-  {
-   "id": "trm:prabhasvara",
-   "refs": 7,
-   "e.g.": [
-    "tea:dohakosa-queen-saraha:v62-63",
-    "tea:ganga-mahamudra:v12",
-    "tea:ganga-mahamudra:v6-7"
+    "tea:lamrim-chenmo:insight.object-of-negation",
+    "tea:lamrim-chenmo:insight.too-broad",
+    "tea:lamrim-chenmo:insight.too-narrow"
    ]
   },
   {
@@ -731,24 +533,6 @@
     "src:avatamsaka-sutra",
     "src:gandavyuha",
     "src:vajrasamadhi-sutra"
-   ]
-  },
-  {
-   "id": "tea:susim-kyol:1007a02",
-   "refs": 6,
-   "e.g.": [
-    "src:susim-kyol",
-    "tea:chanyuan-zhuquanji-duxu:402c28",
-    "trm:benlai-mianmu"
-   ]
-  },
-  {
-   "id": "tea:susim-kyol:1008a02",
-   "refs": 6,
-   "e.g.": [
-    "src:susim-kyol",
-    "tea:platform-sutra:11.4",
-    "tea:platform-sutra:7.1"
    ]
   },
   {
@@ -770,174 +554,12 @@
    ]
   },
   {
-   "id": "dsp:prasangika-svatantrika",
+   "id": "cpt:rangtong",
    "refs": 6,
    "e.g.": [
-    "tea:buddhapalita-vrtti:1.1",
-    "tea:catuhsataka:16.25",
-    "tea:mulamadhyamakakarika:1.1"
-   ]
-  },
-  {
-   "id": "cpt:verse-contest",
-   "refs": 6,
-   "e.g.": [
-    "tea:platform-sutra:4.6",
-    "tea:platform-sutra:4.8",
-    "tea:platform-sutra:4.9"
-   ]
-  },
-  {
-   "id": "cpt:chan-death-and-dying",
-   "refs": 6,
-   "e.g.": [
-    "tea:platform-sutra:13.15",
-    "tea:platform-sutra:13.16",
-    "tea:platform-sutra:13.17"
-   ]
-  },
-  {
-   "id": "cpt:everyday-activity-as-the-way",
-   "refs": 6,
-   "e.g.": [
-    "tea:jingde-chuandeng-lu:263b09",
-    "tea:linji-lu:498a16",
-    "tea:zhengdao-ge:396a10"
-   ]
-  },
-  {
-   "id": "prc:shikantaza",
-   "refs": 6,
-   "e.g.": [
-    "tea:fukanzazengi:non-thinking",
-    "tea:jingde-chuandeng-lu:311c27",
-    "tea:rujing-xu-yulu:136c03"
-   ]
-  },
-  {
-   "id": "cpt:five-ranks",
-   "refs": 6,
-   "e.g.": [
-    "tea:baojing-sanmei:515a17",
-    "tea:dongshan-yulu:525c01",
-    "tea:dongshan-yulu:525c09/2"
-   ]
-  },
-  {
-   "id": "cpt:alert-calm-balance",
-   "refs": 6,
-   "e.g.": [
-    "tea:mozhao-ming:100b07",
-    "tea:yongjia-ji:389b29",
-    "tea:yongjia-ji:390c04"
-   ]
-  },
-  {
-   "id": "cpt:numinous-awareness",
-   "refs": 6,
-   "e.g.": [
-    "tea:chanyuan-zhuquanji-duxu:402c28",
-    "tea:chanyuan-zhuquanji-duxu:405b12",
-    "tea:susim-kyol:1007a01"
-   ]
-  },
-  {
-   "id": "cpt:silent-illumination",
-   "refs": 6,
-   "e.g.": [
-    "tea:mozhao-ming:100a26",
-    "tea:mozhao-ming:100b07",
-    "tea:zuochan-zhen-hongzhi:98a29"
-   ]
-  },
-  {
-   "id": "cpt:deathbed-welcome",
-   "refs": 6,
-   "e.g.": [
-    "tea:bhadracaripranidhana:pure-land-aspiration",
-    "tea:sukhavativyuha-larger:skt.vow18",
-    "tea:sukhavativyuha-larger:vow19"
-   ]
-  },
-  {
-   "id": "cpt:two-aspects-of-merit-transfer",
-   "refs": 6,
-   "e.g.": [
-    "tea:sukhavativyuha-larger:vow22",
-    "tea:wangsheng-lun-zhu:2.two-transfers",
-    "tea:wangsheng-lun:233a05-25"
-   ]
-  },
-  {
-   "id": "cpt:easy-and-difficult-practice",
-   "refs": 6,
-   "e.g.": [
-    "tea:dasabhumika-vibhasa:41b02-06",
-    "tea:dasabhumika-vibhasa:41b13-17",
-    "tea:sukhavativyuha-larger:crosswise-cutting"
-   ]
-  },
-  {
-   "id": "cpt:true-and-transformed-lands",
-   "refs": 6,
-   "e.g.": [
-    "tea:dasabhumika-vibhasa:43b18-19",
-    "tea:luelun-anle-jingtu-yi:2a02-17",
-    "tea:sukhavativyuha-larger:womb-birth"
-   ]
-  },
-  {
-   "id": "cpt:ten-recitations",
-   "refs": 6,
-   "e.g.": [
-    "tea:luelun-anle-jingtu-yi:2b05-17",
-    "tea:sukhavativyuha-larger:skt.vow19",
-    "tea:wangsheng-lun-zhu:1.eight-questions"
-   ]
-  },
-  {
-   "id": "trm:tariki",
-   "refs": 6,
-   "e.g.": [
-    "tea:luelun-anle-jingtu-yi:2b05-17",
-    "tea:wangsheng-lun-zhu:1.easy-path",
-    "tea:wangsheng-lun-zhu:2.other-power"
-   ]
-  },
-  {
-   "id": "trm:mofa",
-   "refs": 6,
-   "e.g.": [
-    "tea:anle-ji:13c05-22",
-    "tea:anle-ji:4b03-22",
-    "tea:ojoyoshu:preface"
-   ]
-  },
-  {
-   "id": "dsp:exclusive-nenbutsu-controversy",
-   "refs": 6,
-   "e.g.": [
-    "tea:guanjing-shu:4.two-rivers",
-    "tea:senchakushu:3",
-    "tea:shichikajo-kishomon:articles"
-   ]
-  },
-  {
-   "id": "cpt:four-joys",
-   "refs": 6,
-   "e.g.": [
-    "tea:dohakosa-king-saraha:v27",
-    "tea:dohakosa-saraha:v116",
-    "tea:dohakosa-tilopa:3"
-   ]
-  },
-  {
-   "id": "prc:sadanga-yoga",
-   "refs": 6,
-   "e.g.": [
-    "tea:guhyasamaja-tantra:18.138",
-    "tea:guhyasamaja-tantra:18.139-145",
-    "tea:guhyasamaja-tantra:18.146-149"
+    "tea:mountain-doctrine:two-truths",
+    "tea:taway-shenje:three-views",
+    "tea:twenty-one-differences-taranatha:whole"
    ]
   },
   {
@@ -950,24 +572,6 @@
    ]
   },
   {
-   "id": "tea:susim-kyol:1006c08",
-   "refs": 5,
-   "e.g.": [
-    "src:susim-kyol",
-    "trm:dunwu",
-    "trm:zixing"
-   ]
-  },
-  {
-   "id": "pth:dongshan-five-ranks",
-   "refs": 5,
-   "e.g.": [
-    "lin:caodong",
-    "lin:chan",
-    "tea:baojing-sanmei:515a17"
-   ]
-  },
-  {
    "id": "pth:dogen-practice-realization",
    "refs": 5,
    "e.g.": [
@@ -977,183 +581,66 @@
    ]
   },
   {
-   "id": "pth:hakuin-koan-curriculum",
+   "id": "lin:zhenyan",
    "refs": 5,
    "e.g.": [
-    "lin:rinzai",
-    "lin:zen",
-    "tea:wumenguan:1"
-   ]
-  },
-  {
-   "id": "pth:pancakrama-five-stages",
-   "refs": 5,
-   "e.g.": [
-    "lin:arya-guhyasamaja",
-    "lin:mahasiddha",
-    "lin:vajrayana"
-   ]
-  },
-  {
-   "id": "pth:kalacakra-six-branches",
-   "refs": 5,
-   "e.g.": [
-    "lin:kalacakra",
     "lin:vajrayana",
-    "tea:guhyasamaja-tantra:18.138"
+    "tch:amoghavajra",
+    "tch:subhakarasimha"
    ]
   },
   {
-   "id": "dsp:rangtong-shentong",
+   "id": "pth:dzogchen-four-visions",
    "refs": 5,
    "e.g.": [
-    "tea:lankavatara-sutra:2.p33",
-    "tea:ratnagotravibhaga:1.154-155",
-    "tea:srimaladevi-sutra:9"
+    "lin:dzogchen",
+    "lin:nyingma",
+    "tea:tegchok-dzod:trekcho-togal"
    ]
   },
   {
-   "id": "cpt:chan-precepts",
+   "id": "pth:parting-from-four-attachments",
    "refs": 5,
    "e.g.": [
-    "tea:platform-sutra:4.17",
-    "tea:platform-sutra:6.15",
-    "tea:platform-sutra:9.4"
+    "lin:sakya",
+    "tea:parting-from-four-attachments:1",
+    "tea:parting-from-four-attachments:2"
    ]
   },
   {
-   "id": "prc:samu",
+   "id": "pth:lamrim-three-scopes",
    "refs": 5,
    "e.g.": [
-    "tea:chanmen-guishi:251a04",
-    "tea:chixiu-baizhang-qinggui:1119b01",
-    "tea:chixiu-baizhang-qinggui:1144a27"
+    "lin:gelug",
+    "lin:kadam",
+    "tea:bodhipathapradipa:v2-5"
    ]
   },
   {
-   "id": "cpt:true-person-of-no-rank",
+   "id": "tea:bhagavad-gita:18.57",
    "refs": 5,
    "e.g.": [
-    "tea:linji-lu:496c10",
-    "tea:linji-lu:497a29",
-    "tea:linji-lu:497c04"
+    "tea:bhagavad-gita:12.6-7",
+    "tea:bhagavad-gita:3.30",
+    "tea:bhagavad-gita:9.27"
    ]
   },
   {
-   "id": "cpt:linji-devices",
+   "id": "prc:resting-in-ordinary-mind",
    "refs": 5,
    "e.g.": [
-    "tea:linji-lu:497a19",
-    "tea:linji-lu:497a22",
-    "tea:linji-lu:504a26"
+    "tea:acintyamahamudra:246a.4",
+    "tea:gampopa-collected-works:ordinary-mind",
+    "tea:karnatantravajrapada:303b.6"
    ]
   },
   {
-   "id": "obs:torpor-and-scattering",
+   "id": "src:discrimination-of-the-three-vows",
    "refs": 5,
    "e.g.": [
-    "tea:mozhao-ming:100b07",
-    "tea:yongjia-ji:389b29",
-    "tea:yongjia-ji:390c04"
-   ]
-  },
-  {
-   "id": "trm:zhengding-ju",
-   "refs": 5,
-   "e.g.": [
-    "tea:kyogyoshinsho:shin.cause",
-    "tea:sukhavativyuha-larger:vow11",
-    "tea:wangsheng-lun-zhu:1.easy-path"
-   ]
-  },
-  {
-   "id": "trm:minghao",
-   "refs": 5,
-   "e.g.": [
-    "tea:sukhavativyuha-larger:entrustment",
-    "tea:sukhavativyuha-larger:vow17",
-    "tea:sukhavativyuha-larger:vow20"
-   ]
-  },
-  {
-   "id": "trm:genso-eko",
-   "refs": 5,
-   "e.g.": [
-    "tea:sukhavativyuha-larger:vow22",
-    "tea:wangsheng-lun-zhu:2.two-transfers",
-    "tea:wangsheng-lun:233a05-25"
-   ]
-  },
-  {
-   "id": "cpt:loathing-this-world-seeking-the-pure-land",
-   "refs": 5,
-   "e.g.": [
-    "tea:amitayurdhyana-sutra:intro.1",
-    "tea:anle-ji:7a25-b02",
-    "tea:jingtu-shiyi-lun:80b30"
-   ]
-  },
-  {
-   "id": "cpt:ordinary-being-fanfu",
-   "refs": 5,
-   "e.g.": [
-    "tea:amitayurdhyana-sutra:intro.4",
-    "tea:guanjing-shu:1.reward-land",
-    "tea:shozomatsu-wasan:lament"
-   ]
-  },
-  {
-   "id": "cpt:chan-pure-land-dual-cultivation",
-   "refs": 5,
-   "e.g.": [
-    "tea:jingtu-huowen:295a13",
-    "tea:jingtu-yibian:420a11-22",
-    "tea:wanshan-tonggui-ji:966b26-c10"
-   ]
-  },
-  {
-   "id": "cpt:neither-monk-nor-layman",
-   "refs": 5,
-   "e.g.": [
-    "tea:kurodani-shonin-gotoroku:how-to-live",
-    "tea:kyogyoshinsho:keshindo.gods",
-    "tea:kyogyoshinsho:postscript"
-   ]
-  },
-  {
-   "id": "cpt:union-of-wisdom-and-means",
-   "refs": 5,
-   "e.g.": [
-    "tea:dohakosa-queen-saraha:v62-63",
-    "tea:dohakosa-saraha:v130-133",
-    "tea:dohakosa-saraha:v15-17"
-   ]
-  },
-  {
-   "id": "cpt:buddhist-subtle-body",
-   "refs": 5,
-   "e.g.": [
-    "tea:dohakosa-saraha:v26-27",
-    "tea:saddharmopadesa-tilopa:1",
-    "tea:sekoddesa:46-50"
-   ]
-  },
-  {
-   "id": "cpt:nature-of-mind-siddha",
-   "refs": 5,
-   "e.g.": [
-    "tea:dohakosa-king-saraha:v18",
-    "tea:dohakosa-saraha:v42-43",
-    "tea:dohakosa-saraha:v44-45"
-   ]
-  },
-  {
-   "id": "cpt:passions-as-path",
-   "refs": 5,
-   "e.g.": [
-    "tea:cittavisuddhiprakarana:18",
-    "tea:cittavisuddhiprakarana:6",
-    "tea:manjusrinamasamgiti:30"
+    "tea:discrimination-of-the-three-vows:ch.3",
+    "tea:discrimination-of-the-three-vows:ch.3/2",
+    "trm:karpo-chiktub"
    ]
   },
   {
@@ -1193,39 +680,12 @@
    ]
   },
   {
-   "id": "pth:jodo-shu-anjin-kigyo-sagyo",
+   "id": "pth:six-yogas-of-naropa-sequence",
    "refs": 4,
    "e.g.": [
-    "lin:jodo-shu",
-    "tea:wangsheng-lizan:438c01-13",
-    "tea:wangsheng-lizan:439a08-23"
-   ]
-  },
-  {
-   "id": "lin:shangpa-kagyu",
-   "refs": 4,
-   "e.g.": [
-    "lin:mahasiddha",
-    "lin:vajrayana",
-    "tch:niguma"
-   ]
-  },
-  {
-   "id": "lin:zhenyan",
-   "refs": 4,
-   "e.g.": [
-    "lin:vajrayana",
-    "tch:amoghavajra",
-    "tch:subhakarasimha"
-   ]
-  },
-  {
-   "id": "tch:marpa",
-   "refs": 4,
-   "e.g.": [
-    "tch:kukkuripa",
-    "tch:maitripa",
-    "tch:naropa"
+    "lin:drukpa-kagyu",
+    "lin:kagyu",
+    "tea:bka-dpe-phyi-ma:275a.1"
    ]
   },
   {
@@ -1238,363 +698,30 @@
    ]
   },
   {
-   "id": "cpt:great-matter-birth-death",
+   "id": "prc:taking-adversity-as-path",
    "refs": 4,
    "e.g.": [
-    "tea:platform-sutra:10.33",
-    "tea:platform-sutra:4.4",
-    "tea:wumenguan:47"
+    "tea:bodhisattvamanyavali:v15-18",
+    "tea:seven-point-mind-training:3.1",
+    "tea:seven-point-mind-training:3.6"
    ]
   },
   {
-   "id": "cpt:original-face",
+   "id": "prc:kadam-daily-conduct",
    "refs": 4,
    "e.g.": [
-    "tea:platform-sutra:4.16",
-    "tea:susim-kyol:1007a01",
-    "tea:wumenguan:23"
+    "tea:caryasamgrahapradipa:v10-13",
+    "tea:caryasamgrahapradipa:v4-8",
+    "tea:caryasamgrahapradipa:v9-10"
    ]
   },
   {
-   "id": "cpt:non-duality-chan",
+   "id": "trm:zhentong",
    "refs": 4,
    "e.g.": [
-    "tea:platform-sutra:4.18",
-    "tea:xinxin-ming:376b20",
-    "tea:xinxin-ming:376c05"
-   ]
-  },
-  {
-   "id": "obs:blank-emptiness",
-   "refs": 4,
-   "e.g.": [
-    "tea:platform-sutra:13.8",
-    "tea:platform-sutra:5.1",
-    "tea:platform-sutra:7.3"
-   ]
-  },
-  {
-   "id": "cpt:no-thought-no-form-non-abiding",
-   "refs": 4,
-   "e.g.": [
-    "tea:platform-sutra-dunhuang:17.1",
-    "tea:platform-sutra:7.3",
-    "tea:xianzong-ji:458c26"
-   ]
-  },
-  {
-   "id": "cpt:three-bodies-in-self-nature",
-   "refs": 4,
-   "e.g.": [
-    "tea:linji-lu:497b17",
-    "tea:platform-sutra:10.16",
-    "tea:platform-sutra:9.5"
-   ]
-  },
-  {
-   "id": "cpt:words-and-letters",
-   "refs": 4,
-   "e.g.": [
-    "tea:biyan-lu:12",
-    "tea:platform-sutra:10.11",
-    "tea:platform-sutra:13.1"
-   ]
-  },
-  {
-   "id": "cpt:ordinary-mind",
-   "refs": 4,
-   "e.g.": [
-    "tea:jingde-chuandeng-lu:440a03",
-    "tea:linji-lu:498a16",
-    "tea:wumenguan:19"
-   ]
-  },
-  {
-   "id": "cpt:no-mind",
-   "refs": 4,
-   "e.g.": [
-    "tea:chuanxin-fayao:380a13",
-    "tea:chuanxin-fayao:380b02",
-    "tea:jinsim-jikseol:1001a17"
-   ]
-  },
-  {
-   "id": "cpt:five-houses",
-   "refs": 4,
-   "e.g.": [
-    "tea:rentian-yanmu:312a07",
-    "tea:rentian-yanmu:324a01",
-    "tea:yangshan-yulu:582a19"
-   ]
-  },
-  {
-   "id": "prc:koan-introspection",
-   "refs": 4,
-   "e.g.": [
-    "tea:enzan-wadei-gassui-shu:who-hears",
-    "tea:orategama:activity",
-    "tea:wumenguan:1"
-   ]
-  },
-  {
-   "id": "prc:huatou",
-   "refs": 4,
-   "e.g.": [
-    "tea:dahui-yulu:903b29",
-    "tea:dahui-yulu:921c05",
-    "tea:wumenguan:1"
-   ]
-  },
-  {
-   "id": "cpt:post-awakening-practice",
-   "refs": 4,
-   "e.g.": [
-    "tea:itsumadegusa:bell",
-    "tea:shumon-mujinto-ron:stages",
-    "tea:wumenguan:46"
-   ]
-  },
-  {
-   "id": "prc:silent-illumination",
-   "refs": 4,
-   "e.g.": [
-    "tea:mozhao-ming:100a26",
-    "tea:mozhao-ming:100b07",
-    "tea:zuochan-zhen-hongzhi:98a29"
-   ]
-  },
-  {
-   "id": "trm:benyuan",
-   "refs": 4,
-   "e.g.": [
-    "tea:dasabhumika-vibhasa:43a09-20",
-    "tea:sukhavativyuha-larger:vow11",
-    "tea:wangsheng-lizan:447c23-26"
-   ]
-  },
-  {
-   "id": "trm:raigo",
-   "refs": 4,
-   "e.g.": [
-    "tea:guannian-famen:24b21-c04",
-    "tea:sukhavativyuha-larger:skt.vow18",
-    "tea:sukhavativyuha-larger:vow19"
-   ]
-  },
-  {
-   "id": "trm:huixiang",
-   "refs": 4,
-   "e.g.": [
-    "tea:sukhavativyuha-larger:vow20",
-    "tea:wangsheng-lun:231b08-24",
-    "tea:wangsheng-lun:232c03-233a04"
-   ]
-  },
-  {
-   "id": "trm:taisheng",
-   "refs": 4,
-   "e.g.": [
-    "tea:luelun-anle-jingtu-yi:2a02-17",
-    "tea:sukhavativyuha-larger:skt.womb",
-    "tea:sukhavativyuha-larger:womb-birth"
-   ]
-  },
-  {
-   "id": "obs:doubt-of-buddha-wisdom",
-   "refs": 4,
-   "e.g.": [
-    "tea:dasabhumika-vibhasa:43b18-19",
-    "tea:sukhavativyuha-larger:skt.womb",
-    "tea:sukhavativyuha-larger:womb-birth"
-   ]
-  },
-  {
-   "id": "cpt:seeing-the-buddha",
-   "refs": 4,
-   "e.g.": [
-    "tea:amitayurdhyana-sutra:closing/2",
-    "tea:dasheng-dayi-zhang:pratyutpanna-question",
-    "tea:shi-jingtu-qunyi-lun:76c02"
-   ]
-  },
-  {
-   "id": "cpt:twenty-nine-adornments",
-   "refs": 4,
-   "e.g.": [
-    "tea:wangsheng-lun:230c21-22",
-    "tea:wangsheng-lun:231a14",
-    "tea:wangsheng-lun:231b24-232b04"
-   ]
-  },
-  {
-   "id": "cpt:birth-of-non-birth",
-   "refs": 4,
-   "e.g.": [
-    "tea:anle-ji:11c08-14",
-    "tea:jingtu-shiyi-lun:78a01-b01",
-    "tea:wangsheng-lun-zhu:2.birth-of-non-birth"
-   ]
-  },
-  {
-   "id": "dsp:self-power-or-other-power",
-   "refs": 4,
-   "e.g.": [
-    "tea:anle-ji:13c05-22",
-    "tea:honen-shonin-gyojo-ezu:ohara",
-    "tea:wangsheng-lun-zhu:2.other-power"
-   ]
-  },
-  {
-   "id": "cpt:non-retrogression-in-the-pure-land",
-   "refs": 4,
-   "e.g.": [
-    "tea:anle-ji:9b22-c09",
-    "tea:jingtu-shiyi-lun:77b23",
-    "tea:jingtu-shiyi-lun:79b03"
-   ]
-  },
-  {
-   "id": "cpt:deathbed-practice",
-   "refs": 4,
-   "e.g.": [
-    "tea:anle-ji:11b19-29",
-    "tea:guannian-famen:24b21-c04",
-    "tea:yinguang-wenchao:deathbed-three-essentials"
-   ]
-  },
-  {
-   "id": "prc:deathbed-rites",
-   "refs": 4,
-   "e.g.": [
-    "tea:anle-ji:11b19-29",
-    "tea:guannian-famen:24b21-c04",
-    "tea:yinguang-wenchao:deathbed-three-essentials"
-   ]
-  },
-  {
-   "id": "cpt:two-gates-holy-path-pure-land",
-   "refs": 4,
-   "e.g.": [
-    "tea:anle-ji:13c05-22",
-    "tea:senchakushu:1",
-    "tea:senchakushu:16"
-   ]
-  },
-  {
-   "id": "cpt:three-minds-contemplation-sutra",
-   "refs": 4,
-   "e.g.": [
-    "tea:guanjing-shu:4.sincere-mind",
-    "tea:senchakushu:8",
-    "tea:wangsheng-lizan:438c01-13"
-   ]
-  },
-  {
-   "id": "cpt:exclusive-and-miscellaneous-practice",
-   "refs": 4,
-   "e.g.": [
-    "tea:guanjing-shu:4.rightly-determined-act",
-    "tea:shi-jingtu-qunyi-lun:50c07",
-    "tea:wangsheng-lizan:439b17-c08"
-   ]
-  },
-  {
-   "id": "trm:zhengding-ye",
-   "refs": 4,
-   "e.g.": [
-    "tea:guanjing-shu:4.rightly-determined-act",
-    "tea:senchakushu:16",
-    "tea:senchakushu:2"
-   ]
-  },
-  {
-   "id": "cpt:selected-primal-vow",
-   "refs": 4,
-   "e.g.": [
-    "tea:guanjing-shu:4.buddha-intent",
-    "tea:senchakushu:3",
-    "tea:senchakushu:4"
-   ]
-  },
-  {
-   "id": "trm:namu-amida-butsu",
-   "refs": 4,
-   "e.g.": [
-    "tea:ichimai-kishomon:whole",
-    "ult:jodo-shinshu",
-    "ult:jodo-shu"
-   ]
-  },
-  {
-   "id": "trm:shinjin",
-   "refs": 4,
-   "e.g.": [
-    "tea:jodo-wasan:shinjin-buddha-nature",
-    "tea:kyogyoshinsho:shin.cause",
-    "tea:shoshinge:opening"
-   ]
-  },
-  {
-   "id": "cpt:tantric-bhumis",
-   "refs": 4,
-   "e.g.": [
-    "tea:dohakosa-queen-saraha:v8-9",
-    "tea:dohakosa-queen-saraha:v81-82",
-    "tea:dohakosa-saraha:v110"
-   ]
-  },
-  {
-   "id": "cpt:abhiseka-four",
-   "refs": 4,
-   "e.g.": [
-    "tea:bodhipathapradipa:62-64",
-    "tea:dohakosa-queen-saraha:v15-17",
-    "tea:sekoddesa:15-22"
-   ]
-  },
-  {
-   "id": "cpt:vratacarya",
-   "refs": 4,
-   "e.g.": [
-    "tea:dohakosa-queen-saraha:v40-52",
-    "tea:guhyasamaja-tantra:5.3-9",
-    "tea:pancakrama:5.29-35"
-   ]
-  },
-  {
-   "id": "dsp:literal-or-symbolic-tantric-conduct",
-   "refs": 4,
-   "e.g.": [
-    "tea:guhyasamaja-tantra:5.3-9",
-    "tea:jnanasiddhi:p58",
-    "tea:pancakrama:5.29-35"
-   ]
-  },
-  {
-   "id": "cpt:yuganaddha",
-   "refs": 4,
-   "e.g.": [
-    "tea:pancakrama:5.11-13",
-    "tea:pancakrama:5.2-5",
-    "tea:pancakrama:5.7"
-   ]
-  },
-  {
-   "id": "trm:advayajnana",
-   "refs": 4,
-   "e.g.": [
-    "tea:pancakrama:5.25",
-    "ult:arya-guhyasamaja",
-    "ult:vajrayana"
-   ]
-  },
-  {
-   "id": "cpt:empty-form",
-   "refs": 4,
-   "e.g.": [
-    "tea:sekoddesa:146",
-    "tea:sekoddesa:24-27",
-    "tea:sekoddesa:28"
+    "tea:mountain-doctrine:ground",
+    "tea:mountain-doctrine:two-truths",
+    "tea:zhentong-nyingpo-taranatha:three-natures"
    ]
   },
   {
@@ -1604,33 +731,6 @@
     "lin:kalikula",
     "lin:sakta",
     "src:candimangala"
-   ]
-  },
-  {
-   "id": "tea:dahui-shu:921c09",
-   "refs": 3,
-   "e.g.": [
-    "src:dahui-shu",
-    "tea:dahui-yulu:921c05",
-    "trm:wu-mu"
-   ]
-  },
-  {
-   "id": "tea:susim-kyol:1006b16",
-   "refs": 3,
-   "e.g.": [
-    "src:susim-kyol",
-    "trm:dunwu-jianxiu",
-    "trm:jianxiu"
-   ]
-  },
-  {
-   "id": "tea:kuntuzangpo-monlam:1",
-   "refs": 3,
-   "e.g.": [
-    "src:kuntuzangpo-monlam",
-    "ult:dzogchen",
-    "ult:nyingma"
    ]
   },
   {
@@ -1661,498 +761,138 @@
    ]
   },
   {
-   "id": "pth:dongshan-five-ranks-of-merit",
+   "id": "tch:kalu-rinpoche",
    "refs": 3,
    "e.g.": [
-    "lin:caodong",
-    "lin:chan",
-    "tea:dongshan-yulu:525c09/2"
+    "lin:kagyu",
+    "lin:karma-kagyu",
+    "lin:shangpa-kagyu"
    ]
   },
   {
-   "id": "pth:vasubandhu-five-gates",
+   "id": "pth:four-dharmas-of-gampopa",
    "refs": 3,
    "e.g.": [
-    "lin:pure-land",
-    "tea:wangsheng-lun:231b08-24",
-    "tea:wangsheng-lun:233a05-25"
+    "cpt:four-dharmas-of-gampopa",
+    "lin:kagyu",
+    "tea:four-dharmas-of-gampopa:1-4"
    ]
   },
   {
-   "id": "cpt:samadhi-prajna-unity",
+   "id": "pth:moonbeams-mahamudra-stages",
    "refs": 3,
    "e.g.": [
-    "tea:platform-sutra:7.1",
-    "tea:susim-kyol:1008a06",
-    "trm:dinghui-dengchi"
+    "lin:kagyu",
+    "lin:karma-kagyu",
+    "tea:ocean-of-definitive-meaning:structure"
    ]
   },
   {
-   "id": "prc:yixing-sanmei",
+   "id": "pth:lamdre-three-visions",
    "refs": 3,
    "e.g.": [
-    "tea:platform-sutra-dunhuang:14.1",
-    "tea:platform-sutra:13.6",
-    "tea:platform-sutra:7.2"
+    "lin:sakya",
+    "tea:lamdre:139a.7",
+    "tea:three-visions-ngorchen:structure"
    ]
   },
   {
-   "id": "cpt:zazen-redefined",
+   "id": "pth:lamdre-vajra-verses-grounds",
    "refs": 3,
    "e.g.": [
-    "tea:platform-sutra:10.34",
-    "tea:platform-sutra:8.1",
-    "tea:platform-sutra:8.2"
+    "lin:sakya",
+    "tea:lamdre:141b.2",
+    "tea:lamdre:142b.5"
    ]
   },
   {
-   "id": "dsp:seon-sudden-cultivation-debate",
+   "id": "pth:seven-point-cause-and-effect",
    "refs": 3,
    "e.g.": [
-    "tea:platform-sutra:11.7",
-    "tea:seonmun-jeongno:donodonsu",
-    "tea:susim-kyol:1006b15"
+    "lin:gelug",
+    "lin:kadam",
+    "tea:lamrim-chenmo:great.seven-point"
    ]
   },
   {
-   "id": "cpt:two-entrances",
+   "id": "tea:bhagavad-gita:15.16",
    "refs": 3,
    "e.g.": [
-    "tea:two-entrances-four-practices:369c21",
-    "tea:two-entrances-four-practices:369c25",
-    "tea:xu-gaoseng-zhuan:551b27"
+    "tea:bhagavad-gita:12.3",
+    "tea:bhagavad-gita:12.3-4",
+    "tea:bhagavad-gita:8.4"
    ]
   },
   {
-   "id": "prc:biguan",
+   "id": "tea:bhagavad-gita:14.25",
    "refs": 3,
    "e.g.": [
-    "tea:jingde-chuandeng-lu:219a26",
-    "tea:two-entrances-four-practices:369c21",
-    "tea:xu-gaoseng-zhuan:551b27"
+    "tea:bhagavad-gita:12.16",
+    "tea:bhagavad-gita:12.18",
+    "tea:bhagavad-gita:12.18-19"
    ]
   },
   {
-   "id": "cpt:one-mind-chan",
+   "id": "prc:illusory-body-yoga",
    "refs": 3,
    "e.g.": [
-    "tea:chuanxin-fayao:379c18",
-    "tea:zongjing-lu:415a18",
-    "trm:yixin"
+    "tea:bka-dpe-phyi-ma:273b.7",
+    "tea:bka-dpe-phyi-ma:275a.1",
+    "tea:karnatantravajrapada:303a.4"
    ]
   },
   {
-   "id": "prc:huiguang-fanzhao",
+   "id": "obs:dualistic-grasping",
    "refs": 3,
    "e.g.": [
-    "tea:linji-lu:502a12",
-    "tea:susim-kyol:1007a08",
-    "tea:susim-kyol:1007a21"
+    "tea:drstisamksipta:245a.6",
+    "tea:karnatantravajrapada:303a.4",
+    "tea:karnatantravajrapada:304a.2"
    ]
   },
   {
-   "id": "cpt:genjokoan-realized-koan",
+   "id": "obs:clinging-to-nyam",
    "refs": 3,
    "e.g.": [
-    "tea:genjokoan:opening",
-    "tea:genjokoan:to-study-the-self",
-    "trm:genjokoan"
+    "tea:bka-dpe-phyi-ma:276a.5",
+    "tea:milarepa-gurbum:gampopa-meeting",
+    "tea:moonbeams-of-mahamudra:pt.2/5"
    ]
   },
   {
-   "id": "cpt:being-time",
+   "id": "prc:looking-at-the-mind",
    "refs": 3,
    "e.g.": [
-    "tea:genjokoan:firewood-and-ash",
-    "tea:uji:being-time",
-    "trm:uji"
+    "tea:aspiration-prayer-of-mahamudra:samatha-vipasyana",
+    "tea:moonbeams-of-mahamudra:pt.2/4",
+    "tea:ocean-of-definitive-meaning:stillness-movement"
    ]
   },
   {
-   "id": "cpt:the-unborn",
+   "id": "dsp:three-vows-one-essence",
    "refs": 3,
    "e.g.": [
-    "tea:bankei-zenji-seppo:no-koan",
-    "tea:bankei-zenji-seppo:unborn",
-    "trm:fusho"
+    "cpt:three-vows",
+    "tea:discrimination-of-the-three-vows:ch.3/2",
+    "tea:gongchig:three-vows"
    ]
   },
   {
-   "id": "obs:zen-sickness",
+   "id": "prc:lamrim-meditation",
    "refs": 3,
    "e.g.": [
-    "tea:yasenkanna:naikan",
-    "tea:yasenkanna:soft-butter",
-    "tea:yasenkanna:zen-sickness"
+    "tea:lamrim-chenmo:intro.leisure-and-endowment",
+    "tea:lamrim-chenmo:intro.meditation-sessions",
+    "tea:lamrim-chenmo:middle.suffering"
    ]
   },
   {
-   "id": "cpt:twelve-lights",
+   "id": "trm:dondam-denpa",
    "refs": 3,
    "e.g.": [
-    "tea:kyogyoshinsho:shinbutsudo",
-    "tea:sukhavativyuha-larger:vow12-13",
-    "tea:zan-amituo-fo-ji:420c18-421a11"
-   ]
-  },
-  {
-   "id": "cpt:three-vows-turning",
-   "refs": 3,
-   "e.g.": [
-    "tea:kyogyoshinsho:keshindo.three-vows",
-    "tea:sukhavativyuha-larger:vow19",
-    "tea:sukhavativyuha-larger:vow20"
-   ]
-  },
-  {
-   "id": "trm:ocho",
-   "refs": 3,
-   "e.g.": [
-    "tea:gutoku-sho:two-pairs-four-levels",
-    "tea:kyogyoshinsho:shin.cause",
-    "tea:sukhavativyuha-larger:crosswise-cutting"
-   ]
-  },
-  {
-   "id": "cpt:difficulty-of-faith",
-   "refs": 3,
-   "e.g.": [
-    "tea:shoshinge:pundarika",
-    "tea:sukhavativyuha-larger:hardest-of-hard",
-    "tea:sukhavativyuha-larger:verse-arrogance"
-   ]
-  },
-  {
-   "id": "trm:yinian",
-   "refs": 3,
-   "e.g.": [
-    "tea:ichinen-tanen-mon-i:conclusion",
-    "tea:kurodani-shonin-gotoroku:one-calling-letter",
-    "tea:sukhavativyuha-larger:entrustment"
-   ]
-  },
-  {
-   "id": "dsp:one-calling-or-many-calling",
-   "refs": 3,
-   "e.g.": [
-    "tea:ichinen-tanen-mon-i:conclusion",
-    "tea:kurodani-shonin-gotoroku:one-calling-letter",
-    "tea:sukhavativyuha-larger:entrustment"
-   ]
-  },
-  {
-   "id": "trm:fanfu",
-   "refs": 3,
-   "e.g.": [
-    "tea:amitayurdhyana-sutra:intro.4",
-    "tea:guanjing-shu:1.reward-land",
-    "tea:shozomatsu-wasan:lament"
-   ]
-  },
-  {
-   "id": "cpt:embraced-never-abandoned",
-   "refs": 3,
-   "e.g.": [
-    "tea:amitayurdhyana-sutra:9",
-    "tea:ojoyoshu:4",
-    "tea:tannisho:1"
-   ]
-  },
-  {
-   "id": "trm:xinxin",
-   "refs": 3,
-   "e.g.": [
-    "tea:dasabhumika-vibhasa:43b18-19",
-    "tea:longshu-jingtu-wen:251a05",
-    "tea:wangsheng-lun-zhu:2.praise-gate"
-   ]
-  },
-  {
-   "id": "cpt:five-gates-of-mindfulness",
-   "refs": 3,
-   "e.g.": [
-    "tea:wangsheng-lun:231b08-24",
-    "tea:wangsheng-lun:232c03-233a04",
-    "tea:wangsheng-lun:233a05-25"
-   ]
-  },
-  {
-   "id": "prc:five-gates-of-mindfulness",
-   "refs": 3,
-   "e.g.": [
-    "tea:ojoyoshu:4",
-    "tea:wangsheng-lun:231b08-24",
-    "tea:wangsheng-lun:231b24-232b04"
-   ]
-  },
-  {
-   "id": "cpt:two-dharmakayas",
-   "refs": 3,
-   "e.g.": [
-    "tea:wangsheng-lun-zhu:2.dharmakaya",
-    "tea:wangsheng-lun:232b22-25",
-    "tea:yuishinsho-mon-i:tathagata-fills-world"
-   ]
-  },
-  {
-   "id": "obs:slander-of-the-dharma",
-   "refs": 3,
-   "e.g.": [
-    "tea:guanjing-shu:4.restraint-gate",
-    "tea:kyogyoshinsho:shin.ajatasatru",
-    "tea:wangsheng-lun-zhu:1.eight-questions"
-   ]
-  },
-  {
-   "id": "dsp:can-grave-offenders-be-born",
-   "refs": 3,
-   "e.g.": [
-    "tea:guanjing-shu:4.restraint-gate",
-    "tea:kyogyoshinsho:shin.ajatasatru",
-    "tea:wangsheng-lun-zhu:1.eight-questions"
-   ]
-  },
-  {
-   "id": "trm:wusheng-zhi-sheng",
-   "refs": 3,
-   "e.g.": [
-    "tea:anle-ji:11c08-14",
-    "tea:jingtu-shiyi-lun:78a01-b01",
-    "tea:wangsheng-lun-zhu:2.birth-of-non-birth"
-   ]
-  },
-  {
-   "id": "trm:jiriki",
-   "refs": 3,
-   "e.g.": [
-    "tea:kyogyoshinsho:keshindo.three-vows",
-    "tea:tannisho:3",
-    "tea:wangsheng-lun-zhu:2.other-power"
-   ]
-  },
-  {
-   "id": "cpt:self-power",
-   "refs": 3,
-   "e.g.": [
-    "tea:kyogyoshinsho:keshindo.three-vows",
-    "tea:tannisho:3",
-    "tea:wangsheng-lun-zhu:2.other-power"
-   ]
-  },
-  {
-   "id": "prc:zhunian",
-   "refs": 3,
-   "e.g.": [
-    "tea:anle-ji:11b19-29",
-    "tea:guannian-famen:24b21-c04",
-    "tea:yinguang-wenchao:deathbed-three-essentials"
-   ]
-  },
-  {
-   "id": "trm:anjin",
-   "refs": 3,
-   "e.g.": [
-    "tea:ichimai-kishomon:whole",
-    "tea:senchakushu:8",
-    "tea:wangsheng-lizan:438c01-13"
-   ]
-  },
-  {
-   "id": "cpt:two-kinds-of-deep-entrusting",
-   "refs": 3,
-   "e.g.": [
-    "tea:guanjing-shu:4.two-deep-minds",
-    "tea:senchakushu:8",
-    "tea:wangsheng-lizan:438c01-13"
-   ]
-  },
-  {
-   "id": "trm:zaxing",
-   "refs": 3,
-   "e.g.": [
-    "tea:guanjing-shu:4.rightly-determined-act",
-    "tea:senchakushu:2",
-    "tea:wangsheng-lizan:439b17-c08"
-   ]
-  },
-  {
-   "id": "cpt:ten-benefits-in-present-life",
-   "refs": 3,
-   "e.g.": [
-    "tea:guannian-famen:24c18-22",
-    "tea:jodo-wasan:genze-riyaku",
-    "tea:kyogyoshinsho:shin.ten-benefits"
-   ]
-  },
-  {
-   "id": "cpt:five-right-practices",
-   "refs": 3,
-   "e.g.": [
-    "tea:guanjing-shu:4.rightly-determined-act",
-    "tea:senchakushu:16",
-    "tea:senchakushu:2"
-   ]
-  },
-  {
-   "id": "dsp:chan-pure-land-dual-practice",
-   "refs": 3,
-   "e.g.": [
-    "tea:jingtu-yibian:420a11-22",
-    "tea:jingtu-yibian:420b15-28",
-    "tea:wanshan-tonggui-ji:966b26-c10"
-   ]
-  },
-  {
-   "id": "obs:licensed-evil",
-   "refs": 3,
-   "e.g.": [
-    "tea:mattosho:antidote",
-    "tea:shichikajo-kishomon:articles",
-    "tea:tannisho:13"
-   ]
-  },
-  {
-   "id": "trm:jinen-honi",
-   "refs": 3,
-   "e.g.": [
-    "tea:mattosho:5",
-    "tea:tannisho:10",
-    "ult:jodo-shinshu"
-   ]
-  },
-  {
-   "id": "trm:avadhuti",
-   "refs": 3,
-   "e.g.": [
-    "tea:dohakosa-saraha:v26-27",
-    "tea:hevajra-tantra:1.1.channels",
-    "tea:sekoddesa:46-50"
-   ]
-  },
-  {
-   "id": "cpt:body-as-pitha",
-   "refs": 3,
-   "e.g.": [
-    "tea:cakrasamvara-tantra:pitha-list",
-    "tea:dohakosa-saraha:v57-59",
-    "tea:hevajra-tantra:1.7"
-   ]
-  },
-  {
-   "id": "cpt:buddha-in-the-body",
-   "refs": 3,
-   "e.g.": [
-    "tea:advayasiddhi:summary",
-    "tea:dohakosa-saraha:v110",
-    "tea:dohakosa-saraha:v82"
-   ]
-  },
-  {
-   "id": "trm:sahajananda",
-   "refs": 3,
-   "e.g.": [
-    "tea:dohakosa-saraha:v116",
-    "tea:dohakosa-tilopa:3",
-    "tea:sekoddesa:80-82"
-   ]
-  },
-  {
-   "id": "cpt:karmamudra",
-   "refs": 3,
-   "e.g.": [
-    "tea:dohakosa-king-saraha:v21",
-    "tea:dohakosa-queen-saraha:v40-52",
-    "tea:ganga-mahamudra:v26-27"
-   ]
-  },
-  {
-   "id": "trm:caturmudra",
-   "refs": 3,
-   "e.g.": [
-    "tea:caturmudra-advayavajra:1-4",
-    "tea:dohakosa-king-saraha:v27",
-    "tea:dohakosa-tilopa:4"
-   ]
-  },
-  {
-   "id": "cpt:samaya-vows",
-   "refs": 3,
-   "e.g.": [
-    "tea:advayavajrasamgraha:2.mulapatti",
-    "tea:dohakosa-queen-saraha:v18-19",
-    "tea:gurupancasika:49"
-   ]
-  },
-  {
-   "id": "prc:mahamudra-resting-indian",
-   "refs": 3,
-   "e.g.": [
-    "tea:ganga-mahamudra:v14-15",
-    "tea:ganga-mahamudra:v15-17",
-    "tea:ganga-mahamudra:v5-6"
-   ]
-  },
-  {
-   "id": "trm:yuganaddha",
-   "refs": 3,
-   "e.g.": [
-    "tea:pancakrama:5.2-5",
-    "ult:arya-guhyasamaja",
-    "ult:vajrayana"
-   ]
-  },
-  {
-   "id": "cpt:abhiseka-kalacakra",
-   "refs": 3,
-   "e.g.": [
-    "tea:sekoddesa:10-14",
-    "tea:sekoddesa:15-22",
-    "tea:sekoddesa:8-9"
-   ]
-  },
-  {
-   "id": "cpt:outer-inner-other-kalacakra",
-   "refs": 3,
-   "e.g.": [
-    "tea:kalacakra-tantra:1",
-    "tea:kalacakra-tantra:2",
-    "tea:sekoddesa:43-45"
-   ]
-  },
-  {
-   "id": "cpt:aksara-sukha-kalacakra",
-   "refs": 3,
-   "e.g.": [
-    "tea:kalacakra-tantra:5",
-    "tea:sekoddesa:135-141",
-    "tea:sekoddesa:146"
-   ]
-  },
-  {
-   "id": "cpt:syllable-a",
-   "refs": 3,
-   "e.g.": [
-    "tea:amanasikaradhara:end",
-    "tea:mahavairocana-sutra:a-syllable",
-    "tea:manjusrinamasamgiti:28-29"
-   ]
-  },
-  {
-   "id": "trm:adibuddha",
-   "refs": 3,
-   "e.g.": [
-    "tea:manjusrinamasamgiti:100",
-    "ult:kalacakra",
-    "ult:vajrayana"
-   ]
-  },
-  {
-   "id": "src:bodhipathapradipa",
-   "refs": 3,
-   "e.g.": [
-    "tea:bodhipathapradipa:62-64",
-    "tea:bodhipathapradipa:65-67",
-    "tea:bodhipathapradipa:68"
+    "tea:mountain-doctrine:ground",
+    "tea:mountain-doctrine:two-truths",
+    "ult:jonang"
    ]
   },
   {
@@ -2174,15 +914,6 @@
    ]
   },
   {
-   "id": "trm:kuntuzangpo",
-   "refs": 3,
-   "e.g.": [
-    "ult:bon",
-    "ult:dzogchen",
-    "ult:nyingma"
-   ]
-  },
-  {
    "id": "lin:kriya-yoga",
    "refs": 2,
    "e.g.": [
@@ -2191,131 +922,59 @@
    ]
   },
   {
-   "id": "tea:xianzong-ji:458c25",
+   "id": "tea:katsom-chenmo:view",
    "refs": 2,
    "e.g.": [
-    "src:xianzong-ji",
-    "ult:heze"
+    "src:katsom-chenmo",
+    "ult:chod"
    ]
   },
   {
-   "id": "tea:baojing-sanmei:515a16",
+   "id": "tea:phungpo-zenkyur-namshe:four-maras",
    "refs": 2,
    "e.g.": [
-    "src:baojing-sanmei",
-    "ult:caodong"
+    "src:phungpo-zenkyur-namshe",
+    "ult:chod"
    ]
   },
   {
-   "id": "tea:guishan-yulu:577c05",
+   "id": "tea:damngak-dzo:eight-chariots",
    "refs": 2,
    "e.g.": [
-    "src:guishan-yulu",
-    "ult:guiyang"
+    "src:damngak-dzo",
+    "ult:rime"
    ]
   },
   {
-   "id": "tea:rentian-yanmu:324a03",
+   "id": "tea:dingri-gyatsa:mind",
    "refs": 2,
    "e.g.": [
-    "src:rentian-yanmu",
-    "ult:fayan"
+    "src:dingri-gyatsa",
+    "ult:shije"
    ]
   },
   {
-   "id": "tea:jingde-chuandeng-lu:219b23",
+   "id": "tea:gyushi-tsagyu:1",
    "refs": 2,
    "e.g.": [
-    "src:jingde-chuandeng-lu",
-    "tea:xu-gaoseng-zhuan:552b20"
+    "src:gyushi",
+    "ult:sowa-rigpa"
    ]
   },
   {
-   "id": "tea:mozhao-ming:100a25",
+   "id": "tea:gyushi-shegyu:8",
    "refs": 2,
    "e.g.": [
-    "src:mozhao-ming",
-    "trm:mozhao"
+    "src:gyushi",
+    "ult:sowa-rigpa"
    ]
   },
   {
-   "id": "tea:dahui-yulu:884c26",
+   "id": "tea:sheja-kunkhyab:tenets",
    "refs": 2,
    "e.g.": [
-    "src:dahui-yulu",
-    "trm:mozhao"
-   ]
-  },
-  {
-   "id": "tea:chanyuan-zhuquanji-duxu:403a01",
-   "refs": 2,
-   "e.g.": [
-    "src:chanyuan-zhuquanji-duxu",
-    "ult:heze"
-   ]
-  },
-  {
-   "id": "tea:guhyagarbha-tantra:1",
-   "refs": 2,
-   "e.g.": [
-    "src:guhyagarbha-tantra",
-    "ult:nyingma"
-   ]
-  },
-  {
-   "id": "tea:guhyagarbha-tantra:2",
-   "refs": 2,
-   "e.g.": [
-    "src:guhyagarbha-tantra",
-    "ult:nyingma"
-   ]
-  },
-  {
-   "id": "tea:guhyagarbha-tantra:2/2",
-   "refs": 2,
-   "e.g.": [
-    "src:guhyagarbha-tantra",
-    "ult:nyingma"
-   ]
-  },
-  {
-   "id": "tea:kunjed-gyalpo:1",
-   "refs": 2,
-   "e.g.": [
-    "src:kunjed-gyalpo",
-    "ult:dzogchen"
-   ]
-  },
-  {
-   "id": "tea:kunjed-gyalpo:4",
-   "refs": 2,
-   "e.g.": [
-    "src:kunjed-gyalpo",
-    "ult:dzogchen"
-   ]
-  },
-  {
-   "id": "tea:kunjed-gyalpo:31",
-   "refs": 2,
-   "e.g.": [
-    "src:kunjed-gyalpo",
-    "ult:dzogchen"
-   ]
-  },
-  {
-   "id": "tea:kunjed-gyalpo:44",
-   "refs": 2,
-   "e.g.": [
-    "src:kunjed-gyalpo",
-    "ult:dzogchen"
-   ]
-  },
-  {
-   "id": "tea:kunjed-gyalpo:45",
-   "refs": 2,
-   "e.g.": [
-    "src:kunjed-gyalpo",
-    "ult:dzogchen"
+    "src:sheja-kunkhyab",
+    "ult:rime"
    ]
   },
   {
@@ -2357,14 +1016,6 @@
    ]
   },
   {
-   "id": "lin:sowa-rigpa",
-   "refs": 2,
-   "e.g.": [
-    "brw:ayurveda-to-sowa-rigpa",
-    "lin:ayurveda"
-   ]
-  },
-  {
    "id": "lin:vastu-silpa",
    "refs": 2,
    "e.g.": [
@@ -2381,67 +1032,27 @@
    ]
   },
   {
-   "id": "pth:puming-ten-oxherding-pictures",
+   "id": "pth:jewel-ornament-sequence",
    "refs": 2,
    "e.g.": [
-    "lin:chan",
-    "tea:puming-oxherding-pictures:1-10"
+    "lin:kagyu",
+    "tea:jewel-ornament-of-liberation:intro"
    ]
   },
   {
-   "id": "pth:faith-vow-practice-ouyi",
+   "id": "pth:fivefold-mahamudra",
    "refs": 2,
    "e.g.": [
-    "lin:pure-land",
-    "tea:amituo-jing-yaojie:faith-vow-practice"
+    "cpt:fivefold-mahamudra",
+    "lin:drikung-kagyu"
    ]
   },
   {
-   "id": "pth:shinran-three-vows",
+   "id": "pth:shangpa-five-golden-dharmas",
    "refs": 2,
    "e.g.": [
-    "lin:jodo-shinshu",
-    "tea:kyogyoshinsho:keshindo.three-vows"
-   ]
-  },
-  {
-   "id": "pth:vajrayana-two-stages",
-   "refs": 2,
-   "e.g.": [
-    "lin:vajrayana",
-    "tea:pancakrama:1.2"
-   ]
-  },
-  {
-   "id": "pth:guhyasamaja-sadanga-yoga",
-   "refs": 2,
-   "e.g.": [
-    "lin:vajrayana",
-    "tea:guhyasamaja-tantra:18.138"
-   ]
-  },
-  {
-   "id": "pth:dzogchen-four-visions",
-   "refs": 2,
-   "e.g.": [
-    "lin:dzogchen",
-    "lin:nyingma"
-   ]
-  },
-  {
-   "id": "pth:yeshe-lama-path",
-   "refs": 2,
-   "e.g.": [
-    "lin:dzogchen",
-    "lin:nyingma"
-   ]
-  },
-  {
-   "id": "tch:khyungpo-naljor",
-   "refs": 2,
-   "e.g.": [
-    "tch:niguma",
-    "tch:sukhasiddhi"
+    "cpt:shangpa-five-golden-dharmas",
+    "lin:shangpa-kagyu"
    ]
   },
   {
@@ -2485,14 +1096,6 @@
    ]
   },
   {
-   "id": "tea:bhagavad-gita:18.57",
-   "refs": 2,
-   "e.g.": [
-    "tea:bhagavad-gita:3.30",
-    "tea:bhagavad-gita:9.27"
-   ]
-  },
-  {
    "id": "tea:mundaka-upanisad:1.2.12",
    "refs": 2,
    "e.g.": [
@@ -2525,14 +1128,6 @@
    ]
   },
   {
-   "id": "tea:bhagavad-gita:12.8",
-   "refs": 2,
-   "e.g.": [
-    "tea:bhagavad-gita:8.14",
-    "tea:bhagavad-gita:8.7"
-   ]
-  },
-  {
    "id": "tea:brhadaranyaka-upanisad:3.8.8",
    "refs": 2,
    "e.g.": [
@@ -2557,11 +1152,11 @@
    ]
   },
   {
-   "id": "tea:bhagavad-gita:12.14",
+   "id": "tea:bhagavad-gita:14.24",
    "refs": 2,
    "e.g.": [
-    "tea:bhagavad-gita:7.17",
-    "tea:bhagavad-gita:9.29"
+    "tea:bhagavad-gita:12.18-19",
+    "tea:bhagavad-gita:12.19"
    ]
   },
   {
@@ -2589,867 +1184,1569 @@
    ]
   },
   {
-   "id": "cpt:original-purity-self-nature",
+   "id": "prc:cakrasamvara-sadhana",
    "refs": 2,
    "e.g.": [
-    "tea:platform-sutra:4.13",
-    "tea:platform-sutra:4.2"
+    "tea:bka-dpe-phyi-ma:273a.4",
+    "tea:karnatantravajrapada:303a.1/2"
    ]
   },
   {
-   "id": "cpt:robe-and-bowl",
+   "id": "prc:seven-point-posture",
    "refs": 2,
    "e.g.": [
-    "tea:platform-sutra-dunhuang:49.1",
-    "tea:platform-sutra:4.15"
+    "tea:bka-dpe-phyi-ma:273a.6",
+    "tea:karnatantravajrapada:303a.2"
    ]
   },
   {
-   "id": "cpt:lay-practice-chan",
+   "id": "prc:trongjuk",
    "refs": 2,
    "e.g.": [
-    "tea:platform-sutra:6.12",
-    "tea:platform-sutra:6.15"
+    "tea:bka-dpe-phyi-ma:275b.4",
+    "tea:karnatantravajrapada:303b.2"
    ]
   },
   {
-   "id": "prc:formless-repentance",
+   "id": "prc:mahamudra-meditation",
    "refs": 2,
    "e.g.": [
-    "tea:jingde-chuandeng-lu:220c16",
-    "tea:platform-sutra:9.2"
+    "tea:karnatantravajrapada:303b.6",
+    "tea:milarepa-namthar:pt.2/3"
    ]
   },
   {
-   "id": "cpt:inka-confirmation",
+   "id": "prc:mountain-retreat",
    "refs": 2,
    "e.g.": [
-    "tea:platform-sutra:10.33",
-    "trm:inka"
+    "tea:milarepa-gurbum:eight-worldly-concerns",
+    "tea:milarepa-namthar:pt.2/3"
    ]
   },
   {
-   "id": "cpt:twenty-eight-indian-patriarchs",
+   "id": "prc:ngondro",
    "refs": 2,
    "e.g.": [
-    "tea:platform-sutra-dunhuang:51.1",
-    "tea:platform-sutra:13.11"
+    "tea:moonbeams-of-mahamudra:pt.2",
+    "tea:torch-of-certainty:1"
    ]
   },
   {
-   "id": "dsp:huatai-true-lineage",
+   "id": "prc:mahamudra-samatha-without-support",
    "refs": 2,
    "e.g.": [
-    "tea:nanzong-ding-shifei-lun:huatai",
-    "tea:platform-sutra-dunhuang:49.1"
+    "tea:aspiration-prayer-of-mahamudra:samatha-vipasyana",
+    "tea:moonbeams-of-mahamudra:pt.2/2"
    ]
   },
   {
-   "id": "prc:four-practices-bodhidharma",
+   "id": "obs:three-strayings-mahamudra",
    "refs": 2,
    "e.g.": [
-    "tea:two-entrances-four-practices:369c25",
-    "tea:two-entrances-four-practices:370a01"
+    "tea:aspiration-prayer-of-mahamudra:four-yogas",
+    "tea:moonbeams-of-mahamudra:pt.2/5"
    ]
   },
   {
-   "id": "cpt:anxin-pacifying-mind",
+   "id": "prc:calm-abiding-lamrim",
    "refs": 2,
    "e.g.": [
-    "tea:jingde-chuandeng-lu:219b21",
-    "tea:wumenguan:41"
+    "tea:bodhipathapradipa:v39-41",
+    "tea:lamrim-chenmo:calm.nine-stages"
    ]
   },
   {
-   "id": "prc:shouxin",
+   "id": "dsp:monastic-higher-initiations",
    "refs": 2,
    "e.g.": [
-    "tea:xiuxin-yao-lun:377b17",
-    "tea:xiuxin-yao-lun:377c03"
+    "tea:bodhipathapradipa:v66-68",
+    "tea:bodhipathapradipa:v69"
    ]
   },
   {
-   "id": "cpt:chan-view-of-powers",
+   "id": "dsp:is-emptiness-known-by-pramana",
    "refs": 2,
    "e.g.": [
-    "tea:jingde-chuandeng-lu:263b09",
-    "tea:susim-kyol:1006b28"
+    "tea:satyadvayavatara:v10-13",
+    "tea:satyadvayavatara:v14"
    ]
   },
   {
-   "id": "cpt:pure-rules-qinggui",
+   "id": "obs:obstacles-to-meditation-lamdre",
    "refs": 2,
    "e.g.": [
-    "tea:chanmen-guishi:251a04",
-    "trm:qinggui"
+    "tea:lamdre:139b.7",
+    "tea:lamdre:140a.1"
    ]
   },
   {
-   "id": "obs:seeking-outside",
+   "id": "obs:attachment-to-this-life",
    "refs": 2,
    "e.g.": [
-    "tea:linji-lu:497a29",
-    "tea:linji-lu:500b22"
+    "tea:parting-from-four-attachments-drakpa-gyaltsen:1",
+    "tea:parting-from-four-attachments:1"
    ]
   },
   {
-   "id": "cpt:principle-and-phenomena-chan",
+   "id": "obs:attachment-to-samsara",
    "refs": 2,
    "e.g.": [
-    "tea:sandokai:459b08",
-    "tea:sandokai:459b15"
+    "tea:parting-from-four-attachments-drakpa-gyaltsen:2",
+    "tea:parting-from-four-attachments:2"
    ]
   },
   {
-   "id": "cpt:srenika-heresy",
+   "id": "obs:grasping-lojong",
    "refs": 2,
    "e.g.": [
-    "tea:bendowa:srenika",
-    "tea:jingde-chuandeng-lu:437c19"
+    "tea:parting-from-four-attachments-drakpa-gyaltsen:4",
+    "tea:parting-from-four-attachments:4"
    ]
   },
   {
-   "id": "dsp:srenika-heresy",
+   "id": "dsp:eight-difficult-points",
    "refs": 2,
    "e.g.": [
-    "tea:bendowa:srenika",
-    "tea:jingde-chuandeng-lu:437c19"
+    "tea:eight-difficult-points-memorandum:list",
+    "tea:illumination-of-the-thought:ch.6"
    ]
   },
   {
-   "id": "cpt:insentient-preach-dharma",
+   "id": "trm:kunzhi-yeshe",
    "refs": 2,
    "e.g.": [
-    "tea:jingde-chuandeng-lu:244b26",
-    "trm:wuqing-shuofa"
+    "tea:mountain-doctrine:alaya",
+    "ult:jonang"
    ]
   },
   {
-   "id": "dsp:chan-and-the-teachings",
+   "id": "trm:uma-chenpo",
    "refs": 2,
    "e.g.": [
-    "tea:seonga-gwigam:seon-and-teachings",
-    "tea:zongjing-lu:415a18"
+    "tea:mountain-doctrine:definitive",
+    "ult:rime"
    ]
   },
   {
-   "id": "cpt:karma-after-awakening",
+   "id": "trm:namkun-chokden",
    "refs": 2,
    "e.g.": [
-    "tea:jinshin-inga:fox",
-    "tea:wumenguan:2"
+    "tea:mountain-doctrine:annihilatory-emptiness",
+    "ult:jonang"
    ]
   },
   {
-   "id": "cpt:four-line-self-description",
+   "id": "cpt:four-ages-dolpopa",
    "refs": 2,
    "e.g.": [
-    "tea:biyan-lu:1",
-    "tea:wumenguan:6"
+    "tea:fourth-council-dolpopa:definitive",
+    "tea:fourth-council-dolpopa:four-ages"
    ]
   },
   {
-   "id": "obs:dead-sitting",
+   "id": "tea:bhagavad-gita:14.23",
    "refs": 2,
    "e.g.": [
-    "tea:dahui-yulu:884c25",
-    "tea:wumenguan:zenzhen"
+    "tea:bhagavad-gita:3.28",
+    "tea:bhagavad-gita:9.9"
    ]
   },
   {
-   "id": "cpt:killing-and-life-giving-sword",
+   "id": "tea:bhagavad-gita:13.13",
    "refs": 2,
    "e.g.": [
-    "tea:biyan-lu:12.pointer",
-    "trm:sharendao-huorenjian"
+    "tea:bhagavad-gita:11.37",
+    "tea:bhagavad-gita:9.19"
    ]
   },
   {
-   "id": "prc:awareness-of-arising-thoughts",
+   "id": "tea:mundaka-upanisad:1.2.10",
    "refs": 2,
    "e.g.": [
-    "tea:susim-kyol:1007c21",
-    "tea:zuochan-yi:awareness"
+    "tea:bhagavad-gita:9.20",
+    "tea:bhagavad-gita:9.21"
    ]
   },
   {
-   "id": "cpt:three-essentials-of-huatou",
+   "id": "cpt:ten-courses-of-action",
    "refs": 2,
    "e.g.": [
-    "tea:seonga-gwigam:seon-and-teachings",
-    "trm:three-essentials"
+    "cpt:ten-good-and-bad-acts-nyaya",
+    "cpt:ten-sinful-acts"
    ]
   },
   {
-   "id": "dsp:rinzai-or-soto",
+   "id": "cpt:bardo",
    "refs": 2,
    "e.g.": [
-    "tea:bankei-zenji-seppo:no-koan",
-    "tea:shobogenzo-zuimonki:just-sitting"
+    "cpt:antarabhava",
+    "cpt:vigraha-gati"
    ]
   },
   {
-   "id": "cpt:meditation-sickness",
+   "id": "cpt:storehouse-consciousness",
    "refs": 2,
    "e.g.": [
-    "tea:yasenkanna:zen-sickness",
-    "trm:zenbyo"
+    "cpt:mulavijnana",
+    "cpt:sautrantika-seed-theory"
    ]
   },
   {
-   "id": "trm:huasheng",
-   "refs": 2,
+   "id": "lin:saura",
+   "refs": 1,
+   "e.g.": [
+    "src:surya-upanisad"
+   ]
+  },
+  {
+   "id": "tch:jagannatha-dasa",
+   "refs": 1,
+   "e.g.": [
+    "src:harikathamrtasara"
+   ]
+  },
+  {
+   "id": "src:dirgha-agama",
+   "refs": 1,
+   "e.g.": [
+    "src:shamenguo-jing"
+   ]
+  },
+  {
+   "id": "tea:bodhipathapradipa:v44",
+   "refs": 1,
+   "e.g.": [
+    "src:bodhipathapradipa"
+   ]
+  },
+  {
+   "id": "tea:katsom-chenmo:root-of-mind",
+   "refs": 1,
+   "e.g.": [
+    "src:katsom-chenmo"
+   ]
+  },
+  {
+   "id": "tea:phungpo-zenkyur-namshe:tibet-to-india",
+   "refs": 1,
+   "e.g.": [
+    "src:phungpo-zenkyur-namshe"
+   ]
+  },
+  {
+   "id": "tea:phungpo-zenkyur-namshe:life",
+   "refs": 1,
+   "e.g.": [
+    "src:phungpo-zenkyur-namshe"
+   ]
+  },
+  {
+   "id": "tea:khandro-gegyang:whole",
+   "refs": 1,
+   "e.g.": [
+    "src:khandro-gegyang"
+   ]
+  },
+  {
+   "id": "tea:dingri-gyatsa:impermanence",
+   "refs": 1,
+   "e.g.": [
+    "src:dingri-gyatsa"
+   ]
+  },
+  {
+   "id": "tea:zhije-lamnga-tsele:five-paths",
+   "refs": 1,
+   "e.g.": [
+    "src:zhije-lamnga-tsele"
+   ]
+  },
+  {
+   "id": "tea:gyushi-tsagyu:3",
+   "refs": 1,
+   "e.g.": [
+    "src:gyushi"
+   ]
+  },
+  {
+   "id": "tea:gyushi-tsagyu:6",
+   "refs": 1,
+   "e.g.": [
+    "src:gyushi"
+   ]
+  },
+  {
+   "id": "tea:gyushi-chimagyu:1",
+   "refs": 1,
+   "e.g.": [
+    "src:gyushi"
+   ]
+  },
+  {
+   "id": "tea:gyushi-chimagyu:2",
+   "refs": 1,
+   "e.g.": [
+    "src:gyushi"
+   ]
+  },
+  {
+   "id": "tea:khogbug:origin",
+   "refs": 1,
+   "e.g.": [
+    "src:khogbug"
+   ]
+  },
+  {
+   "id": "tea:yuthok-nyingthig:medicine-and-dharma",
+   "refs": 1,
+   "e.g.": [
+    "src:yuthok-nyingthig"
+   ]
+  },
+  {
+   "id": "tea:sheja-kunkhyab:cosmology",
+   "refs": 1,
+   "e.g.": [
+    "src:sheja-kunkhyab"
+   ]
+  },
+  {
+   "id": "tea:sheja-kunkhyab:eight-lineages",
+   "refs": 1,
+   "e.g.": [
+    "src:sheja-kunkhyab"
+   ]
+  },
+  {
+   "id": "tea:kongtrul-autobiography:impartial",
+   "refs": 1,
+   "e.g.": [
+    "src:kongtrul-autobiography"
+   ]
+  },
+  {
+   "id": "lin:divine-life-society",
+   "refs": 1,
+   "e.g.": [
+    "lin:advaita-vedanta"
+   ]
+  },
+  {
+   "id": "tch:lakshmanjoo",
+   "refs": 1,
+   "e.g.": [
+    "lin:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "lin:bihar-school",
+   "refs": 1,
+   "e.g.": [
+    "lin:hatha-yoga"
+   ]
+  },
+  {
+   "id": "tea:sangita-ratnakara:1.3.1; tea:saradatilaka:1.12-13",
+   "refs": 1,
+   "e.g.": [
+    "lin:sangita"
+   ]
+  },
+  {
+   "id": "tch:banarsidas",
+   "refs": 1,
+   "e.g.": [
+    "lin:terapantha-digambara"
+   ]
+  },
+  {
+   "id": "lin:truc-lam",
+   "refs": 1,
+   "e.g.": [
+    "lin:chan"
+   ]
+  },
+  {
+   "id": "pth:seven-points-mind-training",
+   "refs": 1,
+   "e.g.": [
+    "lin:kadam"
+   ]
+  },
+  {
+   "id": "pth:gelug-monastic-curriculum",
+   "refs": 1,
+   "e.g.": [
+    "lin:gelug"
+   ]
+  },
+  {
+   "id": "tch:induraja",
+   "refs": 1,
+   "e.g.": [
+    "tch:abhinavagupta"
+   ]
+  },
+  {
+   "id": "src:spandapradipika",
+   "refs": 1,
+   "e.g.": [
+    "tch:utpala-vaisnava"
+   ]
+  },
+  {
+   "id": "tch:sivananda",
+   "refs": 1,
+   "e.g.": [
+    "tch:chinmayananda"
+   ]
+  },
+  {
+   "id": "tch:kanaka-dasa",
+   "refs": 1,
+   "e.g.": [
+    "tch:vyasatirtha"
+   ]
+  },
+  {
+   "id": "tch:drogmi",
+   "refs": 1,
+   "e.g.": [
+    "tch:marpa"
+   ]
+  },
+  {
+   "id": "tea:svetasvatara-upanisad:2.4",
+   "refs": 1,
+   "e.g.": [
+    "tea:rgveda:5.81.1"
+   ]
+  },
+  {
+   "id": "tea:brhadaranyaka-upanisad:2.5.19",
+   "refs": 1,
+   "e.g.": [
+    "tea:rgveda:6.47.18"
+   ]
+  },
+  {
+   "id": "tea:svetasvatara-upanisad:4.3",
+   "refs": 1,
+   "e.g.": [
+    "tea:atharvaveda-saunaka:10.8.27-28"
+   ]
+  },
+  {
+   "id": "tea:rgveda:10.90.6",
+   "refs": 1,
+   "e.g.": [
+    "tea:satapatha-brahmana:1.3.2.1"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:6.8.1",
+   "refs": 1,
+   "e.g.": [
+    "tea:satapatha-brahmana:10.5.2.20"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:5.11-18",
+   "refs": 1,
+   "e.g.": [
+    "tea:satapatha-brahmana:10.6.1.1-11"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:5.4-9",
+   "refs": 1,
+   "e.g.": [
+    "tea:satapatha-brahmana:11.6.2.6-10"
+   ]
+  },
+  {
+   "id": "tea:brhadaranyaka-upanisad:3.9.1-26",
+   "refs": 1,
+   "e.g.": [
+    "tea:satapatha-brahmana:11.6.3.1-11"
+   ]
+  },
+  {
+   "id": "tea:brhadaranyaka-upanisad:6.5.3",
+   "refs": 1,
+   "e.g.": [
+    "tea:satapatha-brahmana:14.9.4.33"
+   ]
+  },
+  {
+   "id": "tea:taittiriya-upanisad:3.10.6",
+   "refs": 1,
+   "e.g.": [
+    "tea:taittiriya-brahmana:2.8.8.1"
+   ]
+  },
+  {
+   "id": "tea:katha-upanisad:1.1.1-29",
+   "refs": 1,
+   "e.g.": [
+    "tea:taittiriya-brahmana:3.11.8.1-6"
+   ]
+  },
+  {
+   "id": "tea:rgveda:10.125.1-8",
+   "refs": 1,
+   "e.g.": [
+    "tea:pancavimsa-brahmana:20.14.2"
+   ]
+  },
+  {
+   "id": "tea:atharvaveda-saunaka:15.1",
+   "refs": 1,
+   "e.g.": [
+    "tea:pancavimsa-brahmana:17.1"
+   ]
+  },
+  {
+   "id": "tea:rgveda:10.14.7-8",
+   "refs": 1,
+   "e.g.": [
+    "tea:taittiriya-aranyaka:6"
+   ]
+  },
+  {
+   "id": "tea:rgveda:10.190.1-3",
+   "refs": 1,
+   "e.g.": [
+    "tea:manusmrti:11.261"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:5.10.1-3",
+   "refs": 1,
+   "e.g.": [
+    "tea:apastamba-dharmasutra:2.9.23.3-5"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:6.2.2",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:2.16"
+   ]
+  },
+  {
+   "id": "tea:katha-upanisad:1.2.19",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:2.19"
+   ]
+  },
+  {
+   "id": "tea:katha-upanisad:1.2.18",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:2.20"
+   ]
+  },
+  {
+   "id": "tea:katha-upanisad:1.2.7",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:2.29"
+   ]
+  },
+  {
+   "id": "tea:bhagavad-gita:18.47",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:3.35"
+   ]
+  },
+  {
+   "id": "tea:bhagavad-gita:18.41",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:4.13"
+   ]
+  },
+  {
+   "id": "tea:svetasvatara-upanisad:3.18",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:5.13"
+   ]
+  },
+  {
+   "id": "tea:svetasvatara-upanisad:4.10",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:7.14"
+   ]
+  },
+  {
+   "id": "tea:katha-upanisad:1.2.15",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:8.11"
+   ]
+  },
+  {
+   "id": "tea:bhagavad-gita:13.3",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:10.20"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:7.1.2",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavata-purana:1.4.20"
+   ]
+  },
+  {
+   "id": "tea:bhagavad-gita:8.5-6",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavata-purana:2.1.6"
+   ]
+  },
+  {
+   "id": "tea:brahmabindu-upanisad:2",
+   "refs": 1,
+   "e.g.": [
+    "tea:visnu-purana:6.7.28"
+   ]
+  },
+  {
+   "id": "tea:manusmrti:6.46",
+   "refs": 1,
+   "e.g.": [
+    "tea:markandeya-purana:41.2-26"
+   ]
+  },
+  {
+   "id": "tea:brhadaranyaka-upanisad:4.4.3",
+   "refs": 1,
+   "e.g.": [
+    "tea:garuda-purana:2.10.75-82"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:6.1.4",
+   "refs": 1,
+   "e.g.": [
+    "tea:brahma-sutra:2.1.14"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:6.14.2",
+   "refs": 1,
+   "e.g.": [
+    "tea:brahma-sutra:4.1.15"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:8.12.3",
+   "refs": 1,
+   "e.g.": [
+    "tea:brahma-sutra:4.4.1"
+   ]
+  },
+  {
+   "id": "tea:bhagavad-gita:13.2",
+   "refs": 1,
+   "e.g.": [
+    "tea:gita-bhasya-sankara:13.2"
+   ]
+  },
+  {
+   "id": "tea:rgveda:1.141.1-3",
+   "refs": 1,
+   "e.g.": [
+    "tea:mahabharata-tatparya-nirnaya:32.162-166"
+   ]
+  },
+  {
+   "id": "tea:mandukya-upanisad:3-7",
+   "refs": 1,
    "e.g.": [
-    "tea:sukhavativyuha-larger:skt.womb",
-    "tea:sukhavativyuha-larger:womb-birth"
+    "tea:mandukya-upanisad-bhasya-madhva:3-7"
    ]
   },
   {
-   "id": "trm:yixin-buluan",
-   "refs": 2,
+   "id": "tea:bhagavata-purana:10.87.14",
+   "refs": 1,
    "e.g.": [
-    "tea:amituo-jing-shuchao:holding-the-name",
-    "tea:sukhavativyuha-smaller:skt.10"
+    "tea:bhagavata-tatparya-nirnaya:10.87.14"
    ]
   },
   {
-   "id": "trm:sanshan",
-   "refs": 2,
+   "id": "tea:bhagavata-purana:11.7-9",
+   "refs": 1,
    "e.g.": [
-    "tea:amitayurdhyana-sutra:intro.3",
-    "tea:guanjing-shu:1.essential-and-universal"
+    "tea:eknathi-bhagavata:7-9.avadhuta"
    ]
   },
   {
-   "id": "cpt:meditative-and-non-meditative-good",
-   "refs": 2,
+   "id": "tea:bhagavata-purana:10.23",
+   "refs": 1,
    "e.g.": [
-    "tea:amitayurdhyana-sutra:intro.3",
-    "tea:guanjing-shu:1.essential-and-universal"
+    "tea:patni-prasada:whole"
    ]
   },
   {
-   "id": "trm:sheqi-bu-she",
-   "refs": 2,
+   "id": "tea:bhagavata-purana:4.31.14",
+   "refs": 1,
    "e.g.": [
-    "tea:amitayurdhyana-sutra:9",
-    "tea:tannisho:1"
+    "tea:katha-gurucarit:madhavadeva-conversion"
    ]
   },
   {
-   "id": "trm:fentuoli",
-   "refs": 2,
+   "id": "prc:vajravarahi-sadhana",
+   "refs": 1,
    "e.g.": [
-    "tea:amitayurdhyana-sutra:closing",
-    "tea:shoshinge:pundarika"
+    "tea:karnatantravajrapada:303a.1/2"
    ]
   },
   {
-   "id": "trm:yixing",
-   "refs": 2,
+   "id": "obs:wind-disorder-from-practice",
+   "refs": 1,
    "e.g.": [
-    "tea:dasabhumika-vibhasa:41b02-06",
-    "tea:wangsheng-lun-zhu:1.easy-path"
+    "tea:bka-dpe-phyi-ma:273b.3"
    ]
   },
   {
-   "id": "trm:nanxing",
-   "refs": 2,
+   "id": "prc:refuge-prostrations",
+   "refs": 1,
    "e.g.": [
-    "tea:dasabhumika-vibhasa:41b02-06",
-    "tea:wangsheng-lun-zhu:1.easy-path"
+    "tea:jewel-ornament-of-liberation:ch.8"
    ]
   },
   {
-   "id": "trm:benyuan-li",
-   "refs": 2,
+   "id": "obs:three-kinds-of-laziness",
+   "refs": 1,
    "e.g.": [
-    "tea:wangsheng-lun-zhu:2.other-power",
-    "tea:wangsheng-lun:231a24-25"
+    "tea:jewel-ornament-of-liberation:ch.15"
    ]
   },
   {
-   "id": "trm:wu-nianmen",
-   "refs": 2,
+   "id": "prc:mahamudra-samatha-with-support",
+   "refs": 1,
    "e.g.": [
-    "tea:wangsheng-lun:231b08-24",
-    "tea:wangsheng-lun:233a05-25"
+    "tea:moonbeams-of-mahamudra:pt.2/2"
    ]
   },
   {
-   "id": "cpt:five-sutras-one-treatise",
-   "refs": 2,
+   "id": "obs:four-deviations-mahamudra",
+   "refs": 1,
    "e.g.": [
-    "tea:bhadracaripranidhana:pure-land-aspiration",
-    "tea:surangama-sutra:5.mahasthamaprapta"
+    "tea:moonbeams-of-mahamudra:pt.2/5"
    ]
   },
   {
-   "id": "trm:bangfa",
-   "refs": 2,
+   "id": "dsp:four-yogas-and-the-grounds",
+   "refs": 1,
    "e.g.": [
-    "tea:guanjing-shu:4.restraint-gate",
-    "tea:wangsheng-lun-zhu:1.eight-questions"
+    "tea:moonbeams-of-mahamudra:pt.2/7"
    ]
   },
   {
-   "id": "trm:faxing",
-   "refs": 2,
+   "id": "prc:pointing-out",
+   "refs": 1,
    "e.g.": [
-    "tea:wangsheng-lun-zhu:2.dharmakaya",
-    "ult:pure-land"
+    "tea:pointing-out-the-dharmakaya:pointing-out"
    ]
   },
   {
-   "id": "trm:oso-eko",
-   "refs": 2,
+   "id": "obs:distraction",
+   "refs": 1,
    "e.g.": [
-    "tea:kyogyoshinsho:kyo",
-    "tea:wangsheng-lun-zhu:2.two-transfers"
+    "tea:dorje-chang-thungma:4"
    ]
   },
   {
-   "id": "cpt:bodhicitta-in-pure-land",
-   "refs": 2,
+   "id": "prc:six-equal-tastes",
+   "refs": 1,
    "e.g.": [
-    "tea:jingtu-shiyi-lun:77b23",
-    "tea:wangsheng-lun-zhu:2.bodhicitta"
+    "tea:six-equal-tastes:1"
    ]
   },
   {
-   "id": "dsp:is-bodhicitta-needed-for-birth",
-   "refs": 2,
+   "id": "prc:niguma-six-dharmas",
+   "refs": 1,
    "e.g.": [
-    "tea:wangsheng-lun-zhu:2.bodhicitta",
-    "tea:zaijarin:bodhicitta"
+    "tea:vajra-lines-of-niguma:1"
    ]
   },
   {
-   "id": "trm:baotu",
-   "refs": 2,
+   "id": "prc:amulet-mahamudra",
+   "refs": 1,
    "e.g.": [
-    "tea:anle-ji:5c11-15",
-    "tea:guanjing-shu:1.reward-land"
+    "tea:amulet-mahamudra:three-self-liberations"
    ]
   },
   {
-   "id": "cpt:reward-land-for-ordinary-beings",
-   "refs": 2,
+   "id": "prc:three-integrations",
+   "refs": 1,
    "e.g.": [
-    "tea:anle-ji:5c11-15",
-    "tea:guanjing-shu:1.reward-land"
+    "tea:three-integrations:1"
    ]
   },
   {
-   "id": "dsp:amitabha-land-reward-or-transformation",
-   "refs": 2,
+   "id": "prc:drodon-khakhyabma",
+   "refs": 1,
    "e.g.": [
-    "tea:anle-ji:5c11-15",
-    "tea:guanjing-shu:1.reward-land"
+    "tea:drodon-khakhyabma:1"
    ]
   },
   {
-   "id": "dsp:tusita-or-sukhavati",
-   "refs": 2,
+   "id": "dsp:bodhisattva-vow-prerequisite",
+   "refs": 1,
    "e.g.": [
-    "tea:anle-ji:9b22-c09",
-    "tea:jingtu-shiyi-lun:79b17"
+    "tea:bodhipathapradipa:v20-22"
    ]
   },
   {
-   "id": "trm:bieshiyi",
-   "refs": 2,
+   "id": "dsp:paryaya-paramartha-division",
+   "refs": 1,
    "e.g.": [
-    "tea:anle-ji:10a11-24",
-    "tea:shi-jingtu-qunyi-lun:39a01"
+    "tea:satyadvayavatara:v4"
    ]
   },
   {
-   "id": "dsp:intention-for-another-time",
-   "refs": 2,
+   "id": "prc:kadam-self-examination",
+   "refs": 1,
    "e.g.": [
-    "tea:anle-ji:10a11-24",
-    "tea:shi-jingtu-qunyi-lun:39a01"
+    "tea:bodhisattvamanyavali:v1-2"
    ]
   },
   {
-   "id": "trm:zhunian",
-   "refs": 2,
+   "id": "obs:attachment-lojong",
+   "refs": 1,
    "e.g.": [
-    "tea:anle-ji:11b19-29",
-    "tea:yinguang-wenchao:deathbed-three-essentials"
+    "tea:bodhisattvamanyavali:v13"
    ]
   },
   {
-   "id": "trm:shengdao-men",
-   "refs": 2,
+   "id": "prc:lion-posture-sleep",
+   "refs": 1,
    "e.g.": [
-    "tea:anle-ji:13c05-22",
-    "tea:senchakushu:1"
+    "tea:caryasamgrahapradipa:v18-19"
    ]
   },
   {
-   "id": "trm:jingtu-men",
-   "refs": 2,
+   "id": "obs:hope-for-siddhis",
+   "refs": 1,
    "e.g.": [
-    "tea:anle-ji:13c05-22",
-    "tea:senchakushu:1"
+    "tea:lamdre:140b.5-6"
    ]
   },
   {
-   "id": "trm:sanxin",
-   "refs": 2,
+   "id": "prc:four-practices-lojong",
+   "refs": 1,
    "e.g.": [
-    "tea:senchakushu:8",
-    "tea:wangsheng-lizan:438c01-13"
+    "tea:seven-point-mind-training:3.5"
    ]
   },
   {
-   "id": "trm:shenxin",
-   "refs": 2,
+   "id": "prc:lojong-at-death",
+   "refs": 1,
    "e.g.": [
-    "tea:guanjing-shu:4.two-deep-minds",
-    "tea:wangsheng-lizan:438c01-13"
+    "tea:seven-point-mind-training:4.2"
    ]
   },
   {
-   "id": "trm:zhichengxin",
-   "refs": 2,
+   "id": "prc:six-preparatory-practices",
+   "refs": 1,
    "e.g.": [
-    "tea:guanjing-shu:4.sincere-mind",
-    "tea:wangsheng-lizan:438c01-13"
+    "tea:lamrim-chenmo:intro.meditation-sessions"
    ]
   },
   {
-   "id": "cpt:four-modes-of-practice",
-   "refs": 2,
+   "id": "prc:analytical-meditation",
+   "refs": 1,
    "e.g.": [
-    "tea:ichimai-kishomon:whole",
-    "tea:wangsheng-lizan:439a08-23"
+    "tea:lamrim-chenmo:intro.analytical-and-placement"
    ]
   },
   {
-   "id": "trm:zhuanxiu",
-   "refs": 2,
+   "id": "prc:placement-meditation",
+   "refs": 1,
    "e.g.": [
-    "tea:shi-jingtu-qunyi-lun:50c07",
-    "tea:wangsheng-lizan:439b17-c08"
+    "tea:lamrim-chenmo:intro.analytical-and-placement"
    ]
   },
   {
-   "id": "obs:mixed-practice",
-   "refs": 2,
+   "id": "dsp:role-of-analysis-in-meditation",
+   "refs": 1,
    "e.g.": [
-    "tea:shi-jingtu-qunyi-lun:50c07",
-    "tea:wangsheng-lizan:439b17-c08"
+    "tea:lamrim-chenmo:intro.analytical-and-placement"
    ]
   },
   {
-   "id": "trm:linzhong-zhengnian",
-   "refs": 2,
+   "id": "prc:seven-point-cause-and-effect",
+   "refs": 1,
    "e.g.": [
-    "tea:guannian-famen:24b21-c04",
-    "tea:ojoyoshu:6.deathbed"
+    "tea:lamrim-chenmo:great.seven-point"
    ]
   },
   {
-   "id": "trm:zhuye",
-   "refs": 2,
+   "id": "obs:subtle-laxity",
+   "refs": 1,
    "e.g.": [
-    "tea:guanjing-shu:4.rightly-determined-act",
-    "tea:senchakushu:2"
+    "tea:lamrim-chenmo:calm.subtle-laxity"
    ]
   },
   {
-   "id": "trm:xieman-jie",
-   "refs": 2,
+   "id": "prc:migtsema-recitation",
+   "refs": 1,
    "e.g.": [
-    "tea:kyogyoshinsho:keshindo.three-vows",
-    "tea:shi-jingtu-qunyi-lun:50c07"
+    "tea:migtsema:1"
    ]
   },
   {
-   "id": "prc:wuhui-nianfo",
-   "refs": 2,
+   "id": "prc:gelug-mahamudra-meditation",
+   "refs": 1,
    "e.g.": [
-    "tea:wuhui-nianfo-fashi-yizan:474c25",
-    "tea:wuhui-nianfo-fashi-yizan:476b27-c02"
+    "tea:gyalwai-shunglam:mind"
    ]
   },
   {
-   "id": "cpt:lotus-society",
-   "refs": 2,
+   "id": "obs:blank-meditation",
+   "refs": 1,
    "e.g.": [
-    "tea:gaoseng-zhuan:358c17-29",
-    "tea:lushan-lianzong-baojian:326a12"
+    "tea:domsum-rabye:ch.3.karpo-chigtub"
    ]
   },
   {
-   "id": "prc:nianfo-society",
-   "refs": 2,
+   "id": "dsp:reality-of-universals-tibetan",
+   "refs": 1,
    "e.g.": [
-    "tea:gaoseng-zhuan:358c17-29",
-    "tea:lushan-lianzong-baojian:326a12"
+    "tea:tshad-ma-rigs-gter:universals"
    ]
   },
   {
-   "id": "prc:shashen-wangsheng",
-   "refs": 2,
+   "id": "dsp:is-the-ultimate-knowable",
+   "refs": 1,
    "e.g.": [
-    "tea:fozu-tongji:263a22-b18",
-    "tea:xu-gaoseng-zhuan:684a11-18"
+    "tea:taway-shenje:ultimate-not-object"
    ]
   },
   {
-   "id": "cpt:pure-land-patriarchs",
-   "refs": 2,
+   "id": "prc:kadam-sixteen-drops",
+   "refs": 1,
    "e.g.": [
-    "tea:fozu-tongji:260c19-24",
-    "tea:lebang-wenlei:192c18"
+    "tea:book-of-kadam:sixteen-drops"
    ]
   },
   {
-   "id": "trm:xinyuanxing",
-   "refs": 2,
+   "id": "trm:takten-therzuk",
+   "refs": 1,
    "e.g.": [
-    "tea:amituo-jing-yaojie:faith-vow-practice",
-    "tea:yinguang-wenchao:summary-of-teaching"
+    "tea:mountain-doctrine:ground/2"
    ]
   },
   {
-   "id": "cpt:faith-vow-practice",
-   "refs": 2,
+   "id": "trm:lobur-drima",
+   "refs": 1,
    "e.g.": [
-    "tea:amituo-jing-yaojie:faith-vow-practice",
-    "tea:yinguang-wenchao:summary-of-teaching"
+    "tea:mountain-doctrine:ground/3"
    ]
   },
   {
-   "id": "trm:senchaku",
-   "refs": 2,
+   "id": "trm:kundzob-denpa",
+   "refs": 1,
    "e.g.": [
-    "tea:senchakushu:16",
-    "tea:senchakushu:3"
+    "tea:mountain-doctrine:two-truths"
    ]
   },
   {
-   "id": "trm:ichinengi",
-   "refs": 2,
+   "id": "cpt:two-alayas-jonang",
+   "refs": 1,
    "e.g.": [
-    "tea:ichinen-tanen-mon-i:conclusion",
-    "tea:kurodani-shonin-gotoroku:one-calling-letter"
+    "tea:mountain-doctrine:alaya"
    ]
   },
   {
-   "id": "trm:tanengi",
-   "refs": 2,
+   "id": "cpt:great-madhyamaka",
+   "refs": 1,
    "e.g.": [
-    "tea:ichinen-tanen-mon-i:conclusion",
-    "tea:kurodani-shonin-gotoroku:one-calling-letter"
+    "tea:mountain-doctrine:definitive"
    ]
   },
   {
-   "id": "cpt:birth-in-the-pure-land",
-   "refs": 2,
+   "id": "cpt:bodhisattva-commentaries",
+   "refs": 1,
    "e.g.": [
-    "tea:kyogyoshinsho:sho",
-    "tea:tannisho:15"
+    "tea:mountain-doctrine:definitive"
    ]
   },
   {
-   "id": "cpt:seven-masters-shinshu",
-   "refs": 2,
+   "id": "trm:chetong",
+   "refs": 1,
    "e.g.": [
-    "tea:koso-wasan:seven-masters",
-    "tea:shoshinge:seven-masters"
+    "tea:mountain-doctrine:annihilatory-emptiness"
    ]
   },
   {
-   "id": "trm:bonno",
-   "refs": 2,
+   "id": "cpt:emptiness-endowed-with-all-supreme-aspects",
+   "refs": 1,
    "e.g.": [
-    "tea:shozomatsu-wasan:lament",
-    "tea:tannisho:9"
+    "tea:mountain-doctrine:annihilatory-emptiness"
    ]
   },
   {
-   "id": "trm:hakarai",
-   "refs": 2,
+   "id": "obs:annihilatory-emptiness",
+   "refs": 1,
    "e.g.": [
-    "tea:mattosho:5",
-    "tea:tannisho:10"
+    "tea:mountain-doctrine:annihilatory-emptiness"
    ]
   },
   {
-   "id": "cpt:jinen-honi",
-   "refs": 2,
+   "id": "trm:kadu-zhipa",
+   "refs": 1,
    "e.g.": [
-    "tea:mattosho:5",
-    "tea:tannisho:10"
+    "tea:fourth-council-dolpopa:four-ages"
    ]
   },
   {
-   "id": "cpt:evil-person-as-true-object",
-   "refs": 2,
+   "id": "trm:rangrig-yeshe",
+   "refs": 1,
    "e.g.": [
-    "tea:tannisho:13",
-    "tea:tannisho:3"
+    "tea:zhentong-nyingpo-taranatha:ultimate"
    ]
   },
   {
-   "id": "cpt:teacher-in-shinshu",
-   "refs": 2,
+   "id": "tea:chandogya-upanisad:7.25.2",
+   "refs": 1,
    "e.g.": [
-    "tea:tannisho:6",
-    "tea:tannisho:colophon"
+    "tea:bhagavad-gita:3.17"
    ]
   },
   {
-   "id": "cpt:name-as-birth-ippen",
-   "refs": 2,
+   "id": "tea:bhagavad-gita:16.21",
+   "refs": 1,
    "e.g.": [
-    "tea:ippen-hijiri-e:3.kumano",
-    "tea:ippen-shonin-goroku:sutete-koso"
+    "tea:bhagavad-gita:3.37"
    ]
   },
   {
-   "id": "trm:nija",
-   "refs": 2,
+   "id": "tea:katha-upanisad:1.3.10",
+   "refs": 1,
    "e.g.": [
-    "tea:dohakosa-saraha:v24",
-    "ult:mahasiddha"
+    "tea:bhagavad-gita:3.42"
    ]
   },
   {
-   "id": "trm:maharaga",
-   "refs": 2,
+   "id": "tea:chandogya-upanisad:6.1.3",
+   "refs": 1,
    "e.g.": [
-    "tea:dohakosa-saraha:v28-29",
-    "tea:manjusrinamasamgiti:30"
+    "tea:bhagavad-gita:7.2"
    ]
   },
   {
-   "id": "trm:cittata",
-   "refs": 2,
+   "id": "tea:bhagavad-gita:13.6",
+   "refs": 1,
    "e.g.": [
-    "tea:dohakosa-saraha:v42-43",
-    "ult:mahasiddha"
+    "tea:bhagavad-gita:7.4"
    ]
   },
   {
-   "id": "cpt:non-duality-of-samsara-nirvana",
-   "refs": 2,
+   "id": "tea:brhadaranyaka-upanisad:3.8.11",
+   "refs": 1,
    "e.g.": [
-    "tea:dohakosa-queen-saraha:v10-11",
-    "tea:dohakosa-saraha:v122"
+    "tea:bhagavad-gita:7.7"
    ]
   },
   {
-   "id": "cpt:secrecy-and-qualification",
-   "refs": 2,
+   "id": "tea:svetasvatara-upanisad:3.19",
+   "refs": 1,
    "e.g.": [
-    "tea:dohakosa-queen-saraha:v15-17",
-    "tea:hevajra-tantra:2.3"
+    "tea:bhagavad-gita:7.26"
    ]
   },
   {
-   "id": "prc:vratacarya",
-   "refs": 2,
+   "id": "tea:manusmrti:1.73",
+   "refs": 1,
    "e.g.": [
-    "tea:dohakosa-queen-saraha:v40-52",
-    "tea:hevajra-tantra:1.6"
+    "tea:bhagavad-gita:8.17"
    ]
   },
   {
-   "id": "prc:guru-devotion-vajrayana",
-   "refs": 2,
+   "id": "tea:bhagavad-gita:13.28",
+   "refs": 1,
    "e.g.": [
-    "tea:dohakosa-queen-saraha:v53-57",
-    "tea:gurupancasika:22"
+    "tea:bhagavad-gita:8.20"
    ]
   },
   {
-   "id": "cpt:four-moments",
-   "refs": 2,
+   "id": "tea:chandogya-upanisad:5.10.1",
+   "refs": 1,
    "e.g.": [
-    "tea:dohakosa-tilopa:3",
-    "tea:hevajra-tantra:1.10"
+    "tea:bhagavad-gita:8.24"
    ]
   },
   {
-   "id": "prc:candali",
-   "refs": 2,
+   "id": "tea:chandogya-upanisad:5.10.2",
+   "refs": 1,
    "e.g.": [
-    "tea:hevajra-tantra:1.1.candali",
-    "tea:saddharmopadesa-tilopa:1"
+    "tea:bhagavad-gita:8.24"
    ]
   },
   {
-   "id": "prc:illusory-body",
-   "refs": 2,
+   "id": "tea:chandogya-upanisad:5.10.3",
+   "refs": 1,
    "e.g.": [
-    "tea:pancakrama:3.10-12",
-    "tea:saddharmopadesa-tilopa:2"
+    "tea:bhagavad-gita:8.25"
    ]
   },
   {
-   "id": "cpt:bodhicitta-vajrayana",
-   "refs": 2,
+   "id": "tea:chandogya-upanisad:5.10.4",
+   "refs": 1,
    "e.g.": [
-    "tea:guhyasamaja-tantra:2.3",
-    "tea:guhyasamaja-tantra:2.3p"
+    "tea:bhagavad-gita:8.25"
    ]
   },
   {
-   "id": "cpt:two-stages",
-   "refs": 2,
+   "id": "tea:bhagavad-gita:18.64",
+   "refs": 1,
    "e.g.": [
-    "tea:pancakrama:1.2",
-    "tea:pancakrama:5.20"
+    "tea:bhagavad-gita:9.1"
    ]
   },
   {
-   "id": "cpt:winds-vajrayana",
-   "refs": 2,
+   "id": "tea:bhagavad-gita:18.67",
+   "refs": 1,
    "e.g.": [
-    "tea:pancakrama:1.3",
-    "tea:sekoddesa:43-45"
+    "tea:bhagavad-gita:9.1"
    ]
   },
   {
-   "id": "cpt:four-empties",
-   "refs": 2,
+   "id": "tea:bhagavad-gita:14.3",
+   "refs": 1,
    "e.g.": [
-    "tea:pancakrama:2.4",
-    "tea:pancakrama:2.5"
+    "tea:bhagavad-gita:9.10"
    ]
   },
   {
-   "id": "cpt:clear-light-vajrayana",
-   "refs": 2,
+   "id": "tea:svetasvatara-upanisad:3.3",
+   "refs": 1,
    "e.g.": [
-    "tea:pancakrama:2.5",
-    "tea:pancakrama:3.13-14"
+    "tea:bhagavad-gita:9.15"
    ]
   },
   {
-   "id": "cpt:eighty-natural-concepts",
-   "refs": 2,
+   "id": "tea:chandogya-upanisad:5.10.5",
+   "refs": 1,
    "e.g.": [
-    "tea:pancakrama:2.20-27",
-    "tea:pancakrama:2.7-12"
+    "tea:bhagavad-gita:9.21"
    ]
   },
   {
-   "id": "cpt:illusory-body",
-   "refs": 2,
+   "id": "tea:mundaka-upanisad:1.2.7",
+   "refs": 1,
    "e.g.": [
-    "tea:pancakrama:3.10-12",
-    "tea:pancakrama:3.13-14"
+    "tea:bhagavad-gita:9.21"
    ]
   },
   {
-   "id": "cpt:two-truths-tantric",
-   "refs": 2,
+   "id": "tea:mundaka-upanisad:2.1.4",
+   "refs": 1,
    "e.g.": [
-    "tea:pancakrama:5.11-13",
-    "tea:sekoddesa:8-9"
+    "tea:bhagavad-gita:11.19"
    ]
   },
   {
-   "id": "trm:lalana",
-   "refs": 2,
+   "id": "tea:bhagavad-gita:13.1",
+   "refs": 1,
    "e.g.": [
-    "tea:hevajra-tantra:1.1.channels",
-    "tea:sekoddesa:46-50"
+    "tea:bhagavad-gita:ch12"
    ]
   },
   {
-   "id": "trm:rasana",
-   "refs": 2,
+   "id": "trm:jivanmukta",
+   "refs": 1,
    "e.g.": [
-    "tea:hevajra-tantra:1.1.channels",
-    "tea:sekoddesa:46-50"
+    "trm:sthitaprajna"
    ]
   },
   {
-   "id": "trm:aksara-sukha",
-   "refs": 2,
+   "id": "trm:pudgala-paramanu",
+   "refs": 1,
    "e.g.": [
-    "tea:sekoddesa:80-82",
-    "ult:kalacakra"
+    "trm:paramanu"
    ]
   },
   {
-   "id": "cpt:adventitious-stains-vajrayana",
-   "refs": 2,
+   "id": "trm:madhurya-bhava",
+   "refs": 1,
    "e.g.": [
-    "tea:hevajra-tantra:2.4",
-    "tea:sekoddesa:129-133"
+    "trm:sati-pati-bhava"
    ]
   },
   {
-   "id": "trm:a-syllable",
-   "refs": 2,
+   "id": "trm:yoga-nidra",
+   "refs": 1,
    "e.g.": [
-    "tea:amanasikaradhara:end",
-    "tea:manjusrinamasamgiti:28-29"
+    "trm:tunkamal-tunkal"
    ]
   },
   {
-   "id": "cpt:adibuddha",
-   "refs": 2,
+   "id": "trm:astavidha-pariksa",
+   "refs": 1,
    "e.g.": [
-    "tea:manjusrinamasamgiti:100",
-    "tea:vimalaprabha:1"
+    "trm:envagai-tervu"
    ]
   },
   {
-   "id": "cpt:deity-yoga",
-   "refs": 2,
+   "id": "trm:vassa",
+   "refs": 1,
    "e.g.": [
-    "tea:hevajra-tantra:1.5",
-    "tea:sarvatathagatatattvasamgraha:1.five-abhisambodhis"
+    "trm:caturmasa"
    ]
   },
   {
-   "id": "cpt:examining-the-teacher",
-   "refs": 2,
+   "id": "trm:pavarana",
+   "refs": 1,
    "e.g.": [
-    "tea:gurupancasika:6-7",
-    "tea:gurupancasika:8-9"
+    "trm:ksamapana"
    ]
   },
   {
-   "id": "cpt:fourteen-root-downfalls",
-   "refs": 2,
+   "id": "trm:marga",
+   "refs": 1,
    "e.g.": [
-    "tea:advayavajrasamgraha:2.mulapatti",
-    "tea:gurupancasika:49"
+    "trm:magga"
    ]
   },
   {
-   "id": "cpt:superiority-of-mantranaya",
-   "refs": 2,
+   "id": "trm:anatman",
+   "refs": 1,
    "e.g.": [
-    "tea:nayatrayapradipa:four-superiorities",
-    "tea:tattvaratnavali:end"
+    "trm:anatta"
    ]
   },
   {
-   "id": "dsp:mantra-and-paramita-ways",
-   "refs": 2,
+   "id": "trm:samvrti",
+   "refs": 1,
    "e.g.": [
-    "tea:nayatrayapradipa:four-superiorities",
-    "tea:tattvaratnavali:end"
+    "trm:sammuti"
    ]
   },
   {
-   "id": "dsp:higher-consecrations-for-monastics",
-   "refs": 2,
+   "id": "trm:bodhyanga",
+   "refs": 1,
+   "e.g.": [
+    "trm:bojjhanga"
+   ]
+  },
+  {
+   "id": "cpt:three-states-and-the-fourth",
+   "refs": 1,
+   "e.g.": [
+    "cpt:four-states-and-turya"
+   ]
+  },
+  {
+   "id": "cpt:four-stages-saiva-siddhanta",
+   "refs": 1,
+   "e.g.": [
+    "cpt:four-padas-of-agama"
+   ]
+  },
+  {
+   "id": "cpt:asatkaryavada",
+   "refs": 1,
+   "e.g.": [
+    "cpt:satkaryavada"
+   ]
+  },
+  {
+   "id": "cpt:vivartavada",
+   "refs": 1,
+   "e.g.": [
+    "cpt:parinamavada"
+   ]
+  },
+  {
+   "id": "cpt:jhana",
+   "refs": 1,
+   "e.g.": [
+    "cpt:samapatti"
+   ]
+  },
+  {
+   "id": "cpt:five-spiritual-faculties",
+   "refs": 1,
+   "e.g.": [
+    "cpt:sraddha-virya-smrti-samadhi-prajna"
+   ]
+  },
+  {
+   "id": "cpt:pramana-vyavastha-buddhist",
+   "refs": 1,
+   "e.g.": [
+    "cpt:pramana-samplava"
+   ]
+  },
+  {
+   "id": "cpt:non-duality-of-self-advaita",
+   "refs": 1,
+   "e.g.": [
+    "cpt:plurality-of-selves"
+   ]
+  },
+  {
+   "id": "cpt:self-luminous-consciousness",
+   "refs": 1,
+   "e.g.": [
+    "cpt:cognition-adventitious"
+   ]
+  },
+  {
+   "id": "cpt:nine-rasas-natyasastra",
+   "refs": 1,
+   "e.g.": [
+    "cpt:five-devotional-rasas"
+   ]
+  },
+  {
+   "id": "cpt:yama-niyama",
+   "refs": 1,
+   "e.g.": [
+    "cpt:pasupata-yama-niyama"
+   ]
+  },
+  {
+   "id": "cpt:vivarta",
+   "refs": 1,
+   "e.g.": [
+    "cpt:abhasavada"
+   ]
+  },
+  {
+   "id": "cpt:eighty-four-mahasiddhas",
+   "refs": 1,
+   "e.g.": [
+    "cpt:eighty-four-siddhas-natha"
+   ]
+  },
+  {
+   "id": "cpt:tridosa",
+   "refs": 1,
+   "e.g.": [
+    "cpt:three-humours-siddha"
+   ]
+  },
+  {
+   "id": "cpt:sandhya-bhasa",
+   "refs": 1,
+   "e.g.": [
+    "cpt:paripasai"
+   ]
+  },
+  {
+   "id": "cpt:emptiness",
+   "refs": 1,
+   "e.g.": [
+    "cpt:emptiness-early"
+   ]
+  },
+  {
+   "id": "cpt:seven-abhidhamma-books",
+   "refs": 1,
+   "e.g.": [
+    "cpt:seven-abhidharma-books"
+   ]
+  },
+  {
+   "id": "cpt:five-paths",
+   "refs": 1,
+   "e.g.": [
+    "cpt:four-nirvedhabhagiyas"
+   ]
+  },
+  {
+   "id": "cpt:no-self",
+   "refs": 1,
+   "e.g.": [
+    "cpt:pudgala-doctrine"
+   ]
+  },
+  {
+   "id": "tea:bodhipathapradipa:v50",
+   "refs": 1,
+   "e.g.": [
+    "ult:kadam"
+   ]
+  },
+  {
+   "id": "trm:yum-chenmo",
+   "refs": 1,
+   "e.g.": [
+    "ult:chod"
+   ]
+  },
+  {
+   "id": "trm:zhije",
+   "refs": 1,
+   "e.g.": [
+    "ult:shije"
+   ]
+  },
+  {
+   "id": "trm:menla",
+   "refs": 1,
+   "e.g.": [
+    "ult:sowa-rigpa"
+   ]
+  },
+  {
+   "id": "trm:rime",
+   "refs": 1,
+   "e.g.": [
+    "ult:rime"
+   ]
+  },
+  {
+   "id": "obs:klesas",
+   "refs": 1,
+   "e.g.": [
+    "obs:bhutadahiya-dosas"
+   ]
+  },
+  {
+   "id": "obs:tirodhana-sakti",
+   "refs": 1,
+   "e.g.": [
+    "obs:tirobhava"
+   ]
+  },
+  {
+   "id": "prc:kriya-yoga (thins them, 2.2)",
+   "refs": 1,
+   "e.g.": [
+    "obs:five-klesas"
+   ]
+  },
+  {
+   "id": "prc:dhyana (removes their gross activities, 2.11)",
+   "refs": 1,
+   "e.g.": [
+    "obs:five-klesas"
+   ]
+  },
+  {
+   "id": "obs:klesa",
+   "refs": 1,
+   "e.g.": [
+    "obs:five-klesas"
+   ]
+  },
+  {
+   "id": "obs:three-bonds",
+   "refs": 1,
+   "e.g.": [
+    "obs:three-malas"
+   ]
+  },
+  {
+   "id": "prc:khecari-mudra (restricted)",
+   "refs": 1,
+   "e.g.": [
+    "obs:bindu-pata"
+   ]
+  },
+  {
+   "id": "prc:rasayana (delays old age; does not abolish death in Āyurveda)",
+   "refs": 1,
+   "e.g.": [
+    "obs:svabhavika-roga"
+   ]
+  },
+  {
+   "id": "obs:asavas",
+   "refs": 1,
+   "e.g.": [
+    "obs:four-asavas"
+   ]
+  },
+  {
+   "id": "cpt:emptiness-of-emptiness (understanding that emptiness too is empty)",
+   "refs": 1,
+   "e.g.": [
+    "obs:sunyata-drsti"
+   ]
+  },
+  {
+   "id": "prc:self-inquiry",
+   "refs": 1,
+   "e.g.": [
+    "prc:vicara-yoga-vasistha"
+   ]
+  },
+  {
+   "id": "prc:bhakti",
+   "refs": 1,
+   "e.g.": [
+    "prc:isvara-pranidhana"
+   ]
+  },
+  {
+   "id": "prc:sravana-manana-nididhyasana",
+   "refs": 1,
+   "e.g.": [
+    "prc:manana-nyaya"
+   ]
+  },
+  {
+   "id": "prc:yoga-nidra",
+   "refs": 1,
+   "e.g.": [
+    "prc:tunkamal-tunkal"
+   ]
+  },
+  {
+   "id": "prc:vassa",
+   "refs": 1,
+   "e.g.": [
+    "prc:caturmasa"
+   ]
+  },
+  {
+   "id": "src:naisadhiyacarita",
+   "refs": 1,
+   "e.g.": [
+    "dsp:bliss-in-liberation"
+   ]
+  },
+  {
+   "id": "src:laksmidhara (a Samaya author setting out views he goes on to answer)",
+   "refs": 1,
+   "e.g.": [
+    "dsp:siva-sakti-primacy"
+   ]
+  },
+  {
+   "id": "src:rissho-ankoku-ron",
+   "refs": 1,
+   "e.g.": [
+    "dsp:exclusive-nenbutsu-controversy"
+   ]
+  },
+  {
+   "id": "lin:tantra-movement",
+   "refs": 1,
+   "e.g.": [
+    "brw:tantra-to-jain-mantrasastra"
+   ]
+  },
+  {
+   "id": "src:singalaka-sutta",
+   "refs": 1,
    "e.g.": [
-    "tea:bodhipathapradipa:65-67",
-    "tea:bodhipathapradipa:68"
+    "brw:singalaka-agama-parallel"
    ]
   }
  ]

@@ -13,9 +13,14 @@ Bhagavad Gītā 1–3: One whose self is deluded by the sense of 'I' thinks 'I a
   - [Mokṣopāya](../texts/moksopaya.md) — ref: 1.14; 4.7-16; rests_on: ["tea:moksopaya:1.12-28", "tea:moksopaya:4.7-16"]
   - [Aṣṭāvakra Gītā](../texts/astavakra-gita.md) — ref: 1.8; rests_on: ["tea:astavakra-gita:1.7-10"]
   - [Rāma Gītā](../texts/rama-gita.md) — ref: 7.5.38; rests_on: ["tea:rama-gita:7.5.34-41"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.13; rests_on: ["tea:bhagavad-gita:12.13"]
   - [Gītābhāṣya of Rāmānuja](../texts/gita-bhasya-ramanuja.md) — ref: 18.4-11; rests_on: ["tea:gita-bhasya-ramanuja:18.4-11"]
   - [The oral and popular corpus of Kabīr (sākhīs, dohās, padas and bhajans)](../texts/kabir-oral-corpus.md) — ref: 'prem galī ati sāṃkarī'; rests_on: ["tea:kabir-oral-corpus:prem-gali-ati-sankari"]
   - [Dādū Vāṇī (Dādū Dayāl kī Bāṇī)](../texts/dadu-vani.md) — ref: 'āpā meṭe hari bhajai'; rests_on: ["tea:dadu-vani:apa-mete-hari-bhajai"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U06-other-gitas, skeleton:U14-visistadvaita, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:12.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch10-12, skeleton:U14-visistadvaita, skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

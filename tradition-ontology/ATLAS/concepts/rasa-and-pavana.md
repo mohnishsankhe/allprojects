@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [Mercury and mind](rasa-mind-analogy.md): HYP 4.26-27 applies the same verse to mercury and mind/breath — rests on [1.18-21](../texts/rasarnava.md#tea-rasarnava-1-18-21), [4.26-27](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-4-26-27)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._

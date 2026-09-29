@@ -9,4 +9,4 @@
 The Buddha's cousin and monk who sought leadership of the Saṅgha, plotted against the Buddha with Ajātasattu, proposed five compulsory austerities and caused the first schism (Cv 7).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

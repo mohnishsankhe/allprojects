@@ -15,4 +15,4 @@ An anonymous vṛtti on the SK (designated V2), edited by E. A. Solomon; a witne
   - kind: original; name: E. A. Solomon (ed.), Sāṃkhya-Vṛtti (V2), Ahmedabad 1973
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:34 IST._

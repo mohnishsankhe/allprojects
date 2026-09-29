@@ -23,7 +23,7 @@ Lay men and women of this last age, ignorant of the teaching, should abandon all
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: beginner · types: practice, karma-liberation_
 
-terms: `trm:hoon`, `trm:tanomu` · concepts: `cpt:nenbutsu-as-gratitude`, `cpt:shinjin` · teachers: [Rennyo](../teachers/rennyo.md)
+terms: [hōon](../terms/hoon.md), [tanomu](../terms/tanomu.md) · concepts: [The nenbutsu as gratitude (hōon)](../concepts/nenbutsu-as-gratitude.md), [Shinjin — true entrusting](../concepts/shinjin.md) · teachers: [Rennyo](../teachers/rennyo.md)
 
 ### 5.16 <a id="tea-rennyo-ofumi-5-16"></a>
 `skeleton` · confidence high
@@ -32,7 +32,7 @@ When we consider the fleeting nature of human life, it is like an illusion from 
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: death-dying, karma-liberation_
 
-terms: `trm:gosho-no-ichidaiji` · concepts: `cpt:one-great-matter-of-the-afterlife` · teachers: [Rennyo](../teachers/rennyo.md)
+terms: [goshō no ichidaiji](../terms/gosho-no-ichidaiji.md) · concepts: [The one great matter of the afterlife (goshō no ichidaiji)](../concepts/one-great-matter-of-the-afterlife.md) · teachers: [Rennyo](../teachers/rennyo.md)
 
 ### heresies <a id="tea-rennyo-ofumi-heresies"></a>
 `skeleton` · confidence moderate
@@ -41,7 +41,7 @@ Rennyo rejects the view that birth was already settled ten kalpas ago when Amida
 
 _level: conventional · standpoint: polemical · path: devotion · stage: all · types: dispute_
 
-obstacles: `obs:jikko-anjin`, `obs:hiji-bomon` · teachers: [Rennyo](../teachers/rennyo.md)
+obstacles: [The heresy of 'settled ten kalpas ago' (jikkō anjin)](../obstacles/jikko-anjin.md), [Secret teachings (hiji bōmon)](../obstacles/hiji-bomon.md) · teachers: [Rennyo](../teachers/rennyo.md)
 
 ### obo <a id="tea-rennyo-ofumi-obo"></a>
 `skeleton` · confidence moderate
@@ -50,8 +50,8 @@ Keep the laws of the land as fundamental (ōbō ihon) and humanity and justice f
 
 _level: conventional · standpoint: ethical-social · path: devotion, action · stage: all · types: ethics_
 
-concepts: `cpt:obo-buppo` · teachers: [Rennyo](../teachers/rennyo.md)
+concepts: [The law of the land and the Buddha's Dharma (ōbō / buppō)](../concepts/obo-buppo.md) · teachers: [Rennyo](../teachers/rennyo.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

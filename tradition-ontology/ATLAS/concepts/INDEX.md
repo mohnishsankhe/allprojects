@@ -1,9 +1,10 @@
-# Concepts (2454)
+# Concepts (2862)
 
-sourced: 161 · skeleton: 2293
+sourced: 161 · skeleton: 2701
 
 - ['A man is born into the world he has made'](self-made-world.md) — `sourced`
 - ['Atat tvam asi' — Dvaita's reading of Chāndogya 6.8.7](atat-tvam-asi.md) — `skeleton`
+- ['If you meet the Buddha, kill the Buddha'](killing-the-buddha.md) — `skeleton`
 - ['In the seen only the seen' (the Bāhiya teaching)](bahiya-teaching.md) — `skeleton`
 - ['Not so, not so' (neti neti)](neti-neti.md) — `sourced`
 - ['The one who knows' (Thai forest)](the-one-who-knows.md) — `skeleton` _(recent)_
@@ -20,6 +21,7 @@ sourced: 161 · skeleton: 2293
 - [Actionlessness (naiṣkarmya)](naiskarmya.md) — `skeleton`
 - [Active and quiescent Vedic action](pravrtti-nivrtti.md) — `sourced`
 - [Adjunct-conditioned difference-and-non-difference (Bhāskara)](aupadhika-bhedabheda.md) — `skeleton`
+- [Adversity as the return of one's own deeds](karma-lojong.md) — `skeleton`
 - [Aesthetic relish as consciousness at rest (brahmāsvāda-sahodara)](rasa-as-relish-of-consciousness.md) — `skeleton`
 - [After-cognition (anuvyavasāya): cognition is known by a further cognition](anuvyavasaya.md) — `skeleton`
 - [Aghora as service](aghora-seva.md) — `skeleton` _(recent)_
@@ -35,6 +37,7 @@ sourced: 161 · skeleton: 2293
 - [All words denote Viṣṇu (sarva-śabda-vācyatva)](sarvasabdavacyatva.md) — `skeleton`
 - [Ambubachi: the Goddess's annual menstruation](ambubachi.md) — `skeleton`
 - [Analysis by identity and difference](identity-difference-analysis.md) — `skeleton`
+- [Analytical and placement meditation](analytical-and-placement-meditation.md) — `skeleton`
 - [Annihilationism (ucchedavāda)](ucchedavada.md) — `skeleton`
 - [Anvitābhidhāna (expression of the connected)](anvitabhidhana.md) — `skeleton`
 - [Apparent transformation (vivarta-vāda)](vivarta-vada.md) — `skeleton`
@@ -48,19 +51,25 @@ sourced: 161 · skeleton: 2293
 - [Attributeless and qualified Brahman](nirguna-saguna-brahman.md) — `skeleton`
 - [Attributive consciousness (dharmabhūta-jñāna)](dharmabhuta-jnana.md) — `skeleton`
 - [Augury (śakuna)](sakuna-augury.md) — `skeleton`
+- [Auspicious signs of birth at death](signs-of-birth.md) — `skeleton`
 - [Austerity / creative heat (tapas)](tapas.md) — `sourced`
 - [Authority: the Veda, the āptas and the saṃhitās](status-of-veda-ayurveda.md) — `skeleton`
 - [Autonomous inference in Madhyamaka](svatantra-anumana.md) — `skeleton`
 - [Avidyā (ignorance) in Advaita](avidya.md) — `skeleton`
 - [Avimukta and the tāraka](avimukta-taraka.md) — `skeleton`
+- [Awareness (rig pa) and ordinary mind (sems)](rigpa-and-sem.md) — `skeleton`
 - [Aṟam, poruḷ, iṉpam — the Kuṟaḷ's three aims](aram-porul-inpam.md) — `skeleton`
 - [Bagalāmukhī / Pītāmbarā (eighth Mahāvidyā)](mahavidya-bagalamukhi.md) — `skeleton`
+- [Balance of alertness and calm (xingxing jiji)](alert-calm-balance.md) — `skeleton`
 - [Balancing the faculties](balancing-faculties.md) — `skeleton`
 - [Bandhu — the correspondences between rite, cosmos and person](bandhu-correspondences.md) — `sourced`
 - [Basis of power (iddhipāda)](iddhipada.md) — `skeleton`
 - [Before creation: the Nāsadīya account](nasadiya-before-creation.md) — `skeleton`
 - [Begampura, the city without sorrow](begampura.md) — `skeleton`
 - [Being and non-being at the origin](sat-and-asat.md) — `sourced`
+- [Being merely the instrument (nimitta-mātra)](nimitta-matra.md) — `skeleton`
+- [Being-time (uji)](being-time.md) — `skeleton`
+- [Beings are buddhas obscured by adventitious stains](adventitious-stains-vajrayana.md) — `skeleton`
 - [Being–consciousness–bliss (sat-cit-ānanda)](sat-cit-ananda.md) — `skeleton`
 - [Beyond castes and stages (ativarṇāśramin, atyāśramin)](ativarnasrami.md) — `skeleton`
 - [Bhairava's severing of Brahmā's head and the skull-penance](bhairava-brahmahatya-myth.md) — `skeleton`
@@ -75,12 +84,16 @@ sourced: 161 · skeleton: 2293
 - [Bhū-maṇḍala: Meru, seven island-continents and seven oceans](bhu-mandala.md) — `skeleton`
 - [Bindu and its retention](bindu-natha.md) — `skeleton`
 - [Bindu — the drop / point](bindu.md) — `skeleton`
+- [Birth in the Pure Land (wangsheng / ōjō) as the condition for awakening](birth-in-the-pure-land.md) — `skeleton`
 - [Birth- and death-impurity (āśauca)](asauca.md) — `sourced`
 - [Birth-groups and mixed classes (varṇasaṅkara)](jati-mixed-classes.md) — `sourced`
+- [Blending and transference (bsre 'pho)](blending-and-transference.md) — `skeleton`
 - [Blinding darkness (andhatamas)](andhatamas.md) — `skeleton`
 - [Bliss (ānanda) as brahman](ananda.md) — `sourced`
 - [Bliss in Advaita](bliss-advaita.md) — `skeleton`
+- [Bliss, clarity and non-thought (the three experiences)](bliss-clarity-nonthought.md) — `skeleton`
 - [Blood offering (bali) in Śākta worship](bali-in-sakta-worship.md) — `skeleton`
+- [Bodhicitta in the tantras](bodhicitta-vajrayana.md) — `skeleton`
 - [Bodhisattva precepts (sūtra layer)](bodhisattva-precepts.md) — `skeleton`
 - [Bodiless liberation (videhamukti)](videhamukti.md) — `skeleton`
 - [Bodily loci of concentration and saṃyama](bodily-loci-of-samyama.md) — `skeleton`
@@ -107,7 +120,10 @@ sourced: 161 · skeleton: 2293
 - [Buddha-nature (tathāgatagarbha, buddhadhātu)](buddha-nature.md) — `skeleton`
 - [Buddha-nature as the emptiness of the highest meaning and the middle way](buddha-nature-as-middle-way.md) — `skeleton`
 - [Buddha-nature called 'self'](tathagatagarbha-as-self.md) — `skeleton`
+- [Buddha-nature in Chan, Seon and Zen](buddha-nature-chan.md) — `skeleton`
+- [Buddhahood in one life and one body](buddhahood-in-one-lifetime.md) — `skeleton`
 - [Buddhi (intellect)](buddhi.md) — `skeleton`
+- [Buddhist historians' three phases of Bön](bon-three-phases-polemic.md) — `skeleton`
 - [Burial of yogīs in samādhi](natha-samadhi-burial.md) — `skeleton`
 - [Caitanya as Rādhā and Kṛṣṇa combined](caitanya-as-radha-krsna.md) — `skeleton`
 - [Caitanya's three states of consciousness](three-dasas-of-caitanya.md) — `skeleton`
@@ -122,17 +138,23 @@ sourced: 161 · skeleton: 2293
 - [Caste among devotees](virasaiva-caste-critique.md) — `skeleton`
 - [Categories (padārtha) in Mīmāṃsā](categories.md) — `skeleton`
 - [Causal efficacy without a separate power (śakti)](samagri-without-sakti.md) — `skeleton`
+- [Cause and effect for the awakened](karma-after-awakening.md) — `skeleton`
 - [Causeless destruction and momentariness](causeless-destruction.md) — `skeleton`
 - [Causeless grace and its occasion](nirhetuka-krpa.md) — `skeleton`
+- [Chan attitude to supernatural powers](chan-view-of-powers.md) — `skeleton`
 - [Chance origination (adhicca-samuppanna)](adhiccasamuppanna.md) — `skeleton`
 - [Channels and the crown path (nāḍī)](nadis-dvaita.md) — `skeleton`
+- [Channels, winds and essences in Anuyoga](vajra-body-anuyoga.md) — `skeleton`
 - [Cheating time (kāla-vañcana)](kala-vancana.md) — `skeleton`
 - [Chinnamastā (sixth Mahāvidyā)](mahavidya-chinnamasta.md) — `skeleton`
 - [Choosing treatise, teacher and student; initiation](teacher-and-student-ayurveda.md) — `skeleton`
 - [Claims and display of powers among the orders](display-of-powers.md) — `skeleton`
 - [Classes of action for the seeker](karma-classes-advaita.md) — `skeleton`
 - [Classes of asterisms for action](naksatra-classes.md) — `skeleton`
+- [Classifications of the tantras](tantra-classes.md) — `skeleton`
 - [Clay and its products](clay-and-pots.md) — `skeleton`
+- [Clear light (prabhāsvara)](clear-light-vajrayana.md) — `skeleton`
+- [Co-emergent union (lhan cig skyes sbyor)](co-emergent-union.md) — `skeleton`
 - [Co-reference (sāmānādhikaraṇya)](samanadhikaranya.md) — `skeleton`
 - [Coalescence (samāpatti)](samapatti.md) — `skeleton`
 - [Cognition as an adventitious quality of the self](cognition-adventitious.md) — `skeleton`
@@ -143,6 +165,7 @@ sourced: 161 · skeleton: 2293
 - [Combination of knowledge and works (jñāna-karma-samuccaya)](jnana-karma-samuccaya.md) — `skeleton`
 - [Combinations for renunciation (pravrajyā-yoga)](pravrajya-yogas.md) — `skeleton`
 - [Combinations for wealth and poverty](dhana-yogas.md) — `skeleton`
+- [Common and supreme attainments](siddhis-vajrayana.md) — `skeleton`
 - [Communal recitation](communal-recitation.md) — `skeleton`
 - [Comparison (upamāna)](upamana.md) — `skeleton`
 - [Conceiving (maññanā)](conceiving.md) — `skeleton`
@@ -152,7 +175,9 @@ sourced: 161 · skeleton: 2293
 - [Conduct at will (svecchācāra)](svecchacara.md) — `skeleton`
 - [Conduct, rules and purity](ethics-kashmir.md) — `skeleton`
 - [Conduct: inner and outer purity, word and deed](virasaiva-conduct.md) — `skeleton`
+- [Confirmation by a teacher (inka)](inka-confirmation.md) — `skeleton`
 - [Conformity to the world (lokānuvartanā)](lokanuvartana.md) — `skeleton`
+- [Consciousness and wisdom (rnam shes / ye shes)](consciousness-and-wisdom.md) — `skeleton`
 - [Consciousness from the elements (bhūta-caitanya)](bhuta-caitanya.md) — `skeleton`
 - [Consciousness, samādhi and the void of mental activity](virasaiva-consciousness.md) — `skeleton`
 - [Consecration as rebirth](diksa-rebirth.md) — `sourced`
@@ -167,6 +192,7 @@ sourced: 161 · skeleton: 2293
 - [Correspondences (bandhu) between body, ritual and cosmos](correspondences.md) — `sourced`
 - [Correspondences of the nine planets](navagraha-correspondences.md) — `skeleton`
 - [Cosmic creation and dissolution by Maheśvara's will](creation-dissolution-vaisesika.md) — `skeleton`
+- [Cosmology in the Gelug curriculum](cosmology-gelug.md) — `skeleton`
 - [Cosmology: space, time and the worlds](cosmology-kashmir.md) — `skeleton`
 - [Cosmology: Śiva, Śakti and the world](virasaiva-cosmology.md) — `skeleton`
 - [Courting dishonour and the exchange of merit and sin](courting-dishonour.md) — `skeleton`
@@ -191,6 +217,7 @@ sourced: 161 · skeleton: 2293
 - [Death against one's will and death with one's will](akama-sakama-marana.md) — `skeleton`
 - [Death and dissolution in Śākta teaching](death-in-srividya.md) — `skeleton`
 - [Death and dying](death-and-dying-kashmir.md) — `skeleton`
+- [Death and dying in Chan](chan-death-and-dying.md) — `skeleton`
 - [Death and dying in the Kālīkula and Kaula sources](sakta-death-and-dying.md) — `skeleton`
 - [Death and dying in the Sant and Bāul traditions](death-sant-traditions.md) — `skeleton`
 - [Death and dying in Yogācāra](yogacara-death.md) — `skeleton`
@@ -207,12 +234,16 @@ sourced: 161 · skeleton: 2293
 - [Death in Yoga: clinging, omens, departure](death-in-yoga.md) — `skeleton`
 - [Death of the knower](death-of-the-knower.md) — `skeleton`
 - [Death, lifespan-binding and rebirth in Jainism](jain-death-transition.md) — `skeleton`
+- [Deathbed practice and right mindfulness at death](deathbed-practice.md) — `skeleton`
 - [Debate among the orders (vāda, kutūhalasālā)](sramana-debate-culture.md) — `skeleton`
 - [Decline and renewal of human life](decline-and-renewal.md) — `skeleton`
 - [Deep sleep](deep-sleep.md) — `sourced`
 - [Deep sleep and samādhi distinguished](sleep-and-samadhi.md) — `skeleton`
 - [Deep sleep in Dvaita](deep-sleep-dvaita.md) — `skeleton`
 - [Deep sleep in Nyāya-Vaiśeṣika](deep-sleep-nyaya-vaisesika.md) — `skeleton`
+- [Definitive and provisional teaching in the Kunjed Gyalpo](definitive-and-provisional-dzogchen.md) — `skeleton`
+- [Deity yoga](deity-yoga.md) — `skeleton`
+- [Deliberate and effortless mindfulness](two-kinds-of-mindfulness.md) — `skeleton`
 - [Delight in the self (ātmarati): the one for whom nothing remains to be done](atmarati.md) — `skeleton`
 - [Departure of the soul at death](utkranti-visistadvaita.md) — `skeleton`
 - [Departure through the crown and the path to brahman](yogic-departure-and-krama-mukti.md) — `sourced`
@@ -267,12 +298,14 @@ sourced: 161 · skeleton: 2293
 - [Dispassion, lower and higher](vairagya.md) — `skeleton`
 - [Dissolution of breath and mind (laya)](laya-natha.md) — `skeleton`
 - [Divine grace (prasāda)](grace.md) — `sourced`
+- [Divine pride (the self as deity)](divine-pride.md) — `skeleton`
 - [Divisional charts (varga)](vargas.md) — `skeleton`
 - [Divisions of the Madhyamaka](madhyamaka-doxography.md) — `skeleton`
 - [Drama as the fifth Veda for all classes](natya-as-fifth-veda.md) — `skeleton`
 - [Dream](dream-analogy.md) — `skeleton`
 - [Dream as real creation](dream-dvaita.md) — `skeleton`
 - [Dream as the Lord's creation](dream-creation-by-the-lord.md) — `skeleton`
+- [Dual cultivation of Chan and Pure Land (chanjing shuangxiu)](chan-pure-land-dual-cultivation.md) — `skeleton`
 - [Dying by yoga](yogic-death.md) — `skeleton`
 - [Dying without dying (cākāmal cātal)](cakamal-catal.md) — `skeleton`
 - [Early (pre-classical) Sāṃkhya](early-samkhya.md) — `skeleton`
@@ -283,15 +316,20 @@ sourced: 161 · skeleton: 2293
 - [Eligibility (adhikāra)](adhikara.md) — `skeleton`
 - [Eligibility for the Kula path](eligibility-adhikara-kaula.md) — `skeleton`
 - [Emanation in Śrīvidyā](srividya-cosmogony.md) — `skeleton`
+- [Embraced, never to be abandoned (shequ bu she)](embraced-never-abandoned.md) — `skeleton`
 - [Emergency and regular renunciation](atura-krama-sannyasa.md) — `skeleton`
 - [Emptiness (śūnyatā) in Madhyamaka](sunyata.md) — `skeleton`
 - [Emptiness in the Perfection of Wisdom sūtras](emptiness-prajnaparamita.md) — `skeleton`
 - [Emptiness in the suttas](emptiness-early.md) — `skeleton`
 - [Emptiness in Yogācāra](emptiness-yogacara.md) — `skeleton`
 - [Emptiness is not a view](emptiness-not-a-view.md) — `skeleton`
+- [Empty and calm, numinous awareness](numinous-awareness.md) — `skeleton`
+- [Empty form (śūnyatābimba)](empty-form.md) — `skeleton`
+- [Encounter dialogue and dharma combat](encounter-dialogue.md) — `skeleton`
 - [Engagement and disengagement](pravrtti-and-nivrtti.md) — `skeleton`
 - [Enjoyment and liberation as the twofold goal (bhukti-mukti)](bhukti-and-mukti.md) — `skeleton`
 - [Enjoyment as yoga](bhoga-and-yoga.md) — `skeleton`
+- [Enumerated and non-enumerated ultimate (Mipham)](two-ultimates-mipham.md) — `skeleton`
 - [Enumeration, definition, examination (the method of the śāstra)](uddesa-laksana-pariksa.md) — `skeleton`
 - [Epidemics and their moral root](janapadoddhvamsa.md) — `skeleton`
 - [Equal authority of Veda and Śaiva Āgama](veda-agama-equality.md) — `skeleton`
@@ -302,19 +340,24 @@ sourced: 161 · skeleton: 2293
 - [Eras of reckoning](calendar-eras.md) — `skeleton`
 - [Error as appearance of the indescribable (anirvacanīya-khyāti)](anirvacaniya-khyati.md) — `skeleton`
 - [Error as misplaced apprehension (anyathākhyāti)](anyathakhyati.md) — `skeleton`
+- [Essence, nature and compassion — the three aspects of the ground](essence-nature-compassion.md) — `skeleton`
 - [Eternal distinction in liberation](difference-in-liberation.md) — `skeleton`
 - [Eternalism (sassatavāda)](sassatavada.md) — `skeleton`
 - [Ethics and conduct in Sāṃkhya](dharma-in-samkhya.md) — `skeleton`
 - [Evenness of mind (samatva)](equanimity.md) — `skeleton`
+- [Everyday activity as the Way](everyday-activity-as-the-way.md) — `skeleton`
 - [Everyday language and Dhamma language](dhamma-language-everyday-language.md) — `skeleton` _(recent)_
 - [Everything is suffering for the discerning](duhkha-for-the-discerning.md) — `skeleton`
 - [Exchanging self and other](exchanging-self-and-other.md) — `skeleton`
 - [Exclusion (apoha) as the meaning of words](apoha.md) — `skeleton`
+- [Exclusive and miscellaneous practice](exclusive-and-miscellaneous-practice.md) — `skeleton`
 - [Exclusive-non-exclusive implication in 'tat tvam asi'](jahad-ajahal-laksana.md) — `skeleton`
 - [Existence of dharmas in the three times (sarvāstivāda)](existence-in-three-times.md) — `skeleton`
+- [Experience (nyams) and realization (rtogs pa)](experience-and-realization.md) — `skeleton`
 - [Expiation (prāyaścitta)](prayascitta.md) — `sourced`
 - [Extraordinary perception (three contacts)](alaukika-pratyaksa.md) — `skeleton`
 - [Extrinsic validity (parataḥ-prāmāṇya)](paratah-pramanya.md) — `skeleton`
+- [Faith and practice (faith, vow, practice)](faith-vow-practice.md) — `skeleton`
 - [Falsity of the world (mithyātva)](mithyatva.md) — `skeleton`
 - [Family dharma (kula-dharma)](kuladharma.md) — `skeleton`
 - [Fate (daiva) and human effort (puruṣakāra)](daiva-purusakara.md) — `skeleton`
@@ -337,15 +380,19 @@ sourced: 161 · skeleton: 2293
 - [Four forms of liberation in the Vaikhānasa tradition](vaikhanasa-four-liberations.md) — `skeleton`
 - [Four kinds of dependent origination](four-kinds-of-dependent-origination.md) — `skeleton`
 - [Four kinds of liberation (sālokya, sārūpya, sāmīpya, sāyujya)](four-kinds-of-mukti.md) — `skeleton`
+- [Four kinds of nianfo](four-kinds-of-nianfo.md) — `skeleton`
 - [Four kinds of renunciation](four-kinds-of-sannyasa.md) — `skeleton`
 - [Four ways of answering questions](four-ways-of-answering-questions.md) — `skeleton`
+- [Freedom from elaborations (spros bral)](freedom-from-elaborations.md) — `skeleton`
 - [Freedom of consciousness (svātantrya)](svatantrya.md) — `skeleton`
 - [Friendliness, joy, compassion and impartiality](four-bhavanas-maitri.md) — `skeleton`
 - [From dwelling on objects to ruin (BhG 2.62–63)](descent-from-sense-objects-to-ruin.md) — `skeleton`
 - [From mastered senses to serenity and peace (BhG 2.64–66)](ascent-from-restraint-to-peace.md) — `skeleton`
 - [From the departed (preta) to ancestor (pitṛ)](preta-to-pitr.md) — `sourced`
 - [Funeral rites (antyeṣṭi)](funeral-rites.md) — `sourced`
+- [Garab Dorje's three statements that hit the vital point](three-statements-of-garab-dorje.md) — `skeleton`
 - [Gautama's forty sacraments and eight virtues](forty-samskaras-eight-virtues.md) — `sourced`
+- [Gelug Mahāmudrā (the Ganden oral lineage)](gelug-mahamudra.md) — `skeleton`
 - [Generalization (sādhāraṇīkaraṇa)](sadharanikarana.md) — `skeleton`
 - [Gifts and the great gifts](dana-and-mahadanas.md) — `skeleton`
 - [Giving and generosity](dana-generosity.md) — `skeleton`
@@ -366,13 +413,22 @@ sourced: 161 · skeleton: 2293
 - [Graded standpoints: external objects and cognition-only](graded-standpoints-pramana.md) — `skeleton`
 - [Graded teaching fitted to the hearer](graded-teaching.md) — `skeleton`
 - [Grades of practitioners (mṛdu, madhya, adhimātra)](grades-of-practitioners.md) — `skeleton`
+- [Gradual and simultaneous entry](gradual-and-simultaneous-siddha.md) — `skeleton`
+- [Gradual and simultaneous persons](gradual-and-simultaneous-persons.md) — `skeleton`
 - [Gradual liberation (krama-mukti)](krama-mukti.md) — `skeleton`
 - [Grammar as a path to liberation](grammar-as-path.md) — `skeleton`
 - [Gratification, danger and escape](assada-adinava-nissarana.md) — `skeleton`
 - [Great compassion as the root](mahakaruna.md) — `skeleton`
+- [Great doubt](great-doubt.md) — `skeleton`
+- [Great purity and equality (dag mnyam chen po)](great-purity-and-equality.md) — `skeleton`
+- [Gross, subtle and very subtle body and mind](three-levels-of-mind-gelug.md) — `skeleton`
+- [Ground, path and fruition in Mahāmudrā](ground-path-fruition-mahamudra.md) — `skeleton`
+- [Ground-appearances and how delusion arises](ground-appearances-and-delusion.md) — `skeleton`
 - [Groupings of houses](house-groupings.md) — `skeleton`
 - [Groups of the minor Upaniṣads](minor-upanisad-groups.md) — `skeleton`
+- [Guarding the mind (East Mountain)](east-mountain-guarding-mind.md) — `skeleton`
 - [Guru and disciple in Śrīvidyā](srividya-teacher-disciple.md) — `skeleton`
+- [Guru devotion in the Kagyu](guru-devotion.md) — `skeleton`
 - [Guru, disciple and secrecy in Rasa Śāstra](rasa-guru-and-disciple.md) — `skeleton`
 - [Guru, liṅga and jaṅgama](guru-linga-jangama.md) — `skeleton`
 - [Gāndhārī Buddhist literature](gandhari-buddhist-literature.md) — `skeleton`
@@ -393,6 +449,7 @@ sourced: 161 · skeleton: 2293
 - [Hell](niraya.md) — `skeleton`
 - [Hell (naraka)](naraka.md) — `skeleton`
 - [Hemacandra's four states of mind](four-states-of-mind-hemacandra.md) — `skeleton`
+- [Heruka and Vajravārāhī](heruka-vajravarahi.md) — `skeleton`
 - [Higher and lower knowledge](para-apara-jnana.md) — `sourced`
 - [Higher knowledges and their limits (Yogācāra)](abhijna-yogacara.md) — `skeleton`
 - [Higher status and definite goodness](abhyudaya-naihsreyasa.md) — `skeleton`
@@ -406,12 +463,14 @@ sourced: 161 · skeleton: 2293
 - [How speech arises in the body](origin-of-speech-in-the-body.md) — `sourced`
 - [How the Abhidhamma was taught and handed down](abhidhamma-origin-account.md) — `skeleton`
 - [How the one appears as many (the three theories)](how-the-one-appears-as-many.md) — `skeleton`
+- [How treasures are concealed and revealed](terma-process.md) — `skeleton`
 - [Human effort and fate](paurusa-and-daiva.md) — `skeleton`
 - [Hungry ghosts (peta)](peta.md) — `skeleton`
 - [I-am-ness (asmitā) and the sense of 'I'](asmita.md) — `skeleton`
 - [Identity of Śiva and Viṣṇu](siva-visnu-identity.md) — `skeleton`
 - [Images and forms for worshippers](images-for-the-ignorant.md) — `skeleton`
 - [Immortality in the Saṃhitās](amrtatva-vedic-immortality.md) — `skeleton`
+- [Immutable bliss (akṣarasukha)](aksara-sukha-kalacakra.md) — `skeleton`
 - [Impartiality and the middle way (nipakh, madh)](nipakh.md) — `skeleton`
 - [Incidental and essential definitions of Brahman](tatastha-svarupa-laksana.md) — `skeleton`
 - [Inconceivable difference-and-non-difference (acintya-bhedābheda)](acintya-bhedabheda.md) — `skeleton`
@@ -430,11 +489,14 @@ sourced: 161 · skeleton: 2293
 - [Innate absorption (sahaja-samādhi): the mind seeing the mind](sahaja-samadhi.md) — `skeleton`
 - [Inner and outer limbs](antaranga-bahiranga.md) — `skeleton`
 - [Inner centres and the liṅga of light](virasaiva-energy-anatomy.md) — `skeleton`
+- [Inner heat (caṇḍālī)](candali.md) — `skeleton`
 - [Inner tīrthas](inner-tirthas.md) — `skeleton`
 - [Inseparable existence (apṛthak-siddhi)](aprthak-siddhi.md) — `skeleton`
 - [Installation (pratiṣṭhā): making the deity present](pratistha-concept.md) — `skeleton`
 - [Instructing one's own mind](mind-instructed.md) — `skeleton`
 - [Instruction to the dying](dying-instruction.md) — `skeleton`
+- [Intentional language (sandhyābhāṣā)](sandhyabhasa.md) — `skeleton`
+- [Interfusion of one and all in the nenbutsu (yūzū)](yuzu-interfusion.md) — `skeleton`
 - [Intermediate existence (antarābhava)](antarabhava.md) — `skeleton`
 - [Interpenetration in the Avataṃsaka (sūtra layer)](dharmadhatu-interpenetration-sutra.md) — `skeleton`
 - [Interrogation (praśna)](prasna-system.md) — `skeleton`
@@ -446,6 +508,7 @@ sourced: 161 · skeleton: 2293
 - [Jain mantra and its practice](jain-mantra-theory.md) — `skeleton`
 - [Jain views of the other darśanas](jain-views-of-other-darsanas.md) — `skeleton`
 - [Jambūdvīpa and the middle world](jambudvipa-madhyaloka.md) — `skeleton`
+- [Jinen hōni (naturalness by the working of the vow)](jinen-honi.md) — `skeleton`
 - [Joining the ancestors](pitr-and-sapindikarana.md) — `skeleton`
 - [Joy in their joy (tatsukha)](tatsukha.md) — `skeleton`
 - [Jyotiṣa as the eye of the Veda](jyotisa-as-eye-of-veda.md) — `skeleton`
@@ -466,6 +529,7 @@ sourced: 161 · skeleton: 2293
 - [Karma without own-nature](karma-without-svabhava.md) — `skeleton`
 - [Karma, rebirth and liberation](virasaiva-karma-liberation.md) — `skeleton`
 - [Karma-yoga, jñāna-yoga and bhakti-yoga in sequence](yoga-sequence-gita.md) — `skeleton`
+- [Karmamudrā (the action seal)](karmamudra.md) — `skeleton`
 - [Kaula etymologies (nirukti)](nirukti-kaula.md) — `skeleton`
 - [Kaula rites of the Yoginīkaula (restricted)](yogini-kaula-rites.md) — `skeleton`
 - [Keeping scripture and worldly duty after conviction](scripture-after-conviction.md) — `skeleton`
@@ -494,6 +558,7 @@ sourced: 161 · skeleton: 2293
 - [Kāmakalā](kamakala.md) — `skeleton`
 - [Kāmākhyā](kamakhya.md) — `skeleton`
 - [Kēvala, sakala and śuddha conditions](three-avasthas-of-the-soul.md) — `skeleton`
+- [Kōan (gong'an) and critical phrase (huatou)](koan.md) — `skeleton`
 - [Kṛṣṇa as husband](krsna-as-husband.md) — `skeleton`
 - [Kṛṣṇa as the Lord himself (svayaṃ bhagavān)](krsna-svayam-bhagavan.md) — `skeleton`
 - [Lakṣmī as eternally free and dependent](laksmi-dvaita.md) — `skeleton`
@@ -505,6 +570,7 @@ sourced: 161 · skeleton: 2293
 - [Latent impressions (saṃskāra)](samskara.md) — `skeleton`
 - [Latent tendencies (vāsanā)](vasana.md) — `skeleton`
 - [Lay ethics](lay-ethics.md) — `skeleton`
+- [Lay practice](lay-practice-chan.md) — `skeleton`
 - [Learning the word of the Buddha in one's own language](own-language-rule.md) — `skeleton`
 - [Levels assigned to Atimārga goals by the Mantramārga](atimarga-goal-levels.md) — `skeleton`
 - [Liberation (apavarga) as the end of pain](apavarga-nyaya.md) — `skeleton`
@@ -515,6 +581,7 @@ sourced: 161 · skeleton: 2293
 - [Liberation (mokṣa) in later Mīmāṃsā](liberation.md) — `skeleton`
 - [Liberation (mokṣa) in Vaiśeṣika](moksa-vaisesika.md) — `skeleton`
 - [Liberation (vīṭu, mutti) in the Siddhar songs](siddhar-liberation.md) — `skeleton`
+- [Liberation and omniscience in the Gelug](liberation-gelug.md) — `skeleton`
 - [Liberation as equality with Śiva (śivasāmya)](sivasamya.md) — `skeleton`
 - [Liberation in life in a stable body (Rasa)](jivanmukti-rasa.md) — `skeleton`
 - [Liberation in the Sant traditions](liberation-sant.md) — `skeleton`
@@ -530,11 +597,14 @@ sourced: 161 · skeleton: 2293
 - [Light and vision of forms](obhasa-and-rupa.md) — `skeleton`
 - [Limbs of yoga redefined as knowledge](jnana-limbs.md) — `skeleton`
 - [Limitation theory (avaccheda-vāda)](avaccheda-vada.md) — `skeleton`
+- [Linji's teaching devices](linji-devices.md) — `skeleton`
 - [Living samādhi (cīva camāti)](jiva-samadhi.md) — `skeleton`
 - [Living samādhi (sañjīvana samādhi)](sanjivana-samadhi.md) — `skeleton`
 - [Liṅga and aṅga](linga-anga.md) — `skeleton`
 - [Liṅga-initiation](linga-diksa.md) — `skeleton`
+- [Loathing this defiled world, joyfully seeking the Pure Land](loathing-this-world-seeking-the-pure-land.md) — `skeleton`
 - [Longevity and the killing planets](ayurdaya.md) — `skeleton`
+- [Lotus societies (lianshe) for recitation](lotus-society.md) — `skeleton`
 - [Love and compassion without grasping (Vimalakīrti 6)](four-immeasurables-mahayana.md) — `skeleton`
 - [Love of God as the fifth and highest goal](prema-as-fifth-goal.md) — `skeleton`
 - [Loving reproach (abhimān) of the Mother](abhiman-loving-reproach.md) — `skeleton`
@@ -549,6 +619,8 @@ sourced: 161 · skeleton: 2293
 - [Madhyamaka's critique of the Vedānta](madhyamaka-critique-of-vedanta.md) — `skeleton`
 - [Madhyamaka's critique of the Yogācāra](madhyamaka-critique-of-yogacara.md) — `skeleton`
 - [Mahākālī, Mahālakṣmī, Mahāsarasvatī](three-forms-of-the-goddess.md) — `skeleton`
+- [Mahāmudrā (the great seal) in the Kagyu](mahamudra.md) — `skeleton`
+- [Mahāyoga, Anuyoga and Atiyoga as generation, completion and great perfection](three-inner-tantras.md) — `skeleton`
 - [Makkhali's enumerations of births, karmas and worlds](ajivika-cosmology.md) — `skeleton`
 - [Manas (mind)](manas.md) — `skeleton`
 - [Manifest and unmanifest play (prakaṭa / aprakaṭa-līlā)](prakata-aprakata-lila.md) — `skeleton`
@@ -574,13 +646,16 @@ sourced: 161 · skeleton: 2293
 - [Meditation (upāsanā) in Advaita](upasana-advaita.md) — `skeleton`
 - [Meditation and Abhidhamma study by laypeople](lay-meditation-movement.md) — `skeleton` _(recent)_
 - [Meditation as mere absence of thought (as criticized)](mere-non-thought.md) — `skeleton`
+- [Meditation sickness (zenbyō) and its cure](meditation-sickness.md) — `skeleton`
 - [Meditation with and without form](form-and-formless-meditation.md) — `skeleton`
+- [Meditative and non-meditative good](meditative-and-non-meditative-good.md) — `skeleton`
 - [Meeting with the yoginīs](yogini-melaka.md) — `skeleton`
 - [Menstruation as sacred in Śākta rites](menstruation-rites.md) — `skeleton`
 - [Mercury and breath: the twofold discipline](rasa-and-pavana.md) — `skeleton`
 - [Mercury and mica as the seeds of Śiva and the Goddess](mercury-as-siva-seed.md) — `skeleton`
 - [Mercury and mind](rasa-mind-analogy.md) — `skeleton`
 - [Merit and demerit](punya-papa.md) — `skeleton`
+- [Merit versus blessings](merit-versus-blessings.md) — `skeleton`
 - [Metal and mineral preparations (parpam, centūram) — names and warnings only](parpam-centuram.md) — `skeleton`
 - [Methods as means (prakriyā principle)](prakriya-principle.md) — `skeleton`
 - [Metteyya, the future Buddha](future-buddha-metteyya.md) — `skeleton`
@@ -593,18 +668,24 @@ sourced: 161 · skeleton: 2293
 - [Mind and its purification (manaḥ-prasāda)](virasaiva-mind.md) — `skeleton`
 - [Mind and senses in the Siddhar songs](tamil-siddha-mind.md) — `skeleton`
 - [Mind and speech — the two tracks of the sacrifice](mind-and-speech.md) — `sourced`
+- [Mind as clarity and knowing (gsal zhing rig pa)](mind-as-clarity-and-knowing.md) — `skeleton`
 - [Mind as the cause of bondage and liberation](mind-cause-of-bondage-and-liberation.md) — `skeleton`
 - [Mind of the three times cannot be got at](three-times-mind-ungraspable.md) — `skeleton`
 - [Mind only (sūtra layer)](mind-only.md) — `skeleton`
+- [Mind-to-mind transmission](mind-to-mind-transmission.md) — `skeleton`
+- [Mindfulness of death: three roots, nine reasons, three decisions](three-roots-nine-reasons-death.md) — `skeleton`
 - [Mixture of the varṇas (varṇa-saṅkara)](varnasankara.md) — `skeleton`
 - [Moderate diet (mitāhāra) in the haṭha texts](mitahara.md) — `skeleton`
 - [Moment and sequence (time)](ksana-krama.md) — `skeleton`
 - [Momentariness (khaṇa) of mind and matter](momentariness.md) — `skeleton`
 - [Momentary concentration (khaṇika-samādhi)](khanika-samadhi.md) — `skeleton`
 - [Monastic nudity and clothing](monastic-nudity.md) — `skeleton`
+- [Mother and child clear light](mother-and-child-clear-light.md) — `skeleton`
+- [Mother and child luminosity](mother-and-child-luminosity.md) — `skeleton`
 - [Muppu, the secret salt of the alchemists](muppu.md) — `skeleton`
 - [Music as a path to liberation](music-as-path.md) — `skeleton`
 - [Music as spiritual practice](music-as-sadhana.md) — `skeleton`
+- [Mutual examination of teacher and disciple](examining-the-teacher.md) — `skeleton`
 - [Māgadhī as the root language](magadhi-root-language.md) — `skeleton`
 - [Māra](mara.md) — `skeleton`
 - [Mārga and deśī music](marga-and-desi.md) — `skeleton`
@@ -622,17 +703,21 @@ sourced: 161 · skeleton: 2293
 - [Natural difference-and-non-difference (Yādavaprakāśa, Nimbārka)](svabhavika-bhedabheda.md) — `skeleton`
 - [Necessary connection (svabhāva-pratibandha)](svabhava-pratibandha.md) — `skeleton`
 - [Neither Hindu nor Turk](hindu-and-turk.md) — `skeleton`
+- [Neither monk nor layman (hisō hizoku) and the married clergy](neither-monk-nor-layman.md) — `skeleton`
 - [Neither one nor many (ekānekaviyoga)](neither-one-nor-many.md) — `skeleton`
 - [Neither percipient nor non-percipient after death](nevasanninasannivada.md) — `skeleton`
 - [New beginning (ārambha): the effect does not pre-exist](arambhavada.md) — `skeleton`
 - [Nibbāna](nibbana.md) — `skeleton`
 - [Nibbāna here and now (diṭṭhadhamma-nibbānavāda)](ditthadhammanibbanavada.md) — `skeleton`
 - [Nibbāna in the Abhidhamma and commentaries](nibbana-abhidhamma.md) — `skeleton`
+- [Niguma's six dharmas](niguma-six-dharmas.md) — `skeleton`
 - [Nirvāṇa in Madhyamaka](nirvana-in-madhyamaka.md) — `skeleton`
 - [Niyoga / kārya (the command, what is to be done)](niyoga-karya.md) — `skeleton`
 - [No embodied being can remain without action](inevitability-of-action.md) — `skeleton`
 - [No fruit without deed, no deed without fruit](karmic-accountability.md) — `skeleton`
 - [No other world (paraloka-abhāva)](paraloka-denial.md) — `skeleton`
+- [No-mind (wuxin)](no-mind.md) — `skeleton`
+- [No-thought as tenet, no-form as substance, non-abiding as root](no-thought-no-form-non-abiding.md) — `skeleton`
 - [Non-abiding nirvāṇa](apratisthita-nirvana.md) — `skeleton`
 - [Non-action (akiriyavāda)](akiriyavada.md) — `skeleton`
 - [Non-apprehension as a means of knowledge](anupalabdhi.md) — `skeleton`
@@ -643,9 +728,13 @@ sourced: 161 · skeleton: 2293
 - [Non-dual cognition](non-dual-cognition.md) — `skeleton`
 - [Non-dual conduct (advaitācāra)](advaitacara-kjn.md) — `skeleton`
 - [Non-duality (advaya) in the Vimalakīrti](nonduality.md) — `skeleton`
+- [Non-duality in Chan](non-duality-chan.md) — `skeleton`
 - [Non-hatred](non-hatred.md) — `skeleton`
 - [Non-injury and ritual action (Mīmāṃsā view)](ahimsa.md) — `skeleton`
+- [Non-meditation in the Great Perfection](non-meditation.md) — `skeleton`
+- [Non-mentation (amanasikāra)](amanasikara.md) — `skeleton`
 - [Non-origination (ajātivāda)](ajativada.md) — `skeleton`
+- [Non-retrogression of those born in Sukhāvatī](non-retrogression-in-the-pure-land.md) — `skeleton`
 - [Non-violence and non-cruelty (ahiṃsā, ānṛśaṃsya)](non-violence.md) — `skeleton`
 - [Non-violence in Jainism](ahimsa-jain.md) — `skeleton`
 - [Not clinging to views](non-attachment-to-views.md) — `skeleton`
@@ -668,27 +757,36 @@ sourced: 161 · skeleton: 2293
 - [Offerings to the ancestors (piṇḍa-udaka-kriyā)](ancestral-offerings.md) — `skeleton`
 - [Ojas](ojas.md) — `skeleton`
 - [Omens of death (ariṣṭa)](death-omens.md) — `skeleton`
+- [Omens of death and cheating death](signs-of-death-vajrayana.md) — `skeleton`
 - [Omniscience (kevala-jñāna)](kevala-jnana.md) — `skeleton`
 - [Omniscience (sarvajñatva)](omniscience.md) — `skeleton`
 - [Omniscience in Yoga](omniscience-in-yoga.md) — `skeleton`
 - [One fortunate night](bhaddekaratta.md) — `skeleton`
 - [One goal, many names (Ṣaṭcakranirūpaṇa)](one-goal-many-names-scn.md) — `skeleton`
+- [One ground, two paths, two results](one-ground-two-paths.md) — `skeleton`
 - [One mind, two aspects (Awakening of Faith)](one-mind-two-aspects.md) — `skeleton`
+- [One taste and equal taste](equal-taste.md) — `skeleton`
 - [One ultimate, many names](one-ultimate-many-names.md) — `skeleton`
 - [One's own dharma (svadharma)](svadharma.md) — `sourced`
 - [One-jīva doctrine (eka-jīva-vāda)](eka-jiva-vada.md) — `skeleton`
+- [Oneness of person and Dharma (kihō ittai)](kiho-ittai.md) — `skeleton`
 - [Oneself as island, the Dhamma as island](attadipa.md) — `skeleton`
 - [Only two means of valid cognition](two-pramanas.md) — `skeleton`
 - [Oral preservation of the Veda](vedic-recitation-and-preservation.md) — `sourced`
 - [Order of emergence and re-absorption (sañcara, pratisañcara)](samkhya-order-of-emergence.md) — `skeleton`
+- [Ordinary mind is the Way](ordinary-mind.md) — `skeleton`
 - [Original awakening (benjue)](original-enlightenment.md) — `skeleton`
+- [Original purity of the self-nature](original-purity-self-nature.md) — `skeleton`
 - [Other mind-streams](other-minds.md) — `skeleton`
+- [Other-power (tali / tariki)](other-power.md) — `skeleton`
+- [Outer, inner and other Kālacakra](outer-inner-other-kalacakra.md) — `skeleton`
 - [Outward custom, inner oneness (Kartābhajā)](kartabhaja-double-life.md) — `skeleton` _(recent)_
 - [Own-nature and its absence](svabhava-and-nihsvabhavata.md) — `skeleton`
 - [Own-nature as cause (svabhāvavāda)](svabhavavada.md) — `skeleton`
 - [Own-self and other-self (sva-samaya, para-samaya)](sva-samaya-para-samaya.md) — `skeleton`
 - [Oṃ](om.md) — `skeleton`
 - [Oṃ, the designator of Īśvara](pranava.md) — `sourced`
+- [Pacifying the mind](anxin-pacifying-mind.md) — `skeleton`
 - [Parakīyā in the Sahajiyā (summary)](parakiya-sahajiya.md) — `skeleton`
 - [Paramour and wedded love (parakīyā / svakīyā)](parakiya-svakiya.md) — `skeleton`
 - [Parinibbāna (final passing)](parinibbana.md) — `skeleton`
@@ -713,12 +811,15 @@ sourced: 161 · skeleton: 2293
 - [Planetary dignities](planetary-dignities.md) — `skeleton`
 - [Pleasure as the aim of life](carvaka-hedonism.md) — `skeleton`
 - [Plenitude (bhūman)](bhuman.md) — `sourced`
+- [Pliancy as the measure of calm abiding](pliancy-lamrim.md) — `skeleton`
 - [Plurality of puruṣas](plurality-of-purusas.md) — `skeleton`
 - [Poetic genius (pratibhā, śakti)](pratibha-poetic.md) — `skeleton`
+- [Pointing out the nature of mind](pointing-out-siddha.md) — `skeleton`
 - [Portents (utpāta) and their pacification](utpata-portents.md) — `skeleton`
 - [Portents of death (ariṣṭa)](arista.md) — `skeleton`
 - [Positive ignorance (bhāvarūpa-avidyā)](bhavarupa-avidya.md) — `skeleton`
 - [Possession (prāpti)](prapti.md) — `skeleton`
+- [Post-death meditation (thugs dam)](thukdam.md) — `skeleton`
 - [Postulation (arthāpatti)](arthapatti.md) — `skeleton`
 - [Pot-space (ghaṭākāśa)](pot-space.md) — `skeleton`
 - [Power (aiśvarya) and the eight powers](aisvarya-eight-powers.md) — `skeleton`
@@ -727,12 +828,15 @@ sourced: 161 · skeleton: 2293
 - [Powers (siddhi) in Vedānta](siddhis-advaita.md) — `skeleton`
 - [Powers (siddhi) in Śrīvidyā and their place](siddhis-in-srividya.md) — `skeleton`
 - [Powers and freedom of movement from knowledge](powers-from-upasana.md) — `sourced`
+- [Powers and signs in the Kagyu (and the warnings)](siddhis-kagyu.md) — `skeleton`
 - [Powers and the warning against them](virasaiva-siddhis.md) — `skeleton`
 - [Powers and the warnings about them](siddhis-kashmir.md) — `skeleton`
 - [Powers are inferior to devotion](siddhis-inferior-to-devotion.md) — `skeleton`
 - [Powers as obstacles (the warnings)](siddhis-as-obstacles.md) — `skeleton`
 - [Powers, wealth and self-enjoyment as lower ends](lower-ends-aisvarya-kaivalya.md) — `skeleton`
+- [Practice after awakening](post-awakening-practice.md) — `skeleton`
 - [Practice and dispassion (abhyāsa and vairāgya)](abhyasa-vairagya.md) — `skeleton`
+- [Practice and realization](practice-and-realization.md) — `skeleton`
 - [Practice, not garb or learning, is the cause of success](practice-not-garb.md) — `skeleton`
 - [Prajñāparādha (failure of discernment)](prajnaparadha.md) — `skeleton`
 - [Prajāpati's falling apart and his restoration](prajapati-dismemberment-restoration.md) — `sourced`
@@ -740,9 +844,14 @@ sourced: 161 · skeleton: 2293
 - [Pratibhā: the flash of sentence meaning and instinct](pratibha-vyakarana.md) — `skeleton`
 - [Pre-existence of the effect (satkāryavāda)](satkaryavada.md) — `skeleton`
 - [Preceptor and teacher in the Vinaya (upādhyāya, ācārya)](preceptor-and-teacher-vinaya.md) — `skeleton`
+- [Precepts and the nenbutsu](precepts-and-the-nenbutsu.md) — `skeleton`
+- [Precepts in Chan and Zen](chan-precepts.md) — `skeleton`
 - [Primary and secondary creation](sarga-and-visarga.md) — `skeleton`
+- [Primordial purity (ka dag)](primordial-purity.md) — `skeleton`
+- [Principle and phenomena in Chan (li / shi, huihu)](principle-and-phenomena-chan.md) — `skeleton`
 - [Prohibition and exclusion](nisedha-paryudasa.md) — `skeleton`
 - [Proliferation (papañca)](papanca.md) — `skeleton`
+- [Proper reliance on the spiritual teacher](reliance-on-teacher-lamrim.md) — `skeleton`
 - [Property and property-bearer (dharma, dharmin)](dharma-dharmin.md) — `skeleton`
 - [Protecting oneself and others](protecting-self-and-others.md) — `skeleton`
 - [Provisional and definitive meaning](neyartha-nitartha.md) — `skeleton`
@@ -781,7 +890,9 @@ sourced: 161 · skeleton: 2293
 - [Reasoning about the Lord as worship](reasoning-as-worship.md) — `skeleton`
 - [Rebirth](rebirth.md) — `sourced`
 - [Rebirth in Yogācāra](yogacara-rebirth.md) — `skeleton`
+- [Recognising signs, deviations and obstacles as the path](signs-and-obstacles-as-path.md) — `skeleton`
 - [Recognition (pratyabhijñā)](pratyabhijna-recognition.md) — `skeleton`
+- [Recognized reincarnation (the tulku system)](tulku-system.md) — `skeleton`
 - [Reflection of consciousness in buddhi](reflection-of-purusa-in-buddhi.md) — `skeleton`
 - [Reflection of the sun in water](reflection-analogy.md) — `skeleton`
 - [Reflection theory (pratibimba-vāda)](pratibimba-vada.md) — `skeleton`
@@ -798,9 +909,11 @@ sourced: 161 · skeleton: 2293
 - [Relation with Brahman (brahmasambandha initiation)](brahmasambandha.md) — `skeleton`
 - [Relation, means and goal](sambandha-abhidheya-prayojana.md) — `skeleton`
 - [Relative and ultimate bodhicitta](relative-and-ultimate-bodhicitta.md) — `skeleton`
+- [Relative bodhicitta in mind training](relative-bodhicitta-lojong.md) — `skeleton`
 - [Relinquishment and renunciation (tyāga and saṃnyāsa)](tyaga-and-samnyasa.md) — `skeleton`
 - [Relinquishment, single-mindedness and indifference (nirodha, ananyatā, udāsīnatā)](nirodha-in-bhakti.md) — `skeleton`
 - [Remedial measures (śānti, parihāra, upāya)](remedial-measures.md) — `skeleton`
+- [Renunciation (definite emergence)](renunciation.md) — `skeleton`
 - [Renunciation (sannyāsa) in Advaita](sannyasa-advaita.md) — `skeleton`
 - [Renunciation (saṃnyāsa) in the principal Upaniṣads](sannyasa.md) — `sourced`
 - [Renunciation of the knower and of the seeker](vidvat-vividisa-sannyasa.md) — `skeleton`
@@ -812,6 +925,7 @@ sourced: 161 · skeleton: 2293
 - [Reviewing knowledge (paccavekkhaṇa-ñāṇa)](reviewing-knowledge.md) — `skeleton`
 - [Right view (samyaktva)](samyaktva.md) — `skeleton`
 - [Ripe and unripe bodies (pakva, apakva)](ripe-and-unripe-body.md) — `skeleton`
+- [Rites for purifying the dead](funerary-rites-sarvadurgati.md) — `skeleton`
 - [Rival accounts of liberation: transfer, possession, production, manifestation](atimarga-liberation-theories.md) — `skeleton`
 - [Root consciousness (Mahāsāṃghika)](mulavijnana.md) — `skeleton`
 - [Rope and snake](rope-snake.md) — `skeleton`
@@ -831,8 +945,10 @@ sourced: 161 · skeleton: 2293
 - [Safeguarding truth](saccanurakkhana.md) — `skeleton`
 - [Saints and incarnations](sants-and-avataras.md) — `skeleton`
 - [Sallekhanā (the final fast)](sallekhana.md) — `skeleton`
+- [Samantabhadra's primordial liberation](samantabhadra-primordial-liberation.md) — `skeleton`
 - [Samantabhadra's vows](samantabhadra-vows.md) — `skeleton`
 - [Samaya and Kaula modes of worship](samaya-and-kaula-modes.md) — `skeleton`
+- [Samaya in the Nyingma tantras](samaya-nyingma.md) — `skeleton`
 - [Samādhi as the union of the individual and supreme self](jiva-paramatma-union-hatha.md) — `skeleton`
 - [Samādhi beyond object-awareness (asamprajñāta)](asamprajnata-samadhi.md) — `skeleton`
 - [Samādhi from means and from birth (upāya-pratyaya, bhava-pratyaya)](upaya-bhava-pratyaya.md) — `skeleton`
@@ -849,10 +965,13 @@ sourced: 161 · skeleton: 2293
 - [Scripture and its authority in Viśiṣṭādvaita](vedic-authority-visistadvaita.md) — `skeleton`
 - [Seasonal routine (ṛtucaryā)](rtucarya.md) — `skeleton`
 - [Seasons and times (perumpoḻutu, ciṟupoḻutu)](siddha-seasons.md) — `skeleton`
+- [Seated meditation redefined](zazen-redefined.md) — `skeleton`
 - [Secondary and supreme devotion (gauṇī and parā/mukhyā bhakti)](gauni-and-para-bhakti.md) — `skeleton`
 - [Secrecy and concealment in the Kaula way](kaula-secrecy.md) — `skeleton`
 - [Secrecy and eligibility](secrecy-and-eligibility.md) — `skeleton`
 - [Secrecy and restriction of the teaching](secrecy-upanisad.md) — `sourced`
+- [Secrecy and the fit vessel](secrecy-and-fit-vessel.md) — `skeleton`
+- [Secrecy and the qualified recipient](secrecy-and-qualification.md) — `skeleton`
 - [Secrecy and the testing of the disciple](secrecy-and-testing.md) — `skeleton`
 - [Secrecy in Śrīvidyā](srividya-secrecy.md) — `skeleton`
 - [Secrecy of the Mahānubhāva scriptures](secret-scripts-mahanubhava.md) — `skeleton`
@@ -861,45 +980,58 @@ sourced: 161 · skeleton: 2293
 - [Seed-syllables of the centres and elements](bija-of-centres-and-elements.md) — `skeleton`
 - [Seeds and imprints (bīja, vāsanā)](bija-vasana.md) — `skeleton`
 - [Seeds and the specific transformation of the series](sautrantika-seed-theory.md) — `skeleton`
+- [Seeing the Buddha (jianfo) in samādhi, dream or at death](seeing-the-buddha.md) — `skeleton`
+- [Seeing the nature (kenshō) and awakening (satori)](kensho-seeing-nature.md) — `skeleton`
 - [Seizing beings and the science of spirits](bhutavidya-grahas.md) — `skeleton`
 - [Self and mind in the chart](self-and-mind-in-jyotisa.md) — `skeleton`
 - [Self-luminosity (svaprakāśatva)](svaprakasa.md) — `skeleton`
+- [Self-power (zili / jiriki)](self-power.md) — `skeleton`
 - [Semblance theory (ābhāsa-vāda)](abhasa-vada.md) — `skeleton`
 - [Sensation as the root of reaction (Goenka)](sensation-and-sankhara.md) — `skeleton` _(recent)_
 - [Sentence unity and sentence split](vakya-ekavakyata.md) — `skeleton`
 - [Servanthood and sharing (dāsōha)](dasoha.md) — `skeleton`
 - [Service (kainkarya) as the goal](kainkarya.md) — `skeleton`
+- [Service, near-attainment, attainment, great attainment](four-branches-of-service.md) — `skeleton`
 - [Seven stations of consciousness and two spheres](seven-stations-of-consciousness.md) — `skeleton`
 - [Shedding (nirjarā)](nirjara.md) — `skeleton`
 - [Shell and silver](shell-silver.md) — `skeleton`
+- [Shinjin — true entrusting](shinjin.md) — `skeleton`
 - [Siddha-vidyā](siddhavidya.md) — `skeleton`
 - [Siddhar ethics](siddhar-ethics.md) — `skeleton`
 - [Sidereal and tropical reckoning](ayanamsa-reckoning.md) — `skeleton`
 - [Sign-aspects (Jaimini)](rasi-drsti.md) — `skeleton`
+- [Signs of death and their reversal](signs-of-death-nyingma.md) — `skeleton`
 - [Signs of establishment in the restraints and observances](signs-of-yama-niyama.md) — `skeleton`
 - [Signs of liberation in the chart](moksa-in-the-chart.md) — `skeleton`
 - [Signs of the descent of power and of freedom from bonds](signs-of-saktipata.md) — `skeleton`
+- [Signs of the grounds in the Vajra Verses](lamdre-signs-of-the-grounds.md) — `skeleton`
+- [Silent illumination (mozhao)](silent-illumination.md) — `skeleton`
 - [Sin and release before Varuṇa](sin-and-forgiveness-varuna.md) — `skeleton`
 - [Single refuge (ekaśaraṇa)](ekasarana.md) — `skeleton`
 - [Six causes, four conditions, five results](six-causes-four-conditions-five-results.md) — `skeleton`
 - [Sixteen kinds of āśrama followers](sixteen-kinds-of-asrama.md) — `skeleton`
 - [Skambha, the frame of the world](skambha-support.md) — `skeleton`
+- [Skilful means in the tantras](upaya-tantric.md) — `skeleton`
 - [Skillful means (upāyakauśalya)](skillful-means.md) — `skeleton`
 - [Sleep in Āyurveda](nidra-in-ayurveda.md) — `skeleton`
 - [Sleeping without sleeping (tūṅkāmal tūṅkutal)](tunkamal-tunkal.md) — `skeleton`
 - [Soma: plant, drink, god](soma-vedic.md) — `skeleton`
+- [Songs of realization (mgur)](vajra-songs.md) — `skeleton`
 - [Soul and body the same (tajjīva-taccharīra)](tajjiva-taccharira.md) — `skeleton`
 - [Sound and language in Jainism](jain-sound-theory.md) — `skeleton`
 - [Sound as a non-eternal quality of ākāśa](sound-nyaya-vaisesika.md) — `skeleton`
+- [Sound, light and rays (sgra 'od zer gsum)](sound-light-rays.md) — `skeleton`
 - [Sound, word and Veda in Sāṃkhya](samkhya-on-sound-and-veda.md) — `skeleton`
 - [Spiritual lineage (gotra) and the five lineages](gotra-theory.md) — `skeleton`
 - [Spiritual urgency (saṃvega)](samvega.md) — `skeleton`
 - [Spontaneous devotion (rāgānugā bhakti)](raganuga-bhakti.md) — `skeleton`
+- [Spontaneous presence (lhun grub)](spontaneous-presence.md) — `skeleton`
 - [Stability of the body (piṇḍa-sthairya)](pinda-sthairya.md) — `skeleton`
 - [Stages of life (āśrama)](asramas.md) — `sourced`
 - [States of consciousness in Sāṃkhya](states-of-consciousness-samkhya.md) — `skeleton`
 - [States without mental consciousness](states-without-mind-consciousness.md) — `skeleton`
 - [Stillness (cummā iruttal)](cumma-iruttal.md) — `skeleton`
+- [Stillness, movement and awareness (gnas 'gyu rig gsum)](stillness-movement-awareness.md) — `skeleton`
 - [Stopping (saṃvara)](samvara.md) — `skeleton`
 - [Strength of mind (three grades)](sattva-bala.md) — `skeleton`
 - [Struck and unstruck sound (āhata and anāhata nāda)](ahata-anahata.md) — `skeleton`
@@ -909,8 +1041,11 @@ sourced: 161 · skeleton: 2293
 - [Substance and non-substance (the Viśiṣṭādvaita categories)](dravya-adravya.md) — `skeleton`
 - [Substance, quality and mode](dravya-guna-paryaya.md) — `skeleton`
 - [Substitutes (anukalpa) for the Kaula substances and offerings](anukalpa.md) — `skeleton`
+- [Succession by recognised reincarnation (Dalai and Panchen Lamas)](tulku-succession-gelug.md) — `skeleton`
+- [Sudden and gradual (dun / jian)](sudden-and-gradual.md) — `skeleton`
 - [Sudhana's spiritual friends (Gaṇḍavyūha)](sudhana-spiritual-friends.md) — `skeleton`
 - [Suitability and change of habit (sātmya)](satmya.md) — `skeleton`
+- [Sukhāvatī as a reward land into which ordinary beings are born](reward-land-for-ordinary-beings.md) — `skeleton`
 - [Sun, moon and fire in the body](sun-moon-fire.md) — `skeleton`
 - [Superimposition (adhyāsa)](adhyasa.md) — `skeleton`
 - [Superimposition and retraction (adhyāropa-apavāda)](adhyaropa-apavada.md) — `skeleton`
@@ -920,11 +1055,16 @@ sourced: 161 · skeleton: 2293
 - [Suṣumnā, the central channel](susumna-central-channel.md) — `skeleton`
 - [Syādvāda and the sevenfold predication](syadvada-saptabhangi.md) — `skeleton`
 - [Sādhana, bhāva and prema](three-levels-of-bhakti.md) — `skeleton`
+- [Sūtra, mantra and essence Mahāmudrā](three-kinds-of-mahamudra.md) — `skeleton`
+- [Taking adversity as the path](taking-adversity-as-path.md) — `skeleton`
 - [Taking refuge (Purāṇic examples)](saranagati-puranic.md) — `skeleton`
+- [Taking the fruit as the path](fruit-as-path.md) — `skeleton`
 - [Tamil love-poetry (akam) and praise-poetry (puṟam) as the language of devotion](akam-puram-in-devotion.md) — `skeleton`
 - [Tantra as the scripture of the Kali age](tantra-for-kali-yuga.md) — `skeleton`
 - [Tapas: generative heat and austerity](tapas-vedic.md) — `skeleton`
 - [Taste, quality, potency, post-digestive effect and specific power](rasa-guna-virya-vipaka-prabhava.md) — `skeleton`
+- [Teacher and disciple in Shinshū](teacher-in-shinshu.md) — `skeleton`
+- [Teacher and disciple in the Nyingma](teacher-and-disciple-nyingma.md) — `skeleton`
 - [Teacher and disciple in the Pāśupata tradition](pasupata-teacher-and-disciple.md) — `skeleton`
 - [Teacher and pupil in the Upaniṣads](upanisadic-teacher-student.md) — `sourced`
 - [Teacher, lineage and initiation in Dvaita](guru-dvaita.md) — `skeleton`
@@ -933,6 +1073,7 @@ sourced: 161 · skeleton: 2293
 - [Teacher, pupil and the handing down of jyotiṣa](jyotisa-transmission.md) — `skeleton`
 - [Teacher, student and transmission in Sāṃkhya](teacher-in-samkhya.md) — `skeleton`
 - [Teacher, transmission and secrecy in the Gītā and epic](gita-transmission.md) — `skeleton`
+- [Teaching fitted to time and capacity](time-and-capacity.md) — `skeleton`
 - [Temple-dwelling and its reform](caityavasa.md) — `skeleton`
 - [Ten yamas and ten niyamas](ten-yamas-ten-niyamas.md) — `skeleton`
 - [Ten yamas and ten niyamas (Devī Gītā)](ten-yamas-ten-niyamas-devi-gita.md) — `skeleton`
@@ -943,6 +1084,8 @@ sourced: 161 · skeleton: 2293
 - [Texts of difference, non-difference and mediation](three-kinds-of-sruti.md) — `skeleton`
 - [The 'I' is the self (aham-artha)](aham-artha.md) — `skeleton`
 - [The 'there is not' view (natthika)](natthikavada.md) — `skeleton`
+- [The 'white self-sufficient remedy' (dkar po chig thub)](white-panacea.md) — `skeleton`
+- [The 'Śreṇika heresy' (eternal mind-nature in a perishing body)](srenika-heresy.md) — `skeleton`
 - [The 101 sthalas of the Siddhāntaśikhāmaṇi](ekottarasata-sthala.md) — `skeleton`
 - [The 108 divine sites (divya-deśa)](divya-desa.md) — `skeleton`
 - [The 108 Pāñcarātra saṃhitās](pancaratra-108-samhitas.md) — `skeleton`
@@ -951,8 +1094,10 @@ sourced: 161 · skeleton: 2293
 - [The 683-year line of scripture-knowers (Digambara)](digambara-sruta-lineage-683.md) — `skeleton`
 - [The 8,400,000 great aeons](mahakappa-ajivika.md) — `skeleton`
 - [The 89 / 121 types of consciousness](classes-of-consciousness.md) — `skeleton`
+- [The abbot, the master and the king (mkhan slob chos gsum)](khen-lop-cho-sum.md) — `skeleton`
 - [The Abhidhamma matrix (mātikā)](dhammasangani-matika.md) — `skeleton`
 - [The Abhidharma as the word of the Buddha](abhidharma-as-buddhavacana.md) — `skeleton`
+- [The abode of wisdom in the body (Heart-essence anatomy)](dzogchen-subtle-anatomy.md) — `skeleton`
 - [The accomplished means and the means to be done](siddhopaya-sadhyopaya.md) — `skeleton`
 - [The adamantine body (vajra-deha)](vajra-deha.md) — `skeleton`
 - [The adhikaraṇa method of interpretation](adhikarana-method.md) — `skeleton`
@@ -961,16 +1106,20 @@ sourced: 161 · skeleton: 2293
 - [The afflicted mind (kliṣṭa-manas)](klista-manas.md) — `skeleton`
 - [The after-death body built by the piṇḍas](pinda-afterdeath-body.md) — `skeleton`
 - [The ages, the Manu-periods and the day of Brahmā](ages-and-day-of-brahma.md) — `sourced`
+- [The aggregates as buddhas, the elements as goddesses](purity-of-aggregates-and-elements.md) — `skeleton`
 - [The Aghora guru-lineage](aghora-guru-parampara.md) — `skeleton`
 - [The aims of human life (puruṣārtha)](four-purusarthas.md) — `sourced`
 - [The ajapā-gāyatrī (unrecited mantra)](ajapa-gayatri.md) — `skeleton`
 - [The Akulavīra — the one beyond Kula](akulavira.md) — `skeleton`
+- [The all-base (kun gzhi) distinguished from the dharmakāya](kunzhi-and-dharmakaya.md) — `skeleton`
+- [The all-creating king: bodhicitta as the creator of all](kunjed-gyalpo-all-creating-mind.md) — `skeleton`
 - [The analytical methods of the Abhidhamma books](abhidhamma-methods.md) — `skeleton`
 - [The ancestors (pitṛ)](ancestors-pitrs.md) — `sourced`
 - [The ancient path](ancient-path.md) — `skeleton`
 - [The Anubhava Maṇṭapa](anubhava-mantapa.md) — `skeleton`
 - [The appearance of the liṅga of fire](lingodbhava.md) — `skeleton`
 - [The arhat's nirvāṇa is not final](arhat-nirvana-not-final.md) — `skeleton`
+- [The aspiration for awakening in Pure Land teaching](bodhicitta-in-pure-land.md) — `skeleton`
 - [The astrologer's qualifications and conduct](daivajna-qualifications.md) — `skeleton`
 - [The astronomical schools (pakṣa)](siddhanta-paksas.md) — `skeleton`
 - [The atomic size of the self (aṇu-jīva)](atomic-self.md) — `skeleton`
@@ -985,7 +1134,10 @@ sourced: 161 · skeleton: 2293
 - [The awakening of the Buddha](awakening-of-the-buddha.md) — `skeleton`
 - [The Aṣṭottarī period system](astottari-dasa.md) — `skeleton`
 - [The balance of the two deeds (iruviṉaiyoppu)](iruvinaiyoppu.md) — `skeleton`
+- [The bardo of becoming (srid pa'i bar do)](bardo-of-becoming.md) — `skeleton`
+- [The base of all and awareness in Bön Dzogchen](bon-kunzhi-and-rigpa.md) — `skeleton`
 - [The bazaar of the soul (Kartābhajā imagery)](bazaar-of-the-soul.md) — `skeleton` _(recent)_
+- [The benefits in the present life (genze riyaku / genshō jūyaku)](ten-benefits-in-present-life.md) — `skeleton`
 - [The benefits of loving-kindness](benefits-of-metta.md) — `skeleton`
 - [The Bhairava consorts of the Mahāvidyās](mahavidya-consorts.md) — `skeleton`
 - [The Bhairavī circle](bhairavi-cakra.md) — `skeleton`
@@ -994,7 +1146,9 @@ sourced: 161 · skeleton: 2293
 - [The Bhāgavata's eighteen powers](bhagavata-eighteen-siddhis.md) — `skeleton`
 - [The Bhāgavata's ten marks (daśalakṣaṇa)](bhagavata-ten-marks.md) — `skeleton`
 - [The bird's path and the ant's path](bird-and-ant-paths.md) — `skeleton`
+- [The birth of non-birth](birth-of-non-birth.md) — `skeleton`
 - [The Black and the White Yajurveda](black-and-white-yajurveda.md) — `skeleton`
+- [The black crown of the Karmapa](black-crown.md) — `skeleton`
 - [The blessings (Maṅgala Sutta)](thirty-eight-blessings.md) — `skeleton`
 - [The blind men and the elephant](blind-men-and-elephant.md) — `skeleton`
 - [The bodhisatta's path to Buddhahood](bodhisatta-path.md) — `skeleton`
@@ -1003,6 +1157,7 @@ sourced: 161 · skeleton: 2293
 - [The bodhisattva's illness from compassion](bodhisattva-illness.md) — `skeleton`
 - [The bodhisattva's training: give, protect, purify, increase](bodhisattva-training-siksasamuccaya.md) — `skeleton`
 - [The bodies of the Buddha (sūtra layer)](three-bodies-sutra.md) — `skeleton`
+- [The bodies of those born in Sukhāvatī](body-in-the-pure-land.md) — `skeleton`
 - [The bodiless and those merged in prakṛti](videha-prakrtilaya.md) — `skeleton`
 - [The body and constitution in the chart](body-and-constitution-in-jyotisa.md) — `skeleton`
 - [The body as microcosm (piṇḍa and brahmāṇḍa)](pinda-brahmanda.md) — `skeleton`
@@ -1010,6 +1165,7 @@ sourced: 161 · skeleton: 2293
 - [The body as the city of nine gates (navadvāra pura)](nine-gated-city.md) — `skeleton`
 - [The body as the city of the gods](body-as-city-of-gods.md) — `skeleton`
 - [The body as the eternal Vṛndāvana](body-as-vrndavana.md) — `skeleton`
+- [The body as the sacred sites](body-as-pitha.md) — `skeleton`
 - [The body as the self (dehātmavāda)](dehatmavada.md) — `skeleton`
 - [The body as the Śrīcakra](body-as-sricakra.md) — `skeleton`
 - [The body for torment after death](yatana-body.md) — `sourced`
@@ -1024,10 +1180,13 @@ sourced: 161 · skeleton: 2293
 - [The Brahmā worlds](brahma-realms.md) — `skeleton`
 - [The breath as horse (vāci)](vasi.md) — `skeleton`
 - [The Buddha as a person of valid cognition](buddha-as-pramana.md) — `skeleton`
+- [The buddha in the body](buddha-in-the-body.md) — `skeleton`
 - [The Buddha's body and qualities in the Sarvāstivāda](buddha-body-sarvastivada.md) — `skeleton`
 - [The Buddha's immeasurable lifespan](eternal-lifespan-of-the-buddha.md) — `skeleton`
 - [The Buddha's omniscience](omniscience-madhyamaka.md) — `skeleton`
+- [The Buddha's welcome at death (raigō)](deathbed-welcome.md) — `skeleton`
 - [The Buddhas of the past](past-buddhas.md) — `skeleton`
+- [The Buddhist subtle body (channels, winds, drops)](buddhist-subtle-body.md) — `skeleton`
 - [The Bārhaspatya view of the sciences](barhaspatya-arthasastra.md) — `skeleton`
 - [The Bāul–Fakir exchange (context)](baul-fakir-exchange.md) — `skeleton`
 - [The calculus of bliss (ānanda-mīmāṃsā)](ananda-mimamsa.md) — `sourced`
@@ -1048,7 +1207,9 @@ sourced: 161 · skeleton: 2293
 - [The cloud of dharma (dharmamegha)](dharmamegha-samadhi.md) — `skeleton`
 - [The co-apprehension argument (sahopalambhaniyama)](sahopalambha-argument.md) — `skeleton`
 - [The cognitive process (citta-vīthi)](citta-vithi.md) — `skeleton`
+- [The commitments of mind training](lojong-commitments.md) — `skeleton`
 - [The companion's stance (sakhī-bhāva)](sakhi-bhava.md) — `skeleton`
+- [The completion stage](completion-stage.md) — `skeleton`
 - [The complexity of kamma](complexity-of-kamma.md) — `skeleton`
 - [The components of bhakti-rasa](bhakti-rasa-components.md) — `skeleton`
 - [The conduct and ethics of the physician](physician-ethics.md) — `skeleton`
@@ -1057,6 +1218,7 @@ sourced: 161 · skeleton: 2293
 - [The conjunction of seer and seen (saṃyoga)](samyoga.md) — `skeleton`
 - [The contest of the breaths](contest-of-the-pranas.md) — `sourced`
 - [The conveyance-body and the piṇḍa-body](ativahika-and-pinda-body.md) — `skeleton`
+- [The Copper-Coloured Mountain (zangs mdog dpal ri)](zangdok-palri.md) — `skeleton`
 - [The cosmic Person (Puruṣa)](purusa-cosmic-person.md) — `skeleton`
 - [The cosmography of the siddhāntas](siddhantic-cosmography.md) — `skeleton`
 - [The cosmology of the Abhidharmakośa](abhidharmakosa-cosmology.md) — `skeleton`
@@ -1078,6 +1240,7 @@ sourced: 161 · skeleton: 2293
 - [The dance of Naṭarāja and the Chidambaram tradition](dance-of-nataraja.md) — `skeleton`
 - [The dangers of forcing (the texts' own warnings)](dangers-of-forcing.md) — `skeleton`
 - [The day and night of Brahmā](day-and-night-of-brahma.md) — `skeleton`
+- [The deathless body and mind (Shangpa)](deathless-body-and-mind.md) — `skeleton`
 - [The debates of the eleven gaṇadharas](ganadharavada.md) — `skeleton`
 - [The debts (ṛṇa) and the possibility of liberation](debts-and-liberation.md) — `skeleton`
 - [The decline of health through the ages](yuga-decline-of-health.md) — `skeleton`
@@ -1103,11 +1266,14 @@ sourced: 161 · skeleton: 2293
 - [The dharma of the Kali age](kali-yuga-dharma.md) — `skeleton`
 - [The dharma of the one-pointed (ekāntika / sātvata dharma)](ekantika-dharma.md) — `skeleton`
 - [The Diamond Sūtra's 'A is not A, therefore it is called A'](diamond-dialectic.md) — `skeleton`
+- [The difficulty of faith in the easy practice](difficulty-of-faith.md) — `skeleton`
 - [The Digambara panths](digambara-panthas.md) — `skeleton`
 - [The Digambara saṅghas](digambara-sanghas.md) — `skeleton`
 - [The digestive fires (agni)](agnis.md) — `skeleton`
 - [The diseases of the mind (mānas rog)](manasa-roga.md) — `skeleton`
 - [The dispositions of disciples in different eras](three-dispositions-of-eras.md) — `skeleton`
+- [The dissolution at death](dissolution-at-death.md) — `skeleton`
+- [The dissolution of the elements at death](dissolution-stages.md) — `skeleton`
 - [The distinction of sattva (intellect) and the knower of the field](sattva-ksetrajna-distinction.md) — `skeleton`
 - [The divine and demonic endowments (daivī and āsurī sampad)](divine-and-demonic-endowments.md) — `skeleton`
 - [The divine body (divya-deha)](divya-deha.md) — `skeleton`
@@ -1130,7 +1296,9 @@ sourced: 161 · skeleton: 2293
 - [The doctrine of vibration (spanda)](spanda-doctrine.md) — `skeleton`
 - [The dreams of a Tīrthaṅkara's mother](dreams-of-tirthankara-mother.md) — `skeleton`
 - [The duration and decline of the true Dhamma](decline-of-the-sasana.md) — `skeleton`
+- [The early and later diffusions (snga dar, phyi dar)](early-and-later-diffusion.md) — `skeleton`
 - [The Earth as mother](prthivi-earth-mother.md) — `skeleton`
+- [The easy path and the difficult path](easy-and-difficult-practice.md) — `skeleton`
 - [The effect (kārya): vidyā, kalā, paśu](pasupata-karya.md) — `skeleton`
 - [The efficacy of action (kiriyavāda / kammavāda)](kiriyavada-kammavada.md) — `skeleton`
 - [The eight (nine) rasas](nine-rasas.md) — `skeleton`
@@ -1145,7 +1313,11 @@ sourced: 161 · skeleton: 2293
 - [The eight fetters (aṣṭa-pāśa)](asta-pasa.md) — `skeleton`
 - [The eight finalities (carima)](eight-finalities.md) — `skeleton`
 - [The eight forms of marriage](eight-forms-of-marriage.md) — `sourced`
+- [The eight freedoms and ten advantages (dal 'byor)](freedoms-and-advantages.md) — `skeleton`
+- [The eight freedoms and ten endowments](eight-freedoms-and-ten-endowments.md) — `skeleton`
+- [The eight gateways of spontaneous presence](eight-gateways-of-spontaneous-presence.md) — `skeleton`
 - [The eight goddesses of speech (vāgdevatā)](eight-vagdevatas.md) — `skeleton`
+- [The Eight Herukas / Eight Pronouncements (bka' brgyad)](kagye.md) — `skeleton`
 - [The eight inner flowers](eight-inner-flowers.md) — `skeleton`
 - [The eight kinds of karma](eight-karmas.md) — `skeleton`
 - [The eight kinds of prātimokṣa discipline](eight-pratimoksas.md) — `skeleton`
@@ -1153,6 +1325,7 @@ sourced: 161 · skeleton: 2293
 - [The eight liberations](eight-vimokkhas.md) — `skeleton`
 - [The eight limbs of yoga (aṣṭāṅga)](astanga-yoga.md) — `skeleton`
 - [The eight lordly powers (aṇimā and the rest)](anima-adi-siddhis.md) — `skeleton`
+- [The eight manifestations of Padmasambhava (gu ru mtshan brgyad)](eight-manifestations-of-padmasambhava.md) — `skeleton`
 - [The eight marvels (prātihārya)](eight-pratiharyas.md) — `skeleton`
 - [The eight negations](eight-negations.md) — `skeleton`
 - [The eight noble persons](eight-noble-persons.md) — `skeleton`
@@ -1165,10 +1338,12 @@ sourced: 161 · skeleton: 2293
 - [The eight sāttvika signs of ecstasy](eight-sattvika-bhavas.md) — `skeleton`
 - [The eight topics and seventy points of the Abhisamayālaṃkāra](eight-topics-abhisamayalamkara.md) — `skeleton`
 - [The eight Vidyeśvaras](vidyesvaras.md) — `skeleton`
+- [The eight vidyādharas of the Kagye transmission](eight-vidyadharas.md) — `skeleton`
 - [The eight worldly conditions](eight-lokadhamma.md) — `skeleton`
 - [The eighteen elements](eighteen-dhatus.md) — `skeleton`
 - [The eighteen exclusive qualities of a Buddha](eighteen-avenika-dharmas.md) — `skeleton`
 - [The eighteen faults absent in the Jina](eighteen-dosas-absent-in-jina.md) — `skeleton`
+- [The eighteen great Mahāyoga tantras (tantra section)](eighteen-mahayoga-tantras.md) — `skeleton`
 - [The eighteen Mahāpurāṇas](eighteen-mahapuranas.md) — `skeleton`
 - [The eighteen processings of mercury](eighteen-samskaras.md) — `skeleton`
 - [The eighteen promulgators of jyotiṣa](eighteen-promulgators.md) — `skeleton`
@@ -1181,7 +1356,9 @@ sourced: 161 · skeleton: 2293
 - [The eightfold matching for marriage (aṣṭakūṭa)](astakuta.md) — `skeleton`
 - [The eightfold praṇava](pranava-eightfold.md) — `skeleton`
 - [The eightfold prognostication (mahānimitta)](mahanimitta.md) — `skeleton`
+- [The eighty natural conceptions (prakṛti)](eighty-natural-concepts.md) — `skeleton`
 - [The eighty-four postures](eighty-four-asanas.md) — `skeleton`
+- [The eighty-four siddhas](eighty-four-siddhas.md) — `skeleton`
 - [The eighty-four siddhas in Nāth tradition](eighty-four-siddhas-natha.md) — `skeleton`
 - [The elements (dhātu) examined](elements-in-madhyamaka.md) — `skeleton`
 - [The eleven capacities (indriya)](eleven-indriyas.md) — `skeleton`
@@ -1199,7 +1376,9 @@ sourced: 161 · skeleton: 2293
 - [The eternal, unslayable embodied one (dehin / śarīrin)](imperishable-embodied-self.md) — `skeleton`
 - [The eternality of words (śabda-nityatva)](eternality-of-sound.md) — `skeleton`
 - [The eternality of Āyurveda](eternality-of-ayurveda.md) — `skeleton`
+- [The evil person as the true object of the vow (akunin shōki)](evil-person-as-true-object.md) — `skeleton`
 - [The examination of the object-condition](alambana-pariksa.md) — `skeleton`
+- [The experiences of bliss, clarity and non-thought](nyams-bliss-clarity-nonthought.md) — `skeleton`
 - [The factors of stream-entry](sotapattiyanga.md) — `skeleton`
 - [The fate of the one fallen from yoga](fate-of-the-fallen-yogin.md) — `skeleton`
 - [The field and the knower of the field (kṣetra–kṣetrajña)](ksetra-ksetrajna.md) — `skeleton`
@@ -1222,14 +1401,17 @@ sourced: 161 · skeleton: 2293
 - [The five acts in the Pāñcarātra](five-acts-pancaratra.md) — `skeleton`
 - [The five afflictions (kleśa)](five-klesas.md) — `skeleton`
 - [The five aggregates](five-aggregates.md) — `skeleton`
+- [The five augmenting conditions of reciting (Shandao)](five-augmenting-conditions.md) — `skeleton`
 - [The five auspicious events (pañca-kalyāṇaka)](five-kalyanakas.md) — `skeleton`
 - [The five auspicious āgamas and the Samaya way](subhagama-pancaka.md) — `skeleton`
 - [The five bodies](five-bodies.md) — `skeleton`
 - [The five brahma-mantras](pancabrahma-mantras.md) — `skeleton`
 - [The five breaths](five-pranas.md) — `sourced`
+- [The five buddha families](five-buddha-families.md) — `skeleton`
 - [The five categories of the Pāśupatas (pañcārtha)](pancartha-five-categories.md) — `skeleton`
 - [The five causes of bondage](causes-of-bondage.md) — `skeleton`
 - [The five classes of lunar days](tithi-classes.md) — `skeleton`
+- [The five clear lights and their five times](five-clear-lights.md) — `skeleton`
 - [The five co-causes (kāla, svabhāva, niyati, pūrvakṛta, puruṣakāra)](five-causes-jain.md) — `skeleton`
 - [The five codes (pañcācāra)](pancacara.md) — `skeleton`
 - [The five concentrations of embodied meditation](five-dharanas-jain.md) — `skeleton`
@@ -1246,10 +1428,14 @@ sourced: 161 · skeleton: 2293
 - [The five forms of God (para, vyūha, vibhava, antaryāmin, arcā)](five-forms-of-god-pancaratra.md) — `skeleton`
 - [The five forms of Viṣṇu (Vaikhānasa)](vaikhanasa-five-forms.md) — `skeleton`
 - [The five gains (lābha)](pasupata-five-gains.md) — `skeleton`
+- [The five gates of mindfulness (wu nianmen)](five-gates-of-mindfulness.md) — `skeleton`
+- [The five gnoses](five-wisdoms.md) — `skeleton`
+- [The five golden dharmas of the Shangpa](shangpa-five-golden-dharmas.md) — `skeleton`
 - [The five great daily sacrifices](five-great-sacrifices.md) — `sourced`
 - [The five great men (pañcamahāpuruṣa)](pancamahapurusa-yogas.md) — `skeleton`
 - [The five grounds of monastic judgment](five-vyavaharas.md) — `skeleton`
 - [The five hindrances](five-hindrances.md) — `skeleton`
+- [The Five Houses of Chan](five-houses.md) — `skeleton`
 - [The five images (pañcabera)](pancabera.md) — `skeleton`
 - [The five impurities (mala)](pasupata-five-impurities.md) — `skeleton`
 - [The five jewels (Kaulajñānanirṇaya 17)](five-jewels-kjn.md) — `skeleton`
@@ -1261,13 +1447,16 @@ sourced: 161 · skeleton: 2293
 - [The five kinds of performance (poison to nectar)](five-anusthanas.md) — `skeleton`
 - [The five kinds of rapture (pīti)](five-kinds-of-rapture.md) — `skeleton`
 - [The five kinds of unattached ascetic](five-nirgranthas.md) — `skeleton`
+- [The five kāyas](five-kayas.md) — `skeleton`
 - [The five Kṛṣṇas (pañca-kṛṣṇa)](pancakrsna.md) — `skeleton`
 - [The five letters (pañcākṣara)](pancaksara.md) — `skeleton`
 - [The five levels of the mind (citta-bhūmi)](citta-bhumis.md) — `skeleton`
 - [The five liberations and their refusal](five-liberations.md) — `skeleton`
+- [The five lights and the five elements](five-lights-and-elements.md) — `skeleton`
 - [The five limbs of the almanac (pañcāṅga)](pancanga.md) — `skeleton`
 - [The five lineages (gotra)](five-gotras.md) — `skeleton`
 - [The five malas](five-malas.md) — `skeleton`
+- [The five manifest awakenings](five-abhisambodhis.md) — `skeleton`
 - [The five marks of a Purāṇa (pañcalakṣaṇa)](pancalaksana.md) — `skeleton`
 - [The five means (upāya)](pasupata-five-means.md) — `skeleton`
 - [The five means (upāya) of the Nimbārka school](five-means-nimbarka.md) — `skeleton`
@@ -1283,6 +1472,7 @@ sourced: 161 · skeleton: 2293
 - [The five pittas](five-pittas.md) — `skeleton`
 - [The five places (deśa)](pasupata-five-places.md) — `skeleton`
 - [The five points of Mahādeva](five-points-of-mahadeva.md) — `skeleton`
+- [The five powers of mind training](five-powers-lojong.md) — `skeleton`
 - [The five powers: consciousness, bliss, will, knowledge, action](five-saktis.md) — `skeleton`
 - [The five precepts](five-precepts.md) — `skeleton`
 - [The five primary devotional rasas](five-devotional-rasas.md) — `skeleton`
@@ -1291,7 +1481,9 @@ sourced: 161 · skeleton: 2293
 - [The five purifications (viśuddhi)](pasupata-five-purifications.md) — `skeleton`
 - [The five purificatory acts](pancakarma.md) — `skeleton`
 - [The five purposes of jīvanmukti](five-purposes-of-jivanmukti.md) — `skeleton`
+- [The five ranks (goi)](five-ranks.md) — `skeleton`
 - [The five restraints (yama)](yamas.md) — `skeleton`
+- [The five right practices and the rightly determined act](five-right-practices.md) — `skeleton`
 - [The five sciences (pañca vidyāsthānāni)](five-sciences.md) — `skeleton`
 - [The five sheaths (pañca-kośa)](five-sheaths.md) — `sourced`
 - [The five sheaths of limitation (kañcuka)](five-kancukas.md) — `skeleton`
@@ -1307,6 +1499,7 @@ sourced: 161 · skeleton: 2293
 - [The five subtle elements (tanmātra)](five-tanmatras.md) — `skeleton`
 - [The five supreme beings (pañca-parameṣṭhin)](pancaparamesthin.md) — `skeleton`
 - [The five systems of knowledge (Sāṃkhya, Yoga, Pañcarātra, Veda, Pāśupata)](five-systems-of-knowledge.md) — `skeleton`
+- [The five sūtras and one treatise (Chinese Pure Land canon)](five-sutras-one-treatise.md) — `skeleton`
 - [The five tattvas / five M's (pañcatattva, pañca-makāra)](pancatattva.md) — `skeleton`
 - [The five temperaments (carita) and their remedies](five-temperaments.md) — `skeleton`
 - [The five things to be known (artha-pañcaka)](artha-pancaka.md) — `skeleton`
@@ -1326,45 +1519,63 @@ sourced: 161 · skeleton: 2293
 - [The fivefold division of the Veda](vedic-sentence-types.md) — `skeleton`
 - [The fivefold equality of Śiva and Śakti (pañcavidha-sāmya)](fivefold-equality.md) — `skeleton`
 - [The fivefold hierarchy of religion (laukika, vaidika, ādhyātmika, atimārga, mantra)](fivefold-hierarchy-of-religion.md) — `skeleton`
+- [The fivefold Mahāmudrā (phyag chen lnga ldan)](fivefold-mahamudra.md) — `skeleton`
+- [The fivefold transmission (gojū sōden)](goju-soden.md) — `skeleton`
 - [The fivefold truth (pañca-tattva)](panca-tattva.md) — `skeleton`
 - [The fixed and the moving (sthāvara and jaṅgama)](sthavara-jangama.md) — `skeleton`
+- [The flower sermon](flower-sermon.md) — `skeleton`
 - [The formation of the body in the womb](embryology-garbha.md) — `skeleton`
 - [The forty meditation subjects](forty-kammatthanas.md) — `skeleton`
 - [The four accomplishments (ārādhanā)](four-aradhanas.md) — `skeleton`
+- [The four activities (las bzhi) and the siddhis](four-activities.md) — `skeleton`
 - [The four ages (yuga)](four-yugas.md) — `skeleton`
 - [The four aspects of bondage](four-aspects-of-bandha.md) — `skeleton`
 - [The four assemblies of disputants (vādi-samavasaraṇa)](four-vada-classes.md) — `skeleton`
 - [The four assurances](four-assurances.md) — `skeleton`
+- [The four attachments to be parted from](four-attachments.md) — `skeleton`
+- [The four attentions (mental engagements)](four-attentions-samatha.md) — `skeleton`
 - [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](four-attitudes.md) — `skeleton`
+- [The four authorities (tshad ma bzhi) of the Lamdre](four-authorities-lamdre.md) — `skeleton`
 - [The four authorities (Vallabha)](prasthana-catustaya-vallabha.md) — `skeleton`
 - [The four bases of power](four-iddhipadas.md) — `skeleton`
-- [The four Buddhist tenet systems](four-tenet-systems.md) — `skeleton`
+- [The four cakras of the Hevajra](four-cakras-vajrayana.md) — `skeleton`
 - [The four characteristics of the conditioned](four-characteristics-of-the-conditioned.md) — `skeleton`
 - [The four classes of words](four-classes-of-words.md) — `sourced`
 - [The four clear instructions on purity (Śūraṅgama)](four-clear-instructions.md) — `skeleton`
 - [The four conditions (baddha, mumukṣu, sādhaka, siddha)](four-conditions-of-seekers.md) — `skeleton`
+- [The four consecrations](abhiseka-four.md) — `skeleton`
+- [The four cycles of the instruction series](four-cycles-of-instruction-series.md) — `skeleton`
 - [The four defining devices (lakkhaṇa, rasa, paccupaṭṭhāna, padaṭṭhāna)](four-defining-devices.md) — `skeleton`
 - [The four destinies (gati)](four-gatis.md) — `skeleton`
 - [The four developments of concentration](four-samadhi-bhavana.md) — `skeleton`
+- [The four dharmas of Gampopa](four-dharmas-of-gampopa.md) — `skeleton`
 - [The four dhyānas of the Laṅkāvatāra](four-dhyanas-lankavatara.md) — `skeleton`
 - [The four divine abidings (brahmavihāra)](four-brahmaviharas.md) — `skeleton`
 - [The four doctrines of the rivals (samavasaraṇa)](four-schools-samavasarana.md) — `skeleton`
 - [The four doors of exposition](four-anuyoga-dvaras.md) — `skeleton`
 - [The four elements as the only principles](carvaka-four-elements.md) — `skeleton`
+- [The four elements in Chan](four-elements-chan.md) — `skeleton`
+- [The four empowerments](four-empowerments-nyingma.md) — `skeleton`
+- [The four empties](four-empties.md) — `skeleton`
 - [The four errors (viparyāsa)](four-viparyasas.md) — `skeleton`
+- [The four essential points for analysing selflessness](four-point-analysis.md) — `skeleton` _(recent)_
 - [The four establishments of mindfulness](four-satipatthanas.md) — `skeleton`
 - [The four eternal realities (Mahānubhāva)](four-realities-mahanubhava.md) — `skeleton`
 - [The four expositions (anuyoga)](four-anuyogas.md) — `skeleton`
 - [The four formless attainments](formless-attainments.md) — `skeleton`
 - [The four forms of Viṣṇu (VP 1.2)](four-forms-of-visnu.md) — `skeleton`
 - [The four gatekeepers of liberation](four-gatekeepers-of-liberation.md) — `skeleton`
+- [The four general characteristics of karma](four-characteristics-of-karma.md) — `skeleton`
 - [The four grades of aspirant](four-grades-of-aspirant.md) — `skeleton`
+- [The four great and eight lesser Kagyu schools](four-great-and-eight-lesser-kagyu.md) — `skeleton`
 - [The four great elements](four-elements.md) — `skeleton`
 - [The Four Great Kings](four-great-kings.md) — `skeleton`
 - [The four great references](mahapadesa.md) — `skeleton`
 - [The four great sayings (mahāvākya)](mahavakyas.md) — `sourced`
+- [The four greatnesses of the lamrim teaching](four-greatnesses-lamrim.md) — `skeleton`
 - [The four inversions and their reversal](four-inversions-reversed.md) — `skeleton`
 - [The four jhānas](four-jhanas.md) — `skeleton`
+- [The four joys (ānanda)](four-joys.md) — `skeleton`
 - [The four kinds of absence](kinds-of-absence.md) — `skeleton`
 - [The four kinds of absence (abhāva)](four-abhavas.md) — `skeleton`
 - [The four kinds of clinging](four-upadanas.md) — `skeleton`
@@ -1377,6 +1588,7 @@ sourced: 161 · skeleton: 2293
 - [The four kinds of meditation object (Śrāvakabhūmi)](four-kinds-of-meditation-object.md) — `skeleton`
 - [The four kinds of reality (Bodhisattvabhūmi)](four-kinds-of-reality.md) — `skeleton`
 - [The four kinds of religious performance](four-anusthanas.md) — `skeleton`
+- [The four kinds of spiritual friend (Jewel Ornament)](four-kinds-of-spiritual-friend.md) — `skeleton`
 - [The four levels of the guṇas (guṇa-parvan)](guna-parvan.md) — `skeleton`
 - [The four masters on existence in the three times](four-masters-on-three-times.md) — `skeleton`
 - [The four means (upāya)](four-upayas.md) — `skeleton`
@@ -1384,6 +1596,8 @@ sourced: 161 · skeleton: 2293
 - [The four means of knowledge (Nyāya)](four-pramanas-nyaya.md) — `skeleton`
 - [The four meditations](four-dhyanas.md) — `skeleton`
 - [The four minds (Jñānakārikā)](four-minds-jnanakarika.md) — `skeleton`
+- [The four modes of practice (sixiu)](four-modes-of-practice.md) — `skeleton`
+- [The four moments (kṣaṇa)](four-moments.md) — `skeleton`
 - [The four moons (cāri candra)](four-moons.md) — `skeleton`
 - [The four Māheśvara schools of the doxographers](mahesvara-four-schools.md) — `skeleton`
 - [The four mārgas of the samayācāryas](four-margas.md) — `skeleton`
@@ -1401,6 +1615,8 @@ sourced: 161 · skeleton: 2293
 - [The four pillars of treatment](four-pillars-of-treatment.md) — `skeleton`
 - [The four placements (nikṣepa)](four-niksepas.md) — `skeleton`
 - [The four places of pilgrimage](four-places-of-pilgrimage.md) — `skeleton`
+- [The four portals and the fifth, the treasury (sgo bzhi mdzod lnga)](bon-four-portals.md) — `skeleton`
+- [The four powers of confession](four-powers-of-confession.md) — `skeleton`
 - [The four preliminaries (anubandha-catuṣṭaya)](anubandha-catustaya.md) — `skeleton`
 - [The four primary seats (ādi-pīṭha)](four-adi-pithas.md) — `skeleton`
 - [The four principal nikāyas](four-nikayas.md) — `skeleton`
@@ -1413,26 +1629,39 @@ sourced: 161 · skeleton: 2293
 - [The four reliances](four-reliances.md) — `skeleton`
 - [The four right efforts (sammappadhāna)](four-right-efforts.md) — `skeleton`
 - [The four roots of good conducive to penetration](four-nirvedhabhagiyas.md) — `skeleton`
+- [The four samayas of the Great Perfection](four-samayas-of-dzogchen.md) — `skeleton`
+- [The four seals (caturmudrā)](four-seals.md) — `skeleton`
 - [The four seats (pīṭha) in Śrīvidyā](four-pithas-srividya.md) — `skeleton`
 - [The four siddhāntas of the Pāñcarātra](four-siddhantas-pancaratra.md) — `skeleton`
 - [The four sights](four-sights.md) — `skeleton`
 - [The four stages of awakening and the eight noble persons](four-stages-of-awakening.md) — `skeleton`
 - [The four stages of sensory cognition](stages-of-mati.md) — `skeleton`
 - [The four stages of yoga (ārambha, ghaṭa, paricaya, niṣpatti)](four-avasthas-of-yoga.md) — `skeleton`
+- [The four tenet systems (grub mtha' bzhi)](four-tenet-systems.md) — `skeleton`
+- [The four thoughts that turn the mind (blo ldog rnam bzhi)](four-thoughts-that-turn-the-mind.md) — `skeleton`
 - [The four topics: what is to be abandoned, its cause, abandonment, the means](four-arthapadas.md) — `skeleton`
+- [The four transcendent lords of Bön (bde gshegs gtso bo rnam bzhi)](four-transcendent-lords.md) — `skeleton`
+- [The four transmissions of Tilopa (bka' babs bzhi)](four-transmissions-of-tilopa.md) — `skeleton`
 - [The four ultimate realities (paramattha-dhamma)](four-paramattha-dhammas.md) — `skeleton`
 - [The four unreliable holy lives (MN 76)](four-unreliable-holy-lives.md) — `skeleton`
 - [The four unthinkables](four-acinteyya.md) — `skeleton`
 - [The four Upavedas](upavedas.md) — `sourced`
+- [The four valid cognitions (Mipham)](four-valid-cognitions-mipham.md) — `skeleton`
 - [The four varṇas in the Puruṣa Sūkta](varna-in-purusa-sukta.md) — `skeleton`
+- [The four vidyādhara levels (rig 'dzin rnam bzhi)](four-vidyadhara-levels.md) — `skeleton`
+- [The four visions of direct crossing (snang ba bzhi)](four-visions-dzogchen.md) — `skeleton`
 - [The four vyūhas](four-vyuhas.md) — `skeleton`
+- [The four ways of leaving as it is (cog bzhag bzhi)](four-chokzhag.md) — `skeleton`
 - [The four wisdoms](four-wisdoms.md) — `skeleton`
+- [The four wisdoms in the Platform Sūtra](four-wisdoms-chan.md) — `skeleton`
 - [The four yogas (mantra, laya, haṭha, rāja)](four-yogas.md) — `skeleton`
 - [The four yogas as one great yoga](mahayoga-unity.md) — `skeleton`
+- [The four yogas of Mahāmudrā](four-yogas-of-mahamudra.md) — `skeleton`
 - [The four yogic stages (Laṅkāvatāra)](four-yogic-stages.md) — `skeleton`
 - [The four Āgamas (Chinese) as parallels to the Nikāyas](four-agamas.md) — `skeleton`
 - [The four āmnāya maṭhas (the tradition's account)](four-amnaya-mathas.md) — `skeleton`
 - [The four-cornered negation (catuṣkoṭi)](catuskoti.md) — `skeleton`
+- [The four-line self-description of Chan](four-line-self-description.md) — `skeleton`
 - [The fourfold and fivefold jhāna schemes](five-jhanas-abhidhamma.md) — `skeleton`
 - [The fourfold classifications of kamma](kamma-fourfold-classifications.md) — `skeleton`
 - [The fourfold community](fourfold-sangha.md) — `skeleton`
@@ -1443,6 +1672,8 @@ sourced: 161 · skeleton: 2293
 - [The fourfold yoga of meditation (Mokṣadharma)](fourfold-dhyana-yoga.md) — `skeleton`
 - [The fourfold: piṇḍa, pada, rūpa, rūpātīta](pinda-pada-rupa-rupatita.md) — `skeleton`
 - [The fourteen Pūrvas](fourteen-purvas.md) — `skeleton`
+- [The fourteen root downfalls](fourteen-root-downfalls.md) — `skeleton`
+- [The fourteen root downfalls of the tantric vow](tantric-root-downfalls.md) — `skeleton`
 - [The fourteen seats of knowledge](fourteen-vidyasthanas.md) — `sourced`
 - [The fourteen stages of quality (guṇasthāna)](fourteen-gunasthanas.md) — `skeleton`
 - [The fourteen ways of search (mārgaṇā)](fourteen-marganas.md) — `skeleton`
@@ -1455,20 +1686,28 @@ sourced: 161 · skeleton: 2293
 - [The funeral as the hymns present it](vedic-funeral-sequence.md) — `skeleton`
 - [The gacchas of the Mūrtipūjakas](gaccha-system.md) — `skeleton`
 - [The garbha empty and not empty](empty-and-not-empty-garbha.md) — `skeleton`
+- [The Gelug monastic curriculum of the five great texts](gelug-monastic-curriculum.md) — `skeleton`
+- [The generation stage](generation-stage.md) — `skeleton`
 - [The Goddess as Brahman](devi-as-brahman.md) — `skeleton`
 - [The Goddess as Mahāmāyā and the supreme](devi-as-mahamaya.md) — `skeleton`
 - [The Goddess's five cosmic acts](five-acts-of-the-goddess.md) — `skeleton`
 - [The Goddess's gentle and fierce forms](gentle-and-fierce-forms.md) — `skeleton`
 - [The Goddess's gentle and fierce forms](saumya-and-ugra-forms.md) — `skeleton`
 - [The gods as names of the One](gods-as-names-of-the-one.md) — `skeleton`
+- [The golden rosary (the Kagyu succession)](golden-rosary.md) — `skeleton`
 - [The good and the pleasant](sreyas-preyas.md) — `sourced`
+- [The good friend (teacher) in Chan](good-friend-kalyanamitra-chan.md) — `skeleton`
 - [The grace and company of great souls](mahat-krpa-and-mahat-sanga.md) — `skeleton`
 - [The grades of the descent of power (śaktipāta)](kinds-of-saktipata.md) — `skeleton`
 - [The grades of Śaiva initiates](grades-of-initiates.md) — `skeleton`
 - [The gradual training (anupubbasikkhā)](gradual-training.md) — `skeleton`
 - [The grand divisions of creation (Sant Mat)](grand-divisions-sant-mat.md) — `skeleton` _(recent)_
+- [The great matter of birth and death](great-matter-birth-death.md) — `skeleton`
+- [The great monasteries of Indian Vajrayāna](tantric-monastic-centres.md) — `skeleton`
+- [The Great Perfection (rdzogs pa chen po)](great-perfection.md) — `skeleton`
 - [The great sayings (mahāvākya)](mahavakya.md) — `skeleton`
 - [The great vow of the skull (mahāvrata)](mahavrata-skull-observance.md) — `skeleton`
+- [The ground (gzhi) in the Great Perfection](ground-dzogchen.md) — `skeleton`
 - [The guru in Gauḍīya teaching](guru-in-gaudiya.md) — `skeleton`
 - [The guru in the Bāul path](baul-guru.md) — `skeleton`
 - [The guru in the haṭha texts](guru-in-hatha.md) — `skeleton`
@@ -1476,6 +1715,7 @@ sourced: 161 · skeleton: 2293
 - [The guru in the minor Upaniṣads](guru.md) — `skeleton`
 - [The guru in the Nāth tradition](natha-guru.md) — `skeleton`
 - [The guru in the Siddha tradition](siddha-guru.md) — `skeleton`
+- [The guru in the Vajrayāna](guru-in-vajrayana.md) — `skeleton`
 - [The guru-principle](guru-principle.md) — `skeleton`
 - [The guru: how he is found, tested and honoured](virasaiva-guru.md) — `skeleton`
 - [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](guna-typology-of-gita-18.md) — `skeleton`
@@ -1490,9 +1730,12 @@ sourced: 161 · skeleton: 2293
 - [The hells (naraka)](narakas.md) — `skeleton`
 - [The hierarchy of revelations](scriptural-hierarchy.md) — `skeleton`
 - [The hierarchy of senses, mind, understanding and what is beyond them](senses-mind-intellect-hierarchy.md) — `skeleton`
+- [The homonymous tantric authors](homonymous-tantric-authors.md) — `skeleton`
+- [The hundred peaceful and wrathful deities](peaceful-and-wrathful-deities.md) — `skeleton`
 - [The icchantika and the question of universal buddhahood](icchantika-and-gotra.md) — `skeleton`
 - [The identity of Hari and Hara](harihara-identity.md) — `skeleton`
 - [The identity of the self and brahman](atman-brahman-identity.md) — `sourced`
+- [The illusory body (māyādeha)](illusory-body.md) — `skeleton`
 - [The imperishable (akṣara)](aksara.md) — `sourced`
 - [The imperishable (avipraṇāśa) of action](avipranasa.md) — `skeleton`
 - [The impurities of mercury and the danger of impure preparations](rasa-dosas.md) — `skeleton`
@@ -1501,6 +1744,7 @@ sourced: 161 · skeleton: 2293
 - [The inexpressible nature of dharmas](inexpressible-nature.md) — `skeleton`
 - [The injunction of Vedic study and the transmission of the Veda](adhyayana-vidhi.md) — `skeleton`
 - [The innate (sahaja)](sahaja.md) — `skeleton`
+- [The innate (sahaja) in the Buddhist tantras and dohās](sahaja-vajrayana.md) — `skeleton`
 - [The innate Man (sahaja mānuṣa)](sahaja-manusa.md) — `skeleton`
 - [The inner and outer lineages of teachers](santana-lineages.md) — `skeleton`
 - [The inner bodies of the Dhammakāya method](dhammakaya-inner-bodies.md) — `skeleton` _(recent)_
@@ -1511,6 +1755,8 @@ sourced: 161 · skeleton: 2293
 - [The inner sacrifice](inner-sacrifice.md) — `skeleton`
 - [The inner sacrifice of austerity](inner-sacrifice-jain.md) — `skeleton`
 - [The inner topknot and sacred thread](inner-sikha-yajnopavita.md) — `skeleton`
+- [The insentient preach the Dharma](insentient-preach-dharma.md) — `skeleton`
+- [The inseparability of saṃsāra and nirvāṇa ('khor 'das dbyer med)](inseparability-of-samsara-and-nirvana.md) — `skeleton`
 - [The insight knowledges (vipassanā-ñāṇa)](insight-knowledges.md) — `skeleton`
 - [The insignia of the Nāth yogī](natha-insignia.md) — `skeleton`
 - [The internal instrument (antaḥkaraṇa)](antahkarana.md) — `skeleton`
@@ -1534,6 +1780,7 @@ sourced: 161 · skeleton: 2293
 - [The Kaula scriptures named in the Kaulajñānanirṇaya](kaula-scriptures-kjn.md) — `skeleton`
 - [The Kaula ultimate](kaula-view-of-ultimate.md) — `skeleton`
 - [The Kaula/Śākta avadhūta](kaula-avadhuta.md) — `skeleton`
+- [The kindness of all beings](kindness-of-beings.md) — `skeleton`
 - [The kinds of abandoning (pahāna)](five-kinds-of-abandoning.md) — `skeleton`
 - [The kinds of disease](kinds-of-disease.md) — `skeleton`
 - [The kinds of liberation of mind](kinds-of-liberation.md) — `skeleton`
@@ -1544,14 +1791,20 @@ sourced: 161 · skeleton: 2293
 - [The Krama phases of cognition](krama-phases-of-cognition.md) — `skeleton`
 - [The Kula ritual as interpreted by Abhinavagupta (summary)](kaula-ritual-abhinava.md) — `skeleton`
 - [The Kādi and Hādi doctrines (mata)](kadi-hadi-matas.md) — `skeleton`
+- [The Kālacakra calendar and the epoch 1027](kalacakra-calendar.md) — `skeleton`
+- [The Kālacakra consecrations](abhiseka-kalacakra.md) — `skeleton`
 - [The Kālāma criteria](kalama-criteria.md) — `skeleton`
 - [The ladder of principles (Kaṭha)](hierarchy-of-principles-katha.md) — `sourced`
 - [The lamp of knowledge and the gem of devotion](jnana-dipa-bhakti-mani.md) — `skeleton`
+- [The lamps (sgron ma) of the instruction series](four-lamps.md) — `skeleton`
 - [The languages of the early canons](languages-of-the-early-canons.md) — `skeleton`
 - [The last remembrance at death](antima-smrti.md) — `skeleton`
 - [The last thought and resolve at death](last-thought.md) — `sourced`
 - [The last thought at death](last-thought-at-death.md) — `skeleton`
+- [The law of the land and the Buddha's Dharma (ōbō / buppō)](obo-buppo.md) — `skeleton`
 - [The layers of canonical commentary](jain-exegetical-layers.md) — `skeleton`
+- [The Laṅkāvatāra in early Chan](lankavatara-transmission.md) — `skeleton`
+- [The learner's and the non-learner's union](learner-and-non-learner-union.md) — `skeleton`
 - [The letters a and u (akāram, ukāram)](akara-ukara.md) — `skeleton`
 - [The letters as the fifty seats](matrka-and-fifty-pithas.md) — `skeleton`
 - [The letters: mātṛkā and mālinī](matrka-and-malini.md) — `skeleton`
@@ -1583,6 +1836,8 @@ sourced: 161 · skeleton: 2293
 - [The luminous mind (pabhassara citta)](luminous-mind-bhavanga.md) — `skeleton`
 - [The lunisolar calendar](lunisolar-calendar.md) — `skeleton`
 - [The made and the innate paths (kṛtaka and sahaja)](krtaka-sahaja.md) — `skeleton`
+- [The madman's conduct (smyon pa'i spyod pa)](mad-yogin-conduct.md) — `skeleton`
+- [The Mahāmudrā of the amulet box](amulet-mahamudra.md) — `skeleton`
 - [The Mahānubhāva renunciant life](mahanubhava-renunciation.md) — `skeleton`
 - [The Mahāsiddhas of the Haṭhapradīpikā (1.5–9)](hyp-mahasiddha-list.md) — `skeleton`
 - [The Mahāvidyās as the ten avatāras](mahavidya-avatara-correspondence.md) — `skeleton`
@@ -1611,6 +1866,7 @@ sourced: 161 · skeleton: 2293
 - [The mental factors in Yogācāra (fifty-one)](fifty-one-mental-factors.md) — `skeleton`
 - [The mercurial liṅga and the worship of mercury](rasalinga.md) — `skeleton`
 - [The method of consequences](prasanga-method.md) — `skeleton`
+- [The method of monastic debate (rtsod pa)](debate-method-gelug.md) — `skeleton`
 - [The method of pointing out Arundhatī (arundhatī-nyāya)](arundhati-method.md) — `skeleton`
 - [The middle way](middle-way.md) — `skeleton`
 - [The middle way as true examination of dharmas (Kāśyapaparivarta, Samādhirāja)](middle-way-mahayana.md) — `skeleton`
@@ -1622,17 +1878,23 @@ sourced: 161 · skeleton: 2293
 - [The mind as the cause of bondage and liberation](mind-as-cause-of-samsara.md) — `skeleton`
 - [The mind is not self-luminous](citta-not-self-luminous.md) — `skeleton`
 - [The mode in the form of the partless (akhaṇḍākāra-vṛtti)](akhandakara-vrtti.md) — `skeleton`
+- [The modes of liberation (grol lugs)](modes-of-self-liberation.md) — `skeleton`
 - [The monkey's way and the crow's way](monkey-and-crow-paths.md) — `skeleton`
 - [The Muktikā canon of 108 Upaniṣads](muktika-canon.md) — `skeleton`
 - [The muni and the long-haired one](muni-and-keshin.md) — `skeleton`
 - [The Mūlasūtras](mulasutras.md) — `skeleton`
+- [The name as itself birth (Ippen)](name-as-birth-ippen.md) — `skeleton`
+- [The name contains all virtues](name-embodies-all-virtues.md) — `skeleton`
 - [The named breaths in the Saṃhitās](vedic-breaths.md) — `skeleton`
 - [The names of Śakti (Kaulajñānanirṇaya 20)](sakti-names-kjn.md) — `skeleton`
 - [The nature and rank of Śrī](sri-tattva.md) — `skeleton`
+- [The nature of mind in the siddha songs](nature-of-mind-siddha.md) — `skeleton`
 - [The nature of the omniscient (kevalin)](kevalin-nature.md) — `skeleton`
+- [The nature of thought is dharmakāya](thought-as-dharmakaya.md) — `skeleton`
 - [The Navya-Nyāya analysis of cognition and its contents](navya-nyaya-cognition-analysis.md) — `skeleton`
 - [The necessity of a living master](living-master.md) — `skeleton` _(recent)_
 - [The nectar of the moon (amṛta)](amrta-natha.md) — `skeleton`
+- [The nenbutsu as gratitude (hōon)](nenbutsu-as-gratitude.md) — `skeleton`
 - [The nine centres (Siddhasiddhāntapaddhati)](nava-cakra-ssp.md) — `skeleton`
 - [The nine creations of the Viṣṇu Purāṇa](nine-creations.md) — `skeleton`
 - [The nine dharmas (navadharma) of Nepal](navadharma.md) — `skeleton`
@@ -1651,6 +1913,8 @@ sourced: 161 · skeleton: 2293
 - [The nine similes of the tathāgatagarbha](tathagatagarbha-nine-similes.md) — `skeleton`
 - [The nine stages of settling the mind (Yogācāra sources)](nine-stages-calm-yogacara.md) — `skeleton`
 - [The nine substances (dravya)](nine-dravyas.md) — `skeleton`
+- [The nine vehicles (theg pa rim pa dgu)](nine-vehicles.md) — `skeleton`
+- [The nine ways of Bön (theg pa rim dgu)](bon-nine-ways.md) — `skeleton`
 - [The ninety-six principles](ninety-six-tattvas.md) — `skeleton`
 - [The Nityās as the lunar days and time](nityas-as-time.md) — `skeleton`
 - [The noble eightfold path](noble-eightfold-path.md) — `skeleton`
@@ -1658,32 +1922,46 @@ sourced: 161 · skeleton: 2293
 - [The noble search](noble-search.md) — `skeleton`
 - [The nominal and the non-nominal ultimate](paryaya-paramartha.md) — `skeleton`
 - [The non-difference of saṃsāra and nirvāṇa](samsara-nirvana-nondifference.md) — `skeleton`
+- [The non-duality of saṃsāra and nirvāṇa](non-duality-of-samsara-nirvana.md) — `skeleton`
 - [The norms of a bodhisatta](dhammata-bodhisatta.md) — `skeleton`
+- [The Nyingma view of buddha-nature (Mipham)](sugatagarbha-nyingma.md) — `skeleton`
 - [The nābhasa ('sky') yogas](nabhasa-yogas.md) — `skeleton`
 - [The Nāth critique of ritual and caste](natha-critique-of-ritual-and-caste.md) — `skeleton`
 - [The Nāth guru-lineage](natha-guru-parampara.md) — `skeleton`
 - [The Nāth initiation of the Vārkarī saints](nath-varkari-lineage.md) — `skeleton`
 - [The object does not depend on one mind](object-independent-of-mind.md) — `skeleton`
 - [The object of devotion: the Lord as other, the self as one, or both (Śāṇḍilya Sūtra)](object-of-bhakti-sbs.md) — `skeleton`
+- [The object of negation (dgag bya)](object-of-negation.md) — `skeleton`
+- [The observance of the realized yogin (vratacaryā)](vratacarya.md) — `skeleton`
 - [The offences entailing defeat](parajika.md) — `skeleton`
 - [The One (tad ekam, ekaṃ sat)](the-one-tad-ekam.md) — `skeleton`
+- [The one great matter of the afterlife (goshō no ichidaiji)](one-great-matter-of-the-afterlife.md) — `skeleton`
+- [The one mind](one-mind-chan.md) — `skeleton`
 - [The one vehicle (ekayāna)](one-vehicle.md) — `skeleton`
 - [The open space (veṭṭa veḷi)](vetta-veli.md) — `skeleton`
+- [The ordinary foolish being (fanfu / bonbu)](ordinary-being-fanfu.md) — `skeleton`
 - [The origin of society (Aggañña)](buddhist-cosmogony.md) — `skeleton`
 - [The origin of the ten Mahāvidyās in the Satī–Śiva story](mahavidya-origin-story.md) — `skeleton`
+- [The original face](original-face.md) — `skeleton`
 - [The original relation of word and meaning](autpattika-sambandha.md) — `skeleton`
+- [The oxherding stages](oxherding-stages.md) — `skeleton`
+- [The parable of the two rivers and the white path](parable-of-two-rivers.md) — `skeleton`
 - [The parable of the wolf's footprint](vrkapada-parable.md) — `skeleton`
 - [The parts of a sāman](parts-of-a-saman.md) — `skeleton`
 - [The passions and their sixteen grades](four-kasayas-sixteen.md) — `skeleton`
 - [The passions as the family of the Tathāgata](passions-as-family-of-tathagata.md) — `skeleton`
+- [The passions as the path](passions-as-path.md) — `skeleton`
 - [The path of grace (puṣṭi) and the path of rule (maryādā)](pusti-and-maryada.md) — `skeleton`
 - [The path of light (arcirādi-gati)](arciradi-gati.md) — `skeleton`
+- [The path of method and the path of liberation](path-of-method-and-path-of-liberation.md) — `skeleton`
 - [The paths of smoke and light (Kapila Gītā)](paths-of-smoke-and-light-kapila.md) — `skeleton`
 - [The paths of the Gītā: action, knowledge, meditation and devotion](four-yogas-of-the-gita.md) — `skeleton`
+- [The patriarchs of the Lotus (Pure Land) school](pure-land-patriarchs.md) — `skeleton`
 - [The Pañcācārya lineage and the transmission of the SSM](pancacarya-parampara.md) — `skeleton`
 - [The Paścimāmnāya (Western Transmission)](pascimamnaya.md) — `skeleton`
 - [The paśu (bound soul) in the Pāśupata system](pasu-bound-soul-pasupata.md) — `skeleton`
 - [The perfected inner body (siddha-deha)](siddha-deha.md) — `skeleton`
+- [The perfection vehicle and the mantra vehicle](sutra-and-mantra-vehicles.md) — `skeleton`
 - [The perishable, the imperishable and the highest person](three-purusas.md) — `skeleton`
 - [The permanence of the dharmakāya](permanence-of-dharmakaya.md) — `skeleton`
 - [The person (puruṣa) of medicine](purusa-in-ayurveda.md) — `skeleton`
@@ -1701,6 +1979,7 @@ sourced: 161 · skeleton: 2293
 - [The play in the inner grove](nikunja-lila.md) — `skeleton`
 - [The plurality of selves](plurality-of-selves.md) — `skeleton`
 - [The plurality of Vedic creation accounts](vedic-cosmogonies.md) — `skeleton`
+- [The pointing-out instruction](pointing-out-instruction.md) — `skeleton`
 - [The poisonous minerals (pāṣāṇam) and the nine of Palani](pasanam.md) — `skeleton`
 - [The possible and the impossible](possible-and-impossible.md) — `skeleton`
 - [The potter's wheel](potter-wheel.md) — `skeleton`
@@ -1708,10 +1987,15 @@ sourced: 161 · skeleton: 2293
 - [The power of the divine name](power-of-the-name.md) — `skeleton`
 - [The powers (siddhi) in Nāth and Kaula teaching](natha-siddhis.md) — `skeleton`
 - [The powers of the Pāśupata yogin](pasupata-powers.md) — `skeleton`
+- [The practice lineage (sgrub brgyud)](practice-lineage.md) — `skeleton`
+- [The precepts of mind training](lojong-precepts.md) — `skeleton`
+- [The preliminaries (ngöndro)](ngondro.md) — `skeleton`
 - [The preliminaries of breath-control (place, time, diet, purification)](four-preliminaries-of-pranayama.md) — `skeleton`
+- [The prerequisites (limbs) of calm abiding](prerequisites-of-calm-abiding.md) — `skeleton`
 - [The present and the inferred (bartamān and anumān)](bartaman-anuman.md) — `skeleton`
 - [The preta state](preta-state.md) — `skeleton`
 - [The primacy of mental action](mental-karma-primacy.md) — `skeleton`
+- [The primordial buddha (ādibuddha)](adibuddha.md) — `skeleton`
 - [The principles in the Kapila Gītā](kapila-gita-principles.md) — `skeleton`
 - [The process of dying](dying-process.md) — `sourced`
 - [The processes of karma](karma-processes.md) — `skeleton`
@@ -1720,6 +2004,8 @@ sourced: 161 · skeleton: 2293
 - [The proofs of momentariness](momentariness-arguments.md) — `skeleton`
 - [The prātimokṣa rule counts of the Vinayas](vinaya-rule-counts.md) — `skeleton`
 - [The pseudo-reasons (hetvābhāsa)](hetvabhasa-nyaya.md) — `skeleton`
+- [The Pure Land as mind only (weixin jingtu)](mind-only-pure-land.md) — `skeleton`
+- [The pure rules (qinggui) of Chan monasteries](pure-rules-qinggui.md) — `skeleton`
 - [The purposes of poetry](purposes-of-poetry.md) — `skeleton`
 - [The Purāṇa as the fifth Veda](purana-as-fifth-veda.md) — `skeleton`
 - [The Purāṇic vow (vrata)](vrata-puranic.md) — `skeleton`
@@ -1728,18 +2014,22 @@ sourced: 161 · skeleton: 2293
 - [The qualification for yoga](apunarbandhaka-caramavarta.md) — `skeleton`
 - [The qualified recipient of the tantra](qualified-recipient.md) — `skeleton`
 - [The qualified student](qualified-student.md) — `skeleton`
+- [The qualified teacher](qualified-teacher-kadam.md) — `skeleton`
 - [The qualities and the elements](virasaiva-gunas.md) — `skeleton`
 - [The qualities and the elements in Sant teaching](gunas-and-elements-sant.md) — `skeleton`
+- [The qualities of a vajra master](qualities-of-vajracarya.md) — `skeleton`
 - [The qualities of the bodhisattva grounds](bhumi-qualities.md) — `skeleton`
 - [The qualities of the devotee](qualities-of-the-devotee.md) — `skeleton`
 - [The qualities of the sādhu](qualities-of-the-sadhu-bhagavata.md) — `skeleton`
 - [The radiant citta as the seat of ignorance](radiant-citta-and-avijja.md) — `skeleton` _(recent)_
+- [The rainbow body ('ja' lus)](rainbow-body.md) — `skeleton`
 - [The rarity of human birth](rarity-of-human-birth.md) — `skeleton`
 - [The rasa hall (laboratory)](rasasala.md) — `skeleton`
 - [The rasa-sūtra and its interpretations](rasa-sutra.md) — `skeleton`
 - [The Raseśvara-darśana](rasesvara-darsana.md) — `skeleton`
 - [The real (sat) and the unreal (asat)](real-and-unreal.md) — `skeleton`
 - [The reality of the world (jagat-satyatva)](jagat-satyatva.md) — `skeleton`
+- [The realized kōan (genjōkōan)](genjokoan-realized-koan.md) — `skeleton`
 - [The realm of beings neither increases nor decreases](non-increase-non-decrease.md) — `skeleton`
 - [The realms of rebirth](rebirth-realms.md) — `skeleton`
 - [The recensions of the Dharmapada](dharmapada-recensions.md) — `skeleton`
@@ -1751,10 +2041,14 @@ sourced: 161 · skeleton: 2293
 - [The relation of Pūrva and Uttara Mīmāṃsā](purva-uttara-mimamsa.md) — `skeleton`
 - [The renouncer's marks (liṅga)](renunciant-marks.md) — `skeleton`
 - [The renouncer's permitted modes of death](renouncer-permitted-deaths.md) — `skeleton`
+- [The restriction on showing the Senchakushū](secrecy-of-the-senchakushu.md) — `skeleton`
 - [The revealed origin of jyotiṣa](jyotisa-revelation.md) — `skeleton`
+- [The rightly established state (zhengding ju / shōjōju)](rightly-established-state.md) — `skeleton`
 - [The ripening of mala (malaparipāka)](malaparipaka.md) — `skeleton`
 - [The rite of renunciation](sannyasa-rite.md) — `skeleton`
 - [The road of Yama](yama-marga.md) — `skeleton`
+- [The robe and bowl as tokens of transmission](robe-and-bowl.md) — `skeleton`
+- [The root downfalls of the bodhisattva vow](bodhisattva-root-downfalls.md) — `skeleton`
 - [The round of 8.4 million births (caurāsī)](caurasi.md) — `skeleton`
 - [The rule (vidhi): observance and its aids](pasupata-vidhi.md) — `skeleton`
 - [The rules of debate (Buddhist)](debate-ethics-buddhist.md) — `skeleton`
@@ -1766,6 +2060,7 @@ sourced: 161 · skeleton: 2293
 - [The saints as one temple](saints-as-one-temple.md) — `skeleton`
 - [The samavasaraṇa (the Jina's assembly)](samavasarana.md) — `skeleton`
 - [The samaya pledges](samaya.md) — `skeleton`
+- [The samādhi of recollecting the Buddha](nianfo-samadhi.md) — `skeleton`
 - [The Sant song genres](sant-song-genres.md) — `skeleton`
 - [The Sants on powers and miracles](sant-on-siddhis.md) — `skeleton`
 - [The Sarvāstivāda succession of masters](sarvastivada-succession-of-masters.md) — `skeleton`
@@ -1776,6 +2071,7 @@ sourced: 161 · skeleton: 2293
 - [The schools of poetics: what is the 'soul' of poetry?](schools-of-poetics.md) — `skeleton`
 - [The science of auspicious timing (muhūrta)](muhurta-science.md) — `skeleton`
 - [The science of the breath-flow (svarodaya)](svara-science.md) — `skeleton`
+- [The seal of secrecy (bka' rgya)](seal-of-secrecy.md) — `skeleton`
 - [The seat of five corpses (pañcapretāsana)](five-corpse-seat.md) — `skeleton`
 - [The seats and fields of the Yoginīkaula](pithas-kjn.md) — `skeleton`
 - [The seats in the Kubjikā tradition](kubjika-pithas.md) — `skeleton`
@@ -1784,6 +2080,7 @@ sourced: 161 · skeleton: 2293
 - [The secret teaching of the saṃhitā (continuous recitation)](samhita-upanisad.md) — `sourced`
 - [The seen exists for the seer (bhoga and apavarga)](purpose-of-prakrti.md) — `skeleton`
 - [The seer and the seen (draṣṭṛ and dṛśya)](seer-and-seen.md) — `skeleton`
+- [The selected primal vow (senchaku hongan)](selected-primal-vow.md) — `skeleton`
 - [The self](the-self.md) — `skeleton`
 - [The self (jīva, aṅga, ātman) in the Vīraśaiva view](anga-jiva-virasaiva.md) — `skeleton`
 - [The self (ātman)](self.md) — `skeleton`
@@ -1814,51 +2111,64 @@ sourced: 161 · skeleton: 2293
 - [The seven books of the Sarvāstivāda Abhidharma](seven-abhidharma-books.md) — `skeleton`
 - [The seven deities of the Tantrasamuccaya](seven-deities-of-tantrasamuccaya.md) — `skeleton`
 - [The seven dhātus (tissues)](seven-dhatus.md) — `skeleton`
+- [The seven divine dharmas of the Kadam](seven-divine-dharmas-kadam.md) — `skeleton`
 - [The seven factors of awakening](seven-bojjhangas.md) — `skeleton`
 - [The seven hells](seven-hells.md) — `skeleton`
+- [The seven jewels of the Shangpa](seven-jewels-of-shangpa.md) — `skeleton`
 - [The seven kinds of dream](seven-kinds-of-dream.md) — `skeleton`
 - [The seven knowing subjects (pramātṛ)](seven-pramatrs.md) — `skeleton`
 - [The seven locations of mind refuted (Śūraṅgama)](seven-locations-of-mind.md) — `skeleton`
+- [The seven masters of Jōdo Shinshū (shichi kōsō)](seven-masters-shinshu.md) — `skeleton`
 - [The seven means of the yoga of the pot (Gheraṇḍa)](ghatastha-seven-sadhanas.md) — `skeleton`
 - [The seven modes of conduct (ācāra)](seven-acaras.md) — `skeleton`
 - [The seven Mothers](saptamatrkas.md) — `skeleton`
 - [The seven netherworlds](seven-patalas.md) — `skeleton`
 - [The seven noble persons (MN 70)](seven-noble-persons.md) — `skeleton`
+- [The seven noble riches](seven-noble-riches.md) — `skeleton`
 - [The seven parables of the Lotus](lotus-seven-parables.md) — `skeleton`
 - [The seven purifications (MN 24)](seven-visuddhi.md) — `skeleton`
 - [The seven purifications (satta visuddhi)](seven-purifications-concept.md) — `skeleton`
 - [The seven secondary devotional rasas](seven-secondary-rasas.md) — `skeleton`
+- [The seven siddhi texts](seven-siddhi-texts.md) — `skeleton`
 - [The seven stages of ignorance (ajñāna-bhūmikā)](seven-ajnana-bhumikas.md) — `skeleton`
 - [The seven stages of ignorance (ajñāna-bhūmikā)](seven-stages-of-ignorance.md) — `skeleton`
 - [The seven stages of knowledge (jñāna-bhūmikā)](seven-bhumikas.md) — `skeleton`
 - [The seven stages of knowledge (jñāna-bhūmikā)](seven-stages-of-knowledge.md) — `skeleton`
 - [The seven states of the jīva (Pañcadaśī 7)](seven-states-of-jiva.md) — `skeleton`
+- [The seven types of awareness (blo rig bdun)](seven-types-of-mind.md) — `skeleton`
 - [The seven ullāsas](seven-ullasas.md) — `skeleton`
 - [The seven unmade bodies (Pakudha)](seven-bodies-pakudha.md) — `skeleton`
 - [The seven untenables of Advaita's avidyā](saptavidha-anupapatti.md) — `skeleton`
 - [The seven vajra points (RGV)](seven-vajra-points.md) — `skeleton`
 - [The sevenfold analysis of the chariot](sevenfold-chariot-analysis.md) — `skeleton`
+- [The sevenfold cause-and-effect instruction for bodhicitta](seven-point-cause-and-effect.md) — `skeleton`
 - [The sevenfold final insight (saptadhā prāntabhūmi prajñā)](sevenfold-prajna.md) — `skeleton`
 - [The seventeen stages of the Yogācārabhūmi](seventeen-bhumis.md) — `skeleton`
 - [The seventy-five dharmas in five groups](seventy-five-dharmas.md) — `skeleton`
+- [The siddha-poets of the Caryāgīti](caryagiti-poets.md) — `skeleton`
 - [The Siddhar critique of caste](siddhar-critique-of-caste.md) — `skeleton`
 - [The Siddhar critique of images and ritual](siddhar-critique-of-idols-and-ritual.md) — `skeleton`
 - [The Siddhar critique of pilgrimage and holy bathing](siddhar-critique-of-pilgrimage.md) — `skeleton`
 - [The Siddhar critique of scripture and learning](siddhar-critique-of-scripture-and-learning.md) — `skeleton`
 - [The Siddhars' immortality (the tradition's claims)](siddhar-immortality-claims.md) — `skeleton`
 - [The Siddhas of the Kula (Kaulajñānanirṇaya lists)](kjn-siddha-lists.md) — `skeleton`
+- [The siddhas' critique of ritual, caste and scholasticism](critique-of-ritual-siddha.md) — `skeleton`
 - [The Siddhānta doxography of rival schools](four-circles-of-schools.md) — `skeleton`
 - [The Siddhānta's 'advaita' of inseparability](siddhanta-advaita.md) — `skeleton`
 - [The signs of approaching death (ariṣṭa)](signs-of-death.md) — `skeleton`
 - [The signs of breath-mastery](signs-of-pranayama.md) — `skeleton`
+- [The signs of dissolution](signs-of-dissolution.md) — `skeleton`
 - [The signs of the irreversible bodhisattva](signs-of-irreversibility.md) — `skeleton`
 - [The signs of the lover of God](signs-of-the-lover-of-god.md) — `skeleton`
 - [The simile of intoxicating power](madasakti-simile.md) — `skeleton`
 - [The simile of the ball of string](ball-of-thread.md) — `skeleton`
 - [The simile of the raft](raft-simile.md) — `skeleton`
+- [The similes of illusion](twelve-similes-of-illusion.md) — `skeleton`
 - [The similes of illusion, dream and mirage](illusion-similes.md) — `skeleton`
+- [The single intent (dgongs gcig)](single-intent.md) — `skeleton`
 - [The single-ācārya discipline of the Terāpanth](terapanthi-maryada.md) — `skeleton`
 - [The six (later seven) categories of Vaiśeṣika](seven-padarthas-vaisesika.md) — `skeleton`
+- [The six alternatives (ṣaṭkoṭi)](six-alternatives.md) — `skeleton`
 - [The six categories as foundations of medicine](six-padarthas-in-ayurveda.md) — `skeleton`
 - [The six centres (Nāth enumeration)](six-cakras-natha.md) — `skeleton`
 - [The six characteristics of pure devotion](six-characteristics-of-pure-bhakti.md) — `skeleton`
@@ -1866,6 +2176,7 @@ sourced: 161 · skeleton: 2293
 - [The six classes of birth (chaḷābhijāti)](six-abhijatis.md) — `skeleton`
 - [The six classes of living beings](six-jivanikayas.md) — `skeleton`
 - [The six completions (paryāpti)](six-paryaptis.md) — `skeleton`
+- [The six cycles of equal taste (Drukpa)](six-equal-tastes.md) — `skeleton`
 - [The six direct knowledges](six-abhinnas.md) — `skeleton`
 - [The six disācaras](ajivika-disacaras.md) — `skeleton`
 - [The six doors (dvāra)](six-doors-dvara.md) — `skeleton`
@@ -1874,6 +2185,8 @@ sourced: 161 · skeleton: 2293
 - [The six factors of the embryo](six-factors-of-embryo.md) — `skeleton`
 - [The six fundamentals (ṣaṭpada) of Śrīmad Rājacandra](six-fundamentals.md) — `skeleton`
 - [The six impediments to a universal (jātibādhaka)](jatibadhakas.md) — `skeleton`
+- [The six intermediate states (bar do drug)](six-bardos.md) — `skeleton`
+- [The six Kadam treatises (bka' gdams gzhung drug)](kadam-six-texts.md) — `skeleton`
 - [The six kinds of arhat and falling back](six-kinds-of-arhat.md) — `skeleton`
 - [The six kinds of devotion](sadvidha-bhakti.md) — `skeleton`
 - [The six kinds of samādhi (Gheraṇḍa)](six-samadhis-gheranda.md) — `skeleton`
@@ -1888,8 +2201,10 @@ sourced: 161 · skeleton: 2293
 - [The six means of distinguishing rites](karmabheda-pramanas.md) — `skeleton`
 - [The six means of fixing sequence](krama-pramanas.md) — `skeleton`
 - [The six modifications of being (ṣaḍ bhāvavikārāḥ)](six-modifications-of-being.md) — `sourced`
+- [The six mother monasteries of the Nyingma](six-mother-monasteries.md) — `skeleton`
 - [The six paths (ṣaḍadhvan)](six-adhvans.md) — `skeleton`
 - [The six perfections](six-paramitas.md) — `skeleton`
+- [The six powers for calm abiding](six-powers-samatha.md) — `skeleton`
 - [The six qualities of Bhagavān (ṣāḍguṇya)](six-gunas-of-bhagavan.md) — `skeleton`
 - [The six recollections](six-anussati.md) — `skeleton`
 - [The six rites of the mantra manuals (ṣaṭkarma)](six-rites-of-mantra.md) — `skeleton`
@@ -1904,7 +2219,9 @@ sourced: 161 · skeleton: 2293
 - [The six tastes (rasa)](six-tastes.md) — `skeleton`
 - [The six temperaments (carita)](six-temperaments.md) — `skeleton`
 - [The six topics of phonetics](six-topics-of-siksa.md) — `sourced`
+- [The six topics of the Jewel Ornament](jewel-ornament-six-topics.md) — `skeleton`
 - [The six virtues (ṣaṭ-sampatti)](sat-sampatti.md) — `skeleton`
+- [The Six Yogas (Six Dharmas) of Nāropa](six-yogas-of-naropa.md) — `skeleton`
 - [The six śaktis on the side of the liṅga](sadvidha-sakti.md) — `skeleton`
 - [The sixfold order (ṣaṭprakāra) of the Kubjikā body](kubjika-six-centres.md) — `skeleton`
 - [The sixteen categories of Nyāya (ṣoḍaśa padārtha)](sixteen-padarthas-nyaya.md) — `skeleton`
@@ -1936,6 +2253,7 @@ sourced: 161 · skeleton: 2293
 - [The stages of love from prema to mahābhāva](stages-of-prema.md) — `skeleton`
 - [The state beyond the āśramas (atyāśrama)](atyasrama.md) — `skeleton`
 - [The state of the liberated (siddha)](siddha-state.md) — `skeleton`
+- [The states of beings that arise from the Lord (BhG 10.4–5)](states-of-beings-from-the-lord.md) — `skeleton`
 - [The states of the afflictions](four-states-of-klesas.md) — `skeleton`
 - [The stock illustrations (dṛṣṭānta) of Advaita](stock-illustrations.md) — `skeleton`
 - [The store of karma (karmāśaya)](karmasaya.md) — `skeleton`
@@ -1946,8 +2264,12 @@ sourced: 161 · skeleton: 2293
 - [The subtle phases of pronouncing the mantra (bindu to unmanā)](nada-kalas-of-uccarana.md) — `skeleton`
 - [The subtlety of dharma](subtlety-of-dharma.md) — `skeleton`
 - [The Sun as the self of time and of beings](sun-as-self-of-time.md) — `skeleton`
+- [The superiority of the mantra way](superiority-of-mantranaya.md) — `skeleton`
+- [The superknowledges as necessary for benefiting beings](abhijna-kadam.md) — `skeleton`
 - [The supramundane Buddha (lokottara)](supramundane-buddha.md) — `skeleton`
 - [The supreme state of the Nāths (param pad; alakh nirañjan)](param-pada-natha.md) — `skeleton`
+- [The sword that kills and the sword that gives life](killing-and-life-giving-sword.md) — `skeleton`
+- [The syllable A](syllable-a.md) — `skeleton`
 - [The systems of planetary periods](dasa-systems.md) — `skeleton`
 - [The Sāman notes and the musical scale](sama-svaras-and-musical-notes.md) — `skeleton`
 - [The Sāṃkhya line of teachers](samkhya-parampara.md) — `skeleton`
@@ -1956,7 +2278,10 @@ sourced: 161 · skeleton: 2293
 - [The Sūtrakṛtāṅga's review of rival doctrines](jain-report-rival-views.md) — `skeleton`
 - [The taking and releasing halves of the year](adana-visarga.md) — `skeleton`
 - [The Tamil Veda (Nammāḻvār's works as the four Vedas)](tamil-veda.md) — `skeleton`
+- [The tanden (cinnabar field) in Zen practice](tanden-energy-anatomy.md) — `skeleton`
 - [The tantri and the śānti in Kerala temples](tantri-and-santi.md) — `skeleton`
+- [The tantric grounds (bhūmi)](tantric-bhumis.md) — `skeleton`
+- [The tantric pledges (samaya)](samaya-vows.md) — `skeleton`
 - [The Tathāgata after death](tathagata-after-death.md) — `skeleton`
 - [The Tathāgata sought in five ways](tathagata-fivefold.md) — `skeleton`
 - [The tathāgatagarbha called ālayavijñāna](alaya-tathagatagarbha-identity.md) — `skeleton`
@@ -1990,7 +2315,9 @@ sourced: 161 · skeleton: 2293
 - [The ten Prakīrṇakas](prakirnakas.md) — `skeleton`
 - [The ten precepts of the novice](ten-precepts.md) — `skeleton`
 - [The ten reasons for laying down training rules](ten-reasons-for-training-rules.md) — `skeleton`
+- [The ten recitations (shinian / jūnen)](ten-recitations.md) — `skeleton`
 - [The ten seats of life (prāṇāyatana)](ten-seats-of-prana.md) — `skeleton`
+- [The ten signs of the Kālacakra](ten-signs-kalacakra.md) — `skeleton`
 - [The ten sinful acts of body, speech and mind](ten-sinful-acts.md) — `skeleton`
 - [The ten virtues (daśa-lakṣaṇa dharma)](ten-dharmas.md) — `skeleton`
 - [The ten virtuous paths of action](ten-virtuous-paths.md) — `skeleton`
@@ -2004,12 +2331,14 @@ sourced: 161 · skeleton: 2293
 - [The theory of bhāvas](bhava-theory.md) — `skeleton`
 - [The theory of suggestion (dhvani)](dhvani-theory.md) — `skeleton`
 - [The third jhāna](third-jhana.md) — `skeleton`
+- [The thirteen grounds and Vajradhara](thirteen-grounds-vajradhara.md) — `skeleton`
 - [The thirteen instruments (karaṇa)](thirteen-instruments.md) — `skeleton`
 - [The thirty-four excellences of a Jina](thirty-four-atisayas.md) — `skeleton`
 - [The thirty-nine vibhavas](thirty-nine-vibhavas.md) — `skeleton`
 - [The thirty-one planes of existence](thirty-one-planes.md) — `skeleton`
 - [The thirty-seven qualities conducive to awakening (bodhipakkhiyā dhammā)](thirty-seven-wings.md) — `skeleton`
 - [The thirty-seven wings of awakening](thirty-seven-bodhipaksya-dharmas.md) — `skeleton`
+- [The thirty-six pairs of opposites](thirty-six-pairs.md) — `skeleton`
 - [The thirty-six principles (ṣaṭtriṃśat-tattva)](thirty-six-tattvas.md) — `skeleton`
 - [The thirty-three gods](thirty-three-gods.md) — `skeleton`
 - [The thirty-three transient emotions](thirty-three-vyabhicari-bhavas.md) — `skeleton`
@@ -2018,11 +2347,18 @@ sourced: 161 · skeleton: 2293
 - [The thirty-two postures of the Gheraṇḍa Saṃhitā](thirty-two-asanas-gheranda.md) — `skeleton`
 - [The thought of awakening (bodhicitta) in the sūtras](bodhicitta-sutra.md) — `skeleton`
 - [The thousand buddhas of the fortunate aeon](thousand-buddhas-bhadrakalpa.md) — `skeleton`
+- [The three (four, five) bodies of a buddha in the tantras](buddha-bodies-vajrayana.md) — `skeleton`
 - [The three (or four) debts](three-debts.md) — `sourced`
+- [The three activities of the learned](three-activities-of-the-learned.md) — `skeleton`
+- [The three ages of the Dharma (true, semblance, final)](three-periods-of-the-dharma.md) — `skeleton`
+- [The three and four kāyas in the Kagyu](four-kayas.md) — `skeleton`
+- [The three and the six transmissions](six-transmissions-of-terma.md) — `skeleton`
+- [The three appearances (appearance, increase, attainment)](three-appearances.md) — `skeleton`
 - [The three aspects of the internal power: hlādinī, sandhinī, saṃvit](hladini-sandhini-samvit.md) — `skeleton`
 - [The three aṅgas (tyāga, bhōga, yōga)](trividha-anga.md) — `skeleton`
 - [The three births of a person](three-births.md) — `sourced`
 - [The three bodies (śarīra-traya)](three-bodies.md) — `skeleton` _(recent)_
+- [The three bodies in one's own nature](three-bodies-in-self-nature.md) — `skeleton`
 - [The three bodies of a buddha (Yogācāra)](three-bodies-yogacara.md) — `skeleton`
 - [The three branches of jyotiṣa (skandha-traya)](jyotisa-three-skandhas.md) — `skeleton`
 - [The three causes of disease](three-causes-of-disease.md) — `skeleton`
@@ -2035,12 +2371,14 @@ sourced: 161 · skeleton: 2293
 - [The three classes of souls (sakala, pralayākala, vijñānākala)](three-classes-of-souls.md) — `skeleton`
 - [The three codes (saṅketa): cakra, mantra, worship](three-sanketas.md) — `skeleton`
 - [The three contemplations (bhāvanā)](three-bhavanas.md) — `skeleton`
+- [The three continua (rgyud gsum) of the Lamdre](three-continua.md) — `skeleton`
 - [The three controls and five carefulnesses](three-guptis-five-samitis.md) — `skeleton`
 - [The three coverings of the self](three-coverings.md) — `skeleton`
 - [The three desires (eṣaṇā)](three-esanas.md) — `skeleton`
 - [The three dispositions: paśu, vīra, divya](three-bhavas.md) — `skeleton`
 - [The three doṣas (vāta, pitta, kapha)](three-dosas.md) — `skeleton`
 - [The three episodes of the Devī Māhātmya](devi-mahatmya-three-caritas.md) — `skeleton`
+- [The three excellences (dam pa gsum)](three-excellences.md) — `skeleton`
 - [The three forms (Brahmā, Viṣṇu, Rudra)](trimurti.md) — `sourced`
 - [The three forms of the ultimate in Śuddhādvaita](three-forms-of-brahman-vallabha.md) — `skeleton`
 - [The three foundations (prasthāna-traya)](prasthana-traya.md) — `skeleton`
@@ -2052,7 +2390,10 @@ sourced: 161 · skeleton: 2293
 - [The three guṇas](three-gunas.md) — `sourced`
 - [The three guṇas in Manu](three-gunas-in-dharmasastra.md) — `sourced`
 - [The three humours (mukkuṟṟam: vaḷi, aḻal, aiyam)](three-humours-siddha.md) — `skeleton`
+- [The three Indian lineages of Cakrasaṃvara](cakrasamvara-three-lineages.md) — `skeleton`
 - [The three initiations (śāktī, śāmbhavī, māntrī)](three-diksas.md) — `skeleton`
+- [The three integrations (Shangpa)](three-integrations.md) — `skeleton`
+- [The three intermediate states (Nāropa system)](three-bardos-naropa.md) — `skeleton`
 - [The three jewels (ratnatraya)](three-jewels.md) — `skeleton`
 - [The three karmas in Sant Mat](three-karmas-sant-mat.md) — `skeleton` _(recent)_
 - [The three kinds of birth](three-kinds-of-birth.md) — `skeleton`
@@ -2065,12 +2406,14 @@ sourced: 161 · skeleton: 2293
 - [The three kinds of faith (śraddhā)](three-kinds-of-faith.md) — `skeleton`
 - [The three kinds of food (āhāra)](three-kinds-of-food.md) — `skeleton`
 - [The three kinds of giving (dāna)](three-kinds-of-giving.md) — `skeleton`
+- [The three kinds of ignorance (ma rig pa gsum)](three-kinds-of-ignorance.md) — `skeleton`
 - [The three kinds of impression (saṃskāra)](three-samskaras.md) — `skeleton`
 - [The three kinds of insentient reality](three-kinds-of-acit.md) — `skeleton`
 - [The three kinds of karma](three-kinds-of-karma.md) — `skeleton`
 - [The three kinds of meditation (Gheraṇḍa)](three-dhyanas-gheranda.md) — `skeleton`
 - [The three kinds of souls: puṣṭi, maryādā, pravāha](three-kinds-of-souls-vallabha.md) — `skeleton`
 - [The three kinds of strength](three-kinds-of-bala.md) — `skeleton`
+- [The three kinds of suffering (Buddhist)](three-sufferings.md) — `skeleton`
 - [The three kinds of suffering (duḥkhatraya)](three-kinds-of-suffering.md) — `skeleton`
 - [The three kinds of therapy](three-kinds-of-therapy.md) — `skeleton`
 - [The three kinds of valid reason](three-kinds-of-reason.md) — `skeleton`
@@ -2078,40 +2421,54 @@ sourced: 161 · skeleton: 2293
 - [The three knots (granthi)](three-granthis.md) — `skeleton`
 - [The three krāntās (Viṣṇukrāntā, Rathakrāntā, Aśvakrāntā)](three-krantas.md) — `skeleton`
 - [The three levels of reality](three-levels-of-reality.md) — `skeleton`
+- [The three lineages: kama, terma and pure vision](kama-terma-dagnang.md) — `skeleton`
 - [The three livelihoods (vṛtti)](pasupata-three-livelihoods.md) — `skeleton`
 - [The three liṅgas (iṣṭa, prāṇa, bhāva)](trividha-linga.md) — `skeleton`
 - [The three malas (āṇava, karma, māyā)](three-malas.md) — `skeleton`
 - [The three marks](three-marks.md) — `skeleton`
 - [The three means of knowledge (Pāśupata)](pasupata-three-pramanas.md) — `skeleton`
+- [The three minds of the Contemplation Sūtra](three-minds-contemplation-sutra.md) — `skeleton`
+- [The three minds of the eighteenth vow (sincere mind, entrusting, aspiration)](three-minds-of-the-primal-vow.md) — `skeleton`
 - [The three naturelessnesses](three-naturelessnesses.md) — `skeleton`
 - [The three natures (sūtra layer)](three-natures.md) — `skeleton`
+- [The three phrases of the Mahāvairocana](three-phrases-mahavairocana.md) — `skeleton`
 - [The three planes: divine, bodily, sacrificial](adhidaiva-adhyatma-adhiyajna.md) — `sourced`
 - [The three powers: will, knowledge, action](three-saktis.md) — `skeleton`
+- [The three principal aspects of the path](three-principal-aspects.md) — `skeleton`
 - [The three processes and the breaking of the knot](three-karanas-granthibheda.md) — `skeleton`
+- [The three Pure Land sūtras and one treatise](three-pure-land-sutras.md) — `skeleton`
 - [The three puruṣa-avatāras](three-purusa-avataras.md) — `skeleton`
 - [The three quibbles (chala)](three-chalas.md) — `skeleton`
 - [The three realities (tattvatraya: cit, acit, Īśvara)](tattvatraya.md) — `skeleton`
 - [The three realities: cit, acit, Īśvara (Nimbārka)](three-realities-nimbarka.md) — `skeleton`
 - [The three reasons all beings are tathāgatagarbhas (RGV 1.27-28)](three-reasons-buddha-nature.md) — `skeleton`
 - [The three refuges](three-refuges.md) — `skeleton`
+- [The three roots (rtsa ba gsum)](three-roots.md) — `skeleton`
+- [The three samādhis of Mahāyoga generation](three-samadhis-mahayoga.md) — `skeleton`
+- [The three scopes (persons of small, middling and great capacity)](three-scopes.md) — `skeleton`
 - [The three secret mantras (rahasya-traya)](rahasya-traya.md) — `skeleton`
 - [The three sectarian tenets (titthāyatana)](three-sectarian-tenets.md) — `skeleton`
 - [The three sections (kūṭa) of the Śrīvidyā mantra](three-kutas.md) — `skeleton`
 - [The three selves: outer, inner, supreme](three-atmans.md) — `skeleton`
+- [The three series of Dzogchen (sde gsum)](three-series-of-dzogchen.md) — `skeleton`
 - [The three signs (nimitta)](three-nimittas.md) — `skeleton`
 - [The three spaces](three-spaces-yoga-vasistha.md) — `skeleton`
 - [The three states and the fourth (avasthā-traya, turīya)](three-states-and-turiya.md) — `skeleton`
 - [The three streams of gurus (divya, siddha, mānava)](three-oghas.md) — `skeleton`
 - [The three supports of life](three-upastambhas.md) — `skeleton`
 - [The three targets of meditation (lakṣya-traya)](three-laksyas.md) — `skeleton`
+- [The three trainings](three-trainings-kadam.md) — `skeleton`
 - [The three trainings (tisso sikkhā)](three-trainings.md) — `skeleton`
 - [The three transformations of consciousness](three-transformations-of-consciousness.md) — `skeleton`
 - [The three transformations of the mind](three-parinamas-of-citta.md) — `skeleton`
 - [The three true knowledges (tevijjā)](three-vijjas.md) — `skeleton`
 - [The three turnings of the dharma-wheel](three-turnings.md) — `skeleton`
 - [The three unconditioned dharmas](three-unconditioned-dharmas.md) — `skeleton`
+- [The three vajras (body, speech, mind)](three-vajras.md) — `skeleton`
 - [The three Vedas (trayī) and the fourth](four-vedas-and-trayi.md) — `skeleton`
 - [The three vehicles](three-vehicles.md) — `skeleton`
+- [The three visions (snang gsum) of the Lamdre](three-visions.md) — `skeleton`
+- [The three vows (sdom gsum)](three-vows.md) — `skeleton`
 - [The three wonders](three-patihariya.md) — `skeleton`
 - [The three worlds](three-worlds.md) — `skeleton`
 - [The three Ājīvika leaders](ajivika-three-leaders.md) — `skeleton`
@@ -2125,6 +2482,7 @@ sourced: 161 · skeleton: 2293
 - [The Tibetan Vinaya (ordination) lineages](tibetan-vinaya-lineages.md) — `skeleton`
 - [The topic-section (adhikaraṇa)](adhikarana.md) — `skeleton`
 - [The tortoise-division of the land](kurma-vibhaga.md) — `skeleton`
+- [The transmission and secrecy of the Lamdre](lamdre-transmission.md) — `skeleton`
 - [The transmission of the Madhyamaka](madhyamaka-lineage-transmission.md) — `skeleton`
 - [The transmission of the Maitreya teachings](maitreya-transmission.md) — `skeleton`
 - [The transmission of the Purāṇa](puranic-transmission.md) — `skeleton`
@@ -2136,12 +2494,14 @@ sourced: 161 · skeleton: 2293
 - [The tripod: mind, self and body](tripod-of-life.md) — `skeleton`
 - [The true brāhmaṇa (by conduct, not birth)](true-brahmana-jain.md) — `skeleton`
 - [The true guru (satguru)](satguru.md) — `skeleton`
+- [The true person of no rank](true-person-of-no-rank.md) — `skeleton`
 - [The true teacher and the disciple](sadacarya-and-sisya.md) — `skeleton`
 - [The twelve austerities](twelve-tapas.md) — `skeleton`
 - [The twelve Aṅgas (eleven surviving)](eleven-angas.md) — `skeleton`
 - [The twelve great worshippers of Śrīvidyā](twelve-upasakas.md) — `skeleton`
 - [The twelve houses and their significations](twelve-bhavas.md) — `skeleton`
 - [The twelve Kālīs of the Krama](twelve-kalis.md) — `skeleton`
+- [The twelve lights of Amitābha](twelve-lights.md) — `skeleton`
 - [The twelve links (nidāna)](twelve-links.md) — `skeleton`
 - [The twelve links in the Madhyamaka](twelve-links-in-madhyamaka.md) — `skeleton`
 - [The twelve objects of knowledge (prameya)](twelve-prameyas.md) — `skeleton`
@@ -2156,11 +2516,13 @@ sourced: 161 · skeleton: 2293
 - [The twenty living Tīrthaṅkaras of Mahāvideha](viharamana-tirthankaras.md) — `skeleton`
 - [The twenty promulgators of dharmaśāstra](twenty-lawgivers.md) — `sourced`
 - [The twenty qualities (gurvādi guṇa)](twenty-gunas.md) — `skeleton`
+- [The twenty-eight Indian patriarchs and six Chinese patriarchs](twenty-eight-indian-patriarchs.md) — `skeleton`
 - [The twenty-eight kinds of matter](twenty-eight-rupas.md) — `skeleton`
 - [The twenty-eight root qualities of the Digambara monk](twenty-eight-mulagunas.md) — `skeleton`
 - [The twenty-eight Śaiva Siddhānta Āgamas (mūlāgamas)](twenty-eight-saiva-agamas.md) — `skeleton`
 - [The twenty-fifth and the twenty-sixth](twenty-fifth-and-twenty-sixth.md) — `skeleton`
 - [The twenty-five contemplations supporting the vows](vow-bhavanas.md) — `skeleton`
+- [The twenty-five disciples (rje 'bangs nyer lnga)](twenty-five-disciples.md) — `skeleton`
 - [The twenty-five mudrās of the Gheraṇḍa Saṃhitā](twenty-five-mudras-gheranda.md) — `skeleton`
 - [The twenty-five perfect penetrations (Śūraṅgama)](twenty-five-perfect-penetrations.md) — `skeleton`
 - [The twenty-five principles (pañcaviṃśati-tattva)](twenty-five-tattvas.md) — `skeleton`
@@ -2168,7 +2530,9 @@ sourced: 161 · skeleton: 2293
 - [The twenty-four futile rejoinders (jāti)](twenty-four-jatis.md) — `skeleton`
 - [The twenty-four principles (epic Sāṃkhya)](twenty-four-principles-epic.md) — `skeleton`
 - [The twenty-four qualities (guṇa)](twenty-four-gunas.md) — `skeleton`
+- [The twenty-four sacred sites](twenty-four-pithas.md) — `skeleton`
 - [The twenty-four Tīrthaṅkaras of this era](twenty-four-tirthankaras.md) — `skeleton`
+- [The twenty-nine adornments of Sukhāvatī](twenty-nine-adornments.md) — `skeleton`
 - [The twenty-one kinds of pain](twenty-one-kinds-of-pain.md) — `skeleton`
 - [The twenty-seven (twenty-eight) lunar mansions and their deities](twenty-seven-naksatras.md) — `skeleton`
 - [The twenty-seven siddhas of rasa](twenty-seven-rasasiddhas.md) — `skeleton`
@@ -2178,12 +2542,18 @@ sourced: 161 · skeleton: 2293
 - [The twenty-two points of defeat (nigrahasthāna)](twenty-two-nigrahasthanas.md) — `skeleton`
 - [The two accumulations](two-accumulations.md) — `skeleton`
 - [The two arrows](two-arrows.md) — `skeleton`
+- [The two aspects of merit transfer: going and returning](two-aspects-of-merit-transfer.md) — `skeleton`
 - [The two aspects of the true Dharma and its decline](decline-of-the-dharma.md) — `skeleton`
 - [The two birds on one tree](two-birds.md) — `sourced`
 - [The two chariots: Yogācāra and Madhyamaka](yogacara-madhyamaka-synthesis.md) — `skeleton`
+- [The two dharma-bodies (of dharma-nature and of expedient means)](two-dharmakayas.md) — `skeleton`
 - [The two doṣas of the mind (rajas and tamas)](manasa-dosas.md) — `skeleton`
 - [The two elements of nibbāna](two-nibbana-dhatus.md) — `skeleton`
+- [The two entrances (principle and practice)](two-entrances.md) — `skeleton`
+- [The two exegetical schools of the Guhyasamāja](guhyasamaja-two-schools.md) — `skeleton`
 - [The two forms of brahman](two-forms-of-brahman.md) — `sourced`
+- [The two gates: the holy path and the Pure Land](two-gates-holy-path-pure-land.md) — `skeleton`
+- [The two kinds of deep entrusting (nishu jinshin)](two-kinds-of-deep-entrusting.md) — `skeleton`
 - [The two kinds of time](two-kinds-of-time.md) — `skeleton`
 - [The two material causes: bindu (pure māyā) and māyā](bindu-and-maya.md) — `skeleton`
 - [The two means of knowledge (Vaiśeṣika)](two-pramanas-vaisesika.md) — `skeleton`
@@ -2199,8 +2569,10 @@ sourced: 161 · skeleton: 2293
 - [The two schools: physicians (Ātreya) and surgeons (Dhanvantari)](two-schools-of-ayurveda.md) — `skeleton`
 - [The two seeds of the mind](two-seeds-of-the-mind.md) — `skeleton`
 - [The two selflessnesses](two-selflessnesses.md) — `skeleton`
+- [The two stages (generation and completion)](two-stages.md) — `skeleton`
 - [The two truths (satyadvaya)](two-truths.md) — `skeleton`
 - [The two truths in the pramāṇa school](two-truths-pramana.md) — `skeleton`
+- [The two truths in the tantras](two-truths-tantric.md) — `skeleton`
 - [The two vehicles: calm-first and pure insight](two-vehicles.md) — `skeleton`
 - [The twofold aim of Āyurveda](aim-of-ayurveda.md) — `skeleton`
 - [The twofold commitment (dvividhā niṣṭhā): jñāna-yoga and karma-yoga](twofold-nistha.md) — `skeleton`
@@ -2209,8 +2581,15 @@ sourced: 161 · skeleton: 2293
 - [The ultimate and conventional standpoints (niścaya and vyavahāra)](niscaya-vyavahara.md) — `skeleton`
 - [The ultimate as named in jyotiṣa texts](jyotisa-ultimate.md) — `skeleton`
 - [The ultimate in the Tamil Siddha songs (Civam, Parāparam, the Light, the open space)](tamil-siddha-ultimate.md) — `skeleton`
+- [The Unborn (fushō)](the-unborn.md) — `skeleton`
 - [The undeclared questions](undeclared-questions.md) — `skeleton`
+- [The union of calm abiding and insight](samatha-vipasyana-union.md) — `skeleton`
+- [The union of Mahāmudrā and Dzogchen](mahamudra-dzogchen-union.md) — `skeleton`
+- [The union of method and wisdom](union-of-method-and-wisdom.md) — `skeleton`
+- [The union of the Kadam and Mahāmudrā streams](union-of-kadam-and-mahamudra.md) — `skeleton`
+- [The union of wisdom and means (prajñopāya)](union-of-wisdom-and-means.md) — `skeleton`
 - [The union of Śiva and Śakti (śiva-śakti-aikya, sāmarasya)](siva-sakti-union.md) — `skeleton`
+- [The unions: clarity-emptiness, appearance-emptiness, bliss-emptiness](clarity-emptiness-union.md) — `skeleton`
 - [The unity of guru, mantra, deity and self](unity-of-guru-mantra-deity-self.md) — `skeleton`
 - [The unity of Pūrva and Uttara Mīmāṃsā (aikaśāstrya)](aikasastrya.md) — `skeleton`
 - [The universal form (viśvarūpa)](visvarupa.md) — `skeleton`
@@ -2223,6 +2602,8 @@ sourced: 161 · skeleton: 2293
 - [The upsetting of all principles (tattvopaplava)](tattvopaplava.md) — `skeleton`
 - [The upāgamas (upabhedas) of the Siddhānta](upagamas.md) — `skeleton`
 - [The vacana as speech of experience](vacana-speech.md) — `skeleton`
+- [The vajra body (channels, winds and drops) in the Kagyu](vajra-body.md) — `skeleton`
+- [The Vajrayoginī cycles](vajrayogini-cycles.md) — `skeleton`
 - [The validity of cognition (prāmāṇya)](validity-of-cognition.md) — `skeleton`
 - [The variable significators (cara-kāraka)](cara-karakas.md) — `skeleton`
 - [The varṇas by guṇa and action](varna-by-guna-and-karma.md) — `skeleton`
@@ -2231,6 +2612,8 @@ sourced: 161 · skeleton: 2293
 - [The Vedic afterlife: Yama and the fathers](vedic-afterlife.md) — `skeleton`
 - [The Vedic metres](vedic-meters.md) — `sourced`
 - [The vernacular as sacred speech](vernacular-as-sacred-speech.md) — `skeleton`
+- [The verse contest at Huangmei](verse-contest.md) — `skeleton`
+- [The view as the absence of grasping](view-free-of-grasping.md) — `skeleton`
 - [The virtues called knowledge (BhG 13.7–11)](twenty-virtues-called-knowledge.md) — `skeleton`
 - [The vital points (marma)](marma.md) — `skeleton`
 - [The vital points (varmam)](varmam.md) — `skeleton`
@@ -2245,11 +2628,15 @@ sourced: 161 · skeleton: 2293
 - [The well-educated Cārvākas](susiksita-carvaka.md) — `skeleton`
 - [The wheel of reasons (hetucakra)](hetucakra.md) — `skeleton`
 - [The wheel of sacrifice (yajña-cakra)](yajna-cakra.md) — `skeleton`
+- [The whispered (hearing) lineage (snyan brgyud)](hearing-lineage.md) — `skeleton`
 - [The White Island (Śvetadvīpa)](svetadvipa.md) — `skeleton`
+- [The white-robed, long-haired community (gos dkar lcang lo'i sde)](ngakpa-community.md) — `skeleton`
 - [The whole (avayavin) as a real new substance](avayavin.md) — `skeleton`
 - [The wind-girdled seers (vātaraśana ṛṣayaḥ)](vatarasana-munis.md) — `sourced`
+- [The winds as the mount of mind](winds-vajrayana.md) — `skeleton`
 - [The witness (sākṣin)](saksin.md) — `sourced`
 - [The witness (the seer as pratisaṃvedin)](witness.md) — `skeleton`
+- [The Womb and Vajra maṇḍalas](womb-and-vajra-mandalas.md) — `skeleton`
 - [The women seers (ṛṣikās, brahmavādinīs)](brahmavadinis.md) — `skeleton`
 - [The Word (śabd) in Sant teaching](sabda-sant.md) — `skeleton`
 - [The world and its extent in Madhyamaka](cosmology-in-madhyamaka.md) — `skeleton`
@@ -2264,6 +2651,7 @@ sourced: 161 · skeleton: 2293
 - [The yoginīs on earth](yogini-forms-kjn.md) — `skeleton`
 - [The Yogācāra middle way](yogacara-middle-way.md) — `skeleton`
 - [The yoni as sacred](yoni-as-sacred.md) — `skeleton`
+- [The youthful vase body (gzhon nu bum sku)](youthful-vase-body.md) — `skeleton`
 - [The yugas and kalpa in the siddhāntas](yuga-system-jyotisa.md) — `skeleton`
 - [The Āgamas as the body of Sadāśiva](agamas-as-body-of-sadasiva.md) — `skeleton`
 - [The āmnāyas (Kaula transmissions)](amnayas.md) — `skeleton`
@@ -2275,10 +2663,12 @@ sourced: 161 · skeleton: 2293
 - [The Śvetāmbara line of elders](svetambara-sthaviravali.md) — `skeleton`
 - [The Śākta seats (51 / 52 pīṭhas)](sakta-pithas.md) — `skeleton`
 - [The Śākta Upaniṣads](sakta-upanisads.md) — `skeleton`
+- [The ḍākinī](dakini-vajrayana.md) — `skeleton`
 - [The ṛṣi as seer of the mantras](rsi-as-seer.md) — `sourced`
 - [Theistic Sāṃkhya (seśvara)](theistic-samkhya.md) — `skeleton`
 - [Theories of error (khyātivāda)](theories-of-error.md) — `skeleton`
 - [Three deities, one self](three-deities-one-self.md) — `sourced`
+- [Three essentials of huatou practice](three-essentials-of-huatou.md) — `skeleton`
 - [Three grades of eligibility (adhikāra)](adhikara-three-grades.md) — `skeleton`
 - [Three grades of grace](three-grades-of-prasada.md) — `skeleton`
 - [Three kinds of jīva](three-kinds-of-jiva.md) — `skeleton`
@@ -2289,6 +2679,9 @@ sourced: 161 · skeleton: 2293
 - [Three turnings and twelve aspects](three-turnings-twelve-aspects.md) — `skeleton`
 - [Three yogas by disposition (Uddhava Gītā)](three-yogas-by-disposition-bhagavata.md) — `skeleton`
 - [Threefold bondage and threefold release](threefold-bondage-and-release.md) — `skeleton`
+- [Tilopa's four instruction lineages](four-instruction-lineages-tilopa.md) — `skeleton`
+- [Tilopa's six dharmas (the Indian six yogas)](six-dharmas-tilopa.md) — `skeleton`
+- [Tilopa's six words of advice](tilopa-six-words.md) — `skeleton`
 - [Time (kāla)](kala.md) — `sourced`
 - [Time (kāla) as the destroyer](time-as-destroyer.md) — `skeleton`
 - [Time and space as substances](time-space-vaisesika.md) — `skeleton`
@@ -2300,6 +2693,7 @@ sourced: 161 · skeleton: 2293
 - [Time, the year and the wheel of ṛta](vedic-cosmic-time.md) — `skeleton`
 - [Timely and untimely death](kala-akala-mrtyu.md) — `skeleton`
 - [Tirumūlar's lineage verses (TM 67–70)](tirumular-lineage-lists.md) — `skeleton`
+- [Torrent, river, ocean](three-phases-of-practice-ganga.md) — `skeleton`
 - [Transcendental dependent origination (upanisā)](transcendental-dependent-origination.md) — `skeleton`
 - [Transformation of body and of metal](dehavedha-lohavedha.md) — `skeleton`
 - [Transformation of property, time-mark and state](dharma-laksana-avastha-parinama.md) — `skeleton`
@@ -2312,23 +2706,29 @@ sourced: 161 · skeleton: 2293
 - [Transmission of the Veda: teacher, śākhā and oral recitation](vedic-transmission-sakha.md) — `skeleton`
 - [Transmission through the yoginīs](yogini-transmission.md) — `skeleton`
 - [Triple manifestation (tripuṭī-pratyakṣa)](triputi-pratyaksa.md) — `skeleton`
+- [True and transformed lands; womb-birth and the borderland](true-and-transformed-lands.md) — `skeleton`
 - [True scripture (sadāgama) and false scripture](sadagama.md) — `skeleton`
 - [Truth (satya)](satya.md) — `sourced`
 - [Truth and untruth — gods and men](satya-anrta.md) — `sourced`
 - [Truth-bearing insight (ṛtambharā prajñā)](rtambhara-prajna.md) — `skeleton`
+- [Tsongkhapa's eight difficult points of Prāsaṅgika](eight-difficult-points.md) — `skeleton`
+- [Turning through the three vows (sangan tennyū)](three-vows-turning.md) — `skeleton`
 - [Twelve yamas and twelve niyamas (Uddhava Gītā)](twelve-yamas-twelve-niyamas-bhagavata.md) — `skeleton`
 - [Twilight or code language (paripāṣai)](paripasai.md) — `skeleton`
+- [Two pairs and four levels (nisō shijū)](two-pairs-four-levels.md) — `skeleton`
 - [Types of person (puggala) in the Abhidhamma](types-of-persons.md) — `skeleton`
 - [Tāraka and amanaska yoga](taraka-amanaska.md) — `skeleton`
 - [Tārā (second Mahāvidyā)](mahavidya-tara.md) — `skeleton`
 - [Ucchiṣṭa, the Remainder](ucchista-remainder.md) — `skeleton`
 - [Udayana's proofs of Īśvara (NK 5.1)](udayana-proofs-of-isvara.md) — `skeleton`
+- [Ultimate bodhicitta in mind training](ultimate-bodhicitta-lojong.md) — `skeleton`
 - [Ultimate particularity (viśeṣa)](visesa.md) — `skeleton`
+- [Understanding, experience and realization (go myong rtogs)](understanding-experience-realization.md) — `skeleton`
 - [Unestablished consciousness](unestablished-consciousness.md) — `skeleton`
-- [Union of calm and insight](samatha-vipasyana-union.md) — `skeleton`
+- [Union (yuganaddha)](yuganaddha.md) — `skeleton`
 - [Union of liṅga and aṅga (liṅgāṅga-sāmarasya, aikya)](linganga-samarasya.md) — `skeleton`
-- [Union of method and wisdom](union-of-method-and-wisdom.md) — `skeleton`
 - [Union of the soul with the sound current (surat-śabd)](surat-sabd.md) — `skeleton` _(recent)_
+- [Unity of samādhi and prajñā](samadhi-prajna-unity.md) — `skeleton`
 - [Unmanifest matter (avijñapti-rūpa)](avijnapti-rupa.md) — `skeleton`
 - [Unmanī / manonmanī — the state beyond mind](unmani.md) — `skeleton`
 - [Unmodified transformation (avikṛta-pariṇāma)](avikrta-parinama.md) — `skeleton`
@@ -2349,6 +2749,8 @@ sourced: 161 · skeleton: 2293
 - [Veneration/meditation (upāsanā)](upasana.md) — `sourced`
 - [Verbal cognition and its conditions](sabdabodha.md) — `skeleton`
 - [Vidyā as the soul's quality](pasupata-vidya.md) — `skeleton`
+- [View, meditation, conduct and fruit](view-meditation-conduct-fruit.md) — `skeleton`
+- [View, meditation, conduct and fruition](view-meditation-conduct-fruition.md) — `skeleton`
 - [Violence by intention (bhāva-hiṃsā)](bhava-himsa.md) — `skeleton`
 - [Viparītakhyāti (error as contrary apprehension)](viparitakhyati.md) — `skeleton`
 - [Virilization (vājīkaraṇa)](vajikarana.md) — `skeleton`
@@ -2391,6 +2793,7 @@ sourced: 161 · skeleton: 2293
 - [Women and awakening](women-and-awakening.md) — `skeleton`
 - [Women in the Sant and Bāul traditions](women-sant-baul.md) — `skeleton`
 - [Women in the Siddhar songs](siddhar-view-of-women.md) — `skeleton`
+- [Women in the Vajrayāna](status-of-women-vajrayana.md) — `skeleton`
 - [Women's bodies and buddhahood in the Mahāyāna sūtras](womens-bodies-and-buddhahood.md) — `skeleton`
 - [Women's dharma (strīdharma), as the tradition states it](stri-dharma.md) — `sourced`
 - [Women's spiritual equality](virasaiva-women-equality.md) — `skeleton`
@@ -2398,6 +2801,7 @@ sourced: 161 · skeleton: 2293
 - [Word, meaning and convention](word-meaning-nyaya.md) — `skeleton`
 - [Word, meaning and their relation as established (siddha)](word-meaning-established.md) — `sourced`
 - [Word-brahman (śabdabrahman)](sabda-brahman.md) — `sourced`
+- [Words and letters in Chan](words-and-letters.md) — `skeleton`
 - [Work as worship (kāyaka)](kayaka.md) — `skeleton`
 - [World-cycles (kappa) and their destructions](world-cycles.md) — `skeleton`
 - [Worldly and supramundane dharma (Terāpanth)](laukika-lokottara-dharma.md) — `skeleton`
@@ -2405,6 +2809,7 @@ sourced: 161 · skeleton: 2293
 - [Worship for oneself and worship for others](atmartha-parartha-puja.md) — `skeleton`
 - [Worship of Brahman in the Mahānirvāṇa](brahman-worship-mahanirvana.md) — `skeleton`
 - [Worship of Jina images](jina-image-worship.md) — `skeleton`
+- [Worship of the Lord and worship of the imperishable unmanifest (BhG 12.1–7)](worship-of-the-lord-and-of-the-unmanifest.md) — `skeleton`
 - [Wrongly grasping the teaching](wrong-grasp-of-dhamma.md) — `skeleton`
 - [Yajña: the sacrifice that sustains the world](yajna-cosmic-sacrifice.md) — `skeleton`
 - [Yama and his realm](yama-and-his-realm.md) — `skeleton`
@@ -2421,6 +2826,7 @@ sourced: 161 · skeleton: 2293
 - [Yogic perception and seers' knowledge](yogic-perception-vaisesika.md) — `skeleton`
 - [Yogic powers in the epic](yogic-powers-epic.md) — `skeleton`
 - [Yukti (reasoned application)](yukti.md) — `skeleton`
+- [Ölmo Lungring and Tagzig](olmo-lungring.md) — `skeleton`
 - [Āgama as rooted in or continuous with the Veda](agama-as-vedic-rooted.md) — `skeleton`
 - [Ājīvika austerities](ajivika-austerities.md) — `skeleton`
 - [Āma (undigested residue)](ama.md) — `skeleton`
@@ -2433,6 +2839,8 @@ sourced: 161 · skeleton: 2293
 - [Śakti as consciousness-power](sakti-as-consciousness-power.md) — `skeleton`
 - [Śakti, nāda, bindu: the emanation of sound](nada-bindu-kala.md) — `skeleton`
 - [Śakti-qualified non-dualism (Vīraśaiva)](sakti-visistadvaita.md) — `skeleton`
+- [Śamatha and vipaśyanā in Mahāmudrā](samatha-vipasyana-in-mahamudra.md) — `skeleton`
+- [Śambhala and its kalkins](sambhala.md) — `skeleton`
 - [Śiva and Śakti as one (Amṛtānubhava)](siva-sakti-amrtanubhava.md) — `skeleton`
 - [Śiva and Śakti inseparable](siva-sakti-inseparable.md) — `skeleton`
 - [Śiva as niṣkala and sakala; the liṅga](linga-niskala-sakala.md) — `skeleton`

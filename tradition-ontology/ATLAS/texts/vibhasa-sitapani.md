@@ -13,4 +13,4 @@
 A short early Vibhāṣā-type treatise, among the first Sarvāstivāda Abhidharma texts in Chinese.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

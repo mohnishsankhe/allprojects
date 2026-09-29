@@ -18,4 +18,4 @@ The breath is drawn in through the mouth with the sound 'sīt' and released only
 - Draw the breath in slowly and release it slowly; do not hold it excessively nor release it quickly. — [Gorakṣaśataka](../texts/goraksasataka.md) 51
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._

@@ -15,4 +15,4 @@ Buddhajñānapāda's sādhana of the Mañjuvajra maṇḍala, commented on by Vi
 _Notes: Tōh 1855 from memory._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

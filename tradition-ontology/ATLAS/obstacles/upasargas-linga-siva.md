@@ -15,4 +15,4 @@ Pratibhā, śravaṇa, vārtā, darśana, āsvāda and vedanā - powers of knowi
   - [Śiva Purāṇa](../texts/siva-purana.md) — ref: 7.2.38.9-17; rests_on: ["tea:siva-purana:7.2.38.9-17"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

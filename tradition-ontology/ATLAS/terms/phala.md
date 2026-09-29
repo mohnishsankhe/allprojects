@@ -12,13 +12,15 @@
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): The result of a rite. A fruit stated for a subsidiary is praise (MS 4.3.1); where none is stated, heaven is the fruit (MS 4.3.15); for a principal rite the stated fruit is real (Ātreya, MS 4.3.18).
 - [Theravāda](../lineages/theravada.md): The fruition consciousness following the path, and re-entered as fruition attainment.
 - [Sarvāstivāda](../lineages/sarvastivada.md): Result; five kinds: of ripening, outflow, dominance, human effort and disjunction.
+- [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md): 'bras bu, fruition: 'without hope and fear the fruit is manifest' (Gaṅgā Mahāmudrā); the dharmakāya that was always present.
 
 ## Forms in other languages
 - Pali: phala  — exact
 - Chinese: guo 果 — exact
+- Tibetan: 'bras bu འབྲས་བུ — exact
 
 ## Equivalents (interpretation layer)
 **Related:** [karmaphala](karmaphala.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._

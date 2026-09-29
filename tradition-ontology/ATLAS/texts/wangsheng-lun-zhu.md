@@ -28,7 +28,7 @@ Tanluan begins from Nāgārjuna: a bodhisattva seeking non-retrogression in an a
 
 _level: conventional · standpoint: seeker · path: devotion · stage: beginner · types: practice, karma-liberation_
 
-terms: `trm:yixing`, `trm:nanxing`, `trm:tariki`, `trm:zhengding-ju` · concepts: `cpt:easy-and-difficult-practice`, `cpt:other-power` · teachers: [Tanluan](../teachers/tanluan.md), [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [yixing](../terms/yixing.md), [nanxing](../terms/nanxing.md), [tariki](../terms/tariki.md), [zhengding ju](../terms/zhengding-ju.md) · concepts: [The easy path and the difficult path](../concepts/easy-and-difficult-practice.md), [Other-power (tali / tariki)](../concepts/other-power.md) · teachers: [Tanluan](../teachers/tanluan.md), [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 1.eight-questions <a id="tea-wangsheng-lun-zhu-1-eight-questions"></a>
 `skeleton` · confidence high
@@ -37,7 +37,7 @@ In eight questions Tanluan asks who is born: the Larger Sūtra excludes those gu
 
 _level: conventional · standpoint: polemical · path: devotion, sound · stage: all · types: karma-liberation, dispute_
 
-terms: `trm:shinian`, `trm:bangfa`, [ānantarya](../terms/anantarya.md) · concepts: `cpt:ten-recitations` · obstacles: `obs:slander-of-the-dharma`, [The five deadly acts (ānantarya)](../obstacles/five-anantarya-karmas.md) · teachers: [Tanluan](../teachers/tanluan.md) · disputes: `dsp:can-grave-offenders-be-born`
+terms: [shinian](../terms/shinian.md), [saddharma-pratikṣepa](../terms/saddharma-pratiksepa.md), [ānantarya](../terms/anantarya.md) · concepts: [The ten recitations (shinian / jūnen)](../concepts/ten-recitations.md) · obstacles: [Rejecting the true dharma (saddharmapratikṣepa)](../obstacles/rejecting-the-true-dharma.md), [The five deadly acts (ānantarya)](../obstacles/five-anantarya-karmas.md) · teachers: [Tanluan](../teachers/tanluan.md) · disputes: [Can those who have committed the five grave offences or slandered the Dharma be born in the Pure Land?](../debates/can-grave-offenders-be-born.md)
 
 ### 2.birth-of-non-birth <a id="tea-wangsheng-lun-zhu-2-birth-of-non-birth"></a>
 `skeleton` · confidence high
@@ -46,7 +46,7 @@ To the objection that seeking birth contradicts the Mahāyāna teaching of non-a
 
 _level: bridging · standpoint: polemical · path: devotion, knowledge · stage: all · types: ultimate, karma-liberation, dispute_
 
-terms: `trm:wusheng-zhi-sheng` · concepts: `cpt:birth-of-non-birth` · teachers: [Tanluan](../teachers/tanluan.md) · disputes: `dsp:pure-land-real-or-mind-only`
+terms: [wusheng zhi sheng](../terms/wusheng-zhi-sheng.md) · concepts: [The birth of non-birth](../concepts/birth-of-non-birth.md) · teachers: [Tanluan](../teachers/tanluan.md) · disputes: [Is the Pure Land a real land in the West, or the purified mind only?](../debates/pure-land-real-or-mind-only.md)
 
 ### 2.bodhicitta <a id="tea-wangsheng-lun-zhu-2-bodhicitta"></a>
 `skeleton` · confidence high
@@ -55,7 +55,7 @@ In all three grades of the Larger Sūtra the aspirants arouse the unsurpassed as
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: ethics, karma-liberation_
 
-terms: [bodhicitta](../terms/bodhicitta.md) · concepts: `cpt:bodhicitta-in-pure-land` · teachers: [Tanluan](../teachers/tanluan.md) · disputes: `dsp:is-bodhicitta-needed-for-birth`
+terms: [bodhicitta](../terms/bodhicitta.md) · concepts: [The aspiration for awakening in Pure Land teaching](../concepts/bodhicitta-in-pure-land.md) · teachers: [Tanluan](../teachers/tanluan.md) · disputes: [Is the aspiration for awakening (bodhicitta) required for birth in the Pure Land?](../debates/is-bodhicitta-needed-for-birth.md)
 
 ### 2.dharmakaya <a id="tea-wangsheng-lun-zhu-2-dharmakaya"></a>
 `skeleton` · confidence high
@@ -64,7 +64,7 @@ All buddhas and bodhisattvas have two dharma-bodies: the dharma-body of dharma-n
 
 _level: bridging · standpoint: absolute · path: knowledge, devotion · stage: advanced · types: ultimate_
 
-terms: [dharmakāya](../terms/dharmakaya.md), `trm:faxing` · concepts: `cpt:two-dharmakayas` · teachers: [Tanluan](../teachers/tanluan.md)
+terms: [dharmakāya](../terms/dharmakaya.md), [dharmatā](../terms/dharmata.md) · concepts: [The two dharma-bodies (of dharma-nature and of expedient means)](../concepts/two-dharmakayas.md) · teachers: [Tanluan](../teachers/tanluan.md)
 
 ### 2.other-power <a id="tea-wangsheng-lun-zhu-2-other-power"></a>
 `skeleton` · confidence high
@@ -73,7 +73,7 @@ Seeking the root of it all, Amitābha is the dominant condition: birth there, th
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:tariki`, `trm:jiriki`, `trm:benyuan-li` · concepts: `cpt:other-power`, `cpt:self-power` · teachers: [Tanluan](../teachers/tanluan.md) · disputes: `dsp:self-power-or-other-power`, `dsp:works-knowledge-grace`
+terms: [tariki](../terms/tariki.md), [jiriki](../terms/jiriki.md), [benyuan li](../terms/benyuan-li.md) · concepts: [Other-power (tali / tariki)](../concepts/other-power.md), [Self-power (zili / jiriki)](../concepts/self-power.md) · teachers: [Tanluan](../teachers/tanluan.md) · disputes: [Is awakening reached by one's own practice (self-power) or by the power of Amitābha's vow (other-power)?](../debates/self-power-or-other-power.md), `dsp:works-knowledge-grace`
 
 ### 2.praise-gate <a id="tea-wangsheng-lun-zhu-2-praise-gate"></a>
 `skeleton` · confidence high
@@ -82,7 +82,7 @@ Commenting on 'calling that Tathāgata's name in accord with ... the meaning of 
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice, sound-language_
 
-terms: `trm:chengming`, `trm:xinxin` · concepts: `cpt:shinjin`, `cpt:name-embodies-all-virtues` · obstacles: `obs:three-non-faiths` · teachers: [Tanluan](../teachers/tanluan.md)
+terms: [chengming](../terms/chengming.md), [śraddhā](../terms/sraddha.md) · concepts: [Shinjin — true entrusting](../concepts/shinjin.md), [The name contains all virtues](../concepts/name-embodies-all-virtues.md) · obstacles: [The three kinds of non-faith (Tanluan)](../obstacles/three-non-faiths.md) · teachers: [Tanluan](../teachers/tanluan.md)
 
 ### 2.two-transfers <a id="tea-wangsheng-lun-zhu-2-two-transfers"></a>
 `skeleton` · confidence high
@@ -91,10 +91,10 @@ Transfer of merit has two aspects: in the going aspect one transfers one's merit
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:oso-eko`, `trm:genso-eko`, `trm:huixiang` · concepts: `cpt:two-aspects-of-merit-transfer` · teachers: [Tanluan](../teachers/tanluan.md)
+terms: [ōsō ekō](../terms/oso-eko.md), [gensō ekō](../terms/genso-eko.md), [pariṇāmanā](../terms/parinamana.md) · concepts: [The two aspects of merit transfer: going and returning](../concepts/two-aspects-of-merit-transfer.md) · teachers: [Tanluan](../teachers/tanluan.md)
 
 
 _Notes: T40 is not in the local corpus; all teachings from this text are recalled (no original quoted)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

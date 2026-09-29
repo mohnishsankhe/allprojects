@@ -29,7 +29,7 @@ The first chapter (the world) sets out the cosmos, its measures and astronomy, a
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate_
 
-concepts: `cpt:sambhala`, `cpt:outer-inner-other-kalacakra`
+concepts: [Śambhala and its kalkins](../concepts/sambhala.md), [Outer, inner and other Kālacakra](../concepts/outer-inner-other-kalacakra.md)
 
 ### 2 <a id="tea-kalacakra-tantra-2"></a>
 `skeleton` · confidence moderate
@@ -38,7 +38,7 @@ The second chapter (the inner) teaches the body as a microcosm of the world: cha
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: advanced · types: body-layers, world-fate_
 
-concepts: `cpt:outer-inner-other-kalacakra`, `cpt:buddhist-subtle-body`
+concepts: [Outer, inner and other Kālacakra](../concepts/outer-inner-other-kalacakra.md), [The Buddhist subtle body (channels, winds, drops)](../concepts/buddhist-subtle-body.md)
 
 ### 4 <a id="tea-kalacakra-tantra-4"></a>
 `skeleton` · confidence moderate
@@ -47,7 +47,7 @@ The fourth chapter (practice) gives the generation of the Kālacakra maṇḍala
 
 _level: conventional · standpoint: seeker · path: meditation, ritual · stage: advanced · types: practice_
 
-practices: `prc:sadanga-yoga`
+practices: [The six-branch yoga (ṣaḍaṅgayoga)](../practices/sadanga-yoga.md)
 
 ### 5 <a id="tea-kalacakra-tantra-5"></a>
 `skeleton` · confidence moderate
@@ -56,10 +56,10 @@ The fifth chapter (gnosis) teaches immutable bliss joined with empty form, the r
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: ultimate, karma-liberation_
 
-concepts: `cpt:empty-form`, `cpt:aksara-sukha-kalacakra`
+concepts: [Empty form (śūnyatābimba)](../concepts/empty-form.md), [Immutable bliss (akṣarasukha)](../concepts/aksara-sukha-kalacakra.md)
 
 
 _Notes: Verse count (c. 1,030) from memory, moderate._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

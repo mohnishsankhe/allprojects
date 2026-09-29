@@ -53,4 +53,4 @@ The school of Prabhākara Miśra ('the Guru'), based on his Bṛhatī and Laghv�
 _Notes: Status set to 'unknown': few independent Prābhākara works are known after c. the 16th century, though its doctrines are still studied in traditional curricula._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._

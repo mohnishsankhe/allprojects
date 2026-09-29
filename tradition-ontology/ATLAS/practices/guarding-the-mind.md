@@ -12,4 +12,4 @@ Because the training cannot be kept without guarding the mind, the mind is bound
   - [Bodhicaryāvatāra](../texts/bodhicaryavatara.md) — ref: 5.1-3; 5.108; rests_on: ["tea:bodhicaryavatara:5.1-3", "tea:bodhicaryavatara:5.108"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

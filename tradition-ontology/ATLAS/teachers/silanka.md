@@ -13,4 +13,4 @@
 U33 contribution: Śvetāmbara commentator on the Ācārāṅga and Sūtrakṛtāṅga, whose commentary derives the 363 rival views and explains the ajñānika maxim 'ignorance is better'.
 
 ---
-_Contributed by: skeleton:U33-sramana, skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U33-sramana, skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

@@ -15,4 +15,4 @@ Dignāga's own prose commentary on the Pramāṇasamuccaya (two Tibetan translat
   - kind: original; name: Tibetan: Derge D4204
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

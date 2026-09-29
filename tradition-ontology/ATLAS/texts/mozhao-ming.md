@@ -29,7 +29,7 @@ Silently, silently, words are forgotten; clearly, clearly it appears before you;
 
 _level: ultimate · standpoint: experiential · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: [mozhao (silent illumination)](../terms/mozhao.md) · concepts: `cpt:silent-illumination` · practices: `prc:silent-illumination` · teachers: [Hongzhi Zhengjue 宏智正覺](../teachers/hongzhi.md) · disputes: `dsp:koan-or-silent-illumination`
+terms: [mozhao (silent illumination)](../terms/mozhao.md) · concepts: [Silent illumination (mozhao)](../concepts/silent-illumination.md) · practices: [Silent illumination (mozhao)](../practices/silent-illumination.md) · teachers: [Hongzhi Zhengjue 宏智正覺](../teachers/hongzhi.md) · disputes: [Kōan (critical-phrase) introspection or silent illumination?](../debates/koan-or-silent-illumination.md)
 
 ### 100b07 <a id="tea-mozhao-ming-100b07"></a>
 `skeleton` · confidence high
@@ -40,8 +40,8 @@ If within illumination silence is lost, aggression appears; if within silence il
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-terms: [mozhao (silent illumination)](../terms/mozhao.md) · concepts: `cpt:silent-illumination`, `cpt:alert-calm-balance` · practices: `prc:silent-illumination` · obstacles: `obs:torpor-and-scattering`
+terms: [mozhao (silent illumination)](../terms/mozhao.md) · concepts: [Silent illumination (mozhao)](../concepts/silent-illumination.md), [Balance of alertness and calm (xingxing jiji)](../concepts/alert-calm-balance.md) · practices: [Silent illumination (mozhao)](../practices/silent-illumination.md) · obstacles: [Dullness and scattering (hunchen, sanluan / diaoju)](../obstacles/torpor-and-scattering.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

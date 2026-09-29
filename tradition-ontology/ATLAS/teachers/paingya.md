@@ -12,4 +12,4 @@ Taught 'breath is brahman' with the ordering of the senses (KauU 2.2).
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering) — Located: KauU 2.2 ('prāṇo brahmeti ha smāha paiṅgyaḥ').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:34 IST._

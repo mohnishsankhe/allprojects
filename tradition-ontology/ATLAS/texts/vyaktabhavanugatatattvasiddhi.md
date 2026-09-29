@@ -15,4 +15,4 @@ Sahajayoginīcintā's treatise on reality as following manifest things.
   - kind: translation; name: Derge Tengyur, Tōh 2222 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-tengyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

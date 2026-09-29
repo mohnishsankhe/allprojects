@@ -31,7 +31,7 @@ Case 1: Emperor Wu asks the first principle of the holy truths — Bodhidharma: 
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, teacher-transmission_
 
-terms: [buli wenzi (not established on words and letters)](../terms/buli-wenzi.md), [jianxing chengfo (seeing the nature and becoming buddha)](../terms/jianxing-chengfo.md) · concepts: `cpt:four-line-self-description` · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Emperor Wu of Liang (Liang Wudi 梁武帝)](../teachers/emperor-wu-liang.md), [Baozhi 寶誌](../teachers/baozhi.md), [Yuanwu Keqin 圜悟克勤](../teachers/yuanwu-keqin.md)
+terms: [buli wenzi (not established on words and letters)](../terms/buli-wenzi.md), [jianxing chengfo (seeing the nature and becoming buddha)](../terms/jianxing-chengfo.md) · concepts: [The four-line self-description of Chan](../concepts/four-line-self-description.md) · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Emperor Wu of Liang (Liang Wudi 梁武帝)](../teachers/emperor-wu-liang.md), [Baozhi 寶誌](../teachers/baozhi.md), [Yuanwu Keqin 圜悟克勤](../teachers/yuanwu-keqin.md)
 
 ### 6 <a id="tea-biyan-lu-6"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ Case 6: Yunmen said, 'I do not ask about before the fifteenth day; say a word ab
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: ultimate, practice_
 
-concepts: `cpt:everyday-activity-as-the-way` · teachers: [Yunmen Wenyan 雲門文偃](../teachers/yunmen.md)
+concepts: [Everyday activity as the Way](../concepts/everyday-activity-as-the-way.md) · teachers: [Yunmen Wenyan 雲門文偃](../teachers/yunmen.md)
 
 ### 12 <a id="tea-biyan-lu-12"></a>
 `skeleton` · confidence high
@@ -53,7 +53,7 @@ Case 12, 'three pounds of flax': Yuanwu warns that many misunderstand this case 
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: advanced · types: sound-language, practice_
 
-concepts: `cpt:koan`, `cpt:words-and-letters` · teachers: [Dongshan Shouchu 洞山守初](../teachers/dongshan-shouchu.md)
+concepts: [Kōan (gong'an) and critical phrase (huatou)](../concepts/koan.md), [Words and letters in Chan](../concepts/words-and-letters.md) · teachers: [Dongshan Shouchu 洞山守初](../teachers/dongshan-shouchu.md)
 
 ### 12.pointer <a id="tea-biyan-lu-12-pointer"></a>
 `skeleton` · confidence high
@@ -64,8 +64,8 @@ Yuanwu's pointer to case 12: the sword that kills and the sword that gives life 
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: advanced · types: teacher-transmission, sound-language_
 
-terms: [sharen dao, huoren jian (the sword that kills, the sword that gives life)](../terms/sharendao-huorenjian.md) · concepts: `cpt:killing-and-life-giving-sword` · teachers: [Yuanwu Keqin 圜悟克勤](../teachers/yuanwu-keqin.md), [Dongshan Shouchu 洞山守初](../teachers/dongshan-shouchu.md)
+terms: [sharen dao, huoren jian (the sword that kills, the sword that gives life)](../terms/sharendao-huorenjian.md) · concepts: [The sword that kills and the sword that gives life](../concepts/killing-and-life-giving-sword.md) · teachers: [Yuanwu Keqin 圜悟克勤](../teachers/yuanwu-keqin.md), [Dongshan Shouchu 洞山守初](../teachers/dongshan-shouchu.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

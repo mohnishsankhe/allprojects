@@ -21,4 +21,4 @@ The Black Yajurveda Saṃhitā of the Maitrāyaṇīya school: mantras and brāh
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Maitrāyaṇīsaṃhitā, catalog:GRETIL-dev:maitrayani-samhita_plain_text, https://en.wikipedia.org/wiki/Yajurveda — Extant; local count in the GRETIL text: 4 kāṇḍas with 11 + 13 + 16 + 14 = 54 prapāṭhakas — as the entry says. Scholarly date c. 1000–800 BCE consistent with Witzel's Yajurveda range.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._

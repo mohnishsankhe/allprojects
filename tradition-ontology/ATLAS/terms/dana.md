@@ -13,6 +13,7 @@
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): Giving, the first ground of merit and first perfection (Bv 2); regular giving is a sacrifice of great fruit (DN 5).
 - [Mahāyāna](../lineages/mahayana.md): The first perfection, supreme when given without support in any thing.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Giving: the humans' 'da' (BAU 5.2); 'give with faith' (TU 1.11.3); a priestly gift of the life-sacrifice (ChU 3.17.4).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Giving: a state of beings that arises from the Lord (10.5); not by gifts can he be seen in the form Arjuna saw (11.48, 11.53).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): Relinquishing what is one's own for the benefit of self and other; its merit depends on manner, gift, giver and recipient (TS 7.38–39); four kinds — food, medicine, knowledge, fearlessness.
 - [Sāṃkhya](../lineages/samkhya.md): The accomplishment of receiving knowledge from the venerable after serving them with shelter, medicine, staff, water-pot, food and clothing (Gauḍapāda on SK 51); Vācaspati is recalled as deriving it from the root 'dai' (to purify), the purity of discriminative knowledge (low confidence).
 - [Madhyamaka](../lineages/madhyamaka.md): The first perfection; the bodhisattva gives away body, enjoyments and merit to all beings, then protects, purifies and increases them (ŚSK 4); respectful giving is part of the dharma of higher status (RĀ 1.10).
@@ -33,4 +34,8 @@
 **Related:** [siddhi](siddhi.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U09-samkhya, skeleton:U40-madhyamaka, skeleton:U32-jyotisa, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:10.5, tea:bhagavad-gita:11.48, tea:bhagavad-gita:11.53 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U09-samkhya, skeleton:U40-madhyamaka, skeleton:U32-jyotisa, skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

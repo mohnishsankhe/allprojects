@@ -13,4 +13,4 @@ Recitation of 'oṃ namo nārāyaṇāya', which leads to Vaikuṇṭha and is t
   - [Ātmabodha Upaniṣad](../texts/atmabodha-upanisad.md) — ref: 1; rests_on: ["tea:atmabodha-upanisad:1"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

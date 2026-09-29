@@ -18,3 +18,4 @@
 - 2026-09-29 17:24 IST  U42 skeleton done (REPORT saved). CBETA extended: T85 + X63–65/68–69/79–80/83; catalogue 32,086 items.
 - 2026-09-29 17:28 IST  U45 skeleton done (REPORT saved; decisions logged). C-U06 sweep launched.
 - 2026-09-29 17:31 IST  U43, U44 skeletons done (REPORTs saved; decisions logged). CBETA completed (Taishō 1–55 + 85; catalogue 33,169 items). U50 skeleton and C-U07 sweep launched.
+- 2026-09-29 17:34 IST  Gītā ch10-12 F done (121 passed, 4 fixed → 125 text-verified). Merge + atlas: 511 text-verified teachings, 16,948 atlas pages. ch16-18 A launched.

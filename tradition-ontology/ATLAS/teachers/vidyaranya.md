@@ -29,4 +29,4 @@ _Notes: Identity with the minister Mādhava is the tradition's; scholars debate 
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Vidyaranya, https://en.wikipedia.org/wiki/S%C4%81ya%E1%B9%87a — Low-confidence entry confirmed. Tradition identifies Mādhava (the author of the Parāśaramādhavīya and Kāla-mādhavīya, elder brother of Sāyaṇa) with Vidyāraṇya; some scholars contest this (Wikipedia). The entry states it as debated.
 
-_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U32-jyotisa, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U32-jyotisa, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

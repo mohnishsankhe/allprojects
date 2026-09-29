@@ -19,4 +19,4 @@ Jiacai's three-fascicle systematisation of Daochuo's teaching: the bodies and la
 _Notes: Preface read locally (T47n1963 83b)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

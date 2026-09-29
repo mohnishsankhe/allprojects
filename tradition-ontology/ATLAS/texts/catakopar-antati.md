@@ -15,4 +15,4 @@ A hundred-verse antāti in praise of Nammāḻvār (Caṭakōpaṉ) attributed t
 _Notes: Attribution to Kampaṉ is the tradition's; tradition says he composed it so that his Rāmāyaṇa would be accepted at Śrīraṅgam. Verse count as recalled._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._

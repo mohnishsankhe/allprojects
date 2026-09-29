@@ -19,7 +19,7 @@ A verse outline of the hidden meaning of the Prajñāpāramitā sūtras as a pat
 **Editions / translations:** 
   - kind: original; name: R. Tripathi, Sarnath 1977 (with Haribhadra's Sphuṭārthā) — local DSBC e-text; licence: ancient text public domain; e-text for research use (DSBC / GRETIL terms)
   - kind: original; name: Tibetan: Derge D3786
-**Commentaries on this text:** [Abhisamayālaṃkāravivṛti (Sphuṭārthā)](abhisamayalamkara-vivrti.md), [Abhisamayālaṃkāravṛtti (Ārya Vimuktisena)](abhisamayalamkara-vrtti-vimuktisena.md), [Abhisamayālaṃkāravṛtti (Ārya Vimuktisena)](abhisamayalamkaravrtti-vimuktisena.md), [Sphuṭārthā (Abhisamayālaṃkāravivṛti)](sphutartha.md)
+**Commentaries on this text:** [Abhisamayālaṃkāravivṛti (Sphuṭārthā)](abhisamayalamkara-vivrti.md), [Abhisamayālaṃkāravṛtti (Ārya Vimuktisena)](abhisamayalamkara-vrtti-vimuktisena.md), [Abhisamayālaṃkāravṛtti (Ārya Vimuktisena)](abhisamayalamkaravrtti-vimuktisena.md), [Golden Rosary of Eloquence (legs bshad gser phreng)](golden-rosary-tsongkhapa.md), [Ornament of the Essence of Explanation (rnam bshad snying po'i rgyan)](namshe-nyingpo-gyen.md), [Sphuṭārthā (Abhisamayālaṃkāravivṛti)](sphutartha.md)
 
 ## Teachings (5: skeleton 5)
 
@@ -78,4 +78,4 @@ teachers: [Maitreyanātha](../teachers/maitreyanatha.md)
 _Notes: One of the 'five Dharmas of Maitreya' in the Tibetan list (Abhisamayālaṃkāra, Mahāyānasūtrālaṃkāra, Madhyāntavibhāga, Dharmadharmatāvibhāga, Ratnagotravibhāga). Chinese tradition instead attributes the Yogācārabhūmi to Maitreya and the Ratnagotravibhāga to Sāramati. Its own affiliation is contested: Haribhadra reads it as Yogācāra-Madhyamaka; Tibetan scholastics as Madhyamaka._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

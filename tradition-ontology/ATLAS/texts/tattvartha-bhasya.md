@@ -48,4 +48,4 @@ concepts: [Teacher, lineage and transmission in Jainism](../concepts/jain-teache
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

@@ -29,8 +29,8 @@ Baizhang's founding of Chan monasteries: what he follows is neither confined to 
 
 _level: conventional · standpoint: ethical-social · path: action, ritual · stage: all · types: ethics, practice, teacher-transmission_
 
-concepts: `cpt:pure-rules-qinggui` · practices: `prc:samu`, `prc:qinggui-monastic-life` · teachers: [Baizhang Huaihai 百丈懷海](../teachers/baizhang.md)
+concepts: [The pure rules (qinggui) of Chan monasteries](../concepts/pure-rules-qinggui.md) · practices: [Samu / puqing (communal work)](../practices/samu.md), [Monastic life under the pure rules](../practices/qinggui-monastic-life.md) · teachers: [Baizhang Huaihai 百丈懷海](../teachers/baizhang.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

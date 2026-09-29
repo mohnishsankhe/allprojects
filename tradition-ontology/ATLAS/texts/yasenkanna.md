@@ -24,7 +24,7 @@ Hakuyū's cure: lying on the back, stretching the legs, concentrate the breath a
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: intermediate · types: practice, body-layers_
 
-terms: [tanden (cinnabar field, lower abdomen)](../terms/tanden.md) · concepts: `cpt:tanden-energy-anatomy` · practices: `prc:naikan-hakuin` · obstacles: `obs:zen-sickness` · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md), [Hakuyū 白幽子 (Ishikawa Jishun)](../teachers/hakuyu.md)
+terms: [tanden (cinnabar field, lower abdomen)](../terms/tanden.md) · concepts: [The tanden (cinnabar field) in Zen practice](../concepts/tanden-energy-anatomy.md) · practices: [Naikan (introspection) of Hakuin](../practices/naikan-hakuin.md) · obstacles: [Zen sickness (zenbyō)](../obstacles/zen-sickness.md) · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md), [Hakuyū 白幽子 (Ishikawa Jishun)](../teachers/hakuyu.md)
 
 ### soft-butter <a id="tea-yasenkanna-soft-butter"></a>
 `skeleton` · confidence moderate
@@ -33,7 +33,7 @@ The soft-butter method: imagine a lump of fragrant soft butter placed on the cro
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: intermediate · types: practice, body-layers_
 
-practices: `prc:nanso-no-ho` · obstacles: `obs:zen-sickness` · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md), [Hakuyū 白幽子 (Ishikawa Jishun)](../teachers/hakuyu.md)
+practices: [Nanso no hō (the soft-butter method)](../practices/nanso-no-ho.md) · obstacles: [Zen sickness (zenbyō)](../obstacles/zen-sickness.md) · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md), [Hakuyū 白幽子 (Ishikawa Jishun)](../teachers/hakuyu.md)
 
 ### zen-sickness <a id="tea-yasenkanna-zen-sickness"></a>
 `skeleton` · confidence moderate
@@ -42,10 +42,10 @@ Hakuin describes how, after excessive striving, his heart-fire rose, his lungs d
 
 _level: conventional · standpoint: experiential · path: meditation, body-breath · stage: intermediate · types: powers-experiences, body-layers, practice_
 
-concepts: `cpt:meditation-sickness` · obstacles: `obs:zen-sickness` · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md)
+concepts: [Meditation sickness (zenbyō) and its cure](../concepts/meditation-sickness.md) · obstacles: [Zen sickness (zenbyō)](../obstacles/zen-sickness.md) · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md)
 
 
 _Notes: Not held locally; paraphrases from memory._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -42,4 +42,4 @@ practices: [Meditation on the centres (Kaula)](../practices/kjn-cakra-dhyana.md)
 
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._

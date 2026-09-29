@@ -18,4 +18,4 @@
 - leads-to → [Direct knowledge of God (aparokṣa-jñāna)](aparoksa-jnana.md): meditation built on hearing produces direct realization — rests on [3](../texts/nyayamrta.md#tea-nyayamrta-3), [1.1.1/5](../texts/brahma-sutra-bhasya-madhva.md#tea-brahma-sutra-bhasya-madhva-1-1-1-5)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._

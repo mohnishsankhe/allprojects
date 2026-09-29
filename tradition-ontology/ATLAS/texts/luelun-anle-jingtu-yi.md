@@ -24,7 +24,7 @@ Nine questions and answers on Sukhāvatī: it is not included in the three realm
 
 Asked which of the three realms includes the Land of Peace and Bliss: as the (Mahāprajñāpāramitā) treatise says, such a pure land is not included in the three realms — not the desire realm, being without desire; not the form realm, being on the ground; not the formless realm, having form; it was gained by Dharmākara's special karma through vows and the perfections over countless kalpas.
 
-> 如斯淨土，非三界所攝。何以故？無欲故，非欲界；地居故，非色界；有形色故，非無色界。
+> 如釋論言：『如斯淨土，非三界所攝。』何以故？無欲故，非欲界；地居故，非色界；有形色故，非無色界。
 
 _level: conventional · standpoint: cosmic · path: devotion, knowledge · stage: all · types: world-fate_
 
@@ -39,7 +39,7 @@ Besides the three grades there is a kind of birth for those who cultivate merit 
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:taisheng`, `trm:biandi` · concepts: `cpt:true-and-transformed-lands` · obstacles: `obs:doubt-of-buddha-wisdom`
+terms: [taisheng](../terms/taisheng.md), [biandi](../terms/biandi.md) · concepts: [True and transformed lands; womb-birth and the borderland](../concepts/true-and-transformed-lands.md) · obstacles: [Doubting the Buddha's wisdom](../obstacles/doubt-of-buddha-wisdom.md)
 
 ### 2b05-17 <a id="tea-luelun-anle-jingtu-yi-2b05-17"></a>
 `skeleton` · confidence high
@@ -50,10 +50,10 @@ To the doubt how ten continuous recitations can outweigh a lifetime of evil and 
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:tariki`, `trm:shinian` · concepts: `cpt:other-power`, `cpt:ten-recitations`
+terms: [tariki](../terms/tariki.md), [shinian](../terms/shinian.md) · concepts: [Other-power (tali / tariki)](../concepts/other-power.md), [The ten recitations (shinian / jūnen)](../concepts/ten-recitations.md)
 
 
 _Notes: Read locally (T47n1957)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

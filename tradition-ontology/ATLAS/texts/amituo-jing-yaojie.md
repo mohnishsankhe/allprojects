@@ -26,10 +26,10 @@ Faith, vow and holding the name are the three provisions for birth, like the thr
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice, karma-liberation_
 
-terms: `trm:xinyuanxing` · concepts: `cpt:faith-vow-practice` · teachers: [Ouyi Zhixu](../teachers/ouyi-zhixu.md)
+terms: [xin yuan xing](../terms/xinyuanxing.md) · concepts: [Faith and practice (faith, vow, practice)](../concepts/faith-vow-practice.md) · teachers: [Ouyi Zhixu](../teachers/ouyi-zhixu.md)
 
 
 _Notes: T37 not local; recalled._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

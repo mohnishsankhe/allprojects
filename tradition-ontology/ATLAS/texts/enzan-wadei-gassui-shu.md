@@ -23,8 +23,8 @@ Ask yourself: what is it that now sees and hears? Doubt deeply who the master of
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-concepts: `cpt:great-doubt` · practices: `prc:koan-introspection` · teachers: [Bassui Tokushō 拔隊得勝](../teachers/bassui.md)
+concepts: [Great doubt](../concepts/great-doubt.md) · practices: [Kōan introspection (sanzen, kōan practice)](../practices/koan-introspection.md) · teachers: [Bassui Tokushō 拔隊得勝](../teachers/bassui.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

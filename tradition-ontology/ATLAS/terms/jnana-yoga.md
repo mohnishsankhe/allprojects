@@ -18,4 +18,4 @@
 **Related:** [sāṃkhya](samkhya.md), [karmayoga](karma-yoga.md), [niṣṭhā](nistha.md), [bhakti-yoga](bhakti-yoga.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._

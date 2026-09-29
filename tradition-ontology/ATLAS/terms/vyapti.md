@@ -19,4 +19,4 @@
 **Related:** [avinābhāva](avinabhava.md), [antarvyāpti](antarvyapti.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._

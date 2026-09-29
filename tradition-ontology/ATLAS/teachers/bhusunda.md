@@ -11,4 +11,4 @@ The ancient crow living on a wish-fulfilling tree on a peak of Meru, who tells V
 **Realization — the tradition's account:** Resting in the Self through contemplation of the breath, he remains unaffected by the dissolutions of the worlds he has witnessed.
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

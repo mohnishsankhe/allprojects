@@ -28,7 +28,7 @@ Teacher and disciple should first examine each other before forming the bond, fo
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: beginner · types: teacher-transmission_
 
-concepts: `cpt:examining-the-teacher` · practices: `prc:examining-the-teacher`
+concepts: [Mutual examination of teacher and disciple](../concepts/examining-the-teacher.md) · practices: [Examining the teacher (and the disciple)](../practices/examining-the-teacher.md)
 
 ### 8-9 <a id="tea-gurupancasika-8-9"></a>
 `skeleton` · confidence high
@@ -39,7 +39,7 @@ The master should be steady, disciplined, intelligent, patient, straightforward,
 
 _level: conventional · standpoint: ethical-social · path: devotion, ritual · stage: all · types: teacher-transmission_
 
-concepts: `cpt:qualities-of-vajracarya`, `cpt:examining-the-teacher`
+concepts: [The qualities of a vajra master](../concepts/qualities-of-vajracarya.md), [Mutual examination of teacher and disciple](../concepts/examining-the-teacher.md)
 
 ### 10 <a id="tea-gurupancasika-10"></a>
 `skeleton` · confidence high
@@ -50,7 +50,7 @@ The disciple who, having become one, despises that protector (his master) despis
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: teacher-transmission, ethics_
 
-concepts: `cpt:guru-in-vajrayana`
+concepts: [The guru in the Vajrayāna](../concepts/guru-in-vajrayana.md)
 
 ### 22 <a id="tea-gurupancasika-22"></a>
 `skeleton` · confidence high
@@ -61,7 +61,7 @@ Those disciples are endowed with compassion, generosity, discipline and patience
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:guru-in-vajrayana` · practices: `prc:guru-devotion-vajrayana`
+concepts: [The guru in the Vajrayāna](../concepts/guru-in-vajrayana.md) · practices: [Devotion to the vajra master](../practices/guru-devotion-vajrayana.md)
 
 ### 47 <a id="tea-gurupancasika-47"></a>
 `skeleton` · confidence high
@@ -72,7 +72,7 @@ Attainment always follows the master; on Vajradhara's word the guru is to be hon
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:guru-in-vajrayana`
+concepts: [The guru in the Vajrayāna](../concepts/guru-in-vajrayana.md)
 
 ### 49 <a id="tea-gurupancasika-49"></a>
 `skeleton` · confidence high
@@ -83,8 +83,8 @@ Then, having made him a vessel of the true dharma by giving mantra and the rest,
 
 _level: conventional · standpoint: ritual · path: ritual · stage: beginner · types: ethics, teacher-transmission_
 
-concepts: `cpt:fourteen-root-downfalls`, `cpt:samaya-vows`
+concepts: [The fourteen root downfalls](../concepts/fourteen-root-downfalls.md), [The tantric pledges (samaya)](../concepts/samaya-vows.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

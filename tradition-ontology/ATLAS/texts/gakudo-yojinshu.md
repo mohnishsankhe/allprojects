@@ -15,4 +15,4 @@
 Dōgen's ten points (1234) for practitioners: arouse bodhi-mind, seek a true teacher, practise with body and mind.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

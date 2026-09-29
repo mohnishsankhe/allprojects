@@ -10,4 +10,4 @@
 The bride Neminātha left on his wedding day; she became a nun and, sheltering in a cave, recalled his brother Rathanemi to his vows (Uttarādhyayana 22; Daśavaikālika 2).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

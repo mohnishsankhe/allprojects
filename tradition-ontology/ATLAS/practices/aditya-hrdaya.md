@@ -14,4 +14,4 @@ Recitation of the hymn to the Sun that Agastya taught Rāma before the battle wi
 _Notes: Its use as a planetary remedy is later practice; the hymn itself is in the Rāmāyaṇa._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._

@@ -25,8 +25,8 @@ The fourteen root downfalls of the mantra practitioner: despising the teachers; 
 
 _level: conventional · standpoint: ethical-social · path: ritual · stage: all · types: ethics_
 
-concepts: `cpt:fourteen-root-downfalls`, `cpt:samaya-vows` · obstacles: `obs:root-downfalls`
+concepts: [The fourteen root downfalls](../concepts/fourteen-root-downfalls.md), [The tantric pledges (samaya)](../concepts/samaya-vows.md) · obstacles: [The fourteen root downfalls](../obstacles/root-downfalls.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

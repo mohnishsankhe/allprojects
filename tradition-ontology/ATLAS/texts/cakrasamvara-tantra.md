@@ -28,7 +28,7 @@ Now I shall explain the secret, briefly and not at length: the union with Śrī 
 
 _level: conventional · standpoint: divine · path: ritual · stage: advanced · types: practice_
 
-concepts: `cpt:heruka-vajravarahi`
+concepts: [Heruka and Vajravārāhī](../concepts/heruka-vajravarahi.md)
 
 ### pitha-list <a id="tea-cakrasamvara-tantra-pitha-list"></a>
 `skeleton` · confidence low
@@ -37,8 +37,8 @@ The twenty-four sites of the Heruka maṇḍala are named — among them Pullīr
 
 _level: conventional · standpoint: cosmic · path: ritual · stage: advanced · types: world-fate, body-layers_
 
-concepts: `cpt:twenty-four-pithas`, `cpt:body-as-pitha`
+concepts: [The twenty-four sacred sites](../concepts/twenty-four-pithas.md), [The body as the sacred sites](../concepts/body-as-pitha.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

@@ -13,4 +13,4 @@
 A medical compendium transmitted under the name of Ātreya's disciple Hārīta; the extant text is regarded by scholars as late.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._

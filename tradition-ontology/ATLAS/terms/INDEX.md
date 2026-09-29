@@ -1,7 +1,17 @@
-# Terms (4335)
+# Terms (4678)
 
-skeleton: 4329 · sourced: 6
+skeleton: 4672 · sourced: 6
 
+- ['chi bslu](chilu.md) — `skeleton`
+- ['chi ltas](chitak.md) — `skeleton`
+- ['ja' lus](jalu.md) — `skeleton`
+- ['jig rten chos brgyad](jigten-chogye.md) — `skeleton`
+- ['jog sgom](joggom.md) — `skeleton`
+- ['khor 'das dbyer med](khordey-yerme.md) — `skeleton`
+- ['khor 'das ru shan](rushen.md) — `skeleton`
+- ['khrul 'khor (yantra exercises)](trulkhor.md) — `skeleton`
+- ['od gsal](osel.md) — `skeleton`
+- ['pho ba](phowa.md) — `skeleton`
 - [(rasa-)saṃskāra](rasa-samskara.md) — `skeleton`
 - [-ānandanātha](anandanatha.md) — `skeleton`
 - [a-si-ā-u-sā](asiausa.md) — `skeleton`
@@ -26,6 +36,7 @@ skeleton: 4329 · sourced: 6
 - [abhinīhāra](abhinihara.md) — `skeleton`
 - [abhiprāya](abhipraya.md) — `skeleton`
 - [abhisamaya](abhisamaya.md) — `skeleton`
+- [abhisambodhi](abhisambodhi.md) — `skeleton`
 - [abhisāra](abhisara.md) — `skeleton`
 - [abhivyakti](abhivyakti.md) — `skeleton`
 - [abhiññā](abhinna.md) — `skeleton`
@@ -86,14 +97,17 @@ skeleton: 4329 · sourced: 6
 - [adhyāsa](adhyasa.md) — `skeleton`
 - [adhyātma](adhyatma.md) — `skeleton`
 - [adhyātma-prasāda](adhyatma-prasada.md) — `skeleton`
+- [adhyātma-vidyā](adhyatma-vidya.md) — `skeleton`
 - [adhyātma-yoga](adhyatma-yoga.md) — `skeleton`
 - [adhyātmavidhi](adhyatmavidhi.md) — `skeleton`
 - [adhyātmavidyā](adhyatmavidya.md) — `skeleton`
 - [adhyātmī](adhyatmi.md) — `skeleton`
+- [adhyāśaya](adhyasaya.md) — `skeleton`
 - [aditi](aditi.md) — `skeleton`
 - [advaita](advaita.md) — `skeleton`
 - [advaitavāsanā](advaita-vasana.md) — `skeleton`
 - [advaya](advaya.md) — `skeleton`
+- [advayajñāna](advayajnana.md) — `skeleton`
 - [adṛṣṭa](adrsta.md) — `skeleton`
 - [adṛṣṭa-janma-vedanīya](adrsta-janma-vedaniya.md) — `skeleton`
 - [agadatantra](agadatantra.md) — `skeleton`
@@ -149,10 +163,12 @@ skeleton: 4329 · sourced: 6
 - [akliṣṭa](aklista.md) — `skeleton`
 - [akula](akula.md) — `skeleton`
 - [akulavīra](akulavira.md) — `skeleton`
+- [akunin shōki](akunin-shoki.md) — `skeleton`
 - [akusala](akusala.md) — `skeleton`
 - [akusīda](akusida.md) — `skeleton`
 - [akuśalamahābhūmika](akusalamahabhumika.md) — `skeleton`
 - [akālamṛtyu](akala-mrtyu.md) — `skeleton`
+- [akāra](a-syllable.md) — `skeleton`
 - [akāraka-vāda](akarakavada.md) — `skeleton`
 - [akāram](akaram.md) — `skeleton`
 - [akṛtrima](akrtrima.md) — `skeleton`
@@ -160,13 +176,13 @@ skeleton: 4329 · sourced: 6
 - [akṣamālā](aksamala.md) — `skeleton`
 - [akṣara](aksara.md) — `skeleton`
 - [akṣara-brahman](aksara-brahman.md) — `skeleton`
+- [akṣarasukha](aksara-sukha.md) — `skeleton`
 - [alabdha-bhūmikatva](alabdha-bhumikatva.md) — `skeleton`
 - [alakh](alakh.md) — `skeleton`
 - [alaukika-pratyakṣa](alaukika-pratyaksa.md) — `skeleton`
 - [alaukika-sāmarthya](alaukika-samarthya.md) — `skeleton`
 - [alaṅkāra](alankara.md) — `skeleton`
 - [aliṅga](alinga.md) — `skeleton`
-- [aloka](aloka.md) — `skeleton`
 - [alātacakra](alatacakra.md) — `skeleton`
 - [alīkākāra](alikakara.md) — `skeleton`
 - [amala-vijñāna](amalavijnana.md) — `skeleton`
@@ -181,6 +197,8 @@ skeleton: 4329 · sourced: 6
 - [amaṇar / camaṇar](amanar.md) — `skeleton`
 - [ambuvācī](ambuvaci.md) — `skeleton`
 - [ambā / ambikā](amba.md) — `skeleton`
+- [Amitābha](amitabha.md) — `skeleton`
+- [Amitāyus](amitayus.md) — `skeleton`
 - [amla](amla.md) — `skeleton`
 - [amuri](amuri.md) — `skeleton`
 - [amānava-puruṣa](amanava-purusa.md) — `skeleton`
@@ -202,6 +220,7 @@ skeleton: 4329 · sourced: 6
 - [ananyagatitva](ananyagatitva.md) — `skeleton`
 - [ananyatā](ananyata.md) — `skeleton`
 - [ananyārha-śeṣatva](ananyarha-sesatva.md) — `skeleton`
+- [anapekṣa](anapeksa.md) — `skeleton`
 - [anartha](anartha.md) — `skeleton`
 - [anartha-nivṛtti](anartha-nivrtti.md) — `skeleton`
 - [anarthadaṇḍa-virati](anarthadanda-virati.md) — `skeleton`
@@ -212,8 +231,11 @@ skeleton: 4329 · sourced: 6
 - [andhatāmisra](andhatamisra.md) — `skeleton`
 - [aneka-jīva-vāda](aneka-jiva-vada.md) — `skeleton`
 - [anekāntavāda](anekantavada.md) — `skeleton`
+- [ango (summer retreat)](ango.md) — `skeleton`
 - [anicca](anicca.md) — `skeleton`
+- [aniketa](aniketa.md) — `skeleton`
 - [animitta](animitta.md) — `skeleton`
+- [anirdeśya](anirdesya.md) — `skeleton`
 - [Aniruddha](aniruddha.md) — `skeleton`
 - [anirvacanīya](anirvacaniya.md) — `skeleton`
 - [anirvacanīya-khyāti](anirvacaniya-khyati.md) — `skeleton`
@@ -222,6 +244,7 @@ skeleton: 4329 · sourced: 6
 - [anivṛtti-karaṇa](anivrtti-karana.md) — `skeleton`
 - [anivṛtāvyākṛta](anivrtavyakrta.md) — `skeleton`
 - [aniyata](aniyata-vinaya.md) — `skeleton`
+- [anjin](anjin.md) — `skeleton`
 - [annamaya (annarasamaya)](annamaya.md) — `skeleton`
 - [annamaya-kośa](annamaya-kosa.md) — `skeleton`
 - [anottappa](anottappa.md) — `skeleton`
@@ -268,18 +291,22 @@ skeleton: 4329 · sourced: 6
 - [anurādhā](anuradha-naksatra.md) — `skeleton`
 - [anurāga](anuraga.md) — `skeleton`
 - [anusaya](anusaya.md) — `skeleton`
+- [anusmṛti](anusmrti.md) — `skeleton`
 - [anusnāna](anusnana.md) — `skeleton`
 - [anussati](anussati.md) — `skeleton`
 - [anutpattika-dharma-kṣānti](anutpattika-dharma-ksanti.md) — `skeleton`
+- [anutpattika-dharma-kṣānti](anutpattika-dharmaksanti.md) — `skeleton`
 - [anutpāda](anutpada.md) — `skeleton`
 - [anutpādajñāna](anutpadajnana.md) — `skeleton`
 - [anuttara](anuttara.md) — `skeleton`
 - [anuttara-vimāna](anuttara-vimana.md) — `skeleton`
+- [anuttarayogatantra](anuttarayogatantra.md) — `skeleton`
 - [anuttarā samyaksaṃbodhi](anuttara-samyaksambodhi.md) — `skeleton`
 - [anuvyavasāya](anuvyavasaya.md) — `skeleton`
 - [anuvāda](anuvada.md) — `skeleton`
 - [anuvāka](anuvaka.md) — `skeleton`
 - [anuyoga](anuyoga.md) — `skeleton`
+- [anuyoga (Nyingma)](anuyoga-nyingma.md) — `skeleton`
 - [anuyogin](anuyogin.md) — `skeleton`
 - [anuṣṭubh](anustubh.md) — `skeleton`
 - [anvayajñāna](anvayajnana.md) — `skeleton`
@@ -421,6 +448,7 @@ skeleton: 4329 · sourced: 6
 - [atithi](atithi.md) — `skeleton`
 - [atithi-saṃvibhāga](atithi-samvibhaga.md) — `skeleton`
 - [ativarṇāśramin](ativarnasramin.md) — `skeleton`
+- [atiyoga](atiyoga.md) — `skeleton`
 - [atiyāga](atiyaga.md) — `skeleton`
 - [atiśaya](atisaya.md) — `skeleton`
 - [attaniya](attaniya.md) — `skeleton`
@@ -431,6 +459,7 @@ skeleton: 4329 · sourced: 6
 - [atyāśramin](atyasramin.md) — `skeleton`
 - [aucitya](aucitya.md) — `skeleton`
 - [audayika](audayika.md) — `skeleton`
+- [auddhatya](auddhatya.md) — `skeleton`
 - [audārika-śarīra](audarika-sarira.md) — `skeleton`
 - [audāsīnya](audasinya.md) — `skeleton`
 - [aughaṛ (oghaṛ)](aughar.md) — `skeleton`
@@ -442,6 +471,7 @@ skeleton: 4329 · sourced: 6
 - [avadhi-jñāna](avadhi-jnana.md) — `skeleton`
 - [avadhāna (sāvadhāna)](avadhana.md) — `skeleton`
 - [avadhūta](avadhuta.md) — `skeleton`
+- [avadhūtī](avadhuti.md) — `skeleton`
 - [avagraha](avagraha.md) — `skeleton`
 - [avaguṇṭhana](avagunthana.md) — `skeleton`
 - [avaivartika / avinivartanīya](avaivartika.md) — `skeleton`
@@ -553,17 +583,24 @@ skeleton: 4329 · sourced: 6
 - [bandha](bandha.md) — `skeleton`
 - [bandhu](bandhu.md) — `skeleton`
 - [bang (the staff, blow)](bang.md) — `skeleton`
+- [baotu](baotu.md) — `skeleton`
+- [bar do](bardo.md) — `skeleton`
 - [bargīt](bargit.md) — `skeleton`
 - [barhis](barhis.md) — `skeleton`
 - [bartamān (vartamāna)](bartaman.md) — `skeleton`
 - [barātī](barati.md) — `skeleton`
 - [basti / vasti](basti.md) — `skeleton`
 - [bayalu](bayalu.md) — `skeleton`
+- [bdag 'dzin](dagdzin.md) — `skeleton`
+- [bdag gces 'dzin pa](dagche-dzinpa.md) — `skeleton`
+- [bden grub](dendrub.md) — `skeleton`
 - [Begampurā](begampura.md) — `skeleton`
 - [benjue](benjue.md) — `skeleton`
 - [benlai mianmu (original face)](benlai-mianmu.md) — `skeleton`
 - [benlai wu yi wu (originally not a single thing)](benlai-wuyiwu.md) — `skeleton`
 - [benxin (original mind)](benxin.md) — `skeleton`
+- [benyuan](benyuan.md) — `skeleton`
+- [benyuan li](benyuan-li.md) — `skeleton`
 - [beḍagu](bedagu.md) — `skeleton`
 - [bhadra](bhadra.md) — `skeleton`
 - [Bhadrakālī](bhadrakali.md) — `skeleton`
@@ -678,10 +715,18 @@ skeleton: 4329 · sourced: 6
 - [bhūtārtha](bhutartha.md) — `skeleton`
 - [bhūtārthavāda](bhutarthavada.md) — `skeleton`
 - [bhṛtyācāra](bhrtyacara.md) — `skeleton`
+- [biandi](biandi.md) — `skeleton`
+- [bieshi yi](bieshiyi.md) — `skeleton`
 - [biguan (wall-gazing)](biguan.md) — `skeleton`
 - [bimba](bimba.md) — `skeleton`
 - [bindu](bindu.md) — `skeleton`
 - [binzhu (guest and host)](binzhu.md) — `skeleton`
+- [bka' brgyad](kagye.md) — `skeleton`
+- [bka' brgyud](kagyu.md) — `skeleton`
+- [bka' gdams](kadam.md) — `skeleton`
+- [bla](la.md) — `skeleton`
+- [blo ldog rnam bzhi](lodok-namzhi.md) — `skeleton`
+- [blo sbyong](lojong.md) — `skeleton`
 - [bodhaka kapha](bodhaka-kapha.md) — `skeleton`
 - [bodhi-durlabha](bodhi-durlabha.md) — `skeleton`
 - [bodhicitta](bodhicitta.md) — `skeleton`
@@ -695,6 +740,8 @@ skeleton: 4329 · sourced: 6
 - [bodhisattva-saṃvara](bodhisattva-samvara.md) — `skeleton`
 - [bodhisattvayāna](bodhisattvayana.md) — `skeleton`
 - [bojjhaṅga](bojjhanga.md) — `skeleton`
+- [bon](bon.md) — `skeleton`
+- [bon sku](bonku.md) — `skeleton`
 - [Boṭika](botika.md) — `skeleton`
 - [brahmabhūta](brahmabhuta.md) — `skeleton`
 - [brahmacakra](brahmacakra.md) — `skeleton`
@@ -727,6 +774,8 @@ skeleton: 4329 · sourced: 6
 - [brāhmaṇa](brahmana.md) — `skeleton`
 - [brāhmaṇa (text)](brahmana-text.md) — `skeleton`
 - [brāhmī sthiti](brahmi-sthiti.md) — `skeleton`
+- [bsang](sang.md) — `skeleton`
+- [bsre ba (blending)](sewa.md) — `skeleton`
 - [bubhukṣu / mumukṣu](bubhuksu-mumuksu.md) — `skeleton`
 - [buddha](buddha.md) — `skeleton`
 - [buddha-gocara](buddhagocara.md) — `skeleton`
@@ -747,6 +796,8 @@ skeleton: 4329 · sourced: 6
 - [budha](budha.md) — `skeleton`
 - [budhyamāna](budhyamana.md) — `skeleton`
 - [buli wenzi (not established on words and letters)](buli-wenzi.md) — `skeleton`
+- [byang chog](jangchog.md) — `skeleton`
+- [bying ba](jingwa.md) — `skeleton`
 - [byāpāda](byapada.md) — `skeleton`
 - [bādha](badha.md) — `skeleton`
 - [bādha](badha-mimamsa.md) — `skeleton`
@@ -792,8 +843,11 @@ skeleton: 4329 · sourced: 6
 - [caru](caru.md) — `skeleton`
 - [carvaṇā](carvana.md) — `skeleton`
 - [caryā](carya.md) — `skeleton`
+- [caryātantra](caryatantra.md) — `skeleton`
 - [catputtiramārkkam (satputra-mārga)](satputra-marga.md) — `skeleton`
 - [catukkoṭi (four alternatives)](catukkoti.md) — `skeleton`
+- [caturmudrā](caturmudra.md) — `skeleton`
+- [caturthābhiṣeka](caturthabhiseka.md) — `skeleton`
 - [caturvidha saṅgha](caturvidha-sangha.md) — `skeleton`
 - [caturviṃśatistava](caturvimsatistava.md) — `skeleton`
 - [catuḥśaraṇa](catuhsarana.md) — `skeleton`
@@ -805,11 +859,13 @@ skeleton: 4329 · sourced: 6
 - [caukā](cauka.md) — `skeleton`
 - [caurāsī (caurāsī lākh yoni)](caurasi.md) — `skeleton`
 - [caṇḍikā](candika.md) — `skeleton`
+- [caṇḍālī](candali.md) — `skeleton`
 - [caṉmārkkam (san-mārga)](san-marga.md) — `skeleton`
 - [caṭāri / śaṭhāri](satari.md) — `skeleton`
 - [cemporuḷ / meypporuḷ](cemporul.md) — `skeleton`
 - [centūram](centuram.md) — `skeleton`
 - [cetana](cetana.md) — `skeleton`
+- [cetas](cetas.md) — `skeleton`
 - [cetasika](cetasika.md) — `skeleton`
 - [cetovimutti](cetovimutti.md) — `skeleton`
 - [chala](chala.md) — `skeleton`
@@ -821,6 +877,7 @@ skeleton: 4329 · sourced: 6
 - [chedasūtra](chedasutra.md) — `skeleton`
 - [chedopasthāpanā](chedopasthapana.md) — `skeleton`
 - [chedāvasthā](chedavastha.md) — `skeleton`
+- [chengming](chengming.md) — `skeleton`
 - [Chinnamastā](chinnamasta.md) — `skeleton`
 - [chit wang (Thai)](chit-wang.md) — `skeleton` _(recent)_
 - [chāyāgraha](chaya-graha.md) — `skeleton`
@@ -844,7 +901,9 @@ skeleton: 4329 · sourced: 6
 - [citta-śuddhi](citta-suddhi.md) — `skeleton`
 - [cittamātra](cittamatra.md) — `skeleton`
 - [cittasaṅkhāra](cittasankhara.md) — `skeleton`
+- [cittatā](cittata.md) — `skeleton`
 - [cittaviprayukta-saṃskāra](cittaviprayukta-samskara.md) — `skeleton`
+- [cittaviveka / cittanidhyapti](cittaviveka.md) — `skeleton`
 - [cittiddhipāda](cittiddhipada.md) — `skeleton`
 - [cittotpāda](cittotpada.md) — `skeleton`
 - [cittākāśa](cittakasa.md) — `skeleton`
@@ -852,6 +911,7 @@ skeleton: 4329 · sourced: 6
 - [citśakti](cit-sakti.md) — `skeleton`
 - [civam](civam.md) — `skeleton`
 - [codanā](codana.md) — `skeleton`
+- [cog bzhag](chokzhag.md) — `skeleton`
 - [cummā iruttal](cumma-iruttal.md) — `skeleton`
 - [cuti-citta](cuti-citta.md) — `skeleton`
 - [cutti](cutti.md) — `skeleton`
@@ -878,6 +938,8 @@ skeleton: 4329 · sourced: 6
 - [cūraṇam](curanam.md) — `skeleton`
 - [cūrṇi](curni.md) — `skeleton`
 - [cūḷasotāpanna (cullasotāpanna)](culasotapanna.md) — `skeleton`
+- [dag mnyam chen po](dagnyam-chenpo.md) — `skeleton`
+- [dag snang](dagnang.md) — `skeleton`
 - [dagdha-bīja](dagdha-bija.md) — `skeleton`
 - [dahara](dahara.md) — `skeleton`
 - [daiva](daiva.md) — `skeleton`
@@ -891,8 +953,10 @@ skeleton: 4329 · sourced: 6
 - [dakṣiṇāgni](daksinagni.md) — `skeleton`
 - [dakṣiṇāmnāya](daksinamnaya.md) — `skeleton`
 - [dakṣiṇāyana](daksinayana.md) — `skeleton`
+- [dal 'byor](daljor.md) — `skeleton`
 - [dam](dam.md) — `skeleton`
 - [dama](dama.md) — `skeleton`
+- [daochang](daochang.md) — `skeleton`
 - [dardurī / dārdurī](dardura.md) — `skeleton`
 - [darśan / mudrā (Nāth earrings)](darsan-mudra.md) — `skeleton`
 - [darśana](darsana.md) — `skeleton`
@@ -931,11 +995,15 @@ skeleton: 4329 · sourced: 6
 - [devadūṣya](devadusya.md) — `skeleton`
 - [devanityatva](devanityatva.md) — `skeleton`
 - [devatā](devata.md) — `skeleton`
+- [devatāyoga](devatayoga.md) — `skeleton`
 - [devayāna](devayana.md) — `skeleton`
 - [devī](devi.md) — `skeleton`
 - [deśa](desa.md) — `skeleton`
 - [deśavirata (saṃyatāsaṃyata)](desavirata.md) — `skeleton`
 - [deśāvakāśika](desavakasika.md) — `skeleton`
+- [dgag bya](gakja.md) — `skeleton`
+- [dge bshes](geshe.md) — `skeleton`
+- [dgongs gter](gongter.md) — `skeleton`
 - [dhamma](dhamma.md) — `skeleton`
 - [dhamma (Abhidhamma sense)](dhamma-abhidhamma.md) — `skeleton`
 - [dhammacakkhu](dhammacakkhu.md) — `skeleton`
@@ -961,10 +1029,13 @@ skeleton: 4329 · sourced: 6
 - [dharmabhūta-jñāna](dharmabhuta-jnana.md) — `skeleton`
 - [dharmacakra](dharmacakra.md) — `skeleton`
 - [dharmadhātu](dharmadhatu.md) — `skeleton`
+- [dharmadhātujñāna](dharmadhatujnana.md) — `skeleton`
 - [dharmajñāna](dharmajnana.md) — `skeleton`
 - [dharmakāya](dharmakaya.md) — `skeleton`
 - [dharmamegha](dharmamegha.md) — `skeleton`
+- [dharmamudrā](dharmamudra.md) — `skeleton`
 - [dharman](dharman.md) — `skeleton`
+- [dharmapāla](dharmapala.md) — `skeleton`
 - [dharmatā](dharmata.md) — `skeleton`
 - [dharmin](dharmin.md) — `skeleton`
 - [dharmānusārin](dharmanusarin.md) — `skeleton`
@@ -997,6 +1068,7 @@ skeleton: 4329 · sourced: 6
 - [dik](dik.md) — `skeleton`
 - [dinacaryā](dinacarya.md) — `skeleton`
 - [dinghui dengchi (balanced samādhi and prajñā)](dinghui-dengchi.md) — `skeleton`
+- [dingshan](dingshan.md) — `skeleton`
 - [disācara](disacara.md) — `skeleton`
 - [divya cakṣus](divya-caksus.md) — `skeleton`
 - [divya-deśa](divya-desa.md) — `skeleton`
@@ -1011,11 +1083,15 @@ skeleton: 4329 · sourced: 6
 - [diṭṭhi](ditthi.md) — `skeleton`
 - [diṭṭhijāla](ditthijala.md) — `skeleton`
 - [diṭṭhippatta](ditthippatta.md) — `skeleton`
+- [dka' gnas brgyad](kane-gye.md) — `skeleton`
+- [dkar po chig thub (the self-sufficient white remedy)](karpo-chiktub.md) — `skeleton`
+- [dohā](doha.md) — `skeleton`
 - [dokusan / sanzen (private interview)](dokusan-sanzen.md) — `skeleton`
 - [dono jeomsu (sudden awakening, gradual cultivation)](dunwu-jianxiu.md) — `skeleton`
 - [doṣa](dosa.md) — `skeleton`
 - [doṣa (poetic fault)](kavya-dosa.md) — `skeleton`
 - [doṣa-bhogya](dosa-bhogya.md) — `skeleton`
+- [dpyad sgom](chegom.md) — `skeleton`
 - [dravatva](dravatva.md) — `skeleton`
 - [Draviḍopaniṣad (Dramiḍopaniṣad)](dramidopanisad.md) — `skeleton`
 - [dravya](dravya.md) — `skeleton`
@@ -1079,6 +1155,7 @@ skeleton: 4329 · sourced: 6
 - [ekadaṇḍin](ekadandin.md) — `skeleton`
 - [ekaggatā](ekaggata.md) — `skeleton`
 - [Ekajaṭā](ekajata.md) — `skeleton`
+- [ekarasa](ekarasa.md) — `skeleton`
 - [ekatattva-abhyāsa](ekatattva-abhyasa.md) — `skeleton`
 - [ekatva](ekatva.md) — `skeleton`
 - [ekatva-vitarka-avīcāra](ekatva-vitarka-avicara.md) — `skeleton`
@@ -1101,15 +1178,22 @@ skeleton: 4329 · sourced: 6
 - [ekāntin](ekantin.md) — `skeleton`
 - [ekātma-vāda](ekatmavada.md) — `skeleton`
 - [enas](enas.md) — `skeleton`
+- [erzhong shenxin](erzhong-shenxin.md) — `skeleton`
 - [evambhūta](evambhuta.md) — `skeleton`
+- [evaṃ](evam.md) — `skeleton`
 - [eṇkuṇam](enkunam.md) — `skeleton`
 - [eṇvakait tērvu](envagai-tervu.md) — `skeleton`
 - [eṣaṇā](esana.md) — `skeleton`
+- [fanfu](fanfu.md) — `skeleton`
+- [fangzhang / hōjō (abbot's quarters)](fangzhang.md) — `skeleton`
 - [fannao ji puti (afflictions are bodhi)](fannao-ji-puti.md) — `skeleton`
 - [fanzhao / huiguang fanzhao (turning the light around)](fanzhao.md) — `skeleton`
+- [fatang (Dharma hall)](fatang.md) — `skeleton`
 - [feixin feifo (neither mind nor buddha)](feixin-feifo.md) — `skeleton`
 - [foxing (buddha-nature)](foxing.md) — `skeleton`
+- [fusan](fusan.md) — `skeleton`
 - [fushō (the Unborn)](fusho.md) — `skeleton`
+- [g.yung drung](yungdrung.md) — `skeleton`
 - [gaccha](gaccha.md) — `skeleton`
 - [gagan maṇḍal](gagana-mandala.md) — `skeleton`
 - [gajakaraṇī](gajakarani.md) — `skeleton`
@@ -1130,13 +1214,16 @@ skeleton: 4329 · sourced: 6
 - [gauṇa-rasa](gauna-rasa.md) — `skeleton`
 - [gauṇī bhakti](gauni-bhakti.md) — `skeleton`
 - [gaṇa (prosody)](gana-prosody.md) — `skeleton`
+- [gaṇacakra](ganacakra.md) — `skeleton`
 - [gaṇadhara](ganadhara.md) — `skeleton`
 - [gaṇaka](ganaka.md) — `skeleton`
 - [gaṇācariya](ganacariya.md) — `skeleton`
 - [gaṇācāra](ganacara.md) — `skeleton`
 - [gaṇḍānta](gandanta.md) — `skeleton`
 - [genjōkōan (the realized kōan)](genjokoan.md) — `skeleton`
+- [gensō ekō](genso-eko.md) — `skeleton`
 - [ghanapāṭha](ghanapatha.md) — `skeleton`
+- [ghaṇṭā](ghanta.md) — `skeleton`
 - [ghaṭ](ghat.md) — `skeleton`
 - [ghaṭa](ghata.md) — `skeleton`
 - [ghaṭaka-śruti](ghataka-sruti.md) — `skeleton`
@@ -1146,9 +1233,12 @@ skeleton: 4329 · sourced: 6
 - [ghātiyā karma](ghatiya-karma.md) — `skeleton`
 - [ghṛṇā](ghrna.md) — `skeleton`
 - [Giridhar](giridhara.md) — `skeleton`
+- [gnyis med rgyud](gnyis-med-rgyud.md) — `skeleton`
+- [gnyug ma (the innate, genuine)](nyugma.md) — `skeleton`
 - [gocara (transit)](gocara-jyotisa.md) — `skeleton`
 - [gocarī](gocari.md) — `skeleton`
 - [gogo no shugyō (practice after awakening)](gogo-no-shugyo.md) — `skeleton`
+- [gol sa (strayings)](golsa.md) — `skeleton`
 - [Goloka (Vraja, Vṛndāvana)](goloka.md) — `skeleton`
 - [gomāṃsa](gomamsa.md) — `skeleton`
 - [gong'an / kōan (public case)](gongan.md) — `skeleton`
@@ -1159,6 +1249,7 @@ skeleton: 4329 · sourced: 6
 - [gopī](gopi.md) — `skeleton`
 - [gopīcandana](gopicandana.md) — `skeleton`
 - [gorakh-dhandhā](gorakh-dhandha.md) — `skeleton`
+- [goshō no ichidaiji](gosho-no-ichidaiji.md) — `skeleton`
 - [gotra](gotra.md) — `skeleton`
 - [gotra-karma](gotra-karma.md) — `skeleton`
 - [gotrabhū](gotrabhu.md) — `skeleton`
@@ -1169,13 +1260,23 @@ skeleton: 4329 · sourced: 6
 - [graiveyaka](graiveyaka.md) — `skeleton`
 - [granthi](granthi.md) — `skeleton`
 - [granthi-bheda](granthi-bheda.md) — `skeleton`
+- [grol lam (path of liberation)](drollam.md) — `skeleton`
+- [grong 'jug (entering another's body)](trongjuk.md) — `skeleton`
 - [grāha-dvaya](grahadvaya.md) — `skeleton`
 - [grāhya](grahya.md) — `skeleton`
 - [grāhya-grāhaka](grahya-grahaka.md) — `skeleton`
 - [grāma](grama.md) — `skeleton`
 - [grāmageya](gramageya.md) — `skeleton`
+- [gsal stong zung 'jug](salstong-zungjug.md) — `skeleton`
+- [gshen](shen.md) — `skeleton`
+- [gter ma](terma.md) — `skeleton`
+- [gter srung](tersung.md) — `skeleton`
+- [gter ston](terton.md) — `skeleton`
+- [gtong len](tonglen.md) — `skeleton`
+- [gtor ma](torma.md) — `skeleton`
 - [guhya](guhya.md) — `skeleton`
 - [Guhyakālī](guhyakali.md) — `skeleton`
+- [guhyābhiṣeka](guhyabhiseka.md) — `skeleton`
 - [guhā](guha.md) — `skeleton`
 - [gulika (māndi)](gulika.md) — `skeleton`
 - [gupta](gupta.md) — `skeleton`
@@ -1190,6 +1291,7 @@ skeleton: 4329 · sourced: 6
 - [gurutattva](guru-tattva.md) — `skeleton`
 - [gurutva](gurutva.md) — `skeleton`
 - [gurūpasatti](gurupasatti.md) — `skeleton`
+- [Gutoku](gutoku.md) — `skeleton`
 - [guṇa](guna.md) — `skeleton`
 - [guṇa (poetic quality)](kavya-guna.md) — `skeleton`
 - [guṇa-pāramitā](guna-paramita.md) — `skeleton`
@@ -1198,6 +1300,10 @@ skeleton: 4329 · sourced: 6
 - [guṇasthāna](gunasthana.md) — `skeleton`
 - [guṇavāda](gunavada.md) — `skeleton`
 - [guṇātīta](gunatita.md) — `skeleton`
+- [gzhan stong](shentong.md) — `skeleton`
+- [gzhi](zhi.md) — `skeleton`
+- [gzhi snang](zhinang.md) — `skeleton`
+- [gzhon nu bum sku](shonnu-bumku.md) — `skeleton`
 - [gāna](gana.md) — `skeleton`
 - [gārhapatya](garhapatya.md) — `skeleton`
 - [gāruḍa-tantra](garuda-tantra.md) — `skeleton`
@@ -1208,6 +1314,7 @@ skeleton: 4329 · sourced: 6
 - [gṛhastha](grhastha.md) — `skeleton`
 - [hadaya-vatthu](hadaya-vatthu.md) — `skeleton`
 - [haeo and jeungo (understanding-awakening and realization-awakening)](jiewu-zhengwu.md) — `skeleton`
+- [hakarai](hakarai.md) — `skeleton`
 - [Hari](hari.md) — `skeleton`
 - [Hari-sarvottama (sarvottamatva)](hari-sarvottama.md) — `skeleton`
 - [harināma saptāh](harinama-saptaha.md) — `skeleton`
@@ -1219,14 +1326,17 @@ skeleton: 4329 · sourced: 6
 - [haṃsa (renouncer)](hamsa-renouncer.md) — `skeleton`
 - [haṭha](hatha.md) — `skeleton`
 - [he / katsu (the shout)](he-shout.md) — `skeleton`
+- [heruka](heruka.md) — `skeleton`
 - [hetu](hetu.md) — `skeleton`
 - [hetuvidyā](hetuvidya.md) — `skeleton`
 - [hetvābhāsa](hetvabhasa.md) — `skeleton`
 - [heya](heya.md) — `skeleton`
 - [heya-hetu](heya-hetu.md) — `skeleton`
+- [hijiri](hijiri.md) — `skeleton`
 - [hiraṇyagarbha](hiranyagarbha.md) — `skeleton`
 - [hiri](hiri.md) — `skeleton`
 - [hishiryō (non-thinking)](hishiryo.md) — `skeleton`
+- [hisō hizoku](hiso-hizoku.md) — `skeleton`
 - [hita](hita-radhavallabha.md) — `skeleton`
 - [hitā (nāḍī)](hita.md) — `skeleton`
 - [hiṃsā](himsa.md) — `skeleton`
@@ -1234,14 +1344,20 @@ skeleton: 4329 · sourced: 6
 - [hiṅkāra](hinkara.md) — `skeleton`
 - [hlādinī](hladini.md) — `skeleton`
 - [holākā](holaka.md) — `skeleton`
+- [homa](homa.md) — `skeleton`
+- [hongyuan](hongyuan.md) — `skeleton`
 - [horā](hora.md) — `skeleton`
 - [hotṛ](hotr.md) — `skeleton`
+- [huasheng](huasheng.md) — `skeleton`
 - [huatou / hwadu (critical phrase)](huatou.md) — `skeleton`
+- [huatu](huatu.md) — `skeleton`
 - [huihu (interfusion)](huihu.md) — `skeleton`
+- [huixiang fayuan xin](huixiang-fayuan-xin.md) — `skeleton`
 - [hādi-vidyā](hadi-vidya.md) — `skeleton`
 - [hāna](hana.md) — `skeleton`
 - [hānopāya](hanopaya.md) — `skeleton`
 - [hīnayāna](hinayana.md) — `skeleton`
+- [hōon](hoon.md) — `skeleton`
 - [hṛd](hrd.md) — `skeleton`
 - [hṛdaya](hrdaya.md) — `skeleton`
 - [hṛdaya-bīja](hrdaya-bija.md) — `skeleton`
@@ -1251,6 +1367,7 @@ skeleton: 4329 · sourced: 6
 - [icchā](iccha.md) — `skeleton`
 - [icchā-yoga](icchayoga.md) — `skeleton`
 - [icchāśakti](icchasakti.md) — `skeleton`
+- [ichinengi](ichinengi.md) — `skeleton`
 - [idappaccayatā](idappaccayata.md) — `skeleton`
 - [iddhi](iddhi.md) — `skeleton`
 - [iddhipāda](iddhipada.md) — `skeleton`
@@ -1311,7 +1428,11 @@ skeleton: 4329 · sourced: 6
 - [jina](jina.md) — `skeleton`
 - [jina-pratimā](jina-pratima.md) — `skeleton`
 - [jinakalpa](jinakalpa.md) — `skeleton`
+- [jinen hōni](jinen-honi.md) — `skeleton`
+- [jingtu](jingtu.md) — `skeleton`
+- [jingtu men](jingtu-men.md) — `skeleton`
 - [jingxing / kinhin (walking meditation)](kinhin.md) — `skeleton`
+- [jiriki](jiriki.md) — `skeleton`
 - [jisei / yuige (death verse)](jisei.md) — `skeleton`
 - [jixin jifo (this very mind is buddha)](jixin-jifo.md) — `skeleton`
 - [jogī (yogī)](jogi.md) — `skeleton`
@@ -1333,6 +1454,8 @@ skeleton: 4329 · sourced: 6
 - [jñānadarśana](jnanadarsana.md) — `skeleton`
 - [jñānalakṣaṇā (pratyāsatti)](jnanalaksana.md) — `skeleton`
 - [jñānaliṅga](jnanalinga.md) — `skeleton`
+- [jñānamudrā](jnanamudra.md) — `skeleton`
+- [jñānasattva](jnanasattva.md) — `skeleton`
 - [jñānayoga](jnana-yoga.md) — `skeleton`
 - [jñānaśakti](jnanasakti.md) — `skeleton`
 - [jñānin](jnanin.md) — `skeleton`
@@ -1364,15 +1487,19 @@ skeleton: 4329 · sourced: 6
 - [jīvāṃśa](jivamsa.md) — `skeleton`
 - [jīyar](jiyar.md) — `skeleton`
 - [jōriki (samādhi power)](joriki.md) — `skeleton`
+- [ka dag](kadag.md) — `skeleton`
+- [ka ti shel gyi sbu gu can](kati.md) — `skeleton`
 - [kadalī-vana (Strī-rājya)](kadali-vana.md) — `skeleton`
 - [kainkarya (Tamil kaiṅkaryam)](kainkarya.md) — `skeleton`
 - [kaivalya](kaivalya.md) — `skeleton`
 - [kalala](kalala.md) — `skeleton`
 - [kalana](kalana.md) — `skeleton`
 - [kalaśa](kalasa.md) — `skeleton`
+- [kalaśābhiṣeka](kalasabhiseka.md) — `skeleton`
 - [kali-yuga](kali-yuga.md) — `skeleton`
 - [kalisantaraṇa](kalisantarana.md) — `skeleton`
 - [kalivarjya](kalivarjya.md) — `skeleton`
+- [kalkin](kalkin.md) — `skeleton`
 - [kalmaṣa](kalmasa.md) — `skeleton`
 - [kalpa](kalpa.md) — `skeleton`
 - [kalpa](kalpa-vedanga.md) — `skeleton`
@@ -1417,8 +1544,10 @@ skeleton: 4329 · sourced: 6
 - [karaṇa (half-tithi)](karana-jyotisa.md) — `skeleton`
 - [karka (kulīra)](karka-rasi.md) — `skeleton`
 - [karma](karma.md) — `skeleton`
+- [karma pa](karmapa.md) — `skeleton`
 - [karmabandha](karma-bandha.md) — `skeleton`
 - [karmabhūmi](karmabhumi.md) — `skeleton`
+- [karmamudrā](karmamudra.md) — `skeleton`
 - [karmapatha](karmapatha.md) — `skeleton`
 - [karmaphala](karmaphala.md) — `skeleton`
 - [karmaphala-tyāga](karmaphala-tyaga.md) — `skeleton`
@@ -1461,6 +1590,7 @@ skeleton: 4329 · sourced: 6
 - [kaṭṭu](kattu.md) — `skeleton`
 - [kechimyaku (blood lineage chart)](kechimyaku.md) — `skeleton`
 - [kendra](kendra.md) — `skeleton`
+- [kesa / jiasha (robe)](kesa.md) — `skeleton`
 - [ketu](ketu.md) — `skeleton`
 - [kevala](kevala.md) — `skeleton`
 - [kevala kumbhaka](kevala-kumbhaka.md) — `skeleton`
@@ -1475,6 +1605,7 @@ skeleton: 4329 · sourced: 6
 - [kevalānvayin](kevalanvayin.md) — `skeleton`
 - [keśa-loca](kesa-loca.md) — `skeleton`
 - [keśin](kesin.md) — `skeleton`
+- [kha byang](kajang.md) — `skeleton`
 - [khandha](khandha.md) — `skeleton`
 - [khanti](khanti.md) — `skeleton`
 - [khappar](khappar.md) — `skeleton`
@@ -1485,8 +1616,10 @@ skeleton: 4329 · sourced: 6
 - [khila](khila.md) — `skeleton`
 - [khilāphat](khilafat.md) — `skeleton`
 - [khiḍḍāpadosika](khiddapadosika.md) — `skeleton`
+- [khregs chod](trekcho.md) — `skeleton`
 - [khyāpā](khyapa.md) — `skeleton`
 - [khyāti](khyati.md) — `skeleton`
+- [kihō ittai](kiho-ittai.md) — `skeleton`
 - [kilesa](kilesa.md) — `skeleton`
 - [kilāsa](kilasa.md) — `skeleton`
 - [kiriyavāda](kiriyavada.md) — `skeleton`
@@ -1498,6 +1631,7 @@ skeleton: 4329 · sourced: 6
 - [kleśāvaraṇa](klesavarana.md) — `skeleton`
 - [kliṣṭa](klista.md) — `skeleton`
 - [kliṣṭa-manas](klista-manas.md) — `skeleton`
+- [klong sde](longde.md) — `skeleton`
 - [kollāmai](kollamai.md) — `skeleton`
 - [kolopama](kolopama.md) — `skeleton`
 - [kongji lingzhi (empty and calm, numinous awareness)](kongji-lingzhi.md) — `skeleton`
@@ -1514,6 +1648,7 @@ skeleton: 4329 · sourced: 6
 - [kriyā](kriya.md) — `skeleton`
 - [kriyākāla](kriyakala.md) — `skeleton`
 - [kriyāliṅga](kriyalinga.md) — `skeleton`
+- [kriyātantra](kriyatantra.md) — `skeleton`
 - [kriyāyoga](kriya-yoga.md) — `skeleton`
 - [kriyāśakti](kriyasakti.md) — `skeleton`
 - [krodha](krodha.md) — `skeleton`
@@ -1537,6 +1672,9 @@ skeleton: 4329 · sourced: 6
 - [kumbhaka](kumbhaka.md) — `skeleton`
 - [kumārī](kumari.md) — `skeleton`
 - [kumārī-pūjā](kumari-puja.md) — `skeleton`
+- [kun gzhi](kunzhi.md) — `skeleton`
+- [kun gzhi rgyu rgyud](kunzhi-gyu-gyu.md) — `skeleton`
+- [kun tu bzang po](kuntuzangpo.md) — `skeleton`
 - [kurukullā](kurukulla.md) — `skeleton`
 - [kusala](kusala.md) — `skeleton`
 - [kutūhalasālā](kutuhalasala.md) — `skeleton`
@@ -1549,6 +1687,7 @@ skeleton: 4329 · sourced: 6
 - [kuṭinīr](kutinir.md) — `skeleton`
 - [kuṭīcaka](kuticaka.md) — `skeleton`
 - [kuṭīprāveśika](kutipravesika.md) — `skeleton`
+- [kyōsaku / keisaku (encouragement stick)](kyosaku.md) — `skeleton`
 - [kādi-vidyā](kadi-vidya.md) — `skeleton`
 - [kākatālīya](kakataliya.md) — `skeleton`
 - [kākī (mudrā)](kaki.md) — `skeleton`
@@ -1558,6 +1697,7 @@ skeleton: 4329 · sourced: 6
 - [kāla-vañcana](kala-vancana.md) — `skeleton`
 - [kāla-vāda](kala-vada.md) — `skeleton`
 - [kāla-śakti](kala-sakti.md) — `skeleton`
+- [kālacakra](kalacakra.md) — `skeleton`
 - [kālajñāna](kalajnana.md) — `skeleton`
 - [kālakṣepa](kalaksepa.md) — `skeleton`
 - [kālapuruṣa](kalapurusa.md) — `skeleton`
@@ -1610,6 +1750,7 @@ skeleton: 4329 · sourced: 6
 - [kāyakleśa](kayaklesa.md) — `skeleton`
 - [kāyasakkhī](kayasakkhi.md) — `skeleton`
 - [kāyasaṅkhāra](kayasankhara.md) — `skeleton`
+- [kāyaviveka](kayaviveka.md) — `skeleton`
 - [kāyotsarga](kayotsarga.md) — `skeleton`
 - [kāyānupassanā](kayanupassana.md) — `skeleton`
 - [kīlaka](kilaka.md) — `skeleton`
@@ -1632,6 +1773,7 @@ skeleton: 4329 · sourced: 6
 - [kṛttikā](krttika-naksatra.md) — `skeleton`
 - [kṛtyā](krtya.md) — `skeleton`
 - [kṛtyānuṣṭhāna-jñāna](krtyanusthana-jnana.md) — `skeleton`
+- [kṛtyānuṣṭhānajñāna](krtyanusthanajnana.md) — `skeleton`
 - [kṛṣṇa yajurveda](krsna-yajurveda.md) — `skeleton`
 - [kṣamā](ksama.md) — `skeleton`
 - [kṣamāpanā](ksamapana.md) — `skeleton`
@@ -1643,6 +1785,7 @@ skeleton: 4329 · sourced: 6
 - [kṣayajñāna](ksayajnana.md) — `skeleton`
 - [kṣaṇa](ksana.md) — `skeleton`
 - [kṣaṇabhaṅga](ksanabhanga.md) — `skeleton`
+- [kṣaṇasampad](ksanasampad.md) — `skeleton`
 - [kṣaṇikatva](ksanikatva.md) — `skeleton`
 - [kṣetra](ksetra.md) — `skeleton`
 - [kṣetrajña](ksetrajna.md) — `skeleton`
@@ -1665,7 +1808,12 @@ skeleton: 4329 · sourced: 6
 - [lakṣmī (as śakti)](laksmi-sakti.md) — `skeleton`
 - [Lakṣmī (Śrī, Ramā)](laksmi.md) — `skeleton`
 - [lakṣya](laksya.md) — `skeleton`
+- [lalanā](lalana.md) — `skeleton`
 - [lalitā](lalita.md) — `skeleton`
+- [lam 'bras](lamdre.md) — `skeleton`
+- [lam gtso rnam gsum](lamtso-namsum.md) — `skeleton`
+- [lam khyer (carrying onto the path)](lamkhyer.md) — `skeleton`
+- [lam rim](lamrim.md) — `skeleton`
 - [lambikā](lambika.md) — `skeleton`
 - [laukikāgra-dharma](laukikagradharma.md) — `skeleton`
 - [laukāntika](laukantika.md) — `skeleton`
@@ -1675,9 +1823,12 @@ skeleton: 4329 · sourced: 6
 - [layayoga](laya-yoga.md) — `skeleton`
 - [laṅghana](langhana.md) — `skeleton`
 - [leśyā](lesya.md) — `skeleton`
+- [lhan cig skyes sbyor (co-emergent union)](lhenchik-kyejor.md) — `skeleton`
+- [lhun grub](lhundrub.md) — `skeleton`
 - [lingguang (numinous light)](lingguang.md) — `skeleton`
 - [lingyuan (numinous source)](lingyuan.md) — `skeleton`
 - [linian (transcending thought)](linian.md) — `skeleton`
+- [linzhong zhengnian](linzhong-zhengnian.md) — `skeleton`
 - [liru and xingru (entry by principle, entry by practice)](liru-xingru.md) — `skeleton`
 - [liṅga](linga.md) — `skeleton`
 - [liṅga](linga-mimamsa.md) — `skeleton`
@@ -1715,6 +1866,12 @@ skeleton: 4329 · sourced: 6
 - [lēkiyam](lekiyam.md) — `skeleton`
 - [līlā](lila.md) — `skeleton`
 - [līlā-vibhūti](lila-vibhuti.md) — `skeleton`
+- [ma bcos](mabcho.md) — `skeleton`
+- [ma bu](mabu.md) — `skeleton`
+- [ma rgyud](ma-rgyud.md) — `skeleton`
+- [ma rig pa](marigpa.md) — `skeleton`
+- [ma yengs pa (non-distraction)](yengme.md) — `skeleton`
+- [ma yin dgag](mayingak.md) — `skeleton`
 - [mada](mada.md) — `skeleton`
 - [madaśakti](madasakti.md) — `skeleton`
 - [madbhāva](madbhava.md) — `skeleton`
@@ -1764,8 +1921,12 @@ skeleton: 4329 · sourced: 6
 - [Mahāpuruṣa](mahapurusa.md) — `skeleton`
 - [mahāpurāṇa](mahapurana.md) — `skeleton`
 - [mahāpātaka](mahapataka.md) — `skeleton`
+- [mahārāga](maharaga.md) — `skeleton`
 - [mahāsattva](mahasattva.md) — `skeleton`
 - [mahāsaṃnāha](mahasamnaha.md) — `skeleton`
+- [mahāsiddha](mahasiddha.md) — `skeleton`
+- [mahāsukha](mahasukha.md) — `skeleton`
+- [mahāsukhakāya](mahasukhakaya.md) — `skeleton`
 - [mahātman](mahatman.md) — `skeleton`
 - [mahātyāgī](mahatyagi.md) — `skeleton`
 - [mahāvedha](mahavedha.md) — `skeleton`
@@ -1779,6 +1940,8 @@ skeleton: 4329 · sourced: 6
 - [mahāyajña](mahayajna.md) — `skeleton`
 - [mahāyoga](mahayoga.md) — `skeleton`
 - [mahāyoga](mahayoga-saiva.md) — `skeleton`
+- [mahāyoga (Nyingma)](mahayoga-nyingma.md) — `skeleton`
+- [mahāyogatantra](mahayogatantra.md) — `skeleton`
 - [mahāyuga (caturyuga)](mahayuga.md) — `skeleton`
 - [mahāyāga](mahayaga.md) — `skeleton`
 - [mahāyāna](mahayana.md) — `skeleton`
@@ -1792,6 +1955,7 @@ skeleton: 4329 · sourced: 6
 - [malaparipāka](malaparipaka.md) — `skeleton`
 - [mamakāra](mamakara.md) — `skeleton`
 - [mamatā](mamata.md) — `skeleton`
+- [man ngag sde](mengagde.md) — `skeleton`
 - [manana](manana.md) — `skeleton`
 - [manas](manas.md) — `skeleton`
 - [manasikāra](manasikara.md) — `skeleton`
@@ -1818,6 +1982,7 @@ skeleton: 4329 · sourced: 6
 - [mantra-siddhi](mantra-siddhi.md) — `skeleton`
 - [mantramaheśvara](mantramahesvara.md) — `skeleton`
 - [mantramārga](mantramarga.md) — `skeleton`
+- [mantranaya](mantranaya.md) — `skeleton`
 - [mantrapīṭha](mantrapitha.md) — `skeleton`
 - [mantravīrya](mantravirya.md) — `skeleton`
 - [mantrayoga](mantra-yoga.md) — `skeleton`
@@ -1843,6 +2008,7 @@ skeleton: 4329 · sourced: 6
 - [mauna](mauna.md) — `skeleton`
 - [mauneya](mauneya.md) — `skeleton`
 - [mañjarī-bhāva](manjari-bhava.md) — `skeleton`
+- [mañjuvajra](manjuvajra.md) — `skeleton`
 - [maññanā](mannana.md) — `skeleton`
 - [maṅgala (kuja, bhauma, aṅgāraka)](mangala.md) — `skeleton`
 - [maṅgaḷāśāsana](mangalasasana.md) — `skeleton`
@@ -1856,6 +2022,7 @@ skeleton: 4329 · sourced: 6
 - [maṇṭana](mantana.md) — `skeleton`
 - [maṭal](matal.md) — `skeleton`
 - [maṭha / maṭhikā](matha.md) — `skeleton`
+- [med dgag](medgak.md) — `skeleton`
 - [medas](medas.md) — `skeleton`
 - [medhya rasāyana](medhya-rasayana.md) — `skeleton`
 - [medhā](medha.md) — `skeleton`
@@ -1866,7 +2033,9 @@ skeleton: 4329 · sourced: 6
 - [meyyuṇartal](meyyunartal.md) — `skeleton`
 - [meḻuku](meluku.md) — `skeleton`
 - [meṣa](mesa-rasi.md) — `skeleton`
+- [mgur (vajra song)](gur.md) — `skeleton`
 - [micchāmi dukkaḍaṃ](micchami-dukkadam.md) — `skeleton`
+- [minghao](minghao.md) — `skeleton`
 - [mithuna](mithuna.md) — `skeleton`
 - [mithuna](mithuna-rasi.md) — `skeleton`
 - [mithyā](mithya.md) — `skeleton`
@@ -1878,6 +2047,8 @@ skeleton: 4329 · sourced: 6
 - [mitrā dṛṣṭi](mitra-drsti.md) — `skeleton`
 - [mitāhāra](mitahara.md) — `skeleton`
 - [miśra-sattva](misra-sattva.md) — `skeleton`
+- [mkha' 'gro brda yig](dayig.md) — `skeleton`
+- [mofa](mofa.md) — `skeleton`
 - [moha](moha.md) — `skeleton`
 - [mohanīya](mohaniya.md) — `skeleton`
 - [mokṣa](moksa.md) — `skeleton`
@@ -1885,7 +2056,9 @@ skeleton: 4329 · sourced: 6
 - [mokṣabhāgīya](moksabhagiya.md) — `skeleton`
 - [mokṣadharma](moksadharma.md) — `skeleton`
 - [mokṣadvārapāla](moksa-dvarapala.md) — `skeleton`
+- [mos gus (devotion)](mogu.md) — `skeleton`
 - [mozhao (silent illumination)](mozhao.md) — `skeleton`
+- [mtshams (retreat)](tsam.md) — `skeleton`
 - [muditā](mudita.md) — `skeleton`
 - [mudrikāṣaṭka](mudrikasatka.md) — `skeleton`
 - [mudrā](mudra.md) — `skeleton`
@@ -1904,8 +2077,10 @@ skeleton: 4329 · sourced: 6
 - [munthā](muntha.md) — `skeleton`
 - [muppu](muppu.md) — `skeleton`
 - [murśid](mursid.md) — `skeleton`
+- [mushi dokugo (awakening without a teacher)](mushi-dokugo.md) — `skeleton`
 - [mutal āḻvārkaḷ](mutal-alvar.md) — `skeleton`
 - [muṇḍa-mālā](munda-mala.md) — `skeleton`
+- [myōkōnin](myokonin.md) — `skeleton`
 - [Mā](ma.md) — `skeleton`
 - [mādhukarī](madhukari.md) — `skeleton`
 - [mādhyamika](madhyamika.md) — `skeleton`
@@ -1947,6 +2122,7 @@ skeleton: 4329 · sourced: 6
 - [māyopama](mayopama.md) — `skeleton`
 - [māyā](maya.md) — `skeleton`
 - [māyā](maya-kasaya.md) — `skeleton`
+- [māyādeha](mayadeha.md) — `skeleton`
 - [māyāvāda](mayavada.md) — `skeleton`
 - [māyīya mala](mayiya-mala.md) — `skeleton`
 - [Māyōṉ / Māyaṉ](mayon.md) — `skeleton`
@@ -1971,6 +2147,7 @@ skeleton: 4329 · sourced: 6
 - [mūlikārtha](mulikartha.md) — `skeleton`
 - [mūlādhāra](muladhara.md) — `skeleton`
 - [mūlāgama](mulagama.md) — `skeleton`
+- [mūlāpatti](mulapatti.md) — `skeleton`
 - [mūlāvidyā](mula-avidya.md) — `skeleton`
 - [mūrcchā](murccha.md) — `skeleton`
 - [mūrchanā](murchana.md) — `skeleton`
@@ -2000,7 +2177,9 @@ skeleton: 4329 · sourced: 6
 - [namaka](namaka.md) — `skeleton`
 - [namaskāra](namaskara.md) — `skeleton`
 - [namaskāra-mantra](namaskara-mantra.md) — `skeleton`
+- [Namu Amida Butsu](namu-amida-butsu.md) — `skeleton`
 - [nandī](nandi.md) — `skeleton`
+- [nanxing](nanxing.md) — `skeleton`
 - [Nappiṉṉai](nappinnai.md) — `skeleton`
 - [Nara-Nārāyaṇa](nara-narayana.md) — `skeleton`
 - [naraka](naraka.md) — `skeleton`
@@ -2030,7 +2209,11 @@ skeleton: 4329 · sourced: 6
 - [neykkuṟi](neykkuri.md) — `skeleton`
 - [neyārtha](neyartha.md) — `skeleton`
 - [neñcu](nencu.md) — `skeleton`
+- [nges 'byung](ngejung.md) — `skeleton`
+- [ngo bo](ngowo.md) — `skeleton`
+- [ngo sprod](ngotro.md) — `skeleton`
 - [nianfo](nianfo.md) — `skeleton`
+- [nianfo sanmei](nianfo-sanmei.md) — `skeleton`
 - [nibbidā](nibbida.md) — `skeleton`
 - [nibbāna](nibbana.md) — `skeleton`
 - [nibbānadhātu](nibbana-dhatu.md) — `skeleton`
@@ -2046,6 +2229,7 @@ skeleton: 4329 · sourced: 6
 - [nigrahasthāna](nigrahasthana.md) — `skeleton`
 - [nigurā](nigura.md) — `skeleton`
 - [nihnava](nihnava.md) — `skeleton`
+- [nija](nija.md) — `skeleton`
 - [nijā śakti](nija-sakti.md) — `skeleton`
 - [nikanti](nikanti.md) — `skeleton`
 - [nikuñja](nikunja.md) — `skeleton`
@@ -2057,6 +2241,7 @@ skeleton: 4329 · sourced: 6
 - [nimitta (omen)](nimitta-jyotisa.md) — `skeleton`
 - [nimitta / upādāna](nimitta-upadana.md) — `skeleton`
 - [nimitta-kāraṇa](nimitta-karana.md) — `skeleton`
+- [nimitta-mātra](nimitta-matra.md) — `skeleton`
 - [nimittakāraṇa](nimittakarana.md) — `skeleton`
 - [nindā](ninda.md) — `skeleton`
 - [nipakh](nipakh.md) — `skeleton`
@@ -2141,11 +2326,13 @@ skeleton: 4329 · sourced: 6
 - [niṣkāma](niskama.md) — `skeleton`
 - [niṣkāma-karma](niskama-karma.md) — `skeleton`
 - [niṣpatti](nispatti.md) — `skeleton`
+- [niṣprapañca](nisprapanca.md) — `skeleton`
 - [niṣṭhā](nistha.md) — `skeleton`
 - [niṣṭhā](nittai.md) — `skeleton`
 - [niṣṭhā-mārga](nistha-marga.md) — `skeleton`
 - [niṣṭhāvasthā](nisthavastha.md) — `skeleton`
 - [nokaṣāya](nokasaya.md) — `skeleton`
+- [nyams](nyam.md) — `skeleton`
 - [nyāsa](nyasa.md) — `skeleton`
 - [nyāsa (surrender)](nyasa-surrender.md) — `skeleton`
 - [nyāya](nyaya.md) — `skeleton`
@@ -2193,6 +2380,7 @@ skeleton: 4329 · sourced: 6
 - [nṛtta](nrtta.md) — `skeleton`
 - [nṛtya](nrtya.md) — `skeleton`
 - [obhāsa](obhasa.md) — `skeleton`
+- [odori nenbutsu](odori-nenbutsu.md) — `skeleton`
 - [ogha](ogha.md) — `skeleton`
 - [ogha-dṛṣṭi](ogha-drsti.md) — `skeleton`
 - [ojas](ojas.md) — `skeleton`
@@ -2203,6 +2391,7 @@ skeleton: 4329 · sourced: 6
 - [Oḍḍiyāna](oddiyana.md) — `skeleton`
 - [oṃ](om.md) — `skeleton`
 - [oṃ tat sat](om-tat-sat.md) — `skeleton`
+- [oṃ āḥ hūṃ](om-ah-hum.md) — `skeleton`
 - [oṃkāra](omkara.md) — `skeleton`
 - [pabbajjā](pabbajja.md) — `skeleton`
 - [pabhassara citta](pabhassara-citta.md) — `skeleton`
@@ -2245,6 +2434,7 @@ skeleton: 4329 · sourced: 6
 - [paracā (paracai)](paraca.md) — `skeleton`
 - [paradharma](paradharma.md) — `skeleton`
 - [parajñāna](parajnana.md) — `skeleton`
+- [parakāyapraveśa](parakayapravesa.md) — `skeleton`
 - [parakīyā](parakiya.md) — `skeleton`
 - [parakṛti](parakrti.md) — `skeleton`
 - [paraloka](paraloka.md) — `skeleton`
@@ -2351,6 +2541,7 @@ skeleton: 4329 · sourced: 6
 - [pavitrārohaṇa](pavitrarohana.md) — `skeleton`
 - [pañca-bheda](pancabheda.md) — `skeleton`
 - [pañca-dhāraṇā](panca-dharana.md) — `skeleton`
+- [pañca-kaṣāya](panca-kasaya.md) — `skeleton`
 - [pañca-kṛṣṇa](pancakrsna.md) — `skeleton`
 - [pañca-mahābhūta-vāda](pancamahabhutavada.md) — `skeleton`
 - [pañca-tattva](panca-tattva.md) — `skeleton`
@@ -2359,11 +2550,13 @@ skeleton: 4329 · sourced: 6
 - [pañcacakṣus](pancacaksu.md) — `skeleton`
 - [pañcadaśī](pancadasi.md) — `skeleton`
 - [pañcadharma](pancadharma.md) — `skeleton`
+- [pañcajñāna](pancajnana.md) — `skeleton`
 - [pañcaka (dhaniṣṭhā-pañcaka)](dhanistha-pancaka.md) — `skeleton`
 - [pañcakalā](pancakala-saiva.md) — `skeleton`
 - [pañcakarma](pancakarma.md) — `skeleton`
 - [pañcakaṣāya](pancakasaya.md) — `skeleton`
 - [pañcakośa](pancakosa.md) — `skeleton`
+- [pañcakula](pancakula.md) — `skeleton`
 - [pañcakāla](pancakala.md) — `skeleton`
 - [pañcakṛtya](pancakrtya.md) — `skeleton`
 - [pañcalakṣaṇa](pancalaksana.md) — `skeleton`
@@ -2415,6 +2608,7 @@ skeleton: 4329 · sourced: 6
 - [paṭisandhi](patisandhi.md) — `skeleton`
 - [paṭṭhāna-naya](patthana-naya.md) — `skeleton`
 - [Perumāḷ / Emperumāṉ](perumal.md) — `skeleton`
+- [pha rgyud](pha-rgyud.md) — `skeleton`
 - [phakir (fakir)](fakir.md) — `skeleton`
 - [phala](phala.md) — `skeleton`
 - [phala-rūpatva](phala-rupata.md) — `skeleton`
@@ -2440,6 +2634,7 @@ skeleton: 4329 · sourced: 6
 - [poṣadha](posadha.md) — `skeleton`
 - [prabhā dṛṣṭi](prabha-drsti.md) — `skeleton`
 - [prabhākarī](prabhakari.md) — `skeleton`
+- [prabhāsvara](prabhasvara.md) — `skeleton`
 - [prabhāsvara-citta](prabhasvara-citta.md) — `skeleton`
 - [prabhāva](prabhava.md) — `skeleton`
 - [pradeśa](pradesa.md) — `skeleton`
@@ -2451,6 +2646,7 @@ skeleton: 4329 · sourced: 6
 - [prajñapti](prajnapti.md) — `skeleton`
 - [prajñaptisat](prajnaptisat.md) — `skeleton`
 - [prajñājyotis](prajnajyotis.md) — `skeleton`
+- [prajñājñānābhiṣeka](prajnajnanabhiseka.md) — `skeleton`
 - [prajñāna](prajnana.md) — `skeleton`
 - [prajñānaghana / vijñānaghana](prajnanaghana.md) — `skeleton`
 - [prajñānaṃ brahma](prajnanam-brahma.md) — `skeleton`
@@ -2526,6 +2722,7 @@ skeleton: 4329 · sourced: 6
 - [pratyakṣābhāsa](pratyaksabhasa.md) — `skeleton`
 - [pratyavamarśa](pratyavamarsa.md) — `skeleton`
 - [pratyavekṣaṇā-jñāna](pratyaveksana-jnana.md) — `skeleton`
+- [pratyavekṣaṇājñāna](pratyaveksanajnana.md) — `skeleton`
 - [pratyavāya](pratyavaya.md) — `skeleton`
 - [pratyaya](pratyaya.md) — `skeleton`
 - [pratyaya-sarga](pratyaya-sarga.md) — `skeleton`
@@ -2631,6 +2828,7 @@ skeleton: 4329 · sourced: 6
 - [putraka](putraka.md) — `skeleton`
 - [puñña](punna.md) — `skeleton`
 - [puṇya](punya.md) — `skeleton`
+- [puṇḍarīka](pundarika.md) — `skeleton`
 - [puṟam](puram.md) — `skeleton`
 - [puṣya](pusya-naksatra.md) — `skeleton`
 - [puṣṭi](pusti.md) — `skeleton`
@@ -2652,6 +2850,7 @@ skeleton: 4329 · sourced: 6
 - [pārada](parada.md) — `skeleton`
 - [pārakh](parakh.md) — `skeleton`
 - [pāramitā](paramita.md) — `skeleton`
+- [pāramitānaya](paramitanaya.md) — `skeleton`
 - [pāramārthika](paramarthika.md) — `skeleton`
 - [pāramī](parami.md) — `skeleton`
 - [pāratantrya](paratantrya.md) — `skeleton`
@@ -2707,6 +2906,7 @@ skeleton: 4329 · sourced: 6
 - [rahasya](rahasya.md) — `skeleton`
 - [rahasya-traya](rahasya-traya.md) — `skeleton`
 - [rahoyāga](rahoyaga.md) — `skeleton`
+- [raigō](raigo.md) — `skeleton`
 - [rajas](rajas.md) — `skeleton`
 - [rajas (in haṭha)](rajas-hatha.md) — `skeleton`
 - [rajju-sarpa](rajju-sarpa.md) — `skeleton`
@@ -2716,12 +2916,19 @@ skeleton: 4329 · sourced: 6
 - [rakti](rakti.md) — `skeleton`
 - [rakṣas](raksas.md) — `skeleton`
 - [ramainī](ramaini.md) — `skeleton`
+- [rang byung ye shes](rangjung-yeshe.md) — `skeleton`
+- [rang bzhin](rangzhin.md) — `skeleton`
+- [rang bzhin rdzogs pa chen po](rangzhin-dzogpachenpo.md) — `skeleton`
+- [rang grol](rangdrol.md) — `skeleton`
+- [rang stong](rangtong.md) — `skeleton`
+- [ras pa (cotton-clad)](repa.md) — `skeleton`
 - [rasa](rasa.md) — `skeleton`
 - [rasa (dhātu)](rasa-dhatu.md) — `skeleton`
 - [rasa (mercury)](rasa-mercury.md) — `skeleton`
 - [rasa-parityāga](rasa-parityaga.md) — `skeleton`
 - [rasa-vighna](rasa-vighna.md) — `skeleton`
 - [rasaliṅga](rasalinga.md) — `skeleton`
+- [rasanā](rasana.md) — `skeleton`
 - [rasasiddha](rasasiddha.md) — `skeleton`
 - [rasaśālā](rasasala.md) — `skeleton`
 - [rasaśāstra](rasasastra.md) — `skeleton`
@@ -2738,13 +2945,27 @@ skeleton: 4329 · sourced: 6
 - [Raudrī Gāyatrī](raudri-gayatri.md) — `skeleton`
 - [rayi](rayi.md) — `skeleton`
 - [rañjaka pitta](ranjaka-pitta.md) — `skeleton`
+- [rdzogs chen](dzogchen.md) — `skeleton`
+- [re dogs (hope and fear)](re-dok.md) — `skeleton`
 - [recaka](recaka.md) — `skeleton`
 - [retas](retas.md) — `skeleton`
 - [revatī](revati-naksatra.md) — `skeleton`
+- [rig pa](rigpa.md) — `skeleton`
+- [rig pa'i rtsal dbang](rigpai-tsalwang.md) — `skeleton`
+- [rinjū gyōgi](rinju-gyogi.md) — `skeleton`
 - [riṅgaṇ](ringan.md) — `skeleton`
+- [rnam thar (liberation-story)](namthar.md) — `skeleton`
+- [ro snyoms (equal taste)](ronyom.md) — `skeleton`
 - [rodasī](rodasi.md) — `skeleton`
 - [rohita](rohita.md) — `skeleton`
 - [rohiṇī](rohini-naksatra.md) — `skeleton`
+- [rol pa](rolpa.md) — `skeleton`
+- [rten 'brel (auspicious connection)](tendrel.md) — `skeleton`
+- [rtogs pa (realization)](tokpa.md) — `skeleton`
+- [rtsa ba gsum](tsawa-sum.md) — `skeleton`
+- [rtsa ba'i bla ma (root guru)](tsawe-lama.md) — `skeleton`
+- [rtsa rlung (channels and winds)](tsalung.md) — `skeleton`
+- [rtsal](tsal.md) — `skeleton`
 - [ruci](ruci.md) — `skeleton`
 - [rudra](rudra.md) — `skeleton`
 - [rudrabheda](rudrabheda.md) — `skeleton`
@@ -2778,6 +2999,7 @@ skeleton: 4329 · sourced: 6
 - [rāśi-dṛṣṭi](rasi-drsti.md) — `skeleton`
 - [rāśi-puruṣa](rasi-purusa.md) — `skeleton`
 - [rīti](riti.md) — `skeleton`
+- [rōshi (old teacher)](roshi.md) — `skeleton`
 - [rūpa](rupa.md) — `skeleton`
 - [rūpadhātu](rupadhatu.md) — `skeleton`
 - [rūpakāya](rupakaya.md) — `skeleton`
@@ -2785,6 +3007,7 @@ skeleton: 4329 · sourced: 6
 - [rūpastha](rupastha.md) — `skeleton`
 - [rūpātīta](rupatita.md) — `skeleton`
 - [rūpāvacara](rupavacara.md) — `skeleton`
+- [sa gter](sater.md) — `skeleton`
 - [sabadī](sabadi.md) — `skeleton`
 - [sabba](sabba.md) — `skeleton`
 - [sabbam atthi](sabbam-atthi.md) — `skeleton`
@@ -2802,6 +3025,7 @@ skeleton: 4329 · sourced: 6
 - [sadasat](sadasat.md) — `skeleton`
 - [sadasatkhyāti](sadasatkhyati.md) — `skeleton`
 - [saddharma](saddharma.md) — `skeleton`
+- [saddharma-pratikṣepa](saddharma-pratiksepa.md) — `skeleton`
 - [saddharma-vipralopa](saddharma-vipralopa.md) — `skeleton`
 - [saddhindriya](saddhindriya.md) — `skeleton`
 - [saddhā](saddha.md) — `skeleton`
@@ -2821,6 +3045,7 @@ skeleton: 4329 · sourced: 6
 - [sahaja mānuṣa (sahaj mānuṣ)](sahaja-manusa.md) — `skeleton`
 - [sahaja samādhi (sahaj samādhi)](sahaja-samadhi.md) — `skeleton`
 - [sahajolī](sahajoli.md) — `skeleton`
+- [sahajānanda](sahajananda.md) — `skeleton`
 - [sahakāri-kāraṇa](sahakari-karana.md) — `skeleton`
 - [sahama](sahama.md) — `skeleton`
 - [Sahasdal Kanwal (sahasradala-kamala)](sahasdal-kanwal.md) — `skeleton` _(recent)_
@@ -2828,6 +3053,7 @@ skeleton: 4329 · sourced: 6
 - [sahita (kumbhaka)](sahita-kumbhaka.md) — `skeleton`
 - [sahopalambha-niyama](sahopalambhaniyama.md) — `skeleton`
 - [sahṛdaya](sahrdaya.md) — `skeleton`
+- [sajip (the four collections)](sajip.md) — `skeleton`
 - [sakadāgāmī](sakadagami.md) — `skeleton`
 - [sakala](sakala.md) — `skeleton`
 - [sakala-avasthā](sakala-avastha.md) — `skeleton`
@@ -2853,11 +3079,14 @@ skeleton: 4329 · sourced: 6
 - [samatva](samatva.md) — `skeleton`
 - [samatā](samata.md) — `skeleton`
 - [samatā-jñāna](samata-jnana.md) — `skeleton`
+- [samatājñāna](samatajnana.md) — `skeleton`
 - [samavasaraṇa](samavasarana.md) — `skeleton`
 - [samavāya](samavaya.md) — `skeleton`
 - [samavāyikāraṇa](samavayikarana.md) — `skeleton`
 - [samaya](samaya.md) — `skeleton`
 - [samaya-dīkṣā](samaya-diksa.md) — `skeleton`
+- [samayamudrā](samayamudra.md) — `skeleton`
+- [samayasattva](samayasattva.md) — `skeleton`
 - [samayin](samayin.md) — `skeleton`
 - [samayā (samatā)](samaya-equanimity.md) — `skeleton`
 - [samayācāra](samayacara.md) — `skeleton`
@@ -2881,6 +3110,7 @@ skeleton: 4329 · sourced: 6
 - [sammāājīva](samma-ajiva.md) — `skeleton`
 - [sammūrchana](sammurchana.md) — `skeleton`
 - [sampajañña](sampajanna.md) — `skeleton`
+- [sampannakrama](sampannakrama.md) — `skeleton`
 - [sampradāya](sampradaya.md) — `skeleton`
 - [samprajñāta](samprajnata.md) — `skeleton`
 - [sampratti / saṃpradāna](sampratti.md) — `skeleton`
@@ -2913,8 +3143,12 @@ skeleton: 4329 · sourced: 6
 - [sandhinī](sandhini.md) — `skeleton`
 - [sandhyā](sandhya.md) — `skeleton`
 - [sandhyā-bhāṣā (sandhā-bhāṣā)](sandhya-bhasa.md) — `skeleton`
+- [sandhyābhāṣā](sandhyabhasa.md) — `skeleton`
+- [sanfu](sanfu.md) — `skeleton`
+- [sangan tennyū](sangan-tennyu.md) — `skeleton`
 - [sannikarṣa](sannikarsa.md) — `skeleton`
 - [sannipatyopakāraka](sannipatyopakaraka.md) — `skeleton`
+- [sanshan](sanshan.md) — `skeleton`
 - [sanshen (three bodies) in Chan](sanshen-chan.md) — `skeleton`
 - [sant](sant.md) — `skeleton`
 - [sant](santa.md) — `skeleton`
@@ -2922,6 +3156,7 @@ skeleton: 4329 · sourced: 6
 - [santhārā](santhara.md) — `skeleton`
 - [santuṭṭhi](santutthi.md) — `skeleton`
 - [santāna](santana.md) — `skeleton`
+- [sanxin](sanxin.md) — `skeleton`
 - [sanxuan sanyao (three mysteries, three essentials)](sanxuan-sanyao.md) — `skeleton`
 - [sanxue (three trainings)](sanxue.md) — `skeleton`
 - [sanzhong shenlou (three leaks)](sanzhong-shenlou.md) — `skeleton`
@@ -2942,9 +3177,12 @@ skeleton: 4329 · sourced: 6
 - [sarvajña](sarvajna.md) — `skeleton`
 - [sarvajñatva](sarvajnatva.md) — `skeleton`
 - [Sarvamūla](sarvamula.md) — `skeleton`
+- [sarvatraga](sarvatraga.md) — `skeleton`
 - [sarvatraga caitasika](sarvatraga-caitasika.md) — `skeleton`
+- [sarvaśūnya](sarvasunya.md) — `skeleton`
 - [Sarveśvarī](sarvesvari.md) — `skeleton`
 - [sarvodaya](sarvodaya.md) — `skeleton`
+- [sarvārambha-parityāgin](sarvarambha-parityagin.md) — `skeleton`
 - [sarvāstivāda](sarvastivada.md) — `skeleton`
 - [sarvātmatā](sarvatmata.md) — `skeleton`
 - [sassatavāda](sassatavada.md) — `skeleton`
@@ -3068,17 +3306,34 @@ skeleton: 4329 · sourced: 6
 - [sekha](sekha.md) — `skeleton`
 - [sekishu (one hand)](sekishu.md) — `skeleton`
 - [selī (nād-janeū)](seli.md) — `skeleton`
+- [sems](sem.md) — `skeleton`
+- [sems 'dzin](semdzin.md) — `skeleton`
+- [sems nyid (mind-as-such)](semnyi.md) — `skeleton`
+- [sems sde](semde.md) — `skeleton`
+- [senchaku](senchaku.md) — `skeleton`
+- [senju nenbutsu](senju-nenbutsu.md) — `skeleton`
 - [sesshin (intensive retreat)](sesshin.md) — `skeleton`
 - [sevopayogi-deha](sevopayogi-deha.md) — `skeleton`
 - [sevā](seva.md) — `skeleton`
+- [sgom med (non-meditation)](gomme.md) — `skeleton`
+- [sgron ma](dronma.md) — `skeleton`
+- [sgrub chen](drubchen.md) — `skeleton`
 - [shan zhishi (good friend, spiritual teacher)](shanzhishi.md) — `skeleton`
+- [shar grol](shardrol.md) — `skeleton`
 - [sharen dao, huoren jian (the sword that kills, the sword that gives life)](sharendao-huorenjian.md) — `skeleton`
+- [shen xin](shenxin.md) — `skeleton`
+- [shengdao men](shengdao-men.md) — `skeleton`
 - [shengsi shida (birth and death is the great matter)](shengsi-shida.md) — `skeleton`
+- [shequ bu she](shequ-bu-she.md) — `skeleton`
 - [shikantaza (just sitting)](shikantaza.md) — `skeleton`
+- [shinian](shinian.md) — `skeleton`
+- [shinjin](shinjin.md) — `skeleton`
 - [shinjin datsuraku (body and mind dropping off)](shinjin-datsuraku.md) — `skeleton`
 - [shisho (document of succession)](shisho.md) — `skeleton`
+- [shor sa (deviations)](shorsa.md) — `skeleton`
 - [shouxin (guarding the mind)](shouxin.md) — `skeleton`
 - [shouyi (guarding the one)](shouyi.md) — `skeleton`
+- [shukugō](shukugo.md) — `skeleton`
 - [shushō ittō (oneness of practice and realization)](shusho-itto.md) — `skeleton`
 - [si liaojian (four classifications)](siliaojian.md) — `skeleton`
 - [siddha](siddha.md) — `skeleton`
@@ -3095,17 +3350,26 @@ skeleton: 4329 · sourced: 6
 - [siddhānta (gaṇita-skandha)](siddhanta-jyotisa.md) — `skeleton`
 - [siddhāntācāra](siddhantacara.md) — `skeleton`
 - [sikkhā](sikkha.md) — `skeleton`
+- [sixiu](sixiu.md) — `skeleton`
 - [siṃha](simha-rasi.md) — `skeleton`
 - [siṅgī / nād](singi-nad.md) — `skeleton`
 - [siṣādhayiṣā](sisadhayisa.md) — `skeleton`
 - [skambha](skambha.md) — `skeleton`
 - [skandha](skandha.md) — `skeleton`
+- [skyes bu gsum](kyebu-sum.md) — `skeleton`
+- [sman sgrub](mendrub.md) — `skeleton`
 - [smaraṇa](smarana.md) — `skeleton`
 - [smṛti](smrti.md) — `skeleton`
 - [smṛti-pramoṣa](smrti-pramosa.md) — `skeleton`
 - [smṛtyupasthāna](smrtyupasthana.md) — `skeleton`
+- [snang ba bzhi](nangwa-zhi.md) — `skeleton`
+- [snang gsum](nang-sum.md) — `skeleton`
 - [sneha](sneha.md) — `skeleton`
 - [snehana](snehana.md) — `skeleton`
+- [sngags pa](ngakpa.md) — `skeleton`
+- [sngon 'gro](ngondro.md) — `skeleton`
+- [snyan brgyud (whispered / hearing lineage)](nyengyu.md) — `skeleton`
+- [snying thig](nyingthig.md) — `skeleton`
 - [so'ham](so-ham.md) — `skeleton`
 - [so'ham](soham.md) — `skeleton`
 - [sobhana](sobhana.md) — `skeleton`
@@ -3120,6 +3384,8 @@ skeleton: 4329 · sourced: 6
 - [sparśa-dīkṣā](sparsa-diksa.md) — `skeleton`
 - [sphoṭa](sphota.md) — `skeleton`
 - [sphūrti](sphurti.md) — `skeleton`
+- [spros bral](tropdral.md) — `skeleton`
+- [sprul sku](tulku.md) — `skeleton`
 - [srota-āpanna](srotaapanna.md) — `skeleton`
 - [srotas](srotas.md) — `skeleton`
 - [sthala](sthala.md) — `skeleton`
@@ -3141,6 +3407,7 @@ skeleton: 4329 · sourced: 6
 - [sthāvaraliṅga](sthavara-linga.md) — `skeleton`
 - [sthāyibhāva](sthayibhava.md) — `skeleton`
 - [sthūla-śarīra](sthula-sarira.md) — `skeleton`
+- [sthūlāpatti](sthulapatti.md) — `skeleton`
 - [stobha](stobha.md) — `skeleton`
 - [strī-nirvāṇa (strī-mukti)](strinirvana.md) — `skeleton`
 - [stuti](stuti.md) — `skeleton`
@@ -3160,6 +3427,7 @@ skeleton: 4329 · sourced: 6
 - [sukṛtām loka](sukrtam-loka.md) — `skeleton`
 - [sulīna](sulina.md) — `skeleton`
 - [surati (surat)](surati.md) — `skeleton`
+- [sutete koso](sutete-koso.md) — `skeleton`
 - [suttaguḷa](suttagula.md) — `skeleton`
 - [suvāsinī](suvasini.md) — `skeleton`
 - [suñña](sunna.md) — `skeleton`
@@ -3226,6 +3494,7 @@ skeleton: 4329 · sourced: 6
 - [syāt](syat.md) — `skeleton`
 - [sādhaka](sadhaka.md) — `skeleton`
 - [sādhaka pitta](sadhaka-pitta.md) — `skeleton`
+- [sādhana](sadhana.md) — `skeleton`
 - [sādhana-bhakti](sadhana-bhakti.md) — `skeleton`
 - [sādhana-catuṣṭaya](sadhana-catustaya.md) — `skeleton`
 - [sādhana-saptaka](sadhana-saptaka.md) — `skeleton`
@@ -3311,14 +3580,17 @@ skeleton: 4329 · sourced: 6
 - [taijasa-śarīra](taijasa-sarira.md) — `skeleton`
 - [tailam](tailam.md) — `skeleton`
 - [taimirika](taimirika.md) — `skeleton`
+- [taisheng](taisheng.md) — `skeleton`
 - [tajjīva-taccharīra](tajjiva-taccharira.md) — `skeleton`
 - [takkī](takki.md) — `skeleton`
 - [takman](takman.md) — `skeleton`
 - [tamas](tamas.md) — `skeleton`
 - [tamo-yogya](tamo-yogya.md) — `skeleton`
 - [tanden (cinnabar field, lower abdomen)](tanden.md) — `skeleton`
+- [tanengi](tanengi.md) — `skeleton`
 - [tanmayatā](tanmayata.md) — `skeleton`
 - [tanmātra](tanmatra.md) — `skeleton`
+- [tanomu](tanomu.md) — `skeleton`
 - [tantra](tantra.md) — `skeleton`
 - [tantra](tantra-mimamsa.md) — `skeleton`
 - [tantrayukti](tantrayukti.md) — `skeleton`
@@ -3328,6 +3600,7 @@ skeleton: 4329 · sourced: 6
 - [tanumānasā](tanumanasa.md) — `skeleton`
 - [tanumānasī](tanumanasi.md) — `skeleton`
 - [tapas](tapas.md) — `skeleton`
+- [tariki](tariki.md) — `skeleton`
 - [tarka](tarka.md) — `skeleton`
 - [tarpaka kapha](tarpaka-kapha.md) — `skeleton`
 - [tarpaṇa](tarpana.md) — `skeleton`
@@ -3363,8 +3636,16 @@ skeleton: 4329 · sourced: 6
 - [tejoleśyā](tejolesya.md) — `skeleton`
 - [Terāpantha](terapantha.md) — `skeleton`
 - [tevijjā](tevijja.md) — `skeleton`
+- [tha mal gyi shes pa (ordinary mind)](thamal-gyi-shepa.md) — `skeleton`
+- [tha mal shes pa](tha-mal-shes-pa.md) — `skeleton`
+- [thabs lam (path of method)](thablam.md) — `skeleton`
 - [the five ranks (wuwei)](wuwei-junchen.md) — `skeleton`
+- [theg pa rim pa dgu](tekpa-rimgu.md) — `skeleton`
+- [thod rgal](togal.md) — `skeleton`
 - [three essentials of practice (great faith, great doubt, great determination)](three-essentials.md) — `skeleton`
+- [thugs dam](thukdam.md) — `skeleton`
+- [thugs dam (post-death meditative absorption)](tukdam.md) — `skeleton`
+- [thugs rje](tukje.md) — `skeleton`
 - [thīnamiddha](thina-middha.md) — `skeleton`
 - [ti and yong (substance and function)](ti-yong.md) — `skeleton`
 - [tikta](tikta.md) — `skeleton`
@@ -3408,6 +3689,7 @@ skeleton: 4329 · sourced: 6
 - [tripuṭī](triputi.md) — `skeleton`
 - [tripādvibhūti](tripadvibhuti.md) — `skeleton`
 - [trisūtra](trisutra.md) — `skeleton`
+- [trivajra (kāyavākcitta)](trivajra.md) — `skeleton`
 - [trivarga](trivarga.md) — `skeleton`
 - [triveṇī](triveni.md) — `skeleton`
 - [trividha śīla](trividha-sila.md) — `skeleton`
@@ -3418,6 +3700,9 @@ skeleton: 4329 · sourced: 6
 - [tryambaka](tryambaka.md) — `skeleton`
 - [tryaṇuka / trasareṇu](tryanuka.md) — `skeleton`
 - [trāṭaka](trataka.md) — `skeleton`
+- [tshad ma bzhi](tsema-zhi.md) — `skeleton`
+- [tshogs 'khor](tsok.md) — `skeleton`
+- [tsitta](tsitta.md) — `skeleton`
 - [tudong (dhutaṅga)](tudong.md) — `skeleton` _(recent)_
 - [tulā](tula-rasi.md) — `skeleton`
 - [tulāpuruṣa](tulapurusa.md) — `skeleton`
@@ -3491,9 +3776,11 @@ skeleton: 4329 · sourced: 6
 - [unmanī](unmani.md) — `skeleton`
 - [unmanībhāva](unmanibhava.md) — `skeleton`
 - [unmatta](unmatta.md) — `skeleton`
+- [unmattavrata](unmattavrata.md) — `skeleton`
 - [unmeṣa](unmesa.md) — `skeleton`
 - [unmāda](unmada.md) — `skeleton`
 - [unmīlana / nimīlana samādhi](unmilana-nimilana.md) — `skeleton`
+- [unsui (cloud and water, trainee monk)](unsui.md) — `skeleton`
 - [upacaya](upacaya.md) — `skeleton`
 - [upacāra](upacara.md) — `skeleton`
 - [upacāra-samādhi](upacara-samadhi.md) — `skeleton`
@@ -3549,8 +3836,10 @@ skeleton: 4329 · sourced: 6
 - [urukutal](urukutal.md) — `skeleton`
 - [usmā](usma.md) — `skeleton`
 - [utkrānti](utkranti.md) — `skeleton`
+- [utpannakrama / niṣpannakrama](utpannakrama.md) — `skeleton`
 - [utpatti-niḥsvabhāvatā](utpatti-nihsvabhavata.md) — `skeleton`
 - [utpatti-vidhi](utpatti-vidhi.md) — `skeleton`
+- [utpattikrama](utpattikrama.md) — `skeleton`
 - [utpāda-vyaya-dhrauvya](utpada-vyaya-dhrauvya.md) — `skeleton`
 - [utpāta](utpata.md) — `skeleton`
 - [utsarpiṇī](utsarpini.md) — `skeleton`
@@ -3593,10 +3882,17 @@ skeleton: 4329 · sourced: 6
 - [vaiṣṇava jana](vaisnava-jana.md) — `skeleton`
 - [vaiṣṇavācāra](vaisnavacara.md) — `skeleton`
 - [vaiṣṇavī (mudrā)](vaisnavi.md) — `skeleton`
+- [vajra](vajra.md) — `skeleton`
+- [vajradhara](vajradhara.md) — `skeleton`
+- [vajrajāpa](vajrajapa.md) — `skeleton`
+- [vajranaraka](vajra-hell.md) — `skeleton`
+- [vajrasattva](vajrasattva.md) — `skeleton`
+- [vajrayāna](vajrayana.md) — `skeleton`
 - [vajrolī](vajroli.md) — `skeleton`
 - [vajropama-samādhi](vajropama-samadhi.md) — `skeleton`
 - [vajropama-samādhi](vajropamasamadhi.md) — `skeleton`
 - [vajrā / vajriṇī](vajrini.md) — `skeleton`
+- [vajrācārya](vajracarya.md) — `skeleton`
 - [vajrīkaraṇa](vajrikarana.md) — `skeleton`
 - [vakra](vakra.md) — `skeleton`
 - [vakrokti](vakrokti.md) — `skeleton`
@@ -3657,6 +3953,7 @@ skeleton: 4329 · sourced: 6
 - [vidyā](vidya.md) — `skeleton`
 - [vidyā (female mantra)](vidya-mantra.md) — `skeleton`
 - [vidyā (kañcuka)](vidya-kancuka.md) — `skeleton`
+- [vidyādhara](vidyadhara.md) — `skeleton`
 - [vidyāpīṭha](vidyapitha.md) — `skeleton`
 - [vidyāvrata](vidyavrata.md) — `skeleton`
 - [vidṛti](vidrti.md) — `skeleton`
@@ -3773,6 +4070,7 @@ skeleton: 4329 · sourced: 6
 - [viṣṭi (bhadrā)](visti.md) — `skeleton`
 - [Viṭṭhala](vitthala.md) — `skeleton`
 - [vrata](vrata.md) — `skeleton`
+- [vratacaryā](vratacarya.md) — `skeleton`
 - [vrātya](vratya.md) — `skeleton`
 - [vyabhicāribhāva (sañcāribhāva)](vyabhicari-bhava.md) — `skeleton`
 - [vyakta](vyakta.md) — `skeleton`
@@ -3814,6 +4112,7 @@ skeleton: 4329 · sourced: 6
 - [vāgbhava-kūṭa](vagbhava-kuta.md) — `skeleton`
 - [vāgdevatā](vagdevata.md) — `skeleton`
 - [vāgrūpatā](vagrupata.md) — `skeleton`
+- [vāgviveka](vagviveka.md) — `skeleton`
 - [vājīkaraṇa](vajikarana.md) — `skeleton`
 - [vākya](vakya.md) — `skeleton`
 - [vākyabheda](vakyabheda.md) — `skeleton`
@@ -3867,19 +4166,26 @@ skeleton: 4329 · sourced: 6
 - [vṛścika](vrscika-rasi.md) — `skeleton`
 - [vṛṣabha](vrsabha-rasi.md) — `skeleton`
 - [vṛṣotsarga](vrsotsarga.md) — `skeleton`
+- [wangsheng](wangsheng.md) — `skeleton`
 - [weixin jingtu (mind-only Pure Land)](weixin-jingtu.md) — `skeleton`
 - [wu / mu (no)](wu-mu.md) — `skeleton`
 - [wu / satori (awakening)](wu-satori.md) — `skeleton`
+- [wu nianmen](wu-nianmen.md) — `skeleton`
+- [wu zhengxing](wu-zhengxing.md) — `skeleton`
 - [wuji kong (indeterminate emptiness)](wuji-kong.md) — `skeleton`
 - [wunian (no-thought)](wunian.md) — `skeleton`
 - [wuqing shuofa (the insentient preach the Dharma)](wuqing-shuofa.md) — `skeleton`
+- [wusheng zhi sheng](wusheng-zhi-sheng.md) — `skeleton`
 - [wushi (nothing to do)](wushi.md) — `skeleton`
 - [wuwei zhenren (true person of no rank)](wuwei-zhenren.md) — `skeleton`
 - [wuxiang (no-form)](wuxiang.md) — `skeleton`
 - [wuxin (no-mind)](wuxin.md) — `skeleton`
 - [wuyi daoren (person of the Way who depends on nothing)](wuyi-daoren.md) — `skeleton`
 - [wuzhu (non-abiding)](wuzhu.md) — `skeleton`
+- [xiangfa](xiangfa.md) — `skeleton`
+- [xieman jie](xieman-jie.md) — `skeleton`
 - [xin (mind)](xin.md) — `skeleton`
+- [xin yuan xing](xinyuanxing.md) — `skeleton`
 - [xingxing jiji (alert and calm)](xingxing-jiji.md) — `skeleton`
 - [xiqi (habit energies)](xiqi.md) — `skeleton`
 - [yadṛcchā](yadrccha.md) — `skeleton`
@@ -3893,6 +4199,8 @@ skeleton: 4329 · sourced: 6
 - [yama](yama.md) — `skeleton`
 - [yamadūta](yamaduta.md) — `skeleton`
 - [Yamarāja](yamaraja.md) — `skeleton`
+- [yang gter](yangter.md) — `skeleton`
+- [yaomen](yaomen.md) — `skeleton`
 - [yathākhyāta](yathakhyata.md) — `skeleton`
 - [yathālabdha](yathalabdha.md) — `skeleton`
 - [yathāpravṛtta-karaṇa](yathapravrtta-karana.md) — `skeleton`
@@ -3902,12 +4210,18 @@ skeleton: 4329 · sourced: 6
 - [yavana](yavana.md) — `skeleton`
 - [yañña](yanna.md) — `skeleton`
 - [yevāpanaka](yevapanaka.md) — `skeleton`
+- [yi dam](yidam.md) — `skeleton`
+- [yi faju](yi-faju.md) — `skeleton`
 - [yi xin chuan xin (transmission from mind to mind)](yixin-chuanxin.md) — `skeleton`
 - [ying wu suo zhu er sheng qi xin (produce a mind that abides nowhere)](yingwusuozhu.md) — `skeleton`
+- [yinian](yinian.md) — `skeleton`
 - [yiqing (feeling of doubt)](yiqing.md) — `skeleton`
 - [yituan (mass of doubt)](yituan.md) — `skeleton`
 - [yixin (the one mind)](yixin.md) — `skeleton`
+- [yixin buluan](yixin-buluan.md) — `skeleton`
+- [yixing](yixing.md) — `skeleton`
 - [yixing sanmei (one-practice samādhi)](yixing-sanmei.md) — `skeleton`
+- [yizhi men](yizhi-men.md) — `skeleton`
 - [yoga](yoga.md) — `skeleton`
 - [yoga](yoga-pali.md) — `skeleton`
 - [yoga (in jyotiṣa)](yoga-jyotisa.md) — `skeleton`
@@ -3921,12 +4235,16 @@ skeleton: 4329 · sourced: 6
 - [yogakṣema](yogaksema.md) — `skeleton`
 - [yogamāyā](yogamaya.md) — `skeleton`
 - [yoganidrā](yoganidra.md) — `skeleton`
+- [yogatantra](yogatantra.md) — `skeleton`
+- [yogeśvara](yogesvara.md) — `skeleton`
 - [yogi-pratyakṣa](yogipratyaksa.md) — `skeleton`
 - [yogin](yogin.md) — `skeleton`
 - [yoginī](yogini.md) — `skeleton`
 - [yoginī-melaka (melāpaka)](yogini-melaka.md) — `skeleton`
 - [yoginībhū](yoginibhu.md) — `skeleton`
 - [yoginīkaula](yogini-kaula.md) — `skeleton`
+- [yoginītantra](yoginitantra.md) — `skeleton`
+- [yogottaratantra](yogottaratantra.md) — `skeleton`
 - [yogyatā](yogyata.md) — `skeleton`
 - [yogārūḍha](yogarudha.md) — `skeleton`
 - [yoni](yoni.md) — `skeleton`
@@ -3937,6 +4255,7 @@ skeleton: 4329 · sourced: 6
 - [yuanxiang (circle-figure)](yuanxiang.md) — `skeleton`
 - [yuga](yuga.md) — `skeleton`
 - [yugala](yugala.md) — `skeleton`
+- [yuganaddha](yuganaddha.md) — `skeleton`
 - [yukta](yukta.md) — `skeleton`
 - [yukta-vairāgya](yukta-vairagya.md) — `skeleton`
 - [yukti](yukti.md) — `skeleton`
@@ -3951,17 +4270,33 @@ skeleton: 4329 · sourced: 6
 - [yāvad-bhāvikatā](yavadbhavikata.md) — `skeleton`
 - [yōgāṅga](yoganga.md) — `skeleton`
 - [yūpa](yupa.md) — `skeleton`
+- [yūzū nenbutsu](yuzu-nenbutsu.md) — `skeleton`
+- [zang thal](zangtal.md) — `skeleton`
+- [zaxing](zaxing.md) — `skeleton`
 - [zenbyō (Zen sickness)](zenbyo.md) — `skeleton`
+- [zendō / sengtang (meditation hall)](zendo.md) — `skeleton`
 - [zhao and yong (illumination and function)](zhao-yong.md) — `skeleton`
+- [zhen log (revulsion)](zhenlog.md) — `skeleton`
+- [zhen pa bzhi bral](zhenpa-zhidral.md) — `skeleton`
 - [zheng and pian (the real and the apparent)](zheng-pian.md) — `skeleton`
+- [zhengding ju](zhengding-ju.md) — `skeleton`
+- [zhengding ye](zhengding-ye.md) — `skeleton`
+- [zhengfa](zhengfa.md) — `skeleton`
 - [zhengfayanzang (treasury of the true Dharma eye)](zhengfayanzang.md) — `skeleton`
 - [zhenxin (true mind)](zhenxin.md) — `skeleton`
 - [zhenzheng jianjie (true insight)](zhenzheng-jianjie.md) — `skeleton`
+- [zhicheng xin](zhichengxin.md) — `skeleton`
+- [zhig pa](zhigpa.md) — `skeleton`
 - [zhijie (intellectual understanding)](zhijie.md) — `skeleton`
 - [zhizhi renxin (pointing directly at the human mind)](zhizhi-renxin.md) — `skeleton`
+- [zhuanxiu](zhuanxiu.md) — `skeleton`
 - [zhuanyu / tengo (turning word)](zhuanyu.md) — `skeleton`
+- [zhunian](zhunian.md) — `skeleton`
+- [zhuye](zhuye.md) — `skeleton`
 - [zixing (self-nature, own nature)](zixing.md) — `skeleton`
+- [zixing Mituo](zixing-mituo.md) — `skeleton`
 - [zixing zidu (saving oneself by the self-nature)](zixing-zidu.md) — `skeleton`
+- [zongmen / chanmen (the lineage gate)](chanmen.md) — `skeleton`
 - [zuochan (seated meditation, zazen)](zuochan.md) — `skeleton`
 - [ñāṇa](nana.md) — `skeleton`
 - [ñāṇadassana](nanadassana.md) — `skeleton`
@@ -3978,11 +4313,13 @@ skeleton: 4329 · sourced: 6
 - [ācārya-niṣṭhā](acarya-nistha.md) — `skeleton`
 - [ācāryābhiṣeka](acaryabhiseka.md) — `skeleton`
 - [ādarśa-jñāna](adarsa-jnana.md) — `skeleton`
+- [ādarśajñāna](adarsajnana.md) — `skeleton`
 - [ādeś](adesa.md) — `skeleton`
 - [ādhibhautika](adhibhautika.md) — `skeleton`
 - [ādhidaivika](adhidaivika.md) — `skeleton`
 - [ādhyātmika](adhyatmika.md) — `skeleton`
 - [ādhāra](adhara.md) — `skeleton`
+- [ādibuddha](adibuddha.md) — `skeleton`
 - [āditya](aditya.md) — `skeleton`
 - [ādividvān](adividvan.md) — `skeleton`
 - [Ādiśaiva](adisaiva.md) — `skeleton`
@@ -4025,6 +4362,7 @@ skeleton: 4329 · sourced: 6
 - [ālocaka pitta](alocaka-pitta.md) — `skeleton`
 - [ālocana](alocana.md) — `skeleton`
 - [ālocanā](alocana-jain.md) — `skeleton`
+- [āloka](aloka.md) — `skeleton`
 - [āma](ama.md) — `skeleton`
 - [āmnāya](amnaya.md) — `skeleton`
 - [āmnāya-maṭha](amnaya-matha.md) — `skeleton`
@@ -4146,6 +4484,8 @@ skeleton: 4329 · sourced: 6
 - [īśvara-tattva](isvara-tattva.md) — `skeleton`
 - [īśvarārpaṇa](isvararpana.md) — `skeleton`
 - [īśāna](isana.md) — `skeleton`
+- [ōchō](ocho.md) — `skeleton`
+- [ōsō ekō](oso-eko.md) — `skeleton`
 - [ōtuvār](otuvar.md) — `skeleton`
 - [śabda](sabda.md) — `skeleton`
 - [śabda](sabda-jain.md) — `skeleton`
@@ -4176,6 +4516,7 @@ skeleton: 4329 · sourced: 6
 - [śalākāpuruṣa](salakapurusa.md) — `skeleton`
 - [śama](sama.md) — `skeleton`
 - [śamatha-vipaśyanā](samatha-vipasyana.md) — `skeleton`
+- [śambhala](sambhala.md) — `skeleton`
 - [śani (manda, sauri)](sani.md) — `skeleton`
 - [śaraṇa](sarana.md) — `skeleton`
 - [śaraṇagamana](saranagamana.md) — `skeleton`
@@ -4290,6 +4631,7 @@ skeleton: 4329 · sourced: 6
 - [śūnya-siṃhāsana](sunya-simhasana.md) — `skeleton`
 - [śūnyatā](sunyata.md) — `skeleton`
 - [śūnyatā-śūnyatā](sunyata-sunyata.md) — `skeleton`
+- [śūnyatābimba](sunyatabimba.md) — `skeleton`
 - [śūnyavāda](sunyavada.md) — `skeleton`
 - [śūnyāgāra](sunyagara.md) — `skeleton`
 - [śūraṅgama-samādhi](surangama-samadhi.md) — `skeleton`
@@ -4304,6 +4646,7 @@ skeleton: 4329 · sourced: 6
 - [ūrṇā](urna.md) — `skeleton`
 - [ūḻ](ul.md) — `skeleton`
 - [ḍuṇḍuṅkāra](dundunkara.md) — `skeleton`
+- [ḍākinī](dakini.md) — `skeleton`
 - [ṛc](rc.md) — `skeleton`
 - [ṛddhi](rddhi.md) — `skeleton`
 - [ṛju](rju.md) — `skeleton`

@@ -12,6 +12,7 @@
 - [Sāṃkhya](../lineages/samkhya.md): The guṇa that is light and illuminating (SK 13), of the nature of pleasure (SK 12); predominant in the upper worlds (SK 54). Vācaspati also uses 'sattva' for buddhi.
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The guṇa of illumination; in YS 3.35, 3.49, 3.55 the buddhi-sattva, whose purity equal to the puruṣa's is kaivalya, and whose difference from the puruṣa is discerned in viveka-khyāti.
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The guṇa characterized as knowledge; those in it go to the gods' state (MDh 12.26, 12.40).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: 'I am the sattva of those who have it' (10.36) — goodness or strength; in 10.41 sattva means simply 'a being'.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: In nityasattvastha, 'ever abiding in sattva' (2.45), one of the qualities of being free of the three guṇas.
 
 ## Forms in other languages
@@ -23,4 +24,8 @@
 _Notes: Taken as the guṇa sattva or as 'being, the real'; the commentators divide._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:10.36, tea:bhagavad-gita:10.41 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:34 IST._

@@ -7,8 +7,6 @@
 **Family:** ascetic
 **Lineages:** [Chan (Chinese Meditation school)](../lineages/chan.md), [Seon (Korean Chan)](../lineages/seon.md)
 **Genre:** lineage history
-**Authors:** 
-  - `tch:jing-and-yun` — role: compiler; attribution: accepted
 **Dates:** Scholarly account: 952; Korean printing 1245; (confidence high)
 **Structure:** 20 fascicles
 **Availability:** digitized-original
@@ -18,4 +16,4 @@ The oldest surviving 'transmission of the lamp' history (952), compiled by the m
 _Notes: Not held locally._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

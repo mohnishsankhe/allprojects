@@ -14,4 +14,4 @@
 The grammar of Tamil that tradition ascribes to Agastya, said to be the first Tamil grammar and the source of Tolkāppiyam; known only through later citations and legend.
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._

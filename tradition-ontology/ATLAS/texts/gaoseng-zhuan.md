@@ -28,8 +28,8 @@ Lay men of letters such as Liu Yimin, Lei Cizong, Zhou Xuzhi and Zong Bing gathe
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: teacher-transmission, practice_
 
-concepts: `cpt:lotus-society` · practices: `prc:nianfo-society` · teachers: [Huiyuan of Lushan](../teachers/huiyuan-lushan.md), [Liu Yimin](../teachers/liu-yimin.md)
+concepts: [Lotus societies (lianshe) for recitation](../concepts/lotus-society.md) · practices: [Recitation societies (jieshe nianfo)](../practices/nianfo-society.md) · teachers: [Huiyuan of Lushan](../teachers/huiyuan-lushan.md), [Liu Yimin](../teachers/liu-yimin.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

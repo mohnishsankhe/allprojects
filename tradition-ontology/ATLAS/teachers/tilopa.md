@@ -4,7 +4,7 @@
 
 **Alternate names:** Tillipa, Telopa, Prajñābhadra (monastic name, per Tibetan accounts), te lo pa / til+li pa (Tibetan)
 **Lineages:** [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
-**Dates:** Scholarly account: 988–1069 (Tibetan reckoning); (confidence low)
+**Dates:** Tradition's account: 988–1069 (Tibetan histories); (confidence low)
 **Historicity:** semi-legendary
 **Teachers:** [Sukhasiddhi](sukhasiddhi.md), [Kambala (Kambalapāda, Lvabapa)](kambala.md), [Nāgārjuna (the siddha)](nagarjuna-siddha.md)
 **Students:** [Nāropa](naropa.md)
@@ -19,4 +19,4 @@ No. 22 of the eighty-four siddhas (Tōh 2292 order). A brahmin who served as a r
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

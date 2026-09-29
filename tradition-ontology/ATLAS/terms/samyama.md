@@ -27,4 +27,4 @@ _Notes: In the Gītā the word means restraint (of senses, mind), not the Yoga S
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.26, tea:bhagavad-gita:4.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06, skeleton:U35-jain-philosophy, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06, skeleton:U35-jain-philosophy, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

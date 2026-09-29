@@ -12,4 +12,4 @@ Yājñavalkya's other wife, whose understanding was that of ordinary women (str�
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: BĀU 2.4.1 ('kātyāyanyā antaṃ karavāṇi') and 4.5.1 ('strīprajñaiva tarhi kātyāyanī').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:34 IST._

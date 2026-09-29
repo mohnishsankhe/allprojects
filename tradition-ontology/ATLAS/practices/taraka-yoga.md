@@ -14,4 +14,4 @@ Meditation on the 'crossing' light between the brows through the three targets a
 **Sequences:** [Advayatāraka: targets, voids and tāraka](../paths/advayataraka-voids.md)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

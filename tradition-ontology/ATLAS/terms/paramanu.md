@@ -20,4 +20,4 @@
 - partial: `trm:pudgala-paramanu` — Jain atoms are also partless and eternal but are undifferentiated as to element; the Vaiśeṣika holds four kinds of atoms.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U41-yogacara-pramana, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U41-yogacara-pramana, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

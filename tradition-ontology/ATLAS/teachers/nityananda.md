@@ -11,4 +11,4 @@ Wandering avadhūta from Ekacakrā who joined Caitanya at Navadvīpa and led the
 **Realization — the tradition's account:** Balarāma (Kṛṣṇa's brother) appearing as Caitanya's first expansion; famed for delivering the sinners Jagāi and Mādhāi.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._

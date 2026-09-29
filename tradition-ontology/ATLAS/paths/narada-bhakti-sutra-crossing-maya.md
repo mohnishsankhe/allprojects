@@ -19,4 +19,4 @@
 The sūtras list marks in groups; 'tataḥ' (then) in NBS 48 and the culmination in 49–50 suggest a sequence, which is how it is laid out here. Bands are interpretation-layer claims. The Nārada Sūtra also distinguishes secondary (gauṇī) from primary devotion (cpt:gauni-and-para-bhakti), not staged further.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._

@@ -1234,4 +1234,4 @@ teachers: [Reṇukācārya (Revaṇasiddha)](../teachers/renukacarya.md)
 _Notes: Chapter structure, sthala lists and all SSM refs used by this unit were checked against the local e-text (sources_raw/raw_etexts/mixed/mukta/vIrashaiva/…/siddhAntashikhAmaNi__M00207.md). family 'vedic' follows the coverage-map grouping (A7, Vedic family); it does not settle the tradition's internal debate on Vedic authority (see dsp:virasaiva-veda-agama-authority)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._

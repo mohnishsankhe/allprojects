@@ -18,7 +18,7 @@ A collection of the realization songs of the eighty-four siddhas, in almost the 
 ## Teachings (84: skeleton 84)
 
 ### 1 <a id="tea-caturasiti-siddha-bodhihrdaya-1"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As honey smeared on the nose of an untamed wild dog makes it bite in all directions, the guru's instruction given to the dull and unfit burns their own mind-stream; the fortunate who realize the unborn destroy concepts at the mere meeting with appearances, as a sword tied to the trunk of a steady, maddened elephant routs an army.
 
@@ -29,7 +29,7 @@ _level: conventional · standpoint: seeker · path: knowledge, meditation · sta
 teachers: [Lūipa](../teachers/luipa.md)
 
 ### 2 <a id="tea-caturasiti-siddha-bodhihrdaya-2"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 In the hermitage of the four immeasurables the king of yogins is like a lion, his head adorned with a turquoise five-braided mane, bearing the yogin's insignia of the five families; as the lion's ten claws tear the flesh and bones of elephants, the yogin's ten perfections tear apart concepts, the adverse side; realizing thus, Līla was freed.
 
@@ -40,7 +40,7 @@ _level: conventional · standpoint: experiential · path: meditation, general ·
 teachers: [Līlapa](../teachers/lilapa.md)
 
 ### 3 <a id="tea-caturasiti-siddha-bodhihrdaya-3"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Within mahāmudrā, rest that innate, beyond thought and reasoning, in its own selfless state; it does not fall into annihilation, being self-known in experience; it does not fall into permanence, being without clinging: it is union.
 
@@ -51,7 +51,7 @@ _level: ultimate · standpoint: experiential · path: meditation, knowledge · s
 teachers: [Virūpa](../teachers/virupa.md)
 
 ### 4 <a id="tea-caturasiti-siddha-bodhihrdaya-4"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As the power of an alchemical elixir turns iron into gold, the power of the precious consecration transforms the afflictions into non-dual gnosis.
 
@@ -62,7 +62,7 @@ _level: conventional · standpoint: seeker · path: ritual, knowledge · stage: 
 teachers: [Ḍombipa (Ḍombi Heruka)](../teachers/dombipa.md)
 
 ### 5 <a id="tea-caturasiti-siddha-bodhihrdaya-5"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 In the forest of ignorance roam the deer of grasped and grasper; drawing the bow of means and wisdom I shot the single arrow of the essential meaning: what died was conceptual thought, its flesh I ate as non-duality, its taste I experienced as great bliss, and the fruit, mahāmudrā, was attained.
 
@@ -73,7 +73,7 @@ _level: ultimate · standpoint: experiential · path: knowledge, meditation · s
 teachers: [Śavaripa](../teachers/savaripa.md)
 
 ### 6 <a id="tea-caturasiti-siddha-bodhihrdaya-6"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Kye ho, friends! That innate is not found elsewhere; it is found from the mouth of the true guru. If the essence of the ultimate is realized, the mind knows no death and the body no destruction.
 
@@ -84,7 +84,7 @@ _level: ultimate · standpoint: seeker · path: knowledge, general · stage: all
 teachers: [Saraha](../teachers/saraha.md)
 
 ### 7 <a id="tea-caturasiti-siddha-bodhihrdaya-7"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As in empty space, the form free of one and of two — the self-appearing gnosis consort — is beyond example and beyond all conventions.
 
@@ -95,7 +95,7 @@ _level: ultimate · standpoint: apophatic · path: meditation · stage: realized
 teachers: [Kaṅkaripa](../teachers/kankaripa.md)
 
 ### 8 <a id="tea-caturasiti-siddha-bodhihrdaya-8"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence low · [AI-translated]
 
 The fisherman holding his hook was carried by karma into the ocean; relying on the body of the great fish, he practised the great god's instruction, and his qualities became famed as more than earth and stone could bear.
 
@@ -106,7 +106,7 @@ _level: conventional · standpoint: experiential · path: meditation · stage: r
 teachers: [Mīnapa](../teachers/minapa.md)
 
 ### 9 <a id="tea-caturasiti-siddha-bodhihrdaya-9"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Whether one's birth is high, middling or low, when the cause meets strong conditions the fruit of unceasing karma is wondrous: loving service done for Cauraṅgi was the cause, by that condition the seed of the elements grew; through Matsyendra the deathless nectar was made firm; Gorakṣa saw non-dual reality — the wondrous king of the three worlds.
 
@@ -117,7 +117,7 @@ _level: conventional · standpoint: causal · path: general, body-breath · stag
 teachers: [Gorakṣanātha](../teachers/goraksanatha.md)
 
 ### 10 <a id="tea-caturasiti-siddha-bodhihrdaya-10"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Through long beginningless existence the roots of the tree of ignorance, well moistened by the water of formations, spread the many limbs of existence; that great tree of ignorance Cauraṅgi felled with the axe of the true guru's instruction and the three wisdoms.
 
@@ -128,7 +128,7 @@ _level: conventional · standpoint: causal · path: knowledge · stage: all · t
 teachers: [Cauraṅgīnātha](../teachers/caurangi.md)
 
 ### 11 <a id="tea-caturasiti-siddha-bodhihrdaya-11"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Examining with devotion and diligence the sound to which one has grown habituated in error, examining sound as unborn, Vīṇāpa realized selflessness.
 
@@ -139,7 +139,7 @@ _level: conventional · standpoint: seeker · path: sound, meditation · stage: 
 teachers: [Vīṇāpa](../teachers/vinapa.md)
 
 ### 12 <a id="tea-caturasiti-siddha-bodhihrdaya-12"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As a child nourished by its mother grows to a wrestler's strength, one of small mind, gradually raised by the guru's instruction, becomes of the great vehicle; as medicines cure the diseases of wind, bile, phlegm and their combination, the guru's instruction burns in an instant the clinging to 'I' and self.
 
@@ -150,7 +150,7 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: beginner
 teachers: [Śāntipa (Ratnākaraśānti)](../teachers/ratnakarasanti.md)
 
 ### 13 <a id="tea-caturasiti-siddha-bodhihrdaya-13"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Worldly weavers weave all their threads into cloth; by my guru's instruction all phenomena are woven: the emptiness of the five gnoses is the thread, the instruction the comb, wisdom the frame, and they are woven into the dharmakāya in which space and awareness are not two.
 
@@ -161,7 +161,7 @@ _level: conventional · standpoint: experiential · path: knowledge, action · s
 teachers: [Tantipa](../teachers/tantipa.md)
 
 ### 14 <a id="tea-caturasiti-siddha-bodhihrdaya-14"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 This leather of conceptual signs, soaked in the vessel of vajra emptiness, is stretched and stitched by the experience of wisdom in the continuous abandoning of the eight worldly concerns; the maker of the shoe of the spontaneous dharmakāya is Camaripa, best of cobblers.
 
@@ -172,7 +172,7 @@ _level: conventional · standpoint: experiential · path: action, knowledge · s
 teachers: [Camaripa](../teachers/camaripa.md)
 
 ### 15 <a id="tea-caturasiti-siddha-bodhihrdaya-15"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 The worldly armed hero, though he fights enemies and battles without end, himself falls under suffering; with the sword of deathless gnosis Khaḍgapa defeated the enemies of the three realms and enjoys the fruit.
 
@@ -183,7 +183,7 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: all · t
 teachers: [Khaḍgapa](../teachers/khadgapa.md)
 
 ### 16 <a id="tea-caturasiti-siddha-bodhihrdaya-16"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 One who has not realized should not engage in the (special) conduct: if he does, it is like a kingdom seized by its subjects; one who has realized should not act like one who has not: if he does, it is like an elephant caught in a swamp.
 
@@ -194,7 +194,7 @@ _level: conventional · standpoint: seeker · path: general · stage: all · typ
 teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 17 <a id="tea-caturasiti-siddha-bodhihrdaya-17"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As a chariot lacking one wheel cannot go even when pulled, so, though one strives in giving and the other perfections, without a guru there is no supreme siddhi; as vultures of perfect strength with spread wings cut through the sky, fortunate yogins who have taken the instruction of consecration to heart are blissful.
 
@@ -205,7 +205,7 @@ _level: conventional · standpoint: seeker · path: ritual, general · stage: al
 teachers: [Kāṇhapa (Kṛṣṇācārya)](../teachers/kanha.md)
 
 ### 18 <a id="tea-caturasiti-siddha-bodhihrdaya-18"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 All buddhas of the three times are one in essence; realized, that is one's own mind by nature; wishing to realize it, leave it uncontrived just as it is; habituated to it, yoga becomes manifest.
 
@@ -216,7 +216,7 @@ _level: ultimate · standpoint: seeker · path: meditation, knowledge · stage: 
 teachers: [Karṇaripa (Āryadeva)](../teachers/aryadeva-tantric.md)
 
 ### 19 <a id="tea-caturasiti-siddha-bodhihrdaya-19"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As water in the ear is drawn out by water, so, meditating on the false appearances of existence as false, one sees the truth.
 
@@ -227,7 +227,7 @@ _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: 
 teachers: [Thaganapa](../teachers/thaganapa.md)
 
 ### 20 <a id="tea-caturasiti-siddha-bodhihrdaya-20"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As a universal monarch with his armies rules the continents and subcontinents, the yogin of the one taste of the innate rules saṃsāra: that is great bliss.
 
@@ -238,7 +238,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: reali
 teachers: [Nāropa](../teachers/naropa.md)
 
 ### 21 <a id="tea-caturasiti-siddha-bodhihrdaya-21"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Skilled painters paint a very terrifying image; seeing it they themselves grow afraid; examined, it is an unestablished image that appears.
 
@@ -249,7 +249,7 @@ _level: illusory · standpoint: analytic · path: knowledge · stage: all · typ
 teachers: [Śalipa](../teachers/salipa.md)
 
 ### 22 <a id="tea-caturasiti-siddha-bodhihrdaya-22"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 A bird on the slope of Mount Meru appears golden by the mountain's nature; the wise, realizing the unborn, let go of things: great bliss.
 
@@ -260,7 +260,7 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: realiz
 teachers: [Tilopa](../teachers/tilopa.md)
 
 ### 23 <a id="tea-caturasiti-siddha-bodhihrdaya-23"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 For the yogin whatever appears is instruction; seeing the unborn is the supreme master; for the childish there is the concept that grasps two, and from it the fruits of virtue and evil arise as two.
 
@@ -271,7 +271,7 @@ _level: bridging · standpoint: analytic · path: knowledge · stage: all · typ
 teachers: [Catrapa](../teachers/catrapa.md)
 
 ### 24 <a id="tea-caturasiti-siddha-bodhihrdaya-24"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Realizing the meaning of emptiness pacifies error; meditating on love perfects conduct; by habituation to the non-duality of the manifold, the adverse is realized as one taste, the fruit.
 
@@ -282,7 +282,7 @@ _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: 
 teachers: [Bhadrapa](../teachers/bhadrapa.md)
 
 ### 25 <a id="tea-caturasiti-siddha-bodhihrdaya-25"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Meditate on the conventional generation stage and the ultimate completion stage in union as mahāmudrā: the fruit, the three bodies and gnosis, dawns.
 
@@ -293,7 +293,7 @@ _level: bridging · standpoint: seeker · path: ritual, meditation · stage: int
 teachers: [Dukhaṇḍi](../teachers/dukhandi.md)
 
 ### 26 <a id="tea-caturasiti-siddha-bodhihrdaya-26"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 By the true guru's instruction I meditated on a drop at the tip of the nose, the upper door; my mind steady in it, the object, the mustard-seed drop, was lost in emptiness.
 
@@ -304,7 +304,7 @@ _level: conventional · standpoint: experiential · path: meditation · stage: b
 teachers: [Ajogipa](../teachers/ajogipa.md)
 
 ### 27 <a id="tea-caturasiti-siddha-bodhihrdaya-27"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 These beings have been deluded since beginningless time, and so the whole world is uneven; the nectar medicine of the guru's instruction burns the diseases of delusion in a single instant.
 
@@ -315,7 +315,7 @@ _level: conventional · standpoint: seeker · path: general · stage: all · typ
 teachers: [Kalapa](../teachers/kalapa.md)
 
 ### 28 <a id="tea-caturasiti-siddha-bodhihrdaya-28"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Though one washes it for a long time, charcoal does not turn white by nature; the nature, wholly pure emptiness, is pure; the guru's instruction is the best washer of the nature.
 
@@ -326,7 +326,7 @@ _level: ultimate · standpoint: analytic · path: knowledge · stage: all · typ
 teachers: [Dhobīpa](../teachers/dhobipa.md)
 
 ### 29 <a id="tea-caturasiti-siddha-bodhihrdaya-29"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 From the wish-fulfilling jewel of thought the colour of experience arises; by the power of conduct all needs and wishes come; it is accomplished by those who have equal taste.
 
@@ -337,7 +337,7 @@ _level: conventional · standpoint: experiential · path: meditation · stage: i
 teachers: [Kaṅkaṇa](../teachers/kankana.md)
 
 ### 30 <a id="tea-caturasiti-siddha-bodhihrdaya-30"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 In the deep and vast ocean full of jewels the nāga kings enjoy themselves marvellously; likewise all appearances and sounds are primordially the dharmakāya, and for those with realization the enjoyment is marvellous.
 
@@ -348,7 +348,7 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: realiz
 teachers: [Kambala (Kambalapāda, Lvabapa)](../teachers/kambala.md)
 
 ### 31 <a id="tea-caturasiti-siddha-bodhihrdaya-31"></a>
-`skeleton` · confidence low
+`skeleton` · confidence low · [AI-translated]
 
 If horses and elephants are like the ocean, there is great bliss; if monkeys and children are like drawings on water, they are concepts; if river, sun and medicine are alike they are not divided; by crest, eye and wheel the fruit is gained.
 
@@ -359,7 +359,7 @@ _level: unmarked · standpoint: experiential · path: meditation · stage: unmar
 teachers: [Ḍeṅgipa](../teachers/dhenkipa.md)
 
 ### 32 <a id="tea-caturasiti-siddha-bodhihrdaya-32"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Love without clinging is supreme; realizing the natural state is compassion; uncontaminated bliss is joy; all phenomena one taste is equanimity perfected.
 
@@ -370,7 +370,7 @@ _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: 
 teachers: [Bhandepa](../teachers/bhandepa.md)
 
 ### 33 <a id="tea-caturasiti-siddha-bodhihrdaya-33"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As the many recollections and awarenesses are exhausted and cease in the non-conceptual expanse, so all phenomena of appearance and existence are exhausted and cease in the expanse of emptiness.
 
@@ -381,7 +381,7 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · ty
 teachers: [Tandhepa](../teachers/tandhepa.md)
 
 ### 34 <a id="tea-caturasiti-siddha-bodhihrdaya-34"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Worship of buddhas and the like brings no benefit; where there is desire and striving there is no buddha; the glory of experience is the true guru's blessing; the fortunate have it within themselves yet do not see it.
 
@@ -392,7 +392,7 @@ _level: ultimate · standpoint: seeker · path: knowledge, devotion · stage: al
 teachers: [Kukkuripa](../teachers/kukkuripa.md)
 
 ### 35 <a id="tea-caturasiti-siddha-bodhihrdaya-35"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Where the innate is concerned, if one strains, a thorn arises; if one lets go without clinging, that is the supreme meditation; by the light of the guru's speech the extremes of existence and non-existence are not found; what is not found is seen; realizing that is the supreme meaning.
 
@@ -403,7 +403,7 @@ _level: ultimate · standpoint: seeker · path: meditation · stage: intermediat
 teachers: [Kucipa](../teachers/kucipa.md)
 
 ### 36 <a id="tea-caturasiti-siddha-bodhihrdaya-36"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 From duality comes the poison of ignorance, which constantly seizes arisen awareness; the light of the guru's speech clears the poison-disease of the delusion of appearance and existence.
 
@@ -414,7 +414,7 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: all · t
 teachers: [Dhamupa (Dhāma?)](../teachers/dhamupa.md)
 
 ### 37 <a id="tea-caturasiti-siddha-bodhihrdaya-37"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 The pride of ignorance obscures the wish-fulfilling jewel of non-conception; in wishing to act, needs and wishes arise; it is accomplished by those who have equal taste.
 
@@ -425,7 +425,7 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: all · t
 teachers: [Mahipa](../teachers/mahipa.md)
 
 ### 38 <a id="tea-caturasiti-siddha-bodhihrdaya-38"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 In objectless mahāmudrā the many deluded recollections are lost; by the light of gnosis-awareness whatever appears is seen as mahāmudrā.
 
@@ -436,7 +436,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: reali
 teachers: [Acinta](../teachers/acinta.md)
 
 ### 39 <a id="tea-caturasiti-siddha-bodhihrdaya-39"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Bliss, bliss — the bliss of no-thing; without clinging, the bliss of no-thing; knowing all imputations there, bliss; the secret that needs no accomplishing, bliss.
 
@@ -447,7 +447,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: reali
 teachers: [Bhalaha](../teachers/bhalaha.md)
 
 ### 40 <a id="tea-caturasiti-siddha-bodhihrdaya-40"></a>
-`skeleton` · confidence moderate · _restricted: summary only_
+`skeleton` · confidence moderate · _restricted: summary only_ · [AI-translated]
 
 In the petalled lotus at the crown the moving seed is joy; drawing out the essence is supreme joy; the innate, beyond joy, the unsurpassed, is attained.
 
@@ -458,7 +458,7 @@ _level: conventional · standpoint: experiential · path: body-breath · stage: 
 teachers: [Nalina](../teachers/nalinapa.md)
 
 ### 41 <a id="tea-caturasiti-siddha-bodhihrdaya-41"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Until one realizes oneself there is great difference between tastes, and saṃsāra and the buddhas are very different; at the time of realization saṃsāra and nirvāṇa are great bliss, like a jewel blazing in the ocean.
 
@@ -469,7 +469,7 @@ _level: bridging · standpoint: experiential · path: knowledge · stage: all ·
 teachers: [Bhusuku](../teachers/bhusuku.md)
 
 ### 42 <a id="tea-caturasiti-siddha-bodhihrdaya-42"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 If the moments of time are not blessed, the yoga of outer and inner conduct does not reach completion; the nature of joy and bliss is no different from the buddhas; when clinging is released, the experience of the innate is supreme joy.
 
@@ -480,7 +480,7 @@ _level: conventional · standpoint: experiential · path: ritual, meditation · 
 teachers: [Indrabhūti](../teachers/indrabhuti.md)
 
 ### 43 <a id="tea-caturasiti-siddha-bodhihrdaya-43"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 First realize your own mind from the true guru; then make all appearances undivided; habituated to non-duality, dwell in the cremation ground; having realized equality, practise the observance of madness.
 
@@ -491,7 +491,7 @@ _level: conventional · standpoint: seeker · path: meditation, general · stage
 teachers: [Mekopa](../teachers/mekopa.md)
 
 ### 44 <a id="tea-caturasiti-siddha-bodhihrdaya-44"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 All pleasure and pain arise from mind; by the guru's instruction dig the mountain of mind; the wise may dig mountains of earth but will not gain innate great bliss; ordinary knowing awakens in the centre of the heart and in the six collections bliss is unbroken; all imputations are meaningless causes of suffering; rest in the innate state beyond meditation and non-meditation.
 
@@ -502,7 +502,7 @@ _level: ultimate · standpoint: seeker · path: meditation, knowledge · stage: 
 teachers: [Koṭali](../teachers/kotalipa.md)
 
 ### 45 <a id="tea-caturasiti-siddha-bodhihrdaya-45"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 On the hearth of natural form, on the charcoal of recollection, awareness and concepts, blowing the bellows of lalanā and rasanā and kindling the fire of gnosis in the avadhūtī, the concepts of the three poisons are forged into the dharmakāya; realizing this, Kampari was freed.
 
@@ -513,7 +513,7 @@ _level: conventional · standpoint: experiential · path: body-breath, meditatio
 teachers: [Kamparipa](../teachers/kamparipa.md)
 
 ### 46 <a id="tea-caturasiti-siddha-bodhihrdaya-46"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 All the many recollections, awarenesses and concepts of the three realms, of body, speech and mind — why not bind them by blessing into lalanā, rasanā and avadhūtī?
 
@@ -524,7 +524,7 @@ _level: conventional · standpoint: seeker · path: body-breath · stage: advanc
 teachers: [Jālandharanātha](../teachers/jalandharanatha.md)
 
 ### 47 <a id="tea-caturasiti-siddha-bodhihrdaya-47"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 The good outer Rāhu devoured the light of the moon non-dually; the drop of the conventional moon is devoured non-dually by the Rāhu of expanse and awareness.
 
@@ -535,7 +535,7 @@ _level: bridging · standpoint: experiential · path: meditation, body-breath ·
 teachers: [Rāhula](../teachers/rahula-siddha.md)
 
 ### 48 <a id="tea-caturasiti-siddha-bodhihrdaya-48"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Into the vessel of the phenomena of appearance and existence pour the butter of bodhicitta; on the wick of the six consciousnesses kindle the fire of non-dual gnosis: the darkness of conceptual delusion is destroyed.
 
@@ -546,7 +546,7 @@ _level: conventional · standpoint: experiential · path: meditation, ritual · 
 teachers: [Dharmapa](../teachers/dharmapa.md)
 
 ### 49 <a id="tea-caturasiti-siddha-bodhihrdaya-49"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Into the vessel of the nature of dharmadhātu put the substance of awareness, the dharmakāya; the fruit of expanse and awareness together fortunate yogins realize by awareness.
 
@@ -557,7 +557,7 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: realiz
 teachers: [Dhokaripa](../teachers/dhokaripa.md)
 
 ### 50 <a id="tea-caturasiti-siddha-bodhihrdaya-50"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 By the wisdom of innate awareness and by means stained with afflictions, from the ground, the natural state, the fruit — spontaneous great bliss — is realized.
 
@@ -568,7 +568,7 @@ _level: bridging · standpoint: analytic · path: knowledge · stage: all · typ
 teachers: [Medhina](../teachers/medhina.md)
 
 ### 51 <a id="tea-caturasiti-siddha-bodhihrdaya-51"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As long as one is not held by a guru and does not realize, a wish-fulfilling jewel and a glass bead are the same; held by the guru and by realization, they are as the light of sun and moon to a firefly.
 
@@ -579,7 +579,7 @@ _level: conventional · standpoint: seeker · path: general · stage: all · typ
 teachers: [Paṅkaja](../teachers/pankaja.md)
 
 ### 52 <a id="tea-caturasiti-siddha-bodhihrdaya-52"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 The three — lalanā, rasanā and avadhūtī — the guru blessed and bound; the three — self, mind and appearance — the wise make firm so that realization may arise.
 
@@ -590,7 +590,7 @@ _level: conventional · standpoint: seeker · path: body-breath · stage: advanc
 teachers: [Ghaṇṭāpa](../teachers/ghantapa.md)
 
 ### 53 <a id="tea-caturasiti-siddha-bodhihrdaya-53"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 By habituation to a mind subtle and clear like the flame of a lamp, all things stable and moving dissolve into dharmadhātu.
 
@@ -601,7 +601,7 @@ _level: conventional · standpoint: experiential · path: meditation · stage: i
 teachers: [Jogipa](../teachers/jogipa.md)
 
 ### 54 <a id="tea-caturasiti-siddha-bodhihrdaya-54"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 By long habituation to the true guru's instruction, earth and the other elements dissolve into awareness and self-appearance becomes mahāmudrā.
 
@@ -612,7 +612,7 @@ _level: conventional · standpoint: experiential · path: meditation · stage: a
 teachers: [Caluki](../teachers/caluki.md)
 
 ### 55 <a id="tea-caturasiti-siddha-bodhihrdaya-55"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 All outer and inner phenomena are gathered in mind; realizing mind itself as clear, the four modes of conduct are the dharmakāya; realization made manifest is complete buddhahood.
 
@@ -623,7 +623,7 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: realiz
 teachers: [Gorura](../teachers/gorura.md)
 
 ### 56 <a id="tea-caturasiti-siddha-bodhihrdaya-56"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Having wandered long in the ocean of saṃsāra since beginningless time, today by the supreme boat, the true guru, I crossed the ocean hard to cross.
 
@@ -634,7 +634,7 @@ _level: conventional · standpoint: devotional · path: devotion · stage: reali
 teachers: [Lucika](../teachers/lucika.md)
 
 ### 57 <a id="tea-caturasiti-siddha-bodhihrdaya-57"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Having shown the experiences like waves on water, enter conduct by means; by the true guru's instruction the concepts of desire and hatred are made into their own nature.
 
@@ -645,7 +645,7 @@ _level: conventional · standpoint: seeker · path: meditation · stage: interme
 teachers: [Niguṇa](../teachers/niguna.md)
 
 ### 58 <a id="tea-caturasiti-siddha-bodhihrdaya-58"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 The samādhi of gnosis-awareness is without beginning and abides as the innate; realized as it is, it is certain; conceptual recollection itself is darkness.
 
@@ -656,7 +656,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: all �
 teachers: [Jayānanda](../teachers/jayananda.md)
 
 ### 59 <a id="tea-caturasiti-siddha-bodhihrdaya-59"></a>
-`skeleton` · confidence low
+`skeleton` · confidence low · [AI-translated]
 
 Look nowhere; look in the middle; supreme joy and the joy of cessation are great bliss; having spoken the power of the mantra's secret, the signs of yoga should be made nine(?).
 
@@ -667,7 +667,7 @@ _level: unmarked · standpoint: experiential · path: meditation · stage: advan
 teachers: [Pacari](../teachers/pacari.md)
 
 ### 60 <a id="tea-caturasiti-siddha-bodhihrdaya-60"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 For means and wisdom, which are like clear light, the stream of the guru-river pervades all; from the wish-granting tree of the innate the fruit, the three bodies, is self-clear and wholly complete.
 
@@ -678,7 +678,7 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: realiz
 teachers: [Campaka](../teachers/campaka.md)
 
 ### 61 <a id="tea-caturasiti-siddha-bodhihrdaya-61"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 In the unsurpassed cremation ground, the great place of awakening, the hard path of union and great bliss was shown; the supreme yogin, a lord free of emblems, realized that by the kindness of the guru's instruction.
 
@@ -689,7 +689,7 @@ _level: conventional · standpoint: experiential · path: meditation · stage: r
 teachers: [Bhikṣana](../teachers/bhiksana.md)
 
 ### 62 <a id="tea-caturasiti-siddha-bodhihrdaya-62"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 One is buddha from the beginning; by the power of realization it is dharmatā; by the innate received in consecration, Vajradhara seals (all) with the unborn.
 
@@ -700,7 +700,7 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: all · typ
 teachers: [Dhelipa](../teachers/dhelipa.md)
 
 ### 63 <a id="tea-caturasiti-siddha-bodhihrdaya-63"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 By the wheel of karma consistent with its cause the many songs and dances of existence are made; by the fire of gnosis-awareness every stain of delusion is burned.
 
@@ -711,7 +711,7 @@ _level: conventional · standpoint: causal · path: knowledge · stage: all · t
 teachers: [Kumaripa](../teachers/kumaripa.md)
 
 ### 64 <a id="tea-caturasiti-siddha-bodhihrdaya-64"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 The supreme vow of all mantra practitioners is not to cling to one's own realization; filled with the realization of innate mind — that is seeing all the buddhas.
 
@@ -722,7 +722,7 @@ _level: conventional · standpoint: seeker · path: general · stage: all · typ
 teachers: [Dhūmapa](../teachers/dhumapa.md)
 
 ### 65 <a id="tea-caturasiti-siddha-bodhihrdaya-65"></a>
-`skeleton` · confidence low
+`skeleton` · confidence low · [AI-translated]
 
 When one is without concepts, the many concepts follow sound; therefore the nature becomes manifest: whatever appears is that nature itself.
 
@@ -733,7 +733,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: reali
 teachers: [Maṇibhadrā](../teachers/manibhadra.md)
 
 ### 66 <a id="tea-caturasiti-siddha-bodhihrdaya-66"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 All outer and inner are gathered in mind; without clinging there is equal taste; without striving, the supreme meditation; non-dual great bliss is complete buddhahood.
 
@@ -744,7 +744,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: reali
 teachers: [Mekhalā](../teachers/mekhala.md)
 
 ### 67 <a id="tea-caturasiti-siddha-bodhihrdaya-67"></a>
-`skeleton` · confidence low
+`skeleton` · confidence low · [AI-translated]
 
 Putting on the great armour, with jewel-like courage, launching the boat of one's own mind, one surely enters the interior of the picture.
 
@@ -755,7 +755,7 @@ _level: unmarked · standpoint: experiential · path: meditation · stage: unmar
 teachers: [Kanakhalā](../teachers/kanakhala.md)
 
 ### 68 <a id="tea-caturasiti-siddha-bodhihrdaya-68"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 In the centre of the pure sky of dharmadhātu the thunder of the unborn resounds; all the deluded phenomena of appearance and existence are the beautiful fruit, the three bodies and gnosis.
 
@@ -766,7 +766,7 @@ _level: ultimate · standpoint: experiential · path: knowledge, sound · stage:
 teachers: [Kalakala](../teachers/kalakala.md)
 
 ### 69 <a id="tea-caturasiti-siddha-bodhihrdaya-69"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 With the needle of the true guru and the thread of compassion I stitched the three realms into a garment: wondrous yogin of cloth!
 
@@ -777,7 +777,7 @@ _level: conventional · standpoint: experiential · path: knowledge, action · s
 teachers: [Kantali](../teachers/kantali.md)
 
 ### 70 <a id="tea-caturasiti-siddha-bodhihrdaya-70"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Union-awareness, the treasury of jewels, the non-dual state, is not found by seeking; like a mind that has given up activity, as it is placed, so it is blissful.
 
@@ -788,7 +788,7 @@ _level: ultimate · standpoint: seeker · path: meditation · stage: all · type
 teachers: [Dhahuli](../teachers/dhahuli.md)
 
 ### 71 <a id="tea-caturasiti-siddha-bodhihrdaya-71"></a>
-`skeleton` · confidence low
+`skeleton` · confidence low · [AI-translated]
 
 Following after others, yogins go astray; do not let go of unrelated habits(?); do not abide anywhere; it is not something to be sought elsewhere.
 
@@ -799,7 +799,7 @@ _level: unmarked · standpoint: seeker · path: meditation · stage: unmarked ·
 teachers: [Udhili](../teachers/udhili.md)
 
 ### 72 <a id="tea-caturasiti-siddha-bodhihrdaya-72"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 All things are the non-dual Vajradhara; ornaments, the skull and the rest are adventitious; the delusion of grasping 'I', too, is not found when one searches for it oneself.
 
@@ -810,7 +810,7 @@ _level: ultimate · standpoint: analytic · path: knowledge · stage: all · typ
 teachers: [Kapālapa](../teachers/kapalapa.md)
 
 ### 73 <a id="tea-caturasiti-siddha-bodhihrdaya-73"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Until realization one is bound by the concepts of self and other; when realization comes, self and other are not established; so what is called 'buddha' is one's own (nature): hold that, free of elaboration, uncontrived, in its own place.
 
@@ -821,7 +821,7 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: all ·
 teachers: [Kirapala](../teachers/kirapala.md)
 
 ### 74 <a id="tea-caturasiti-siddha-bodhihrdaya-74"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Beings tormented by suffering were given a rain of desirable things; so at the great place of suchness, pressing the nāga king of awareness, the rain of secret-mantra awareness fell on the fortunate male and female vidyādharas.
 
@@ -832,7 +832,7 @@ _level: conventional · standpoint: divine · path: ritual · stage: all · type
 teachers: [Sakara (Sāgara)](../teachers/sakara.md)
 
 ### 75 <a id="tea-caturasiti-siddha-bodhihrdaya-75"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 When not realized there is great difference among tastes; realized, tastes have no difference in essence; likewise when not realized saṃsāra and nirvāṇa appear different; realized, saṃsāra and nirvāṇa are great bliss.
 
@@ -843,7 +843,7 @@ _level: bridging · standpoint: experiential · path: knowledge · stage: all ·
 teachers: [Sarvabhakṣa](../teachers/sarvabhaksa.md)
 
 ### 76 <a id="tea-caturasiti-siddha-bodhihrdaya-76"></a>
-`skeleton` · confidence low
+`skeleton` · confidence low · [AI-translated]
 
 Dwelling on earth, all is good fortune; gone to the ocean's depths, one is free of poverty; sword in hand, great enjoyment; gone to no particular direction, one meets one's friends.
 
@@ -854,7 +854,7 @@ _level: conventional · standpoint: experiential · path: general · stage: real
 teachers: [Nāgabodhi](../teachers/nagabodhi.md)
 
 ### 77 <a id="tea-caturasiti-siddha-bodhihrdaya-77"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Great bliss is within oneself but unrealized, obscured by delusion; one who wants bliss and clarity should gather the accumulations of merit and gnosis; without the two accumulations, though one strives for a hundred lives, without a guru one will not realize great bliss.
 
@@ -865,7 +865,7 @@ _level: conventional · standpoint: seeker · path: general, ritual · stage: be
 teachers: [Dārikapa](../teachers/darikapa.md)
 
 ### 78 <a id="tea-caturasiti-siddha-bodhihrdaya-78"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Everything is the nature of the sugatas; abandoning the wrong paths set up by the intellect and striving on the path of the essence, the fruit of the essence is certain; whoever, from the true guru, has the consecrations together with the innate pervades all with its taste — Vajradhara seals (all) with the unborn.
 
@@ -876,7 +876,7 @@ _level: ultimate · standpoint: seeker · path: knowledge, ritual · stage: all 
 teachers: [Putali](../teachers/putali.md)
 
 ### 79 <a id="tea-caturasiti-siddha-bodhihrdaya-79"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 Contemplating the meaning of the innate essence, as one contemplates so one realizes; therefore it abides at ease and all one wishes arises freely.
 
@@ -887,7 +887,7 @@ _level: conventional · standpoint: experiential · path: meditation · stage: a
 teachers: [Panaha](../teachers/panaha.md)
 
 ### 80 <a id="tea-caturasiti-siddha-bodhihrdaya-80"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Giving up activity is the instruction; being without clinging and craving is the realization; the bliss of no-thing is the meditation; when there is nothing to accomplish, that is the supreme fruit.
 
@@ -898,7 +898,7 @@ _level: ultimate · standpoint: seeker · path: meditation · stage: advanced ·
 teachers: [Kokilipa](../teachers/kokilipa.md)
 
 ### 81 <a id="tea-caturasiti-siddha-bodhihrdaya-81"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Saṃsāra has no essence; in this rainbow-like body, by ignorance, clinging and pride, one holds poison as bliss; when the poison-disease of clinging is cleansed, saṃsāra itself is the dharmakāya.
 
@@ -909,7 +909,7 @@ _level: bridging · standpoint: analytic · path: knowledge · stage: all · typ
 teachers: [Anaṅgapa](../teachers/anangapa.md)
 
 ### 82 <a id="tea-caturasiti-siddha-bodhihrdaya-82"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 First, the intelligent generate realization; second, they meditate undistractedly on the natural state; then, when experience has arisen, they practise conduct with care.
 
@@ -920,7 +920,7 @@ _level: conventional · standpoint: seeker · path: knowledge, meditation · sta
 teachers: [Lakṣmīṅkarā](../teachers/laksminkara.md)
 
 ### 83 <a id="tea-caturasiti-siddha-bodhihrdaya-83"></a>
-`skeleton` · confidence low
+`skeleton` · confidence low · [AI-translated]
 
 Realizing the unborn but lacking experience is like an ogress carrying a child in her hand; not separated from experience and the natural state, that too is like an elephant entering a pond.
 
@@ -931,7 +931,7 @@ _level: conventional · standpoint: seeker · path: meditation · stage: interme
 teachers: [Samudra](../teachers/samudra.md)
 
 ### 84 <a id="tea-caturasiti-siddha-bodhihrdaya-84"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Seeing the true guru one sees reality; meditating in the openness of the sky is the supreme solitude; fully realizing phenomena there is nothing adverse; drinking the milk of the sky one lives.
 
@@ -945,4 +945,4 @@ teachers: [Vyāli](../teachers/vyalipa.md)
 _Notes: Read in full locally (Derge Tengyur vol. zhi, ff. 153a–158b)._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

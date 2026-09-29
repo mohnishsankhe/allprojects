@@ -12,4 +12,4 @@ Abandoning the inner liṅga of light and staying with outer liṅgas — called
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 12.9; rests_on: ["tea:siddhantasikhamani:12.9-10"]
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._

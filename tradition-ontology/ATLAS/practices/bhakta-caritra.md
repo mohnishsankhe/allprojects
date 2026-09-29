@@ -11,4 +11,4 @@ Carefully keeping non-violence, truthfulness, purity, compassion, faith and the 
   - [Nārada Bhakti Sūtra](../texts/narada-bhakti-sutra.md) — ref: 27; 64; 78; rests_on: ["tea:narada-bhakti-sutra:27", "tea:narada-bhakti-sutra:63-65", "tea:narada-bhakti-sutra:78"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._

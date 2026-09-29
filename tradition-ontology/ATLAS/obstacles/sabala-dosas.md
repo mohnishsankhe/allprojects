@@ -11,4 +11,4 @@ Faults that 'spot' a monk's conduct, such as accepting food prepared for him, ea
   - [Daśāśrutaskandha](../texts/dasasrutaskandha.md) — ref: 2
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

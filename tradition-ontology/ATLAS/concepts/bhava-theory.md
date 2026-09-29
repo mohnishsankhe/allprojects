@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The components of bhakti-rasa](bhakti-rasa-components.md): Rūpa Gosvāmī re-applies the same apparatus to love for Kṛṣṇa — rests on [2.1](../texts/bhaktirasamrtasindhu.md#tea-bhaktirasamrtasindhu-2-1)
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._

@@ -19,7 +19,7 @@ The mind-treasure cycle of Jigme Lingpa, received in visions of Longchenpa, whic
 
 
 ## Texts
-[Khepa Shri Gyalpoi Khyechö (mkhas pa shri rgyal po'i khyad chos, the Special Teaching of the Wise and Glorious King)](../texts/khepa-sri-gyalpo.md), [Kunzang Lamai Shelung (kun bzang bla ma'i zhal lung, the Words of My Perfect Teacher)](../texts/kunzang-lamai-shelung.md), [Longchen Nyingthig (klong chen snying thig, the Heart-essence of the Great Expanse)](../texts/longchen-nyingthig.md), [Namkhyen Lamzang (rnam mkhyen lam bzang, the Excellent Path to Omniscience: the Longchen Nyingthig preliminaries)](../texts/longchen-nyingthig-ngondro.md), [Rigdzin Düpa (rig 'dzin 'dus pa, the Gathering of Vidyādharas)](../texts/rigdzin-dupa.md), [Yeshe Lama (ye shes bla ma, the Supreme Wisdom)](../texts/yeshe-lama.md), [Yumka Dechen Gyalmo (yum ka bde chen rgyal mo, the Queen of Great Bliss)](../texts/yumka-dechen-gyalmo.md)
+[The Laughter of the Ḍākinīs (mkha' 'gro'i gad rgyangs)](../texts/khandro-gegyang.md), [Khepa Shri Gyalpoi Khyechö (mkhas pa shri rgyal po'i khyad chos, the Special Teaching of the Wise and Glorious King)](../texts/khepa-sri-gyalpo.md), [Kunzang Lamai Shelung (kun bzang bla ma'i zhal lung, the Words of My Perfect Teacher)](../texts/kunzang-lamai-shelung.md), [Longchen Nyingthig (klong chen snying thig, the Heart-essence of the Great Expanse)](../texts/longchen-nyingthig.md), [Namkhyen Lamzang (rnam mkhyen lam bzang, the Excellent Path to Omniscience: the Longchen Nyingthig preliminaries)](../texts/longchen-nyingthig-ngondro.md), [Rigdzin Düpa (rig 'dzin 'dus pa, the Gathering of Vidyādharas)](../texts/rigdzin-dupa.md), [Yeshe Lama (ye shes bla ma, the Supreme Wisdom)](../texts/yeshe-lama.md), [Yumka Dechen Gyalmo (yum ka bde chen rgyal mo, the Queen of Great Bliss)](../texts/yumka-dechen-gyalmo.md)
 
 ## Teachers
 [Adzom Drukpa Natsok Rangdrol (a 'dzom 'brug pa)](../teachers/adzom-drukpa.md), [Dilgo Khyentse Rinpoche Tashi Paljor (dil mgo mkhyen brtse)](../teachers/dilgo-khyentse.md), [Do Khyentse Yeshe Dorje (mdo mkhyen brtse ye shes rdo rje)](../teachers/do-khyentse.md), [Jigme Gyalwai Nyugu ('jigs med rgyal ba'i myu gu)](../teachers/jigme-gyalwai-nyugu.md), [Jigme Lingpa (rig 'dzin 'jigs med gling pa)](../teachers/jigme-lingpa.md), [First Dodrupchen, Jigme Trinle Özer (rdo grub chen 'jigs med phrin las 'od zer)](../teachers/jigme-trinle-ozer.md), [Khenpo Ngawang Palzang (Khenpo Ngakchung)](../teachers/khenpo-ngakchung.md), [Nyoshul Lungtok Tenpai Nyima (smyo shul lung rtogs bstan pa'i nyi ma)](../teachers/nyoshul-lungtok.md), [Patrul Rinpoche (dpal sprul o rgyan 'jigs med chos kyi dbang po)](../teachers/patrul-rinpoche.md)
@@ -34,4 +34,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

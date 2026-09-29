@@ -13,4 +13,4 @@
 **Realization — the tradition's account:** Absorbed in the Goddess, he told the king that the day was full moon; to vindicate him the Goddess threw her earring into the sky, which shone as the moon.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

@@ -10,4 +10,4 @@
 Commentator on the Tattvasaṃgraha (Kosalālaṃkāra) and member of the Ārya Guhyasamāja circle (Pañcakrama chapter traditions).
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

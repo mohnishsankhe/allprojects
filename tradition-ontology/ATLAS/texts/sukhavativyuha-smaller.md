@@ -57,10 +57,10 @@ Beings are not born in Amitāyus's field by a small root of good. Whoever hears 
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice, death-dying_
 
-terms: [nianfo](../terms/nianfo.md), `trm:yixin-buluan` · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md)
+terms: [nianfo](../terms/nianfo.md), [yixin buluan](../terms/yixin-buluan.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md)
 
 
 _Notes: Holding the name passage read locally in T366 (347b10-13)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

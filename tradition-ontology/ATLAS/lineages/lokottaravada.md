@@ -46,4 +46,4 @@ _none recorded_
 [Is the Buddha's bodily existence supramundane, or human and impure (sāsrava)?](../debates/nature-of-the-buddha.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

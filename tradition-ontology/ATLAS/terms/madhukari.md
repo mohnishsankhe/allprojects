@@ -17,4 +17,4 @@
 **Related:** [ājagara-vṛtti](ajagara-vrtti.md), [gocarī](gocari.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads, skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads, skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

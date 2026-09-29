@@ -25,7 +25,7 @@ The 8th-century synthesis in which Śāntarakṣita and Kamalaśīla combined Ma
   - [Buddhist epistemology and logic (pramāṇa school)](pramana-buddhist.md) — what: Dharmakīrti's epistemology and reflexive awareness; evidence: Tattvasaṅgraha; MAL 16–17
 **Transmissions given:** 
   - [Nyingma (the Ancient / Old Translation school)](nyingma.md) — what: Śāntarakṣita's and Kamalaśīla's teachings at Samye; later commented on by Mipham (Madhyamakālaṃkāra commentary)
-  - `lin:kadam` — what: the Bhāvanākrama's gradual path of calm and insight
+  - [Kadam](kadam.md) — what: the Bhāvanākrama's gradual path of calm and insight
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -55,4 +55,4 @@ The 8th-century synthesis in which Śāntarakṣita and Kamalaśīla combined Ma
 _Notes: Parent set to lin:svatantrika following the Tibetan doxographical classification that the registry names follow; the Indian authors did not call themselves Svātantrika._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

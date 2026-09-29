@@ -20,4 +20,4 @@ For the unconcentrated mind: austerity, self-study and devotion to Īśvara toge
 - Austerity is to be practised so as not to disturb the clarity of the mind. — [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) 2.1
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._

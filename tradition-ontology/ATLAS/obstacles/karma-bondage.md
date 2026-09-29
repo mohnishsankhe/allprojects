@@ -12,4 +12,4 @@ Merit and demerit from beginningless time bind the soul to bodies in prakṛti a
   - [Śrībhāṣya](../texts/sribhasya.md) — ref: 1.1.1; rests_on: ["tea:sribhasya:1.1.1/9"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._

@@ -10,4 +10,4 @@
 The author named in the colophon of the Gurupañcāśikā ('mahācārya Aśvaghoṣa'); the scholarly account distinguishes him from the classical poet.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

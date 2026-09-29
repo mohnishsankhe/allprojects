@@ -27,8 +27,8 @@ Those who do this work single-mindedly recollect Amitābha and dedicate all root
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: karma-liberation_
 
-terms: `trm:shinian` · teachers: [Kuiji](../teachers/kuiji.md)
+terms: [shinian](../terms/shinian.md) · teachers: [Kuiji](../teachers/kuiji.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

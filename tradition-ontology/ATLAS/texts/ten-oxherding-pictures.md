@@ -26,7 +26,7 @@ Picture 1, Searching for the ox (xun niu 尋牛): The herdsman searches through 
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: beginner (oxherding picture 1) · types: practice, karma-liberation_
 
-concepts: `cpt:oxherding-stages` · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
+concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
 
 ### 2 <a id="tea-ten-oxherding-pictures-2"></a>
 `skeleton` · confidence moderate
@@ -35,7 +35,7 @@ Picture 2, Seeing the traces (jian ji 見跡): Through the sūtras and teachings
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: beginner (oxherding picture 2) · types: practice, karma-liberation_
 
-concepts: `cpt:oxherding-stages` · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
+concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
 
 ### 3 <a id="tea-ten-oxherding-pictures-3"></a>
 `skeleton` · confidence moderate
@@ -44,7 +44,7 @@ Picture 3, Seeing the ox (jian niu 見牛): Hearing a sound he glimpses the ox i
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: intermediate (oxherding picture 3) · types: practice, karma-liberation_
 
-concepts: `cpt:oxherding-stages` · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
+concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
 
 ### 4 <a id="tea-ten-oxherding-pictures-4"></a>
 `skeleton` · confidence moderate
@@ -53,7 +53,7 @@ Picture 4, Catching the ox (de niu 得牛): He seizes the ox, but it is wild and
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: intermediate (oxherding picture 4) · types: practice, karma-liberation_
 
-concepts: `cpt:oxherding-stages` · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
+concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
 
 ### 5 <a id="tea-ten-oxherding-pictures-5"></a>
 `skeleton` · confidence moderate
@@ -62,7 +62,7 @@ Picture 5, Herding the ox (mu niu 牧牛): With rope and whip kept at hand the o
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: intermediate (oxherding picture 5) · types: practice, karma-liberation_
 
-concepts: `cpt:oxherding-stages` · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
+concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
 
 ### 6 <a id="tea-ten-oxherding-pictures-6"></a>
 `skeleton` · confidence moderate
@@ -71,7 +71,7 @@ Picture 6, Riding the ox home (qi niu gui jia 騎牛歸家): The struggle is ove
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: intermediate (oxherding picture 6) · types: practice, karma-liberation_
 
-concepts: `cpt:oxherding-stages` · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
+concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
 
 ### 7 <a id="tea-ten-oxherding-pictures-7"></a>
 `skeleton` · confidence moderate
@@ -80,7 +80,7 @@ Picture 7, Ox forgotten, the person remains (wang niu cun ren 忘牛存人): At 
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: advanced (oxherding picture 7) · types: practice, karma-liberation_
 
-concepts: `cpt:oxherding-stages` · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
+concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
 
 ### 8 <a id="tea-ten-oxherding-pictures-8"></a>
 `skeleton` · confidence moderate
@@ -89,7 +89,7 @@ Picture 8, Person and ox both forgotten (ren niu ju wang 人牛俱忘): Whip, ro
 
 _level: ultimate · standpoint: absolute · path: meditation, knowledge · stage: advanced (oxherding picture 8) · types: practice, karma-liberation_
 
-concepts: `cpt:oxherding-stages` · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
+concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
 
 ### 9 <a id="tea-ten-oxherding-pictures-9"></a>
 `skeleton` · confidence moderate
@@ -98,7 +98,7 @@ Picture 9, Returning to the origin (fan ben huan yuan 返本還源): Returning t
 
 _level: ultimate · standpoint: absolute · path: meditation, knowledge · stage: advanced (oxherding picture 9) · types: practice, karma-liberation_
 
-concepts: `cpt:oxherding-stages` · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
+concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
 
 ### 10 <a id="tea-ten-oxherding-pictures-10"></a>
 `skeleton` · confidence moderate
@@ -107,10 +107,10 @@ Picture 10, Entering the marketplace with helping hands (ru chan chui shou 入�
 
 _level: ultimate · standpoint: absolute · path: meditation, knowledge · stage: realized (oxherding picture 10) · types: practice, ethics_
 
-concepts: `cpt:oxherding-stages` · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
+concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [Kuoan Shiyuan 廓庵師遠](../teachers/kuoan-shiyuan.md)
 
 
 _Notes: Not held locally (Xuzangjing X64). The path map pth:ten-oxherding-pictures is owned by U51; this unit supplies the source and teachings._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

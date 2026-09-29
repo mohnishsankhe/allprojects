@@ -13,4 +13,4 @@ Laziness, forgetting the instruction, sinking and agitation, non-application (of
   - [Madhyāntavibhāga](../texts/madhyantavibhaga.md) — ref: 4.4; rests_on: ["tea:madhyantavibhaga:4.3-5"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

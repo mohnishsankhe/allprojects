@@ -36,4 +36,4 @@ _none recorded_
 _Notes: Family set to 'shared' because Jain authors (Hemaprabha) wrote Tājika texts. No separate lineage id exists for Perso-Arabic astrology (outside scope)._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._

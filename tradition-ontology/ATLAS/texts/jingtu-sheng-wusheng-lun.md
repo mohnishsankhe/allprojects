@@ -26,8 +26,8 @@ Chuandeng sets out ten gates (one true dharma-realm; the arising of body and lan
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-concepts: `cpt:birth-of-non-birth`, `cpt:mind-only-pure-land` · teachers: [Youxi Chuandeng](../teachers/youxi-chuandeng.md)
+concepts: [The birth of non-birth](../concepts/birth-of-non-birth.md), [The Pure Land as mind only (weixin jingtu)](../concepts/mind-only-pure-land.md) · teachers: [Youxi Chuandeng](../teachers/youxi-chuandeng.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -12,4 +12,4 @@ A Sanskrit guru–disciple dialogue presented as part of a 'Śivasiddhāntatantr
   - kind: original; name: Muktabodha digital library e-text M00614 (print 1906)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._

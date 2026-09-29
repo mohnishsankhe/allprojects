@@ -14,4 +14,4 @@ Bearing the wooden staff without knowledge or renouncing for food or fame; such 
   - [Parabrahma Upaniṣad](../texts/parabrahma-upanisad.md) — ref: 9; rests_on: ["tea:parabrahma-upanisad:9"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

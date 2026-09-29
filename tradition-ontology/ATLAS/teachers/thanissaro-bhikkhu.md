@@ -11,4 +11,4 @@
 American forest monk (Geoffrey DeGraff, b. 1949), pupil of Ajahn Fuang, abbot of Metta Forest Monastery and translator of Ajahn Lee, Ajahn Mun and much of the Pali canon.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._

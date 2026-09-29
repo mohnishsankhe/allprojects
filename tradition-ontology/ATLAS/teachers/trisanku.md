@@ -12,4 +12,4 @@ Seer whose declaration after realization, beginning 'I am the mover of the tree'
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse) — Located: TU 1.10.1 ('iti triśaṅkor vedānuvacanam').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:34 IST._

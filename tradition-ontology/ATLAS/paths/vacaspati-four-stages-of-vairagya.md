@@ -16,4 +16,4 @@
 Bands are interpretation-layer assignments by U10 (see interpretation_log). Stage names and glosses are recalled from Vācaspati's Tattvavaiśāradī on 1.15 and not checked against the text (the TV on 1.15 is not in the local corpus).
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._

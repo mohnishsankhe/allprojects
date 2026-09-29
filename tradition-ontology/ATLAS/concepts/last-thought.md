@@ -28,4 +28,4 @@ _Notes: The Gītā develops the theme of the last moment at 8.5–13 (outside th
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/isa-upanisad/segments.json — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 3.14.1; PrU 3.10; Īśa 17; PrU 5; ChU 3.17.6). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

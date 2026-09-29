@@ -65,4 +65,4 @@ practices: [Worship of the nine enclosures of the Śrīcakra (navāvaraṇa-pūj
 _Notes: Colophons name Amṛtānanda as the disciple of the paramahaṃsa Puṇyānanda (checked in local e-text)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

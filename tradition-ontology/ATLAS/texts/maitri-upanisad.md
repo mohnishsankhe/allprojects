@@ -262,4 +262,4 @@ _Notes: Refs follow the common Cowell/van Buitenen numbering; spot-checked secti
 
 - editions: Confirmed: 7 prapāṭhakas, the Maitrāyaṇīya school of the Black Yajurveda, and its place in the Muktikā canon (no. 24, under the Sāmaveda). Wikipedia gives the late 1st millennium BCE or slightly later, with the chronology contested, which fits -200/300 (moderate). Corrected: the first 'original' edition, 'Sanskrit text with Śaṅkara's bhāṣya (Advaita-Śāradā e-text)', is wrong. There is no Advaita-Śāradā file and no Śaṅkara commentary for the Maitrī; the local text is eBhāratī Ebharati-9566, Cowell's recension with Rāmatīrtha's Dīpikā. Cowell's Bibliotheca Indica edition is on archive.org.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:34 IST._

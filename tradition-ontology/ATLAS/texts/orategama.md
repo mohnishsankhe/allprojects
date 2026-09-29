@@ -23,8 +23,8 @@ Practice in the midst of activity is a million times superior to practice in sti
 
 _level: bridging · standpoint: seeker · path: meditation, action · stage: all · types: practice_
 
-concepts: `cpt:everyday-activity-as-the-way` · practices: `prc:koan-introspection` · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md)
+concepts: [Everyday activity as the Way](../concepts/everyday-activity-as-the-way.md) · practices: [Kōan introspection (sanzen, kōan practice)](../practices/koan-introspection.md) · teachers: [Hakuin Ekaku 白隱慧鶴](../teachers/hakuin.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

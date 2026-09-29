@@ -11,4 +11,4 @@ Worship and recitation of Kṛṣṇa's five-part mantra with meditation on his 
   - [Gopālatāpanī Upaniṣad](../texts/gopalatapani-upanisad.md) — ref: pūrva 2-3; rests_on: ["tea:gopalatapani-upanisad:purva-2-3"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

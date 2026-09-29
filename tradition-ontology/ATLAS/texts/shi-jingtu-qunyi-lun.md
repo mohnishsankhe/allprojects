@@ -28,7 +28,7 @@ To the objection that the Mahāyānasaṃgraha calls birth 'by vow alone' an int
 
 _level: conventional · standpoint: polemical · path: devotion, sound · stage: all · types: dispute_
 
-terms: `trm:bieshiyi` · teachers: [Huaigan](../teachers/huaigan.md) · disputes: `dsp:intention-for-another-time`
+terms: [bieshi yi](../terms/bieshiyi.md) · teachers: [Huaigan](../teachers/huaigan.md) · disputes: [Does the promise of birth by vows or ten recitations bring birth at once, or only at 'another time' (Mahāyānasaṃgraha)?](../debates/intention-for-another-time.md)
 
 ### 50c07 <a id="tea-shi-jingtu-qunyi-lun-50c07"></a>
 `skeleton` · confidence high
@@ -39,7 +39,7 @@ The *Pusa chutai jing* says that west of here lies a land of sloth and pride (xi
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: karma-liberation_
 
-terms: `trm:xieman-jie`, `trm:zhuanxiu` · concepts: `cpt:true-and-transformed-lands`, `cpt:exclusive-and-miscellaneous-practice` · obstacles: `obs:mixed-practice` · teachers: [Huaigan](../teachers/huaigan.md)
+terms: [xieman jie](../terms/xieman-jie.md), [zhuanxiu](../terms/zhuanxiu.md) · concepts: [True and transformed lands; womb-birth and the borderland](../concepts/true-and-transformed-lands.md), [Exclusive and miscellaneous practice](../concepts/exclusive-and-miscellaneous-practice.md) · obstacles: [Mixed (miscellaneous) practice](../obstacles/mixed-practice.md) · teachers: [Huaigan](../teachers/huaigan.md)
 
 ### 76c02 <a id="tea-shi-jingtu-qunyi-lun-76c02"></a>
 `skeleton` · confidence high
@@ -50,10 +50,10 @@ Reciting aloud without break one attains samādhi and sees the Buddha and holy a
 
 _level: conventional · standpoint: experiential · path: sound, meditation · stage: intermediate · types: practice, powers-experiences_
 
-terms: `trm:nianfo-sanmei` · concepts: `cpt:seeing-the-buddha` · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Huaigan](../teachers/huaigan.md)
+terms: [nianfo sanmei](../terms/nianfo-sanmei.md) · concepts: [Seeing the Buddha (jianfo) in samādhi, dream or at death](../concepts/seeing-the-buddha.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Huaigan](../teachers/huaigan.md)
 
 
 _Notes: Passages read locally (T47n1960)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

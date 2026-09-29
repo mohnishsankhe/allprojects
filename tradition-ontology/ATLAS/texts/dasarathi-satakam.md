@@ -14,4 +14,4 @@
 A century of Telugu verses to Rāma, son of Daśaratha, by Kañcarla Gopanna (Bhadrācala Rāmadās).
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

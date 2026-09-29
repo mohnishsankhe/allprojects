@@ -12,4 +12,4 @@ Daily worship of one's own guru at the three times and offering oneself in mind,
   - [Gorakṣaguṭikā](../texts/goraksa-gutika.md) — ref: taraṅgas 2–9
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._

@@ -11,4 +11,4 @@ A month-long observance in Mārgaśīrṣa by unmarried girls: early bathing in 
   - [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) — ref: 10.22.1-6; rests_on: ["tea:bhagavata-purana:10.22.4"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

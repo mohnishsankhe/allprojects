@@ -25,8 +25,8 @@ Puṇḍarīka's commentary explains that the Ādibuddha 'without beginning or e
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: `cpt:adibuddha` · teachers: [Puṇḍarīka](../teachers/pundarika.md)
+concepts: [The primordial buddha (ādibuddha)](../concepts/adibuddha.md) · teachers: [Puṇḍarīka](../teachers/pundarika.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

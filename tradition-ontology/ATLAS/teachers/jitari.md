@@ -15,4 +15,4 @@
 Buddhist logician and doxographer (Sugatamatavibhaṅga), classed by Tibetan doxographers among the false-aspectarian Yogācāra-Madhyamaka; one of Atiśa's teachers.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

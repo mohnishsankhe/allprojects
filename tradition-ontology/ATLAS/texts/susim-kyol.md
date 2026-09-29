@@ -28,7 +28,7 @@ The three realms burn like a house on fire; to escape transmigration nothing is 
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: beginner · types: ultimate, karma-liberation, practice_
 
-terms: [zhenxin (true mind)](../terms/zhenxin.md) · concepts: `cpt:buddha-nature-chan` · teachers: [Jinul 知訥 (Bojo)](../teachers/jinul.md)
+terms: [zhenxin (true mind)](../terms/zhenxin.md) · concepts: [Buddha-nature in Chan, Seon and Zen](../concepts/buddha-nature-chan.md) · teachers: [Jinul 知訥 (Bojo)](../teachers/jinul.md)
 
 ### 1006b15 <a id="tea-susim-kyol-1006b15"></a>
 `skeleton` · confidence high
@@ -39,7 +39,7 @@ Though there are many gates into the Way, in essence they are two: sudden awaken
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all · types: practice, dispute_
 
-terms: [dunwu (sudden awakening)](../terms/dunwu.md), [jianxiu (gradual cultivation)](../terms/jianxiu.md) · concepts: `cpt:sudden-and-gradual` · teachers: [Jinul 知訥 (Bojo)](../teachers/jinul.md), [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: `dsp:sudden-or-gradual`, `dsp:seon-sudden-cultivation-debate`
+terms: [dunwu (sudden awakening)](../terms/dunwu.md), [jianxiu (gradual cultivation)](../terms/jianxiu.md) · concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · teachers: [Jinul 知訥 (Bojo)](../teachers/jinul.md), [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: `dsp:sudden-or-gradual`, [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md)
 
 ### 1006b28 <a id="tea-susim-kyol-1006b28"></a>
 `skeleton` · confidence high
@@ -50,7 +50,7 @@ Supernatural powers appear through gradual cultivation after awakening, not at t
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: powers-experiences_
 
-concepts: `cpt:chan-view-of-powers` · obstacles: `obs:attachment-to-powers`
+concepts: [Chan attitude to supernatural powers](../concepts/chan-view-of-powers.md) · obstacles: [Attachment to supernatural powers](../obstacles/attachment-to-powers.md)
 
 ### 1006c11 <a id="tea-susim-kyol-1006c11"></a>
 `skeleton` · confidence high
@@ -61,7 +61,7 @@ Sudden awakening: while deluded, ordinary people take the four elements as body 
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all · types: practice, consciousness-mind_
 
-terms: [dunwu (sudden awakening)](../terms/dunwu.md), [jianxiu (gradual cultivation)](../terms/jianxiu.md), [kongji lingzhi (empty and calm, numinous awareness)](../terms/kongji-lingzhi.md), [xiqi (habit energies)](../terms/xiqi.md) · concepts: `cpt:sudden-and-gradual` · disputes: `dsp:sudden-or-gradual`
+terms: [dunwu (sudden awakening)](../terms/dunwu.md), [jianxiu (gradual cultivation)](../terms/jianxiu.md), [kongji lingzhi (empty and calm, numinous awareness)](../terms/kongji-lingzhi.md), [xiqi (habit energies)](../terms/xiqi.md) · concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: `dsp:sudden-or-gradual`
 
 ### 1007a01 <a id="tea-susim-kyol-1007a01"></a>
 `skeleton` · confidence high
@@ -72,7 +72,7 @@ All dharmas are like a dream; deluded thoughts are originally quiescent and obje
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, consciousness-mind, teacher-transmission_
 
-terms: [kongji lingzhi (empty and calm, numinous awareness)](../terms/kongji-lingzhi.md), [benlai mianmu (original face)](../terms/benlai-mianmu.md) · concepts: `cpt:numinous-awareness`, `cpt:original-face`
+terms: [kongji lingzhi (empty and calm, numinous awareness)](../terms/kongji-lingzhi.md), [benlai mianmu (original face)](../terms/benlai-mianmu.md) · concepts: [Empty and calm, numinous awareness](../concepts/numinous-awareness.md), [The original face](../concepts/original-face.md)
 
 ### 1007a08 <a id="tea-susim-kyol-1007a08"></a>
 `skeleton` · confidence high
@@ -83,7 +83,7 @@ terms: [kongji lingzhi (empty and calm, numinous awareness)](../terms/kongji-lin
 
 _level: ultimate · standpoint: seeker · path: meditation, knowledge · stage: all · types: practice, consciousness-mind_
 
-terms: [fanzhao / huiguang fanzhao (turning the light around)](../terms/fanzhao.md) · concepts: `cpt:numinous-awareness` · practices: `prc:huiguang-fanzhao`
+terms: [fanzhao / huiguang fanzhao (turning the light around)](../terms/fanzhao.md) · concepts: [Empty and calm, numinous awareness](../concepts/numinous-awareness.md) · practices: [Turning the light around (huiguang fanzhao / hoegwang banjo)](../practices/huiguang-fanzhao.md)
 
 ### 1007a21 <a id="tea-susim-kyol-1007a21"></a>
 `skeleton` · confidence high
@@ -94,7 +94,7 @@ terms: [fanzhao / huiguang fanzhao (turning the light around)](../terms/fanzhao.
 
 _level: ultimate · standpoint: experiential · path: meditation · stage: intermediate · types: practice, consciousness-mind, sound-language_
 
-concepts: `cpt:numinous-awareness` · practices: `prc:huiguang-fanzhao`
+concepts: [Empty and calm, numinous awareness](../concepts/numinous-awareness.md) · practices: [Turning the light around (huiguang fanzhao / hoegwang banjo)](../practices/huiguang-fanzhao.md)
 
 ### 1007c21 <a id="tea-susim-kyol-1007c21"></a>
 `skeleton` · confidence high
@@ -105,7 +105,7 @@ Contemplate killing, stealing, lust and lying as arising from the nature — ari
 
 _level: bridging · standpoint: seeker · path: meditation · stage: intermediate · types: practice, ethics_
 
-practices: `prc:awareness-of-arising-thoughts`
+practices: [Awareness of arising thoughts](../practices/awareness-of-arising-thoughts.md)
 
 ### 1008a06 <a id="tea-susim-kyol-1008a06"></a>
 `skeleton` · confidence high
@@ -116,7 +116,7 @@ Samādhi and prajñā are the substance and function of the self-nature, the emp
 
 _level: ultimate · standpoint: analytic · path: meditation, knowledge · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [dinghui dengchi (balanced samādhi and prajñā)](../terms/dinghui-dengchi.md), [ti and yong (substance and function)](../terms/ti-yong.md) · concepts: `cpt:samadhi-prajna-unity`, `cpt:alert-calm-balance`
+terms: [dinghui dengchi (balanced samādhi and prajñā)](../terms/dinghui-dengchi.md), [ti and yong (substance and function)](../terms/ti-yong.md) · concepts: [Unity of samādhi and prajñā](../concepts/samadhi-prajna-unity.md), [Balance of alertness and calm (xingxing jiji)](../concepts/alert-calm-balance.md)
 
 ### 1008a11 <a id="tea-susim-kyol-1008a11"></a>
 `skeleton` · confidence high
@@ -127,8 +127,8 @@ To use calm first to cure distraction and then alertness to cure dullness, balan
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all (gradual gate (inferior faculties) vs. the penetrated person) · types: practice_
 
-terms: [xingxing jiji (alert and calm)](../terms/xingxing-jiji.md) · concepts: `cpt:alert-calm-balance` · obstacles: `obs:torpor-and-scattering`
+terms: [xingxing jiji (alert and calm)](../terms/xingxing-jiji.md) · concepts: [Balance of alertness and calm (xingxing jiji)](../concepts/alert-calm-balance.md) · obstacles: [Dullness and scattering (hunchen, sanluan / diaoju)](../obstacles/torpor-and-scattering.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

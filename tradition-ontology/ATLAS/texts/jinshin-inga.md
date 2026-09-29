@@ -24,10 +24,10 @@ The first old man's 'not falling into cause and effect' denies causality and so 
 
 _level: conventional · standpoint: causal · path: action, knowledge · stage: all · types: karma-liberation, dispute_
 
-concepts: `cpt:karma-after-awakening` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md), [Baizhang Huaihai 百丈懷海](../teachers/baizhang.md)
+concepts: [Cause and effect for the awakened](../concepts/karma-after-awakening.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md), [Baizhang Huaihai 百丈懷海](../teachers/baizhang.md)
 
 
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

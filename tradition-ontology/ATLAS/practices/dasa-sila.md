@@ -12,4 +12,4 @@ The novice's ten training rules, adding the refusal of gold and silver (Khp 2).
   - [Khuddakapāṭha](../texts/khuddakapatha.md) — ref: 2; rests_on: ["tea:khuddakapatha:2"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

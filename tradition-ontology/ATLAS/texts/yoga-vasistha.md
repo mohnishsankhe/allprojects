@@ -63,4 +63,4 @@ concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md)
 _Notes: Book-level refs 1-5 in U06 teachings are checked against the Mokṣopāya critical edition, whose sarga numbering agrees with the vulgate for the passages used (e.g. the seven stages at 3.118, the gatekeepers at 2.11.59); Book 4 of the vulgate begins c. 18 sargas earlier than the MU's Book 4, and the vulgate splits Book 6 in two halves, so Book 4 and 6 teachings are anchored on src:moksopaya._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

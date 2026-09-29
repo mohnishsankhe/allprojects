@@ -26,8 +26,8 @@ Thus every land and every mote is the Land of Bliss of mind-only, every buddha i
 
 _level: bridging · standpoint: polemical · path: devotion, meditation, knowledge · stage: all · types: ultimate, practice, dispute_
 
-terms: [weixin jingtu (mind-only Pure Land)](../terms/weixin-jingtu.md), `trm:zixing-mituo` · concepts: `cpt:mind-only-pure-land`, `cpt:chan-pure-land-dual-cultivation` · teachers: [Tianru Weize](../teachers/tianru-weize.md) · disputes: `dsp:pure-land-real-or-mind-only`
+terms: [weixin jingtu (mind-only Pure Land)](../terms/weixin-jingtu.md), [zixing Mituo](../terms/zixing-mituo.md) · concepts: [The Pure Land as mind only (weixin jingtu)](../concepts/mind-only-pure-land.md), [Dual cultivation of Chan and Pure Land (chanjing shuangxiu)](../concepts/chan-pure-land-dual-cultivation.md) · teachers: [Tianru Weize](../teachers/tianru-weize.md) · disputes: [Is the Pure Land a real land in the West, or the purified mind only?](../debates/pure-land-real-or-mind-only.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. The chieftain who adopted the boy Cuntarar
 **Realization — the tradition's account:** The chieftain who adopted the boy Cuntarar; he honoured every wearer of the ash, giving double gifts even to one whose conduct was unworthy.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

@@ -9,4 +9,4 @@
 Ninth ācārya of the Terāpanth (1914–1997), founder of the Aṇuvrata movement of 'small vows' for all people (1949), of the samaṇ/samaṇī order and of the Jain Vishva Bharati; directed the Lāḍnūn edition of the Āgamas.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

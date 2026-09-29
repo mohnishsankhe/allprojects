@@ -32,4 +32,4 @@ Both are named, the 'Vāyavīya' being identified with the eighteenth, the Brahm
 _Notes: Scholarly note (metadata only): most modern scholars treat the Vāyu as the older Mahāpurāṇa._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

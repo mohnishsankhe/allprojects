@@ -15,7 +15,7 @@ Harmful thoughts are preceded by greed, anger or delusion (2.34): violence for m
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 2.34; rests_on: ["tea:yoga-bhasya:2.34"]
 
 ## Equivalents (interpretation layer)
-- partial: [The three roots of bad (greed, hatred, delusion)](three-poisons.md) — Parallels the Buddhist three roots (lobha, dosa, moha); the second member differs (krodha, anger, vs dosa, hatred)
+- partial: [The three poisons](three-poisons.md) — Parallels the Buddhist three roots (lobha, dosa, moha); the second member differs (krodha, anger, vs dosa, hatred)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._

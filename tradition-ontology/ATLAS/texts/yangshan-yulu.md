@@ -27,8 +27,8 @@ Danyuan gave Yangshan the 97 circle-figures handed down from the six patriarchs 
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: advanced · types: teacher-transmission, sound-language_
 
-terms: [yuanxiang (circle-figure)](../terms/yuanxiang.md) · concepts: `cpt:five-houses` · teachers: [Yangshan Huiji 仰山慧寂](../teachers/yangshan-huiji.md), [Danyuan Yingzhen 耽源應真](../teachers/danyuan-yingzhen.md), [Nanyang Huizhong 南陽慧忠 (National Teacher Zhong)](../teachers/nanyang-huizhong.md)
+terms: [yuanxiang (circle-figure)](../terms/yuanxiang.md) · concepts: [The Five Houses of Chan](../concepts/five-houses.md) · teachers: [Yangshan Huiji 仰山慧寂](../teachers/yangshan-huiji.md), [Danyuan Yingzhen 耽源應真](../teachers/danyuan-yingzhen.md), [Nanyang Huizhong 南陽慧忠 (National Teacher Zhong)](../teachers/nanyang-huizhong.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

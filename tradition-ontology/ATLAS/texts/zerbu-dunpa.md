@@ -16,4 +16,4 @@
 _Notes: Part of the 'last testaments' ('das rjes) collected in the Vima Nyingthig (from memory)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

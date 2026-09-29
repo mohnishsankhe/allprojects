@@ -20,4 +20,4 @@ _Notes: Primary owner of kalpa literature: U02; recorded here because it gives t
 - 2026-09-28 catalog: confirmed — catalog:DCS:Kauśikasūtra, catalog:eBharati:kaushikasUtram, catalog:GRETIL-dev:kausikasutra — Extant and digitized (with Dārila's bhāṣya and Keśava's paddhati also in DCS); its character as the viniyoga manual of the Śaunaka AV is standard.
 - 2026-09-28 catalog: confirmed — catalog:DCS:Kauśikasūtra, catalog:GRETIL-dev:kausikasutra, catalog:eBharati:kaushikasUtram — Extant, with Dārila's and Keśava's commentaries (DCS). The Śaunaka Atharvaveda affiliation is standard.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

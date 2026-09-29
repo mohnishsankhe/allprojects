@@ -19,4 +19,4 @@ Sri Aurobindo's essays reading the Gītā as a synthesis of the yogas of works, 
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Arya:_A_Philosophical_Review, https://www.sriaurobindoashram.org/sriaurobindo/downloadpdf.php?id=34 — Serialized in the Arya August 1916 – July 1920; book 1922, revised 1928.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._

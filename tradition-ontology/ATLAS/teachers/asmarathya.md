@@ -10,4 +10,4 @@ Early teacher cited in the Mīmāṃsā Sūtra on a ritual detail of the new-moo
 _Notes: Known only from the Brahma Sūtra and its commentators._
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U16-bhedabheda, skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U16-bhedabheda, skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._

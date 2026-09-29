@@ -27,7 +27,7 @@ Entering the samādhi hall: prepare a clean room with an image on the west wall;
 
 _level: conventional · standpoint: seeker · path: meditation, devotion, sound · stage: intermediate · types: practice_
 
-terms: `trm:nianfo-sanmei`, `trm:daochang` · practices: `prc:nianfo-retreat`, [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Shandao](../teachers/shandao.md)
+terms: [nianfo sanmei](../terms/nianfo-sanmei.md), [daochang](../terms/daochang.md) · practices: [The seven-day nianfo samādhi retreat (Shandao's practice hall)](../practices/nianfo-retreat.md), [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Shandao](../teachers/shandao.md)
 
 ### 24b21-c04 <a id="tea-guannian-famen-24b21-c04"></a>
 `skeleton` · confidence high
@@ -38,7 +38,7 @@ When a practitioner, ill or not, is about to die, let him follow the samādhi me
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: death-dying, practice_
 
-terms: `trm:raigo`, `trm:linzhong-zhengnian` · concepts: `cpt:deathbed-practice`, `cpt:deathbed-welcome` · practices: `prc:deathbed-rites`, `prc:zhunian` · obstacles: `obs:deathbed-confusion` · teachers: [Shandao](../teachers/shandao.md)
+terms: [raigō](../terms/raigo.md), [linzhong zhengnian](../terms/linzhong-zhengnian.md) · concepts: [Deathbed practice and right mindfulness at death](../concepts/deathbed-practice.md), [The Buddha's welcome at death (raigō)](../concepts/deathbed-welcome.md) · practices: [Deathbed rites for birth (linzhong xingyi / rinjū gyōgi)](../practices/deathbed-rites.md), [Assisted recitation for the dying (zhunian)](../practices/zhunian.md) · obstacles: [Confusion and loss of right mindfulness at death](../obstacles/deathbed-confusion.md) · teachers: [Shandao](../teachers/shandao.md)
 
 ### 24c18-22 <a id="tea-guannian-famen-24c18-22"></a>
 `skeleton` · confidence high
@@ -49,10 +49,10 @@ Those who call Amitābha's name aspiring to the Pure Land gain, in this life and
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: karma-liberation, powers-experiences_
 
-concepts: `cpt:five-augmenting-conditions`, `cpt:ten-benefits-in-present-life` · teachers: [Shandao](../teachers/shandao.md)
+concepts: [The five augmenting conditions of reciting (Shandao)](../concepts/five-augmenting-conditions.md), [The benefits in the present life (genze riyaku / genshō jūyaku)](../concepts/ten-benefits-in-present-life.md) · teachers: [Shandao](../teachers/shandao.md)
 
 
 _Notes: Read locally (T47n1959)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

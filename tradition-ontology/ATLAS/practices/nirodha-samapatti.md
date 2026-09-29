@@ -19,4 +19,4 @@ A stopping of mind and mental factors entered from the peak of existence by nobl
 - Belongings not resolved upon may be destroyed; the limit of one's life-span must be reviewed first (the story of the elder Mahānāga). — [Visuddhimagga](../texts/visuddhimagga.md) XXIII, PTS p. 706
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._

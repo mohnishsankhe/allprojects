@@ -8,4 +8,4 @@
 A wanderer who repeatedly questioned the Buddha on the self and the undeclared (MN 71–73; SN 44.7–11); he went forth and became an arahant (MN 73).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

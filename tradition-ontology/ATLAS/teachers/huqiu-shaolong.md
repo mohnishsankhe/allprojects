@@ -10,4 +10,4 @@
 Heir of Yuanwu from whom most later Linji and Japanese Rinzai lines descend.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

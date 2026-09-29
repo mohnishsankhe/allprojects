@@ -14,4 +14,4 @@
 Dārā Shikoh's Persian translation (with pandits, completed 1657) of some fifty Upaniṣads, including many non-principal ones; the basis of Anquetil-Duperron's Latin Oupnek'hat.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

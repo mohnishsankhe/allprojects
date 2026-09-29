@@ -11,4 +11,4 @@
 Named among the rasa authorities in the Rasaratnasamuccaya (1.6); the Ānandakanda is attributed to him in some accounts.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._

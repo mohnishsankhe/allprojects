@@ -13,4 +13,4 @@ Taking emptiness to mean that nothing exists, so that karma, the path and the Bu
   - [Prasannapadā](../texts/prasannapada.md) — ref: 17.30; 18.7; rests_on: ["tea:prasannapada:17.30", "tea:prasannapada:18.7"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

@@ -18,4 +18,4 @@ Dharmapāla's commentary on Vasubandhu's Twenty Verses, extant only in Yijing's 
 _Notes: Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

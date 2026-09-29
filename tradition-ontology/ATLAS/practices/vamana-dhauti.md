@@ -18,4 +18,4 @@ After a meal water is drunk to the throat, the gaze turned upward for a moment, 
 _Notes: Recent teaching calls a comparable practice kuñjala; that name is not in the Gheraṇḍa._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._

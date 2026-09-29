@@ -22,8 +22,8 @@ In the last age of the Dharma there are no precept-keepers, only monks in name; 
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, ethics_
 
-terms: `trm:mofa` · concepts: `cpt:three-periods-of-the-dharma`, `cpt:neither-monk-nor-layman` · teachers: [Saichō](../teachers/saicho.md)
+terms: [mofa](../terms/mofa.md) · concepts: [The three ages of the Dharma (true, semblance, final)](../concepts/three-periods-of-the-dharma.md), [Neither monk nor layman (hisō hizoku) and the married clergy](../concepts/neither-monk-nor-layman.md) · teachers: [Saichō](../teachers/saicho.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

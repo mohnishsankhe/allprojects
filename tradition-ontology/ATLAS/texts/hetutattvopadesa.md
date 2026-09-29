@@ -14,4 +14,4 @@ Jitāri's instruction on the nature of reasons.
   - kind: original; name: Tibetan: Derge D4261
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

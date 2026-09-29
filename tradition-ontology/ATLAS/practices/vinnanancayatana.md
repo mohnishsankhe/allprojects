@@ -13,4 +13,4 @@ Attending to the consciousness that pervaded the space as 'infinite consciousnes
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: X; rests_on: ["tea:visuddhimagga:10", "tea:visuddhimagga:10/2"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._

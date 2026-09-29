@@ -26,4 +26,4 @@ Developed first towards oneself, then a dear person, a neutral one and an enemy,
 - partial: [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](four-attitudes.md) — YS 1.33's maitrī, karuṇā, muditā, upekṣā as attitudes for calming the mind; the Visuddhimagga develops them to absorption
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

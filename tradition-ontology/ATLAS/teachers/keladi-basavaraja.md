@@ -11,4 +11,4 @@
 Vīraśaiva ruler of Keḷadi (Basavappa Nāyaka) and author of the Sanskrit Śivatattvaratnākara.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._

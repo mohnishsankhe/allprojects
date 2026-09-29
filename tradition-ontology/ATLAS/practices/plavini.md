@@ -19,4 +19,4 @@ The belly is filled with abundant air drawn in, so that one floats easily on dee
 _Notes: The method of filling the belly is not specified in the verse; later commentators explain it (not reproduced)._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._

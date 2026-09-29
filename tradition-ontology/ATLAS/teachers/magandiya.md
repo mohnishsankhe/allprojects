@@ -10,4 +10,4 @@ A wanderer of the Bhāradvāja clan who held the Buddha a 'destroyer of growth' 
 _Notes: Distinct from the brahmin Māgaṇḍiya of Snp 4.9._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

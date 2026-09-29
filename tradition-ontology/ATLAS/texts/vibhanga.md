@@ -138,4 +138,4 @@ concepts: [The thirty-one planes of existence](../concepts/thirty-one-planes.md)
 _Notes: Chapter titles checked in the local bilara-data text (vb1–vb18). Most chapters have suttanta-bhājaniya, abhidhamma-bhājaniya and pañhāpucchaka sections (from memory; not checked for every chapter)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._

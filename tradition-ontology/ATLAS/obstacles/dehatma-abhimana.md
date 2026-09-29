@@ -11,4 +11,4 @@ The first obstacle to right knowledge of the self: identifying with the body.
   - [Arthapañcakam](../texts/arthapancaka-pillai-lokacarya.md) — ref: 1; rests_on: ["tea:arthapancaka-pillai-lokacarya:1"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._

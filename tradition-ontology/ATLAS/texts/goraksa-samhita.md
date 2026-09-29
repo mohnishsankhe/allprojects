@@ -15,4 +15,4 @@ Name of more than one text ascribed to Gorakṣa; among them a work on Kaula and
 _Notes: Listed from the unit brief; kept as a stub with low confidence. Which text(s) carry this title must be established in sourcing (listed as a gap)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._

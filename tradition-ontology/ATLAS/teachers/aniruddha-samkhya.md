@@ -11,4 +11,4 @@
 Author of the earliest known commentary (vṛtti) on the Sāṃkhya Sūtra.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:34 IST._

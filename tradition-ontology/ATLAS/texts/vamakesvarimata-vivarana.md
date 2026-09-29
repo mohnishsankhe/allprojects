@@ -17,4 +17,4 @@ Jayaratha's commentary on the Vāmakeśvarīmata, the Kashmiri exegesis of the r
   - kind: original; name: Kashmir Series of Texts and Studies (Muktabodha M00097)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

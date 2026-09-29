@@ -28,7 +28,7 @@ Alert and calm is right; indeterminate calm is wrong; calm and alert is right; c
 
 _level: bridging · standpoint: seeker · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [xingxing jiji (alert and calm)](../terms/xingxing-jiji.md) · concepts: `cpt:alert-calm-balance` · obstacles: `obs:torpor-and-scattering`
+terms: [xingxing jiji (alert and calm)](../terms/xingxing-jiji.md) · concepts: [Balance of alertness and calm (xingxing jiji)](../concepts/alert-calm-balance.md) · obstacles: [Dullness and scattering (hunchen, sanluan / diaoju)](../obstacles/torpor-and-scattering.md)
 
 ### 390c04 <a id="tea-yongjia-ji-390c04"></a>
 `skeleton` · confidence high
@@ -39,8 +39,8 @@ Confused thinking is a sickness and indeterminate dullness is a sickness; calm i
 
 _level: bridging · standpoint: seeker · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [xingxing jiji (alert and calm)](../terms/xingxing-jiji.md) · concepts: `cpt:alert-calm-balance` · obstacles: `obs:torpor-and-scattering`
+terms: [xingxing jiji (alert and calm)](../terms/xingxing-jiji.md) · concepts: [Balance of alertness and calm (xingxing jiji)](../concepts/alert-calm-balance.md) · obstacles: [Dullness and scattering (hunchen, sanluan / diaoju)](../obstacles/torpor-and-scattering.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

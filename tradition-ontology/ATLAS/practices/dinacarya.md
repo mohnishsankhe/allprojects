@@ -18,4 +18,4 @@ Rise at the brāhma muhūrta (before dawn) to protect life; attend to the body a
 - Tooth-twig, massage and bathing each have conditions in which they are to be avoided (indigestion, fever, eye and ear disease, kapha affliction, just after purification). — [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) Sū 2.4, 2.9, 2.18
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._

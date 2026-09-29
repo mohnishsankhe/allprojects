@@ -17,4 +17,4 @@
 _Notes: Faxiang (Kuiji) rejects a ninth consciousness; amala is for them a name of the purified eighth._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

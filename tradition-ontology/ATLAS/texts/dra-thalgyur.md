@@ -11,7 +11,19 @@
 
 The root tantra of the Seventeen: sound, light and rays as the ground's display, the lamps, the introduction and the whole instruction-series path.
 
+## Teachings (1: skeleton 1)
+
+### sound-light-rays <a id="tea-dra-thalgyur-sound-light-rays"></a>
+`skeleton` · confidence low
+
+The ground's display arises as sound, light and rays (sgra 'od zer gsum); recognizing them as one's own display is liberation, taking them as other is the root of delusion.
+
+_level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, sound-language_
+
+concepts: [Ground-appearances and how delusion arises](../concepts/ground-appearances-and-delusion.md)
+
+
 _Notes: Not local. Membership of the Seventeen from memory; content summary minimal._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

@@ -25,8 +25,8 @@ Indrabhūti explains the opening of the Guhyasamāja: 'the heart' is gnosis; tha
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, sound-language_
 
-concepts: `cpt:sandhyabhasa` · teachers: [Indrabhūti](../teachers/indrabhuti.md) · disputes: `dsp:literal-or-symbolic-tantric-conduct`
+concepts: [Intentional language (sandhyābhāṣā)](../concepts/sandhyabhasa.md) · teachers: [Indrabhūti](../teachers/indrabhuti.md) · disputes: [Are the transgressive statements and practices of the tantras to be taken literally or as intentional language?](../debates/literal-or-symbolic-tantric-conduct.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

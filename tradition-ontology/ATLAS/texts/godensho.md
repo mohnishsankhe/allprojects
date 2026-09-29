@@ -22,8 +22,8 @@ In the dream at the Rokkakudō (1201) the bodhisattva Kannon (Guze Kannon, as Pr
 
 _level: conventional · standpoint: experiential · path: devotion · stage: all · types: powers-experiences, ethics_
 
-concepts: `cpt:neither-monk-nor-layman` · teachers: [Shinran](../teachers/shinran.md), [Avalokiteśvara](../teachers/avalokitesvara.md)
+concepts: [Neither monk nor layman (hisō hizoku) and the married clergy](../concepts/neither-monk-nor-layman.md) · teachers: [Shinran](../teachers/shinran.md), [Avalokiteśvara](../teachers/avalokitesvara.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

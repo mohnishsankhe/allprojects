@@ -16,4 +16,4 @@ The celibate sage whom Śrīkaṇṭha commanded to preserve the Śaiva scriptur
 _Notes: The three-sons account (Tryambaka, Āmardaka, Śrīnātha, plus Ardhatryambaka) is from memory of TĀ 36 and Jayaratha; TĀ 4.266 itself names the Śrī-, Tryambaka-, Ardha- and Āmarda- maṭhikās (confirmed)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

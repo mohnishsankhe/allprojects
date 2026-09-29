@@ -5,7 +5,7 @@
 **Alternate titles:** Toh 260, Xukongzang pusa jing (T405)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:gelug`, `lin:kadam`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Gelug](../lineages/gelug.md), [Kadam](../lineages/kadam.md)
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous; confidence: moderate
 **Availability:** digitized-translation
@@ -25,4 +25,4 @@ concepts: [Bodhisattva precepts (sūtra layer)](../concepts/bodhisattva-precepts
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

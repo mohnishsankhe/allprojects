@@ -3,8 +3,8 @@
 `prc:nine-mental-abidings` · `skeleton` · confidence high
 
 **Category:** sense-withdrawal-concentration
-**Convergence:** 3 independent lineage(s): `lin:gelug`, [Mahāyāna](../lineages/mahayana.md), [Yogācāra](../lineages/yogacara.md)
-**Taught in:** `lin:gelug`, [Mahāyāna](../lineages/mahayana.md), [Yogācāra](../lineages/yogacara.md)
+**Convergence:** 3 independent lineage(s): [Gelug](../lineages/gelug.md), [Mahāyāna](../lineages/mahayana.md), [Yogācāra](../lineages/yogacara.md)
+**Taught in:** [Gelug](../lineages/gelug.md), [Mahāyāna](../lineages/mahayana.md), [Yogācāra](../lineages/yogacara.md)
 
 The mind is withdrawn from outer objects and bound to the object; settled firmly by refining it; re-settled when it strays through lapse of mindfulness; settled closely; tamed by seeing the danger in distracting signs; calmed by seeing the danger in discursive thoughts and hindrances; fully calmed by not tolerating them when they arise; made one-pointed as an uninterrupted flow with effort; and concentrated when, by repeated practice, it flows spontaneously. Six powers (hearing, reflection, mindfulness, awareness, vigour, familiarity) accomplish them; four attentions accompany them.
 **Stage:** calm abiding (śamatha), prior to the first absorption
@@ -20,4 +20,4 @@ The mind is withdrawn from outer objects and bound to the object; settled firmly
 - The five faults — laziness, forgetting the instruction, sinking and agitation, non-application and over-application — obstruct the stages and must be countered by the eight formations. — [Madhyāntavibhāga](../texts/madhyantavibhaga.md) 4.3-5
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

@@ -9,4 +9,4 @@
 Heart-essence master of the 11th-12th c. who received the Vima Nyingthig, had visions of Vimalamitra, and by tradition attained the rainbow body; source of the Chetsün Nyingthig revealed later.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

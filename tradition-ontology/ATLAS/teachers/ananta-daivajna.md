@@ -9,4 +9,4 @@
 Astrologer of a family settled at Kāśī, father of Nīlakaṇṭha and Rāma Daivajña (MC 1.2 names Rāma as Ananta's son).
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._

@@ -12,4 +12,4 @@ Offering one flower (or vermilion) into the bindu with each name in the dative w
   - [Saubhāgyabhāskara](../texts/saubhagyabhaskara.md) — ref: phalaśruti; rests_on: ["tea:saubhagyabhaskara:phalasruti-prayoga"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

@@ -16,4 +16,4 @@ An Anuyoga sūtra of the Old Tantra section ('the wrathful vajra family, all-gat
 _Notes: Existence and title local (catalog:Derge-Kangyur:D831); classification from memory._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

@@ -12,8 +12,10 @@
 - [Pāñcarātra](../lineages/pancaratra.md): Placing mantras on the body (and, in another sense, 'depositing' oneself — see trm:nyasa-surrender).
 - [Kerala tantra (temple-tantra tradition of Kerala)](../lineages/kerala-tantra.md): Placing of mātṛkā and deity mantras, as taught in the Prapañcasāra and Śāradātilaka.
 - [Śrīvidyā](../lineages/srividya.md): Placing mantras and deities on the body; Śrīvidyā uses many sets (karaśuddhi, the vāgdevatā-nyāsa, the sixfold ṣoḍhā-nyāsa and others), taught in the Vāmakeśvara and the Kalpasūtra.
+- [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md): Placing syllables or deities on the body (in GST 18 the 'fourfold vajra' of ordinary service ends with 'placing the syllables').
 
 ## Forms in other languages
+- Tibetan: dgod pa  — exact
 
 ## Equivalents (interpretation layer)
 **Related:** [bhūtaśuddhi](bhutasuddhi.md)
@@ -21,4 +23,4 @@
 _Notes: Homonym: see trm:nyasa-surrender._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya, skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

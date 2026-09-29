@@ -13,4 +13,4 @@ Honouring, feeding and serving the wandering Śivayogins (jaṅgamas), whose sig
 **Sequences:** `pth:virasaiva-satsthala`
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._

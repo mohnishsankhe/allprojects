@@ -25,8 +25,8 @@ Women are to be honoured and never despised: the tantra makes disparaging women 
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
 
-concepts: `cpt:status-of-women-vajrayana`
+concepts: [Women in the Vajrayāna](../concepts/status-of-women-vajrayana.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

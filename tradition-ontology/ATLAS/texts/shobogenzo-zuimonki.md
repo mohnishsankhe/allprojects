@@ -24,8 +24,8 @@ Students should just sit (shikan taza) and not spend time on kōan stories or sc
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [shikantaza (just sitting)](../terms/shikantaza.md) · practices: `prc:shikantaza` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md), [Koun Ejō 孤雲懷奘](../teachers/koun-ejo.md) · disputes: `dsp:rinzai-or-soto`
+terms: [shikantaza (just sitting)](../terms/shikantaza.md) · practices: [Shikantaza (just sitting)](../practices/shikantaza.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md), [Koun Ejō 孤雲懷奘](../teachers/koun-ejo.md) · disputes: [Kōan introspection and kenshō (Rinzai) or just sitting as practice-realization (Sōtō)?](../debates/rinzai-or-soto.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

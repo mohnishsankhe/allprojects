@@ -24,10 +24,10 @@ Because there is buddha within birth and death there is no birth and death; this
 
 _level: ultimate · standpoint: devotional · path: knowledge, devotion · stage: all · types: death-dying, ultimate_
 
-concepts: `cpt:chan-death-and-dying` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+concepts: [Death and dying in Chan](../concepts/chan-death-and-dying.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

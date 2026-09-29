@@ -14,4 +14,4 @@
 _Notes: The same tradition affirms the whole's reality and prescribes attending to parts against lust — different contexts (ontology vs. practice) within Nyāya._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._

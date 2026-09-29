@@ -24,10 +24,10 @@ Zen takes the precepts as its foundation: one who does not keep the precepts can
 
 _level: conventional · standpoint: polemical · path: action · stage: all · types: ethics, dispute_
 
-concepts: `cpt:chan-precepts` · teachers: [Myōan Eisai 明菴榮西 (Yōsai)](../teachers/eisai.md), [Dainichi Nōnin 大日能忍](../teachers/dainichi-nonin.md) · disputes: `dsp:daruma-shu-precepts`
+concepts: [Precepts in Chan and Zen](../concepts/chan-precepts.md) · teachers: [Myōan Eisai 明菴榮西 (Yōsai)](../teachers/eisai.md), [Dainichi Nōnin 大日能忍](../teachers/dainichi-nonin.md) · disputes: [Are precepts and practice needed once one has awakened?](../debates/daruma-shu-precepts.md)
 
 
 _Notes: Not held locally (T80 no. 2543)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

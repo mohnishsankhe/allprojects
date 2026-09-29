@@ -15,4 +15,4 @@
 - contrasts-with → [Liberation (mokṣa) in later Mīmāṃsā](liberation.md): a shared goal-word, but nirvāṇa is not an attained state of an existent self — rests on [25.3](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-25-3)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

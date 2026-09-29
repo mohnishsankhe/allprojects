@@ -13,4 +13,4 @@ Recalling the evil done in beginningless saṃsāra and this life, natural and p
   - [Śikṣāsamuccaya](../texts/siksasamuccaya.md) — ref: ch.8 (purification)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

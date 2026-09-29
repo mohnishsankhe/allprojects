@@ -19,4 +19,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_5.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers), https://en.wikipedia.org/wiki/Atri — Header 5.85 'bhaumo 'triḥ'; seer of 10.137.4. Book 5 = Ātreyas. Later tradition (husband of Anasūyā, father of Dattātreya) confirmed by web sources.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U08-agama-catalogue, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U08-agama-catalogue, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

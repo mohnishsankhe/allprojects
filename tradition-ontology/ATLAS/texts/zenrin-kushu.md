@@ -13,4 +13,4 @@
 Anthology of Chinese phrases used as capping phrases (jakugo) in Rinzai kōan training; the 1688 edition expands Tōyō Eichō's earlier Kuzōshi.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -13,4 +13,4 @@
 - contrasts-with → [Madhyamaka's critique of the Yogācāra](madhyamaka-critique-of-yogacara.md): Candrakīrti rejects mind-only even conventionally — rests on [6.45-97](../texts/madhyamakavatara.md#tea-madhyamakavatara-6-45-97)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

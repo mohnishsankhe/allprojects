@@ -8,6 +8,7 @@
 
 ## Definitions by tradition
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The safety the renouncer gives to all beings on going forth (MDh 6.39–40).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Fearlessness, named with fear among the states (bhāva) of beings that arise from the Lord alone (10.4).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Fearlessness: 'brahman is fearlessness' (BAU 4.4.25); Janaka has reached fearlessness (4.2.4); fear arises from a second (1.4.2); the knower of bliss is never afraid (TU 2.4, 2.9).
 - [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md): The renouncer's gift: 'fearlessness to all beings from me'.
 
@@ -16,4 +17,8 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:10.4 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

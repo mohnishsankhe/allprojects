@@ -20,4 +20,4 @@ Devotion practised as hearing, singing and remembering the Lord's names and deed
 - One who seeks blessings in return is a merchant, not a servant. — [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) 7.10.4
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

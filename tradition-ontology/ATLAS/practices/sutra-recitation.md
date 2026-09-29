@@ -12,4 +12,4 @@ Taking up, keeping, reading, reciting, explaining and teaching a sūtra or even 
   - [Saddharmapuṇḍarīka-sūtra](../texts/saddharmapundarika.md) — ref: ch. 10; rests_on: ["tea:saddharmapundarika:10"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

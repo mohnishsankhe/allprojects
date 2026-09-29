@@ -15,4 +15,4 @@
 - contrasts-with → [Karma](karma.md): shared doctrine of action and fruit, but denied own-nature — rests on [17.21](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-17-21)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

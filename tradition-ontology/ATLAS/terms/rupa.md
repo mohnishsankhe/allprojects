@@ -9,6 +9,7 @@
 ## Definitions by tradition
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): The first aggregate: the four great elements and form derived from them (SN 12.2); also the visible object of the eye, and the fine-material sphere of the jhānas.
 - [Theravāda](../lineages/theravada.md): Matter: that which is 'molested' (ruppati) by cold, heat etc.; the third ultimate reality, twenty-eight kinds; as an object, the visible form.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Form: Arjuna asks to see the Lord's sovereign form (rūpam aiśvaram) (11.3); the Lord shows his forms by hundreds and thousands (11.5), then again his own gentle, human form (11.50–51).
 - [Sarvāstivāda](../lineages/sarvastivada.md): Matter: the five sense faculties, five sense objects and unmanifest matter; what is subject to resistance and deterioration.
 - [Vaiśeṣika](../lineages/vaisesika.md): Quality grasped by sight alone; seven colours; in earth, water, fire.
 - [Vaiṣṇava Sahajiyā](../lineages/vaisnava-sahajiya.md): The outward human form of man and woman, onto which the divine nature (svarūpa) is superimposed in practice.
@@ -23,4 +24,8 @@
 **Related:** [mahābhūta](mahabhuta.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U11-nyaya-vaisesika, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:11.3, tea:bhagavad-gita:11.5, tea:bhagavad-gita:11.51 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch10-12, skeleton:U38-early-schools, skeleton:U11-nyaya-vaisesika, skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

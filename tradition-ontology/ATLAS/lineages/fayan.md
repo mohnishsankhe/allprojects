@@ -37,13 +37,13 @@ The last of the Five Houses to form, from Fayan Wenyi (885–958) in the line of
 [Daoyuan 道原](../teachers/daoyuan.md), [Fayan Wenyi 法眼文益](../teachers/fayan-wenyi.md), [Luohan Guichen (Dizang) 羅漢桂琛](../teachers/luohan-guichen.md), [Tiantai Deshao 天台德韶](../teachers/tiantai-deshao.md), [Xuansha Shibei 玄沙師備](../teachers/xuansha-shibei.md), [Xuyun 虛雲](../teachers/xuyun.md), [Yongming Yanshou](../teachers/yongming-yanshou.md)
 
 ## Practices
-_none recorded_
+[Nenbutsu Zen (joint practice of Chan and recitation)](../practices/nianfo-chan.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Is recitation of the Buddha's name compatible with Chan?](../debates/chan-and-nianfo.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

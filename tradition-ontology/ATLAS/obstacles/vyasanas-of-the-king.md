@@ -15,4 +15,4 @@ Ten born of desire (hunting, gambling, day-sleep, censoriousness, women, drink, 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — MDh 7.45–48 has ten kāmaja vices ('mṛgayākṣo divāsvapnaḥ parivādaḥ striyo madaḥ | tauryatrikaṃ vṛthāṭyā ca') and eight krodhaja ('paiśunyaṃ sāhasaṃ droha īrṣyāsūyārthadūṣaṇam | vāgdaṇḍajaṃ ca pāruṣyam'). The eighteen members match.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

@@ -10,4 +10,4 @@ Vaiṣṇava teacher of uncertain date whom the Vallabha tradition counts as the
 _Notes: Tradition's account; the historical link to Vallabha is contested. No lineage id exists for a separate Viṣṇusvāmī school, so the tradition's attribution to the Puṣṭimārga is recorded._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._

@@ -27,4 +27,4 @@ No: śrāvakas realize only the selflessness of persons; the selflessness of phe
 _Notes: The Svātantrika side is attributed from Tibetan doxographical accounts; the Indian source location is low confidence._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

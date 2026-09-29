@@ -65,4 +65,4 @@ concepts: [Liberation (vīṭu, mutti) in the Siddhar songs](../concepts/siddhar
 _Notes: Checked in the local e-text. Restricted content (vv. 5–7, a harmful rite) is not paraphrased in detail._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._

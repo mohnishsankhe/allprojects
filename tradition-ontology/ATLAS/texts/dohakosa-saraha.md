@@ -21,7 +21,7 @@ Saraha's Treasury of Songs: a critique of Brahmins, Śaiva ascetics, Jain monks,
 ## Teachings (40: skeleton 40)
 
 ### v10-13 <a id="tea-dohakosa-saraha-v10-13"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Novices, monks and elders who have gone forth possess only bodily austerity and lack the reality of bliss; some expound sūtras, some hold to the mind of one taste, some rush to the Great Vehicle — which is treatise and logic — some meditate on maṇḍala circles, some explain the fourth, some examine the sky element, some cultivate emptiness: most have entered the opposing side.
 
@@ -29,10 +29,10 @@ Novices, monks and elders who have gone forth possess only bodily austerity and 
 
 _level: conventional · standpoint: polemical · path: knowledge, meditation, ritual · stage: all · types: dispute, practice_
 
-concepts: `cpt:critique-of-ritual-siddha` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The siddhas' critique of ritual, caste and scholasticism](../concepts/critique-of-ritual-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v108 <a id="tea-dohakosa-saraha-v108"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 All beings are letters, not one is without the letter; as long as it is letterless, so long is the letter truly known.
 
@@ -43,7 +43,7 @@ _level: ultimate · standpoint: absolute · path: sound, knowledge · stage: adv
 terms: [akṣara](../terms/aksara.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v110 <a id="tea-dohakosa-saraha-v110"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As outside, so inside; one abides continuously on the fourteenth ground; the bodiless is hidden in the body; whoever knows it is liberated.
 
@@ -51,10 +51,10 @@ As outside, so inside; one abides continuously on the fourteenth ground; the bod
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: body-layers, karma-liberation_
 
-concepts: `cpt:tantric-bhumis`, `cpt:buddha-in-the-body` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The tantric grounds (bhūmi)](../concepts/tantric-bhumis.md), [The buddha in the body](../concepts/buddha-in-the-body.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v116 <a id="tea-dohakosa-saraha-v116"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Friends, the profound and the vast are not other, not self; at the time of the fourth joy, the innate, the natural state is known in experience.
 
@@ -62,10 +62,10 @@ Friends, the profound and the vast are not other, not self; at the time of the f
 
 _level: ultimate · standpoint: experiential · path: body-breath, meditation · stage: advanced · types: powers-experiences_
 
-terms: `trm:sahajananda` · concepts: `cpt:four-joys` · teachers: [Saraha](../teachers/saraha.md)
+terms: [sahajānanda](../terms/sahajananda.md) · concepts: [The four joys (ānanda)](../concepts/four-joys.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v122 <a id="tea-dohakosa-saraha-v122"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 What is saṃsāra is certainly nirvāṇa; do not think of any difference; by the one nature difference is abandoned; I have fully realized the stainless.
 
@@ -73,10 +73,10 @@ What is saṃsāra is certainly nirvāṇa; do not think of any difference; by t
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: ultimate_
 
-concepts: `cpt:non-duality-of-samsara-nirvana` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The non-duality of saṃsāra and nirvāṇa](../concepts/non-duality-of-samsara-nirvana.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v126-127 <a id="tea-dohakosa-saraha-v126-127"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Saṃsāra or nirvāṇa — the innate lies in the purification of mind's stains; then the adverse side has no entry; as bubbles on a clear ocean are water and dissolve into it; awakening does not dwell in forest or house.
 
@@ -87,7 +87,7 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: all · typ
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v13-14 <a id="tea-dohakosa-saraha-v13-14"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Whoever meditates on nirvāṇa apart from the innate will not accomplish the ultimate; whatever one is devoted to, can one gain liberation by dwelling in meditative absorption?
 
@@ -98,7 +98,7 @@ _level: ultimate · standpoint: polemical · path: meditation · stage: all · t
 terms: [sahaja](../terms/sahaja.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v130-133 <a id="tea-dohakosa-saraha-v130-133"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 The supreme tree of non-dual mind spreads through all three realms; it holds the flower of compassion and the fruit of benefit for others, its name is supreme benefit for others; the holy tree of emptiness blooms with the many flowers of compassion and its later fruit is spontaneous; but (if) the holy tree of emptiness is without compassion, with no root, flower or leaf, whoever takes it as object falls and is left without limbs.
 
@@ -106,10 +106,10 @@ The supreme tree of non-dual mind spreads through all three realms; it holds the
 
 _level: bridging · standpoint: seeker · path: knowledge, action · stage: all · types: ethics_
 
-terms: [karuṇā](../terms/karuna.md), [śūnyatā](../terms/sunyata.md) · concepts: `cpt:union-of-wisdom-and-means` · teachers: [Saraha](../teachers/saraha.md)
+terms: [karuṇā](../terms/karuna.md), [śūnyatā](../terms/sunyata.md) · concepts: [The union of wisdom and means (prajñopāya)](../concepts/union-of-wisdom-and-means.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v134-136 <a id="tea-dohakosa-saraha-v134-136"></a>
-`skeleton` · confidence moderate
+`skeleton` · confidence moderate · [AI-translated]
 
 When a beggar with wants comes and goes away with nothing, better to have left the household; not working for others' benefit and not giving to one who asks — that is the fruit of saṃsāra; better to abandon oneself.
 
@@ -120,7 +120,7 @@ _level: conventional · standpoint: ethical-social · path: action · stage: all
 terms: [dāna](../terms/dana.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v14-15 <a id="tea-dohakosa-saraha-v14-15"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 What need of lamps, of food offerings, of secret-mantra teaching? No need to go to bathing places or to practise austerities: is liberation gained by entering water?
 
@@ -128,10 +128,10 @@ What need of lamps, of food offerings, of secret-mantra teaching? No need to go 
 
 _level: ultimate · standpoint: polemical · path: ritual · stage: all · types: dispute, practice_
 
-concepts: `cpt:critique-of-ritual-siddha` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The siddhas' critique of ritual, caste and scholasticism](../concepts/critique-of-ritual-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v15-17 <a id="tea-dohakosa-saraha-v15-17"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Whoever enters emptiness devoid of compassion does not find the supreme path; yet if one meditates on compassion alone, one stays in saṃsāra and does not gain liberation; whoever can join the two abides neither in saṃsāra nor in nirvāṇa.
 
@@ -139,10 +139,10 @@ Whoever enters emptiness devoid of compassion does not find the supreme path; ye
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all · types: karma-liberation, ethics_
 
-terms: [śūnyatā](../terms/sunyata.md), [karuṇā](../terms/karuna.md), [Prājña](../terms/prajna.md), [upāya](../terms/upaya.md) · concepts: `cpt:union-of-wisdom-and-means` · teachers: [Saraha](../teachers/saraha.md)
+terms: [śūnyatā](../terms/sunyata.md), [karuṇā](../terms/karuna.md), [Prājña](../terms/prajna.md), [upāya](../terms/upaya.md) · concepts: [The union of wisdom and means (prajñopāya)](../concepts/union-of-wisdom-and-means.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v17-19 <a id="tea-dohakosa-saraha-v17-19"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Kye! Give up what is false and let go of whatever you cling to; when realized, all is that and nobody else knows it; it is reading, holding, meditating and explaining the treatises in one's heart; there is no view that does not point to it, yet one looks solely to the guru's mouth.
 
@@ -150,10 +150,10 @@ Kye! Give up what is false and let go of whatever you cling to; when realized, a
 
 _level: ultimate · standpoint: seeker · path: knowledge, devotion · stage: all · types: teacher-transmission, ultimate_
 
-concepts: `cpt:guru-in-vajrayana` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The guru in the Vajrayāna](../concepts/guru-in-vajrayana.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v19 <a id="tea-dohakosa-saraha-v19"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Whoever takes the guru's words to heart sees (the innate) like a treasure in the palm of the hand; the childish do not see the innate nature and Saraha says they are deceived by error.
 
@@ -161,10 +161,10 @@ Whoever takes the guru's words to heart sees (the innate) like a treasure in the
 
 _level: ultimate · standpoint: seeker · path: devotion, knowledge · stage: all · types: teacher-transmission_
 
-terms: [sahaja](../terms/sahaja.md) · concepts: `cpt:guru-in-vajrayana` · teachers: [Saraha](../teachers/saraha.md)
+terms: [sahaja](../terms/sahaja.md) · concepts: [The guru in the Vajrayāna](../concepts/guru-in-vajrayana.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v2-3 <a id="tea-dohakosa-saraha-v2-3"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Brahmins who do not know reality recite the Vedas, purify with earth, water and kuśa grass, live at home and offer into the fire; their pointless fire offerings only hurt their eyes with smoke.
 
@@ -172,10 +172,10 @@ Brahmins who do not know reality recite the Vedas, purify with earth, water and 
 
 _level: conventional · standpoint: polemical · path: ritual · stage: all · types: dispute, ethics_
 
-concepts: `cpt:critique-of-ritual-siddha` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The siddhas' critique of ritual, caste and scholasticism](../concepts/critique-of-ritual-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v21-22 <a id="tea-dohakosa-saraha-v21-22"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 If it were manifest, what need of meditation? If hidden, one is measuring darkness. The nature of the innate is neither a thing nor the absence of things.
 
@@ -186,7 +186,7 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · ty
 terms: [sahaja](../terms/sahaja.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v24 <a id="tea-dohakosa-saraha-v24"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 All beings are deceived by the seal of existence; no one has grasped the natural state; no tantra, no mantra, nothing to contemplate, no meditation — all these are causes that make one's own mind err.
 
@@ -194,10 +194,10 @@ All beings are deceived by the seal of existence; no one has grasped the natural
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, practice_
 
-terms: `trm:nija`, [tantra](../terms/tantra.md), [mantra](../terms/mantra.md) · concepts: `cpt:critique-of-ritual-siddha` · teachers: [Saraha](../teachers/saraha.md)
+terms: [nija](../terms/nija.md), [tantra](../terms/tantra.md), [mantra](../terms/mantra.md) · concepts: [The siddhas' critique of ritual, caste and scholasticism](../concepts/critique-of-ritual-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v25 <a id="tea-dohakosa-saraha-v25"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Do not spoil the naturally pure mind with meditations; abide in the bliss of your own reality and do not torment yourself; eating, drinking and delighting, continually fill the circle again and again.
 
@@ -208,7 +208,7 @@ _level: ultimate · standpoint: experiential · path: general · stage: advanced
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v26-27 <a id="tea-dohakosa-saraha-v26-27"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Where wind and mind do not move and sun and moon do not enter, there, ignorant ones, take rest; Saraha has taught all the instructions and gone. Do not make two, make one; do not distinguish between castes.
 
@@ -216,10 +216,10 @@ Where wind and mind do not move and sun and moon do not enter, there, ignorant o
 
 _level: ultimate · standpoint: seeker · path: body-breath, meditation · stage: advanced · types: body-layers, ethics_
 
-terms: [prāṇa](../terms/prana.md), `trm:avadhuti` · concepts: `cpt:buddhist-subtle-body` · teachers: [Saraha](../teachers/saraha.md)
+terms: [prāṇa](../terms/prana.md), [avadhūtī](../terms/avadhuti.md) · concepts: [The Buddhist subtle body (channels, winds, drops)](../concepts/buddhist-subtle-body.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v28-29 <a id="tea-dohakosa-saraha-v28-29"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Turn the whole of the three realms into the one colour of great passion; there is no beginning, middle or end; in this supreme great bliss there is no self and other; whatever is seen in front, behind and in the ten directions is that itself.
 
@@ -227,10 +227,10 @@ Turn the whole of the three realms into the one colour of great passion; there i
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: ultimate_
 
-terms: `trm:mahasukha`, `trm:maharaga` · teachers: [Saraha](../teachers/saraha.md)
+terms: [mahāsukha](../terms/mahasukha.md), [mahārāga](../terms/maharaga.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v33-34 <a id="tea-dohakosa-saraha-v33-34"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Kye ho! This is self-awareness; do not err here; thing and no-thing are the bondage of the sugatas; do not separate existence from equality; yogin, fix the innate mind one-pointedly and know it as water placed in water.
 
@@ -241,7 +241,7 @@ _level: ultimate · standpoint: seeker · path: meditation · stage: advanced ·
 terms: [svasaṃvedana](../terms/svasamvedana.md), [sahaja](../terms/sahaja.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v35-36 <a id="tea-dohakosa-saraha-v35-36"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Trusting in the true guru's word, (knowing that) it cannot be spoken, Saraha says: looking and looking at the primordially pure sky-like nature, seeing ceases; so, in time, it is stopped.
 
@@ -252,7 +252,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: advan
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v37-38 <a id="tea-dohakosa-saraha-v37-38"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 The whole world is deluded by meditation; no one can point out the innate nature; the root of mind is not pointed to; it is not clearly known from where the threefold innate arises, where it sets or where it abides; for whoever thinks of that rootless reality, the guru's instruction he has seen is enough.
 
@@ -263,7 +263,7 @@ _level: ultimate · standpoint: apophatic · path: knowledge, devotion · stage:
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v39 <a id="tea-dohakosa-saraha-v39"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Saraha tells the deluded to know that the nature of anger is the very nature of mind; though the natural state is not expressed in words, it will be seen with the eye of the master's instruction.
 
@@ -271,10 +271,10 @@ Saraha tells the deluded to know that the nature of anger is the very nature of 
 
 _level: ultimate · standpoint: seeker · path: knowledge, devotion · stage: all · types: consciousness-mind, teacher-transmission_
 
-obstacles: [The three roots of bad (greed, hatred, delusion)](../obstacles/three-poisons.md) · teachers: [Saraha](../teachers/saraha.md)
+obstacles: [The three poisons](../obstacles/three-poisons.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v4-6 <a id="tea-dohakosa-saraha-v4-6"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Ascetics smear their bodies with ash and carry matted hair; they sit in houses with lamps, ring bells, sit cross-legged with closed eyes and whisper in people's ears to deceive them; they confer consecrations and take the guru's fee; long-nailed, dirt-covered, naked, with plucked hair, they show this to others.
 
@@ -282,10 +282,10 @@ Ascetics smear their bodies with ash and carry matted hair; they sit in houses w
 
 _level: conventional · standpoint: polemical · path: ritual, meditation · stage: all · types: dispute_
 
-concepts: `cpt:critique-of-ritual-siddha` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The siddhas' critique of ritual, caste and scholasticism](../concepts/critique-of-ritual-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v40 <a id="tea-dohakosa-saraha-v40"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Eating with delight both dharma and non-dharma, there is not an atom of fault in this; when the innate mind has been purified, the guru's qualities enter one's heart.
 
@@ -296,7 +296,7 @@ _level: ultimate · standpoint: absolute · path: general · stage: realized · 
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v41-42 <a id="tea-dohakosa-saraha-v41-42"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Having realized thus, the arrow-maker sings: I have not seen a single mantra or tantra; beings are each bound by karma; freed from karma, mind is liberation; when one's own continuum is freed there is certainly nothing else, and supreme nirvāṇa is attained.
 
@@ -307,7 +307,7 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: realiz
 terms: [karma](../terms/karma.md), [nirvāṇa](../terms/nirvana.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v42-43 <a id="tea-dohakosa-saraha-v42-43"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Mind itself alone is the seed of everything, from which saṃsāra and nirvāṇa radiate; homage to the mind that, like a wish-fulfilling jewel, grants the fruits one desires; when mind is bound one is bound, when it is freed there is no doubt (of freedom).
 
@@ -315,10 +315,10 @@ Mind itself alone is the seed of everything, from which saṃsāra and nirvāṇ
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: `trm:cittata` · concepts: `cpt:nature-of-mind-siddha` · teachers: [Saraha](../teachers/saraha.md)
+terms: [cittatā](../terms/cittata.md) · concepts: [The nature of mind in the siddha songs](../concepts/nature-of-mind-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v44-45 <a id="tea-dohakosa-saraha-v44-45"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 That by which fools are bound frees the wise at once; hold mind to be like space, hold mind as the very nature of space; when mind is made non-mind, one attains unsurpassed awakening.
 
@@ -326,21 +326,21 @@ That by which fools are bound frees the wise at once; hold mind to be like space
 
 _level: ultimate · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice, karma-liberation_
 
-terms: [amanasikāra](../terms/amanasikara.md) · concepts: `cpt:nature-of-mind-siddha` · teachers: [Saraha](../teachers/saraha.md)
+terms: [amanasikāra](../terms/amanasikara.md) · concepts: [The nature of mind in the siddha songs](../concepts/nature-of-mind-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v45-47 <a id="tea-dohakosa-saraha-v45-47"></a>
-`skeleton` · confidence moderate · _restricted: summary only_
+`skeleton` · confidence moderate · _restricted: summary only_ · [AI-translated]
 
-Acting like a scholar, the wind is bound; knowing equality fully, it dissolves; when wind, fire and earth cease, at the time the nectar flows the wind enters mind; when the four unions enter one place, supreme great bliss cannot be contained in the sky; though people talk of it in house after house, the place of great bliss is not known.
+Acting like the wise, the wind is bound; knowing equality fully, it dissolves; Saraha says: when one has the power, the impermanent and moving is quickly abandoned; when wind, fire and earth cease, at the time the nectar flows the wind enters mind; when the four unions enter one place, supreme great bliss cannot be contained in the sky; though people talk of it in house after house, the place of great bliss is not known.
 
 > mkhas 'drar byas na rlung ni rnam par 'ching / / mnyam nyid yongs su shes pas rab tu thim/ / mda' bsnun gyis smras nam zhig nus ldan na/ / mi rtag g.yo ba myur du spong bar 'gyur/ / rlung dang me dang dbang chen 'gags pa na/ / bdud rtsi rgyu ba'i dus su rlung ni sems la 'jug / nam zhig sbyor bzhi gnas gcig la ni zhugs pa na/ / bde chen mchog ni nam mkha'i khams su mi shong ngo / / khyim dang khyim na de yis gtam smra yang / / bde chen gnas ni yongs su shes pa med/ /
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: body-layers, powers-experiences_
 
-terms: [prāṇa](../terms/prana.md), `trm:mahasukha` · teachers: [Saraha](../teachers/saraha.md)
+terms: [prāṇa](../terms/prana.md), [mahāsukha](../terms/mahasukha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v51 <a id="tea-dohakosa-saraha-v51"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 This mind bound by knots — if it is loosened it is freed, without doubt.
 
@@ -351,7 +351,7 @@ _level: ultimate · standpoint: seeker · path: meditation · stage: all · type
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v56 <a id="tea-dohakosa-saraha-v56"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 When the nature of the innate is realized one is self-supported; when mind has ceased, the bonds of the body are cut.
 
@@ -362,7 +362,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: reali
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v57-59 <a id="tea-dohakosa-saraha-v57-59"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 When one is of one taste with the innate, there is no low caste and no brahmin; this is the moon-ocean, the Ganges-ocean, Vārāṇasī and Prayāga; whatever is said of visiting the sacred fields and sites, I have truly seen no holy place equal to the body.
 
@@ -370,10 +370,10 @@ When one is of one taste with the innate, there is no low caste and no brahmin; 
 
 _level: ultimate · standpoint: polemical · path: general · stage: all · types: ethics, body-layers_
 
-concepts: `cpt:body-as-pitha`, `cpt:critique-of-ritual-siddha` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The body as the sacred sites](../concepts/body-as-pitha.md), [The siddhas' critique of ritual, caste and scholasticism](../concepts/critique-of-ritual-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v65 <a id="tea-dohakosa-saraha-v65"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 In seeing, hearing, touching, remembering, eating, smelling, wandering, walking, sitting, chattering and answering — if it is (known as) mind, one does not move from the one mode.
 
@@ -384,7 +384,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: advan
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v66 <a id="tea-dohakosa-saraha-v66"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 One who does not drink his fill of the cool nectar-water of the guru's instruction, which relieves torment, dies of thirst on the desert plain of treatises with many meanings.
 
@@ -392,10 +392,10 @@ One who does not drink his fill of the cool nectar-water of the guru's instructi
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:guru-in-vajrayana` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The guru in the Vajrayāna](../concepts/guru-in-vajrayana.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v7-9 <a id="tea-dohakosa-saraha-v7-9"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 If nakedness freed, dogs and jackals would be free; if plucking out hair freed, (then even) a woman's plucking would free; if raising a tail-feather whisk freed, peacocks and yaks would be free; if eating standing freed, horses and elephants would be free; Saraha says there is no liberation for the sky-clad.
 
@@ -403,10 +403,10 @@ If nakedness freed, dogs and jackals would be free; if plucking out hair freed, 
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, karma-liberation_
 
-concepts: `cpt:critique-of-ritual-siddha` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The siddhas' critique of ritual, caste and scholasticism](../concepts/critique-of-ritual-siddha.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v73 <a id="tea-dohakosa-saraha-v73"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 When mind is unmoving and abides steadily in itself, then one is naturally freed from the things of saṃsāra; when there is no knowing of self and other, then the unsurpassed body is attained.
 
@@ -417,7 +417,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: advan
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v77 <a id="tea-dohakosa-saraha-v77"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Wandering through objects one is tormented and does not find the innate; but relying on objects one is not stained by them, like a lotus leaf untouched by water.
 
@@ -428,7 +428,7 @@ _level: bridging · standpoint: experiential · path: general · stage: advanced
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v82 <a id="tea-dohakosa-saraha-v82"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 All the scholars expounding the treatises do not realize that the buddha is in the body.
 
@@ -436,10 +436,10 @@ All the scholars expounding the treatises do not realize that the buddha is in t
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: body-layers, ultimate_
 
-concepts: `cpt:buddha-in-the-body` · teachers: [Saraha](../teachers/saraha.md)
+concepts: [The buddha in the body](../concepts/buddha-in-the-body.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v89 <a id="tea-dohakosa-saraha-v89"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As water placed in water becomes one taste with water, so (mind meets its nature).
 
@@ -450,7 +450,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: reali
 teachers: [Saraha](../teachers/saraha.md)
 
 ### v97 <a id="tea-dohakosa-saraha-v97"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 If mind is marked by mind, concepts are stilled and it abides steady; as salt dissolves in water, so mind dissolves into its nature.
 
@@ -462,4 +462,4 @@ teachers: [Saraha](../teachers/saraha.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

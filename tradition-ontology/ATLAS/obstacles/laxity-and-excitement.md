@@ -13,4 +13,4 @@ The faults of concentration: laziness, forgetting the object, laxity and excitem
   - [Bhāvanākrama](../texts/bhavanakrama.md) — ref: I; rests_on: ["tea:bhavanakrama:1/4"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

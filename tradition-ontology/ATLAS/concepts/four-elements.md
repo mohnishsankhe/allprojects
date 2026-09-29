@@ -14,4 +14,4 @@
 - contrasts-with → [The five elements (mahābhūta)](five-elements.md): the Brahmanical and Sāṃkhya lists add space (ākāśa) as a fifth element; the suttas' six-element list adds space and consciousness — rests on [6-27](../texts/mahahatthipadopama-sutta.md#tea-mahahatthipadopama-sutta-6-27), [8-12](../texts/maharahulovada-sutta.md#tea-maharahulovada-sutta-8-12)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

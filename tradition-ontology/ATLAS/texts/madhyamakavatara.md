@@ -17,7 +17,7 @@ Candrakīrti's 'Entry into the Middle Way', a supplement to Nāgārjuna's treati
 **Editions / translations:** 
   - kind: translation; name: Tibetan translation, Derge Tengyur D3861 (dbu ma la 'jug pa) — catalog:Derge-Tengyur:D3861
   - kind: original; name: Sanskrit of the root verses identified in a manuscript from Tibet in the 21st c. (to be confirmed in Phase C); a local e-text gives a Sanskrit rendering of the bhāṣya for chs. 1–5
-**Commentaries on this text:** [Madhyamakāvatārabhāṣya](madhyamakavatara-bhasya.md), [Madhyamakāvatāraṭīkā (Jayānanda)](madhyamakavatara-tika-jayananda.md)
+**Commentaries on this text:** [The Chariot of the Dakpo Kagyu Siddhas](chariot-of-the-dakpo-kagyu-siddhas.md), [Illumination of the Thought (dbu ma dgongs pa rab gsal)](illumination-of-the-thought.md), [Madhyamakāvatārabhāṣya](madhyamakavatara-bhasya.md), [Madhyamakāvatāraṭīkā (Jayānanda)](madhyamakavatara-tika-jayananda.md), [Elimination of Bad Views (lta ba ngan sel) — Gorampa's commentary on the Madhyamakāvatāra](taway-ngensel.md)
 
 ## Teachings (12: skeleton 12)
 
@@ -133,4 +133,4 @@ concepts: [The twenty (sixteen, eighteen) emptinesses](../concepts/twenty-emptin
 _Notes: Chapter structure beyond ch.10 and total verse count from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

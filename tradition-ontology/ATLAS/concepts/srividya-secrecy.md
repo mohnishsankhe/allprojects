@@ -13,4 +13,4 @@
 - is-a → [Secrecy and eligibility](secrecy-and-eligibility.md) — rests on [1.30](../texts/parasurama-kalpasutra.md#tea-parasurama-kalpasutra-1-30)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

@@ -12,4 +12,4 @@
 Sage of the Advaita dialogues: taught by Varāha after long austerity (Varāha 1–3), he teaches his disciple Nidāgha (Varāha 4–5, Tejobindu 5, Mahā, Annapūrṇā); named among the paramahaṃsas (Jābāla 6, Nāradaparivrājaka 3.86).
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

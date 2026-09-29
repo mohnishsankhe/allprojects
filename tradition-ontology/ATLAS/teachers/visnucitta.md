@@ -13,4 +13,4 @@
 Disciple of Rāmānuja and Piḷḷāṉ, author of the Viṣṇucittīya on the Viṣṇu Purāṇa, and teacher of Naḍādūr Ammāḷ in the line the Vaṭakalai follow. (Not to be confused with Periyāḻvār, also called Viṣṇucitta.)
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

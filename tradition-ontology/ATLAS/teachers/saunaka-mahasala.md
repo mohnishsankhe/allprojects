@@ -15,4 +15,4 @@ _Notes: Disambiguated from other Śaunakas (tch:saunaka)._
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering) — Located: MuU 1.1.3 ('śaunako ha vai mahāśālo 'ṅgirasaṃ vidhivad upasannaḥ papraccha').
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

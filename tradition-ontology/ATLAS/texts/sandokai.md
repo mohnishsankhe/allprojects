@@ -19,7 +19,7 @@ Shitou Xiqian's poem of 44 five-character lines: the mind of the great sage of I
 **Editions / translations:** 
   - kind: original; name: CBETA XML P5, Taishō T51n2076 (Jingde chuandeng lu 景德傳燈錄); local copy sources_raw/cbeta/T/T51/T51n2076.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
-## Teachings (2: skeleton 2)
+## Teachings (3: skeleton 3)
 
 ### 459b08 <a id="tea-sandokai-459b08"></a>
 `skeleton` · confidence high
@@ -30,7 +30,18 @@ The mind of the great sage of India was intimately transmitted west and east; pe
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [lingyuan (numinous source)](../terms/lingyuan.md), [huihu (interfusion)](../terms/huihu.md) · concepts: `cpt:principle-and-phenomena-chan` · teachers: [Shitou Xiqian 石頭希遷](../teachers/shitou.md)
+terms: [lingyuan (numinous source)](../terms/lingyuan.md), [huihu (interfusion)](../terms/huihu.md) · concepts: [Principle and phenomena in Chan (li / shi, huihu)](../concepts/principle-and-phenomena-chan.md) · teachers: [Shitou Xiqian 石頭希遷](../teachers/shitou.md)
+
+### 459b12 <a id="tea-sandokai-459b12"></a>
+`skeleton` · confidence high
+
+The four elements return to their own natures like a child to its mother: fire is hot, wind moves, water is wet, earth is solid; eyes and colours, ears and sounds, nose and smells, tongue and tastes — each dharma, like leaves from the root, branches out; root and branches must return to the source.
+
+> 四大性自復。如子得其母。火熱風動搖。水濕地堅固。眼色耳音聲。鼻香舌鹹醋。然依一一法。依根葉分布
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: advanced · types: world-fate, body-layers, ultimate_
+
+concepts: [The four elements in Chan](../concepts/four-elements-chan.md), [Principle and phenomena in Chan (li / shi, huihu)](../concepts/principle-and-phenomena-chan.md)
 
 ### 459b15 <a id="tea-sandokai-459b15"></a>
 `skeleton` · confidence high
@@ -41,10 +52,10 @@ Right in light there is darkness — do not meet it as darkness; right in darkne
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-concepts: `cpt:principle-and-phenomena-chan`
+concepts: [Principle and phenomena in Chan (li / shi, huihu)](../concepts/principle-and-phenomena-chan.md)
 
 
 _Notes: Registry fixes the Japanese-derived id src:sandokai for Shitou's Cantongqi. Chanted daily in Sōtō monasteries._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

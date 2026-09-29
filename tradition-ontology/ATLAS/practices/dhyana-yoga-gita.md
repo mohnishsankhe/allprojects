@@ -48,4 +48,4 @@ _Notes: Yoga is defined here as 'the unyoking from union with sorrow', to be pra
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:6.10, tea:bhagavad-gita:6.11, tea:bhagavad-gita:6.12, tea:bhagavad-gita:6.13, tea:bhagavad-gita:6.14, tea:bhagavad-gita:6.15, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.19, tea:bhagavad-gita:6.20, tea:bhagavad-gita:6.21, tea:bhagavad-gita:6.22, tea:bhagavad-gita:6.23, tea:bhagavad — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:34 IST._

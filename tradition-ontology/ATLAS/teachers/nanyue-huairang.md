@@ -11,4 +11,4 @@
 Disciple of Huineng ('to call it a thing misses the mark'), teacher of Mazu; polished a tile to show that sitting does not make a buddha.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

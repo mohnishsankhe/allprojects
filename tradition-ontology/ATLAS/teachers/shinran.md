@@ -2,7 +2,7 @@
 
 `tch:shinran` · `skeleton` · confidence high
 
-**Alternate names:** 親鸞, Gutoku Shinran 愚禿親鸞, Hanen, Shakkū, Zenshin, Kenshin Daishi (posthumous, 1876)
+**Alternate names:** 親鸞, Gutoku Shinran 愚禿親鸞, Han'en 範宴, Shakkū 綽空, Zenshin 善信, Kenshin Daishi (posthumous, 1876)
 **Lineages:** [Jōdo Shinshū (the True Pure Land school of Shinran)](../lineages/jodo-shinshu.md), [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tendai`
 **Dates:** Scholarly account: 1173–1263 CE; (confidence high)
 **Places:** Mt Hiei (1181–1201), Kyoto (Rokkakudō, Yoshimizu), Echigo (exile 1207–1211), Hitachi (Inada) and the Kantō, Kyoto (from c. 1235)
@@ -24,4 +24,4 @@ Hōnen's disciple who, laicised and exiled to Echigo in 1207, called himself 'Gu
 **Realization — the tradition's account:** After twenty years as a hall monk on Mt Hiei he secluded himself in the Rokkakudō for a hundred days; on the ninety-fifth dawn Prince Shōtoku (Kannon) appeared in a dream, and he went to Hōnen (Eshinni's letters; Godenshō). He 'abandoned the miscellaneous practices and took refuge in the primal vow' in 1201 (Kyōgyōshinshō postscript).
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -18,4 +18,4 @@ In jyotiṣa, the recitation prescribed again and again as the remedy for period
 _Notes: The seed-syllable forms of the manuals (e.g. with hauṃ juṃ saḥ) are recalled with low confidence and not given here._
 
 ---
-_Contributed by: skeleton:U32-jyotisa, skeleton:U01-vedic-samhitas, skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U32-jyotisa, skeleton:U01-vedic-samhitas, skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._

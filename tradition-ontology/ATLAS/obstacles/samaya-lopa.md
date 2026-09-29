@@ -12,7 +12,7 @@ Breaking the initiate's observances; for those without lineage and proud of mere
   - [Yoginīhṛdaya](../texts/yoginihrdaya.md) — ref: 2.81; rests_on: ["tea:yoginihrdaya:2.81"]
 
 ## Equivalents (interpretation layer)
-- partial: [Breaking the samaya pledges](samaya-bhanga.md) — the Śrīvidyā statement of the Mantramārga fault of breaking initiatory rules
+- partial: [Breaking the samaya](samaya-bhanga.md) — the Śrīvidyā statement of the Mantramārga fault of breaking initiatory rules
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

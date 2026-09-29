@@ -11,4 +11,4 @@
 Name under which the Ṣaṭkarmasaṅgraha, a manual of cleansing acts, is transmitted.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._

@@ -13,4 +13,4 @@
 Shinran's disciple of Kawada (Hitachi), generally regarded as the compiler of the Tannishō.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

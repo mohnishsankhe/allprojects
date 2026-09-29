@@ -18,4 +18,4 @@
 - contrasts-with → [The nine centres (Siddhasiddhāntapaddhati)](nava-cakra-ssp.md): six-centre maps vs the Siddhasiddhāntapaddhati's nine; not reconciled in the texts themselves — rests on [topic.knowledge-of-own-body](../texts/vivekamartanda.md#tea-vivekamartanda-topic-knowledge-of-own-body)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._

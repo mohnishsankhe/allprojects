@@ -34,4 +34,4 @@ Alternate-nostril breathing with retention: inhaling through the moon (left) nos
 - Breath must be tamed gradually, like a lion, elephant or tiger; otherwise it kills the practitioner; improper practice causes hiccup, asthma, cough and pains of head, ears and eyes. — [Yogacūḍāmaṇi Upaniṣad](../texts/yogacudamani-upanisad.md) 116-118
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

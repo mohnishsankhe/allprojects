@@ -17,4 +17,4 @@ _Notes: List as traditionally given; the source ascription is low-confidence._
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/vikritivalli, https://www.researchgate.net/publication/397407528_Memory_Techniques_in_the_Vedic_Oral_Tradition_and_Their_Application_in_Education — List of eight confirmed (jaṭā, mālā, śikhā, rekhā/lekhā, dhvaja, daṇḍa, ratha, ghana — Vikṛtivallī 1.5); ascription to Vyāḍi confirmed.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._

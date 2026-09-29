@@ -10,4 +10,4 @@
 The king who forced Jaḍa Bharata to carry his palanquin and received from him instruction on the self beyond the body (BhP 5.10-13; the VP 2.13-16 version names the king of Sauvīra).
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

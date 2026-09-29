@@ -17,4 +17,4 @@ Dīpaṅkarabhadra's ritual for the Guhyasamāja maṇḍala in the Jñānapāda
 _Notes: Verse count from memory._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

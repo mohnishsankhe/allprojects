@@ -19,4 +19,4 @@ Founder of the Bhāṭṭa school: author of the Ślokavārttika, Tantravārttik
 _Notes: Hagiographic details are from memory and are not in Kumārila's works (low confidence). The teacher–pupil link with Prabhākara is a Bhāṭṭa legend; its historicity is doubted._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._

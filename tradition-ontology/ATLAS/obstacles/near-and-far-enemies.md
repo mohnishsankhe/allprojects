@@ -12,4 +12,4 @@ Each divine abiding is threatened by a near enemy resembling it and a far enemy 
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: IX, PTS p. 318–319; rests_on: ["tea:visuddhimagga:9/4"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._

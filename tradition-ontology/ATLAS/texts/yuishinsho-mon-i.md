@@ -23,8 +23,8 @@ Buddha-nature is dharma-nature, dharma-body; this Tathāgata pervades the countl
 
 _level: ultimate · standpoint: absolute · path: devotion, knowledge · stage: all · types: ultimate_
 
-terms: [dharmakāya](../terms/dharmakaya.md), [buddhadhātu](../terms/buddhadhatu.md) · concepts: `cpt:two-dharmakayas`, `cpt:shinjin` · teachers: [Shinran](../teachers/shinran.md)
+terms: [dharmakāya](../terms/dharmakaya.md), [buddhadhātu](../terms/buddhadhatu.md) · concepts: [The two dharma-bodies (of dharma-nature and of expedient means)](../concepts/two-dharmakayas.md), [Shinjin — true entrusting](../concepts/shinjin.md) · teachers: [Shinran](../teachers/shinran.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

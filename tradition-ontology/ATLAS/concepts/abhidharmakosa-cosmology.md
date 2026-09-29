@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The thirty-one planes of existence](thirty-one-planes.md): The Kośa's realms and places (twenty desire-realm places, seventeen form places) vs the Pali thirty-one planes; counts differ. — rests on [3.1-3](../texts/abhidharmakosa.md#tea-abhidharmakosa-3-1-3)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

@@ -20,8 +20,8 @@ Amida's attainment of perfect awakening and our birth were accomplished at the s
 
 _level: bridging · standpoint: divine · path: devotion · stage: all · types: ultimate_
 
-terms: `trm:kiho-ittai` · concepts: `cpt:kiho-ittai`
+terms: [kihō ittai](../terms/kiho-ittai.md) · concepts: [Oneness of person and Dharma (kihō ittai)](../concepts/kiho-ittai.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -11,4 +11,4 @@ Worship of the guru's sandals and recitation of the lineage's pādukā-mantra �
   - [Kulārṇava Tantra](../texts/kularnava-tantra.md) — ref: 12.12; rests_on: ["tea:kularnava-tantra:12.12"]
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._

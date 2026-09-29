@@ -24,7 +24,7 @@ The Korean Seon order named after Huineng's Caoxi, which regards Jinul and Taego
 [Doui 道義](../teachers/doui.md), [Gyeongheo Seong'u 鏡虛惺牛](../teachers/gyeongheo.md), [Hyesim 慧諶 (Jingak guksa)](../teachers/hyesim.md), [Hyujeong 休靜 (Seosan daesa)](../teachers/hyujeong.md), [Jinul 知訥 (Bojo)](../teachers/jinul.md), [Mangong Wolmyeon 滿空月面](../teachers/mangong.md), [Toeong Seongcheol 退翁性徹](../teachers/seongcheol.md), [Taego Bou 太古普愚](../teachers/taego-bou.md)
 
 ## Practices
-_none recorded_
+[Huatou / hwadu (observing the critical phrase)](../practices/huatou.md)
 
 ## Path maps
 _none recorded_
@@ -33,4 +33,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

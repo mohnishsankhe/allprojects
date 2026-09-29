@@ -27,7 +27,7 @@ Linji's four relations of illumination and function: sometimes illumination firs
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: teacher-transmission_
 
-terms: [zhao and yong (illumination and function)](../terms/zhao-yong.md) · concepts: `cpt:linji-devices`
+terms: [zhao and yong (illumination and function)](../terms/zhao-yong.md) · concepts: [Linji's teaching devices](../concepts/linji-devices.md)
 
 ### 311b16 <a id="tea-rentian-yanmu-311b16"></a>
 `skeleton` · confidence moderate
@@ -38,7 +38,7 @@ Rentian yanmu's summary of the Linji devices, including the four guest-host rela
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: teacher-transmission_
 
-terms: [binzhu (guest and host)](../terms/binzhu.md) · concepts: `cpt:linji-devices`
+terms: [binzhu (guest and host)](../terms/binzhu.md) · concepts: [Linji's teaching devices](../concepts/linji-devices.md)
 
 ### 312a07 <a id="tea-rentian-yanmu-312a07"></a>
 `skeleton` · confidence high
@@ -49,7 +49,7 @@ Yunmen said: 'containing heaven and earth; measuring the capacities of those bef
 
 _level: bridging · standpoint: analytic · path: knowledge, sound · stage: advanced · types: sound-language, teacher-transmission_
 
-terms: [Yunmen's three phrases](../terms/yunmen-sanju.md) · concepts: `cpt:five-houses` · teachers: [Yunmen Wenyan 雲門文偃](../teachers/yunmen.md), [Deshan Yuanmi 德山緣密](../teachers/deshan-yuanmi.md)
+terms: [Yunmen's three phrases](../terms/yunmen-sanju.md) · concepts: [The Five Houses of Chan](../concepts/five-houses.md) · teachers: [Yunmen Wenyan 雲門文偃](../teachers/yunmen.md), [Deshan Yuanmi 德山緣密](../teachers/deshan-yuanmi.md)
 
 ### 321c09 <a id="tea-rentian-yanmu-321c09"></a>
 `skeleton` · confidence moderate
@@ -60,7 +60,7 @@ On the origin of circle-figures: they began with National Teacher Huizhong of Na
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: advanced · types: teacher-transmission_
 
-terms: [yuanxiang (circle-figure)](../terms/yuanxiang.md) · concepts: `cpt:five-houses`
+terms: [yuanxiang (circle-figure)](../terms/yuanxiang.md) · concepts: [The Five Houses of Chan](../concepts/five-houses.md)
 
 ### 324a01 <a id="tea-rentian-yanmu-324a01"></a>
 `skeleton` · confidence moderate
@@ -71,8 +71,8 @@ The guiding principle established by Fayan: the three realms are only mind, the 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, teacher-transmission_
 
-concepts: `cpt:five-houses` · teachers: [Fayan Wenyi 法眼文益](../teachers/fayan-wenyi.md)
+concepts: [The Five Houses of Chan](../concepts/five-houses.md) · teachers: [Fayan Wenyi 法眼文益](../teachers/fayan-wenyi.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

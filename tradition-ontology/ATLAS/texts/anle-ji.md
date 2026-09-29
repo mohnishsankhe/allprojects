@@ -29,7 +29,7 @@ Against teachers of the Mahāyānasaṃgraha who called the Contemplation Sūtra
 
 _level: conventional · standpoint: polemical · path: devotion, sound · stage: all · types: dispute, karma-liberation_
 
-terms: `trm:bieshiyi`, `trm:shinian` · teachers: [Daochuo](../teachers/daochuo.md) · disputes: `dsp:intention-for-another-time`
+terms: [bieshi yi](../terms/bieshiyi.md), [shinian](../terms/shinian.md) · teachers: [Daochuo](../teachers/daochuo.md) · disputes: [Does the promise of birth by vows or ten recitations bring birth at once, or only at 'another time' (Mahāyānasaṃgraha)?](../debates/intention-for-another-time.md)
 
 ### 10c16-29 <a id="tea-anle-ji-10c16-29"></a>
 `skeleton` · confidence high
@@ -40,7 +40,7 @@ To the objection that karma is like a scale where the heavier side pulls first, 
 
 _level: conventional · standpoint: causal · path: devotion, sound · stage: all · types: karma-liberation_
 
-terms: `trm:shinian` · concepts: `cpt:ten-recitations` · teachers: [Daochuo](../teachers/daochuo.md), [Tanluan](../teachers/tanluan.md)
+terms: [shinian](../terms/shinian.md) · concepts: [The ten recitations (shinian / jūnen)](../concepts/ten-recitations.md) · teachers: [Daochuo](../teachers/daochuo.md), [Tanluan](../teachers/tanluan.md)
 
 ### 11a22-27 <a id="tea-anle-ji-11a22-27"></a>
 `skeleton` · confidence high
@@ -51,7 +51,7 @@ How long is 'ten recitations'? Not the scriptural measure of moments: simply rec
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice_
 
-terms: `trm:shinian` · concepts: `cpt:ten-recitations` · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Daochuo](../teachers/daochuo.md)
+terms: [shinian](../terms/shinian.md) · concepts: [The ten recitations (shinian / jūnen)](../concepts/ten-recitations.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Daochuo](../teachers/daochuo.md)
 
 ### 11b19-29 <a id="tea-anle-ji-11b19-29"></a>
 `skeleton` · confidence high
@@ -62,7 +62,7 @@ Do not put off practice to the deathbed: ordinary minds are like wild horses and
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: death-dying, practice_
 
-terms: `trm:shinian`, `trm:zhunian` · concepts: `cpt:deathbed-practice` · practices: `prc:deathbed-rites`, `prc:zhunian` · teachers: [Daochuo](../teachers/daochuo.md)
+terms: [shinian](../terms/shinian.md), [zhunian](../terms/zhunian.md) · concepts: [Deathbed practice and right mindfulness at death](../concepts/deathbed-practice.md) · practices: [Deathbed rites for birth (linzhong xingyi / rinjū gyōgi)](../practices/deathbed-rites.md), [Assisted recitation for the dying (zhunian)](../practices/zhunian.md) · teachers: [Daochuo](../teachers/daochuo.md)
 
 ### 11c08-14 <a id="tea-anle-ji-11c08-14"></a>
 `skeleton` · confidence high
@@ -73,7 +73,7 @@ If birth is the root of all troubles, is not seeking birth in the Pure Land aban
 
 _level: bridging · standpoint: polemical · path: devotion, knowledge · stage: all · types: ultimate, dispute_
 
-terms: `trm:wusheng-zhi-sheng` · concepts: `cpt:birth-of-non-birth` · teachers: [Daochuo](../teachers/daochuo.md), [Tanluan](../teachers/tanluan.md) · disputes: `dsp:pure-land-real-or-mind-only`
+terms: [wusheng zhi sheng](../terms/wusheng-zhi-sheng.md) · concepts: [The birth of non-birth](../concepts/birth-of-non-birth.md) · teachers: [Daochuo](../teachers/daochuo.md), [Tanluan](../teachers/tanluan.md) · disputes: [Is the Pure Land a real land in the West, or the purified mind only?](../debates/pure-land-real-or-mind-only.md)
 
 ### 13c05-22 <a id="tea-anle-ji-13c05-22"></a>
 `skeleton` · confidence high
@@ -84,7 +84,7 @@ Why do beings who all have buddha-nature and have met many buddhas still transmi
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: karma-liberation, world-fate_
 
-terms: `trm:shengdao-men`, `trm:jingtu-men`, `trm:mofa`, `trm:wuzhuo` · concepts: `cpt:two-gates-holy-path-pure-land`, `cpt:three-periods-of-the-dharma` · teachers: [Daochuo](../teachers/daochuo.md) · disputes: `dsp:self-power-or-other-power`
+terms: [shengdao men](../terms/shengdao-men.md), [jingtu men](../terms/jingtu-men.md), [mofa](../terms/mofa.md), [pañca-kaṣāya](../terms/panca-kasaya.md) · concepts: [The two gates: the holy path and the Pure Land](../concepts/two-gates-holy-path-pure-land.md), [The three ages of the Dharma (true, semblance, final)](../concepts/three-periods-of-the-dharma.md) · teachers: [Daochuo](../teachers/daochuo.md) · disputes: [Is awakening reached by one's own practice (self-power) or by the power of Amitābha's vow (other-power)?](../debates/self-power-or-other-power.md)
 
 ### 4a26-b03 <a id="tea-anle-ji-4a26-b03"></a>
 `skeleton` · confidence high
@@ -95,7 +95,7 @@ The first great gate: teaching arises according to the time and the capacity of 
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission, world-fate_
 
-concepts: `cpt:three-periods-of-the-dharma`, `cpt:time-and-capacity` · teachers: [Daochuo](../teachers/daochuo.md)
+concepts: [The three ages of the Dharma (true, semblance, final)](../concepts/three-periods-of-the-dharma.md), [Teaching fitted to time and capacity](../concepts/time-and-capacity.md) · teachers: [Daochuo](../teachers/daochuo.md)
 
 ### 4b03-22 <a id="tea-anle-ji-4b03-22"></a>
 `skeleton` · confidence high
@@ -106,7 +106,7 @@ Citing the Candragarbha (Mahāsaṃnipāta) sūtra's five periods of five hundre
 
 _level: conventional · standpoint: cosmic · path: devotion, sound · stage: all · types: world-fate, practice_
 
-terms: `trm:mofa`, `trm:chengming` · concepts: `cpt:three-periods-of-the-dharma` · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Daochuo](../teachers/daochuo.md)
+terms: [mofa](../terms/mofa.md), [chengming](../terms/chengming.md) · concepts: [The three ages of the Dharma (true, semblance, final)](../concepts/three-periods-of-the-dharma.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Daochuo](../teachers/daochuo.md)
 
 ### 5a14 <a id="tea-anle-ji-5a14"></a>
 `skeleton` · confidence high
@@ -117,7 +117,7 @@ Different sūtras have different themes — the Nirvāṇa buddha-nature, the Vi
 
 _level: conventional · standpoint: analytic · path: meditation · stage: all · types: practice_
 
-terms: `trm:nianfo-sanmei` · teachers: [Daochuo](../teachers/daochuo.md)
+terms: [nianfo sanmei](../terms/nianfo-sanmei.md) · teachers: [Daochuo](../teachers/daochuo.md)
 
 ### 5c09-10 <a id="tea-anle-ji-5c09-10"></a>
 `skeleton` · confidence high
@@ -128,7 +128,7 @@ Practising the nianfo samādhi within the aspiration for awakening, all demons a
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: all · types: practice, powers-experiences_
 
-terms: `trm:nianfo-sanmei` · concepts: `cpt:nianfo-samadhi` · teachers: [Daochuo](../teachers/daochuo.md)
+terms: [nianfo sanmei](../terms/nianfo-sanmei.md) · concepts: [The samādhi of recollecting the Buddha](../concepts/nianfo-samadhi.md) · teachers: [Daochuo](../teachers/daochuo.md)
 
 ### 5c11-15 <a id="tea-anle-ji-5c11-15"></a>
 `skeleton` · confidence high
@@ -139,7 +139,7 @@ Asked what body the present Amitābha is and what land Sukhāvatī is, Daochuo a
 
 _level: conventional · standpoint: polemical · path: devotion, knowledge · stage: all · types: ultimate, dispute_
 
-terms: `trm:baotu` · concepts: `cpt:reward-land-for-ordinary-beings` · teachers: [Daochuo](../teachers/daochuo.md) · disputes: `dsp:amitabha-land-reward-or-transformation`
+terms: [baotu](../terms/baotu.md) · concepts: [Sukhāvatī as a reward land into which ordinary beings are born](../concepts/reward-land-for-ordinary-beings.md) · teachers: [Daochuo](../teachers/daochuo.md) · disputes: [Is Amitābha a reward-body buddha in a reward land, or a transformation body in a land where ordinary beings and sages dwell together?](../debates/amitabha-land-reward-or-transformation.md)
 
 ### 7a25-b02 <a id="tea-anle-ji-7a25-b02"></a>
 `skeleton` · confidence high
@@ -150,7 +150,7 @@ The Pure Land is excellent and wondrous, in substance beyond the world; the thre
 
 _level: conventional · standpoint: cosmic · path: devotion · stage: all · types: world-fate_
 
-concepts: [Pure lands and buddha-fields](../concepts/pure-lands.md), `cpt:loathing-this-world-seeking-the-pure-land` · teachers: [Daochuo](../teachers/daochuo.md)
+concepts: [Pure lands and buddha-fields](../concepts/pure-lands.md), [Loathing this defiled world, joyfully seeking the Pure Land](../concepts/loathing-this-world-seeking-the-pure-land.md) · teachers: [Daochuo](../teachers/daochuo.md)
 
 ### 9b22-c09 <a id="tea-anle-ji-9b22-c09"></a>
 `skeleton` · confidence high
@@ -161,10 +161,10 @@ To those who prefer birth in Maitreya's Tuṣita to the West, Daochuo answers th
 
 _level: conventional · standpoint: polemical · path: devotion · stage: all · types: dispute, world-fate_
 
-concepts: `cpt:non-retrogression-in-the-pure-land` · teachers: [Daochuo](../teachers/daochuo.md) · disputes: `dsp:tusita-or-sukhavati`
+concepts: [Non-retrogression of those born in Sukhāvatī](../concepts/non-retrogression-in-the-pure-land.md) · teachers: [Daochuo](../teachers/daochuo.md) · disputes: [Should one aspire to Maitreya's Tuṣita or to Amitābha's Sukhāvatī?](../debates/tusita-or-sukhavati.md)
 
 
 _Notes: Key passages read locally (T47n1958)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

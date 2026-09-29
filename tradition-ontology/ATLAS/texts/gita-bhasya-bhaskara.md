@@ -23,4 +23,4 @@ _Notes: Existence recalled; extent and recension not confirmed (low)._
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Bh%C4%81skara_(Bhedabheda_Vedanta), https://www.scribd.com/document/361609241/Bhagavad-Gitabhashya-of-Bhaskara-p-Gitasamiksa014825mbp — Least-sure item: Bhāskara (8th–9th c.) wrote a Gītā commentary of which portions survive; "partly-lost" and the date range are consistent.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._

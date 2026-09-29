@@ -31,4 +31,4 @@ terms: [tathya-saṃvṛti](../terms/tathya-samvrti.md), [arthakriyā](../terms/
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

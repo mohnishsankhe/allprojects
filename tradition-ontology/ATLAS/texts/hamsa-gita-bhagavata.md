@@ -17,4 +17,4 @@
 Answers the Kumāras' question how the mind and the guṇas can be separated: the question 'who are you?' has no footing where the self is one; waking, dream and sleep are states of the intellect of which the self is the witness; abiding in the fourth (turya) the knower sees the world as the mind's play, like a whirling firebrand, and the body continues only while its karma lasts.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

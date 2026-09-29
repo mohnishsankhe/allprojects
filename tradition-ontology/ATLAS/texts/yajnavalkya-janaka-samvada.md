@@ -24,4 +24,4 @@ Yājñavalkya teaches king Daivarāti Janaka the evolution of the principles (ta
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.298.4 Daivarāti; 12.299.1ff speaker Yājñavalkya; 12.306.27 Viśvāvasu; 12.306.92 — Section located at CE 12.298-306 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._

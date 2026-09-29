@@ -23,8 +23,8 @@ Lakṣmīṅkarā rejects austerities, fasting, bathing and outer rites; the bod
 
 _level: ultimate · standpoint: polemical · path: general · stage: all · types: ethics, body-layers_
 
-concepts: `cpt:buddha-in-the-body`, `cpt:status-of-women-vajrayana` · teachers: [Lakṣmīṅkarā](../teachers/laksminkara.md)
+concepts: [The buddha in the body](../concepts/buddha-in-the-body.md), [Women in the Vajrayāna](../concepts/status-of-women-vajrayana.md) · teachers: [Lakṣmīṅkarā](../teachers/laksminkara.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

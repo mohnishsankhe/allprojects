@@ -13,4 +13,4 @@
 - contrasts-with → [The awakening mind (bodhicitta) in the Madhyamaka manuals](bodhicitta.md): the Mahāyāna makes the bodhisattva path a universal ideal; Theravāda reserves it for aspirants to Buddhahood — rests on [2.52-2.75](../texts/buddhavamsa.md#tea-buddhavamsa-2-52-2-75), [2.59](../texts/buddhavamsa.md#tea-buddhavamsa-2-59)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

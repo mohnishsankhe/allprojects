@@ -19,4 +19,4 @@
 _Notes: Homonym: in Kashmir Śaivism the (five/six) 'coverings' limiting consciousness._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

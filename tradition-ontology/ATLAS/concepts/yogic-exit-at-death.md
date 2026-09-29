@@ -17,4 +17,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.10, tea:bhagavad-gita:8.12, tea:bhagavad-gita:8.13, tea:bhagavad-gita:8.9, tea:bhagavad-gita:8.9-10, tea:bhagavad-gita:8.12-13 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

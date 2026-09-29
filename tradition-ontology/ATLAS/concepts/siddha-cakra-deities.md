@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The centres (cakra, ādhāra)](cakras.md): the six supports; the element-deity pairing here places earth above the root, unlike the Ṣaṭcakranirūpaṇa, which puts earth at the root — rests on [67](../texts/bhadragiriyar-meynana-pulampal.md#tea-bhadragiriyar-meynana-pulampal-67)
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._

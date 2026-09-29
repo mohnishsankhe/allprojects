@@ -25,10 +25,10 @@ Huiyuan asks Kumārajīva whether the buddha seen in the pratyutpanna samādhi �
 
 _level: bridging · standpoint: experiential · path: meditation, devotion · stage: intermediate · types: powers-experiences, consciousness-mind, dispute_
 
-concepts: `cpt:seeing-the-buddha`, `cpt:mind-only-pure-land` · practices: [The samādhi of the buddhas standing before one](../practices/pratyutpanna-samadhi.md) · teachers: [Huiyuan of Lushan](../teachers/huiyuan-lushan.md), [Kumārajīva](../teachers/kumarajiva.md) · disputes: `dsp:pure-land-real-or-mind-only`
+concepts: [Seeing the Buddha (jianfo) in samādhi, dream or at death](../concepts/seeing-the-buddha.md), [The Pure Land as mind only (weixin jingtu)](../concepts/mind-only-pure-land.md) · practices: [The samādhi of the buddhas standing before one](../practices/pratyutpanna-samadhi.md) · teachers: [Huiyuan of Lushan](../teachers/huiyuan-lushan.md), [Kumārajīva](../teachers/kumarajiva.md) · disputes: [Is the Pure Land a real land in the West, or the purified mind only?](../debates/pure-land-real-or-mind-only.md)
 
 
 _Notes: T45 not local; recalled (moderate)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

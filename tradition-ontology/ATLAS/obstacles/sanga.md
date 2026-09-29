@@ -15,10 +15,13 @@ Bhagavad Gītā 1–3: Attachment arises from dwelling on objects and gives rise
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.11; rests_on: ["tea:bhagavad-gita:5.11"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.21; rests_on: ["tea:bhagavad-gita:5.21"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.4; rests_on: ["tea:bhagavad-gita:6.4"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 11.55; rests_on: ["tea:bhagavad-gita:11.55"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.18; rests_on: ["tea:bhagavad-gita:12.18"]
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.23, tea:bhagavad-gita:5.10, tea:bhagavad-gita:5.11, tea:bhagavad-gita:5.21, tea:bhagavad-gita:6.4 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:11.55, tea:bhagavad-gita:12.18 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:10 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:34 IST._

@@ -15,4 +15,4 @@
 - partial: [rasāyana](rasayana.md) — both name rejuvenation; kaṟpam also covers breath and yogic means
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._

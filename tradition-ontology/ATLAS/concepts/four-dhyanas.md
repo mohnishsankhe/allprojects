@@ -15,4 +15,4 @@
 - contrasts-with → [Coalescence (samāpatti)](samapatti.md): TS 9.41–44 use vitarka and vīcāra but define them as scriptural cognition and shifting among object, word and activity — not Patañjali's gross/subtle object-absorptions. — rests on [9.43](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-9-43), [9.44](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-9-44)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

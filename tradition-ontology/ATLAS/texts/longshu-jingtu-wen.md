@@ -28,10 +28,10 @@ The lay scholar Wang Rixiu's popular exhortation to recite Amitābha's name: fai
 
 _level: conventional · standpoint: seeker · path: devotion · stage: beginner · types: practice_
 
-terms: `trm:xinxin` · teachers: [Wang Rixiu](../teachers/wang-rixiu.md)
+terms: [śraddhā](../terms/sraddha.md) · teachers: [Wang Rixiu](../teachers/wang-rixiu.md)
 
 
 _Notes: Opening read locally (T47n1970 251a)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

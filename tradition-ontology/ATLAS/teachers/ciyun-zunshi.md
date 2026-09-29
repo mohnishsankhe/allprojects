@@ -2,7 +2,7 @@
 
 `tch:ciyun-zunshi` · `skeleton` · confidence high
 
-**Alternate names:** 慈雲遵式, Baiyun
+**Alternate names:** 慈雲遵式, Ciyun chanzhu 慈雲懺主
 **Lineages:** [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tiantai`
 **Dates:** Scholarly account: 964–1032 CE; (confidence high)
 **Places:** Hangzhou (Tianzhu si)
@@ -14,4 +14,4 @@
 Song Tiantai master who composed Pure Land repentance liturgies and the widely used 'ten recitations' method for lay people each morning.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

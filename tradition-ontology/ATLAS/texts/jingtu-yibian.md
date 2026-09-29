@@ -26,7 +26,7 @@ Asked whether Pure Land is only a symbol and the wise should awaken directly thr
 
 _level: bridging · standpoint: polemical · path: devotion, meditation · stage: all · types: dispute, practice_
 
-concepts: `cpt:chan-pure-land-dual-cultivation` · teachers: [Yunqi Zhuhong](../teachers/yunqi-zhuhong.md), [Zhongfeng Mingben 中峰明本](../teachers/zhongfeng-mingben.md) · disputes: `dsp:chan-pure-land-dual-practice`
+concepts: [Dual cultivation of Chan and Pure Land (chanjing shuangxiu)](../concepts/chan-pure-land-dual-cultivation.md) · teachers: [Yunqi Zhuhong](../teachers/yunqi-zhuhong.md), [Zhongfeng Mingben 中峰明本](../teachers/zhongfeng-mingben.md) · disputes: [Should Chan meditation and Pure Land recitation be practised together?](../debates/chan-pure-land-dual-practice.md)
 
 ### 420a23-b14 <a id="tea-jingtu-yibian-420a23-b14"></a>
 `skeleton` · confidence high
@@ -37,7 +37,7 @@ If 'the pure mind is the Pure Land, so there is no seven-jewelled world', then b
 
 _level: bridging · standpoint: polemical · path: devotion, knowledge · stage: all · types: dispute_
 
-terms: [weixin jingtu (mind-only Pure Land)](../terms/weixin-jingtu.md) · concepts: `cpt:mind-only-pure-land` · teachers: [Yunqi Zhuhong](../teachers/yunqi-zhuhong.md) · disputes: `dsp:pure-land-real-or-mind-only`
+terms: [weixin jingtu (mind-only Pure Land)](../terms/weixin-jingtu.md) · concepts: [The Pure Land as mind only (weixin jingtu)](../concepts/mind-only-pure-land.md) · teachers: [Yunqi Zhuhong](../teachers/yunqi-zhuhong.md) · disputes: [Is the Pure Land a real land in the West, or the purified mind only?](../debates/pure-land-real-or-mind-only.md)
 
 ### 420b15-28 <a id="tea-jingtu-yibian-420b15-28"></a>
 `skeleton` · confidence high
@@ -48,10 +48,10 @@ If you have the strength and vow to go in and out of the sea of birth-and-death 
 
 _level: conventional · standpoint: seeker · path: devotion, meditation · stage: all · types: practice, dispute_
 
-concepts: `cpt:chan-pure-land-dual-cultivation` · teachers: [Yunqi Zhuhong](../teachers/yunqi-zhuhong.md) · disputes: `dsp:chan-pure-land-dual-practice`
+concepts: [Dual cultivation of Chan and Pure Land (chanjing shuangxiu)](../concepts/chan-pure-land-dual-cultivation.md) · teachers: [Yunqi Zhuhong](../teachers/yunqi-zhuhong.md) · disputes: [Should Chan meditation and Pure Land recitation be practised together?](../debates/chan-pure-land-dual-practice.md)
 
 
 _Notes: Whole text read locally (T47n1977)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -14,4 +14,4 @@ Author by tradition of the Rāṇāyanīya Sāmaveda Śrautasūtra.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Drāhyāyaṇaśrautasūtra — Low-confidence entry confirmed as the eponymous author of the Drāhyāyaṇa Śrautasūtra.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

@@ -11,4 +11,4 @@
 Jain mathematician, author of the Gaṇitasārasaṅgraha under the Rāṣṭrakūṭa king Amoghavarṣa.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._

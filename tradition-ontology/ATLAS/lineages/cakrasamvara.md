@@ -20,9 +20,9 @@ The Yoginī-tantra tradition centred on Heruka Cakrasaṃvara and Vajravārāhī
 - The Vajrayoginī (Vajravārāhī) sādhanas of Nāropa, Indrabhūti and Maitrīpa belong to this cycle.
 
 **Transmissions given:** 
-  - `lin:kagyu` — what: the three Indian lineages (Lūipa, Ghaṇṭāpa, Kāṇha) and the Vajrayoginī cycles
-  - `lin:sakya` — what: the three Indian lineages (Lūipa, Ghaṇṭāpa, Kāṇha) and the Vajrayoginī cycles
-  - `lin:gelug` — what: the three Indian lineages (Lūipa, Ghaṇṭāpa, Kāṇha) and the Vajrayoginī cycles
+  - [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](kagyu.md) — what: the three Indian lineages (Lūipa, Ghaṇṭāpa, Kāṇha) and the Vajrayoginī cycles
+  - [Sakya](sakya.md) — what: the three Indian lineages (Lūipa, Ghaṇṭāpa, Kāṇha) and the Vajrayoginī cycles
+  - [Gelug](gelug.md) — what: the three Indian lineages (Lūipa, Ghaṇṭāpa, Kāṇha) and the Vajrayoginī cycles
   - `lin:newar-vajrayana` — what: Cakrasaṃvara and Vajravārāhī as the principal esoteric deities
 
 ## The ultimate in this lineage
@@ -35,13 +35,13 @@ The Yoginī-tantra tradition centred on Heruka Cakrasaṃvara and Vajravārāhī
 **Caveat:** The etymology 'saṃvara = supreme bliss' is the commentators'; the tradition keeps Heruka empty of own-being and distinguishes him from Śaiva Bhairava, whom he is said to have subdued.
 
 ## Texts
-[Abhidhānottara Tantra](../texts/abhidhanottara-tantra.md), [Cakrasaṃvarapañjikā of Jayabhadra](../texts/cakrasamvara-panjika-jayabhadra.md), [Cakrasaṃvara Tantra (Laghuśaṃvara)](../texts/cakrasamvara-tantra.md), [Cakrasaṃvarapañjikā of Bhavabhaṭṭa](../texts/cakrasamvara-vivrti-bhavabhatta.md), [Ḍākārṇava Tantra](../texts/dakarnava-tantra.md), [Guhyasamayasādhanamālā](../texts/guhyasamayasadhanamala.md), [Śrībhagavadabhisamaya (Lūipa's Cakrasaṃvara sādhana)](../texts/luipa-abhisamaya.md), [Navaślokī](../texts/navasloki-kambala.md), [Sādhananidāna (Śrīcakrasaṃvarapañjikā)](../texts/sadhananidana-kambala.md), [Saṃpuṭa Tantra](../texts/samputa-tantra.md), [Saṃvarodaya Tantra](../texts/samvarodaya-tantra.md), [Vajraḍāka Tantra](../texts/vajradaka-tantra.md), `src:vajrayogini-sadhanas`, [Vasantatilakā](../texts/vasantatilaka.md), [Yoginīsaṃcārya](../texts/yoginisamcarya.md)
+[Abhidhānottara Tantra](../texts/abhidhanottara-tantra.md), [Cakrasaṃvarapañjikā of Jayabhadra](../texts/cakrasamvara-panjika-jayabhadra.md), [Cakrasaṃvara Tantra (Laghuśaṃvara)](../texts/cakrasamvara-tantra.md), [Cakrasaṃvarapañjikā of Bhavabhaṭṭa](../texts/cakrasamvara-vivrti-bhavabhatta.md), [Ḍākārṇava Tantra](../texts/dakarnava-tantra.md), [Guhyasamayasādhanamālā](../texts/guhyasamayasadhanamala.md), [Śrībhagavadabhisamaya (Lūipa's Cakrasaṃvara sādhana)](../texts/luipa-abhisamaya.md), [Navaślokī](../texts/navasloki-kambala.md), [Sādhananidāna (Śrīcakrasaṃvarapañjikā)](../texts/sadhananidana-kambala.md), [Saṃpuṭa Tantra](../texts/samputa-tantra.md), [Saṃvarodaya Tantra](../texts/samvarodaya-tantra.md), [Vajraḍāka Tantra](../texts/vajradaka-tantra.md), [Vasantatilakā](../texts/vasantatilaka.md), [Yoginīsaṃcārya](../texts/yoginisamcarya.md)
 
 ## Teachers
 [Bhavabhaṭṭa](../teachers/bhavabhatta.md), [Dārikapa](../teachers/darikapa.md), [Durjayacandra](../teachers/durjayacandra.md), [Ghaṇṭāpa](../teachers/ghantapa.md), [Indrabhūti](../teachers/indrabhuti.md), [Jālandharanātha](../teachers/jalandharanatha.md), [Jayabhadra](../teachers/jayabhadra.md), [Kāṇhapa (Kṛṣṇācārya)](../teachers/kanha.md), [Lūipa](../teachers/luipa.md), [Maitrīpa (Advayavajra)](../teachers/maitripa.md), [Nāropa](../teachers/naropa.md), [Tilopa](../teachers/tilopa.md)
 
 ## Practices
-_none recorded_
+[The body maṇḍala](../practices/body-mandala.md), [Deity yoga (generation-stage sādhana)](../practices/deity-yoga.md), [The tantric feast (gaṇacakra)](../practices/ganacakra.md), [Pilgrimage to the sacred sites](../practices/pilgrimage-to-pithas.md)
 
 ## Path maps
 _none recorded_
@@ -50,4 +50,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

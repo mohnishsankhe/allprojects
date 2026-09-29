@@ -15,4 +15,4 @@ Hope is the great sorrow and freedom from hope the highest happiness, as Piṅga
   - [Ṛṣabha Gītā](../texts/rsabha-gita.md) — ref: 12.125-128; rests_on: ["tea:rsabha-gita:12.125-128"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

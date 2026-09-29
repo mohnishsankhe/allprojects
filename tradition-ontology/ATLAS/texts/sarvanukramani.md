@@ -22,4 +22,4 @@ _Notes: Commentary: Ṣaḍguruśiṣya's Vedārthadīpikā (12th c.)._
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Anukrama%E1%B9%87%C4%AB, https://en.wikipedia.org/wiki/Shaunaka, text:sources_raw/DharmicData/Rigveda/rigveda_mandala_1.json (Anukramaṇī seer/deity/metre headers) — Confirmed: Kātyāyana's Sarvānukramaṇī gives first words, verse count, seer, deity and metre for the 1,028 hymns (Ṣaḍguruśiṣya's Vedārthadīpikā is its commentary). Its data are reproduced in the local DharmicData headers used for all seer checks. Not in the local catalogue as a separate text.
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Anukrama%E1%B9%87%C4%AB, https://archive.org/details/katyayanassarvan00katy — Confirmed: Kātyāyana's Sarvānukramaṇī of the Ṛgveda (seer, deity, metre and verse count for each hymn), with Ṣaḍguruśiṣya's Vedārthadīpikā of the 12th c. (Wikipedia 'Anukramaṇī'; Macdonell's edition).
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

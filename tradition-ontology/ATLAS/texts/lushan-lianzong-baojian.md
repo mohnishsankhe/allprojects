@@ -27,8 +27,8 @@ Mao Ziyuan, after awakening in samādhi at a crow's cry, emulated Huiyuan's Lotu
 
 _level: conventional · standpoint: ethical-social · path: devotion, action · stage: beginner · types: ethics, practice, teacher-transmission_
 
-concepts: `cpt:lotus-society` · practices: `prc:nianfo-society` · teachers: [Mao Ziyuan](../teachers/mao-ziyuan.md)
+concepts: [Lotus societies (lianshe) for recitation](../concepts/lotus-society.md) · practices: [Recitation societies (jieshe nianfo)](../practices/nianfo-society.md) · teachers: [Mao Ziyuan](../teachers/mao-ziyuan.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

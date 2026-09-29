@@ -13,6 +13,7 @@
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Speech and mind according to fact, spoken for the good of all beings; truth that harms is a semblance of merit (YBh 2.30); when established, actions and fruits rest on one's word (2.36).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The real, truth: 'the real behind the real' is the hidden name of the self (BAU 2.1.20, 2.3.6); analysed as sa-ti-yam (BAU 5.5.1; ChU 8.3.5); truth-speaking as a virtue (TU 1.11; MuU 3.1.6) and as protection in the axe ordeal (ChU 6.16).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Truth, root of all and higher than any state (Rāmāyaṇa 2.109.13); established in dharma (2.21.40); the highest vow (MBh 3.203.41); part of verbal austerity (BhG 17.15).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Truthfulness, among the states of beings that arise from the Lord (10.4).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism abstention from saying what is not good (asat) — false, harsh or harmful (TS 7.14); also a tenfold virtue (9.6).
 
 ## Forms in other languages
@@ -24,4 +25,8 @@
 **Related:** [ṛta](rta.md), [anṛta](anrta.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:10.4 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

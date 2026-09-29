@@ -25,4 +25,4 @@ Under P4 the orthodox rules address the bound seeker; under P1 the Trika's denia
 _Notes: Dharmaśāstra side stated generally; verse anchors to be supplied by U02._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._

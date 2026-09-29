@@ -31,7 +31,7 @@ The supreme Way is not difficult; it only dislikes picking and choosing. Just do
 
 _level: ultimate · standpoint: seeker · path: knowledge, meditation · stage: all · types: practice, ultimate, consciousness-mind_
 
-terms: [jianze (picking and choosing)](../terms/jianze.md) · concepts: `cpt:non-duality-chan` · obstacles: `obs:picking-and-choosing`
+terms: [jianze (picking and choosing)](../terms/jianze.md) · concepts: [Non-duality in Chan](../concepts/non-duality-chan.md) · obstacles: [Picking and choosing (jianze)](../obstacles/picking-and-choosing.md)
 
 ### 376c05 <a id="tea-xinxin-ming-376c05"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ As soon as there is right and wrong, the mind is lost in confusion; two exist be
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-concepts: `cpt:non-duality-chan`
+concepts: [Non-duality in Chan](../concepts/non-duality-chan.md)
 
 ### 376c15 <a id="tea-xinxin-ming-376c15"></a>
 `skeleton` · confidence high
@@ -62,8 +62,8 @@ Faith in mind is non-dual, non-dual is faith in mind; the way of words is cut of
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: realized · types: ultimate, sound-language_
 
-concepts: `cpt:non-duality-chan`
+concepts: [Non-duality in Chan](../concepts/non-duality-chan.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

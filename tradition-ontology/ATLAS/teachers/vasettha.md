@@ -10,4 +10,4 @@ A young brahmin who, with Bhāradvāja, asked whether one is a brahmin by birth 
 _Notes: The Vāseṭṭhas of DN 13, DN 27 and MN 98 may not be the same person._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

@@ -57,4 +57,4 @@ terms: [tirobhāva](../terms/tirobhava.md) · concepts: [The five malas](../conc
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._

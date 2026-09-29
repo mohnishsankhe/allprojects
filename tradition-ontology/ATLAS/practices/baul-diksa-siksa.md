@@ -12,4 +12,4 @@ A first initiation (dīkṣā) by a guru with a mantra, and later instruction (�
 - The practice is not to be learned from books or songs without a guru. — [Bāul gān (the corpus of Bāul songs of other masters)](../texts/baul-gan.md) 
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

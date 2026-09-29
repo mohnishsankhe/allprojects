@@ -22,8 +22,8 @@ Keizan warns that in zazen strange states may appear — light, visions of buddh
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice, powers-experiences_
 
-obstacles: `obs:makyo` · teachers: [Keizan Jōkin 瑩山紹瑾](../teachers/keizan.md)
+obstacles: [Makyō (deviant visionary states)](../obstacles/makyo.md) · teachers: [Keizan Jōkin 瑩山紹瑾](../teachers/keizan.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

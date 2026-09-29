@@ -14,4 +14,4 @@
 Longchenpa's commentary on the Guhyagarbha, reading the Mahāyoga tantra from the standpoint of the Great Perfection; part of his Trilogy of Dispelling Darkness (mun sel skor gsum).
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._

@@ -16,4 +16,4 @@ The view that takes the aggregates as 'I' and 'mine', from which all afflictions
 - exact: [Identity view (sakkāyadiṭṭhi)](sakkaya-ditthi.md) — the same view named in Pali; the first of the fetters
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

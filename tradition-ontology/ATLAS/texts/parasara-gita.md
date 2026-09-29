@@ -37,4 +37,4 @@ teachers: [Parāśara](../teachers/parasara.md), [Janaka of Videha](../teachers/
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.279.3 Parāśara–Janaka; 12.280.1ff speaker Parāśara; 12.287.1 — Section located at CE 12.279-287 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._

@@ -27,10 +27,10 @@ A visitor asks Feixi to explain why the Lotus samādhi of Sadāparibhūta's prac
 
 _level: conventional · standpoint: analytic · path: meditation, devotion · stage: all · types: practice_
 
-terms: `trm:nianfo-sanmei` · teachers: [Feixi](../teachers/feixi.md)
+terms: [nianfo sanmei](../terms/nianfo-sanmei.md) · teachers: [Feixi](../teachers/feixi.md)
 
 
 _Notes: Opening read locally (T47n1967 134a)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

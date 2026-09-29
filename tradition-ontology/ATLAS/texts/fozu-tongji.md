@@ -28,7 +28,7 @@ The seven patriarchs of the Lotus society: first, the Dharma master of Lushan (H
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission_
 
-concepts: `cpt:pure-land-patriarchs` · teachers: [Huiyuan of Lushan](../teachers/huiyuan-lushan.md), [Shandao](../teachers/shandao.md), [Chengyuan](../teachers/chengyuan.md), [Fazhao](../teachers/fazhao.md), [Shaokang](../teachers/shaokang.md), [Yongming Yanshou](../teachers/yongming-yanshou.md), [Shengchang](../teachers/shengchang.md)
+concepts: [The patriarchs of the Lotus (Pure Land) school](../concepts/pure-land-patriarchs.md) · teachers: [Huiyuan of Lushan](../teachers/huiyuan-lushan.md), [Shandao](../teachers/shandao.md), [Chengyuan](../teachers/chengyuan.md), [Fazhao](../teachers/fazhao.md), [Shaokang](../teachers/shaokang.md), [Yongming Yanshou](../teachers/yongming-yanshou.md), [Shengchang](../teachers/shengchang.md)
 
 ### 262c16-26 <a id="tea-fozu-tongji-262c16-26"></a>
 `skeleton` · confidence high
@@ -39,7 +39,7 @@ Huiyuan lived thirty years on the mountain without entering the world, diligent 
 
 _level: conventional · standpoint: experiential · path: meditation, devotion · stage: realized · types: powers-experiences, death-dying_
 
-concepts: `cpt:seeing-the-buddha`, `cpt:deathbed-welcome` · teachers: [Huiyuan of Lushan](../teachers/huiyuan-lushan.md)
+concepts: [Seeing the Buddha (jianfo) in samādhi, dream or at death](../concepts/seeing-the-buddha.md), [The Buddha's welcome at death (raigō)](../concepts/deathbed-welcome.md) · teachers: [Huiyuan of Lushan](../teachers/huiyuan-lushan.md)
 
 ### 263a22-b18 <a id="tea-fozu-tongji-263a22-b18"></a>
 `skeleton` · confidence high
@@ -50,10 +50,10 @@ Shandao, having seen Daochuo's nine-grade assembly, said this contemplation gate
 
 _level: conventional · standpoint: experiential · path: devotion, sound · stage: realized · types: powers-experiences, death-dying, teacher-transmission_
 
-practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md), `prc:shashen-wangsheng` · teachers: [Shandao](../teachers/shandao.md)
+practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md), [Abandoning the body to go to birth (sheshen wangsheng) — restricted](../practices/shashen-wangsheng.md) · teachers: [Shandao](../teachers/shandao.md)
 
 
 _Notes: Fascicle 26 read locally._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

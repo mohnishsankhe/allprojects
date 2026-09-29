@@ -23,7 +23,7 @@ Although I have taken refuge in the true Pure Land teaching, a true and sincere 
 
 _level: conventional · standpoint: experiential · path: devotion · stage: all · types: consciousness-mind, ethics_
 
-terms: `trm:fanfu`, `trm:bonno` · concepts: `cpt:ordinary-being-fanfu` · teachers: [Shinran](../teachers/shinran.md)
+terms: [fanfu](../terms/fanfu.md), [kleśa](../terms/klesa.md) · concepts: [The ordinary foolish being (fanfu / bonbu)](../concepts/ordinary-being-fanfu.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### mappo <a id="tea-shozomatsu-wasan-mappo"></a>
 `skeleton` · confidence moderate
@@ -32,10 +32,10 @@ More than two thousand years have passed since Śākyamuni entered nirvāṇa; t
 
 _level: conventional · standpoint: cosmic · path: devotion · stage: all · types: world-fate_
 
-terms: `trm:mofa`, `trm:zhengfa`, `trm:xiangfa` · concepts: `cpt:three-periods-of-the-dharma` · teachers: [Shinran](../teachers/shinran.md)
+terms: [mofa](../terms/mofa.md), [zhengfa](../terms/zhengfa.md), [xiangfa](../terms/xiangfa.md) · concepts: [The three ages of the Dharma (true, semblance, final)](../concepts/three-periods-of-the-dharma.md) · teachers: [Shinran](../teachers/shinran.md)
 
 
 _Notes: The three are together called the Sanjō wasan._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

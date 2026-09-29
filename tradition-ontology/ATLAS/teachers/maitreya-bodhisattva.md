@@ -12,4 +12,4 @@ The bodhisattva who will be the next buddha, now in Tuṣita: in the Lotus he as
 _Notes: Distinct from tch:maitreya (the Upaniṣadic sage). Same figure as tch:metteyya (U36, Pali form) — dedupe candidate for the merge. The treatise-author 'Maitreyanātha' of the scholarly account is tch:maitreyanatha._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

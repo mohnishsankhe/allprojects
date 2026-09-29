@@ -24,4 +24,4 @@ The book of Ayodhyā: the thwarted consecration, Rāma's exile to keep his fathe
 
 - 2026-09-29 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_2, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 2 — Book 2 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._

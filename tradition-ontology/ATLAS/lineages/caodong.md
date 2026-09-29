@@ -39,13 +39,13 @@ One of the Five Houses of Chan, named from Dongshan Liangjie and Caoshan Benji i
 [Caoshan Benji 曹山本寂](../teachers/caoshan-benji.md), [Danxia Zichun 丹霞子淳](../teachers/danxia-zichun.md), [Dayang Jingxuan 大陽警玄](../teachers/dayang-jingxuan.md), [Dongshan Liangjie 洞山良价](../teachers/dongshan.md), [Furong Daokai 芙蓉道楷](../teachers/furong-daokai.md), [Hongzhi Zhengjue 宏智正覺](../teachers/hongzhi.md), [Qingyuan Xingsi 青原行思](../teachers/qingyuan-xingsi.md), [Tiantong Rujing 天童如淨](../teachers/rujing.md), [Shitou Xiqian 石頭希遷](../teachers/shitou.md), [Touzi Yiqing 投子義青](../teachers/touzi-yiqing.md), [Wansong Xingxiu 萬松行秀](../teachers/wansong-xingxiu.md), [Xuyun 虛雲](../teachers/xuyun.md), [Yaoshan Weiyan 藥山惟儼](../teachers/yaoshan.md), [Yelü Chucai 耶律楚材](../teachers/yelu-chucai.md), [Yunju Daoying 雲居道膺](../teachers/yunju-daoying.md), [Yunyan Tansheng 雲巖曇晟](../teachers/yunyan.md), [Zhenxie Qingliao 真歇清了](../teachers/zhenxie-qingliao.md)
 
 ## Practices
-_none recorded_
+[Shikantaza (just sitting)](../practices/shikantaza.md), [Silent illumination (mozhao)](../practices/silent-illumination.md)
 
 ## Path maps
-`pth:dongshan-five-ranks`, `pth:dongshan-five-ranks-of-merit`
+[The five ranks of the real and the apparent (Dongshan / Caoshan)](../paths/dongshan-five-ranks.md), [The five ranks of merit (Dongshan)](../paths/dongshan-five-ranks-of-merit.md)
 
 ## Debates
-_none recorded_
+[Kōan (critical-phrase) introspection or silent illumination?](../debates/koan-or-silent-illumination.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

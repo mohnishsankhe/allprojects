@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Non-dual conduct (advaitācāra)](advaitacara-kjn.md) (the conduct of one freed from fetters): both teach non-difference of pure and impure as the conduct of the free; Aghora's own texts not yet extracted — rests on [13.90-91](../texts/kularnava-tantra.md#tea-kularnava-tantra-13-90-91), [11.26-29](../texts/kaulajnananirnaya.md#tea-kaulajnananirnaya-11-26-29)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._

@@ -29,4 +29,4 @@ Perception and inference; one who denies inference uses it to convey his intenti
 _Notes: U33 contribution (Lokāyata sides). U50 owns this dispute and its reconciliation; none is proposed here._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._

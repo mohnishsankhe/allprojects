@@ -14,4 +14,4 @@
 Svayambhūdeva's Apabhraṃśa Rāmāyaṇa (9th c.), following Raviṣeṇa; Svayambhū also wrote the Riṭṭhaṇemicariu on Neminātha and Kṛṣṇa. Some scholars connect him with the Yāpanīyas (low confidence).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

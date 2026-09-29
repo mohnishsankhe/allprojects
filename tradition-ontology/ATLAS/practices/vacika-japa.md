@@ -19,4 +19,4 @@ Uttering the mantra aloud with its proper high, low and circumflex tones and cle
 - partial: [Mantra repetition (japa)](japa.md) — one of the three modes
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._

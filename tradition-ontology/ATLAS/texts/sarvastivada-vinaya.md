@@ -17,4 +17,4 @@
 The Vinaya of the Sarvāstivāda, the first complete Vinaya translated into Chinese.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

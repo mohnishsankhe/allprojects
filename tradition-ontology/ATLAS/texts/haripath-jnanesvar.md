@@ -32,4 +32,4 @@ terms: [nāma](../terms/nama.md) · concepts: [The divine name](../concepts/divi
 _Notes: Nāmdev, Eknāth and Tukārām are also credited with Haripāṭh cycles; this id is Jñāneśvar's._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

@@ -24,8 +24,8 @@ The nenbutsu I teach is not the contemplation of the Buddha discussed by the lea
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice, teacher-transmission_
 
-terms: `trm:namu-amida-butsu`, `trm:anjin` · concepts: `cpt:three-minds-contemplation-sutra`, `cpt:four-modes-of-practice` · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Hōnen](../teachers/honen.md), [Genchi](../teachers/genchi.md)
+terms: [Namu Amida Butsu](../terms/namu-amida-butsu.md), [anjin](../terms/anjin.md) · concepts: [The three minds of the Contemplation Sūtra](../concepts/three-minds-contemplation-sutra.md), [The four modes of practice (sixiu)](../concepts/four-modes-of-practice.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Hōnen](../teachers/honen.md), [Genchi](../teachers/genchi.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

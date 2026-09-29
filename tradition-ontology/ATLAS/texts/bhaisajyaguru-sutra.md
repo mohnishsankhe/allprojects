@@ -26,8 +26,8 @@ When a bodhisattva, Bhaiṣajyaguru made twelve great vows: that his body's ligh
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: practice, world-fate_
 
-concepts: [Bhaiṣajyaguru's twelve vows](../concepts/twelve-vows-bhaisajyaguru.md) · practices: [Bhaiṣajyaguru rites for the sick and dying](../practices/bhaisajyaguru-rite.md) · teachers: [Bhaiṣajyaguru Vaiḍūryaprabha](../teachers/bhaisajyaguru.md), [Mañjuśrī](../teachers/manjusri.md)
+concepts: [Bhaiṣajyaguru's twelve vows](../concepts/twelve-vows-bhaisajyaguru.md) · practices: [Bhaiṣajyaguru rites for the sick and dying](../practices/bhaisajyaguru-rite.md) · teachers: [Bhaiṣajyaguru, the Medicine Buddha (sangs rgyas sman bla)](../teachers/bhaisajyaguru.md), [Mañjuśrī](../teachers/manjusri.md)
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

@@ -35,13 +35,13 @@ The metropolitan Chan of Shenxiu (d. 706) and his heirs Puji and Yifu, favoured 
 [Du Fei 杜朏](../teachers/du-fei.md), [Faru 法如](../teachers/faru.md), [Jingjue 淨覺](../teachers/jingjue.md), [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md), [Puji 普寂](../teachers/puji.md), [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md), [Xiangmo Zang 降魔藏](../teachers/xiangmo-zang.md), [Yifu 義福](../teachers/yifu.md)
 
 ## Practices
-_none recorded_
+[Long sitting without lying down (changzuo buwo / jangjwa bulwa)](../practices/changzuo-buwo.md), [Guarding the mind (shouxin)](../practices/shouxin.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Who is the true Sixth Patriarch — was the Northern school collateral?](../debates/huatai-true-lineage.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

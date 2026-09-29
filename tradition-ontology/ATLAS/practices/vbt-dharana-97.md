@@ -15,4 +15,4 @@ The purity prescribed by those of little knowledge is [regarded as] impurity in 
 _Notes: Verses 123 (KSTS 8 / GRETIL numbering). The GRETIL e-text reads 'sā śuddhiḥ'; the usual reading is 'sā 'śuddhiḥ' (impurity). Linked to the dispute on ritual purity._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._

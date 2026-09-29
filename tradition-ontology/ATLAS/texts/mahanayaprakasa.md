@@ -13,4 +13,4 @@ An anonymous Sanskrit exposition of the Krama worship of the Kālīs and its pha
   - kind: original; name: Trivandrum Sanskrit Series 130 (1937)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._

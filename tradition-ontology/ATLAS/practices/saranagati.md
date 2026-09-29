@@ -37,4 +37,4 @@ _Notes: Chs. 7–9 contribution, combining extractor B's prc:saranagati and extr
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.14, tea:bhagavad-gita:7.19, tea:bhagavad-gita:7.29, tea:bhagavad-gita:9.32 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 6.18). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

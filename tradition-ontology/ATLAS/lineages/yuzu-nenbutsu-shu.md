@@ -37,7 +37,7 @@ The school of 'interfusing nenbutsu' traced to the Tendai chant master Ryōnin (
 [Amitābha / Amitāyus](../teachers/amitabha.md), [Hōmyō](../teachers/homyo.md), [Ryōnin](../teachers/ryonin.md)
 
 ## Practices
-_none recorded_
+[Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md), [Recitation societies (jieshe nianfo)](../practices/nianfo-society.md), [Interfusing nenbutsu with the name register](../practices/yuzu-nenbutsu.md)
 
 ## Path maps
 _none recorded_
@@ -46,4 +46,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

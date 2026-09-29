@@ -30,4 +30,4 @@ terms: [kamma](../terms/kamma.md), [cetana](../terms/cetana.md) · teachers: [Up
 _Notes: SuttaCentral uid mn56; Mahāsaṅgīti title 'Upālisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

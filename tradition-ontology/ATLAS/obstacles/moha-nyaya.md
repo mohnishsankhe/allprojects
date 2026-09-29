@@ -12,4 +12,4 @@ The worst fault, since attachment and aversion arise only in the deluded.
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 4.1.6; rests_on: ["tea:nyaya-sutra:4.1.6"]
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._

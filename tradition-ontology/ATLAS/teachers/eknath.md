@@ -21,4 +21,4 @@ Brahmin saint of Paiṭhaṇ (1533–1599), disciple of Janārdana Svāmī: corr
 **Realization — the tradition's account:** Received Datta's vision through Janārdana's grace; Kṛṣṇa served him as a household servant for twelve years.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

@@ -16,11 +16,13 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: What the unyoked lack; without it there is no peace (2.66). Commentators gloss it as steady contemplation, dwelling on the self, or conviction.
 - [Vaiśeṣika](../lineages/vaisesika.md): The impression produced by experience that causes memory; resides only in the self (Tarkasaṅgraha).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism (1) the five contemplations supporting each vow (TS 7.3–8); (2) the twelve reflections (anuprekṣā); (3) the four attitudes of friendliness and the rest; (4) in Haribhadra's Yogabindu, the second of five yogas.
+- [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md): sgom pa, meditation: 'without distraction is the king of meditation'; in Mahāmudrā not the fabrication of a state but becoming familiar (goms pa) with the recognized nature.
 
 ## Forms in other languages
 - Pali: bhāvanā  — partial
 - Sanskrit: bhāvanā  — exact
 - Prakrit: bhāvaṇā  — exact
+- Tibetan: sgom pa སྒོམ་པ — exact
 
 ## Equivalents (interpretation layer)
 - partial: [upāsanā](upasana.md) — both are sustained meditative identification
@@ -29,4 +31,4 @@
 _Notes: Shared slug with the Sanskrit term; this is the early-Buddhist contribution._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U07-puranas, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U07-puranas, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._

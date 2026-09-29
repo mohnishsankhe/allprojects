@@ -22,4 +22,4 @@ The householder bathes the consecrated image and offers eight substances — wat
 _Notes: The Sthānakavāsī and Śvetāmbara Terāpanthī traditions reject image worship; the Digambara Terāpantha rejects offerings of flowers and fresh produce and the bhaṭṭārakas' ritual authority (recalled)._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

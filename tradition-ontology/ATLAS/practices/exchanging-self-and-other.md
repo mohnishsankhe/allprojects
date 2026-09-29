@@ -18,4 +18,4 @@ Having equalized self and other, one exchanges them: seeing that all suffering c
 _Notes: Called the 'supreme secret' (paramaṃ guhyam, BCA 8.120). The detail of regarding one's old self with envy, rivalry and pride follows BCA 8.140ff (from memory)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

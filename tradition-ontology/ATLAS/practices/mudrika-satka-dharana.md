@@ -12,4 +12,4 @@ As reported by Yāmuna and Rāmānuja: knowing and wearing six insignia (ear-orn
   - [Śrībhāṣya](../texts/sribhasya.md) — ref: 2.2.35; rests_on: ["tea:sribhasya:2.2.35"]
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:34 IST._

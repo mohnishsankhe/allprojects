@@ -10,4 +10,4 @@
 The brahmin sage (dvijavarya, MkP 81.9) in whose forest hermitage the Devī Māhātmya is taught to the deposed king Suratha and the merchant Samādhi.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

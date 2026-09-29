@@ -17,8 +17,9 @@ The 'Five Stages' of the Ārya school: vajra recitation, the purification of all
 **Editions / translations:** 
   - kind: original; name: Pañcakrama, GRETIL/DSBC e-text based on R. S. Tripathi's ed. (Sarnath 2001); licence: GRETIL; url: local
   - kind: translation; name: Derge Tengyur, Tōh 1802 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-tengyur
+**Commentaries on this text:** [Lamp Thoroughly Illuminating the Five Stages (rim lnga rab tu gsal ba'i sgron me)](lamp-illuminating-five-stages.md)
 
-## Teachings (20: skeleton 20)
+## Teachings (21: skeleton 21)
 
 ### 1.2 <a id="tea-pancakrama-1-2"></a>
 `skeleton` · confidence high
@@ -29,7 +30,7 @@ For those established in the generation stage and longing for the completion sta
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-concepts: `cpt:two-stages` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+concepts: [The two stages (generation and completion)](../concepts/two-stages.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 1.3 <a id="tea-pancakrama-1-3"></a>
 `skeleton` · confidence high
@@ -40,7 +41,7 @@ The wind, which is the life of beings and performs all actions, is the vehicle o
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: advanced · types: body-layers_
 
-terms: [prāṇa](../terms/prana.md) · concepts: `cpt:winds-vajrayana` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+terms: [prāṇa](../terms/prana.md) · concepts: [The winds as the mount of mind](../concepts/winds-vajrayana.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 1.5-8 <a id="tea-pancakrama-1-5-8"></a>
 `skeleton` · confidence high
@@ -62,7 +63,18 @@ This reality, well sealed in the glorious Samāja, is to be understood according
 
 _level: conventional · standpoint: seeker · path: knowledge, devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:sandhyabhasa`, `cpt:guru-in-vajrayana` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+concepts: [Intentional language (sandhyābhāṣā)](../concepts/sandhyabhasa.md), [The guru in the Vajrayāna](../concepts/guru-in-vajrayana.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+
+### 1.10-11 <a id="tea-pancakrama-1-10-11"></a>
+`skeleton` · confidence high
+
+One should imagine a mustard seed at the tip of the nose, and in the mustard seed the moving and unmoving world; meditate on the delightful state of gnosis, secret, fashioned by gnosis — a great jewel of five colours, the size of a mustard seed, at the tip of the nose, always by yoga.
+
+> tatra prathamataraṃ vāyutattvoddeśapadaṃ mūlasūtrādevāvatāryate- nāsāgre sarṣapaṃ cintet sarṣape sacarācaram | bhāvayejjñānapadaṃ ramyaṃ rahasyaṃ jñānakalpitam || pañcavarṇaṃ mahāratnaṃ sarṣapasthūlamātrakam | nāsikāgre prayatnena bhāvayed yogataḥ sadā ||
+
+_level: conventional · standpoint: seeker · path: meditation, body-breath · stage: advanced · types: practice_
+
+practices: [Meditation on the drop at the nose tip](../practices/drop-at-nose-tip.md), [Vajra recitation (vajrajāpa)](../practices/vajra-recitation.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 2.2 <a id="tea-pancakrama-2-2"></a>
 `skeleton` · confidence high
@@ -84,7 +96,7 @@ The empty, the very empty, the great empty third, and the fourth, the all-empty 
 
 _level: conventional · standpoint: experiential · path: meditation, body-breath · stage: advanced · types: powers-experiences, consciousness-mind_
 
-terms: `trm:prabhasvara` · concepts: `cpt:four-empties` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+terms: [prabhāsvara](../terms/prabhasvara.md) · concepts: [The four empties](../concepts/four-empties.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 2.5 <a id="tea-pancakrama-2-5"></a>
 `skeleton` · confidence high
@@ -95,7 +107,7 @@ From the union of wisdom and means comes the 'perfected' and the 'attained'; fro
 
 _level: ultimate · standpoint: experiential · path: meditation · stage: advanced · types: ultimate, powers-experiences_
 
-concepts: `cpt:four-empties`, `cpt:clear-light-vajrayana` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+concepts: [The four empties](../concepts/four-empties.md), [Clear light (prabhāsvara)](../concepts/clear-light-vajrayana.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 2.7-12 <a id="tea-pancakrama-2-7-12"></a>
 `skeleton` · confidence high
@@ -106,7 +118,7 @@ The first empty is light (āloka), wisdom and the dependent mind; its natures, t
 
 _level: conventional · standpoint: analytic · path: meditation · stage: advanced · types: consciousness-mind_
 
-concepts: `cpt:eighty-natural-concepts` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+concepts: [The eighty natural conceptions (prakṛti)](../concepts/eighty-natural-concepts.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 2.20-27 <a id="tea-pancakrama-2-20-27"></a>
 `skeleton` · confidence high
@@ -117,7 +129,7 @@ The very empty (light-appearance, ālokābhāsa) has forty natural concepts (pas
 
 _level: conventional · standpoint: analytic · path: meditation, body-breath · stage: advanced · types: consciousness-mind, body-layers_
 
-concepts: `cpt:eighty-natural-concepts` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+concepts: [The eighty natural conceptions (prakṛti)](../concepts/eighty-natural-concepts.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 3.10-12 <a id="tea-pancakrama-3-10-12"></a>
 `skeleton` · confidence high
@@ -128,7 +140,7 @@ The stage of self-consecration shows conventional truth; it is obtained through 
 
 _level: conventional · standpoint: seeker · path: devotion, meditation · stage: advanced · types: practice, karma-liberation, teacher-transmission_
 
-concepts: `cpt:illusory-body` · practices: `prc:illusory-body` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+concepts: [The illusory body (māyādeha)](../concepts/illusory-body.md) · practices: [Illusory-body yoga](../practices/illusory-body.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 3.13-14 <a id="tea-pancakrama-3-13-14"></a>
 `skeleton` · confidence high
@@ -139,7 +151,7 @@ The samādhi of self-consecration and the state of clear light are known as the 
 
 _level: bridging · standpoint: analytic · path: meditation · stage: advanced · types: practice_
 
-terms: [svādhiṣṭhāna](../terms/svadhisthana.md) · concepts: `cpt:illusory-body`, `cpt:clear-light-vajrayana` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+terms: [svādhiṣṭhāna](../terms/svadhisthana.md) · concepts: [The illusory body (māyādeha)](../concepts/illusory-body.md), [Clear light (prabhāsvara)](../concepts/clear-light-vajrayana.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 3.15-17 <a id="tea-pancakrama-3-15-17"></a>
 `skeleton` · confidence high
@@ -161,7 +173,7 @@ The Self-born Lord is the sole supreme deity, but because he gives the instructi
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:guru-in-vajrayana` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+concepts: [The guru in the Vajrayāna](../concepts/guru-in-vajrayana.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 5.2-5 <a id="tea-pancakrama-5-2-5"></a>
 `skeleton` · confidence high
@@ -172,7 +184,7 @@ Where saṃsāra and nirvāṇa become one by abandoning the two concepts, that 
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: ultimate_
 
-terms: `trm:yuganaddha` · concepts: `cpt:yuganaddha` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+terms: [yuganaddha](../terms/yuganaddha.md) · concepts: [Union (yuganaddha)](../concepts/yuganaddha.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 5.7 <a id="tea-pancakrama-5-7"></a>
 `skeleton` · confidence high
@@ -183,7 +195,7 @@ Where one proceeds knowing the unity of wisdom and compassion, that stage, the d
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: ultimate, ethics_
 
-concepts: `cpt:yuganaddha`, `cpt:union-of-wisdom-and-means` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+concepts: [Union (yuganaddha)](../concepts/yuganaddha.md), [The union of wisdom and means (prajñopāya)](../concepts/union-of-wisdom-and-means.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 5.11-13 <a id="tea-pancakrama-5-11-13"></a>
 `skeleton` · confidence high
@@ -194,7 +206,7 @@ Knowing in sequence self-consecration and clear light, their joining is the stag
 
 _level: bridging · standpoint: analytic · path: knowledge, meditation · stage: realized · types: ultimate, practice_
 
-concepts: `cpt:yuganaddha`, `cpt:two-truths-tantric` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+concepts: [Union (yuganaddha)](../concepts/yuganaddha.md), [The two truths in the tantras](../concepts/two-truths-tantric.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 5.20 <a id="tea-pancakrama-5-20"></a>
 `skeleton` · confidence high
@@ -205,7 +217,7 @@ The generation stage is one and the completion stage another; where the two beco
 
 _level: bridging · standpoint: analytic · path: meditation · stage: realized · types: practice_
 
-concepts: `cpt:two-stages`, `cpt:yuganaddha` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+concepts: [The two stages (generation and completion)](../concepts/two-stages.md), [Union (yuganaddha)](../concepts/yuganaddha.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 5.25 <a id="tea-pancakrama-5-25"></a>
 `skeleton` · confidence high
@@ -216,7 +228,7 @@ This itself is non-dual gnosis, non-abiding nirvāṇa, buddhahood, Vajrasattva-
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: ultimate, karma-liberation_
 
-terms: `trm:advayajnana`, [apratiṣṭhita-nirvāṇa](../terms/apratisthita-nirvana.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
+terms: [advayajñāna](../terms/advayajnana.md), [apratiṣṭhita-nirvāṇa](../terms/apratisthita-nirvana.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md)
 
 ### 5.27-28 <a id="tea-pancakrama-5-27-28"></a>
 `skeleton` · confidence high
@@ -238,8 +250,8 @@ The great yogin established in union should meditate on union and the conduct th
 
 _level: ultimate · standpoint: experiential · path: general · stage: realized · types: ethics, practice_
 
-concepts: `cpt:vratacarya`, `cpt:equal-taste` · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md) · disputes: `dsp:literal-or-symbolic-tantric-conduct`
+concepts: [The observance of the realized yogin (vratacaryā)](../concepts/vratacarya.md), [One taste and equal taste](../concepts/equal-taste.md) · teachers: [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md) · disputes: [Are the transgressive statements and practices of the tantras to be taken literally or as intentional language?](../debates/literal-or-symbolic-tantric-conduct.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

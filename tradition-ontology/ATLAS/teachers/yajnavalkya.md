@@ -34,4 +34,4 @@ _Notes: Teacher of the mantha rite lineage: Uddālaka Āruṇi taught it to his 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located as the central teacher of BĀU 2.4, 3.1–3.9, 4.1–4.5. His pupil Sāmaśravas is at 3.1.2. BĀU 6.3.7 has 'uddālaka āruṇir vājasaneyāya yājñavalkyāyāntevāsina uktvā', and 6.5.3 has 'ādityānīmāni śuklāni yajūṃṣi vājasaneyena yājñavalkyenākhyāyante'. Historicity and the later works attributed to him are outside a text check.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.298.4, 12.306.2-21 (yajūṃṣi, āditya), 12.306.27, 12.306.85 — Located as described.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._

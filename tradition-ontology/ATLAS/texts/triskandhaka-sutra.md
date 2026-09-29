@@ -5,7 +5,7 @@
 **Alternate titles:** phung po gsum pa'i mdo (Toh 284), Sanshiwu fo ming lichan wen (T326)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:gelug`, `lin:kadam`, [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), `lin:kagyu`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Gelug](../lineages/gelug.md), [Kadam](../lineages/kadam.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md)
 **Genre:** sūtra (liturgy)
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous; confidence: moderate
 **Availability:** digitized-original
@@ -28,4 +28,4 @@ terms: [pāpadeśanā](../terms/papadesana.md) · practices: [Confession before 
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

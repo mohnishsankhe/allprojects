@@ -12,4 +12,4 @@ Recitation of the Rudra hymn of the Yajurveda; 'these are the names of immortali
   - [Kaivalya Upaniṣad](../texts/kaivalya-upanisad.md) — ref: 2; rests_on: ["tea:kaivalya-upanisad:2"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

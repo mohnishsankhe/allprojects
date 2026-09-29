@@ -42,4 +42,4 @@ _none recorded_
 _Notes: Its descent from Madhva via the Kavīndra Tīrtha line and a later division (Vibudhendra Tīrtha) is recorded at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._

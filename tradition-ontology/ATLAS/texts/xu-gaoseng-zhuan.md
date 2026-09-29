@@ -27,7 +27,7 @@ Daoxuan's biography of Bodhidharma: a South Indian brahmin who came via the Song
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: teacher-transmission, practice_
 
-concepts: `cpt:two-entrances` · practices: `prc:biguan` · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Huike 慧可 (Shenguang)](../teachers/huike.md), [Daoyu 道育](../teachers/daoyu.md)
+concepts: [The two entrances (principle and practice)](../concepts/two-entrances.md) · practices: [Wall-gazing (biguan)](../practices/biguan.md) · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Huike 慧可 (Shenguang)](../teachers/huike.md), [Daoyu 道育](../teachers/daoyu.md)
 
 ### 552b20 <a id="tea-xu-gaoseng-zhuan-552b20"></a>
 `skeleton` · confidence high
@@ -38,7 +38,7 @@ Bodhidharma gave Huike the four-fascicle Laṅkāvatāra saying that in China on
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: teacher-transmission, narrative_
 
-concepts: `cpt:lankavatara-transmission` · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Huike 慧可 (Shenguang)](../teachers/huike.md)
+concepts: [The Laṅkāvatāra in early Chan](../concepts/lankavatara-transmission.md) · teachers: [Bodhidharma (Putidamo 菩提達磨)](../teachers/bodhidharma.md), [Huike 慧可 (Shenguang)](../teachers/huike.md)
 
 ### 684a11-18 <a id="tea-xu-gaoseng-zhuan-684a11-18"></a>
 `skeleton` · confidence high
@@ -49,8 +49,8 @@ Recently a mountain monk Shandao, seeking the way everywhere, met Daochuo's comm
 
 _level: conventional · standpoint: experiential · path: devotion, sound · stage: unmarked · types: death-dying, teacher-transmission_
 
-practices: `prc:shashen-wangsheng` · teachers: [Shandao](../teachers/shandao.md)
+practices: [Abandoning the body to go to birth (sheshen wangsheng) — restricted](../practices/shashen-wangsheng.md) · teachers: [Shandao](../teachers/shandao.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

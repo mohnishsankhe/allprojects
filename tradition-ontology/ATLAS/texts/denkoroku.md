@@ -23,8 +23,8 @@ Keizan presents each ancestor's awakening case from Śākyamuni's seeing the mor
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: teacher-transmission_
 
-concepts: `cpt:mind-to-mind-transmission` · teachers: [Keizan Jōkin 瑩山紹瑾](../teachers/keizan.md)
+concepts: [Mind-to-mind transmission](../concepts/mind-to-mind-transmission.md) · teachers: [Keizan Jōkin 瑩山紹瑾](../teachers/keizan.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

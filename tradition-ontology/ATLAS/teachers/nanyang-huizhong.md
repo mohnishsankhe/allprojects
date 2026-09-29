@@ -11,4 +11,4 @@
 Disciple of Huineng and teacher to emperors; taught that the insentient preach the Dharma, criticised 'southern' teachers who held that the body perishes while the mind-nature is eternal, and is said to have originated the circle-figures.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

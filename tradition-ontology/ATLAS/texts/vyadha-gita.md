@@ -93,4 +93,4 @@ practices: [Serving one's parents as dharma](../practices/serving-parents.md) ·
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_3.json (BORI Critical Edition text) 3.197.1 Kauśika; 3.197.41 dharmavyādha of Mithilā; 3.205-206 parents and curse — Section located at CE 3.196-206 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._

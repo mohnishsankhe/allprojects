@@ -2438,6 +2438,119 @@
   }
  },
  {
+  "id": "brw:chan-dzogchen",
+  "from": "lin:chan",
+  "to": "lin:dzogchen",
+  "what": "A sudden, non-conceptual approach to awakening; shared vocabulary of non-meditation",
+  "direction": "disputed",
+  "era": "8th-10th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Critics (Sakya Paṇḍita) allege derivation; the Nyingma deny it, distinguishing Atiyoga from Chan (Samten Migdrön)",
+    "refs": [
+     "src:samten-migdron",
+     "src:bashe"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Chan and early rdzogs chen texts were copied side by side at Dunhuang; influence debated",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:chan-tibet",
+  "from": "lin:chan",
+  "to": "lin:nyingma",
+  "what": "Chan teachings (Moheyan; Tibetan translations of Chan texts found at Dunhuang) and their possible influence on early Tibetan contemplative literature.",
+  "direction": "disputed",
+  "era": "8th–10th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Tibetan accounts of the Samye debate record Moheyan's teaching (and its rejection)",
+    "refs": [
+     "tea:dunwu-dasheng-zhengli-jue:no-examining"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Some scholars see Chan traces in early rdzogs chen texts; others deny significant influence",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:chinese-pure-land-to-tendai",
+  "from": "lin:pure-land",
+  "to": "lin:tendai",
+  "what": "Fazhao's five-tone nenbutsu and the constantly-walking nenbutsu brought to Mt Hiei by Ennin.",
+  "direction": "from→to",
+  "era": "9th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Ennin (794–864) introduced Fazhao's chant (goe nenbutsu) and built the jōgyō-dō (recalled).",
+    "refs": [
+     "tea:wuhui-nianfo-fashi-yizan:476b27-c02"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "I1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:chinnamasta-chinnamunda",
   "from": "lin:vajrayana",
   "to": "lin:kalikula",
@@ -3152,6 +3265,35 @@
   "provenance": {
    "units": [
     "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dzogchen-to-kagyu",
+  "from": "lin:dzogchen",
+  "to": "lin:kagyu",
+  "what": "Heart-essence (snying thig) instruction and the union of Mahāmudrā and Dzogchen",
+  "direction": "from→to",
+  "era": "14th-17th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "The Third Karmapa's Nyingthig lineage; Karma Chagme's union of Mahāmudrā and Dzogchen",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
    ],
    "phases": [
     "skeleton"
@@ -3986,6 +4128,84 @@
   }
  },
  {
+  "id": "brw:huayan-chan",
+  "from": "lin:huayan",
+  "to": "lin:chan",
+  "what": "Huayan categories — the six characteristics, principle and phenomena, the one mind — in Fayan, Caodong and Zongmi's Heze synthesis; Jinul's integration of Li Tongxuan.",
+  "direction": "from→to",
+  "era": "9th–13th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Rentian yanmu on Fayan's use of the six characteristics",
+    "refs": [
+     "tea:rentian-yanmu:324a01"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Zongmi's Chan Preface",
+    "refs": [
+     "tea:chanyuan-zhuquanji-duxu:402c28"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:huayan-to-yuzu",
+  "from": "lin:huayan",
+  "to": "lin:yuzu-nenbutsu-shu",
+  "what": "Interfusion of one and all as the structure of the yūzū nenbutsu.",
+  "direction": "from→to",
+  "era": "12th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "The revelation verse's 'one is all, all is one' echoes Huayan interpenetration.",
+    "refs": [
+     "tea:yuzu-nenbutsu-engi:revelation"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "I1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:isibhasiyaim-seers",
   "from": "lin:upanisadic",
   "to": "lin:jainism",
@@ -4597,6 +4817,46 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kalki-to-kalacakra",
+  "from": "lin:puranic",
+  "to": "lin:kalacakra",
+  "what": "The figure of the kalkin — the future king from Śambhala who destroys the barbarians at the end of an age — and the name Śambhala, reworked as the dynasty of kalkin kings of the Kālacakra.",
+  "direction": "from→to",
+  "era": "c. 11th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Purāṇic Kalki is born in Śambhala-grāma and destroys the mlecchas; the Kālacakra's kalkin Raudra Cakrin defeats the barbarians.",
+    "refs": [
+     "tea:kalacakra-tantra:1"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Purāṇic precedence by date; the Kālacakra reinterprets 'kalkin' as the holder of the vajra family.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "B5"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
     "skeleton"
@@ -5508,10 +5768,18 @@
   "id": "brw:madhyamaka-to-pure-land",
   "from": "lin:madhyamaka",
   "to": "lin:pure-land",
-  "what": "The 'easy practice' of calling to mind the Buddhas' names in the Daśabhūmikavibhāṣā ascribed to Nāgārjuna; Nāgārjuna as the first of Shinran's seven patriarchs.",
+  "what": "The distinction of difficult and easy paths; the reading of birth as 'birth of non-birth' from Tanluan's Sanlun training.",
   "direction": "from→to",
-  "era": "5th–13th c. CE",
+  "era": "3rd–6th c.",
   "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tanluan opens his commentary from Nāgārjuna's Daśabhūmikavibhāṣā; Daochuo cites Nāgārjuna and Vasubandhu as aspiring to birth.",
+    "refs": [
+     "tea:dasabhumika-vibhasa:41b02-06",
+     "tea:wangsheng-lun-zhu:1.easy-path"
+    ]
+   },
    {
     "type": "explicit-citation",
     "detail": "Tanluan and Shinran cite the easy-practice chapter.",
@@ -5525,14 +5793,20 @@
     "refs": []
    }
   ],
+  "coverage": [
+   "B4",
+   "I1",
+   "C"
+  ],
   "verification": {
    "level": "skeleton",
-   "confidence": "moderate",
+   "confidence": "high",
    "unverified": false,
    "checks": []
   },
   "provenance": {
    "units": [
+    "skeleton:U43-pure-land",
     "skeleton:U40-madhyamaka"
    ],
    "phases": [
@@ -5852,6 +6126,47 @@
   "provenance": {
    "units": [
     "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahasiddha-doha-to-sant",
+  "from": "lin:mahasiddha",
+  "to": "lin:sant",
+  "what": "The dohā genre and its themes — critique of ritual, caste, scripture and pilgrimage, the body as the holy place, the innate (sahaja), the true guru — continued in Nāth and Sant poetry (Kabīr).",
+  "direction": "disputed",
+  "era": "c. 10th–15th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "sahaja, the true guru (satguru / bla ma dam pa), critique of the six systems, bathing places and idols.",
+    "refs": [
+     "tea:dohakosa-saraha:v57-59",
+     "tea:dohakosa-saraha:v14-15"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Transmission via the Nāth yogīs is commonly suggested; no direct citation.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "B5"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
     "skeleton"
@@ -7699,6 +8014,74 @@
   }
  },
  {
+  "id": "brw:nyingma-bon-dzogchen",
+  "from": "lin:nyingma",
+  "to": "lin:bon",
+  "what": "Shared Great Perfection terminology (kun gzhi, rig pa, khregs chod, thod rgal, rainbow body), the nine-vehicle structure, treasure revelation and tantric cycles",
+  "direction": "disputed",
+  "era": "10th c. onward",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Parallel Dzogchen and treasure vocabulary in both canons",
+    "refs": [
+     "src:zhang-zhung-nyengyu",
+     "src:seventeen-tantras"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Each tradition claims priority; some revealers (Dorje Lingpa) revealed both Buddhist and Bön treasures",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:nyingma-to-rime",
+  "from": "lin:nyingma",
+  "to": "lin:rime",
+  "what": "Treasure cycles and Dzogchen as the shared core of the non-sectarian movement (Rinchen Terdzö)",
+  "direction": "from→to",
+  "era": "19th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Kongtrul and Khyentse Wangpo's collections",
+    "refs": [
+     "src:rinchen-terdzo"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:other-rv-verses-in-upanisads",
   "from": "lin:vedic-srauta",
   "to": "lin:upanisadic",
@@ -8828,6 +9211,52 @@
   }
  },
  {
+  "id": "brw:pure-land-chan",
+  "from": "lin:pure-land",
+  "to": "lin:chan",
+  "what": "Recitation of the name within Chan monasteries; dual cultivation; Chan masters as Pure Land patriarchs (Yanshou, Zongze, Tianru).",
+  "direction": "mutual",
+  "era": "10th–17th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Yanshou's Wanshan tonggui ji; Tianru's Jingtu huowen; Zhuhong's Jingtu yibian quoting Zhongfeng.",
+    "refs": [
+     "tea:wanshan-tonggui-ji:966b26-c10",
+     "tea:jingtu-huowen:295a13",
+     "tea:jingtu-yibian:420a11-22"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Musang's drawn-out recitation",
+    "refs": [
+     "tea:lidai-fabao-ji:185a13"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "I1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land",
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:pure-land-sutras-to-pure-land",
   "from": "lin:mahayana",
   "to": "lin:pure-land",
@@ -8857,6 +9286,40 @@
   "provenance": {
    "units": [
     "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pure-land-to-shingon",
+  "from": "lin:pure-land",
+  "to": "lin:shingon",
+  "what": "Esoteric nenbutsu identifying Amida with Mahāvairocana (Kakuban's himitsu nenbutsu).",
+  "direction": "from→to",
+  "era": "12th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Kakuban's Gorin kuji myō himitsu shaku (recalled).",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "B4",
+   "I1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -9378,6 +9841,46 @@
   }
  },
  {
+  "id": "brw:sadanga-yoga-shared-limbs",
+  "from": "lin:upanisadic",
+  "to": "lin:vajrayana",
+  "what": "The six-limbed yoga with prāṇāyāma, pratyāhāra, dhyāna, dhāraṇā and samādhi (Maitrī Upaniṣad: + tarka; Buddhist: + anusmṛti) — shared names, different order, signs and goal.",
+  "direction": "disputed",
+  "era": "c. 5th–11th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "GST 18.138 names the six limbs; the Maitrī Upaniṣad's six-limbed yoga uses five of the same names.",
+    "refs": [
+     "tea:guhyasamaja-tantra:18.138"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Dependence either way or a common pool of yoga vocabulary.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "B5"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:saiva-agama-to-virasaiva",
   "from": "lin:mantramarga",
   "to": "lin:virasaiva",
@@ -9448,6 +9951,52 @@
   "provenance": {
    "units": [
     "skeleton:U35-jain-philosophy"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:saiva-pithas-to-cakrasamvara",
+  "from": "lin:mantramarga",
+  "to": "lin:cakrasamvara",
+  "what": "The twenty-four sacred sites (pīṭha, upapīṭha …) with their names (Oḍḍiyāna, Jālandhara, Kāmarūpa, Pullīramalaya/Pūrṇagiri, Devīkoṭa …) and their mapping onto the body.",
+  "direction": "disputed",
+  "era": "c. 8th–10th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "The Laghuśaṃvara's list of 24 sites shares many names with Śaiva/Śākta pīṭha lists (Kubjikāmata, Kaulajñānanirṇaya).",
+    "refs": [
+     "tea:cakrasamvara-tantra:pitha-list"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Buddhist account: Heruka subdued Maheśvara (Bhairava) and his retinue at the 24 sites and took them over as his maṇḍala.",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Śaiva priority argued by A. Sanderson; others see a shared regional sacred geography.",
+    "refs": []
+   }
+  ],
+  "notes": "Complements U24's brw:yogini-pithas-to-buddhist-yoginitantras.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "B5"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
     "skeleton"
@@ -9555,6 +10104,45 @@
   "provenance": {
    "units": [
     "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:saiva-vidyapitha-to-yogini-tantras",
+  "from": "lin:mantramarga",
+  "to": "lin:vajrayana",
+  "what": "Passages, deity-names, cremation-ground idiom and yoginī-cult elements of the Buddhist Yoginī tantras (Laghuśaṃvara, Abhidhānottara) paralleling Śaiva Vidyāpīṭha scriptures (Picumata-Brahmayāmala, Yoginīsaṃcāra of the Jayadrathayāmala).",
+  "direction": "disputed",
+  "era": "c. 8th–10th c.",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Sanderson identifies verses of the Laghuśaṃvara redacted from Śaiva Vidyāpīṭha texts; the extent and direction are debated by other scholars.",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Buddhist tradition presents the parallels as Heruka's subjugation and conversion of the Śaiva deities.",
+    "refs": []
+   }
+  ],
+  "notes": "No Śaiva text was compared locally; recorded as a hypothesis only.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "B5"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
     "skeleton"
@@ -11519,6 +12107,107 @@
   }
  },
  {
+  "id": "brw:tathagatagarbha-to-nyingma",
+  "from": "lin:tathagatagarbha",
+  "to": "lin:nyingma",
+  "what": "Buddha-nature doctrine read as the ground of the Great Perfection (Mipham's luminosity-emptiness)",
+  "direction": "from→to",
+  "era": "8th-19th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Mipham's Lion's Roar on buddha-nature",
+    "refs": [
+     "src:sugatagarbha-lions-roar-mipham"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:tendai-esoteric-zen",
+  "from": "lin:tendai",
+  "to": "lin:zen",
+  "what": "Tendai and esoteric ritual in early Japanese Zen (Eisai, Enni) and in Keizan's Sōtō rites.",
+  "direction": "from→to",
+  "era": "12th–14th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Eisai remained a Tendai monk and practised esoteric rites; Keizan's code includes esoteric and devotional rites",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:tendai-to-jodo",
+  "from": "lin:tendai",
+  "to": "lin:jodo-shu",
+  "what": "Genshin's Ōjōyōshū, the constantly-walking nenbutsu, the bodhisattva precepts; Hōnen and Shinran trained on Mt Hiei.",
+  "direction": "from→to",
+  "era": "10th–13th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Hōnen's Tendai training under Eikū; Shinran twenty years on Hiei; Genshin as sixth Shinshū master.",
+    "refs": [
+     "tea:ojoyoshu:4",
+     "tea:shoshinge:seven-masters"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "I1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:theravada-sarvastivada-abhidharma",
   "from": "lin:theravada",
   "to": "lin:sarvastivada",
@@ -11549,6 +12238,86 @@
   "provenance": {
    "units": [
     "skeleton:U37-abhidhamma-visuddhimagga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:tiantai-chan",
+  "from": "lin:tiantai",
+  "to": "lin:chan",
+  "what": "Tiantai calming-and-contemplation vocabulary (alertness and calm, dullness and scattering) in Yongjia's writings and meditation manuals.",
+  "direction": "from→to",
+  "era": "8th–12th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Yongjia 'was versed in Tiantai calming and contemplation' (Platform Sūtra 10.33)",
+    "refs": [
+     "tea:platform-sutra:10.33"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "xingxing jiji in the Yongjia ji",
+    "refs": [
+     "tea:yongjia-ji:389b29"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:tiantai-pure-land",
+  "from": "lin:tiantai",
+  "to": "lin:pure-land",
+  "what": "Tiantai contemplation, repentance liturgy and the four lands used in Pure Land writing; Pure Land practice adopted by Tiantai masters.",
+  "direction": "mutual",
+  "era": "7th–17th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "The Jingtu shiyi lun is ascribed to Zhiyi; Zunshi, Chuandeng and Ouyi write Pure Land works in Tiantai terms.",
+    "refs": [
+     "tea:jingtu-shiyi-lun:78a01-b01",
+     "tea:jingtu-sheng-wusheng-lun:381b02",
+     "tea:wangsheng-jingtu-jueyi-xingyuan-ermen:145c11"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "I1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -12446,6 +13215,45 @@
   "provenance": {
    "units": [
     "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vajrayana-to-nyingma",
+  "from": "lin:vajrayana",
+  "to": "lin:nyingma",
+  "what": "The Indian Mahāyoga and Anuyoga tantras, the Kagye heruka cycles and their empowerments, brought by Padmasambhava, Vimalamitra and others and translated in the 8th-9th c.",
+  "direction": "from→to",
+  "era": "8th-10th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Nyingma histories of the kama lineage",
+    "refs": [
+     "src:dudjom-chojung"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Colophons naming Indian translators (Kunjed Gyalpo, Dupa Do; local Derge)",
+    "refs": [
+     "src:kunjed-gyalpo",
+     "src:dupa-do"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
    ],
    "phases": [
     "skeleton"
@@ -13589,6 +14397,44 @@
   }
  },
  {
+  "id": "brw:yoga-tantra-to-zhenyan",
+  "from": "lin:vajrayana",
+  "to": "lin:zhenyan",
+  "what": "The Mahāvairocana and Tattvasaṃgraha, their maṇḍalas (Womb and Vajra), mantras and consecrations, carried to China by Śubhakarasiṃha, Vajrabodhi and Amoghavajra and thence to Japan (Kūkai).",
+  "direction": "from→to",
+  "era": "8th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Chinese translations: T 848 (Mahāvairocana, 724) and Amoghavajra's Tattvasaṃgraha.",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Shingon patriarchal lineage runs from Mahāvairocana and Vajrasattva through Nāgārjuna(bodhi), Vajrabodhi and Amoghavajra.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "B5"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:yoga-to-advaita",
   "from": "lin:patanjala-yoga",
   "to": "lin:advaita-vedanta",
@@ -13955,6 +14801,74 @@
   }
  },
  {
+  "id": "brw:yogacara-four-wisdoms-chan",
+  "from": "lin:yogacara",
+  "to": "lin:chan",
+  "what": "The transformation of the eight consciousnesses into four wisdoms, read as the self-nature (Platform Sūtra).",
+  "direction": "from→to",
+  "era": "8th–13th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Huineng's verse to Zhitong on the four wisdoms",
+    "refs": [
+     "tea:platform-sutra:10.19"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yogacara-gnoses-to-five-families",
+  "from": "lin:yogacara",
+  "to": "lin:vajrayana",
+  "what": "The four gnoses of the Yogācāra (mirror-like, equality, discriminating, accomplishing), with the dharmadhātu gnosis added, as the five gnoses of the five buddha families.",
+  "direction": "from→to",
+  "era": "c. 7th–8th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "The same four names in the Mahāyānasūtrālaṃkāra and the tantric five-gnosis scheme.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "B5"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:yogacara-madhyamaka-to-nyingma",
   "from": "lin:yogacara-madhyamaka",
   "to": "lin:nyingma",
@@ -14121,6 +15035,43 @@
   "provenance": {
    "units": [
     "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yogacara-to-pure-land",
+  "from": "lin:yogacara",
+  "to": "lin:pure-land",
+  "what": "Vasubandhu's treatise with śamatha and vipaśyanā as gates of practice; the 'intention for another time' objection that shaped Pure Land apologetics.",
+  "direction": "from→to",
+  "era": "5th–7th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "T1524 identifies aspiration with śamatha and contemplation with vipaśyanā; Daochuo and Huaigan answer the Mahāyānasaṃgraha.",
+    "refs": [
+     "tea:wangsheng-lun:231b08-24",
+     "tea:anle-ji:10a11-24"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "I1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"

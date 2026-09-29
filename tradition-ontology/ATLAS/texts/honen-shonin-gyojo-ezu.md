@@ -33,10 +33,10 @@ At Ōhara, before Tendai and Nara scholars, Hōnen explained that the holy path 
 
 _level: conventional · standpoint: polemical · path: devotion · stage: all · types: dispute, teacher-transmission_
 
-teachers: [Hōnen](../teachers/honen.md) · disputes: `dsp:self-power-or-other-power`
+teachers: [Hōnen](../teachers/honen.md) · disputes: [Is awakening reached by one's own practice (self-power) or by the power of Amitābha's vow (other-power)?](../debates/self-power-or-other-power.md)
 
 
 _Notes: Scroll numbers not checked._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -21,10 +21,10 @@ The last major Indian tantric system (11th c.), the 'Wheel of Time', which corre
 - Its own astronomy and calendar, and a prophecy of the kalkin rulers of Śambhala.
 
 **Transmissions given:** 
-  - `lin:jonang` — what: the Kālacakra tantra, commentaries, six-branch yoga and calendar
-  - `lin:gelug` — what: the Kālacakra tantra, commentaries, six-branch yoga and calendar
-  - `lin:sakya` — what: the Kālacakra tantra, commentaries, six-branch yoga and calendar
-  - `lin:kagyu` — what: the Kālacakra tantra, commentaries, six-branch yoga and calendar
+  - [Jonang (jo nang pa)](jonang.md) — what: the Kālacakra tantra, commentaries, six-branch yoga and calendar
+  - [Gelug](gelug.md) — what: the Kālacakra tantra, commentaries, six-branch yoga and calendar
+  - [Sakya](sakya.md) — what: the Kālacakra tantra, commentaries, six-branch yoga and calendar
+  - [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](kagyu.md) — what: the Kālacakra tantra, commentaries, six-branch yoga and calendar
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -37,19 +37,19 @@ The last major Indian tantric system (11th c.), the 'Wheel of Time', which corre
 **Caveat:** The Vimalaprabhā insists that the Ādibuddha is not a creator god and not a self; it is emptiness endowed with all aspects.
 
 ## Texts
-[Hevajrapiṇḍārthaṭīkā](../texts/hevajrapindarthatika.md), [Paramādibuddha (the Kālacakra Mūlatantra)](../texts/kalacakra-mulatantra.md), [Kālacakra Tantra (Laghukālacakra)](../texts/kalacakra-tantra.md), [Paramārthasevā](../texts/paramarthaseva.md), [Sekoddeśa](../texts/sekoddesa.md), [Sekoddeśaṭīkā (Paramārthasaṃgraha)](../texts/sekoddesatika.md), [Vimalaprabhā](../texts/vimalaprabha.md)
+[Hevajrapiṇḍārthaṭīkā](../texts/hevajrapindarthatika.md), [Paramādibuddha (the Kālacakra Mūlatantra)](../texts/kalacakra-mulatantra.md), [Kālacakra Tantra (Laghukālacakra)](../texts/kalacakra-tantra.md), [Paramārthasevā](../texts/paramarthaseva.md), [The Cycle of the Four Clear Lamps (gsal sgron skor bzhi)](../texts/salgron-korzhi.md), [Sekoddeśa](../texts/sekoddesa.md), [Sekoddeśaṭīkā (Paramārthasaṃgraha)](../texts/sekoddesatika.md), [Ornament that Illuminates and Beautifies the Essence of the Sugatas (bde gshegs snying po gsal zhing mdzes par byed pa'i rgyan)](../texts/tathagatagarbha-ornament-buton.md), [Meaningful to Behold: an instruction manual on the vajra-yoga (rdo rje rnal 'byor gyi khrid yig mthong ba don ldan)](../texts/thongwa-donden-taranatha.md), [Vimalaprabhā](../texts/vimalaprabha.md)
 
 ## Teachers
-[Abhayākaragupta](../teachers/abhayakaragupta.md), [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md), [Kālacakrapāda](../teachers/kalacakrapada.md), [Mañjuśrīyaśas](../teachers/manjusriyasas.md), [Nāropa](../teachers/naropa.md), [Puṇḍarīka](../teachers/pundarika.md), [Śākyaśrībhadra](../teachers/sakyasribhadra.md), [Sucandra](../teachers/sucandra.md), [Vajragarbha (bodhisattva of the Daśabhūmika)](../teachers/vajragarbha.md), [Vibhūticandra](../teachers/vibhuticandra.md)
+[Abhayākaragupta](../teachers/abhayakaragupta.md), [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md), [Butön Rinchen Drub](../teachers/buton.md), [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md), [Kālacakrapāda](../teachers/kalacakrapada.md), [Künpang Thukje Tsöndrü (kun spangs thugs rje brtson 'grus)](../teachers/kunpang-thukje-tsondru.md), [Mañjuśrīyaśas](../teachers/manjusriyasas.md), [Nāropa](../teachers/naropa.md), [Puṇḍarīka](../teachers/pundarika.md), [Śākyaśrībhadra](../teachers/sakyasribhadra.md), [Somanātha (zla ba mgon po), the Kashmiri paṇḍita](../teachers/somanatha-kashmiri.md), [Sucandra](../teachers/sucandra.md), [Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)](../teachers/taranatha.md), [Vajragarbha (bodhisattva of the Daśabhūmika)](../teachers/vajragarbha.md), [Vibhūticandra](../teachers/vibhuticandra.md), [Yumo Mikyö Dorje (yu mo mi bskyod rdo rje)](../teachers/yumo-mikyo-dorje.md)
 
 ## Practices
-_none recorded_
+[Cheating death (mṛtyuvañcana)](../practices/cheating-death.md), [Deity yoga (generation-stage sādhana)](../practices/deity-yoga.md), [The six-branch yoga (ṣaḍaṅgayoga)](../practices/sadanga-yoga.md)
 
 ## Path maps
 `pth:kalacakra-six-branches`
 
 ## Debates
-_none recorded_
+[Was the newly arrived Kālacakra to be accepted as authoritative, and the other tantras read in its light?](../debates/acceptance-of-the-kalacakra.md), [May celibate monastics receive the secret and wisdom consecrations?](../debates/higher-consecrations-for-monastics.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

@@ -12,4 +12,4 @@ Knowledge-obscuring, perception-obscuring, deluding and obstructive karma, which
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 10.1; rests_on: ["tea:tattvartha-sutra:10.1"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

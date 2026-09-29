@@ -48,4 +48,4 @@ _level: conventional · standpoint: analytic · path: body-breath · stage: all 
 _Notes: Close verbal parallels with src:goraksasataka (U21 owns that entry; refs there follow the Kuvalayananda–Shukla numbering). U21 flags src:yogamartanda as possibly another member of this family._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._

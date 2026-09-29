@@ -1105,7 +1105,7 @@ Entry (into cultivation) is by the contemplation of the unlovely and by mindfuln
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: [asubha](../terms/asubha.md) · practices: [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md) · obstacles: [The three roots of bad (greed, hatred, delusion)](../obstacles/three-poisons.md)
+terms: [asubha](../terms/asubha.md) · practices: [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md) · obstacles: [The three poisons](../obstacles/three-poisons.md)
 
 ### 6.12 <a id="tea-abhidharmakosa-6-12"></a>
 `skeleton` · confidence high
@@ -1496,4 +1496,4 @@ terms: [saddharma](../terms/saddharma.md) · concepts: [The two aspects of the t
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

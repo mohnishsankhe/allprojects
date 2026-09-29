@@ -17,4 +17,4 @@
 - contrasts-with → [Causeless destruction and momentariness](causeless-destruction.md): The Sautrāntika alternative rests on momentariness. — rests on [4.2-3](../texts/abhidharmakosabhasya.md#tea-abhidharmakosabhasya-4-2-3)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

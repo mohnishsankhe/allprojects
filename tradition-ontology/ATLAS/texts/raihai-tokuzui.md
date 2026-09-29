@@ -30,4 +30,4 @@ teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md) · disputes: `dsp:wo
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

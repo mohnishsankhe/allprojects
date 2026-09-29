@@ -34,4 +34,4 @@
 **Related:** [ātman](atman.md), [īśvara](isvara.md), [upādhi](upadhi.md), [aṅga](anga.md), [aṃśa](amsa.md), [Saṃkarṣaṇa](samkarsana.md), [ajīva](ajiva-jain.md), [upayoga](upayoga.md), [pratibimba](pratibimba.md), [svarūpa-yogyatā](svarupa-yogyata.md)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U20-virasaiva, skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U23-sakta-srividya, skeleton:U33-sramana, skeleton:U24-kali-kaula, skeleton:U35-jain-philosophy, skeleton:U15-dvaita, skeleton:U02-brahmana-vedanga, skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U20-virasaiva, skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U23-sakta-srividya, skeleton:U33-sramana, skeleton:U24-kali-kaula, skeleton:U35-jain-philosophy, skeleton:U15-dvaita, skeleton:U02-brahmana-vedanga, skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

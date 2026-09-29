@@ -32,4 +32,4 @@ concepts: [The seven deities of the Tantrasamuccaya](../concepts/seven-deities-o
 _Notes: Chapter count, the seven-deity list and the TSS details are from memory (moderate/low); not found in the local corpora. Its architectural chapters are also relevant to U58 (Vāstu/Śilpa)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._

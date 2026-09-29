@@ -18,4 +18,4 @@ From the fourth jhāna on the kasiṇas, after taming the mind in fourteen ways 
 _Notes: Recorded as a summary with the text's own warning; no operational detail._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._

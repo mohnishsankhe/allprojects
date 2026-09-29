@@ -41,4 +41,4 @@ Elephant-killing hermits (hastitāpasa), as reported: killing one large animal a
 _Notes: All non-Jain sides are reported_by_opponent (Sūtrakṛtāṅga 2.6); U33 holds the Gośāla and Buddhist episodes as tea:sutrakrtanga:2.6 to 2.6/3._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

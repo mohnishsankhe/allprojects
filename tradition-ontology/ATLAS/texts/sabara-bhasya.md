@@ -179,4 +179,4 @@ terms: [devatā](../terms/devata.md), [vigraha](../terms/vigraha.md) · concepts
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._

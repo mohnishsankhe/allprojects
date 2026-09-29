@@ -4470,6 +4470,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:jatakamala",
+  "label": "Garland of Birth Stories (Jātakamālā)",
+  "account": "scholarly",
+  "from": 300,
+  "to": 400,
+  "text": "c. 4th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:vindhyavasin",
   "label": "Vindhyavāsin",
   "account": "scholarly",
@@ -4536,6 +4546,16 @@
   "from": 300,
   "to": 400,
   "text": "if a human teacher, c. 4th c. CE; many scholars treat 'Maitreya' as a name under which Asaṅga's circle transmitted texts",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:aryasura",
+  "label": "Āryaśūra",
+  "account": "scholarly",
+  "from": 300,
+  "to": 400,
+  "text": "c. 4th c. CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -8720,6 +8740,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:daojing",
+  "label": "Daojing",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "8th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:buddhaguhya",
   "label": "Buddhaguhya",
   "account": "scholarly",
@@ -8817,6 +8847,16 @@
   "to": 774,
   "text": "705-774 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yuthok-yonten-gonpo-elder",
+  "label": "Yuthok Yönten Gönpo the Elder (g.yu thog rnying ma yon tan mgon po)",
+  "account": "tradition",
+  "from": 708,
+  "to": 833,
+  "text": "708–833 (125 years)",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -12550,6 +12590,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:lamdre",
+  "label": "Lamdre root text: the Vajra Verses (lam 'bras bu dang bcas pa'i gdams ngag)",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1070,
+  "text": "Indian original c. 10th c. CE (?); in Tibet from Drokmi (11th c.)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:yamuna",
   "label": "Yāmunācārya",
   "account": "scholarly",
@@ -12710,6 +12760,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:serlingpa",
+  "label": "Serlingpa Dharmakīrti (Suvarṇadvīpī Dharmakīrti)",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1050,
+  "text": "late 10th – 11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:vivarana",
   "label": "Vivaraṇa school (Vivaraṇa-prasthāna)",
   "account": "scholarly",
@@ -12736,6 +12796,16 @@
   "from": 952,
   "to": 952,
   "text": "952; Korean printing 1245",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:rinchen-zangpo",
+  "label": "Rinchen Zangpo",
+  "account": "scholarly",
+  "from": 958,
+  "to": 1055,
+  "text": "958–1055 CE",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -12777,6 +12847,16 @@
   "to": 1020,
   "text": "959–1020 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yeshe-o",
+  "label": "Lha Lama Yeshe Ö",
+  "account": "scholarly",
+  "from": 959,
+  "to": 1040,
+  "text": "late 10th – early 11th c. CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -13010,6 +13090,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:khyungpo-naljor",
+  "label": "Khyungpo Naljor",
+  "account": "tradition",
+  "from": 978,
+  "to": 1139,
+  "text": "978/990–1127/1139 (a life of about 150 years in the tradition's reckoning)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:prameyakamalamartanda",
   "label": "Prameyakamalamārtaṇḍa",
   "account": "scholarly",
@@ -13140,6 +13230,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:jangchub-o",
+  "label": "Lha Lama Jangchub Ö",
+  "account": "scholarly",
+  "from": 984,
+  "to": 1078,
+  "text": "11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:dhvanyaloka-locana",
   "label": "Locana (Dhvanyālokalocana) of Abhinavagupta",
   "account": "scholarly",
@@ -13182,10 +13282,10 @@
  {
   "entity": "tch:tilopa",
   "label": "Tilopa",
-  "account": "scholarly",
+  "account": "tradition",
   "from": 988,
   "to": 1069,
-  "text": "988–1069 (Tibetan reckoning)",
+  "text": "988–1069 (Tibetan histories)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -13267,6 +13367,16 @@
   "to": 1049,
   "text": "992–1049",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:drokmi-lotsawa",
+  "label": "Drokmi Lotsawa Shākya Yeshe",
+  "account": "scholarly",
+  "from": 993,
+  "to": 1074,
+  "text": "992/993 – 1043/1074 CE (sources differ)",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -13650,6 +13760,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:marpa",
+  "label": "Marpa Chökyi Lodrö (Marpa the Translator)",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "11th c.; alternative reckonings (e.g. 1000–1081) exist",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gayadhara",
+  "label": "Gayadhara",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1103,
+  "text": "d. c. 1103 CE (recalled)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:somanatha-kashmiri",
+  "label": "Somanātha (zla ba mgon po), the Kashmiri paṇḍita",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "11th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kyoton-sonam-lama",
+  "label": "Kyotön Sönam Lama (skyo ston bsod nams bla ma)",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1120,
+  "text": "11th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:mantrapitha",
   "label": "Mantrapīṭha (the Seat of Mantras)",
   "account": "scholarly",
@@ -13740,6 +13890,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:dromtonpa",
+  "label": "Dromtönpa Gyalwai Jungne",
+  "account": "scholarly",
+  "from": 1004,
+  "to": 1064,
+  "text": "1004–1064 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:maitripa",
   "label": "Maitrīpa (Advayavajra)",
   "account": "scholarly",
@@ -13810,6 +13970,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:nagtso-lotsawa",
+  "label": "Nagtso Lotsawa Tsultrim Gyalwa",
+  "account": "scholarly",
+  "from": 1011,
+  "to": 1064,
+  "text": "1011–1064 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:rongzompa",
   "label": "Rongzom Chökyi Zangpo (rong zom chos kyi bzang po)",
   "account": "scholarly",
@@ -13817,6 +13987,26 @@
   "to": 1088,
   "text": "1012-1088",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:marpa",
+  "label": "Marpa Chökyi Lodrö (Marpa the Translator)",
+  "account": "tradition",
+  "from": 1012,
+  "to": 1097,
+  "text": "1012–1097 (the usual Tibetan reckoning)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:drapa-ngonshe",
+  "label": "Drapa Ngönshé (grwa pa mngon shes)",
+  "account": "scholarly",
+  "from": 1012,
+  "to": 1090,
+  "text": "1012–1090",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -13835,8 +14025,28 @@
   "account": "scholarly",
   "from": 1016,
   "to": 1100,
-  "text": "c. 1016–1100 (Tibetan reckonings vary: 956–1040 or 1016–1100)",
+  "text": "c. 1016–1100 (the later Tibetan reckoning, commonly adopted)",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:naropa",
+  "label": "Nāropa",
+  "account": "tradition",
+  "from": 1016,
+  "to": 1100,
+  "text": "956–1040 or 1016–1100 (Tibetan histories differ)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gonpawa",
+  "label": "Gönpawa Wangchuk Gyaltsen",
+  "account": "scholarly",
+  "from": 1016,
+  "to": 1082,
+  "text": "1016–1082 CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -13960,6 +14170,16 @@
   "level": "sourced"
  },
  {
+  "entity": "tch:ngok-lekpai-sherab",
+  "label": "Ngok Lekpai Sherab",
+  "account": "scholarly",
+  "from": 1018,
+  "to": 1115,
+  "text": "11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:vyaktiviveka",
   "label": "Vyaktiviveka of Mahimabhaṭṭa",
   "account": "scholarly",
@@ -13971,7 +14191,7 @@
  },
  {
   "entity": "src:satyadvayavatara",
-  "label": "Satyadvayāvatāra",
+  "label": "Entry into the Two Truths (Satyadvayāvatāra; bden pa gnyis la 'jug pa)",
   "account": "scholarly",
   "from": 1020,
   "to": 1054,
@@ -14090,6 +14310,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:potowa",
+  "label": "Potowa Rinchen Sal",
+  "account": "scholarly",
+  "from": 1027,
+  "to": 1105,
+  "text": "1027–1105 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yumo-mikyo-dorje",
+  "label": "Yumo Mikyö Dorje (yu mo mi bskyod rdo rje)",
+  "account": "scholarly",
+  "from": 1027,
+  "to": 1120,
+  "text": "11th – early 12th c. (exact dates uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:milarepa",
+  "label": "Milarepa (Jetsün Mila Shepa Dorje)",
+  "account": "scholarly",
+  "from": 1028,
+  "to": 1135,
+  "text": "11th–early 12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:seton-kunrig",
+  "label": "Seton Kunrig",
+  "account": "scholarly",
+  "from": 1029,
+  "to": 1116,
+  "text": "1029–1116 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:aucityavicaracarca",
   "label": "Aucityavicāracarcā of Kṣemendra",
   "account": "scholarly",
@@ -14160,6 +14420,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:phuchungwa",
+  "label": "Phuchungwa Shönu Gyaltsen",
+  "account": "scholarly",
+  "from": 1031,
+  "to": 1106,
+  "text": "1031–1106 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:machig-labdron",
+  "label": "Machig Labdrön (ma gcig lab sgron)",
+  "account": "scholarly",
+  "from": 1031,
+  "to": 1149,
+  "text": "dates vary in the sources (e.g. 1055–1149; 1031–1129)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:touzi-yiqing",
   "label": "Touzi Yiqing 投子義青",
   "account": "scholarly",
@@ -14180,6 +14460,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:chengawa",
+  "label": "Chengawa Tsultrim Bar",
+  "account": "scholarly",
+  "from": 1033,
+  "to": 1103,
+  "text": "1033–1103 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:khon-konchok-gyalpo",
+  "label": "Khön Könchok Gyalpo",
+  "account": "scholarly",
+  "from": 1034,
+  "to": 1102,
+  "text": "1034–1102 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:tiansheng-guangdeng-lu",
   "label": "Tiansheng Extended Record of the Lamp (Tiansheng guangdeng lu)",
   "account": "scholarly",
@@ -14187,6 +14487,16 @@
   "to": 1036,
   "text": "1036",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ngok-choku-dorje",
+  "label": "Ngok Chöku Dorje",
+  "account": "scholarly",
+  "from": 1036,
+  "to": 1102,
+  "text": "1036–1102",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -14206,6 +14516,26 @@
   "from": 1040,
   "to": 1088,
   "text": "11th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:milarepa",
+  "label": "Milarepa (Jetsün Mila Shepa Dorje)",
+  "account": "tradition",
+  "from": 1040,
+  "to": 1123,
+  "text": "1040–1123 (Tsangnyön Heruka); other Tibetan reckonings 1028/1052–1111/1135",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bari-lotsawa",
+  "label": "Bari Lotsawa Rinchen Drak",
+  "account": "scholarly",
+  "from": 1040,
+  "to": 1112,
+  "text": "1040–1112 CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -14230,6 +14560,66 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:bodhipathapradipa",
+  "label": "Lamp for the Path to Awakening (Bodhipathapradīpa; byang chub lam gyi sgron ma)",
+  "account": "scholarly",
+  "from": 1042,
+  "to": 1044,
+  "text": "c. 1042–1044 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:bodhimargapradipapanjika",
+  "label": "Difficult Points of the Lamp for the Path (Bodhimārgadīpapañjikā; byang chub lam gyi sgron ma'i dka' 'grel)",
+  "account": "scholarly",
+  "from": 1042,
+  "to": 1054,
+  "text": "c. 1042–1054 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:bodhisattvamanyavali",
+  "label": "Jewel Garland of the Bodhisattva (Bodhisattvamaṇyāvalī; byang chub sems dpa'i nor bu'i phreng ba)",
+  "account": "scholarly",
+  "from": 1042,
+  "to": 1054,
+  "text": "11th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:caryasamgrahapradipa",
+  "label": "Lamp Summarising Conduct (Caryāsaṃgrahapradīpa; spyod pa bsdus pa'i sgron ma)",
+  "account": "scholarly",
+  "from": 1042,
+  "to": 1054,
+  "text": "11th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:neusurpa",
+  "label": "Neusurpa Yeshe Bar",
+  "account": "scholarly",
+  "from": 1042,
+  "to": 1118,
+  "text": "1042–1118 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:kadam",
+  "label": "Kadam",
+  "account": "scholarly",
+  "from": 1042,
+  "to": 1450,
+  "text": "Atiśa in Tibet 1042–1054 CE; Reting 1056/57; Kadam as a separate order absorbed into the Gelug from the 15th c. and its lojong and lamrim into all schools",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:furong-daokai",
   "label": "Furong Daokai 芙蓉道楷",
   "account": "scholarly",
@@ -14237,6 +14627,16 @@
   "to": 1118,
   "text": "1043–1118",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:doushuai-congyue",
+  "label": "Doushuai Congyue 兜率從悅",
+  "account": "scholarly",
+  "from": 1044,
+  "to": 1091,
+  "text": "1044–1091",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -14460,6 +14860,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:salgron-korzhi",
+  "label": "The Cycle of the Four Clear Lamps (gsal sgron skor bzhi)",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1150,
+  "text": "11th–12th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ramanuja",
   "label": "Rāmānuja",
   "account": "scholarly",
@@ -14590,12 +15000,72 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:khyungpo-naljor",
+  "label": "Khyungpo Naljor",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1140,
+  "text": "11th–12th c.; the traditional life-span is not accepted by modern historians",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:kagyu",
+  "label": "Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)",
+  "account": "scholarly",
+  "from": 1050,
+  "to": null,
+  "text": "11th c. (Marpa's translations) onward; the Dakpo Kagyu schools founded in the 12th–13th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:shangpa-kagyu",
+  "label": "Shangpa Kagyu",
+  "account": "scholarly",
+  "from": 1050,
+  "to": null,
+  "text": "11th–12th c. onward",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:brahmayamala",
   "label": "Brahmayāmala (Picumata)",
   "account": "scholarly",
   "from": null,
   "to": 1052,
   "text": "Nepalese manuscript dated 1052 CE; text perhaps 7th–8th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:zhangton-chobar",
+  "label": "Zhangtön Chöbar",
+  "account": "scholarly",
+  "from": 1053,
+  "to": 1135,
+  "text": "1053–1135 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:langri-tangpa",
+  "label": "Langri Tangpa Dorje Senge",
+  "account": "scholarly",
+  "from": 1054,
+  "to": 1123,
+  "text": "1054–1123 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:machig-labdron",
+  "label": "Machig Labdrön (ma gcig lab sgron)",
+  "account": "tradition",
+  "from": 1055,
+  "to": 1149,
+  "text": "1055–1149 in one widely used reckoning",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -14607,6 +15077,16 @@
   "to": 1109,
   "text": "1059–1109 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dolpa-sherab-gyatso",
+  "label": "Dölpa Sherab Gyatso (Geshe Dölpa)",
+  "account": "scholarly",
+  "from": 1059,
+  "to": 1131,
+  "text": "1059–1131 CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -14637,6 +15117,16 @@
   "to": 1061,
   "text": "1061",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dampa-kunga",
+  "label": "Dampa Kunga (dam pa kun dga')",
+  "account": "scholarly",
+  "from": 1062,
+  "to": 1124,
+  "text": "1062–1124 (as recalled)",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -14700,6 +15190,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:sharawa",
+  "label": "Sharawa Yönten Drak",
+  "account": "scholarly",
+  "from": 1070,
+  "to": 1141,
+  "text": "1070–1141 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:kadam-shungpa",
+  "label": "Kadam Shungpawa (textual tradition)",
+  "account": "scholarly",
+  "from": 1070,
+  "to": 1400,
+  "text": "late 11th – 14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:kadam-lamrimpa",
+  "label": "Kadam Lamrimpa (stages-of-the-path tradition)",
+  "account": "scholarly",
+  "from": 1070,
+  "to": 1400,
+  "text": "late 11th – 14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:kadam-mengakpa",
+  "label": "Kadam Mengakpa (oral-instruction tradition)",
+  "account": "scholarly",
+  "from": 1070,
+  "to": 1400,
+  "text": "late 11th – 14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:juefan-huihong",
   "label": "Juefan Huihong 覺範慧洪",
   "account": "scholarly",
@@ -14730,6 +15260,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:sakya",
+  "label": "Sakya",
+  "account": "scholarly",
+  "from": 1073,
+  "to": null,
+  "text": "Sakya monastery 1073 CE; the school's identity fixed by the 'five founding masters' (1092–1280 CE); Sakya–Yuan hegemony over Tibet c. 1260–1354",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:jinadatta-suri",
   "label": "Jinadattasūri",
   "account": "scholarly",
@@ -14750,12 +15290,72 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:gampopa",
+  "label": "Gampopa Sönam Rinchen (Dakpo Lhaje)",
+  "account": "scholarly",
+  "from": 1079,
+  "to": 1153,
+  "text": "1079–1153",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:munimatalamkara",
   "label": "Munimatālaṃkāra",
   "account": "scholarly",
   "from": 1080,
   "to": 1125,
   "text": "c. 1100 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:eight-verses-mind-training",
+  "label": "Eight Verses of Mind Training (blo sbyong tshig brgyad ma)",
+  "account": "scholarly",
+  "from": 1080,
+  "to": 1123,
+  "text": "late 11th – early 12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:katsom-chenmo",
+  "label": "The Great Bundle of Precepts: the profound Chöd instruction of the Perfection of Wisdom (shes rab kyi pha rol tu phyin pa zab mo gcod kyi man ngag gi gzhung bka' tshoms chen mo)",
+  "account": "scholarly",
+  "from": 1080,
+  "to": 1150,
+  "text": "late 11th – early 12th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:chod",
+  "label": "Chöd (gcod), 'Cutting'",
+  "account": "scholarly",
+  "from": 1080,
+  "to": null,
+  "text": "late 11th – early 12th c. (Machig's dates are given variously: 1055–1149, 1031–1129 and others); integrated into all Tibetan schools from the 13th–14th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:shije",
+  "label": "Shije (zhi byed), 'Pacification [of suffering]'",
+  "account": "scholarly",
+  "from": 1080,
+  "to": 1500,
+  "text": "late 11th – early 12th c. (Padampa d. c. 1105 or 1117); transmitted as the early, middle and later lines; no longer an independent institution after c. 15th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:rechungpa",
+  "label": "Rechungpa Dorje Drakpa",
+  "account": "scholarly",
+  "from": 1084,
+  "to": 1161,
+  "text": "1084/1085–1161",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -14820,6 +15420,16 @@
   "level": "sourced"
  },
  {
+  "entity": "src:dingri-gyatsa",
+  "label": "The Hundred Verses of Dingri: Padampa Sangye's parting testament (pha dam pa sangs rgyas kyi 'da' ka zhal chems ding ri brgya rtsa ma)",
+  "account": "scholarly",
+  "from": 1090,
+  "to": 1117,
+  "text": "late 11th – early 12th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:jimutavahana",
   "label": "Jīmūtavāhana",
   "account": "scholarly",
@@ -14850,6 +15460,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:sachen-kunga-nyingpo",
+  "label": "Sachen Kunga Nyingpo",
+  "account": "scholarly",
+  "from": 1092,
+  "to": 1158,
+  "text": "1092–1158 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:somasambhupaddhati",
   "label": "Somaśambhupaddhati",
   "account": "scholarly",
@@ -14857,6 +15477,16 @@
   "to": 1096,
   "text": "completed 1095/96 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:wuzhuo-miaozong",
+  "label": "Wuzhuo Miaozong 無著妙總",
+  "account": "scholarly",
+  "from": 1095,
+  "to": 1170,
+  "text": "1095–1170",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -15236,6 +15866,36 @@
   "from": 1100,
   "to": 1110,
   "text": "c. 1103 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:parting-from-four-attachments",
+  "label": "Parting from the Four Attachments (zhen pa bzhi bral)",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1160,
+  "text": "early 12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:book-of-kadam",
+  "label": "The Book of Kadam (bka' gdams glegs bam)",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1450,
+  "text": "12th–15th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:blue-compendium",
+  "label": "The Blue Compendium (be'u bum sngon po)",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1170,
+  "text": "12th c. CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -15720,6 +16380,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:chekawa",
+  "label": "Chekawa Yeshe Dorje",
+  "account": "scholarly",
+  "from": 1101,
+  "to": 1175,
+  "text": "1101–1175 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:chanyuan-qinggui",
   "label": "Pure Rules of the Chan Monastery (Chanyuan qinggui)",
   "account": "scholarly",
@@ -15727,6 +16397,16 @@
   "to": 1103,
   "text": "1103",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:parting-from-four-attachments",
+  "label": "Parting from the Four Attachments (zhen pa bzhi bral)",
+  "account": "tradition",
+  "from": 1104,
+  "to": 1104,
+  "text": "Sachen's twelfth year (c. 1104)",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -15770,6 +16450,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:dusum-khyenpa",
+  "label": "Düsum Khyenpa, the first Karmapa",
+  "account": "scholarly",
+  "from": 1110,
+  "to": 1193,
+  "text": "1110–1193",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:phagmodrupa",
+  "label": "Phagmodrupa Dorje Gyalpo",
+  "account": "scholarly",
+  "from": 1110,
+  "to": 1170,
+  "text": "1110–1170",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:biyan-lu",
   "label": "Blue Cliff Record (Biyan lu)",
   "account": "scholarly",
@@ -15787,6 +16487,26 @@
   "to": 1185,
   "text": "1114–c. 1185 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gomtsul",
+  "label": "Dakpo Gomtsul Tsultrim Nyingpo",
+  "account": "scholarly",
+  "from": 1116,
+  "to": 1169,
+  "text": "1116–1169",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:padampa-sangye",
+  "label": "Padampa Sangye (pha dam pa sangs rgyas)",
+  "account": "scholarly",
+  "from": null,
+  "to": 1117,
+  "text": "d. c. 1105 or 1117 (birth unknown)",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -15840,6 +16560,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:jewel-ornament-of-liberation",
+  "label": "The Jewel Ornament of Liberation",
+  "account": "scholarly",
+  "from": 1120,
+  "to": 1153,
+  "text": "early–mid 12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:trilocanasiva",
   "label": "Trilocanaśiva",
   "account": "scholarly",
@@ -15890,12 +16620,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:se-chilbu",
+  "label": "Sé Chilbu Chökyi Gyaltsen",
+  "account": "scholarly",
+  "from": 1121,
+  "to": 1189,
+  "text": "1121–1189 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:katok-dampa-deshek",
   "label": "Katok Dampa Deshek (kaH thog dam pa bde gshegs)",
   "account": "scholarly",
   "from": 1122,
   "to": 1192,
   "text": "1122-1192",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:lama-zhang",
+  "label": "Lama Zhang (Zhang Yudrakpa Tsöndrü Drakpa)",
+  "account": "scholarly",
+  "from": 1123,
+  "to": 1193,
+  "text": "1123–1193",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -15910,12 +16660,52 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:yuthok-yonten-gonpo-younger",
+  "label": "Yuthok Yönten Gönpo the Younger (g.yu thog gsar ma yon tan mgon po)",
+  "account": "scholarly",
+  "from": 1126,
+  "to": 1202,
+  "text": "1126–1202",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:somesvara-iii",
   "label": "Someśvara III",
   "account": "scholarly",
   "from": 1127,
   "to": 1138,
   "text": "r. 1127–1138 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sakyasribhadra",
+  "label": "Śākyaśrībhadra",
+  "account": "scholarly",
+  "from": 1127,
+  "to": 1225,
+  "text": "1127–1225 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:barom-darma-wangchuk",
+  "label": "Barom Darma Wangchuk",
+  "account": "scholarly",
+  "from": 1127,
+  "to": 1199,
+  "text": "1127–1199 (uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:lingje-repa",
+  "label": "Lingje Repa Pema Dorje",
+  "account": "scholarly",
+  "from": 1128,
+  "to": 1188,
+  "text": "1128–1188",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -15977,6 +16767,26 @@
   "to": 1157,
   "text": "12th c.",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyakma",
+  "label": "Nyakma: Sachen's commentary on the Vajra Verses for Nyak Wangyal",
+  "account": "scholarly",
+  "from": 1130,
+  "to": 1158,
+  "text": "12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:seven-point-mind-training",
+  "label": "Seven-Point Mind Training (blo sbyong don bdun ma)",
+  "account": "scholarly",
+  "from": 1130,
+  "to": 1175,
+  "text": "12th c. CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -16120,16 +16930,6 @@
   "level": "skeleton"
  },
  {
-  "entity": "tch:sakyasribhadra",
-  "label": "Śākyaśrībhadra",
-  "account": "scholarly",
-  "from": 1140,
-  "to": 1225,
-  "text": "c. 1140s–1225 CE; in Tibet from 1204",
-  "confidence": "low",
-  "level": "skeleton"
- },
- {
   "entity": "tch:eisai",
   "label": "Myōan Eisai 明菴榮西 (Yōsai)",
   "account": "scholarly",
@@ -16147,6 +16947,36 @@
   "to": 1208,
   "text": "1141–1208 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:taklung-thangpa",
+  "label": "Taklung Thangpa Tashi Pal",
+  "account": "scholarly",
+  "from": 1142,
+  "to": 1210,
+  "text": "1142–1210",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sonam-tsemo",
+  "label": "Sönam Tsemo",
+  "account": "scholarly",
+  "from": 1142,
+  "to": 1182,
+  "text": "1142–1182 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jigten-sumgon",
+  "label": "Jigten Sumgön (Drikung Kyobpa Rinchen Pal)",
+  "account": "scholarly",
+  "from": 1143,
+  "to": 1217,
+  "text": "1143–1217",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -16180,12 +17010,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:drakpa-gyaltsen",
+  "label": "Jetsün Drakpa Gyaltsen",
+  "account": "scholarly",
+  "from": 1147,
+  "to": 1216,
+  "text": "1147–1216 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:tamil-saiva-siddhanta",
   "label": "Tamil Śaiva Siddhānta (the Meykaṇṭa school)",
   "account": "scholarly",
   "from": 1147,
   "to": null,
   "text": "12th c. forerunners (Tiruvuntiyār 1147/48); Meykaṇṭār early 13th c.; Umāpati 1306–1313; monastic (ātīṉam) tradition continuing",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:karma-kagyu",
+  "label": "Karma Kagyu (Kamtsang Kagyu)",
+  "account": "scholarly",
+  "from": 1147,
+  "to": null,
+  "text": "12th c. onward",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -16330,6 +17180,86 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:pod-ser",
+  "label": "The Yellow Volume (pod ser) of the Lamdre",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1216,
+  "text": "12th–early 13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:seven-point-commentary-se-chilbu",
+  "label": "Sé Chilbu's commentary on the Seven Points (blo sbyong don bdun ma'i 'grel pa)",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1189,
+  "text": "12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:phungpo-zenkyur-namshe",
+  "label": "The Complete Explanation of Offering the Aggregates as Food, Clarifying the Meaning of Chöd (phung po gzan skyur ba'i rnam bshad gcod kyi don gsal byed)",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1500,
+  "text": "compiled over the 12th–15th c. (layers uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gyushi",
+  "label": "The Four Tantras (rgyud bzhi): the Secret Instruction Tantra on the Eight Branches, the Essence of Nectar (bdud rtsi snying po yan lag brgyad pa gsang ba man ngag gi rgyud)",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1200,
+  "text": "compiled in the 12th c. by Yuthok Yönten Gönpo the Younger, drawing on the Aṣṭāṅgahṛdaya and other sources",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gyushi-tsagyu",
+  "label": "The Root Tantra (rtsa rgyud) of the Four Tantras",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1200,
+  "text": "compiled in the 12th c. by Yuthok Yönten Gönpo the Younger, drawing on the Aṣṭāṅgahṛdaya and other sources",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gyushi-shegyu",
+  "label": "The Explanatory Tantra (bshad rgyud) of the Four Tantras",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1200,
+  "text": "compiled in the 12th c. by Yuthok Yönten Gönpo the Younger, drawing on the Aṣṭāṅgahṛdaya and other sources",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gyushi-mengagyu",
+  "label": "The Oral Instruction Tantra (man ngag rgyud) of the Four Tantras",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1200,
+  "text": "compiled in the 12th c. by Yuthok Yönten Gönpo the Younger, drawing on the Aṣṭāṅgahṛdaya and other sources",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gyushi-chimagyu",
+  "label": "The Subsequent Tantra (phyi ma rgyud) of the Four Tantras",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1200,
+  "text": "compiled in the 12th c. by Yuthok Yönten Gönpo the Younger, drawing on the Aṣṭāṅgahṛdaya and other sources",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:murari-misra",
   "label": "Murāri Miśra",
   "account": "scholarly",
@@ -16440,6 +17370,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:sowa-rigpa",
+  "label": "Sowa Rigpa (gso ba rig pa), the Tibetan science of healing",
+  "account": "scholarly",
+  "from": 1150,
+  "to": null,
+  "text": "the Four Tantras compiled in the 12th c. by Yuthok Yönten Gönpo the Younger (1126–1202), with the Aṣṭāṅgahṛdaya as a principal source; the Jangpa and Zurkharpa schools 15th c.; standardized by Desi Sangye Gyatso 1680s–1703; living",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:zongxiao",
   "label": "Zongxiao",
   "account": "scholarly",
@@ -16490,6 +17430,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:phagdru-kagyu",
+  "label": "Phagdru Kagyu",
+  "account": "scholarly",
+  "from": 1158,
+  "to": null,
+  "text": "mid-12th c.; the Phagmodru ruling house from 1354",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:trisastisalakapurusacaritra",
   "label": "Triṣaṣṭiśalākāpuruṣacaritra",
   "account": "scholarly",
@@ -16530,6 +17480,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:gyude-chinam-sonam-tsemo",
+  "label": "General Presentation of the Tantra Classes (rgyud sde spyi'i rnam par gzhag pa)",
+  "account": "scholarly",
+  "from": 1160,
+  "to": 1182,
+  "text": "12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:chola-jugpai-go",
+  "label": "Door to Entering the Dharma (chos la 'jug pa'i sgo)",
+  "account": "scholarly",
+  "from": 1160,
+  "to": 1182,
+  "text": "12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ekanta-ramayya",
   "label": "Ēkānta Rāmayya",
   "account": "scholarly",
@@ -16557,6 +17527,26 @@
   "to": 1179,
   "text": "r. c. 1160–1179 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:barom-kagyu",
+  "label": "Barom Kagyu",
+  "account": "scholarly",
+  "from": 1160,
+  "to": null,
+  "text": "12th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tsangpa-gyare",
+  "label": "Tsangpa Gyare Yeshe Dorje (the first Gyalwang Drukpa)",
+  "account": "scholarly",
+  "from": 1161,
+  "to": 1211,
+  "text": "1161–1211",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -16630,6 +17620,56 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:parting-from-four-attachments-drakpa-gyaltsen",
+  "label": "Drakpa Gyaltsen's song on Parting from the Four Attachments (zhen pa bzhi bral gyi nyams len)",
+  "account": "scholarly",
+  "from": 1170,
+  "to": 1216,
+  "text": "late 12th – early 13th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yuthok-nyingthig",
+  "label": "The Heart Essence of Yuthok (g.yu thog snying thig)",
+  "account": "scholarly",
+  "from": 1170,
+  "to": 1250,
+  "text": "12th–13th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:trophu-kagyu",
+  "label": "Trophu Kagyu",
+  "account": "scholarly",
+  "from": 1170,
+  "to": null,
+  "text": "late 12th–13th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:martsang-kagyu",
+  "label": "Martsang Kagyu",
+  "account": "scholarly",
+  "from": 1170,
+  "to": null,
+  "text": "late 12th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:yelpa-kagyu",
+  "label": "Yelpa Kagyu",
+  "account": "scholarly",
+  "from": 1170,
+  "to": null,
+  "text": "late 12th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:shinran",
   "label": "Shinran",
   "account": "scholarly",
@@ -16687,6 +17727,16 @@
   "to": null,
   "text": "founded in 1175 (Angen 1) when Hōnen, reading Shandao, turned to the exclusive nenbutsu",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:tsalpa-kagyu",
+  "label": "Tsalpa Kagyu",
+  "account": "scholarly",
+  "from": 1175,
+  "to": null,
+  "text": "late 12th c.; the Tshalpa myriarchy flourished in the 13th–14th c.",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -16750,6 +17800,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:drikung-kagyu",
+  "label": "Drikung Kagyu",
+  "account": "scholarly",
+  "from": 1179,
+  "to": null,
+  "text": "late 12th c. onward",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:basava-purana-palkuriki",
   "label": "Basava Purāṇamu (Pālkuriki Sōmanātha)",
   "account": "scholarly",
@@ -16776,6 +17836,16 @@
   "from": 1180,
   "to": 1230,
   "text": "c. 1200 (late 12th–early 13th c.)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gyude-ngontok-jonshing",
+  "label": "Precious Tree of Tantric Realizations (rgyud kyi mngon par rtogs pa rin po che'i ljon shing)",
+  "account": "scholarly",
+  "from": 1180,
+  "to": 1216,
+  "text": "c. 1200 CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -16807,6 +17877,36 @@
   "to": 1250,
   "text": "late 12th c.; proscribed 1194 together with Eisai's movement; its members joined Dōgen's community in the 1240s",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:drukpa-kagyu",
+  "label": "Drukpa Kagyu",
+  "account": "scholarly",
+  "from": 1180,
+  "to": null,
+  "text": "late 12th c. onward",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:taklung-kagyu",
+  "label": "Taklung Kagyu",
+  "account": "scholarly",
+  "from": 1180,
+  "to": null,
+  "text": "late 12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:shugseb-kagyu",
+  "label": "Shugseb Kagyu",
+  "account": "scholarly",
+  "from": 1180,
+  "to": null,
+  "text": "late 12th c.",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -16890,6 +17990,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:sherab-jungne",
+  "label": "Sherab Jungne",
+  "account": "scholarly",
+  "from": 1187,
+  "to": 1241,
+  "text": "1187–1241",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:lorepa",
+  "label": "Gyalwa Lorepa Wangchuk Tsöndrü",
+  "account": "scholarly",
+  "from": 1187,
+  "to": 1250,
+  "text": "1187–1250",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:rentian-yanmu",
   "label": "Eyes of Humans and Gods (Rentian yanmu)",
   "account": "scholarly",
@@ -16897,6 +18017,16 @@
   "to": 1188,
   "text": "1188",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gotsangpa",
+  "label": "Gyalwa Götsangpa Gönpo Dorje",
+  "account": "scholarly",
+  "from": 1189,
+  "to": 1258,
+  "text": "1189–1258",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -17631,11 +18761,11 @@
  },
  {
   "entity": "src:tshad-ma-rigs-gter",
-  "label": "Tshad ma rigs pa'i gter (Treasury of Reasoning)",
+  "label": "Treasury of Valid Reasoning (tshad ma rigs pa'i gter)",
   "account": "scholarly",
   "from": 1200,
-  "to": 1250,
-  "text": "early 13th c.",
+  "to": 1251,
+  "text": "early 13th c. CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -17647,6 +18777,26 @@
   "to": 1200,
   "text": "1200 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sakya-legshe",
+  "label": "Treasury of Good Sayings (legs par bshad pa rin po che'i gter)",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1251,
+  "text": "13th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:khepa-jugpai-go",
+  "label": "Gateway to Learning (mkhas pa 'jug pa'i sgo)",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1251,
+  "text": "13th c. CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -17770,6 +18920,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:yazang-kagyu",
+  "label": "Yazang Kagyu",
+  "account": "scholarly",
+  "from": 1200,
+  "to": null,
+  "text": "c. 1200",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:enni-benen",
   "label": "Enni Ben'en 圓爾辨圓 (Shōichi kokushi)",
   "account": "scholarly",
@@ -17797,6 +18957,16 @@
   "to": 1204,
   "text": "1204 CE (Genkyū 1, 11th month), signed by Hōnen and some 190 disciples",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:karma-pakshi",
+  "label": "Karma Pakshi, the second Karmapa",
+  "account": "scholarly",
+  "from": 1204,
+  "to": 1283,
+  "text": "1204/1206–1283",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -18080,6 +19250,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:yang-gonpa",
+  "label": "Yangönpa Gyaltsen Pal",
+  "account": "scholarly",
+  "from": 1213,
+  "to": 1258,
+  "text": "1213–1258",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:ganhwa-gyeoruiron",
   "label": "Resolving Doubts about Observing the Hwadu (Ganhwa gyeoruiron)",
   "account": "scholarly",
@@ -18147,6 +19327,16 @@
   "to": 1289,
   "text": "1222–1289 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:mugai-nyodai",
+  "label": "Mugai Nyodai 無外如大",
+  "account": "scholarly",
+  "from": 1223,
+  "to": 1298,
+  "text": "1223–1298",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -18320,6 +19510,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:orgyenpa",
+  "label": "Orgyenpa Rinchen Pal",
+  "account": "scholarly",
+  "from": 1229,
+  "to": 1309,
+  "text": "1229/1230–1309",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sivananasiddhiyar",
   "label": "Civañāṉa Cittiyār",
   "account": "scholarly",
@@ -18327,6 +19527,26 @@
   "to": 1290,
   "text": "13th c.",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:thubpai-gongsal",
+  "label": "Clarifying the Sage's Intent (thub pa'i dgongs pa rab tu gsal ba)",
+  "account": "scholarly",
+  "from": 1230,
+  "to": 1251,
+  "text": "13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:domsum-rabye",
+  "label": "Discrimination of the Three Vows (sdom pa gsum gyi rab tu dbye ba)",
+  "account": "scholarly",
+  "from": 1230,
+  "to": 1240,
+  "text": "c. 1230s CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -18437,6 +19657,16 @@
   "to": 1300,
   "text": "1235–1300 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:chogyal-phagpa",
+  "label": "Chögyal Phagpa Lodrö Gyaltsen",
+  "account": "scholarly",
+  "from": 1235,
+  "to": 1280,
+  "text": "1235–1280 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -19080,6 +20310,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:kunpang-thukje-tsondru",
+  "label": "Künpang Thukje Tsöndrü (kun spangs thugs rje brtson 'grus)",
+  "account": "scholarly",
+  "from": 1243,
+  "to": 1313,
+  "text": "1243–1313",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:daishugyo",
   "label": "Daishugyō (Great Practice)",
   "account": "scholarly",
@@ -19610,6 +20850,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:changsem-gyalwa-yeshe",
+  "label": "Changsem Gyalwa Yeshe (byang sems rgyal ba ye shes)",
+  "account": "scholarly",
+  "from": 1257,
+  "to": 1320,
+  "text": "1257–1320",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:fozu-tongji",
   "label": "Comprehensive Record of the Buddhas and Patriarchs (Fozu tongji)",
   "account": "scholarly",
@@ -19648,6 +20898,16 @@
   "text": "13th c.",
   "confidence": "moderate",
   "level": "sourced"
+ },
+ {
+  "entity": "tch:yonten-gyatso-jonang",
+  "label": "Khetsün Yönten Gyatso (mkhas btsun yon tan rgya mtsho) of Jonang",
+  "account": "scholarly",
+  "from": 1260,
+  "to": 1327,
+  "text": "1260–1327",
+  "confidence": "low",
+  "level": "skeleton"
  },
  {
   "entity": "lin:mahanubhava",
@@ -20710,6 +21970,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:sheja-rabsel",
+  "label": "Explanation of the Knowable (shes bya rab gsal)",
+  "account": "scholarly",
+  "from": 1278,
+  "to": 1278,
+  "text": "1278 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:muktabai",
   "label": "Muktābāī",
   "account": "tradition",
@@ -20760,13 +22030,33 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:khedrup-drakpa-senge",
+  "label": "Khedrup Drakpa Senge, the first Shamarpa",
+  "account": "scholarly",
+  "from": 1283,
+  "to": 1349,
+  "text": "1283–1349",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:rangjung-dorje",
-  "label": "Rangjung Dorje (Third Karmapa)",
+  "label": "Rangjung Dorje, the third Karmapa",
   "account": "scholarly",
   "from": 1284,
   "to": 1339,
-  "text": "1284-1339",
+  "text": "1284–1339",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nyabon-kunga-pal",
+  "label": "Nyabön Kunga Pal (nya dbon kun dga' dpal)",
+  "account": "scholarly",
+  "from": 1285,
+  "to": 1380,
+  "text": "14th c. (dates uncertain)",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -20870,6 +22160,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:buton",
+  "label": "Butön Rinchen Drub",
+  "account": "scholarly",
+  "from": 1290,
+  "to": 1364,
+  "text": "1290–1364 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:zongbao",
   "label": "Zongbao 宗寶",
   "account": "scholarly",
@@ -20910,6 +22210,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:dolpopa",
+  "label": "Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)",
+  "account": "scholarly",
+  "from": 1292,
+  "to": 1361,
+  "text": "1292–1361",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:mati-panchen",
+  "label": "Sabzang Mati Paṇchen Lodrö Gyaltsen (sa bzang ma ti paN chen blo gros rgyal mtshan)",
+  "account": "scholarly",
+  "from": 1294,
+  "to": 1376,
+  "text": "1294–1376",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jonang",
+  "label": "Jonang (jo nang pa)",
+  "account": "scholarly",
+  "from": 1294,
+  "to": null,
+  "text": "Jonang hermitage founded c. 1294; Dolpopa's zhentong formulated c. 1320s–1330s; Tāranātha 1575–1634; Tsang seats converted to Gelug c. 1650–1658; continues in Amdo to the present",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:godensho",
   "label": "Biography of Shinran (Godenshō / Honganji Shōnin Shinran den'e)",
   "account": "scholarly",
@@ -20920,6 +22250,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:thirty-seven-practices",
+  "label": "Thirty-Seven Practices of Bodhisattvas (rgyal sras lag len so bdun ma)",
+  "account": "scholarly",
+  "from": 1295,
+  "to": 1369,
+  "text": "14th c. CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:jukaku",
   "label": "Jūkaku",
   "account": "scholarly",
@@ -20927,6 +22267,16 @@
   "to": 1360,
   "text": "1295–1360 CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tokme-zangpo",
+  "label": "Gyalse Tokmé Zangpo",
+  "account": "scholarly",
+  "from": 1295,
+  "to": 1369,
+  "text": "1295–1369 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -20946,6 +22296,16 @@
   "from": 1299,
   "to": 1410,
   "text": "1299–1410 (Rāmānandī reckoning)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jonang-lotsawa-lodro-pal",
+  "label": "Jonang Lotsawa Lodrö Pal (jo nang lo tsA ba blo gros dpal)",
+  "account": "scholarly",
+  "from": 1299,
+  "to": 1354,
+  "text": "1299–1354",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -21440,6 +22800,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:chogle-namgyal",
+  "label": "Bodong Chogle Namgyal (bo dong phyogs las rnam rgyal)",
+  "account": "scholarly",
+  "from": 1306,
+  "to": 1386,
+  "text": "1306–1386",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:honen-shonin-gyojo-ezu",
   "label": "Illustrated Biography of Hōnen in 48 Scrolls",
   "account": "scholarly",
@@ -21457,6 +22827,16 @@
   "to": 1364,
   "text": "1308-1364",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:chokyi-dondrub-rinchen",
+  "label": "Chöje Döndrub Rinchen",
+  "account": "scholarly",
+  "from": 1309,
+  "to": 1385,
+  "text": "1309–1385 CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -21530,6 +22910,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:profound-inner-meaning",
+  "label": "The Profound Inner Meaning",
+  "account": "scholarly",
+  "from": 1322,
+  "to": 1322,
+  "text": "1322 (colophon date as usually cited)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:buton-chojung",
+  "label": "Butön's History of Buddhism (bu ston chos 'byung)",
+  "account": "scholarly",
+  "from": 1322,
+  "to": 1322,
+  "text": "1322 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:orgyen-lingpa",
   "label": "Orgyen Lingpa (o rgyan gling pa)",
   "account": "scholarly",
@@ -21560,6 +22960,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:mountain-doctrine",
+  "label": "Mountain Doctrine: Ocean of Definitive Meaning (ri chos nges don rgya mtsho)",
+  "account": "scholarly",
+  "from": 1325,
+  "to": 1345,
+  "text": "c. 1330s (exact year not recalled)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:zhitro-gongpa-rangdrol",
   "label": "Zhitro Gongpa Rangdrol (zab chos zhi khro dgongs pa rang grol, the Profound Dharma of Self-Liberation through the Intention of the Peaceful and Wrathful Ones)",
   "account": "scholarly",
@@ -21586,6 +22996,16 @@
   "from": 1326,
   "to": 1386,
   "text": "14th c. (1326-1386 in some accounts)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:lhodrak-namkha-gyaltsen",
+  "label": "Lhodrak Drubchen Namkha Gyaltsen",
+  "account": "scholarly",
+  "from": 1326,
+  "to": 1401,
+  "text": "1326–1401 CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -21720,6 +23140,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:fourth-council-dolpopa",
+  "label": "The Great Calculation of the Doctrine which has the Significance of a Fourth Council (bka' bsdu bzhi pa'i don bstan rtsis chen po)",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1361,
+  "text": "14th c. (before 1361)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:general-commentary-on-the-doctrine-dolpopa",
+  "label": "A General Commentary on the Doctrine (bstan pa spyi 'grel)",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1361,
+  "text": "14th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:kriyasakti",
   "label": "Kriyāśakti",
   "account": "scholarly",
@@ -21787,6 +23227,16 @@
   "to": 1396,
   "text": "1340-1396",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:rolpe-dorje",
+  "label": "Rolpe Dorje, the fourth Karmapa",
+  "account": "scholarly",
+  "from": 1340,
+  "to": 1383,
+  "text": "1340–1383",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -21990,6 +23440,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:rendawa",
+  "label": "Rendawa Shönu Lodrö",
+  "account": "scholarly",
+  "from": 1349,
+  "to": 1412,
+  "text": "1349–1412 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:rgveda-bhasya-sayana",
   "label": "Sāyaṇa's commentary on the Ṛgveda (Vedārthaprakāśa)",
   "account": "scholarly",
@@ -22140,6 +23600,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:yakton-sangye-pal",
+  "label": "Yaktön Sangye Pal",
+  "account": "scholarly",
+  "from": 1350,
+  "to": 1414,
+  "text": "1350–1414 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shonu-gyalchok",
+  "label": "Shönu Gyalchok",
+  "account": "scholarly",
+  "from": 1350,
+  "to": 1450,
+  "text": "14th–15th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:pema-kathang",
   "label": "Pema Kathang (padma bka' thang, the Chronicle of Padma; Shelbrag Ma)",
   "account": "scholarly",
@@ -22170,6 +23650,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:jamchen-choje",
+  "label": "Jamchen Chöje Shākya Yeshe",
+  "account": "scholarly",
+  "from": 1354,
+  "to": 1435,
+  "text": "1354–1435 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tathagatagarbha-ornament-buton",
+  "label": "Ornament that Illuminates and Beautifies the Essence of the Sugatas (bde gshegs snying po gsal zhing mdzes par byed pa'i rgyan)",
+  "account": "scholarly",
+  "from": 1355,
+  "to": 1364,
+  "text": "1359 (as recalled)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:nyamme-sherab-gyaltsen",
   "label": "Nyamme Sherab Gyaltsen (mnyam med shes rab rgyal mtshan)",
   "account": "scholarly",
@@ -22177,6 +23677,26 @@
   "to": 1415,
   "text": "1356-1415",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tokden-jampal-gyatso",
+  "label": "Tokden Jampal Gyatso",
+  "account": "scholarly",
+  "from": 1356,
+  "to": 1428,
+  "text": "1356–1428 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tsongkhapa",
+  "label": "Tsongkhapa Lobsang Drakpa",
+  "account": "scholarly",
+  "from": 1357,
+  "to": 1419,
+  "text": "1357–1419 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -22210,6 +23730,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:thangtong-gyalpo",
+  "label": "Thangtong Gyalpo",
+  "account": "tradition",
+  "from": 1361,
+  "to": 1485,
+  "text": "1361–1485 (125 years)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sarngadhara-paddhati",
   "label": "Śārṅgadhara Paddhati (yoga section)",
   "account": "scholarly",
@@ -22231,11 +23761,11 @@
  },
  {
   "entity": "tch:gyaltsab-je",
-  "label": "Gyaltsab Je",
+  "label": "Gyaltsab Je Darma Rinchen",
   "account": "scholarly",
   "from": 1364,
   "to": 1432,
-  "text": "1364-1432",
+  "text": "1364–1432 CE",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -22277,6 +23807,16 @@
   "to": null,
   "text": "treasures revealed by Rigdzin Gödem in 1366 at Zangzang Lhadrak",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:rongton-sheja-kunrig",
+  "label": "Rongtön Sheja Kunrig",
+  "account": "scholarly",
+  "from": 1367,
+  "to": 1449,
+  "text": "1367–1449 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -22410,6 +23950,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:jamyang-choje",
+  "label": "Jamyang Chöje Tashi Palden",
+  "account": "scholarly",
+  "from": 1379,
+  "to": 1449,
+  "text": "1379–1449 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:vidyapati-padavali",
   "label": "Vidyāpati padāvalī",
   "account": "scholarly",
@@ -22430,6 +23980,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:ngorchen-kunga-zangpo",
+  "label": "Ngorchen Kunga Zangpo",
+  "account": "scholarly",
+  "from": 1382,
+  "to": 1456,
+  "text": "1382–1456 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sherab-senge",
+  "label": "Jetsün Sherab Senge",
+  "account": "scholarly",
+  "from": 1383,
+  "to": 1445,
+  "text": "1383–1445 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:deshin-shekpa",
+  "label": "Deshin Shekpa, the fifth Karmapa",
+  "account": "scholarly",
+  "from": 1384,
+  "to": 1415,
+  "text": "1384–1415",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:khedrup-je",
   "label": "Khedrup Je Gelek Pelzang",
   "account": "scholarly",
@@ -22440,6 +24020,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:thangtong-gyalpo",
+  "label": "Thangtong Gyalpo",
+  "account": "scholarly",
+  "from": 1385,
+  "to": 1464,
+  "text": "14th–15th c.; the long life-span is the tradition's",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:enzan-wadei-gassui-shu",
   "label": "Mud and Water from Enzan (Enzan wadei gassui shū)",
   "account": "scholarly",
@@ -22447,6 +24037,46 @@
   "to": 1386,
   "text": "1386",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:golden-rosary-tsongkhapa",
+  "label": "Golden Rosary of Eloquence (legs bshad gser phreng)",
+  "account": "scholarly",
+  "from": 1388,
+  "to": 1392,
+  "text": "c. 1388–1392 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:muchen-konchok-gyaltsen",
+  "label": "Muchen Könchok Gyaltsen",
+  "account": "scholarly",
+  "from": 1388,
+  "to": 1469,
+  "text": "1388–1469 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:three-principal-aspects",
+  "label": "Three Principal Aspects of the Path (lam gtso rnam gsum)",
+  "account": "scholarly",
+  "from": 1390,
+  "to": 1419,
+  "text": "c. 1400 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gendun-drup",
+  "label": "Gendün Drup",
+  "account": "scholarly",
+  "from": 1391,
+  "to": 1474,
+  "text": "1391–1474 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -22470,12 +24100,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:jangdak-namgyal-drakzang",
+  "label": "Jangdak Namgyal Drakzang (byang bdag rnam rgyal grags bzang)",
+  "account": "scholarly",
+  "from": 1395,
+  "to": 1475,
+  "text": "1395–1475",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:bijak",
   "label": "Bījak",
   "account": "tradition",
   "from": 1398,
   "to": 1518,
   "text": "Kabīr's lifetime (1398–1518 in the panth's reckoning)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:praise-of-dependent-origination",
+  "label": "Praise of Dependent Origination (rten 'brel bstod pa)",
+  "account": "scholarly",
+  "from": 1398,
+  "to": 1400,
+  "text": "c. 1398 CE (after his realization, per the tradition)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -22860,6 +24510,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:dorje-chang-thungma",
+  "label": "The Short Vajradhara Lineage Prayer (Dorje Chang Thungma)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1500,
+  "text": "15th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mind-training-great-collection",
+  "label": "Mind Training: The Great Collection (blo sbyong brgya rtsa)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1500,
+  "text": "15th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:eight-difficult-points-memorandum",
+  "label": "Memorandum on the Eight Great Difficult Points of the Root Wisdom (dbu ma rtsa ba'i dka' gnas chen po brgyad kyi brjed byang)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1419,
+  "text": "early 15th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:cennas-narayanan",
   "label": "Cēnnās Nārāyaṇan Nampūtirippāṭ",
   "account": "scholarly",
@@ -23010,6 +24690,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:bengar-jampal-zangpo",
+  "label": "Bengar Jampal Zangpo",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1500,
+  "text": "15th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:siddha-medicine",
   "label": "Siddha medicine (cittā maruttuvam)",
   "account": "scholarly",
@@ -23030,6 +24720,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:ganden-oral-lineage",
+  "label": "Ganden Oral Lineage of Mahāmudrā (Ganden Kagyu / Ensa Hearing Lineage)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1662,
+  "text": "oral lineage claimed from the 15th c.; root text written c. early 17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jangpa-medicine",
+  "label": "Jangpa (byang lugs), the Northern school of Tibetan medicine",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1700,
+  "text": "15th c. (Jangdak Namgyal Drakzang, 1395–1475)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:lamrim-chenmo",
+  "label": "Great Treatise on the Stages of the Path to Enlightenment (lam rim chen mo)",
+  "account": "scholarly",
+  "from": 1402,
+  "to": 1402,
+  "text": "1402 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:baso-chokyi-gyaltsen",
+  "label": "Baso Chökyi Gyaltsen",
+  "account": "scholarly",
+  "from": 1402,
+  "to": 1473,
+  "text": "1402–1473 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ratna-lingpa",
   "label": "Ratna Lingpa (ratna gling pa)",
   "account": "scholarly",
@@ -23037,6 +24767,26 @@
   "to": 1479,
   "text": "1403-1479",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ngagrim-chenmo",
+  "label": "Great Treatise on the Stages of Secret Mantra (sngags rim chen mo)",
+  "account": "scholarly",
+  "from": 1404,
+  "to": 1406,
+  "text": "c. 1405 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:taktsang-lotsawa",
+  "label": "Taktsang Lotsawa Sherab Rinchen",
+  "account": "scholarly",
+  "from": 1405,
+  "to": 1477,
+  "text": "1405–1477 CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -23061,12 +24811,22 @@
  },
  {
   "entity": "src:legs-bshad-snying-po",
-  "label": "Drang nges legs bshad snying po (Essence of Eloquence)",
+  "label": "Essence of Eloquence (drang nges legs bshad snying po)",
   "account": "scholarly",
   "from": 1407,
   "to": 1408,
-  "text": "1407–08",
+  "text": "1407–08 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ocean-of-reasoning",
+  "label": "Ocean of Reasoning (rtsa she ṭīk chen rigs pa'i rgya mtsho)",
+  "account": "scholarly",
+  "from": 1407,
+  "to": 1408,
+  "text": "c. 1407–08 CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -23090,6 +24850,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:gelug",
+  "label": "Gelug",
+  "account": "scholarly",
+  "from": 1409,
+  "to": null,
+  "text": "Ganden 1409 CE; ruling school of the Ganden Phodrang government from 1642 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:narsinh-mehta",
   "label": "Narsinh Mehta",
   "account": "scholarly",
@@ -23107,6 +24877,16 @@
   "to": 1481,
   "text": "c. 1414–1481",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:lamrim-dringpa",
+  "label": "Middle-Length Treatise on the Stages of the Path (lam rim 'bring ba)",
+  "account": "scholarly",
+  "from": 1415,
+  "to": 1415,
+  "text": "1415 CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -23147,6 +24927,26 @@
   "to": 1499,
   "text": "1415–1499 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:thongwa-donden",
+  "label": "Thongwa Dönden, the sixth Karmapa",
+  "account": "scholarly",
+  "from": 1416,
+  "to": 1453,
+  "text": "1416–1453",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:illumination-of-the-thought",
+  "label": "Illumination of the Thought (dbu ma dgongs pa rab gsal)",
+  "account": "scholarly",
+  "from": 1418,
+  "to": 1418,
+  "text": "1418 CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -23230,6 +25030,66 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:shakya-chokden",
+  "label": "Shākya Chokden",
+  "account": "scholarly",
+  "from": 1428,
+  "to": 1507,
+  "text": "1428–1507 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:parting-from-four-attachments-gorampa",
+  "label": "Gorampa's guidance manual on Parting from the Four Attachments (zhen pa bzhi bral gyi khrid yig)",
+  "account": "scholarly",
+  "from": 1429,
+  "to": 1489,
+  "text": "15th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:taway-ngensel",
+  "label": "Elimination of Bad Views (lta ba ngan sel) — Gorampa's commentary on the Madhyamakāvatāra",
+  "account": "scholarly",
+  "from": 1429,
+  "to": 1489,
+  "text": "15th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ngedon-rabsel",
+  "label": "Definitive Meaning Clarified (nges don rab gsal)",
+  "account": "scholarly",
+  "from": 1429,
+  "to": 1489,
+  "text": "15th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gorampa",
+  "label": "Gorampa Sönam Senge",
+  "account": "scholarly",
+  "from": 1429,
+  "to": 1489,
+  "text": "1429–1489 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:ngor",
+  "label": "Ngor (Ngorpa) Sakya",
+  "account": "scholarly",
+  "from": 1429,
+  "to": null,
+  "text": "Ngor monastery founded 1429 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:annamacarya-sankirtanas",
   "label": "Annamācārya's saṅkīrtanas",
   "account": "scholarly",
@@ -23267,6 +25127,26 @@
   "to": 1431,
   "text": "1431 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dzongpa-kunga-namgyal",
+  "label": "Dzongpa Kunga Namgyal",
+  "account": "scholarly",
+  "from": 1432,
+  "to": 1496,
+  "text": "1432–1496 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:dzongpa",
+  "label": "Dzong (Dzongpa) Sakya",
+  "account": "scholarly",
+  "from": 1432,
+  "to": 1496,
+  "text": "15th c. CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -23316,6 +25196,16 @@
   "from": 1434,
   "to": 1559,
   "text": "c. 1434–1550s CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:zurkhar-nyamnyi-dorje",
+  "label": "Zurkhar Nyamnyi Dorje (zur mkhar mnyam nyid rdo rje)",
+  "account": "scholarly",
+  "from": 1439,
+  "to": 1475,
+  "text": "1439–1475",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -23610,6 +25500,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:zurkharpa-medicine",
+  "label": "Zurkharpa (zur lugs), the Zur school of Tibetan medicine",
+  "account": "scholarly",
+  "from": 1450,
+  "to": 1700,
+  "text": "15th–16th c. (Zurkhar Nyamnyi Dorje 1439–1475; Zurkhar Lodrö Gyalpo 1509–1579)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:kenzeiki",
   "label": "Kenzeiki",
   "account": "scholarly",
@@ -23617,6 +25517,46 @@
   "to": 1452,
   "text": "1452",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tsangnyon-heruka",
+  "label": "Tsangnyön Heruka Sangye Gyaltsen",
+  "account": "scholarly",
+  "from": 1452,
+  "to": 1507,
+  "text": "1452–1507",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:chodrak-gyatso",
+  "label": "Chödrak Gyatso, the seventh Karmapa",
+  "account": "scholarly",
+  "from": 1454,
+  "to": 1506,
+  "text": "1454–1506",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:drukpa-kunley",
+  "label": "Drukpa Kunley (Kunga Legpa)",
+  "account": "scholarly",
+  "from": 1455,
+  "to": 1529,
+  "text": "1455–1529",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:karma-trinlepa",
+  "label": "Karma Trinlepa",
+  "account": "scholarly",
+  "from": 1456,
+  "to": 1539,
+  "text": "1456–1539",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -23670,6 +25610,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:taway-shenje",
+  "label": "Distinguishing the Views (lta ba'i shan 'byed theg mchog gnad kyi zla zer)",
+  "account": "scholarly",
+  "from": 1460,
+  "to": 1470,
+  "text": "1469 CE (recalled)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:raghunatha-siromani",
   "label": "Raghunātha Śiromaṇi",
   "account": "scholarly",
@@ -23700,6 +25650,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:jetsun-chokyi-gyaltsen",
+  "label": "Jetsün Chökyi Gyaltsen",
+  "account": "scholarly",
+  "from": 1469,
+  "to": 1544,
+  "text": "1469–1544 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:uttaratantra-commentary-go-lotsawa",
   "label": "Rgyud bla ma'i 'grel bshad de kho na nyid rab tu gsal ba'i me long (Gö Lotsawa)",
   "account": "scholarly",
@@ -23707,6 +25667,16 @@
   "to": 1481,
   "text": "late 15th c.",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:golden-lancet",
+  "label": "Golden Lancet (legs bshad gser gyi thur ma)",
+  "account": "scholarly",
+  "from": 1470,
+  "to": 1507,
+  "text": "late 15th c. CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -23720,6 +25690,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:lhatsun-rinchen-namgyal",
+  "label": "Lhatsün Rinchen Namgyal",
+  "account": "scholarly",
+  "from": 1473,
+  "to": 1557,
+  "text": "1473–1557",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:nityananda",
   "label": "Nityānanda (Nitāi, Avadhūta)",
   "account": "scholarly",
@@ -23730,12 +25710,42 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:gendun-gyatso",
+  "label": "Gendün Gyatso",
+  "account": "scholarly",
+  "from": 1475,
+  "to": 1542,
+  "text": "1475–1542 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:blue-annals",
+  "label": "The Blue Annals",
+  "account": "scholarly",
+  "from": 1476,
+  "to": 1478,
+  "text": "1476–1478",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:peling",
   "label": "Peling (the treasure tradition of Pema Lingpa)",
   "account": "scholarly",
   "from": 1476,
   "to": 1521,
   "text": "late 15th - early 16th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:panchen-sonam-drakpa",
+  "label": "Panchen Sönam Drakpa",
+  "account": "scholarly",
+  "from": 1478,
+  "to": 1554,
+  "text": "1478–1554 CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -24000,6 +26010,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:milarepa-gurbum",
+  "label": "The Hundred Thousand Songs of Milarepa",
+  "account": "scholarly",
+  "from": 1488,
+  "to": 1488,
+  "text": "compilation printed 1488",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:milarepa-namthar",
+  "label": "The Life of Milarepa",
+  "account": "scholarly",
+  "from": 1488,
+  "to": 1488,
+  "text": "1488",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:sanatana-gosvami",
   "label": "Sanātana Gosvāmī",
   "account": "scholarly",
@@ -24216,6 +26246,16 @@
   "from": 1497,
   "to": 1623,
   "text": "born Saṃvat 1554 (1497), died Saṃvat 1680 (1623)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ngorchen-konchog-lhundrub",
+  "label": "Ngorchen Könchog Lhündrub",
+  "account": "scholarly",
+  "from": 1497,
+  "to": 1557,
+  "text": "1497–1557 CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -24600,6 +26640,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:naropa-namthar-lhatsun",
+  "label": "The Life of Nāropa (by Lhatsün Rinchen Namgyal)",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1557,
+  "text": "16th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:drukpa-kunley-namthar",
+  "label": "The life and songs of Drukpa Kunley",
+  "account": "scholarly",
+  "from": 1500,
+  "to": null,
+  "text": "16th c. and later compilations",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:govindaraja",
   "label": "Govindarāja",
   "account": "scholarly",
@@ -24820,6 +26880,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:tsarchen-losal-gyatso",
+  "label": "Tsarchen Losal Gyatso",
+  "account": "scholarly",
+  "from": 1502,
+  "to": 1566,
+  "text": "1502–1566 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:tshar",
+  "label": "Tshar (Tsharpa) Sakya",
+  "account": "scholarly",
+  "from": 1502,
+  "to": 1566,
+  "text": "16th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:janardana-svami",
   "label": "Janārdana Svāmī",
   "account": "tradition",
@@ -24827,6 +26907,36 @@
   "to": 1575,
   "text": "1504–1575",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:pawo-tsuglag-trengwa",
+  "label": "Pawo Tsuglag Trengwa (the second Pawo)",
+  "account": "scholarly",
+  "from": 1504,
+  "to": 1566,
+  "text": "1504–1566",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:marpa-namthar",
+  "label": "The Life of Marpa the Translator",
+  "account": "scholarly",
+  "from": 1505,
+  "to": 1505,
+  "text": "1505",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gyalwa-ensapa",
+  "label": "Gyalwa Ensapa Lobsang Döndrub",
+  "account": "scholarly",
+  "from": 1505,
+  "to": 1566,
+  "text": "1505–1566 CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -24840,6 +26950,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:mikyo-dorje",
+  "label": "Mikyö Dorje, the eighth Karmapa",
+  "account": "scholarly",
+  "from": 1507,
+  "to": 1554,
+  "text": "1507–1554",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kunga-drolchok",
+  "label": "Jetsün Kunga Drolchok (rje btsun kun dga' grol mchog)",
+  "account": "scholarly",
+  "from": 1507,
+  "to": 1566,
+  "text": "1507–1566",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:zurkhar-lodro-gyalpo",
+  "label": "Zurkhar Lodrö Gyalpo (zur mkhar blo gros rgyal po)",
+  "account": "scholarly",
+  "from": 1509,
+  "to": 1579,
+  "text": "1509–1579",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:gopinatha-vallabha",
   "label": "Gopīnātha (elder son of Vallabha)",
   "account": "scholarly",
@@ -24847,6 +26987,16 @@
   "to": 1533,
   "text": "c. 1511–1533 CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dakpo-tashi-namgyal",
+  "label": "Dakpo Tashi Namgyal",
+  "account": "scholarly",
+  "from": 1512,
+  "to": 1587,
+  "text": "1512/1513–1587",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -24896,6 +27046,16 @@
   "from": 1514,
   "to": 1595,
   "text": "1514–1595 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:buddhaguptanatha",
+  "label": "Buddhaguptanātha",
+  "account": "scholarly",
+  "from": 1514,
+  "to": 1610,
+  "text": "16th c.",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -24980,6 +27140,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:three-visions-ngorchen",
+  "label": "Beautiful Ornament of the Three Visions (snang gsum mdzes par byed pa'i rgyan)",
+  "account": "scholarly",
+  "from": 1520,
+  "to": 1557,
+  "text": "16th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:three-continua-ngorchen",
+  "label": "Beautiful Ornament of the Three Continua (rgyud gsum mdzes par byed pa'i rgyan)",
+  "account": "scholarly",
+  "from": 1520,
+  "to": 1557,
+  "text": "16th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:raghunandana",
   "label": "Raghunandana",
   "account": "scholarly",
@@ -25010,6 +27190,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:khedrup-sangye-yeshe",
+  "label": "Khedrup Sangye Yeshe",
+  "account": "scholarly",
+  "from": 1525,
+  "to": 1591,
+  "text": "1525–1591 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:hiravijaya-suri",
   "label": "Hīravijayasūri",
   "account": "scholarly",
@@ -25017,6 +27207,26 @@
   "to": 1596,
   "text": "1527–1596",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:pema-karpo",
+  "label": "Pema Karpo (the fourth Gyalwang Drukpa)",
+  "account": "scholarly",
+  "from": 1527,
+  "to": 1592,
+  "text": "1527–1592",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:jonang-khrid-brgya",
+  "label": "The Hundred Instructions of Jonang (jo nang khrid brgya)",
+  "account": "scholarly",
+  "from": 1530,
+  "to": 1566,
+  "text": "16th c.",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -25110,6 +27320,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:moonbeams-of-mahamudra",
+  "label": "Moonbeams of Mahāmudrā",
+  "account": "scholarly",
+  "from": 1540,
+  "to": 1587,
+  "text": "16th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mepo-zhallung",
+  "label": "The Oral Instructions of the Ancestors (mes po'i zhal lung)",
+  "account": "scholarly",
+  "from": 1540,
+  "to": 1579,
+  "text": "16th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:madhusudana-sarasvati",
   "label": "Madhusūdana Sarasvatī",
   "account": "scholarly",
@@ -25180,6 +27410,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:sonam-gyatso",
+  "label": "Sönam Gyatso, Third Dalai Lama",
+  "account": "scholarly",
+  "from": 1543,
+  "to": 1588,
+  "text": "1543–1588 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:dadu-vani",
   "label": "Dādū Vāṇī (Dādū Dayāl kī Bāṇī)",
   "account": "tradition",
@@ -25226,6 +27466,16 @@
   "from": 1544,
   "to": null,
   "text": "Dādū Dayāl, 1544–1603; his fifty-two disciples founded fifty-two seats (thāmbā)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:feast-for-scholars",
+  "label": "A Feast for Scholars",
+  "account": "scholarly",
+  "from": 1545,
+  "to": 1564,
+  "text": "1545–1564",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -25560,6 +27810,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:wangchuk-dorje",
+  "label": "Wangchuk Dorje, the ninth Karmapa",
+  "account": "scholarly",
+  "from": 1556,
+  "to": 1603,
+  "text": "1556–1603",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:bhattadeva",
   "label": "Bhaṭṭadeva (Vaikuṇṭhanātha Bhāgavata Bhaṭṭācārya)",
   "account": "scholarly",
@@ -25850,6 +28110,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:panchen-lobsang-chokyi-gyaltsen",
+  "label": "Panchen Lobsang Chökyi Gyaltsen",
+  "account": "scholarly",
+  "from": 1570,
+  "to": 1662,
+  "text": "1570–1662 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:rasik-ramanandi",
   "label": "Rasik Rāma-bhakti (Rasik sampradāya of the Rāmānandīs)",
   "account": "scholarly",
@@ -25957,6 +28227,16 @@
   "to": 1682,
   "text": "1574–1682 (traditional long life)",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:taranatha",
+  "label": "Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)",
+  "account": "scholarly",
+  "from": 1575,
+  "to": 1634,
+  "text": "1575–1634 (death sometimes given as 1635)",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -26250,6 +28530,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:zhabdrung-ngawang-namgyal",
+  "label": "Zhabdrung Ngawang Namgyal",
+  "account": "scholarly",
+  "from": 1594,
+  "to": 1651,
+  "text": "1594–1651",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:nyayasudha-parimala",
   "label": "Nyāyasudhā-parimala",
   "account": "scholarly",
@@ -26450,6 +28740,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:rigdzin-chokyi-drakpa",
+  "label": "Rigdzin Chökyi Drakpa",
+  "account": "scholarly",
+  "from": 1595,
+  "to": 1659,
+  "text": "1595–1659",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:sundardas",
   "label": "Sundardās (the younger)",
   "account": "scholarly",
@@ -26496,6 +28796,16 @@
   "from": 1596,
   "to": null,
   "text": "formed after Mādhavadeva's death (1596), 17th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:amye-zhab",
+  "label": "Amyé Zhab Ngawang Kunga Sönam",
+  "account": "scholarly",
+  "from": 1597,
+  "to": 1659,
+  "text": "1597–1659 CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -26980,6 +29290,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:gyalwai-shunglam",
+  "label": "Highway of the Conquerors: root text of the Gelug/Kagyu Mahāmudrā (dge ldan bka' brgyud rin po che'i phyag chen rtsa ba rgyal ba'i gzhung lam)",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1662,
+  "text": "early 17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:lama-chopa",
+  "label": "Offering to the Spiritual Master (bla ma mchod pa; Guru Pūjā)",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1662,
+  "text": "early 17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zhentong-nyingpo-taranatha",
+  "label": "The Essence of Other-Emptiness (gzhan stong snying po)",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1634,
+  "text": "early 17th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:twenty-one-differences-taranatha",
+  "label": "Twenty-one Differences regarding the Profound Meaning (zab don khyad par nyer gcig pa)",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1634,
+  "text": "early 17th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:kamalakara-bhatta",
   "label": "Kamalākara Bhaṭṭa",
   "account": "scholarly",
@@ -27400,6 +29750,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:tara-tantra-origin-taranatha",
+  "label": "The Golden Rosary: a history of the origin of the Tārā tantra (sgrol ma'i rgyud kyi byung khungs gsal bar byed pa'i lo rgyus gser gyi phreng ba)",
+  "account": "scholarly",
+  "from": 1604,
+  "to": 1604,
+  "text": "1604 (as recalled)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:choying-dorje",
+  "label": "Chöying Dorje, the tenth Karmapa",
+  "account": "scholarly",
+  "from": 1604,
+  "to": 1674,
+  "text": "1604–1674",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:dadu-janma-lila",
   "label": "Dādū Janma Līlā",
   "account": "scholarly",
@@ -27446,6 +29816,16 @@
   "from": 1608,
   "to": 1681,
   "text": "1608–1681",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tsele-natsok-rangdrol",
+  "label": "Tselé Natsok Rangdröl",
+  "account": "scholarly",
+  "from": 1608,
+  "to": null,
+  "text": "b. 1608",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -27571,11 +29951,11 @@
  },
  {
   "entity": "tch:dalai-lama-5",
-  "label": "The Fifth Dalai Lama, Ngawang Lobzang Gyatso",
+  "label": "Ngawang Lobsang Gyatso, the Great Fifth Dalai Lama",
   "account": "scholarly",
   "from": 1617,
   "to": 1682,
-  "text": "1617-1682",
+  "text": "1617–1682 CE",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -27647,6 +30027,16 @@
   "to": 1660,
   "text": "c. 1620–1650 CE (Tanjore)",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zhije-lamnga-tsele",
+  "label": "The Words of Stainless Vision and the Supreme Siddha: instructions on the five paths of the holy Dharma pacifying suffering transmitted from Padampa Sangye (dri med snang ba grub pa mchog gi zhal lung … dam chos sdug bsngal zhi byed kyi lam lnga'i khrid yig)",
+  "account": "scholarly",
+  "from": 1620,
+  "to": 1700,
+  "text": "17th c.",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -27840,6 +30230,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:zanabazar",
+  "label": "Öndör Gegeen Zanabazar, the first Jebtsundamba Khutughtu",
+  "account": "scholarly",
+  "from": 1635,
+  "to": 1723,
+  "text": "1635–1723",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:samayasara-nataka",
   "label": "Samayasāra Nāṭaka",
   "account": "scholarly",
@@ -28020,6 +30420,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:ryonen-genso",
+  "label": "Ryōnen Genso 了然元總",
+  "account": "scholarly",
+  "from": 1646,
+  "to": 1711,
+  "text": "1646–1711",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:terdak-lingpa",
   "label": "Terdak Lingpa Gyurme Dorje (gter bdag gling pa 'gyur med rdo rje)",
   "account": "scholarly",
@@ -28037,6 +30447,16 @@
   "to": 1647,
   "text": "1647 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jamyang-shepa",
+  "label": "Jamyang Shepa Ngawang Tsöndrü",
+  "account": "scholarly",
+  "from": 1648,
+  "to": 1722,
+  "text": "1648–1722 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -28240,6 +30660,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:desi-sangye-gyatso",
+  "label": "Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)",
+  "account": "scholarly",
+  "from": 1653,
+  "to": 1705,
+  "text": "1653–1705",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:lochen-dharmasri",
   "label": "Lochen Dharmaśrī (lo chen dharma shrI)",
   "account": "scholarly",
@@ -28297,6 +30727,16 @@
   "to": 1660,
   "text": "1660",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:panchen-lobsang-yeshe",
+  "label": "Panchen Lobsang Yeshe",
+  "account": "scholarly",
+  "from": 1663,
+  "to": 1737,
+  "text": "1663–1737 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -28360,6 +30800,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:deumar-geshe-tenzin-phuntsok",
+  "label": "Deumar Geshe Tenzin Phuntsok (de'u dmar dge bshes bstan 'dzin phun tshogs)",
+  "account": "scholarly",
+  "from": 1672,
+  "to": 1750,
+  "text": "b. 1672 or 1673 (as recalled); active early 18th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:dariya-sahib-bihar",
   "label": "Dariyā Sāhib of Bihar",
   "account": "scholarly",
@@ -28387,6 +30837,16 @@
   "to": 1726,
   "text": "c. 1676–1726 CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yeshe-dorje-karmapa-11",
+  "label": "Yeshe Dorje, the eleventh Karmapa",
+  "account": "scholarly",
+  "from": 1676,
+  "to": 1702,
+  "text": "1676–1702",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -28460,6 +30920,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:blue-beryl",
+  "label": "The Blue Beryl: ornament of the Medicine Buddha's intent, the commentary on the Four Tantras (gso ba rig pa'i bstan bcos sman bla'i dgongs rgyan rgyud bzhi'i gsal byed bai DUr sngon po'i ma lli ka)",
+  "account": "scholarly",
+  "from": 1687,
+  "to": 1688,
+  "text": "1687–1688",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:medical-paintings",
+  "label": "The medical paintings (thangkas) illustrating the Blue Beryl",
+  "account": "scholarly",
+  "from": 1687,
+  "to": 1703,
+  "text": "c. 1687–1703",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:zenrin-kushu",
   "label": "Zen Phrase Anthology (Zenrin kushū)",
   "account": "scholarly",
@@ -28486,6 +30966,26 @@
   "from": 1689,
   "to": 1689,
   "text": "1689",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:drubta-chenmo",
+  "label": "Great Exposition of Tenets (grub mtha' chen mo)",
+  "account": "scholarly",
+  "from": 1689,
+  "to": 1699,
+  "text": "1699 CE (recalled)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mengak-lhenthab",
+  "label": "The Supplement to the Oral Instructions (man ngag lhan thabs)",
+  "account": "scholarly",
+  "from": 1690,
+  "to": 1692,
+  "text": "c. 1691",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -28900,6 +31400,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:situ-panchen",
+  "label": "Situ Paṇchen Chökyi Jungne (the eighth Tai Situpa)",
+  "account": "scholarly",
+  "from": 1700,
+  "to": 1774,
+  "text": "1700–1774",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:aghora",
   "label": "Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)",
   "account": "scholarly",
@@ -28930,12 +31440,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:khogbug",
+  "label": "The Mirror of Beryl: a history of medicine (sman gyi khog 'bugs)",
+  "account": "scholarly",
+  "from": 1703,
+  "to": 1703,
+  "text": "1703",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:charandas",
   "label": "Caraṇdās",
   "account": "scholarly",
   "from": 1703,
   "to": 1782,
   "text": "1703–1782",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:changchub-dorje-karmapa-12",
+  "label": "Changchub Dorje, the twelfth Karmapa",
+  "account": "scholarly",
+  "from": 1703,
+  "to": 1732,
+  "text": "1703–1732",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -28967,6 +31497,16 @@
   "to": 1742,
   "text": "c. 1705–1742",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dalai-lama-7",
+  "label": "Kelsang Gyatso, Seventh Dalai Lama",
+  "account": "scholarly",
+  "from": 1708,
+  "to": 1757,
+  "text": "1708–1757 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -29020,6 +31560,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:yongzin-yeshe-gyaltsen",
+  "label": "Yongzin Yeshe Gyaltsen",
+  "account": "scholarly",
+  "from": 1713,
+  "to": 1793,
+  "text": "1713–1793 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:mahipati",
   "label": "Mahīpati",
   "account": "scholarly",
@@ -29037,6 +31587,16 @@
   "to": 1778,
   "text": "1717–1778",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:changkya-rolpai-dorje",
+  "label": "Changkya Rolpai Dorje",
+  "account": "scholarly",
+  "from": 1717,
+  "to": 1786,
+  "text": "1717–1786 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -29086,6 +31646,16 @@
   "from": 1720,
   "to": 1782,
   "text": "18th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shelgong-shelthreng",
+  "label": "The Crystal Mirror and Crystal Rosary (shel gong shel phreng)",
+  "account": "scholarly",
+  "from": 1720,
+  "to": 1740,
+  "text": "1727 (as recalled)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -29170,6 +31740,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:konchok-jigme-wangpo",
+  "label": "Könchok Jigme Wangpo",
+  "account": "scholarly",
+  "from": 1728,
+  "to": 1791,
+  "text": "1728–1791 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:jigme-lingpa",
   "label": "Jigme Lingpa (rig 'dzin 'jigs med gling pa)",
   "account": "scholarly",
@@ -29177,6 +31757,16 @@
   "to": 1798,
   "text": "1730-1798",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dudul-dorje-karmapa-13",
+  "label": "Düdul Dorje, the thirteenth Karmapa",
+  "account": "scholarly",
+  "from": 1733,
+  "to": 1797,
+  "text": "1733–1797",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -29197,6 +31787,16 @@
   "to": 1737,
   "text": "fl. 1737 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:thuken-lobsang-chokyi-nyima",
+  "label": "Thuken Lobsang Chökyi Nyima",
+  "account": "scholarly",
+  "from": 1737,
+  "to": 1802,
+  "text": "1737–1802 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -29460,6 +32060,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:khandro-gegyang",
+  "label": "The Laughter of the Ḍākinīs (mkha' 'gro'i gad rgyangs)",
+  "account": "scholarly",
+  "from": 1760,
+  "to": 1798,
+  "text": "18th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:hariharananda-bharati",
   "label": "Hariharānanda Bhāratī (Hariharānandanātha Tīrthasvāmī)",
   "account": "scholarly",
@@ -29640,6 +32250,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:precious-garland-of-tenets",
+  "label": "Precious Garland of Tenets (grub mtha' rin chen phreng ba)",
+  "account": "scholarly",
+  "from": 1773,
+  "to": 1773,
+  "text": "1773 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:bhaktalilamrta",
   "label": "Bhaktalīlāmṛta",
   "account": "scholarly",
@@ -29810,6 +32430,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:thekchok-dorje",
+  "label": "Thekchok Dorje, the fourteenth Karmapa",
+  "account": "scholarly",
+  "from": 1798,
+  "to": 1868,
+  "text": "1798–1868",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:bijak-trijya",
   "label": "Bījak Trijyā (commentary of Pūran Sāhib)",
   "account": "scholarly",
@@ -29930,6 +32560,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:crystal-mirror-tenets",
+  "label": "Crystal Mirror of Tenets (grub mtha' shel gyi me long)",
+  "account": "scholarly",
+  "from": 1802,
+  "to": 1802,
+  "text": "1802 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:mongkut",
   "label": "Vajirañāṇa (King Mongkut)",
   "account": "scholarly",
@@ -29970,6 +32610,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:torch-of-certainty",
+  "label": "The Torch of Certainty",
+  "account": "scholarly",
+  "from": 1813,
+  "to": 1899,
+  "text": "19th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kagyu-ngagdzo",
+  "label": "The Treasury of Kagyu Mantra (bka' brgyud sngags mdzod)",
+  "account": "scholarly",
+  "from": 1813,
+  "to": 1899,
+  "text": "19th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:svati-tirunal",
   "label": "Svāti Tirunāḷ",
   "account": "scholarly",
@@ -29981,11 +32641,11 @@
  },
  {
   "entity": "tch:jamgon-kongtrul",
-  "label": "Jamgön Kongtrul Lodrö Thaye ('jam mgon kong sprul blo gros mtha' yas)",
+  "label": "Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)",
   "account": "scholarly",
   "from": 1813,
   "to": 1899,
-  "text": "1813-1899",
+  "text": "1813–1899",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -30045,7 +32705,7 @@
   "account": "scholarly",
   "from": 1820,
   "to": 1892,
-  "text": "1820-1892",
+  "text": "1820–1892",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -30230,6 +32890,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:rime",
+  "label": "Rimé (ris med), the non-sectarian movement",
+  "account": "scholarly",
+  "from": 1840,
+  "to": null,
+  "text": "c. 1840s–1910s, centred on Derge; continued by 20th-c. teachers",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:duddu-sah",
   "label": "Duddu Śāh",
   "account": "scholarly",
@@ -30247,6 +32917,16 @@
   "to": 1924,
   "text": "1842-1924",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bamda-gelek-gyatso",
+  "label": "Bamda Gelek Gyatso ('ba' mda' dge legs rgya mtsho)",
+  "account": "scholarly",
+  "from": 1844,
+  "to": 1904,
+  "text": "1844–1904",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -30287,6 +32967,16 @@
   "to": 1912,
   "text": "1846-1912",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jamyang-loter-wangpo",
+  "label": "Jamyang Loter Wangpo ('jam dbyangs blo gter dbang po)",
+  "account": "scholarly",
+  "from": 1847,
+  "to": 1914,
+  "text": "1847–1914",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -30530,6 +33220,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:sheja-kunkhyab",
+  "label": "The Treasury of Knowledge (shes bya kun khyab mdzod)",
+  "account": "scholarly",
+  "from": 1862,
+  "to": 1864,
+  "text": "1860s (as recalled)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:yinguang",
   "label": "Yinguang",
   "account": "scholarly",
@@ -30640,6 +33340,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:damngak-dzo",
+  "label": "The Treasury of Precious Instructions (gdams ngag rin po che'i mdzod)",
+  "account": "scholarly",
+  "from": 1870,
+  "to": 1899,
+  "text": "compiled 1870s–1880s; later enlarged editions",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zhentong-khelen-sengei-ngaro",
+  "label": "The Lion's Roar Affirming Other-Emptiness (gzhan stong khas len seng ge'i nga ro)",
+  "account": "scholarly",
+  "from": 1870,
+  "to": 1912,
+  "text": "late 19th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ajahn-mun",
   "label": "Ajahn Mun Bhūridatto",
   "account": "scholarly",
@@ -30666,6 +33386,36 @@
   "from": 1871,
   "to": 1946,
   "text": "1871–1946",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:khakhyab-dorje",
+  "label": "Khakhyab Dorje, the fifteenth Karmapa",
+  "account": "scholarly",
+  "from": 1871,
+  "to": 1922,
+  "text": "1871–1922",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:khenpo-shenga",
+  "label": "Khenpo Shenga (Shenphen Chökyi Nangwa, gzhan phan chos kyi snang ba)",
+  "account": "scholarly",
+  "from": 1871,
+  "to": 1927,
+  "text": "1871–1927",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shechen-gyaltsap",
+  "label": "Shechen Gyaltsap Gyurme Pema Namgyal (zhe chen rgyal tshab 'gyur med pad+ma rnam rgyal)",
+  "account": "scholarly",
+  "from": 1871,
+  "to": 1926,
+  "text": "1871–1926",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -30760,6 +33510,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:dalai-lama-13",
+  "label": "Thubten Gyatso, Thirteenth Dalai Lama",
+  "account": "scholarly",
+  "from": 1876,
+  "to": 1933,
+  "text": "1876–1933 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sar-bachan",
   "label": "Sār Bachan (Sār Bachan Nazm and Sār Bachan Nasr)",
   "account": "scholarly",
@@ -30790,6 +33550,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:pabongkha",
+  "label": "Pabongkha Dechen Nyingpo",
+  "account": "scholarly",
+  "from": 1878,
+  "to": 1941,
+  "text": "1878–1941 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:radhasoami-agra",
   "label": "Radhasoami Satsang, Agra lines (Soamibagh, Peepal Mandi / Huzuri Bhawan, Dayalbagh)",
   "account": "scholarly",
@@ -30807,6 +33577,26 @@
   "to": 1941,
   "text": "1879-1941",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:drubtab-kuntu",
+  "label": "The Compendium of Sādhanas (sgrub thabs kun btus)",
+  "account": "scholarly",
+  "from": 1880,
+  "to": 1910,
+  "text": "late 19th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gyude-kuntu",
+  "label": "The Compendium of Tantras (rgyud sde kun btus)",
+  "account": "scholarly",
+  "from": 1880,
+  "to": 1914,
+  "text": "late 19th – early 20th c.",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -30836,6 +33626,16 @@
   "from": 1881,
   "to": 1937,
   "text": "1881–1937",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:khyenrab-norbu",
+  "label": "Khyenrab Norbu (mkhyen rab nor bu)",
+  "account": "scholarly",
+  "from": 1883,
+  "to": 1962,
+  "text": "1883–1962",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -30946,6 +33746,16 @@
   "from": 1892,
   "to": 1954,
   "text": "1892–1954",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jamyang-khyentse-chokyi-lodro",
+  "label": "Jamyang Khyentse Chökyi Lodrö ('jam dbyangs mkhyen brtse chos kyi blo gros)",
+  "account": "scholarly",
+  "from": 1893,
+  "to": 1959,
+  "text": "1893–1959",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -31116,6 +33926,16 @@
   "from": 1900,
   "to": 1950,
   "text": "20th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shenga-thirteen-great-texts",
+  "label": "Annotation commentaries on the thirteen great texts (gzhung chen bcu gsum gyi mchan 'grel)",
+  "account": "scholarly",
+  "from": 1900,
+  "to": 1927,
+  "text": "early 20th c.",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -31510,6 +34330,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:ngawang-lodro-drakpa",
+  "label": "Ngawang Lodrö Drakpa (ngag dbang blo gros grags pa)",
+  "account": "scholarly",
+  "from": 1920,
+  "to": 1975,
+  "text": "1920–1975",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:sunlun",
   "label": "Sunlun Sayadaw tradition",
   "account": "scholarly",
@@ -31517,6 +34347,16 @@
   "to": null,
   "text": "early 20th c. onward",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:liberation-in-the-palm",
+  "label": "Liberation in the Palm of Your Hand (rnam grol lag bcangs)",
+  "account": "scholarly",
+  "from": 1921,
+  "to": 1921,
+  "text": "teachings 1921 CE; published later",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -31566,6 +34406,16 @@
   "from": 1924,
   "to": 2013,
   "text": "1924–2013",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:rangjung-rigpe-dorje",
+  "label": "Rangjung Rigpe Dorje, the sixteenth Karmapa",
+  "account": "scholarly",
+  "from": 1924,
+  "to": 1981,
+  "text": "1924–1981",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -31760,6 +34610,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:dalai-lama-14",
+  "label": "Tenzin Gyatso, Fourteenth Dalai Lama",
+  "account": "scholarly",
+  "from": 1935,
+  "to": null,
+  "text": "b. 1935 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:bhagwan-ram",
   "label": "Aghoreśvar Bhagavān Rām",
   "account": "scholarly",
@@ -31807,6 +34667,16 @@
   "to": 1939,
   "text": "1939",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:chogyam-trungpa",
+  "label": "Chögyam Trungpa",
+  "account": "scholarly",
+  "from": 1939,
+  "to": 1987,
+  "text": "1939/1940–1987",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -31887,6 +34757,16 @@
   "to": null,
   "text": "1938/1949 onward",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:jonang-chojung-ngawang-lodro-drakpa",
+  "label": "History of the Jonang: Lamp of the Moon (jo nang chos 'byung zla ba'i sgron me)",
+  "account": "scholarly",
+  "from": 1950,
+  "to": 1975,
+  "text": "20th c.",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -32050,6 +34930,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:trinley-thaye-dorje",
+  "label": "Trinley Thaye Dorje (recognized as seventeenth Karmapa by one party)",
+  "account": "scholarly",
+  "from": 1983,
+  "to": null,
+  "text": "b. 1983",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:a-still-forest-pool",
   "label": "A Still Forest Pool",
   "account": "scholarly",
@@ -32057,6 +34947,16 @@
   "to": 1985,
   "text": "1985",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ogyen-trinley-dorje",
+  "label": "Ogyen Trinley Dorje (recognized as seventeenth Karmapa by one party)",
+  "account": "scholarly",
+  "from": 1985,
+  "to": null,
+  "text": "b. 1985",
+  "confidence": "high",
   "level": "skeleton"
  },
  {

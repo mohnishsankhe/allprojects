@@ -16,4 +16,4 @@ Summary only: a defective or newly received mantra is made effective by ten rite
 - These are to be done according to tradition (sampradāya); they are kept secret in all mantras. — [Śāradātilaka](../texts/saradatilaka.md) 2.123
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._

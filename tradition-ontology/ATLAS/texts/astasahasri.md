@@ -16,4 +16,4 @@
 Vidyānanda's large commentary ('eight thousand') on the Āptamīmāṃsā, embedding the Aṣṭaśatī; later commented by Yaśovijaya.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

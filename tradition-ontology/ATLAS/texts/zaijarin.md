@@ -23,8 +23,8 @@ Myōe charges that the Senchakushū commits two great errors: it discards the as
 
 _level: conventional · standpoint: polemical · path: devotion, knowledge · stage: all · types: dispute_
 
-terms: [bodhicitta](../terms/bodhicitta.md) · teachers: [Myōe](../teachers/myoe.md) · disputes: `dsp:is-bodhicitta-needed-for-birth`, `dsp:exclusive-nenbutsu-controversy`
+terms: [bodhicitta](../terms/bodhicitta.md) · teachers: [Myōe](../teachers/myoe.md) · disputes: [Is the aspiration for awakening (bodhicitta) required for birth in the Pure Land?](../debates/is-bodhicitta-needed-for-birth.md), [May the nenbutsu be practised exclusively, setting aside all other practices and deities?](../debates/exclusive-nenbutsu-controversy.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

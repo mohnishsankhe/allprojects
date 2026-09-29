@@ -21,4 +21,4 @@ Worship of the Lord in his image or symbol with flowers, water, lamps, food and 
 _Notes: One of the Bhāgavata's nine forms of devotion (prc:navadha-bhakti, U07). Exemplar: King Pṛthu. Detailed rules of worship belong to the Pāñcarātra and Vaikhānasa entries (U08)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._

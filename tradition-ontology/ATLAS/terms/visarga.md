@@ -23,4 +23,4 @@ _Notes: Commentators read it as the sacrificial release of oblations that sustai
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.3 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U07-puranas, extraction:bhagavad-gita/ch07-09, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas, extraction:bhagavad-gita/ch07-09, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._

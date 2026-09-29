@@ -16,4 +16,4 @@
 _Notes: Checked against Jayaratha's quotation in the local Tantrāloka e-text; three slots are unnamed or unclear in the quoted text. Surviving texts include the Svacchanda (1), Brahmayāmala (2), Jayadrathayāmala (= Śiraścheda, 8); the Vīṇāśikha and Sammoha belong to the Vāma stream._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._

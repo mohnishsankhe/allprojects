@@ -1,6 +1,6 @@
-# Teachers (2570)
+# Teachers (2771)
 
-skeleton: 2261 · sourced: 309
+skeleton: 2462 · sourced: 309
 
 - [A. C. Bhaktivedanta Swami Prabhupāda](bhaktivedanta-swami.md) — `skeleton` _(recent)_
 - [Abhayadatta](abhayadatta.md) — `skeleton`
@@ -74,6 +74,7 @@ skeleton: 2261 · sourced: 309
 - [Amitagati (II)](amitagati.md) — `skeleton`
 - [Amitābha / Amitāyus](amitabha.md) — `skeleton`
 - [Amoghavajra](amoghavajra.md) — `skeleton`
+- [Amyé Zhab Ngawang Kunga Sönam](amye-zhab.md) — `skeleton`
 - [Amṛtacandra](amrtacandra.md) — `skeleton`
 - [Amṛtānanda](amrtananda.md) — `skeleton`
 - [Amṛtānandanātha Sarasvatī (of Devīpuram)](amritananda-natha-sarasvati.md) — `skeleton` _(recent)_
@@ -164,18 +165,23 @@ skeleton: 2261 · sourced: 309
 - [Balarām Hāḍi](balaram-hadi.md) — `skeleton` _(recent)_
 - [Bali](bali.md) — `sourced`
 - [Ballālasena](ballalasena.md) — `skeleton`
+- [Bamda Gelek Gyatso ('ba' mda' dge legs rgya mtsho)](bamda-gelek-gyatso.md) — `skeleton` _(recent)_
 - [Bankei Yōtaku 盤珪永琢](bankei.md) — `skeleton`
 - [Bankā](banka.md) — `skeleton`
 - [Banārsīdās](banarasidasa.md) — `skeleton`
 - [Baozhi 寶誌](baozhi.md) — `skeleton`
+- [Bari Lotsawa Rinchen Drak](bari-lotsawa.md) — `skeleton`
 - [Barku Vārṣṇa](barku-varsna.md) — `sourced`
+- [Barom Darma Wangchuk](barom-darma-wangchuk.md) — `skeleton`
 - [Basava](basava.md) — `skeleton`
 - [Basiasita (Poshesiduo 婆舍斯多)](basiasita.md) — `skeleton`
+- [Baso Chökyi Gyaltsen](baso-chokyi-gyaltsen.md) — `skeleton`
 - [Bassui Tokushō 拔隊得勝](bassui.md) — `skeleton`
 - [Baudhāyana](baudhayana.md) — `sourced`
 - [Baḍiśa Dhāmārgava](badisa-dhamargava.md) — `skeleton`
 - [Baḍu Caṇḍīdās](baru-candidas.md) — `skeleton`
 - [Benchō](bencho.md) — `skeleton`
+- [Bengar Jampal Zangpo](bengar-jampal-zangpo.md) — `skeleton`
 - [Beomnang 法朗](beomnang.md) — `skeleton`
 - [Bhabā Pāglā](bhaba-pagla.md) — `skeleton` _(recent)_
 - [Bhaddiya](bhaddiya.md) — `skeleton`
@@ -187,7 +193,7 @@ skeleton: 2261 · sourced: 309
 - [Bhadrapa](bhadrapa.md) — `skeleton`
 - [Bhadraśaunaka](bhadrasaunaka.md) — `skeleton`
 - [Bhadrācala Rāmadās (Kañcarla Gopanna)](bhadracala-ramadas.md) — `skeleton`
-- [Bhaiṣajyaguru Vaiḍūryaprabha](bhaisajyaguru.md) — `skeleton`
+- [Bhaiṣajyaguru, the Medicine Buddha (sangs rgyas sman bla)](bhaisajyaguru.md) — `skeleton`
 - [Bhaiṣajyarāja](bhaisajyaraja.md) — `skeleton`
 - [Bhaktisiddhānta Sarasvatī](bhaktisiddhanta-sarasvati.md) — `skeleton` _(recent)_
 - [Bhaktivinoda Ṭhākura (Kedarnath Datta)](bhaktivinoda-thakura.md) — `skeleton` _(recent)_
@@ -234,6 +240,7 @@ skeleton: 2261 · sourced: 309
 - [Bhujyu Lāhyāyani](bhujyu-lahyayani.md) — `sourced`
 - [Bhusuku](bhusuku.md) — `skeleton`
 - [Bhuśuṇḍa](bhusunda.md) — `skeleton`
+- [Bhāde](bhadepa.md) — `skeleton`
 - [Bhāgodās (Bhagvān Dās)](bhagodas.md) — `skeleton`
 - [Bhāmaha](bhamaha.md) — `skeleton`
 - [Bhānudās](bhanudas.md) — `skeleton`
@@ -273,6 +280,7 @@ skeleton: 2261 · sourced: 309
 - [Bodhiruci (6th c.)](bodhiruci.md) — `skeleton`
 - [Bodhya](bodhya.md) — `skeleton`
 - [Bodhāyana (the Vṛttikāra)](bodhayana-vrttikara.md) — `skeleton`
+- [Bodong Chogle Namgyal (bo dong phyogs las rnam rgyal)](chogle-namgyal.md) — `skeleton`
 - [Bogar (Pōkar)](bogar.md) — `skeleton`
 - [Bopadeva](bopadeva.md) — `sourced`
 - [Brahm Shankar Misra (Maharaj Saheb)](brahm-shankar-misra.md) — `skeleton` _(recent)_
@@ -293,6 +301,7 @@ skeleton: 2261 · sourced: 309
 - [Buddhadāsa Bhikkhu](buddhadasa.md) — `skeleton` _(recent)_
 - [Buddhaghosa](buddhaghosa.md) — `skeleton`
 - [Buddhaguhya](buddhaguhya.md) — `skeleton`
+- [Buddhaguptanātha](buddhaguptanatha.md) — `skeleton`
 - [Buddhajñānapāda](buddhajnanapada.md) — `skeleton`
 - [Buddhajīva](buddhajiva.md) — `skeleton`
 - [Buddhamitra](buddhamitra.md) — `skeleton`
@@ -301,6 +310,7 @@ skeleton: 2261 · sourced: 309
 - [Buddhapālita](buddhapalita.md) — `skeleton`
 - [Buddhayaśas](buddhayasas.md) — `skeleton`
 - [Butsuju Myōzen 佛樹明全](myozen.md) — `skeleton`
+- [Butön Rinchen Drub](buton.md) — `skeleton`
 - [Buḍila Āśvatarāśvi](budila-asvatarasvi.md) — `sourced`
 - [Buḍḍhan (Vṛddhānanda)](buddhan.md) — `skeleton`
 - [Bābājī Caitanya](babaji-caitanya.md) — `skeleton`
@@ -358,19 +368,29 @@ skeleton: 2261 · sourced: 309
 - [Cekitāna](cekitana.md) — `skeleton`
 - [Cennabasava](cennabasava.md) — `skeleton`
 - [Ceruttuṇai Nāyaṉār](ceruttunaiyar.md) — `skeleton`
+- [Changchub Dorje, the twelfth Karmapa](changchub-dorje-karmapa-12.md) — `skeleton`
+- [Changkya Rolpai Dorje](changkya-rolpai-dorje.md) — `skeleton`
 - [Changlu Zongze](changlu-zongze.md) — `skeleton`
+- [Changsem Gyalwa Yeshe (byang sems rgyal ba ye shes)](changsem-gyalwa-yeshe.md) — `skeleton`
 - [Channa](channa.md) — `skeleton`
 - [Chapa Chökyi Senge](chapa-chokyi-senge.md) — `skeleton`
 - [Chapaṭa (Saddhammajotipāla)](chapata.md) — `skeleton`
 - [Charan Singh (Maharaj Charan Singh)](charan-singh.md) — `skeleton` _(recent)_
 - [Chatral Sangye Dorje (bya bral sangs rgyas rdo rje)](chatral-sangye-dorje.md) — `skeleton` _(recent)_
 - [Che btsan skyes (Chetsen Kye)](chetsen-kye.md) — `skeleton`
+- [Chekawa Yeshe Dorje](chekawa.md) — `skeleton`
+- [Chengawa Tsultrim Bar](chengawa.md) — `skeleton`
 - [Chengyuan](chengyuan.md) — `skeleton`
 - [Chetsün Senge Wangchuk (lce btsun seng ge dbang phyug)](chetsun-senge-wangchuk.md) — `skeleton`
 - [Chewu Jixing](chewu-jixing.md) — `skeleton`
 - [Chokgyur Dechen Lingpa (mchog gyur bde chen gling pa)](chokgyur-lingpa.md) — `skeleton` _(recent)_
 - [Chuji 處寂](chuji.md) — `skeleton`
+- [Chödrak Gyatso, the seventh Karmapa](chodrak-gyatso.md) — `skeleton`
 - [Chögyal Namkhai Norbu (nam mkha'i nor bu)](namkhai-norbu.md) — `skeleton` _(recent)_
+- [Chögyal Phagpa Lodrö Gyaltsen](chogyal-phagpa.md) — `skeleton`
+- [Chögyam Trungpa](chogyam-trungpa.md) — `skeleton` _(recent)_
+- [Chöje Döndrub Rinchen](chokyi-dondrub-rinchen.md) — `skeleton`
+- [Chöying Dorje, the tenth Karmapa](choying-dorje.md) — `skeleton`
 - [Chītsvāmī](chitsvami.md) — `skeleton`
 - [Chōsai](chosai.md) — `skeleton`
 - [Cidghanānandanātha](cidghanananda.md) — `skeleton`
@@ -401,6 +421,7 @@ skeleton: 2261 · sourced: 309
 - [Cārvāka the rākṣasa (Mahābhārata)](carvaka-raksasa.md) — `skeleton`
 - [Cāṅgadev (Cāṅgā Vaṭeśvar)](cangadeva-vatesvar.md) — `skeleton`
 - [Cāṅgadeva Rāüḷ](cangadeva-raul.md) — `skeleton`
+- [Cāṭila](catila.md) — `skeleton`
 - [Cēkkiḻār](cekkilar.md) — `skeleton`
 - [Cēnnās Nārāyaṇan Nampūtirippāṭ](cennas-narayanan.md) — `skeleton`
 - [Cēntaṉār](centanar.md) — `skeleton`
@@ -411,18 +432,23 @@ skeleton: 2261 · sourced: 309
 - [Cūṛāmaṇi Nām (Muktāmaṇi Nām)](curamani-nam.md) — `skeleton`
 - [Dachuan Puji 大川普濟](dachuan-puji.md) — `skeleton`
 - [Dadhyañc Ātharvaṇa](dadhyanc-atharvana.md) — `sourced`
+- [Dagmema](dagmema.md) — `skeleton`
 - [Dahui Zonggao 大慧宗杲](dahui.md) — `skeleton`
 - [Dainichi Nōnin 大日能忍](dainichi-nonin.md) — `skeleton`
 - [Daityāri Ṭhākura](daityari-thakura.md) — `skeleton`
 - [Daivarāti Janaka](daivarati-janaka.md) — `sourced`
+- [Dakpo Gomtsul Tsultrim Nyingpo](gomtsul.md) — `skeleton`
+- [Dakpo Tashi Namgyal](dakpo-tashi-namgyal.md) — `skeleton`
 - [Dakṣa Prajāpati](daksa-prajapati.md) — `skeleton`
 - [Dakṣiṇā Prājāpatyā](daksina-prajapatya.md) — `sourced`
 - [Damei Fachang 大梅法常](damei-fachang.md) — `skeleton`
+- [Dampa Kunga (dam pa kun dga')](dampa-kunga.md) — `skeleton`
 - [Danxia Tianran 丹霞天然](danxia-tianran.md) — `skeleton`
 - [Danxia Zichun 丹霞子淳](danxia-zichun.md) — `skeleton`
 - [Danyuan Yingzhen 耽源應真](danyuan-yingzhen.md) — `skeleton`
 - [Dao'an](daoan.md) — `skeleton`
 - [Daochuo](daochuo.md) — `skeleton`
+- [Daojing](daojing.md) — `skeleton`
 - [Daosheng](daosheng.md) — `skeleton`
 - [Daoxin 道信](daoxin.md) — `skeleton`
 - [Daoxuan](daoxuan.md) — `skeleton`
@@ -430,6 +456,7 @@ skeleton: 2261 · sourced: 309
 - [Daoyuan 道原](daoyuan.md) — `skeleton`
 - [Dariyā Sāhib of Bihar](dariya-sahib-bihar.md) — `skeleton`
 - [Dariyāv Sāhib of Mārvāṛ](dariya-sahib-marwar.md) — `skeleton`
+- [Darma Dode](darma-dode.md) — `skeleton`
 - [Darshan Singh](darshan-singh.md) — `skeleton` _(recent)_
 - [Dattila](dattila.md) — `skeleton`
 - [Dattātreya](dattatreya.md) — `skeleton`
@@ -441,6 +468,9 @@ skeleton: 2261 · sourced: 309
 - [Daṇḍin](dandin.md) — `skeleton`
 - [Deshan Xuanjian 德山宣鑒](deshan-xuanjian.md) — `skeleton`
 - [Deshan Yuanmi 德山緣密](deshan-yuanmi.md) — `skeleton`
+- [Deshin Shekpa, the fifth Karmapa](deshin-shekpa.md) — `skeleton`
+- [Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)](desi-sangye-gyatso.md) — `skeleton`
+- [Deumar Geshe Tenzin Phuntsok (de'u dmar dge bshes bstan 'dzin phun tshogs)](deumar-geshe-tenzin-phuntsok.md) — `skeleton`
 - [Devabodha](devabodha.md) — `sourced`
 - [Devacandra (Kharatara Gaccha)](devacandra-kharatara.md) — `skeleton`
 - [Devacandra Sūri (teacher of Hemacandra)](devacandra-suri.md) — `skeleton`
@@ -482,6 +512,7 @@ skeleton: 2261 · sourced: 309
 - [Dharmapa](dharmapa.md) — `skeleton`
 - [Dharmapāla (Yogācāra)](dharmapala.md) — `skeleton`
 - [Dharmarakṣa](dharmaraksa.md) — `skeleton`
+- [Dharmarakṣita (Atiśa's teacher)](dharmaraksita-lojong.md) — `skeleton`
 - [Dharmarāja Adhvarīndra](dharmaraja-adhvarindra.md) — `skeleton`
 - [Dharmasiṃha](dharmasimha.md) — `skeleton`
 - [Dharmatrāta](dharmatrata.md) — `skeleton`
@@ -506,19 +537,26 @@ skeleton: 2261 · sourced: 309
 - [Dinakara Bhaṭṭa](dinakara-bhatta.md) — `skeleton`
 - [Dipa Ma](dipa-ma.md) — `skeleton` _(recent)_
 - [Do Khyentse Yeshe Dorje (mdo mkhyen brtse ye shes rdo rje)](do-khyentse.md) — `skeleton` _(recent)_
+- [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](dolpopa.md) — `skeleton`
 - [Donglin Changzong 東林常總](donglin-changzong.md) — `skeleton`
 - [Dongshan Liangjie 洞山良价](dongshan.md) — `skeleton`
 - [Dongshan Shouchu 洞山守初](dongshan-shouchu.md) — `skeleton`
 - [Dongyang Dehui 東陽德輝](dongyang-dehui.md) — `skeleton`
 - [Dorje Lingpa (rdo rje gling pa)](dorje-lingpa.md) — `skeleton`
 - [Doui 道義](doui.md) — `skeleton`
+- [Doushuai Congyue 兜率從悅](doushuai-congyue.md) — `skeleton`
 - [Doḍḍayācārya](doddayacarya.md) — `skeleton`
 - [Doṇa](dona-brahmana.md) — `skeleton`
 - [Dramiḍa (Draviḍācārya)](dramida.md) — `skeleton`
+- [Drapa Ngönshé (grwa pa mngon shes)](drapa-ngonshe.md) — `skeleton`
 - [Draupadī (Kṛṣṇā, Pāñcālī)](draupadi.md) — `sourced`
 - [Drenpa Namkha (dran pa nam mkha')](drenpa-namkha.md) — `skeleton`
+- [Drokmi Lotsawa Shākya Yeshe](drokmi-lotsawa.md) — `skeleton`
+- [Dromtönpa Gyalwai Jungne](dromtonpa.md) — `skeleton`
 - [Droṇa](drona.md) — `skeleton`
 - [Dru Gyalwa Yungdrung ('bru rgyal ba g.yung drung)](dru-gyalwa-yungdrung.md) — `skeleton`
+- [Drubchen Chökyi Dorje](drubchen-chokyi-dorje.md) — `skeleton`
+- [Drukpa Kunley (Kunga Legpa)](drukpa-kunley.md) — `skeleton`
 - [Drupada](drupada.md) — `skeleton`
 - [Drāhyāyaṇa](drahyayana.md) — `sourced`
 - [Du Fei 杜朏](du-fei.md) — `skeleton`
@@ -535,6 +573,10 @@ skeleton: 2261 · sourced: 309
 - [Duryodhana](duryodhana.md) — `skeleton`
 - [Dyānatrāy](dyanatray.md) — `skeleton`
 - [Dzogchen Pema Rigdzin (rdzogs chen padma rig 'dzin)](pema-rigdzin.md) — `skeleton`
+- [Dzongpa Kunga Namgyal](dzongpa-kunga-namgyal.md) — `skeleton`
+- [Dölpa Sherab Gyatso (Geshe Dölpa)](dolpa-sherab-gyatso.md) — `skeleton`
+- [Düdul Dorje, the thirteenth Karmapa](dudul-dorje-karmapa-13.md) — `skeleton`
+- [Düsum Khyenpa, the first Karmapa](dusum-khyenpa.md) — `skeleton`
 - [Dādū Dayāl](dadu.md) — `skeleton`
 - [Dāmodara (author of the Saṅgītadarpaṇa)](damodara-sangitadarpana.md) — `skeleton`
 - [Dāmodara Paṇḍita](damodara-pandita-mahanubhava.md) — `skeleton`
@@ -578,6 +620,7 @@ skeleton: 2261 · sourced: 309
 - [Gahinīnātha](gahininatha.md) — `skeleton`
 - [Gajasukumāla](gajasukumala.md) — `skeleton`
 - [Gambhīrnāth](gambhirnath.md) — `skeleton` _(recent)_
+- [Gampopa Sönam Rinchen (Dakpo Lhaje)](gampopa.md) — `skeleton`
 - [Gao'an Dayu 高安大愚](dayu.md) — `skeleton`
 - [Gaofeng Yuanmiao 高峰原妙](gaofeng-yuanmiao.md) — `skeleton`
 - [Garab Dorje (Prahevajra)](garab-dorje.md) — `skeleton`
@@ -600,6 +643,7 @@ skeleton: 2261 · sourced: 309
 - [Gautamī](gautami.md) — `sourced`
 - [Gauḍapāda](gaudapada.md) — `skeleton`
 - [Gauḍīya Śaṅkara](gaudiya-sankara.md) — `skeleton`
+- [Gayadhara](gayadhara.md) — `skeleton`
 - [Gayadāsa](gayadasa.md) — `skeleton`
 - [Gayaśata (Jiayesheduo 伽耶舍多)](gayasata.md) — `skeleton`
 - [Gaṅgeśa Upādhyāya](gangesa.md) — `skeleton`
@@ -611,8 +655,12 @@ skeleton: 2261 · sourced: 309
 - [Gaṇeśa (Gajānana)](ganesa.md) — `skeleton`
 - [Gaṇeśa Daivajña](ganesa-daivajna.md) — `skeleton`
 - [Genchi](genchi.md) — `skeleton`
+- [Gendün Drup](gendun-drup.md) — `skeleton`
+- [Gendün Gyatso](gendun-gyatso.md) — `skeleton`
 - [Genshin](genshin.md) — `skeleton`
+- [Geshe Ben Gungyal](ben-gungyal.md) — `skeleton`
 - [Getse Paṇḍita Gyurme Tsewang Chokdrub (dge rtse paNDi ta)](getse-pandita.md) — `skeleton` _(recent)_
+- [Gewai Lodrö (translator)](gewai-lodro.md) — `skeleton`
 - [Ghaṇṭāpa](ghantapa.md) — `skeleton`
 - [Gheraṇḍa](gheranda.md) — `skeleton`
 - [Ghora Āṅgirasa](ghora-angirasa.md) — `sourced`
@@ -632,6 +680,7 @@ skeleton: 2261 · sourced: 309
 - [Gopīcandra (Gopīcand)](gopicandra.md) — `skeleton`
 - [Gopīnātha (elder son of Vallabha)](gopinatha-vallabha.md) — `skeleton`
 - [Gorakṣanātha](goraksanatha.md) — `skeleton`
+- [Gorampa Sönam Senge](gorampa.md) — `skeleton`
 - [Gorura](gorura.md) — `skeleton`
 - [Gorā Kumbhār](gora-kumbhar.md) — `skeleton`
 - [Gotama Buddha](gotama-buddha.md) — `skeleton`
@@ -647,6 +696,7 @@ skeleton: 2261 · sourced: 309
 - [Govindasvāmin](govindasvamin.md) — `sourced`
 - [Govindsvāmī](govindsvami.md) — `skeleton`
 - [Govindānanda](govindananda.md) — `skeleton`
+- [Guanxi Zhixian 灌溪志閑](guanxi-zhixian.md) — `skeleton`
 - [Guhadeva](guhadeva.md) — `skeleton`
 - [Guifeng Zongmi 圭峰宗密](zongmi.md) — `skeleton`
 - [Guishan Lingyou 溈山靈祐](guishan-lingyou.md) — `skeleton`
@@ -665,10 +715,19 @@ skeleton: 2261 · sourced: 309
 - [Guṇamati (commentator on the MMK)](gunamati-madhyamaka-commentator.md) — `skeleton`
 - [Guṇaprabha](gunaprabha.md) — `skeleton`
 - [Guṇaratna](gunaratna.md) — `skeleton`
-- [Gyaltsab Je](gyaltsab-je.md) — `skeleton`
+- [Guṇḍarī](gundaripa.md) — `skeleton`
+- [Gyalse Tokmé Zangpo](tokme-zangpo.md) — `skeleton`
+- [Gyaltsa Rinchen Gön](gyaltsa-rinchen-gon.md) — `skeleton`
+- [Gyaltsab Je Darma Rinchen](gyaltsab-je.md) — `skeleton`
+- [Gyalwa Döndrub (rgyal ba don grub)](gyalwa-dondrub.md) — `skeleton`
+- [Gyalwa Ensapa Lobsang Döndrub](gyalwa-ensapa.md) — `skeleton`
+- [Gyalwa Götsangpa Gönpo Dorje](gotsangpa.md) — `skeleton`
+- [Gyalwa Lorepa Wangchuk Tsöndrü](lorepa.md) — `skeleton`
 - [Gyeongheo Seong'u 鏡虛惺牛](gyeongheo.md) — `skeleton` _(recent)_
+- [Gyergom Tsultrim Senge](gyergom-tsultrim-senge.md) — `skeleton`
 - [Gyerpung Nangzher Löpo (gyer spungs snang bzher lod po)](nangzher-lopo.md) — `skeleton`
 - [Gö Lotsawa Zhönnu Pel](go-lotsawa.md) — `skeleton`
+- [Gönpawa Wangchuk Gyaltsen](gonpawa.md) — `skeleton`
 - [Gāgā Bhaṭṭa](gaga-bhatta.md) — `skeleton`
 - [Gārgya](gargya.md) — `sourced`
 - [Gārgya Bālāki](gargya-balaki.md) — `sourced`
@@ -789,13 +848,19 @@ skeleton: 2261 · sourced: 309
 - [Jamadagni](jamadagni.md) — `sourced`
 - [Jambukhādaka](jambukhadaka.md) — `skeleton`
 - [Jambū (Jambūsvāmin)](jambu.md) — `skeleton`
-- [Jamgön Kongtrul Lodrö Thaye ('jam mgon kong sprul blo gros mtha' yas)](jamgon-kongtrul.md) — `skeleton` _(recent)_
+- [Jamchen Chöje Shākya Yeshe](jamchen-choje.md) — `skeleton`
+- [Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)](jamgon-kongtrul.md) — `skeleton` _(recent)_
+- [Jamyang Chöje Tashi Palden](jamyang-choje.md) — `skeleton`
+- [Jamyang Khyentse Chökyi Lodrö ('jam dbyangs mkhyen brtse chos kyi blo gros)](jamyang-khyentse-chokyi-lodro.md) — `skeleton` _(recent)_
 - [Jamyang Khyentse Wangpo ('jam dbyangs mkhyen brtse'i dbang po)](jamyang-khyentse-wangpo.md) — `skeleton` _(recent)_
+- [Jamyang Loter Wangpo ('jam dbyangs blo gter dbang po)](jamyang-loter-wangpo.md) — `skeleton` _(recent)_
+- [Jamyang Shepa Ngawang Tsöndrü](jamyang-shepa.md) — `skeleton`
 - [Jamāli](jamali.md) — `skeleton`
 - [Jana Śārkarākṣya](jana-sarkaraksya.md) — `sourced`
 - [Janadeva Janaka](janadeva-janaka.md) — `sourced`
 - [Janaka of Videha](janaka.md) — `sourced`
 - [Janamejaya](janamejaya.md) — `sourced`
+- [Jangdak Namgyal Drakzang (byang bdag rnam rgyal grags bzang)](jangdak-namgyal-drakzang.md) — `skeleton`
 - [Jangopāl](jangopal.md) — `skeleton`
 - [Janābāī](janabai.md) — `skeleton`
 - [Janārdana Svāmī](janardana-svami.md) — `skeleton`
@@ -805,7 +870,9 @@ skeleton: 2261 · sourced: 309
 - [Jayabhadra](jayabhadra.md) — `skeleton`
 - [Jayadatta Sūri](jayadatta-suri.md) — `skeleton`
 - [Jayadeva](jayadeva.md) — `skeleton`
+- [Jayadratha](jayadratha.md) — `skeleton`
 - [Jayamiśra](jayamisra.md) — `skeleton`
+- [Jayanandī](jayanandi.md) — `skeleton`
 - [Jayanta Bhaṭṭa](jayanta-bhatta.md) — `skeleton`
 - [Jayantī](jayanti.md) — `skeleton`
 - [Jayaratha](jayaratha.md) — `skeleton`
@@ -821,12 +888,17 @@ skeleton: 2261 · sourced: 309
 - [Jaḍa Bharata](jada-bharata.md) — `skeleton`
 - [Jaḍabharata](jadabharata.md) — `skeleton`
 - [Jejjaṭa](jejjata.md) — `skeleton`
+- [Jetsün Chökyi Gyaltsen](jetsun-chokyi-gyaltsen.md) — `skeleton`
+- [Jetsün Drakpa Gyaltsen](drakpa-gyaltsen.md) — `skeleton`
+- [Jetsün Kunga Drolchok (rje btsun kun dga' grol mchog)](kunga-drolchok.md) — `skeleton`
+- [Jetsün Sherab Senge](sherab-senge.md) — `skeleton`
 - [Jhālī Rānī of Chittor](jhali-rani.md) — `skeleton`
 - [Jiacai](jiacai.md) — `skeleton`
 - [Jianzhen](jianzhen.md) — `skeleton`
 - [Jiezhu](jiezhu.md) — `skeleton`
 - [Jigme Gyalwai Nyugu ('jigs med rgyal ba'i myu gu)](jigme-gyalwai-nyugu.md) — `skeleton` _(recent)_
 - [Jigme Lingpa (rig 'dzin 'jigs med gling pa)](jigme-lingpa.md) — `skeleton`
+- [Jigten Sumgön (Drikung Kyobpa Rinchen Pal)](jigten-sumgon.md) — `skeleton`
 - [Jinabhadra Gaṇi Kṣamāśramaṇa](jinabhadra.md) — `skeleton`
 - [Jinadattasūri](jinadatta-suri.md) — `skeleton`
 - [Jinadāsagaṇi Mahattara](jinadasa-gani.md) — `skeleton`
@@ -846,6 +918,7 @@ skeleton: 2261 · sourced: 309
 - [Jitvan Śailini](jitvan-sailini.md) — `sourced`
 - [Jitāri](jitari.md) — `skeleton`
 - [Jogipa](jogipa.md) — `skeleton`
+- [Jonang Lotsawa Lodrö Pal (jo nang lo tsA ba blo gros dpal)](jonang-lotsawa-lodro-pal.md) — `skeleton`
 - [Juefan Huihong 覺範慧洪](juefan-huihong.md) — `skeleton`
 - [Juhū Brahmajāyā](juhu-brahmajaya.md) — `sourced`
 - [Julian P. Johnson](julian-johnson.md) — `skeleton` _(recent)_
@@ -920,6 +993,8 @@ skeleton: 2261 · sourced: 309
 - [Karavīrya](karavirya.md) — `skeleton`
 - [Karma Chagme (karma chags med)](karma-chagme.md) — `skeleton`
 - [Karma Lingpa](karma-lingpa.md) — `skeleton`
+- [Karma Pakshi, the second Karmapa](karma-pakshi.md) — `skeleton`
+- [Karma Trinlepa](karma-trinlepa.md) — `skeleton`
 - [Karmameḷā](karmamela.md) — `skeleton`
 - [Karuvūrār](karuvurar.md) — `skeleton`
 - [Karāla Janaka](karala-janaka.md) — `sourced`
@@ -960,6 +1035,7 @@ skeleton: 2261 · sourced: 309
 - [Kaṭuveḷic cittar](kaduveli.md) — `skeleton`
 - [Kedāraśakti](kedarasakti.md) — `skeleton`
 - [Keizan Jōkin 瑩山紹瑾](keizan.md) — `skeleton`
+- [Kelsang Gyatso, Seventh Dalai Lama](dalai-lama-7.md) — `skeleton`
 - [Kennyo](kennyo.md) — `skeleton`
 - [Kenzei 建撕](kenzei.md) — `skeleton`
 - [Keśava (Sāṃkhya author)](kesava-samkhya.md) — `skeleton`
@@ -972,16 +1048,24 @@ skeleton: 2261 · sourced: 309
 - [Keśin (Keśikumāra Śramaṇa)](kesi-kumara.md) — `skeleton`
 - [Keśobās (Keśirāja Vyās)](kesobas.md) — `skeleton`
 - [Keḷadi Basavarāja](keladi-basavaraja.md) — `skeleton`
+- [Khakhyab Dorje, the fifteenth Karmapa](khakhyab-dorje.md) — `skeleton` _(recent)_
 - [Khaḍgapa](khadgapa.md) — `skeleton`
 - [Khaṇḍadeva Miśra](khandadeva.md) — `skeleton`
+- [Khedrup Drakpa Senge, the first Shamarpa](khedrup-drakpa-senge.md) — `skeleton`
 - [Khedrup Je Gelek Pelzang](khedrup-je.md) — `skeleton`
+- [Khedrup Sangye Yeshe](khedrup-sangye-yeshe.md) — `skeleton`
 - [Khema (author of the Khemappakaraṇa)](khema-khemappakarana.md) — `skeleton`
 - [Khemaka](khemaka.md) — `skeleton`
 - [Kheminda Thera](kheminda-thera.md) — `skeleton` _(recent)_
 - [Khemā](khema.md) — `skeleton`
 - [Khenpo Jigme Phuntsok ('jigs med phun tshogs)](khenpo-jigme-phuntsok.md) — `skeleton` _(recent)_
 - [Khenpo Ngawang Palzang (Khenpo Ngakchung)](khenpo-ngakchung.md) — `skeleton` _(recent)_
+- [Khenpo Shenga (Shenphen Chökyi Nangwa, gzhan phan chos kyi snang ba)](khenpo-shenga.md) — `skeleton` _(recent)_
+- [Khetsün Yönten Gyatso (mkhas btsun yon tan rgya mtsho) of Jonang](yonten-gyatso-jonang.md) — `skeleton`
 - [Khujjuttarā](khujjuttara.md) — `skeleton`
+- [Khyenrab Norbu (mkhyen rab nor bu)](khyenrab-norbu.md) — `skeleton` _(recent)_
+- [Khyungpo Naljor](khyungpo-naljor.md) — `skeleton`
+- [Khön Könchok Gyalpo](khon-konchok-gyalpo.md) — `skeleton`
 - [Khāṇḍikya Janaka](khandikya.md) — `skeleton`
 - [Kinnari Bommayya](kinnari-bommayya.md) — `skeleton`
 - [Kirapala](kirapala.md) — `skeleton`
@@ -1032,6 +1116,10 @@ skeleton: 2261 · sourced: 309
 - [Kuśika](kusika.md) — `skeleton`
 - [Kuṅkiliyakkalaya Nāyaṉār](kunkiliyakkalayar.md) — `skeleton`
 - [Kuṭampai (Kutampaic cittar)](kudambai.md) — `skeleton`
+- [Kyergangpa Chökyi Senge](kyergangpa.md) — `skeleton`
+- [Kyotön Sönam Lama (skyo ston bsod nams bla ma)](kyoton-sonam-lama.md) — `skeleton`
+- [Könchok Jigme Wangpo](konchok-jigme-wangpo.md) — `skeleton`
+- [Künpang Thukje Tsöndrü (kun spangs thugs rje brtson 'grus)](kunpang-thukje-tsondru.md) — `skeleton`
 - [Kākacaṇḍīśvara](kakacandisvara.md) — `skeleton`
 - [Kākapucuṇṭar (Kākabhuśuṇḍa)](kakapusundar.md) — `skeleton`
 - [Kālacakrapāda](kalacakrapada.md) — `skeleton`
@@ -1103,13 +1191,21 @@ skeleton: 2261 · sourced: 309
 - [Lalla](lalla.md) — `skeleton`
 - [Lallujī Muni (Laghurāj Svāmī)](lalluji-muni.md) — `skeleton` _(recent)_
 - [Lalon Fakir (Lālan Sāṃi)](lalon-fakir.md) — `skeleton` _(recent)_
+- [Lama Yungtön Trogyal](yungton-trogyal.md) — `skeleton`
+- [Lama Zhang (Zhang Yudrakpa Tsöndrü Drakpa)](lama-zhang.md) — `skeleton`
+- [Langri Tangpa Dorje Senge](langri-tangpa.md) — `skeleton`
 - [Lanxi Daolong 蘭溪道隆 (Rankei Dōryū)](lanxi-daolong.md) — `skeleton`
 - [Lao'an (Hui'an 慧安)](laoan.md) — `skeleton`
 - [Laugākṣi Bhāskara](laugaksi-bhaskara.md) — `skeleton`
 - [Lavjī Ṛṣi](lavji-rsi.md) — `skeleton`
 - [Layman Pang (Pang Yun 龐蘊)](layman-pang.md) — `skeleton`
 - [Ledi Sayadaw](ledi-sayadaw.md) — `skeleton` _(recent)_
+- [Lha Lama Jangchub Ö](jangchub-o.md) — `skeleton`
+- [Lha Lama Yeshe Ö](yeshe-o.md) — `skeleton`
+- [Lhatsün Rinchen Namgyal](lhatsun-rinchen-namgyal.md) — `skeleton`
+- [Lhodrak Drubchen Namkha Gyaltsen](lhodrak-namkha-gyaltsen.md) — `skeleton`
 - [Li Zunxu 李遵勗](li-zunxu.md) — `skeleton`
+- [Lingje Repa Pema Dorje](lingje-repa.md) — `skeleton`
 - [Lingyun Zhiqin 靈雲志勤](lingyun-zhiqin.md) — `skeleton`
 - [Linji Yixuan 臨濟義玄](linji.md) — `skeleton`
 - [Liu Yimin](liu-yimin.md) — `skeleton`
@@ -1138,6 +1234,7 @@ skeleton: 2261 · sourced: 309
 - [Lūipa](luipa.md) — `skeleton`
 - [Ma Rinchen Chok (rma rin chen mchog)](ma-rinchen-chok.md) — `skeleton`
 - [Maccamuṉi (Macchamuni)](macchamuni.md) — `skeleton`
+- [Machig Labdrön (ma gcig lab sgron)](machig-labdron.md) — `skeleton`
 - [Madan Bāul](madan-baul.md) — `skeleton` _(recent)_
 - [Madanapāla](madanapala.md) — `skeleton`
 - [Madhucchandas](madhucchandas.md) — `sourced`
@@ -1184,6 +1281,7 @@ skeleton: 2261 · sourced: 309
 - [Maitreyanātha](maitreyanatha.md) — `skeleton`
 - [Maitreyī](maitreyi.md) — `sourced`
 - [Maitrīpa (Advayavajra)](maitripa.md) — `skeleton`
+- [Maitrīyogin (Kusalī the Younger)](maitriyogin.md) — `skeleton`
 - [Makkhali Gosāla](makkhali-gosala.md) — `skeleton`
 - [Malayagiri](malayagiri.md) — `skeleton`
 - [Mallavādin](mallavadin.md) — `skeleton`
@@ -1210,6 +1308,8 @@ skeleton: 2261 · sourced: 309
 - [Manzan Dōhaku 卍山道白](manzan-dohaku.md) — `skeleton`
 - [Mao Ziyuan](mao-ziyuan.md) — `skeleton`
 - [Maritoṇṭadārya](maritontadarya.md) — `skeleton`
+- [Marpa Chökyi Lodrö (Marpa the Translator)](marpa.md) — `skeleton`
+- [Martsang Sherab Senge (Marpa Drubthob)](martsang-sherab-senge.md) — `skeleton`
 - [Marudevī](marudevi.md) — `skeleton`
 - [Maruḷārādhya (Maruḷasiddha)](marularadhya.md) — `skeleton`
 - [Marīci](marici.md) — `skeleton`
@@ -1259,6 +1359,7 @@ skeleton: 2261 · sourced: 309
 - [Menzan Zuihō 面山瑞方](menzan-zuiho.md) — `skeleton`
 - [Merutuṅga (commentator on the Rasādhyāya)](merutunga.md) — `skeleton`
 - [Meruśāstrin](merusastrin.md) — `skeleton` _(recent)_
+- [Meton Chenpo (Meton Tsönpo)](meton-chenpo.md) — `skeleton`
 - [Metteyya](metteyya.md) — `skeleton`
 - [Metārya](metarya.md) — `skeleton`
 - [Meu Gongdzö Ritrö Chenpo (rme'u dgongs mdzod ri khrod chen po)](meu-gongdzo.md) — `skeleton`
@@ -1266,8 +1367,11 @@ skeleton: 2261 · sourced: 309
 - [Meypporuḷ Nāyaṉār](meypporul.md) — `skeleton`
 - [Mhāimbhaṭ](mhaimbhat.md) — `skeleton`
 - [Mi'an Xianjie 密庵咸傑](mian-xianjie.md) — `skeleton`
+- [Miaodao 妙道](miaodao.md) — `skeleton`
 - [Miaoye](miaoye.md) — `skeleton`
 - [Miccaka (Mizhejia 彌遮迦)](miccaka.md) — `skeleton`
+- [Mikyö Dorje, the eighth Karmapa](mikyo-dorje.md) — `skeleton`
+- [Milarepa (Jetsün Mila Shepa Dorje)](milarepa.md) — `skeleton`
 - [Milinda](milinda.md) — `skeleton`
 - [Mingjiao Qisong 明教契嵩](qisong.md) — `skeleton`
 - [Mingun Jetavana Sayadaw](mingun-jetavana-sayadaw.md) — `skeleton` _(recent)_
@@ -1282,11 +1386,15 @@ skeleton: 2261 · sourced: 309
 - [Mogok Sayadaw](mogok-sayadaw.md) — `skeleton` _(recent)_
 - [Mohandas K. Gandhi](mahatma-gandhi.md) — `sourced` _(recent)_
 - [Moheyan 摩訶衍 (Hwashang Mahāyāna)](moheyan.md) — `skeleton`
+- [Mokchokpa Rinchen Tsöndrü](mokchokpa.md) — `skeleton`
 - [Mokuan Shōtō 木庵性瑫](mokuan-shoto.md) — `skeleton`
 - [Mokṣākaragupta](moksakaragupta.md) — `skeleton`
+- [Moshan Liaoran 末山了然](moshan-liaoran.md) — `skeleton`
 - [Mu'an Shanqing 睦庵善卿](muan-shanqing.md) — `skeleton`
+- [Muchen Könchok Gyaltsen](muchen-konchok-gyaltsen.md) — `skeleton`
 - [Mudaliyāṇḍāṉ](mudaliyandan.md) — `skeleton`
 - [Muddadeva](muddadeva.md) — `skeleton`
+- [Mugai Nyodai 無外如大](mugai-nyodai.md) — `skeleton`
 - [Muhammad Mansuruddin](muhammad-mansuruddin.md) — `skeleton` _(recent)_
 - [Muktananda](muktananda.md) — `skeleton` _(recent)_
 - [Muktābāī](muktabai.md) — `skeleton`
@@ -1344,6 +1452,7 @@ skeleton: 2261 · sourced: 309
 - [Na Chanshi 那禪師 and Huiman 慧滿](nazhan.md) — `skeleton`
 - [Nabanī Dās Khyāpā Bāul](nabani-das-baul.md) — `skeleton` _(recent)_
 - [Naciketas](naciketas.md) — `sourced`
+- [Nagtso Lotsawa Tsultrim Gyalwa](nagtso-lotsawa.md) — `skeleton`
 - [Nahuṣa](nahusa.md) — `sourced`
 - [Nakkīrar](nakkirar.md) — `skeleton`
 - [Nakula](nakula.md) — `skeleton`
@@ -1394,7 +1503,15 @@ skeleton: 2261 · sourced: 309
 - [Nemicandra Siddhāntacakravartin](nemicandra-siddhantacakravartin.md) — `skeleton`
 - [Neminātha (Ariṣṭanemi)](neminatha.md) — `skeleton`
 - [Neten Dangma Lhungyal (gnas brtan ldang ma lhun rgyal)](neten-dangma-lhungyal.md) — `skeleton`
+- [Neusurpa Yeshe Bar](neusurpa.md) — `skeleton`
+- [Ngawang Lobsang Gyatso, the Great Fifth Dalai Lama](dalai-lama-5.md) — `skeleton`
+- [Ngawang Lodrö Drakpa (ngag dbang blo gros grags pa)](ngawang-lodro-drakpa.md) — `skeleton` _(recent)_
+- [Ngendzong Repa](ngendzong-repa.md) — `skeleton`
+- [Ngok Chöku Dorje](ngok-choku-dorje.md) — `skeleton`
+- [Ngok Lekpai Sherab](ngok-lekpai-sherab.md) — `skeleton`
 - [Ngok Loden Sherab](ngok-loden-sherab.md) — `skeleton`
+- [Ngorchen Kunga Zangpo](ngorchen-kunga-zangpo.md) — `skeleton`
+- [Ngorchen Könchog Lhündrub](ngorchen-konchog-lhundrub.md) — `skeleton`
 - [Nidāgha](nidagha.md) — `skeleton`
 - [Niguma](niguma.md) — `skeleton`
 - [Niguṇa](niguna.md) — `skeleton`
@@ -1413,6 +1530,7 @@ skeleton: 2261 · sourced: 309
 - [Niṣkriyānandanātha](niskriyanandanatha.md) — `skeleton`
 - [Nuliya Candayya](nuliya-candayya.md) — `skeleton`
 - [Nupchen Sangye Yeshe (gnubs chen sangs rgyas ye shes)](nubchen-sangye-yeshe.md) — `skeleton`
+- [Nyabön Kunga Pal (nya dbon kun dga' dpal)](nyabon-kunga-pal.md) — `skeleton`
 - [Nyak Jñānakumāra (gnyags jñānakumāra)](nyak-jnanakumara.md) — `skeleton`
 - [Nyamme Sherab Gyaltsen (mnyam med shes rab rgyal mtshan)](nyamme-sherab-gyaltsen.md) — `skeleton`
 - [Nyanaponika Thera](nyanaponika.md) — `skeleton` _(recent)_
@@ -1460,12 +1578,16 @@ skeleton: 2261 · sourced: 309
 - [Nṛsiṃha Sarasvatī (author of the Subodhinī)](nrsimha-sarasvati-subodhini.md) — `skeleton`
 - [Nṛsiṃhānandanātha](nrsimhanandanatha.md) — `skeleton`
 - [Nṛsiṃhāśrama](nrsimhasrama.md) — `skeleton`
+- [Ogyen Trinley Dorje (recognized as seventeenth Karmapa by one party)](ogyen-trinley-dorje.md) — `skeleton` _(recent)_
 - [Orgyen Lingpa (o rgyan gling pa)](orgyen-lingpa.md) — `skeleton`
+- [Orgyenpa Rinchen Pal](orgyenpa.md) — `skeleton`
 - [Ouyi Zhixu](ouyi-zhixu.md) — `skeleton`
 - [P. A. Payutto](payutto.md) — `skeleton` _(recent)_
 - [P. G. Halakatti](halakatti.md) — `skeleton` _(recent)_
 - [Pa-Auk Sayadaw](pa-auk-sayadaw.md) — `skeleton` _(recent)_
+- [Pabongkha Dechen Nyingpo](pabongkha.md) — `skeleton` _(recent)_
 - [Pacari](pacari.md) — `skeleton`
+- [Padampa Sangye (pha dam pa sangs rgyas)](padampa-sangye.md) — `skeleton`
 - [Padmanandi (author of the Pañcaviṃśatikā)](padmanandi.md) — `skeleton`
 - [Padmanābha Tīrtha](padmanabha-tirtha.md) — `skeleton`
 - [Padmaprabha](padmaprabha.md) — `skeleton`
@@ -1482,9 +1604,13 @@ skeleton: 2261 · sourced: 309
 - [Paiṅgya](paingya.md) — `sourced`
 - [Pakudha Kaccāyana](pakudha-kaccayana.md) — `skeleton`
 - [Pakṣadhara Miśra](paksadhara-misra.md) — `skeleton`
+- [Paldarbum](paldarbum.md) — `skeleton`
 - [Paltū Sāhib](paltu-sahib.md) — `skeleton`
 - [Pampa (Ādikavi)](pampa.md) — `skeleton`
 - [Panaha](panaha.md) — `skeleton`
+- [Panchen Lobsang Chökyi Gyaltsen](panchen-lobsang-chokyi-gyaltsen.md) — `skeleton`
+- [Panchen Lobsang Yeshe](panchen-lobsang-yeshe.md) — `skeleton`
+- [Panchen Sönam Drakpa](panchen-sonam-drakpa.md) — `skeleton`
 - [Parahita](parahita.md) — `skeleton`
 - [Parameśvara (of Vaṭaśśeri)](paramesvara-vatasseri.md) — `skeleton`
 - [Paramānanddās](paramananddas.md) — `skeleton`
@@ -1512,6 +1638,7 @@ skeleton: 2261 · sourced: 309
 - [Pauṣkalāvata](pauskalavata.md) — `skeleton`
 - [Pavaṇanti](pavanandi.md) — `skeleton`
 - [Pavitra Āṅgirasa](pavitra-angirasa.md) — `sourced`
+- [Pawo Tsuglag Trengwa (the second Pawo)](pawo-tsuglag-trengwa.md) — `skeleton`
 - [Pañcaśikha](pancasikha.md) — `sourced`
 - [Pañcādhikaraṇa](pancadhikarana.md) — `skeleton`
 - [Paṅkaja](pankaja.md) — `skeleton`
@@ -1520,6 +1647,7 @@ skeleton: 2261 · sourced: 309
 - [Paṭācārā](patacara.md) — `skeleton`
 - [Paṭṭiṉattār (Tiruveṇkāṭar)](pattinattar.md) — `skeleton`
 - [Pei Xiu 裴休](pei-xiu.md) — `skeleton`
+- [Pema Karpo (the fourth Gyalwang Drukpa)](pema-karpo.md) — `skeleton`
 - [Pema Ledrel Tsal (padma las 'brel rtsal)](pema-ledrel-tsal.md) — `skeleton`
 - [Pema Lingpa (padma gling pa)](pema-lingpa.md) — `skeleton`
 - [Periya Nambi](periya-nambi.md) — `skeleton`
@@ -1527,6 +1655,9 @@ skeleton: 2261 · sourced: 309
 - [Periyavāccāṉ Piḷḷai](periyavaccan-pillai.md) — `skeleton`
 - [Periyāḻvār](periyalvar.md) — `skeleton`
 - [Perumiḻalaikkuṟumpa Nāyaṉār](perumilalaik-kurumpar.md) — `skeleton`
+- [Peta Gönkyi](peta-gonkyi.md) — `skeleton`
+- [Phagmodrupa Dorje Gyalpo](phagmodrupa.md) — `skeleton`
+- [Phuchungwa Shönu Gyaltsen](phuchungwa.md) — `skeleton`
 - [Pippalāda](pippalada.md) — `sourced`
 - [Piḷḷai Lokācārya](pillai-lokacarya.md) — `skeleton`
 - [Piḷḷai Lōkam Jīyar](pillai-lokam-jiyar.md) — `skeleton`
@@ -1536,6 +1667,8 @@ skeleton: 2261 · sourced: 309
 - [Piṅgalā](pingala.md) — `sourced`
 - [Piṇḍola Bhāradvāja](pindola-bharadvaja.md) — `skeleton`
 - [Piṉpaḻagiya Perumāḷ Jīyar](pinpalagiya-perumal-jiyar.md) — `skeleton`
+- [Pomdrakpa Sönam Dorje](pomdrakpa.md) — `skeleton`
+- [Potowa Rinchen Sal](potowa.md) — `skeleton`
 - [Poykai Āḻvār](poykai-alvar.md) — `skeleton`
 - [Poṉṉaḍikkāl Jīyar](ponnadikkal-jiyar.md) — `skeleton`
 - [Poṭṭhapāda](potthapada.md) — `skeleton`
@@ -1651,7 +1784,8 @@ skeleton: 2261 · sourced: 309
 - [Rajjab](rajjab.md) — `skeleton`
 - [Ramakrishna](ramakrishna.md) — `skeleton` _(recent)_
 - [Ramana Maharshi](ramana-maharshi.md) — `skeleton` _(recent)_
-- [Rangjung Dorje (Third Karmapa)](rangjung-dorje.md) — `skeleton`
+- [Rangjung Dorje, the third Karmapa](rangjung-dorje.md) — `skeleton`
+- [Rangjung Rigpe Dorje, the sixteenth Karmapa](rangjung-rigpe-dorje.md) — `skeleton` _(recent)_
 - [Ratannāth (Hājī Ratan)](ratannath.md) — `skeleton`
 - [Rathanemi](rathanemi.md) — `skeleton`
 - [Ratna Lingpa (ratna gling pa)](ratna-lingpa.md) — `skeleton`
@@ -1665,18 +1799,27 @@ skeleton: 2261 · sourced: 309
 - [Raviṣeṇa](ravisena.md) — `skeleton`
 - [Raṅganātha (commentator on the Sūrya Siddhānta)](ranganatha-jyotisa.md) — `skeleton`
 - [Raṅgarāmānuja Muni](ranga-ramanuja-muni.md) — `skeleton`
+- [Rechungpa Dorje Drakpa](rechungpa.md) — `skeleton`
+- [Rendawa Shönu Lodrö](rendawa.md) — `skeleton`
 - [Rennyo](rennyo.md) — `skeleton`
 - [Revata (teacher of Buddhaghosa)](revata-buddhaghosa.md) — `skeleton`
 - [Revata of Soreyya](revata.md) — `skeleton`
 - [Revaṇanātha](revananatha.md) — `skeleton`
 - [Reṇukācārya (Revaṇasiddha)](renukacarya.md) — `skeleton`
+- [Rigdzin Chökyi Drakpa](rigdzin-chokyi-drakpa.md) — `skeleton`
 - [Rigdzin Gödem (rig 'dzin rgod ldem)](rigdzin-godem.md) — `skeleton`
 - [Rigdzin Kumārādza (rig 'dzin ku mA rA dza)](kumaraja.md) — `skeleton`
 - [Rigdzin Kunzang Sherab (rig 'dzin kun bzang shes rab)](rigdzin-kunzang-sherab.md) — `skeleton`
 - [Rigdzin Ngagi Wangpo (rig 'dzin ngag gi dbang po)](rigdzin-ngagi-wangpo.md) — `skeleton`
+- [Rigongpa Sangye Nyentön](sangye-nyenton.md) — `skeleton`
+- [Rigpé Yeshe (rig pa'i ye shes), the sage 'Awareness-Wisdom'](rigpe-yeshe.md) — `skeleton`
+- [Rinchen Zangpo](rinchen-zangpo.md) — `skeleton`
 - [Rohagupta (Ṣaḍulūka)](rohagupta.md) — `skeleton`
+- [Rolpe Dorje, the fourth Karmapa](rolpe-dorje.md) — `skeleton`
 - [Romaharṣaṇa](romaharsana.md) — `skeleton`
 - [Romaśā](romasa.md) — `sourced`
+- [Rongtön Lhaga](rongton-lhaga.md) — `skeleton`
+- [Rongtön Sheja Kunrig](rongton-sheja-kunrig.md) — `skeleton`
 - [Rongzom Chökyi Zangpo (rong zom chos kyi bzang po)](rongzompa.md) — `skeleton`
 - [Rudra (Kerala commentator)](rudra-kerala.md) — `skeleton`
 - [Rudraṭa](rudrata.md) — `skeleton`
@@ -1684,6 +1827,7 @@ skeleton: 2261 · sourced: 309
 - [Ryōchū](ryochu.md) — `skeleton`
 - [Ryōe Dōkō](ryoe-doko.md) — `skeleton`
 - [Ryōgen](ryogen.md) — `skeleton`
+- [Ryōnen Genso 了然元總](ryonen-genso.md) — `skeleton`
 - [Ryōnin](ryonin.md) — `skeleton`
 - [Ryūkan](ryukan.md) — `skeleton`
 - [Rādhāraman Datta](radharaman-datta.md) — `skeleton` _(recent)_
@@ -1740,7 +1884,9 @@ skeleton: 2261 · sourced: 309
 - [Rūpcand Pāṇḍe](rupcand-pande.md) — `skeleton`
 - [S. N. Goenka](goenka.md) — `skeleton` _(recent)_
 - [Sabbakāmī](sabbakami.md) — `skeleton`
+- [Sabzang Mati Paṇchen Lodrö Gyaltsen (sa bzang ma ti paN chen blo gros rgyal mtshan)](mati-panchen.md) — `skeleton`
 - [Saccidānanda Bābā](saccidananda-baba.md) — `skeleton`
+- [Sachen Kunga Nyingpo](sachen-kunga-nyingpo.md) — `skeleton`
 - [Saddālaputra](saddalaputra.md) — `skeleton`
 - [Saddālaputta](saddalaputta.md) — `skeleton`
 - [Sadhnā the butcher](sadhna.md) — `skeleton`
@@ -1777,6 +1923,7 @@ skeleton: 2261 · sourced: 309
 - [Sanatkumāra](sanatkumara.md) — `sourced`
 - [Sanatsujāta](sanatsujata.md) — `sourced`
 - [Sangye Lingpa (sangs rgyas gling pa)](sangye-lingpa.md) — `skeleton`
+- [Sangye Tönpa Tsöndrü Senge](sangye-tonpa.md) — `skeleton`
 - [Sansheng Huiran 三聖慧然](sansheng-huiran.md) — `skeleton`
 - [Sant Niranjan Dass](niranjan-dass.md) — `skeleton` _(recent)_
 - [Sant Sarwan Dass](sarwan-dass.md) — `skeleton` _(recent)_
@@ -1819,18 +1966,24 @@ skeleton: 2261 · sourced: 309
 - [Saṅghanandi (Sengqie Nanti 僧伽難提)](sanghanandi.md) — `skeleton`
 - [Saṅghapāla (Sengqiepoluo 僧伽婆羅)](sanghapala.md) — `skeleton`
 - [Saṅgārava](sangarava.md) — `skeleton`
+- [Seben Repa](seben-repa.md) — `skeleton`
 - [Seikaku](seikaku.md) — `skeleton`
 - [Sena (Sena Nhāvī)](sena.md) — `skeleton`
 - [Senajit](senajit.md) — `sourced`
 - [Sengcan 僧璨](sengcan.md) — `skeleton`
+- [Serlingpa Dharmakīrti (Suvarṇadvīpī Dharmakīrti)](serlingpa.md) — `skeleton`
+- [Seton Kunrig](seton-kunrig.md) — `skeleton`
 - [Sevak (Dāmodardās)](sevak.md) — `skeleton`
 - [Shandao](shandao.md) — `skeleton`
 - [Shaokang](shaokang.md) — `skeleton`
+- [Sharawa Yönten Drak](sharawa.md) — `skeleton`
 - [Shardza Tashi Gyaltsen (shar rdza bkra shis rgyal mtshan)](shardza-tashi-gyaltsen.md) — `skeleton` _(recent)_
+- [Shechen Gyaltsap Gyurme Pema Namgyal (zhe chen rgyal tshab 'gyur med pad+ma rnam rgyal)](shechen-gyaltsap.md) — `skeleton` _(recent)_
 - [Shenchen Luga (gshen chen klu dga')](shenchen-luga.md) — `skeleton`
 - [Shengan Shixian](shengan-shixian.md) — `skeleton`
 - [Shengchang](shengchang.md) — `skeleton`
 - [Shenxiu 神秀 (Datong)](shenxiu.md) — `skeleton`
+- [Sherab Jungne](sherab-jungne.md) — `skeleton`
 - [Shinbutsu](shinbutsu.md) — `skeleton`
 - [Shinchi Kakushin 心地覺心 (Hottō kokushi)](shinchi-kakushin.md) — `skeleton`
 - [Shinkyō](shinkyo.md) — `skeleton`
@@ -1841,6 +1994,8 @@ skeleton: 2261 · sourced: 309
 - [Shiv Dayal Singh (Soamiji Maharaj)](shiv-dayal-singh.md) — `skeleton` _(recent)_
 - [Shoushan Shengnian 首山省念](shoushan-shengnian.md) — `skeleton`
 - [Shunjō](shunjo.md) — `skeleton`
+- [Shönu Gyalchok](shonu-gyalchok.md) — `skeleton`
+- [Shākya Chokden](shakya-chokden.md) — `skeleton`
 - [Shōgei](shogei.md) — `skeleton`
 - [Shōju Rōjin (Dōkyō Etan) 道鏡慧端](shoju-rojin.md) — `skeleton`
 - [Shōkai](shokai.md) — `skeleton`
@@ -1858,6 +2013,7 @@ skeleton: 2261 · sourced: 309
 - [Sigāla](sigala.md) — `skeleton`
 - [Sikhī](sikhi.md) — `skeleton`
 - [Sirāj Sāṃi](siraj-sai.md) — `skeleton`
+- [Situ Paṇchen Chökyi Jungne (the eighth Tai Situpa)](situ-panchen.md) — `skeleton`
 - [Sivavākkiyar (Civavākkiyar)](sivavakkiyar.md) — `skeleton`
 - [Siṃha / Āryasiṃha (Shizi 師子)](aryasimha.md) — `skeleton`
 - [Siṃhabhūpāla](simhabhupala.md) — `skeleton`
@@ -1873,6 +2029,7 @@ skeleton: 2261 · sourced: 309
 - [Somadeva (author of the Rasendracūḍāmaṇi)](somadeva-rasa.md) — `skeleton`
 - [Somadeva Sūri](somadeva-suri.md) — `skeleton`
 - [Somanātha (author of the Rāgavibodha)](somanatha-ragavibodha.md) — `skeleton`
+- [Somanātha (zla ba mgon po), the Kashmiri paṇḍita](somanatha-kashmiri.md) — `skeleton`
 - [Somanātha Dīkṣita](somanatha-diksita.md) — `skeleton`
 - [Somaśambhu](somasambhu.md) — `skeleton`
 - [Someśvara Bhaṭṭa](somesvara-bhatta.md) — `skeleton`
@@ -1914,6 +2071,7 @@ skeleton: 2261 · sourced: 309
 - [Sumatinātha](sumatinatha.md) — `skeleton`
 - [Sumatiśīla](sumatisila.md) — `skeleton`
 - [Sumaṅgala (author of the Vibhāvinī)](sumangala-vibhavini.md) — `skeleton`
+- [Sumtön Yeshe Zung (sum ston ye shes gzungs)](sumton-yeshe-zung.md) — `skeleton`
 - [Sundaradeva](sundaradeva.md) — `skeleton`
 - [Sundarapāṇḍya](sundarapandya.md) — `skeleton`
 - [Sundardās (the younger)](sundardas.md) — `skeleton`
@@ -1941,6 +2099,9 @@ skeleton: 2261 · sourced: 309
 - [Swami Dayananda Saraswati (Arsha Vidya)](dayananda-saraswati-arsha.md) — `skeleton` _(recent)_
 - [Swami Satchidanandendra Sarasvati](satchidanandendra-sarasvati.md) — `skeleton` _(recent)_
 - [Syūmaraśmi](syumarasmi.md) — `sourced`
+- [Sé Chilbu Chökyi Gyaltsen](se-chilbu.md) — `skeleton`
+- [Sönam Gyatso, Third Dalai Lama](sonam-gyatso.md) — `skeleton`
+- [Sönam Tsemo](sonam-tsemo.md) — `skeleton`
 - [Sāhib Kaul](sahib-kaul.md) — `skeleton`
 - [Sāmanta Candraśekhara](samanta-candrasekhara.md) — `skeleton` _(recent)_
 - [Sāmaśravas](samasravas.md) — `sourced`
@@ -1964,38 +2125,48 @@ skeleton: 2261 · sourced: 309
 - [T. G. Siddappārādhya](siddapparadhya.md) — `skeleton` _(recent)_
 - [Taego Bou 太古普愚](taego-bou.md) — `skeleton`
 - [Taigu Ryōkan 大愚良寛](ryokan.md) — `skeleton` _(recent)_
+- [Taklung Thangpa Tashi Pal](taklung-thangpa.md) — `skeleton`
+- [Taktsang Lotsawa Sherab Rinchen](taktsang-lotsawa.md) — `skeleton`
 - [Takuan Sōhō 澤庵宗彭](takuan.md) — `skeleton`
 - [Takujū Kosen 卓洲胡僊](takuju-kosen.md) — `skeleton` _(recent)_
 - [Tandhepa](tandhepa.md) — `skeleton`
 - [Tanlin 曇林](tanlin.md) — `skeleton`
 - [Tanluan](tanluan.md) — `skeleton`
 - [Tantipa](tantipa.md) — `skeleton`
+- [Tantrī](tantripa-caryagiti.md) — `skeleton`
 - [Tapihritsa (ta pi hri tsa)](tapihritsa.md) — `skeleton`
 - [Taponitya Pauruśiṣṭi](taponitya-paurusisti.md) — `sourced`
 - [Tapussa and Bhallika](tapussa-bhallika.md) — `skeleton`
 - [Taṇṭiyaṭikaḷ](tantiyatikal.md) — `skeleton`
+- [Tenzin Gyatso, Fourteenth Dalai Lama](dalai-lama-14.md) — `skeleton` _(recent)_
 - [Terdak Lingpa Gyurme Dorje (gter bdag gling pa 'gyur med rdo rje)](terdak-lingpa.md) — `skeleton`
 - [Tertön Sogyal Lerab Lingpa (gter ston bsod rgyal las rab gling pa)](terton-sogyal.md) — `skeleton` _(recent)_
 - [Tetsugen Dōkō 鐵眼道光](tetsugen-doko.md) — `skeleton`
 - [Tettsū Gikai 徹通義介](tettsu-gikai.md) — `skeleton`
 - [Thaganapa](thaganapa.md) — `skeleton`
 - [Thakar Singh](thakar-singh.md) — `skeleton` _(recent)_
+- [Thangtong Gyalpo](thangtong-gyalpo.md) — `skeleton`
 - [The Aśvins](asvins.md) — `skeleton`
 - [The Bhairavī Brāhmaṇī (Yogeśvarī)](bhairavi-brahmani.md) — `skeleton` _(recent)_
 - [The daughter of the nāga king Sāgara](naga-princess.md) — `skeleton`
 - [the Draupadeyas (sons of Draupadī)](draupadeyas.md) — `skeleton`
 - [The eight Vāgdevatās (Vaśinī and the others)](vagdevatas.md) — `skeleton`
-- [The Fifth Dalai Lama, Ngawang Lobzang Gyatso](dalai-lama-5.md) — `skeleton`
 - [The Goddess (Devī)](devi.md) — `skeleton`
 - [the king of Kāśī](kasiraja.md) — `skeleton`
 - [The righteous meat-seller of Mithilā (dharmavyādha)](dharmavyadha.md) — `sourced`
 - [The Vātaraśana munis (seven wind-girdled sages)](vatarasana-munis.md) — `sourced`
 - [the Vṛttikāra (cited by Śabara)](vrttikara-mimamsa.md) — `skeleton`
+- [Thekchok Dorje, the fourteenth Karmapa](thekchok-dorje.md) — `skeleton` _(recent)_
+- [Thongwa Dönden, the sixth Karmapa](thongwa-donden.md) — `skeleton`
+- [Thubten Gyatso, Thirteenth Dalai Lama](dalai-lama-13.md) — `skeleton` _(recent)_
+- [Thuken Lobsang Chökyi Nyima](thuken-lobsang-chokyi-nyima.md) — `skeleton`
+- [Thöpa Bhadra (thod pa bha dra)](thopa-bhadra.md) — `skeleton`
 - [Tianhuang Daowu 天皇道悟](tianhuang-daowu.md) — `skeleton`
 - [Tianru Weize](tianru-weize.md) — `skeleton`
 - [Tiantai Deshao 天台德韶](tiantai-deshao.md) — `skeleton`
 - [Tiantong Rujing 天童如淨](rujing.md) — `skeleton`
 - [Tilopa](tilopa.md) — `skeleton`
+- [Tiphupa](tiphupa.md) — `skeleton`
 - [Tirukkacci Nambi](tirukkacci-nambi.md) — `skeleton`
 - [Tirukkurukaippirāṉ Piḷḷāṉ](tirukkurukaippiran-pillan.md) — `skeleton`
 - [Tirukkuṟipputtoṇṭa Nāyaṉār](tirukkurippu-tontar.md) — `skeleton`
@@ -2017,6 +2188,7 @@ skeleton: 2261 · sourced: 309
 - [Tiruñāṉacampantar](campantar.md) — `skeleton`
 - [Tittiri](tittiri.md) — `sourced`
 - [Toeong Seongcheol 退翁性徹](seongcheol.md) — `skeleton` _(recent)_
+- [Tokden Jampal Gyatso](tokden-jampal-gyatso.md) — `skeleton`
 - [Tokuitsu](tokuitsu.md) — `skeleton`
 - [Touzi Yiqing 投子義青](touzi-yiqing.md) — `skeleton`
 - [Toṇṭada Siddhaliṅga](tontada-siddhalinga.md) — `skeleton`
@@ -2025,6 +2197,7 @@ skeleton: 2261 · sourced: 309
 - [Toṭaka (Toṭakācārya)](totaka.md) — `skeleton`
 - [Trilocana](trilocana.md) — `skeleton`
 - [Trilocanaśiva](trilocanasiva.md) — `skeleton`
+- [Trinley Thaye Dorje (recognized as seventeenth Karmapa by one party)](trinley-thaye-dorje.md) — `skeleton` _(recent)_
 - [Tripiṭakamala](tripitakamala.md) — `skeleton`
 - [Tripurāntaka (Pāśupata)](tripurantaka.md) — `skeleton`
 - [Trisong Detsen (khri srong lde btsan)](trisong-detsen.md) — `skeleton`
@@ -2032,7 +2205,12 @@ skeleton: 2261 · sourced: 309
 - [Triśaṅku](trisanku.md) — `sourced`
 - [Triśikhi](trisikhi.md) — `skeleton`
 - [Tryambakāditya](tryambakaditya.md) — `skeleton`
+- [Tsangnyön Heruka Sangye Gyaltsen](tsangnyon-heruka.md) — `skeleton`
+- [Tsangpa Gyare Yeshe Dorje (the first Gyalwang Drukpa)](tsangpa-gyare.md) — `skeleton`
+- [Tsarchen Losal Gyatso](tsarchen-losal-gyatso.md) — `skeleton`
+- [Tselé Natsok Rangdröl](tsele-natsok-rangdrol.md) — `skeleton`
 - [Tsongkhapa Lobsang Drakpa](tsongkhapa.md) — `skeleton`
+- [Tsurtön Wangi Dorje](tsurton-wangi-dorje.md) — `skeleton`
 - [Tukaḍojī Mahārāj](tukadoji-maharaj.md) — `skeleton` _(recent)_
 - [Tukārām](tukaram.md) — `skeleton`
 - [Tulku Urgyen Rinpoche (sprul sku o rgyan)](tulku-urgyen.md) — `skeleton` _(recent)_
@@ -2046,10 +2224,12 @@ skeleton: 2261 · sourced: 309
 - [Turugāhi Rāmaṇṇa](turugahi-ramanna.md) — `skeleton`
 - [Tyāgarāja](tyagaraja.md) — `skeleton`
 - [Tönpa Shenrab Miwoche (ston pa gshen rab mi bo che)](tonpa-shenrab.md) — `skeleton`
+- [Tönyön Samdrub (thod smyon bsam grub)](tonyon-samdrub.md) — `skeleton`
 - [Tānsen](tansen.md) — `skeleton`
-- [Tāranātha](taranatha.md) — `skeleton`
+- [Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)](taranatha.md) — `skeleton`
 - [Tāraṇa Svāmī](taranasvami.md) — `skeleton`
 - [Tāyumāṉavar](tayumanavar.md) — `skeleton`
+- [Tāḍaka](tadaka.md) — `skeleton`
 - [Tāṇḍavarāya Svāmī](tandavaraya-svami.md) — `skeleton`
 - [Tēraiyar](teraiyar.md) — `skeleton`
 - [Tīsaṭa](tisata.md) — `skeleton`
@@ -2070,6 +2250,7 @@ skeleton: 2261 · sourced: 309
 - [Ugraśravas Sauti](ugrasravas.md) — `sourced`
 - [Ugrāditya](ugraditya.md) — `skeleton`
 - [Ulūka (Sāṃkhya teacher)](uluka-samkhya.md) — `skeleton`
+- [Umapa Pawo Dorje](umapa-pawo-dorje.md) — `skeleton`
 - [Umbeka](umbeka.md) — `skeleton`
 - [Umā (Pārvatī)](uma.md) — `sourced`
 - [Umā Haimavatī](uma-haimavati.md) — `sourced`
@@ -2290,6 +2471,7 @@ skeleton: 2261 · sourced: 309
 - [Vṛtra](vrtra.md) — `sourced`
 - [Vṛṣabhadeva](vrsabhadeva.md) — `skeleton`
 - [Wang Rixiu](wang-rixiu.md) — `skeleton`
+- [Wangchuk Dorje, the ninth Karmapa](wangchuk-dorje.md) — `skeleton`
 - [Wangxi 王錫](wangxi.md) — `skeleton`
 - [Wansong Xingxiu 萬松行秀](wansong-xingxiu.md) — `skeleton`
 - [Webu Sayadaw](webu-sayadaw.md) — `skeleton` _(recent)_
@@ -2299,6 +2481,7 @@ skeleton: 2261 · sourced: 309
 - [Wuxue Zuyuan 無學祖元 (Mugaku Sogen)](wuxue-zuyuan.md) — `skeleton`
 - [Wuzhu 無住](wuzhu.md) — `skeleton`
 - [Wuzhun Shifan 無準師範](wuzhun-shifan.md) — `skeleton`
+- [Wuzhuo Miaozong 無著妙總](wuzhuo-miaozong.md) — `skeleton`
 - [Wuzu Fayan 五祖法演](wuzu-fayan.md) — `skeleton`
 - [Wŏnch'ŭk](woncheuk.md) — `skeleton`
 - [Xianglin Chengyuan 香林澄遠](xiang-lin-chengyuan.md) — `skeleton`
@@ -2316,12 +2499,14 @@ skeleton: 2261 · sourced: 309
 - [Xutang Zhiyu 虛堂智愚](xutang-zhiyu.md) — `skeleton`
 - [Xuyun 虛雲](xuyun.md) — `skeleton` _(recent)_
 - [Yadu](yadu.md) — `skeleton`
+- [Yaktön Sangye Pal](yakton-sangye-pal.md) — `skeleton`
 - [Yama (Mṛtyu)](yama.md) — `sourced`
 - [Yama Vaivasvata](yama-vaivasvata.md) — `sourced`
 - [Yamaka](yamaka.md) — `skeleton`
 - [Yamī Vaivasvatī](yami-vaivasvati.md) — `sourced`
 - [Yangqi Fanghui 楊岐方會](yangqi-fanghui.md) — `skeleton`
 - [Yangshan Huiji 仰山慧寂](yangshan-huiji.md) — `skeleton`
+- [Yangönpa Gyaltsen Pal](yang-gonpa.md) — `skeleton`
 - [Yaoshan Weiyan 藥山惟儼](yaoshan.md) — `skeleton`
 - [Yasa](yasa.md) — `skeleton`
 - [Yasa Kākaṇḍakaputta](yasa-kakandakaputta.md) — `skeleton`
@@ -2332,16 +2517,20 @@ skeleton: 2261 · sourced: 309
 - [Yaśodhara (rasa author)](yasodhara-rasa.md) — `skeleton`
 - [Yaśomitra](yasomitra.md) — `skeleton`
 - [Yaśovijaya](yasovijaya.md) — `skeleton`
+- [Yelpa Yeshe Tsek](yelpa-yeshe-tsek.md) — `skeleton`
 - [Yelü Chucai 耶律楚材](yelu-chucai.md) — `skeleton`
 - [Yeshe De](yeshe-de.md) — `skeleton`
+- [Yeshe Dorje, the eleventh Karmapa](yeshe-dorje-karmapa-11.md) — `skeleton`
 - [Yeshe Tsogyal (ye shes mtsho rgyal)](yeshe-tsogyal.md) — `skeleton`
 - [Yifu 義福](yifu.md) — `skeleton`
 - [Yijing](yijing.md) — `skeleton`
+- [Yilé Kyé (yid las skyes), the sage 'Born from Mind'](yile-kye.md) — `skeleton`
 - [Yinguang](yinguang.md) — `skeleton` _(recent)_
 - [Yogarāja](yogaraja.md) — `skeleton`
 - [Yogīndu](yogindu.md) — `skeleton`
 - [Yongjia Xuanjue 永嘉玄覺](yongjia-xuanjue.md) — `skeleton`
 - [Yongming Yanshou](yongming-yanshou.md) — `skeleton`
+- [Yongzin Yeshe Gyaltsen](yongzin-yeshe-gyaltsen.md) — `skeleton`
 - [Yoshishige no Yasutane](yoshishige-no-yasutane.md) — `skeleton`
 - [Youxi Chuandeng](youxi-chuandeng.md) — `skeleton`
 - [Yuan Hongdao](yuan-hongdao.md) — `skeleton`
@@ -2351,10 +2540,13 @@ skeleton: 2261 · sourced: 309
 - [Yudhāmanyu](yudhamanyu.md) — `skeleton`
 - [Yudra Nyingpo (g.yu sgra snying po)](yudra-nyingpo.md) — `skeleton`
 - [Yuien](yuien.md) — `skeleton`
+- [Yumo Mikyö Dorje (yu mo mi bskyod rdo rje)](yumo-mikyo-dorje.md) — `skeleton`
 - [Yunju Daoying 雲居道膺](yunju-daoying.md) — `skeleton`
 - [Yunmen Wenyan 雲門文偃](yunmen.md) — `skeleton`
 - [Yunqi Zhuhong](yunqi-zhuhong.md) — `skeleton`
 - [Yunyan Tansheng 雲巖曇晟](yunyan.md) — `skeleton`
+- [Yuthok Yönten Gönpo the Elder (g.yu thog rnying ma yon tan mgon po)](yuthok-yonten-gonpo-elder.md) — `skeleton`
+- [Yuthok Yönten Gönpo the Younger (g.yu thog gsar ma yon tan mgon po)](yuthok-yonten-gonpo-younger.md) — `skeleton`
 - [Yādavaprakāśa](yadavaprakasa.md) — `skeleton`
 - [Yājñavalkya](yajnavalkya.md) — `sourced`
 - [Yākinī Mahattarā](yakini-mahattara.md) — `skeleton`
@@ -2363,7 +2555,10 @@ skeleton: 2261 · sourced: 309
 - [Yōkan](yokan.md) — `skeleton`
 - [Yūkimuṉi](yugimuni.md) — `skeleton`
 - [Zanning 贊寧](zanning.md) — `skeleton`
+- [Zarawa Kalden Yeshe Senge](zarawa-kalden-yeshe-senge.md) — `skeleton`
 - [Zenran](zenran.md) — `skeleton`
+- [Zhabdrung Ngawang Namgyal](zhabdrung-ngawang-namgyal.md) — `skeleton`
+- [Zhangtön Chöbar](zhangton-chobar.md) — `skeleton`
 - [Zhangtön Tashi Dorje (zhang ston bkra shis rdo rje)](zhangton-tashi-dorje.md) — `skeleton`
 - [Zhaozhou Congshen 趙州從諗](zhaozhou.md) — `skeleton`
 - [Zhenxie Qingliao 真歇清了](zhenxie-qingliao.md) — `skeleton`
@@ -2377,8 +2572,11 @@ skeleton: 2261 · sourced: 309
 - [Zongbao 宗寶](zongbao.md) — `skeleton`
 - [Zongxiao](zongxiao.md) — `skeleton`
 - [Zonkaku](zonkaku.md) — `skeleton`
+- [Zurkhar Lodrö Gyalpo (zur mkhar blo gros rgyal po)](zurkhar-lodro-gyalpo.md) — `skeleton`
+- [Zurkhar Nyamnyi Dorje (zur mkhar mnyam nyid rdo rje)](zurkhar-nyamnyi-dorje.md) — `skeleton`
 - [Zurpoche Shākya Jungne (zur po che shAkya 'byung gnas)](zurpoche.md) — `skeleton`
 - [Ñāṇamoli Thera](nanamoli.md) — `skeleton` _(recent)_
+- [Öndör Gegeen Zanabazar, the first Jebtsundamba Khutughtu](zanabazar.md) — `skeleton`
 - [Ācārya Bhikṣu (Bhīkhaṇjī)](acarya-bhiksu.md) — `skeleton`
 - [Ācārya Mahāprajña (Muni Nathmal)](mahaprajna.md) — `skeleton` _(recent)_
 - [Ācārya Mahāśramaṇa](mahasraman.md) — `skeleton` _(recent)_
@@ -2412,8 +2610,10 @@ skeleton: 2261 · sourced: 309
 - [Ārya Vimuktisena](vimuktisena.md) — `skeleton`
 - [Āryabhaṭa](aryabhata.md) — `skeleton`
 - [Āryadeva](aryadeva.md) — `skeleton`
+- [Āryadeva the Brahmin (bram ze Ārya de ba)](aryadeva-brahmin.md) — `skeleton`
 - [Āryarakṣita](aryaraksita.md) — `skeleton`
 - [Āryarakṣitasūri (founder of the Añcala Gaccha)](aryaraksita-suri-ancala.md) — `skeleton`
+- [Āryaśūra](aryasura.md) — `skeleton`
 - [Āsuri](asuri.md) — `sourced`
 - [Ātmasukha](atmasukha.md) — `skeleton`
 - [Ātreya (Mīmāṃsā teacher)](atreya-mimamsa.md) — `skeleton`
@@ -2559,6 +2759,7 @@ skeleton: 2261 · sourced: 309
 - [Śūnyasamādhipāda](sunyasamadhipada.md) — `skeleton`
 - [Ḍalhaṇa](dalhana.md) — `skeleton`
 - [Ḍeṅgipa](dhenkipa.md) — `skeleton`
+- [Ḍheṇḍhaṇa](dhendhanapa.md) — `skeleton`
 - [Ḍhuṇḍhirāja](dhundhiraja.md) — `skeleton`
 - [Ḍhuṇḍhukanātha](dhundhukanatha.md) — `skeleton`
 - [Ḍombipa (Ḍombi Heruka)](dombipa.md) — `skeleton`

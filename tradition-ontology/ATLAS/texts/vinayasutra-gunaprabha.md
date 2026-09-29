@@ -5,7 +5,7 @@
 **Alternate titles:** 'dul ba'i mdo
 **Language:** Sanskrit, Tibetan
 **Family:** ascetic
-**Lineages:** [Mūlasarvāstivāda](../lineages/mulasarvastivada.md), `lin:gelug`
+**Lineages:** [Mūlasarvāstivāda](../lineages/mulasarvastivada.md), [Gelug](../lineages/gelug.md)
 **Genre:** vinaya digest
 **Authors:** 
   - [Guṇaprabha](../teachers/gunaprabha.md) — role: author; attribution: accepted
@@ -16,4 +16,4 @@ Guṇaprabha's digest of the Mūlasarvāstivāda Vinaya in aphorisms; one of the
   - kind: original; name: GRETIL e-text
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

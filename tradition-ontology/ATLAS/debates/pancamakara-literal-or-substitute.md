@@ -25,4 +25,4 @@ The right-hand (dakṣiṇa) mode worships with substitutes (anukalpa) or with i
 **The traditions' own objections:** The Samaya school rejects the practice outright, not as a stage; Kaula lineages hold the literal rite superior for the qualified. Restricted content: no procedure recorded.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

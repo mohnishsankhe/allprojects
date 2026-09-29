@@ -26,7 +26,7 @@ Because mind, buddha and beings are one in substance, turning one's spirit to a 
 
 _level: bridging · standpoint: absolute · path: knowledge, devotion · stage: all · types: ultimate_
 
-concepts: `cpt:mind-only-pure-land` · teachers: [Ciyun Zunshi](../teachers/ciyun-zunshi.md)
+concepts: [The Pure Land as mind only (weixin jingtu)](../concepts/mind-only-pure-land.md) · teachers: [Ciyun Zunshi](../teachers/ciyun-zunshi.md)
 
 ### 147a17-22 <a id="tea-wangsheng-jingtu-jueyi-xingyuan-ermen-147a17-22"></a>
 `skeleton` · confidence high
@@ -37,10 +37,10 @@ The gate of ten recitations: each morning after dressing, stand facing west, joi
 
 _level: conventional · standpoint: seeker · path: sound, devotion · stage: beginner · types: practice_
 
-terms: `trm:shinian` · practices: `prc:morning-ten-recitations` · teachers: [Ciyun Zunshi](../teachers/ciyun-zunshi.md)
+terms: [shinian](../terms/shinian.md) · practices: [The morning ten recitations (Zunshi's shinian fa)](../practices/morning-ten-recitations.md) · teachers: [Ciyun Zunshi](../teachers/ciyun-zunshi.md)
 
 
 _Notes: Read locally (T47n1968)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

@@ -13,4 +13,4 @@ Punjabi verse romance of Pūraṇ Bhagat, son of Rājā Salvāhan of Sialkot, ma
 _Notes: Best-known version by Qādaryār (19th c., recalled). Context for the Cauraṅgī legend._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._

@@ -16,4 +16,4 @@ Going for refuge to the Buddha, Dharma and Saṅgha, understood as the non-learn
   - [Mahāvagga (Vinaya)](../texts/mahavagga-vinaya.md) — ref: 1.12.4; rests_on: ["tea:mahavagga-vinaya:1.12.4"]
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

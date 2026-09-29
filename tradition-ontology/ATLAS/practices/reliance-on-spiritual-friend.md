@@ -13,4 +13,4 @@ The body is protected for beings' sake by not abandoning the spiritual friend an
   - [Catuḥśataka](../texts/catuhsataka.md) — ref: 12.1; rests_on: ["tea:catuhsataka:12.1"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

@@ -16,4 +16,4 @@
 - part-of → [The origin of the ten Mahāvidyās in the Satī–Śiva story](mahavidya-origin-story.md): their origin in the Satī myth — rests on [madhya.6.125-134](../texts/brhaddharma-purana.md#tea-brhaddharma-purana-madhya-6-125-134)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._

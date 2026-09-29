@@ -10,4 +10,4 @@
 Kashmiri paṇḍita who taught the Maitreya texts to Ngok Loden Sherab and Tsen Kawoche, source of the Tibetan 'analytic' and 'meditative' transmissions of the Maitreya teachings.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._

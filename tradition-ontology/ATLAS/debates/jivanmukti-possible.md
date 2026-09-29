@@ -30,4 +30,4 @@ Viśiṣṭādvaita and Dvaita: liberation is attained only after death, when th
 **Candidate readings:** P1-level: freedom from bondage in knowledge (ultimate) vs continued empirical embodiment (conventional).; Some Advaitins posit a 'trace of ignorance' (avidyā-leśa) to explain the continuing body, conceding part of Maṇḍana's point.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._

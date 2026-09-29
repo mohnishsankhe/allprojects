@@ -429,6 +429,35 @@
   }
  },
  {
+  "id": "phn:ajogi-drop-dissolves",
+  "lineage": "lin:mahasiddha",
+  "source": "src:caturasiti-siddha-bodhihrdaya",
+  "ref": "26",
+  "kind": "state",
+  "description": "The visualized drop at the nose tip is lost in emptiness when the mind is steady.",
+  "rests_on": [
+   "tea:caturasiti-siddha-bodhihrdaya:26"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:akka-bridal-longing",
   "lineage": "lin:sarana-vacana",
   "source": "src:akka-mahadevi-vacanas",
@@ -1515,6 +1544,95 @@
   }
  },
  {
+  "id": "phn:bankei-phlegm-unborn",
+  "lineage": "lin:rinzai",
+  "source": "src:bankei-zenji-seppo",
+  "ref": "unborn",
+  "kind": "bodily",
+  "description": "Near death from illness and austerities, Bankei coughs up a mass of black phlegm against a wall and at that moment realizes the Unborn.",
+  "rests_on": [
+   "tea:bankei-zenji-seppo:unborn"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "awakening",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bardo-of-becoming-signs",
+  "lineage": "lin:nyingma",
+  "kind": "state",
+  "description": "In the bardo of becoming the deceased has a mental body with unobstructed movement and some clairvoyance, is blown by the winds of karma, sees the judgement of the Lord of Death, and is drawn to a womb.",
+  "source": "src:bardo-thodol",
+  "ref": "sidpa",
+  "rests_on": [
+   "tea:bardo-thodol:sidpa"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bardo-of-dharmata-appearances",
+  "lineage": "lin:nyingma",
+  "kind": "vision",
+  "description": "In the bardo of dharmatā sounds, lights and rays arise; the peaceful deities with brilliant wisdom lights (beside dull lights of the six realms) and then the wrathful deities appear over successive days; all are the deceased's own projections.",
+  "source": "src:bardo-thodol",
+  "ref": "chonyi",
+  "rests_on": [
+   "tea:bardo-thodol:chonyi-peaceful",
+   "tea:bardo-thodol:chonyi-wrathful"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:baul-adhar-manus-tide",
   "lineage": "lin:baul",
   "source": "src:baul-gan",
@@ -1940,6 +2058,82 @@
   }
  },
  {
+  "id": "phn:bhagavad-gita-devotees-content-and-delighting",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "10.9",
+  "kind": "state",
+  "description": "Those whose thought is on the Lord, awakening one another and always speaking of him, are content and take delight (tuṣyanti ca ramanti ca) (10.9).",
+  "rests_on": [
+   "tea:bhagavad-gita:10.9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:10.9"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch10-12"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-divine-eye",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "11.8",
+  "kind": "power",
+  "description": "The Lord declares that Arjuna cannot see him with his own eye and gives him a divine eye (divyaṃ cakṣuḥ) to behold his sovereign yoga (11.8).",
+  "rests_on": [
+   "tea:bhagavad-gita:11.8"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:11.8"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "stage": "given by the Lord",
+  "notes": "Merged from extractor A's phn:bhagavad-gita-divine-eye and extractor B's phn:bhagavad-gita-divine-eye-granted (both 11.8).",
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch10-12"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:bhagavad-gita-knowledge-covered-by-desire",
   "lineage": "lin:epic-teaching",
   "source": "src:bhagavad-gita",
@@ -2002,6 +2196,52 @@
   "provenance": {
    "units": [
     "extraction:bhagavad-gita/ch04-06"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-light-of-a-thousand-suns",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "11.12, 11.17, 11.19, 11.30, 11.47",
+  "kind": "light",
+  "description": "The radiance of the form is likened to that of a thousand suns rising at once in the sky (11.12); it is a mass of splendour blazing on every side with the brilliance of fire and sun, hard to look at (11.17), heating the universe (11.19), filling the world with fierce rays (11.30), 'made of splendour' (11.47).",
+  "rests_on": [
+   "tea:bhagavad-gita:11.12",
+   "tea:bhagavad-gita:11.17",
+   "tea:bhagavad-gita:11.19",
+   "tea:bhagavad-gita:11.30",
+   "tea:bhagavad-gita:11.47"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:11.12",
+      "tea:bhagavad-gita:11.17",
+      "tea:bhagavad-gita:11.19",
+      "tea:bhagavad-gita:11.30",
+      "tea:bhagavad-gita:11.47"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "notes": "Merged from extractor A's phn:bhagavad-gita-light-of-a-thousand-suns (11.12, 11.17) and extractor B's phn:bhagavad-gita-radiance-of-a-thousand-suns (11.12–47).",
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch10-12"
    ],
    "phases": [
     "extraction"
@@ -2224,6 +2464,48 @@
   }
  },
  {
+  "id": "phn:bhagavad-gita-return-to-own-nature",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "11.49–51",
+  "kind": "state",
+  "description": "Told to be without fear and with a glad mind, Arjuna sees again the Lord's own gentle, human form and says he is now composed (sacetāḥ) and has returned to his natural state (prakṛti) (11.49–51).",
+  "rests_on": [
+   "tea:bhagavad-gita:11.49",
+   "tea:bhagavad-gita:11.50",
+   "tea:bhagavad-gita:11.51"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:11.49",
+      "tea:bhagavad-gita:11.50",
+      "tea:bhagavad-gita:11.51"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "notes": "Merged from extractor A's phn:bhagavad-gita-return-to-own-nature (11.49–51) and extractor B's phn:bhagavad-gita-return-to-composure (11.50–51).",
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch10-12"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:bhagavad-gita-seeing-self-in-all",
   "lineage": "lin:epic-teaching",
   "source": "src:bhagavad-gita",
@@ -2291,6 +2573,100 @@
   "provenance": {
    "units": [
     "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-shaken-by-the-fierce-form",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "11.20–25, 11.35, 11.45–50",
+  "kind": "difficulty",
+  "description": "Seeing the terrible form the worlds tremble and so does Arjuna (11.20, 11.23); shaken in his inmost being he finds neither steadiness nor calm (11.24), loses his bearings and finds no shelter, and begs the Lord to be gracious (11.25); he trembles and stammers in great fear (11.35); his manas is shaken with fear and he asks to see the former form (11.45–46). The Lord bids him not be distressed or bewildered and to be free of fear (11.49), and consoles him by resuming his gentle form (11.50).",
+  "rests_on": [
+   "tea:bhagavad-gita:11.20",
+   "tea:bhagavad-gita:11.23",
+   "tea:bhagavad-gita:11.24",
+   "tea:bhagavad-gita:11.25",
+   "tea:bhagavad-gita:11.35",
+   "tea:bhagavad-gita:11.45",
+   "tea:bhagavad-gita:11.49",
+   "tea:bhagavad-gita:11.50"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:11.20",
+      "tea:bhagavad-gita:11.23",
+      "tea:bhagavad-gita:11.24",
+      "tea:bhagavad-gita:11.25",
+      "tea:bhagavad-gita:11.35",
+      "tea:bhagavad-gita:11.45",
+      "tea:bhagavad-gita:11.49",
+      "tea:bhagavad-gita:11.50"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "notes": "Merged from extractor A's phn:bhagavad-gita-shaken-by-the-fierce-form (kind 'state') and extractor B's phn:bhagavad-gita-terror-before-the-universal-form (kind 'difficulty'); 'difficulty' is kept because the text treats the terror as a disturbance the Lord removes (11.49–50). The verses' word is pravyathita, 'shaken' (11.20, 11.23, 11.24).",
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch10-12"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-signs-in-arjuna-at-the-vision",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "11.14, 11.35, 11.45",
+  "kind": "bodily",
+  "description": "Filled with amazement (vismaya), his hair standing on end (hṛṣṭaromā), Arjuna bows his head with joined palms (11.14); after the Lord declares himself Time he trembles, bows, prostrates and speaks stammering, greatly afraid (11.35); he says he is thrilled (hṛṣita) at seeing what was never seen before, while his mind (manas) is shaken with fear (11.45).",
+  "rests_on": [
+   "tea:bhagavad-gita:11.14",
+   "tea:bhagavad-gita:11.35",
+   "tea:bhagavad-gita:11.45"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:11.14",
+      "tea:bhagavad-gita:11.35",
+      "tea:bhagavad-gita:11.45"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "notes": "Merged from extractor A's phn:bhagavad-gita-signs-in-arjuna-at-the-vision (11.14, 11.35) and extractor B's phn:bhagavad-gita-wonder-and-horripilation (11.14, 11.45).",
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch10-12"
    ],
    "phases": [
     "extraction"
@@ -2366,6 +2742,51 @@
   "provenance": {
    "units": [
     "extraction:bhagavad-gita/ch07-09"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-warriors-entering-the-mouths",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "11.26–30",
+  "kind": "vision",
+  "description": "Arjuna sees the sons of Dhṛtarāṣṭra with the kings, Bhīṣma, Droṇa, Karṇa and warriors of his own side rushing into the Lord's mouths, some caught between the teeth with heads crushed, entering like rivers into the ocean and like moths into a blazing fire, while the Lord licks up the worlds with flaming mouths (11.26–30).",
+  "rests_on": [
+   "tea:bhagavad-gita:11.26",
+   "tea:bhagavad-gita:11.27",
+   "tea:bhagavad-gita:11.28",
+   "tea:bhagavad-gita:11.29",
+   "tea:bhagavad-gita:11.30"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:11.26",
+      "tea:bhagavad-gita:11.27",
+      "tea:bhagavad-gita:11.28",
+      "tea:bhagavad-gita:11.29",
+      "tea:bhagavad-gita:11.30"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch10-12"
    ],
    "phases": [
     "extraction"
@@ -2491,6 +2912,35 @@
    "units": [
     "skeleton:U06-other-gitas",
     "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhalaha-bliss-of-no-thing",
+  "lineage": "lin:mahasiddha",
+  "source": "src:caturasiti-siddha-bodhihrdaya",
+  "ref": "39",
+  "kind": "state",
+  "description": "'Bliss, bliss — the bliss of no-thing', without clinging, the secret needing no accomplishment.",
+  "rests_on": [
+   "tea:caturasiti-siddha-bodhihrdaya:39"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
     "skeleton"
@@ -2722,6 +3172,32 @@
   "provenance": {
    "units": [
     "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bon-rainbow-body",
+  "lineage": "lin:bon",
+  "kind": "bodily",
+  "description": "Bön accounts of masters of the Zhang Zhung Nyengyü, and of Shardza Tashi Gyaltsen in 1934, whose bodies shrank and dissolved into light at death.",
+  "source": "src:zhang-zhung-nyengyu",
+  "notes": "Optional (Bön).",
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
    ],
    "phases": [
     "skeleton"
@@ -4147,6 +4623,36 @@
   }
  },
  {
+  "id": "phn:deathbed-signs",
+  "lineage": "lin:pure-land",
+  "source": "src:guannian-famen",
+  "ref": "T1959 24b24-29",
+  "stage": "death",
+  "kind": "sign",
+  "description": "At the deathbed the dying may see signs of their sins or the lotus-dais and holy assembly; attendants record them and help repent the former until the latter appear (Shandao).",
+  "rests_on": [
+   "tea:guannian-famen:24b21-c04"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:dehatita-dasa",
   "lineage": "lin:jainism",
   "source": "src:atmasiddhi",
@@ -4422,6 +4928,35 @@
   }
  },
  {
+  "id": "phn:dissolution-signs",
+  "lineage": "lin:nyingma",
+  "kind": "sign",
+  "description": "At death: as earth dissolves into water the body becomes heavy and a mirage-like appearance arises; water into fire, the mouth dries and a smoke-like appearance; fire into wind, warmth withdraws and sparks like fireflies; wind into consciousness, the breath stops with a flickering lamp-like appearance; then white, red and black appearances and the clear light.",
+  "source": "src:bardo-thodol",
+  "ref": "chikhai",
+  "rests_on": [
+   "tea:bardo-thodol:chikhai"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:divyadhvani",
   "lineage": "lin:digambara",
   "source": "src:tiloyapannatti",
@@ -4557,6 +5092,67 @@
   "provenance": {
    "units": [
     "skeleton:U33-sramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:dogen-dropping-off",
+  "lineage": "lin:soto",
+  "source": "src:rujing-xu-yulu",
+  "ref": "136c03",
+  "kind": "state",
+  "description": "At Rujing's words to a sleeping monk, the narrator (Dōgen in the Sōtō account) experiences body and mind dropping off, confirmed by Rujing.",
+  "rests_on": [
+   "tea:rujing-xu-yulu:136c03",
+   "tea:hokyoki:dropping-off"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "awakening",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:dongshan-reflection",
+  "lineage": "lin:caodong",
+  "source": "src:jingde-chuandeng-lu",
+  "ref": "juan 15",
+  "kind": "vision",
+  "description": "Crossing a stream, Dongshan sees his reflection and awakens: 'it now is me; I now am not it'.",
+  "rests_on": [
+   "tea:jingde-chuandeng-lu:321c21"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "kenshō",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
    ],
    "phases": [
     "skeleton"
@@ -5011,6 +5607,36 @@
   }
  },
  {
+  "id": "phn:empty-form",
+  "lineage": "lin:kalacakra",
+  "source": "src:sekoddesa",
+  "ref": "27-28",
+  "kind": "vision",
+  "description": "The image seen in the empty, not imagined, like a dream; the mind has neither existence nor non-existence in it.",
+  "rests_on": [
+   "tea:sekoddesa:24-27",
+   "tea:sekoddesa:28"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:end-of-suffering-alone-secure",
   "lineage": "lin:pasupata",
   "source": "src:pasupata-sutra",
@@ -5124,6 +5750,36 @@
   }
  },
  {
+  "id": "phn:experience-mistaken-for-realization",
+  "lineage": "lin:mahasiddha",
+  "source": "src:dohakosa-king-saraha",
+  "ref": "v25-27",
+  "kind": "difficulty",
+  "description": "Dream-bliss, the joys and 'experiences' taken for the ultimate — brass mistaken for gold.",
+  "rests_on": [
+   "tea:dohakosa-king-saraha:v25-26",
+   "tea:dohakosa-king-saraha:v27"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:faults-of-concentration",
   "lineage": "lin:yogacara-madhyamaka",
   "source": "src:bhavanakrama",
@@ -5206,6 +5862,159 @@
   }
  },
  {
+  "id": "phn:four-joys",
+  "lineage": "lin:vajrayana",
+  "source": "src:sekoddesa",
+  "ref": "80-82",
+  "kind": "state",
+  "description": "Joy, supreme joy, joy of cessation and innate joy as the drop moves through the centres; the innate is unchanging (summary; restricted domain).",
+  "rests_on": [
+   "tea:sekoddesa:80-82",
+   "tea:dohakosa-tilopa:3",
+   "tea:dohakosa-saraha:v116"
+  ],
+  "restricted": true,
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:four-visions-1",
+  "lineage": "lin:dzogchen",
+  "kind": "vision",
+  "description": "First vision, direct perception of dharmatā (chos nyid mngon sum): lights, spheres (thig le) and fine luminous chains appear to the practitioner of direct crossing — the ground's display seen directly. (Restricted practice: description of the sign only.)",
+  "source": "src:yeshe-lama",
+  "ref": "togal",
+  "stage": "vision 1",
+  "rests_on": [
+   "tea:yeshe-lama:togal"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:four-visions-2",
+  "lineage": "lin:dzogchen",
+  "kind": "vision",
+  "description": "Second vision, increase of experience (nyams gong 'phel): the lights and spheres grow and spread, forms of deities begin to appear in them.",
+  "source": "src:yeshe-lama",
+  "ref": "togal",
+  "stage": "vision 2",
+  "rests_on": [
+   "tea:yeshe-lama:togal"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:four-visions-3",
+  "lineage": "lin:dzogchen",
+  "kind": "vision",
+  "description": "Third vision, awareness reaching full measure (rig pa tshad phebs): the complete maṇḍalas of the peaceful and wrathful deities and pure lands appear; ordinary perception of the body and world subsides.",
+  "source": "src:yeshe-lama",
+  "ref": "togal",
+  "stage": "vision 3",
+  "rests_on": [
+   "tea:yeshe-lama:togal"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:four-visions-4",
+  "lineage": "lin:dzogchen",
+  "kind": "state",
+  "description": "Fourth vision, exhaustion of phenomena in dharmatā (chos nyid zad pa): the visions, the grasping body and the conceptual mind are exhausted into the ground; at death the rainbow body may result.",
+  "source": "src:yeshe-lama",
+  "ref": "togal",
+  "stage": "vision 4",
+  "rests_on": [
+   "tea:yeshe-lama:togal",
+   "tea:tegchok-dzod:trekcho-togal"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:gajasukumala-coals",
   "lineage": "lin:jainism",
   "source": "src:antakrddasa",
@@ -5253,6 +6062,36 @@
   "provenance": {
    "units": [
     "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ganga-longevity-signs",
+  "lineage": "lin:mahasiddha",
+  "source": "src:ganga-mahamudra",
+  "ref": "v28",
+  "kind": "bodily",
+  "description": "Long life without white hair, growing like the moon, radiance, a lion's strength; swift common attainments (restricted context).",
+  "rests_on": [
+   "tea:ganga-mahamudra:v28"
+  ],
+  "restricted": true,
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
     "skeleton"
@@ -6025,6 +6864,35 @@
   }
  },
  {
+  "id": "phn:ground-luminosity-at-death",
+  "lineage": "lin:nyingma",
+  "kind": "light",
+  "description": "The ground luminosity dawns at the moment of death like a clear, empty sky; recognized, it is the dharmakāya; unrecognized, consciousness faints and wakes into the bardo of dharmatā.",
+  "source": "src:bardo-thodol",
+  "ref": "chikhai",
+  "rests_on": [
+   "tea:bardo-thodol:chikhai"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:gs-amrta-body",
   "lineage": "lin:natha",
   "kind": "bodily",
@@ -6170,6 +7038,66 @@
   }
  },
  {
+  "id": "phn:gst-five-signs",
+  "lineage": "lin:vajrayana",
+  "source": "src:guhyasamaja-tantra",
+  "ref": "18.146-149",
+  "kind": "sign",
+  "description": "When mind enters the vajra of cessation, five signs arise in order: mirage, smoke, fireflies, a blazing lamp, and constant light like a cloudless sky.",
+  "rests_on": [
+   "tea:guhyasamaja-tantra:18.146-149"
+  ],
+  "stage": "dhāraṇā (six-limbed yoga)",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gst-sadanga-fruits",
+  "lineage": "lin:vajrayana",
+  "source": "src:guhyasamaja-tantra",
+  "ref": "18.152-155",
+  "kind": "power",
+  "description": "Fruits of the limbs: blessing by all mantras, the five superknowledges, blessing by the bodhisattvas, entry of Vajrasattva, a halo of light, freedom from obscurations.",
+  "rests_on": [
+   "tea:guhyasamaja-tantra:18.152-155"
+  ],
+  "stage": "six-limbed yoga",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:guna-signs",
   "lineage": "lin:epic-teaching",
   "source": "src:bhagavad-gita",
@@ -6188,6 +7116,96 @@
   "provenance": {
    "units": [
     "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hakuin-ice-and-bell",
+  "lineage": "lin:rinzai",
+  "source": "src:itsumadegusa",
+  "ref": "bell",
+  "kind": "sound",
+  "description": "Hakuin's great doubt felt like being frozen in a sheet of ice; it shattered at the distant sound of a temple bell.",
+  "rests_on": [
+   "tea:itsumadegusa:bell"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "kenshō",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hakuin-soft-butter-sensation",
+  "lineage": "lin:rinzai",
+  "source": "src:yasenkanna",
+  "ref": "soft-butter",
+  "kind": "bodily",
+  "description": "In the soft-butter method one feels the butter melting down through the body and the body soaked as in warm medicinal water.",
+  "rests_on": [
+   "tea:yasenkanna:soft-butter"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "healing practice",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hakuin-zen-sickness-symptoms",
+  "lineage": "lin:rinzai",
+  "source": "src:yasenkanna",
+  "ref": "zen-sickness",
+  "kind": "bodily",
+  "description": "Symptoms of Zen sickness: burning heat in the head and chest, ice-cold legs, ringing ears, timidity and fear, fatigue, night sweats and tears.",
+  "rests_on": [
+   "tea:yasenkanna:zen-sickness"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "difficulty in intensive practice",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
    ],
    "phases": [
     "skeleton"
@@ -6361,6 +7379,35 @@
   }
  },
  {
+  "id": "phn:headless-sisters",
+  "lineage": "lin:mahasiddha",
+  "source": "src:caturasiti-siddha-pravrtti",
+  "ref": "66",
+  "kind": "power",
+  "description": "Mekhalā and Kanakhalā cut off and offer their heads and are restored (the lives, from memory).",
+  "rests_on": [
+   "tea:caturasiti-siddha-pravrtti:66"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:heart-lotus-moods",
   "lineage": "lin:upanisadic",
   "source": "src:dhyanabindu-upanisad",
@@ -6384,6 +7431,36 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hell-fires-become-cool-wind",
+  "lineage": "lin:pure-land",
+  "source": "src:amitayurdhyana-sutra",
+  "ref": "T365 346a01-08",
+  "stage": "death",
+  "kind": "sign",
+  "description": "For the precept-breaker of the lower-middle grade the fires of hell appear at death; on hearing of Amitābha's virtues they turn into a cool wind bearing flowers with transformation buddhas who welcome him.",
+  "rests_on": [
+   "tea:amitayurdhyana-sutra:16"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -6446,6 +7523,209 @@
   "provenance": {
    "units": [
     "skeleton:U35-jain-philosophy"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:honen-meets-shandao-dream",
+  "lineage": "lin:jodo-shu",
+  "source": "src:honen-shonin-gyojo-ezu",
+  "ref": "(scroll number unverified)",
+  "kind": "vision",
+  "description": "Hōnen dreamt of meeting Shandao, whose lower body was golden, who approved his spreading of the exclusive nenbutsu (the 'meeting of the two patriarchs').",
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:honen-samadhi-visions",
+  "lineage": "lin:jodo-shu",
+  "source": "src:sanmai-hottokki",
+  "ref": "whole",
+  "stage": "samādhi",
+  "kind": "vision",
+  "description": "Hōnen's samādhi record tells of visions in nenbutsu samādhi (1198–1206) of the Pure Land's ground, jewel trees, ponds and the Buddha's form, attained without contemplative effort through recitation.",
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:huangbo-deathbed-visions",
+  "lineage": "lin:hongzhou",
+  "source": "src:chuanxin-fayao",
+  "ref": "381c05",
+  "kind": "vision",
+  "description": "At death, visions of welcoming buddhas or terrifying signs may appear; one should neither follow nor fear them.",
+  "rests_on": [
+   "tea:chuanxin-fayao:381c05"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "dying",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:huiming-sweat-tears",
+  "lineage": "lin:chan",
+  "source": "src:wumenguan",
+  "ref": "23",
+  "kind": "bodily",
+  "description": "Awakening at 'your original face', Huiming's whole body ran with sweat and he wept as he bowed.",
+  "rests_on": [
+   "tea:wumenguan:23"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "kenshō",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:huineng-death-signs",
+  "lineage": "lin:chan",
+  "source": "src:platform-sutra",
+  "ref": "13.17",
+  "kind": "light",
+  "description": "At Huineng's death a strange fragrance filled the room, a white rainbow touched the earth, trees turned white; later a white light rose from the stūpa for three days.",
+  "rests_on": [
+   "tea:platform-sutra:13.17"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "death of a realized master",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:huineng-diamond-sutra-awakening",
+  "lineage": "lin:chan",
+  "source": "src:platform-sutra",
+  "ref": "4.13",
+  "kind": "state",
+  "description": "On hearing 'produce a mind that abides nowhere', Huineng awakens that no dharma is apart from the self-nature and exclaims its five qualities.",
+  "rests_on": [
+   "tea:platform-sutra:4.13"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "kenshō",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:huiyuan-visions",
+  "lineage": "lin:pure-land",
+  "source": "src:fozu-tongji",
+  "ref": "T2035 262c16-26",
+  "stage": "death",
+  "kind": "vision",
+  "description": "Over thirty years Huiyuan saw the holy forms three times without speaking of it; at the end, rising from samādhi, he saw Amitābha filling space with transformation buddhas in his halo and the two bodhisattvas, and streams of light proclaiming suffering, emptiness, impermanence and no-self; told he would be born in seven days, he also saw deceased companions.",
+  "rests_on": [
+   "tea:fozu-tongji:262c16-26"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -7047,6 +8327,35 @@
   }
  },
  {
+  "id": "phn:ippen-kumano-oracle",
+  "lineage": "lin:ji-shu",
+  "source": "src:ippen-hijiri-e",
+  "ref": "scroll 3",
+  "kind": "vision",
+  "description": "At Kumano Hongū (1274) the deity appeared to Ippen and told him birth was settled for all as Namu Amida Butsu and to give the talismans to all.",
+  "rests_on": [
+   "tea:ippen-hijiri-e:3.kumano"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:jaigisavya-movement",
   "lineage": "lin:epic-teaching",
   "source": "src:salyaparvan",
@@ -7216,6 +8525,36 @@
   "provenance": {
    "units": [
     "skeleton:U36-pali-suttas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:jinul-hearing-nature",
+  "lineage": "lin:seon",
+  "source": "src:susim-kyol",
+  "ref": "1007a21",
+  "kind": "sound",
+  "description": "Listening back to the hearing-nature on hearing crows and magpies, all sounds and discriminations become unobtainable, yet it is not empty space but 'bright and unobscured'.",
+  "rests_on": [
+   "tea:susim-kyol:1007a21"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "entry into principle",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
    ],
    "phases": [
     "skeleton"
@@ -7419,6 +8758,36 @@
   "provenance": {
    "units": [
     "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kalacakra-ten-signs",
+  "lineage": "lin:kalacakra",
+  "source": "src:sekoddesa",
+  "ref": "24-27",
+  "kind": "vision",
+  "description": "Smoke, mirage, fireflies, lamp, flame, moon, sun, darkness, the digit and the great drop, then the universal image — clear light — seen with eyes closed or open, like a dream.",
+  "rests_on": [
+   "tea:sekoddesa:24-27"
+  ],
+  "stage": "six-branch yoga",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
     "skeleton"
@@ -8468,6 +9837,35 @@
   }
  },
  {
+  "id": "phn:lack-of-dancing-joy",
+  "lineage": "lin:jodo-shinshu",
+  "source": "src:tannisho",
+  "ref": "9",
+  "kind": "difficulty",
+  "description": "Saying the nenbutsu without the dancing joy one expects and without wishing to go quickly to the Pure Land — shared by Shinran and taken as the working of blind passions, for which the vow was made.",
+  "rests_on": [
+   "tea:tannisho:9"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:lalla-lamp-of-knowledge",
   "lineage": "lin:kashmir-saivism",
   "source": "src:lalla-vakyani",
@@ -8650,6 +10048,66 @@
   "provenance": {
    "units": [
     "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:lingyun-peach-blossoms",
+  "lineage": "lin:guiyang",
+  "source": "src:jingde-chuandeng-lu",
+  "ref": "juan 11",
+  "kind": "vision",
+  "description": "Seeing peach blossoms after thirty years of seeking, Lingyun has no more doubt.",
+  "rests_on": [
+   "tea:jingde-chuandeng-lu:285a25"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "kenshō",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:linji-awakening-dayu",
+  "lineage": "lin:linji",
+  "source": "src:linji-lu",
+  "ref": "504c16",
+  "kind": "state",
+  "description": "Linji awakens at Dayu's words about Huangbo's 'grandmotherly' kindness and exclaims there isn't much to Huangbo's Dharma.",
+  "rests_on": [
+   "tea:linji-lu:504c16"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "kenshō",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
    ],
    "phases": [
     "skeleton"
@@ -9075,6 +10533,36 @@
   }
  },
  {
+  "id": "phn:makyo-visions",
+  "lineage": "lin:soto",
+  "source": "src:zazen-yojinki",
+  "ref": "faults",
+  "kind": "vision",
+  "description": "Lights, visions of buddhas, sounds and strange sensations in zazen are described as deviant states to be let go.",
+  "rests_on": [
+   "tea:zazen-yojinki:faults"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "difficulty",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:manas-siddhis-blow-out-lamp",
   "lineage": "lin:ramanandi",
   "source": "src:ramcaritmanas",
@@ -9280,6 +10768,36 @@
   "provenance": {
    "units": [
     "skeleton:U31-sound-arts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:mao-ziyuan-crow",
+  "lineage": "lin:bailian-zong",
+  "source": "src:lushan-lianzong-baojian",
+  "ref": "T1973 326a15-18",
+  "stage": "awakening",
+  "kind": "state",
+  "description": "In meditative absorption Mao Ziyuan awakened on hearing a crow's call: 'twenty years searching on paper ... suddenly hearing the crow I knew I had used my mind wrongly'.",
+  "rests_on": [
+   "tea:lushan-lianzong-baojian:326a12"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -10591,6 +12109,36 @@
   }
  },
  {
+  "id": "phn:nianfo-samadhi-vision",
+  "lineage": "lin:pure-land",
+  "source": "src:shi-jingtu-qunyi-lun",
+  "ref": "T1960 76b29-c05",
+  "stage": "samādhi",
+  "kind": "vision",
+  "description": "With continuous voiced recitation samādhi is attained and the Buddha and holy assembly are seen clearly before one's eyes (Huaigan); 'great recitation sees a great buddha, small recitation a small buddha'.",
+  "rests_on": [
+   "tea:shi-jingtu-qunyi-lun:76c02"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:nimbarka-sun-on-neem",
   "lineage": "lin:dvaitadvaita",
   "kind": "power",
@@ -10693,6 +12241,35 @@
   "provenance": {
    "units": [
     "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:nyams-bliss-clarity-nonthought",
+  "lineage": "lin:nyingma",
+  "kind": "state",
+  "description": "The three meditative experiences — bliss (bde ba), clarity (gsal ba) and non-thought (mi rtog pa) — arise as practice deepens; they are signs, not the goal, and grasped they lead into the desire, form and formless realms.",
+  "source": "src:samten-ngalso",
+  "ref": "ch.3",
+  "rests_on": [
+   "tea:samten-ngalso:ch3"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
    ],
    "phases": [
     "skeleton"
@@ -10871,6 +12448,67 @@
   "provenance": {
    "units": [
     "skeleton:U37-abhidhamma-visuddhimagga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:pancakrama-four-empties",
+  "lineage": "lin:arya-guhyasamaja",
+  "source": "src:pancakrama",
+  "ref": "2.4-5",
+  "kind": "state",
+  "description": "The empty, very empty, great empty and all-empty (clear light) arise in the completion stage.",
+  "rests_on": [
+   "tea:pancakrama:2.4",
+   "tea:pancakrama:2.5"
+  ],
+  "stage": "mind isolation",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:pancakrama-natural-conceptions",
+  "lineage": "lin:arya-guhyasamaja",
+  "source": "src:pancakrama",
+  "ref": "2.7-27",
+  "kind": "state",
+  "description": "The eighty natural conceptions that accompany the three appearances — 'night', 'day' and ignorance — move by the winds day and night.",
+  "rests_on": [
+   "tea:pancakrama:2.7-12",
+   "tea:pancakrama:2.20-27"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
     "skeleton"
@@ -11243,6 +12881,35 @@
   }
  },
  {
+  "id": "phn:phowa-signs",
+  "lineage": "lin:nyingma",
+  "kind": "bodily",
+  "description": "Signs of success in the training of transference: swelling, tenderness or a small opening at the crown, lymph or blood appearing there, into which a blade of kuśa grass can be inserted. (Restricted practice: sign only.)",
+  "source": "src:kunzang-lamai-shelung",
+  "ref": "3",
+  "rests_on": [
+   "tea:kunzang-lamai-shelung:3"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:place-of-death-of-mind",
   "lineage": "lin:sarvastivada",
   "source": "src:abhidharmakosa",
@@ -11577,6 +13244,35 @@
   }
  },
  {
+  "id": "phn:purification-dream-signs",
+  "lineage": "lin:nyingma",
+  "kind": "sign",
+  "description": "Signs of purification in Vajrasattva practice: dreams of bathing, of vomiting bad food, of discharging pus and blood, of wearing white clothes, of flying or of the sun and moon rising.",
+  "source": "src:kunzang-lamai-shelung",
+  "ref": "2.3",
+  "rests_on": [
+   "tea:kunzang-lamai-shelung:2.3"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:pv-vivid-appearance-of-cultivated-object",
   "lineage": "lin:pramana-buddhist",
   "source": "src:pramanavarttika",
@@ -11682,6 +13378,35 @@
   "provenance": {
    "units": [
     "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:rainbow-body-signs",
+  "lineage": "lin:dzogchen",
+  "kind": "bodily",
+  "description": "At the death of one who attains the rainbow body the corpse shrinks over days, rainbows and lights appear, and at the end only hair and nails remain (or nothing, for the great transference).",
+  "source": "src:kudung-barwa",
+  "ref": "relics",
+  "rests_on": [
+   "tea:kudung-barwa:relics"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
    ],
    "phases": [
     "skeleton"
@@ -11907,6 +13632,34 @@
   "provenance": {
    "units": [
     "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:relics-at-death",
+  "lineage": "lin:dzogchen",
+  "kind": "sign",
+  "description": "Relics (sku gdung, ring bsrel) of various colours and kinds found in the cremation of accomplished practitioners, with lights and sounds, as signs of their realization (Blazing Relics tantra).",
+  "source": "src:kudung-barwa",
+  "rests_on": [
+   "tea:kudung-barwa:relics"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
    ],
    "phases": [
     "skeleton"
@@ -12418,6 +14171,35 @@
   "provenance": {
    "units": [
     "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ryonin-revelation",
+  "lineage": "lin:yuzu-nenbutsu-shu",
+  "source": "src:yuzu-nenbutsu-engi",
+  "ref": "opening",
+  "kind": "vision",
+  "description": "In 1117, in samādhi, Amida appeared to Ryōnin and revealed the verse of the interfusing nenbutsu.",
+  "rests_on": [
+   "tea:yuzu-nenbutsu-engi:revelation"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
    ],
    "phases": [
     "skeleton"
@@ -12981,6 +14763,35 @@
   }
  },
  {
+  "id": "phn:saraha-seeing-ceases",
+  "lineage": "lin:mahasiddha",
+  "source": "src:dohakosa-saraha",
+  "ref": "v35-36",
+  "kind": "state",
+  "description": "Looking and looking at the sky-like nature, seeing ceases.",
+  "rests_on": [
+   "tea:dohakosa-saraha:v35-36"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:sarvananda-ten-mahavidyas",
   "lineage": "lin:bengal-assam-sakta",
   "kind": "vision",
@@ -13135,6 +14946,90 @@
   }
  },
  {
+  "id": "phn:shandao-light-from-mouth",
+  "lineage": "lin:pure-land",
+  "source": "src:fozu-tongji",
+  "ref": "T2035 263b09-11",
+  "kind": "light",
+  "description": "When Shandao recited, a ray of light issued from his mouth at each recitation, ten or a hundred for ten or a hundred recitations (the tradition's account).",
+  "rests_on": [
+   "tea:fozu-tongji:263a22-b18"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:shine-five-experiences",
+  "lineage": "lin:nyingma",
+  "kind": "state",
+  "description": "The five experiences of calm abiding: movement (like a waterfall off a cliff), attainment (like a river in a gorge), familiarity (like a gently flowing river), stability (like an ocean without waves) and perfection (like a mountain / steady flame).",
+  "notes": "Similes vary between texts; given from memory.",
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:shinran-rokkakudo-dream",
+  "lineage": "lin:jodo-shinshu",
+  "source": "src:eshinni-shosoku",
+  "ref": "letter",
+  "kind": "vision",
+  "description": "At dawn on the ninety-fifth day of his retreat at the Rokkakudō (1201) Prince Shōtoku / Kannon appeared to Shinran in a dream with a verse, after which he went to Hōnen.",
+  "rests_on": [
+   "tea:eshinni-shosoku:rokkakudo",
+   "tea:godensho:rokkakudo-verse"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:showering-rapture",
   "lineage": "lin:theravada",
   "source": "src:visuddhimagga",
@@ -13188,6 +15083,36 @@
   "provenance": {
    "units": [
     "skeleton:U35-jain-philosophy"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:siddha-flight",
+  "lineage": "lin:mahasiddha",
+  "source": "src:caturasiti-siddha-pravrtti",
+  "ref": "41",
+  "kind": "power",
+  "description": "Bhusuku and Maṇibhadrā rise into the air (the lives, from memory).",
+  "rests_on": [
+   "tea:caturasiti-siddha-pravrtti:41",
+   "tea:caturasiti-siddha-pravrtti:65"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
     "skeleton"
@@ -13667,7 +15592,7 @@
     "old": "10.5.2.20",
     "new": "10.5.2.19-20",
     "reason": "The two halves of the description are in adjacent kaṇḍikās. The breaths going into the self in sleep is ŚB 10.5.2.19: 'sa yadā svapity athainam ete prāṇāḥ svā apiyanti tasmāt svāpyayaḥ … taṃ svapna ity ācakṣate'. Knowing nothing by mind, speech, smell, sight or hearing is 10.5.2.20: 'sa etaiḥ suptaḥ na kasya cana veda na manasā saṅkalpayati …'. Correction: ref 10.5.2.19-20, the same range fix as for tea:satapatha-brahmana:10.5.2.20.",
-    "date": "2026-09-29 17:10 IST",
+    "date": "2026-09-29 17:34 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -14934,6 +16859,31 @@
   }
  },
  {
+  "id": "phn:terma-revelation",
+  "lineage": "lin:nyingma",
+  "kind": "vision",
+  "description": "Treasure revealers describe visions, prophetic signs and symbolic scrolls in ḍākinī script whose few letters unfold into a whole teaching in their mind.",
+  "source": "src:terton-gyatsa",
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:terror-danger-dispassion",
   "lineage": "lin:theravada",
   "source": "src:visuddhimagga",
@@ -15020,6 +16970,35 @@
   }
  },
  {
+  "id": "phn:thoughts-dissolve-like-clouds",
+  "lineage": "lin:mahasiddha",
+  "source": "src:ganga-mahamudra",
+  "ref": "v10",
+  "kind": "state",
+  "description": "Thoughts arising from mind dissolve like clouds in space when one's own mind is seen.",
+  "rests_on": [
+   "tea:ganga-mahamudra:v10"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:three-knowledges-night",
   "lineage": "lin:early-buddhism",
   "source": "src:bhayabherava-sutta",
@@ -15044,6 +17023,91 @@
   "provenance": {
    "units": [
     "skeleton:U36-pali-suttas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:thukdam-signs",
+  "lineage": "lin:nyingma",
+  "kind": "bodily",
+  "description": "In thugs dam, after the breath stops, the body stays upright or lifelike, the heart area remains warm and the complexion does not change for days; the end of the absorption is marked by the head dropping or fluid from the nostrils.",
+  "source": "src:bardo-thodol",
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:tilopa-clear-light-appearances",
+  "lineage": "lin:mahasiddha",
+  "source": "src:saddharmopadesa-tilopa",
+  "ref": "4",
+  "kind": "light",
+  "description": "When mind is steady in the heart drop: lights, rays, rainbows, dawn, sunlight and moonlight, sun and moon rising, deities and bodies; fields become pure.",
+  "rests_on": [
+   "tea:saddharmopadesa-tilopa:4"
+  ],
+  "stage": "clear-light yoga",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:tilopa-dying-process",
+  "lineage": "lin:mahasiddha",
+  "source": "src:saddharmopadesa-tilopa",
+  "ref": "5",
+  "kind": "state",
+  "description": "At death the senses and elements withdraw, the moon, sun and winds gather at the heart and samādhis arise; consciousness going out perceives as in a dream; death and rebirth appearances in periods of seven days.",
+  "rests_on": [
+   "tea:saddharmopadesa-tilopa:5"
+  ],
+  "stage": "death",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
     "skeleton"
@@ -15647,6 +17711,36 @@
   }
  },
  {
+  "id": "phn:vaidehi-sees-the-land",
+  "lineage": "lin:pure-land",
+  "source": "src:amitayurdhyana-sutra",
+  "ref": "T365 346a27-b01",
+  "stage": "realization",
+  "kind": "vision",
+  "description": "Hearing the sixteenth contemplation, Vaidehī and her attendants see the vast Land of Bliss, the Buddha and the two bodhisattvas, and she gains the acceptance of non-arising.",
+  "rests_on": [
+   "tea:amitayurdhyana-sutra:closing/2"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:vaisesika-arsa-jnana",
   "lineage": "lin:vaisesika",
   "source": "src:vaisesika-sutra",
@@ -16236,6 +18330,65 @@
   }
  },
  {
+  "id": "phn:virupa-vision-of-nairatmya",
+  "lineage": "lin:mahasiddha",
+  "source": "src:caturasiti-siddha-pravrtti",
+  "ref": "3",
+  "kind": "vision",
+  "description": "After twelve years without a sign, Virūpa receives in a vision the consecration of the goddess Nairātmyā (the lives, from memory).",
+  "rests_on": [
+   "tea:caturasiti-siddha-pravrtti:3"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B5",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:visions-not-to-be-told",
+  "lineage": "lin:pure-land",
+  "source": "src:guannian-famen",
+  "ref": "T1959 24b15-16",
+  "stage": "samādhi",
+  "kind": "difficulty",
+  "description": "Visions arising in the recitation retreat are not to be told lightly; good ones are known to oneself, bad ones repented.",
+  "rests_on": [
+   "tea:guannian-famen:24a26-b20"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:vism-counterpart-sign-breath",
   "lineage": "lin:theravada",
   "source": "src:visuddhimagga",
@@ -16425,20 +18578,62 @@
   "rests_on": [
    "tea:bhagavad-gita:11.9-14",
    "tea:bhagavad-gita:11.15-31",
-   "tea:bhagavad-gita:11.36-46"
+   "tea:bhagavad-gita:11.36-46",
+   "tea:bhagavad-gita:11.9",
+   "tea:bhagavad-gita:11.10",
+   "tea:bhagavad-gita:11.13",
+   "tea:bhagavad-gita:11.15",
+   "tea:bhagavad-gita:11.16",
+   "tea:bhagavad-gita:11.17",
+   "tea:bhagavad-gita:11.19",
+   "tea:bhagavad-gita:11.26",
+   "tea:bhagavad-gita:11.30",
+   "tea:bhagavad-gita:11.7",
+   "tea:bhagavad-gita:11.11",
+   "tea:bhagavad-gita:11.20",
+   "tea:bhagavad-gita:11.24"
   ],
   "verification": {
    "level": "skeleton",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:11.9",
+      "tea:bhagavad-gita:11.10",
+      "tea:bhagavad-gita:11.13",
+      "tea:bhagavad-gita:11.15",
+      "tea:bhagavad-gita:11.16",
+      "tea:bhagavad-gita:11.17",
+      "tea:bhagavad-gita:11.19",
+      "tea:bhagavad-gita:11.26",
+      "tea:bhagavad-gita:11.30",
+      "tea:bhagavad-gita:11.7",
+      "tea:bhagavad-gita:11.11",
+      "tea:bhagavad-gita:11.20",
+      "tea:bhagavad-gita:11.24"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
   },
   "stage": "granted by grace (11.47)",
+  "alt_description": [
+   "Given a divine eye, Arjuna sees the Lord's sovereign form: many mouths and eyes, divine ornaments, garlands and raised weapons, facing every way (11.10–11); the whole world, divided in many ways, standing as one in the body of the god of gods (11.13); the gods, all kinds of beings, Brahmā on the lotus, the seers and divine serpents within it (11.15); no end, middle or beginning (11.16); crowned, with mace and discus, a mass of splendour hard to look at (11.17); sun and moon as eyes, mouth a blazing fire (11.19); the gods entering it and praising it (11.21–22); the warriors of both armies rushing into its tusked mouths and crushed between its teeth (11.26–30)."
+  ],
   "provenance": {
    "units": [
-    "skeleton:U05-gita-epic"
+    "skeleton:U05-gita-epic",
+    "extraction:bhagavad-gita/ch10-12"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -16467,6 +18662,66 @@
   "provenance": {
    "units": [
     "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:wumen-doubt-mass",
+  "lineage": "lin:yangqi",
+  "source": "src:wumenguan",
+  "ref": "1",
+  "kind": "difficulty",
+  "description": "The doubt-mass on 'wu' is like having swallowed a red-hot iron ball one can neither spit out nor swallow; inside and outside become one piece; like a mute who dreams, one knows it alone; then it bursts open, 'shaking heaven and earth'.",
+  "rests_on": [
+   "tea:wumenguan:1"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "great doubt → breakthrough",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:xiangyan-pebble-bamboo",
+  "lineage": "lin:guiyang",
+  "source": "src:jingde-chuandeng-lu",
+  "ref": "juan 11",
+  "kind": "sound",
+  "description": "The sound of a swept pebble striking bamboo occasions Xiangyan's awakening: 'one strike and I forgot all I knew'.",
+  "rests_on": [
+   "tea:jingde-chuandeng-lu:284a14"
+  ],
+  "coverage": [
+   "B4",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "kenshō",
+  "provenance": {
+   "units": [
+    "skeleton:U42-chan-zen"
    ],
    "phases": [
     "skeleton"

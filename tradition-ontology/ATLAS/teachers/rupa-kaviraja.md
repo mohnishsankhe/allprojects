@@ -9,4 +9,4 @@
 Gauḍīya teacher who taught that in rāgānugā practice the rules of vaidhī bhakti may be abandoned; condemned by Viśvanātha Cakravartin, and remembered in Gauḍīya accounts as a deviant close to Sahajiyā views.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._

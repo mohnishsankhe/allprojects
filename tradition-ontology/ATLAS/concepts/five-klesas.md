@@ -14,4 +14,4 @@
 - causes → [The store of karma (karmāśaya)](karmasaya.md) — rests on [2.12](../texts/yoga-sutra.md#tea-yoga-sutra-2-12)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._

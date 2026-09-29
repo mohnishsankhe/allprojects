@@ -12,4 +12,4 @@ Reflecting on the body as a compound of bones, flesh, blood and impurities to lo
   - [Maitreya Upaniṣad](../texts/maitreya-upanisad.md) — ref: 2.3-9; rests_on: ["tea:maitreya-upanisad:2.3-9"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

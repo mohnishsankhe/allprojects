@@ -15,4 +15,4 @@ By dissolving the mind in the dvādaśānta of one's own body on all sides, for 
 _Notes: Verses 50 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._

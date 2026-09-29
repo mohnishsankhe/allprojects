@@ -11,4 +11,4 @@ Honouring and serving the Lord's devotees regardless of their birth, which the t
   - [Śrīvacanabhūṣaṇam](../texts/srivacana-bhusanam.md) — ref: 3; rests_on: ["tea:srivacana-bhusanam:3"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._

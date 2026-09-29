@@ -14,4 +14,4 @@ Taking things born of causes and conditions as existing by their own nature; the
   - [Mūlamadhyamakakārikā](../texts/mulamadhyamakakarika.md) — ref: 24.16; rests_on: ["tea:mulamadhyamakakarika:24.16"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

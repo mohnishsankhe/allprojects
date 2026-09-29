@@ -14,4 +14,4 @@ Son of Uddālaka Āruṇi; returns proud after twelve years of Vedic study and i
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/kausitaki-upanisad-sharada — Located: ChU 6.1.2 (goes to study at twelve and returns at twenty-four, 'mahāmanā anūcānamānī stabdhaḥ'); ChU 5.3.1 and BĀU 6.2.1 (the Pañcāla assembly); KauU 1.1 (sent to Citra).
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

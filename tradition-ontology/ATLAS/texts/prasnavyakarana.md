@@ -44,4 +44,4 @@ terms: [ahiṃsā](../terms/ahimsa.md), [saṃvara](../terms/samvara.md) · conc
 _Notes: Why the content changed is not recorded with certainty; later tradition says the original was withdrawn because its magical content could be misused (low confidence)._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

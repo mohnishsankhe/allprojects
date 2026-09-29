@@ -25,4 +25,4 @@ terms: [kiriyavāda](../terms/kiriyavada.md), [viriya](../terms/viriya.md) · co
 _Notes: Section numbers follow SuttaCentral (bilara) segmentation; checked against the local e-text._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._

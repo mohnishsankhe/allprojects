@@ -9,4 +9,4 @@
 Thai monk (b. 1944), co-founder (1970) and long-time abbot of Wat Phra Dhammakaya.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._

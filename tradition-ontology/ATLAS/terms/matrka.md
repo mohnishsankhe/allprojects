@@ -20,4 +20,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U31-sound-arts, skeleton:U23-sakta-srividya, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U31-sound-arts, skeleton:U23-sakta-srividya, skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

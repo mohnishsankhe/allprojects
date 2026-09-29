@@ -24,14 +24,14 @@ A short statement of Heze teaching: no-thought is the tenet and non-action the r
 ### 458c26 <a id="tea-xianzong-ji-458c26"></a>
 `skeleton` · confidence moderate
 
-No-thought is the tenet, non-action the root; true emptiness is the substance, wondrous existence the function; the true suchness is without thought and cannot be known by thinking; samādhi is not samādhi and wisdom not wisdom — they are one.
+No-thought is the tenet, non-action the root; true emptiness is the substance, wondrous existence the function; true suchness is without thought and is not known by thinking; so samādhi is no-samādhi, wisdom no-wisdom, practice no-practice; the nature is equal to space and the substance the same as the dharma-realm.
 
 > 無念為宗無作為本。真空為體妙有為用
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, practice_
 
-terms: [wunian (no-thought)](../terms/wunian.md) · concepts: `cpt:no-thought-no-form-non-abiding` · teachers: [Heze Shenhui 荷澤神會](../teachers/shenhui.md)
+terms: [wunian (no-thought)](../terms/wunian.md) · concepts: [No-thought as tenet, no-form as substance, non-abiding as root](../concepts/no-thought-no-form-non-abiding.md) · teachers: [Heze Shenhui 荷澤神會](../teachers/shenhui.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -23,8 +23,8 @@ The cook should work with three minds: a joyful mind, a nurturing (parental) min
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: practice, ethics_
 
-practices: `prc:samu` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+practices: [Samu / puqing (communal work)](../practices/samu.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

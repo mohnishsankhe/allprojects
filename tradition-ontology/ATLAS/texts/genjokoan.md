@@ -24,7 +24,7 @@ Mayu Baoche was fanning himself; a monk asked why, since the nature of wind is p
 
 _level: bridging · standpoint: absolute · path: meditation, action · stage: all · types: practice_
 
-concepts: `cpt:practice-and-realization` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+concepts: [Practice and realization](../concepts/practice-and-realization.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 ### firewood-and-ash <a id="tea-genjokoan-firewood-and-ash"></a>
 `skeleton` · confidence high
@@ -33,7 +33,7 @@ Firewood becomes ash and cannot become firewood again; yet do not view ash as af
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, death-dying, world-fate_
 
-concepts: `cpt:being-time` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+concepts: [Being-time (uji)](../concepts/being-time.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 ### moon-in-water <a id="tea-genjokoan-moon-in-water"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ Attaining awakening is like the moon reflected in water: the moon does not get w
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: advanced · types: ultimate, powers-experiences_
 
-concepts: `cpt:kensho-seeing-nature` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+concepts: [Seeing the nature (kenshō) and awakening (satori)](../concepts/kensho-seeing-nature.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 ### opening <a id="tea-genjokoan-opening"></a>
 `skeleton` · confidence high
@@ -51,7 +51,7 @@ When all dharmas are the buddha-dharma, there are delusion and awakening, practi
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-concepts: `cpt:genjokoan-realized-koan` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+concepts: [The realized kōan (genjōkōan)](../concepts/genjokoan-realized-koan.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 ### to-study-the-self <a id="tea-genjokoan-to-study-the-self"></a>
 `skeleton` · confidence high
@@ -60,10 +60,10 @@ To carry the self forward and verify the myriad things is delusion; that the myr
 
 _level: ultimate · standpoint: experiential · path: knowledge, meditation · stage: all · types: ultimate, practice_
 
-terms: [shinjin datsuraku (body and mind dropping off)](../terms/shinjin-datsuraku.md) · concepts: `cpt:genjokoan-realized-koan` · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
+terms: [shinjin datsuraku (body and mind dropping off)](../terms/shinjin-datsuraku.md) · concepts: [The realized kōan (genjōkōan)](../concepts/genjokoan-realized-koan.md) · teachers: [Eihei Dōgen 永平道元](../teachers/dogen.md)
 
 
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -29,7 +29,7 @@ The Lord, the Buddha, the perfect Buddha, arisen from the letter A; A, foremost 
 
 _level: ultimate · standpoint: absolute · path: sound, knowledge · stage: all · types: sound-language, ultimate_
 
-terms: `trm:a-syllable` · concepts: `cpt:syllable-a`
+terms: [akāra](../terms/a-syllable.md) · concepts: [The syllable A](../concepts/syllable-a.md)
 
 ### 30 <a id="tea-manjusrinamasamgiti-30"></a>
 `skeleton` · confidence high
@@ -40,7 +40,7 @@ Great, great, great passion bringing delight to all beings; great, great, great 
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: `trm:maharaga` · concepts: `cpt:passions-as-path`
+terms: [mahārāga](../terms/maharaga.md) · concepts: [The passions as the path](../concepts/passions-as-path.md)
 
 ### 100 <a id="tea-manjusrinamasamgiti-100"></a>
 `skeleton` · confidence high
@@ -51,8 +51,8 @@ Without beginning or end is the Buddha, the primordial buddha without lineage, w
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-terms: `trm:adibuddha` · concepts: `cpt:adibuddha`
+terms: [ādibuddha](../terms/adibuddha.md) · concepts: [The primordial buddha (ādibuddha)](../concepts/adibuddha.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

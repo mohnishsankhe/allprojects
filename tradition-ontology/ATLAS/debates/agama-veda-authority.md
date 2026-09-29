@@ -46,4 +46,4 @@ Where an Āgamic system contradicts scripture (e.g. the origination of the soul 
 _Notes: Related U50 disputes: dsp:status-of-veda. Tamil Siddhānta and Śrīkaṇṭha's positions are for U18/U16 to add._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._

@@ -18,4 +18,4 @@
 _Notes: Scholarly metadata only (not used in interpretation): cognate of Avestan haoma; the plant's botanical identity is debated by modern scholars and was replaced by substitutes in the tradition._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._

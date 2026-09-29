@@ -19,7 +19,7 @@ Tilopa's mahāmudrā instruction to Nāropa on the bank of the Gaṅgā: mahāmu
 ## Teachings (23: skeleton 23)
 
 ### colophon <a id="tea-ganga-mahamudra-colophon"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Glorious Tilopa taught this to Nāropa on the bank of the Gaṅgā.
 
@@ -28,7 +28,7 @@ _level: unmarked · standpoint: experiential · path: general · stage: unmarked
 teachers: [Tilopa](../teachers/tilopa.md), [Nāropa](../teachers/naropa.md)
 
 ### v1 <a id="tea-ganga-mahamudra-v1"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Though mahāmudrā cannot be shown, you, Nāropa, wise and fortunate, who practise austerity, revere the guru and bear suffering, take this to heart.
 
@@ -39,7 +39,7 @@ _level: ultimate · standpoint: seeker · path: devotion, knowledge · stage: ad
 terms: [mahāmudrā](../terms/mahamudra.md) · teachers: [Tilopa](../teachers/tilopa.md), [Nāropa](../teachers/naropa.md)
 
 ### v10 <a id="tea-ganga-mahamudra-v10"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As vapour rising from the earth becomes clouds that dissolve in space, going nowhere and staying nowhere, so the host of thoughts arising from mind dissolve like waves when one's own mind is seen.
 
@@ -50,7 +50,7 @@ _level: ultimate · standpoint: experiential · path: meditation · stage: advan
 teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v11 <a id="tea-ganga-mahamudra-v11"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As space is beyond colour and shape and is not stained or changed by black and white, so one's own mind is beyond colour and shape and is not stained by the black and white dharmas of virtue and evil.
 
@@ -58,10 +58,10 @@ As space is beyond colour and shape and is not stained or changed by black and w
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-concepts: `cpt:nature-of-mind-siddha` · teachers: [Tilopa](../teachers/tilopa.md)
+concepts: [The nature of mind in the siddha songs](../concepts/nature-of-mind-siddha.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v12 <a id="tea-ganga-mahamudra-v12"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As the clear essence of the sun cannot be obscured by the darkness of a thousand aeons, so the clear-light essence of one's own mind cannot be obscured by aeons of saṃsāra.
 
@@ -69,10 +69,10 @@ As the clear essence of the sun cannot be obscured by the darkness of a thousand
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-terms: `trm:prabhasvara` · teachers: [Tilopa](../teachers/tilopa.md)
+terms: [prabhāsvara](../terms/prabhasvara.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v13 <a id="tea-ganga-mahamudra-v13"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Though space is designated as empty, space itself cannot be described as 'this'; though one's own mind is called clear light, there is no basis for saying 'it is established as this'.
 
@@ -83,7 +83,7 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · ty
 teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v14-15 <a id="tea-ganga-mahamudra-v14-15"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As space rests on nothing, one's own mind, mahāmudrā, has no support or object; relax and rest in the uncontrived natural state; when the bonds are loosened, liberation is beyond doubt; the nature of mind is like space, and all dharmas are included in it.
 
@@ -91,10 +91,10 @@ As space rests on nothing, one's own mind, mahāmudrā, has no support or object
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-practices: `prc:mahamudra-resting-indian` · teachers: [Tilopa](../teachers/tilopa.md)
+practices: [Resting in mahāmudrā (the Indian siddha instruction)](../practices/mahamudra-resting-indian.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v15-17 <a id="tea-ganga-mahamudra-v15-17"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Give up bodily activity and rest naturally; do not talk much — speech is like an echo; do not think — look at the dharma beyond thought; the body has no essence, like a bamboo stalk; mind, like the centre of space, is beyond thought; relax into that without letting go or holding; when mind has no aim, that is mahāmudrā; habituated to it, one attains unsurpassed awakening.
 
@@ -102,10 +102,10 @@ Give up bodily activity and rest naturally; do not talk much — speech is like 
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-practices: `prc:mahamudra-resting-indian` · teachers: [Tilopa](../teachers/tilopa.md)
+practices: [Resting in mahāmudrā (the Indian siddha instruction)](../practices/mahamudra-resting-indian.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v17-19 <a id="tea-ganga-mahamudra-v17-19"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 With no object to focus on, mind's nature is clear; with no path to travel, one reaches the beginning of buddhahood; beyond grasped and grasper is the king of views; without distraction, the king of meditations; without effort, the king of conduct; without hope and fear the fruit becomes manifest; the ground-of-all is unborn, free of the veils of latent tendencies; make no distinction between meditation and after-meditation, rest in the unborn essence.
 
@@ -113,10 +113,10 @@ With no object to focus on, mind's nature is clear; with no path to travel, one 
 
 _level: ultimate · standpoint: absolute · path: meditation, knowledge · stage: realized · types: practice, ultimate_
 
-terms: [ālayavijñāna](../terms/alayavijnana.md) · concepts: `cpt:view-meditation-conduct-fruit` · teachers: [Tilopa](../teachers/tilopa.md)
+terms: [ālayavijñāna](../terms/alayavijnana.md) · concepts: [View, meditation, conduct and fruit](../concepts/view-meditation-conduct-fruit.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v2 <a id="tea-ganga-mahamudra-v2"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Kye ho! Look well at worldly things: they cannot last, they are like dream and illusion; dream and illusion have no reality, so generate weariness and give up worldly activity.
 
@@ -127,7 +127,7 @@ _level: conventional · standpoint: seeker · path: general · stage: beginner �
 teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v21 <a id="tea-ganga-mahamudra-v21"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 At first practice is like a torrent in a gorge, in the middle like the Gaṅgā flowing gently, at the end like a river meeting the ocean, mother and child.
 
@@ -135,10 +135,10 @@ At first practice is like a torrent in a gorge, in the middle like the Gaṅgā 
 
 _level: conventional · standpoint: experiential · path: meditation · stage: all · types: practice_
 
-concepts: `cpt:three-phases-of-practice-ganga` · teachers: [Tilopa](../teachers/tilopa.md)
+concepts: [Torrent, river, ocean](../concepts/three-phases-of-practice-ganga.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v21-22 <a id="tea-ganga-mahamudra-v21-22"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Those who speak of mantra and pāramitā, the Vinaya piṭaka and the other teachings, each with their own scriptures and tenets, do not see clear-light mahāmudrā.
 
@@ -149,7 +149,7 @@ _level: ultimate · standpoint: polemical · path: knowledge · stage: all · ty
 teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v22-23 <a id="tea-ganga-mahamudra-v22-23"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Not engaging the mind, free of all intent, self-arisen and self-pacified like waves of water; when intent arises, clear light is obscured and not seen; guarding vows with concepts, one falls from the meaning of the pledge.
 
@@ -160,7 +160,7 @@ _level: ultimate · standpoint: seeker · path: meditation · stage: advanced ·
 terms: [amanasikāra](../terms/amanasikara.md), [samaya](../terms/samaya.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v23-25 <a id="tea-ganga-mahamudra-v23-25"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Not abiding, not objectifying, not departing from the meaning — this is the holy practice, a lamp in darkness; free of intent and not abiding in extremes, one sees all the dharmas of the piṭakas; one who is intent on this meaning is freed from the prison of saṃsāra; this meaning, in equipoise, burns all evil and obscuration and is called the lamp of the teaching; fools without faith in it are always carried off by the river of saṃsāra.
 
@@ -171,7 +171,7 @@ _level: ultimate · standpoint: seeker · path: meditation · stage: all · type
 teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v26 <a id="tea-ganga-mahamudra-v26"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Pity those in the unbearable suffering of the lower realms; those who wish to be free of suffering should rely on a skilled guru; when blessing enters, one's own mind is liberated.
 
@@ -179,19 +179,19 @@ Pity those in the unbearable suffering of the lower realms; those who wish to be
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: `cpt:guru-in-vajrayana` · teachers: [Tilopa](../teachers/tilopa.md)
+concepts: [The guru in the Vajrayāna](../concepts/guru-in-vajrayana.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v26-27 <a id="tea-ganga-mahamudra-v26-27"></a>
-`skeleton` · confidence high · _restricted: summary only_
+`skeleton` · confidence high · _restricted: summary only_ · [AI-translated]
 
 The song then states that by relying on karmamudrā the gnosis of bliss and emptiness arises, and that the blessing of union of means and wisdom, handled without attachment, gives rise to that gnosis.
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: practice_
 
-concepts: `cpt:karmamudra` · practices: `prc:karmamudra` · teachers: [Tilopa](../teachers/tilopa.md)
+concepts: [Karmamudrā (the action seal)](../concepts/karmamudra.md) · practices: [Karmamudrā (union with a consort)](../practices/karmamudra.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v28 <a id="tea-ganga-mahamudra-v28"></a>
-`skeleton` · confidence high · _restricted: summary only_
+`skeleton` · confidence high · _restricted: summary only_ · [AI-translated]
 
 (Its results:) long life without white hair, growing like the moon, radiant complexion, strength like a lion's; the common attainments are quickly gained and one approaches the supreme.
 
@@ -199,10 +199,10 @@ concepts: `cpt:karmamudra` · practices: `prc:karmamudra` · teachers: [Tilopa](
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: powers-experiences_
 
-concepts: `cpt:siddhis-vajrayana` · teachers: [Tilopa](../teachers/tilopa.md)
+concepts: [Common and supreme attainments](../concepts/siddhis-vajrayana.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v3 <a id="tea-ganga-mahamudra-v3"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 Cut all ties of attachment and aversion to retinue and relatives; meditate alone in forests, mountain retreats and hermitages; abide in the state without meditation; if you attain non-attainment, you attain mahāmudrā.
 
@@ -213,7 +213,7 @@ _level: ultimate · standpoint: seeker · path: meditation · stage: intermediat
 teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v4 <a id="tea-ganga-mahamudra-v4"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 The dharmas of saṃsāra are meaningless, causes of attachment and aversion; compounded dharmas have no essence, so look at the ultimate essence; the dharmas of mind do not see the meaning beyond mind; the dharmas of action do not find the meaning of non-action.
 
@@ -224,7 +224,7 @@ _level: bridging · standpoint: analytic · path: knowledge · stage: all · typ
 teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v5-6 <a id="tea-ganga-mahamudra-v5-6"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 If you want to attain the meaning beyond mind and action, cut the root of your own mind and leave awareness naked; let the muddy water of concepts become clear; neither block nor affirm appearances, leave them in their place; without rejecting or accepting, one is liberated in mahāmudrā.
 
@@ -232,10 +232,10 @@ If you want to attain the meaning beyond mind and action, cut the root of your o
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-practices: `prc:mahamudra-resting-indian` · teachers: [Tilopa](../teachers/tilopa.md)
+practices: [Resting in mahāmudrā (the Indian siddha instruction)](../practices/mahamudra-resting-indian.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v6-7 <a id="tea-ganga-mahamudra-v6-7"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As when a tree's root is cut its branches and leaves wither, and as a single lamp clears the darkness gathered over a thousand aeons, so the clear light of one's own mind in a single instant clears all the evil and obscurations gathered over aeons.
 
@@ -243,10 +243,10 @@ As when a tree's root is cut its branches and leaves wither, and as a single lam
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:prabhasvara` · teachers: [Tilopa](../teachers/tilopa.md)
+terms: [prabhāsvara](../terms/prabhasvara.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v7-8 <a id="tea-ganga-mahamudra-v7-8"></a>
-`skeleton` · confidence high · _restricted: summary only_
+`skeleton` · confidence high · _restricted: summary only_ · [AI-translated]
 
 If people of lesser intellect cannot remain in the meaning, let them hold the key points of the wind and discipline awareness, and by many gazes and ways of holding the mind train until awareness abides in its state.
 
@@ -254,10 +254,10 @@ If people of lesser intellect cannot remain in the meaning, let them hold the ke
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: beginner · types: practice_
 
-practices: `prc:wind-yoga-summary` · teachers: [Tilopa](../teachers/tilopa.md)
+practices: [Working with the winds (for those who cannot rest in the meaning)](../practices/wind-yoga-summary.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 ### v8-9 <a id="tea-ganga-mahamudra-v8-9"></a>
-`skeleton` · confidence high
+`skeleton` · confidence high · [AI-translated]
 
 As when one examines the centre of space, the grasping at centre and edge ceases, so when mind examines mind, concepts and feelings cease; abiding without concepts, one sees the nature of unsurpassed bodhicitta.
 
@@ -269,4 +269,4 @@ terms: [bodhicitta](../terms/bodhicitta.md) · teachers: [Tilopa](../teachers/ti
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

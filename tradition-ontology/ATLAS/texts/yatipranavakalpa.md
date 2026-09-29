@@ -19,4 +19,4 @@ one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of al
 _Notes: The local copy's colophon names it 'Praṇavakalpa'._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._

@@ -14,4 +14,4 @@
 A Prakīrṇaka on the conduct of the monastic community (gaccha): the good and bad teacher, the discipline of monks and nuns and the relations between them.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._

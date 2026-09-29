@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Light and reflexive awareness (prakāśa-vimarśa)](prakasa-vimarsa.md) (Kṣemarāja's synthesis): spanda read as vimarśa — rests on [1.1](../texts/spanda-karika.md#tea-spanda-karika-1-1), [1.5.14](../texts/isvarapratyabhijna-karika.md#tea-isvarapratyabhijna-karika-1-5-14)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._

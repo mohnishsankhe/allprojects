@@ -14,4 +14,4 @@ Powers (siddhi) and the pride they breed: Cāṅgadev's power over beasts was hu
   - [Dāsbodh](../texts/dasbodh.md) — ref: 5.2; rests_on: ["tea:dasbodh:5.2"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

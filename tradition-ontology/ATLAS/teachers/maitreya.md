@@ -9,4 +9,4 @@
 Sage who goes to Kailāsa and is taught by Mahādeva that the body is a temple and the jīva is Śiva (Maitreya Upaniṣad 2). Distinct from Yājñavalkya's wife Maitreyī.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

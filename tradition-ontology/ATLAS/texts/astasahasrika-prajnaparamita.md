@@ -267,4 +267,4 @@ concepts: [The sūtra as object of worship](../concepts/cult-of-the-book.md) · 
 _Notes: Locator convention: parivarta 1-32 of Vaidya's ed.; Vaidya page numbers in teaching sections. Title and chapter colophons checked in the local GRETIL e-text (catalog:GRETIL-dev astasahasrika_prajnaparamita)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

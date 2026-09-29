@@ -23,8 +23,8 @@ Kōfukuji asks the court to stop Hōnen's exclusive nenbutsu for nine errors: es
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, ethics_
 
-teachers: [Jōkei](../teachers/jokei.md) · disputes: `dsp:exclusive-nenbutsu-controversy`
+teachers: [Jōkei](../teachers/jokei.md) · disputes: [May the nenbutsu be practised exclusively, setting aside all other practices and deities?](../debates/exclusive-nenbutsu-controversy.md)
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

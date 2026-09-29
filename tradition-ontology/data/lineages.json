@@ -1883,6 +1883,66 @@
   }
  },
  {
+  "id": "lin:barom-kagyu",
+  "name": "Barom Kagyu",
+  "alt_names": [
+   "'ba' rom bka' brgyud"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:barom-darma-wangchuk"
+  ],
+  "key_teachers": [
+   "tch:barom-darma-wangchuk"
+  ],
+  "regions": [
+   "Barom Riwoche (c. 1160); Nangchen (Kham)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Barom Darma Wangchuk, disciple of Gampopa",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "12th c.",
+    "from": 1160,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "distinctive_positions": [
+   "Gampopa's Mahāmudrā as transmitted by Barom Darma Wangchuk."
+  ],
+  "summary": "One of the 'four great' Dakpo Kagyu schools, founded by Barom Darma Wangchuk; survives in Nangchen.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "transmissions_received": [
+   {
+    "from": "lin:kagyu",
+    "what": "Gampopa's Mahāmudrā and Six Yogas",
+    "evidence": "tradition's account of the 'four great' schools"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:baul",
   "name": "Bāul",
   "alt_names": [
@@ -3092,7 +3152,7 @@
    "src:yoginisamcarya",
    "src:samputa-tantra",
    "src:luipa-abhisamaya",
-   "src:vajrayogini-sadhanas"
+   "src:guhyasamayasadhanamala"
   ],
   "regions": [
    "Bengal",
@@ -3594,6 +3654,132 @@
   "provenance": {
    "units": [
     "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:chod",
+  "name": "Chöd (gcod), 'Cutting'",
+  "alt_names": [
+   "gcod yul ('the object to be cut')",
+   "Machig's Chöd",
+   "Mahāmudrā Chöd (phyag rgya chen po gcod yul)",
+   "the Chöd of the Perfection of Wisdom (shes rab kyi pha rol tu phyin pa'i gcod)",
+   "the practice of 'cutting' demons (bdud gcod)"
+  ],
+  "family": "ascetic",
+  "parent": "lin:vajrayana",
+  "founders": [
+   "tch:machig-labdron",
+   "tch:padampa-sangye"
+  ],
+  "key_teachers": [
+   "tch:machig-labdron",
+   "tch:padampa-sangye",
+   "tch:aryadeva-brahmin",
+   "tch:kyoton-sonam-lama",
+   "tch:gyalwa-dondrub",
+   "tch:tonyon-samdrub",
+   "tch:rangjung-dorje",
+   "tch:jigme-lingpa",
+   "tch:jamgon-kongtrul",
+   "tch:patrul-rinpoche"
+  ],
+  "texts": [
+   "src:katsom-chenmo",
+   "src:phungpo-zenkyur-namshe",
+   "src:tsigche-chenmo-aryadeva",
+   "src:zagme-drangtsi",
+   "src:khandro-jewai-sanglam",
+   "src:khandro-gegyang",
+   "src:kunzang-lamai-shelung",
+   "src:damngak-dzo",
+   "src:blue-annals",
+   "src:prajnaparamita-hrdaya",
+   "src:astasahasrika-prajnaparamita"
+  ],
+  "regions": [
+   "Central and southern Tibet (Zangri Khangmar, Machig's seat, in Lhokha)",
+   "all Tibetan regions through wandering Chöd practitioners (gcod pa)",
+   "Himalayan borderlands, Mongolia"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Machig Labdrön, an emanation of the Great Mother Prajñāpāramitā, receives the teaching from Padampa Sangye, from her teacher Kyotön Sönam Lama and directly in visions; the only Dharma said to have gone from Tibet to India",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "late 11th – early 12th c. (Machig's dates are given variously: 1055–1149, 1031–1129 and others); integrated into all Tibetan schools from the 13th–14th c.",
+    "from": 1080,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:shije",
+    "what": "the 'father lineage' of Chöd and the Prajñāpāramitā instructions of Padampa Sangye",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:mahayana",
+    "what": "the Perfection of Wisdom sūtras, which Machig recited professionally before her realization",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:vajrayana",
+    "what": "the Vajrayoginī/Tröma Nagmo deity practice, transference (phowa) and feast (gaṇacakra) forms",
+    "evidence": "shared-vocabulary"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:karma-kagyu",
+    "what": "Chöd liturgies and instructions (from the Third Karmapa Rangjung Dorje)"
+   },
+   {
+    "to": "lin:nyingma",
+    "what": "Chöd within the Longchen Nyingthig (Jigme Lingpa's Laughter of the Ḍākinīs) and the kusāli's accumulation of the preliminaries"
+   },
+   {
+    "to": "lin:ganden-oral-lineage",
+    "what": "a Gelug Chöd transmission"
+   },
+   {
+    "to": "lin:rime",
+    "what": "Shije and Chöd counted together as one of the eight great practice lineages (Kongtrul's Treasury of Instructions)"
+   }
+  ],
+  "distinctive_positions": [
+   "What is cut (gcod) is ego-clinging (bdag 'dzin), the root of the mind's afflictions; cutting it cuts all four māras.",
+   "The four māras of Chöd — the obstructive (thogs bcas), the unobstructive (thogs med), the māra of elation (dga' brod) and the māra of conceit (snyems byed) — are all contained in the last, the self-fixation.",
+   "Gods and demons (lha 'dre) are the play of one's own mind; as long as there is ego-clinging there are demons, and when it is cut there are none.",
+   "The body, the object of the strongest attachment, is offered in visualization as food to four kinds of guests (the Three Jewels, the protectors, the six classes of beings, and harmful spirits and karmic creditors) — generosity joined with the view of emptiness.",
+   "Practice is done in frightening places — charnel grounds, haunted sites (gnyan sa) — so that fear itself exposes and cuts self-grasping.",
+   "Its view is the Perfection of Wisdom; Chöd presents itself as the practical application of the Prajñāpāramitā, combining sūtra and mantra.",
+   "The tradition's account holds that Chöd is the only Dharma that went from Tibet to India: Indian scholars who came to test Machig accepted her teaching and carried it back."
+  ],
+  "ultimate": "ult:chod",
+  "summary": "The practice tradition of 'cutting' ego-clinging founded by the Tibetan woman master Machig Labdrön (11th–12th c.), drawing on the Perfection of Wisdom and on instructions from the Indian siddha Padampa Sangye. It is known for its visualized offering of one's own body to guests of four kinds and for practice in charnel grounds and haunted places, accompanied by drum and thighbone trumpet. It never formed a separate monastic school but entered every Tibetan tradition; the Rimé masters counted Shije and Chöd as one of the eight great practice lineages.",
+  "notes": "Restricted content: the body-offering is recorded here only as summary with the tradition's own warnings (see prc:chod).",
+  "coverage": [
+   "B6",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -4647,6 +4833,182 @@
   }
  },
  {
+  "id": "lin:drikung-kagyu",
+  "name": "Drikung Kagyu",
+  "alt_names": [
+   "'bri gung bka' brgyud",
+   "Drigung Kagyü"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:jigten-sumgon"
+  ],
+  "key_teachers": [
+   "tch:jigten-sumgon",
+   "tch:sherab-jungne",
+   "tch:rigdzin-chokyi-drakpa"
+  ],
+  "texts": [
+   "src:gongchig"
+  ],
+  "regions": [
+   "Drikung Thil (founded 1179)",
+   "the retreat mountains Kailash, Lapchi and Tsari",
+   "Ladakh (Lamayuru, Phyang)",
+   "Kham",
+   "Dehradun (recent)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Jigten Sumgön (1143–1217), disciple of Phagmodrupa, at Drikung Thil in 1179",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "late 12th c. onward",
+    "from": 1179,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:phagdru-kagyu",
+    "what": "Phagmodrupa's Mahāmudrā and Six Yogas",
+    "evidence": "tradition's account: Jigten Sumgön was Phagmodrupa's disciple"
+   }
+  ],
+  "distinctive_positions": [
+   "The 'single intent' (dgongs gcig): all the Buddha's teachings share one intent; the three vows (prātimokṣa, bodhisattva, mantra) are one in essence (dsp:three-vows-one-essence).",
+   "The fivefold Mahāmudrā (phyag chen lnga ldan): bodhicitta, the deity body, devotion to the guru, the Mahāmudrā view, and dedication — the five together make the practice complete.",
+   "The Drikung transference (phowa) is famous; great public phowa gatherings are held (recent practice, earlier roots)."
+  ],
+  "ultimate": "ult:drikung-kagyu",
+  "path_maps": [
+   "pth:fivefold-mahamudra",
+   "pth:mahamudra-four-yogas"
+  ],
+  "summary": "One of the 'eight lesser' Kagyu schools founded by disciples of Phagmodrupa; established by Jigten Sumgön at Drikung Thil, known for the Gongchig ('Single Intent') and the fivefold Mahāmudrā, for sending retreatants to Kailash, Lapchi and Tsari, and for its phowa.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "notes": "Parent set to the Kagyu umbrella (not Phagdru) so that the school counts as its own root; its descent from Phagmodrupa is recorded under transmissions_received.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:drukpa-kagyu",
+  "name": "Drukpa Kagyu",
+  "alt_names": [
+   "'brug pa bka' brgyud",
+   "the 'Thunder-Dragon' lineage",
+   "Upper, Middle and Lower Drukpa (stod 'brug, bar 'brug, smad 'brug)",
+   "Southern Drukpa (lho 'brug, Bhutan)"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:tsangpa-gyare",
+   "tch:lingje-repa"
+  ],
+  "key_teachers": [
+   "tch:lingje-repa",
+   "tch:tsangpa-gyare",
+   "tch:gotsangpa",
+   "tch:yang-gonpa",
+   "tch:lorepa",
+   "tch:orgyenpa",
+   "tch:pema-karpo",
+   "tch:zhabdrung-ngawang-namgyal",
+   "tch:drukpa-kunley",
+   "tch:tsangnyon-heruka"
+  ],
+  "texts": [
+   "src:six-equal-tastes",
+   "src:pema-karpo-mahamudra-treasury",
+   "src:epitome-of-the-great-symbol",
+   "src:epitome-of-the-six-doctrines",
+   "src:hidden-description-of-the-vajra-body",
+   "src:drukpa-kunley-namthar",
+   "src:milarepa-namthar",
+   "src:milarepa-gurbum"
+  ],
+  "regions": [
+   "Ralung (1180) and Druk (1189) in Tsang",
+   "Bhutan (state tradition since the Zhabdrung, 17th c.)",
+   "Ladakh (Hemis)",
+   "Nepal, northern India (recent)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Tsangpa Gyare Yeshe Dorje (1161–1211), who at Namdruk saw thunder-dragons (druk) and so named the school",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "late 12th c. onward",
+    "from": 1180,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:phagdru-kagyu",
+    "what": "Mahāmudrā through Lingje Repa, disciple of Phagmodrupa",
+    "evidence": "tradition's account"
+   },
+   {
+    "from": "lin:kagyu",
+    "what": "the Rechung hearing-lineage teachings, 'rediscovered' by Tsangpa Gyare as the Six Equal Tastes",
+    "evidence": "tradition's account"
+   }
+  ],
+  "distinctive_positions": [
+   "The 'six cycles of equal taste' (ro snyoms skor drug) and the 'seven auspicious coincidences' (rten 'brel rab bdun), rediscovered by Tsangpa Gyare: adversity, illness and death are carried onto the path.",
+   "The renunciate mountain-retreat ideal of Milarepa (the Upper Drukpa of Götsangpa); the tradition's saying that half the people are Drukpa, half the Drukpa are beggars, and half the beggars are siddhas.",
+   "Pema Karpo's systematization of Mahāmudrā and the Six Yogas; the 'divine madmen' (Tsangnyön Heruka, Drukpa Kunley) whose unconventional conduct is read as teaching."
+  ],
+  "ultimate": "ult:drukpa-kagyu",
+  "path_maps": [
+   "pth:mahamudra-four-yogas",
+   "pth:six-yogas-of-naropa-sequence"
+  ],
+  "summary": "One of the 'eight lesser' Kagyu schools, founded by Tsangpa Gyare at Ralung and Druk; divided into Upper, Middle and Lower branches; its Southern branch became the state tradition of Bhutan under Zhabdrung Ngawang Namgyal. Known for renunciate retreat practice, Pema Karpo's writings and the divine madmen.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:dudjom-tersar",
   "name": "Dudjom Tersar (the New Treasures of Dudjom)",
   "alt_names": [
@@ -5100,6 +5462,56 @@
   "provenance": {
    "units": [
     "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:dzongpa",
+  "name": "Dzong (Dzongpa) Sakya",
+  "alt_names": [
+   "rdzong pa"
+  ],
+  "family": "ascetic",
+  "parent": "lin:sakya",
+  "founders": [
+   "tch:dzongpa-kunga-namgyal"
+  ],
+  "key_teachers": [
+   "tch:dzongpa-kunga-namgyal"
+  ],
+  "texts": [],
+  "regions": [
+   "Gongkar Dorjeden"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "15th c. CE",
+    "from": 1432,
+    "to": 1496
+   },
+   "confidence": "low"
+  },
+  "status": "absorbed",
+  "distinctive_positions": [
+   "Holds the Sakya Path with its Result and the Khön family's teaching lineages; distinguished from the other Sakya lines by its own transmission and monastic seat."
+  ],
+  "ultimate": "ult:dzongpa",
+  "summary": "Sub-school from Dzongpa Kunga Namgyal (1432–1496) at Gongkar Dorjeden, known for its own transmission lines of Sakya tantric instructions; small and largely absorbed today.",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -5768,6 +6180,74 @@
   }
  },
  {
+  "id": "lin:ganden-oral-lineage",
+  "name": "Ganden Oral Lineage of Mahāmudrā (Ganden Kagyu / Ensa Hearing Lineage)",
+  "alt_names": [
+   "dge ldan bka' brgyud",
+   "dga' ldan snyan brgyud",
+   "dben sa snyan brgyud (Ensa Hearing Lineage)"
+  ],
+  "family": "ascetic",
+  "parent": "lin:gelug",
+  "founders": [
+   "tch:tsongkhapa"
+  ],
+  "key_teachers": [
+   "tch:tsongkhapa",
+   "tch:tokden-jampal-gyatso",
+   "tch:baso-chokyi-gyaltsen",
+   "tch:drubchen-chokyi-dorje",
+   "tch:gyalwa-ensapa",
+   "tch:khedrup-sangye-yeshe",
+   "tch:panchen-lobsang-chokyi-gyaltsen"
+  ],
+  "texts": [
+   "src:gyalwai-shunglam",
+   "src:yangsal-dronme",
+   "src:lama-chopa"
+  ],
+  "regions": [
+   "Ensa (Tsang)",
+   "Tashi Lhunpo"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Mahāmudrā received by Tsongkhapa from Mañjuśrī and passed orally until the First Panchen Lama wrote it down",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "oral lineage claimed from the 15th c.; root text written c. early 17th c. CE",
+    "from": 1400,
+    "to": 1662
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "distinctive_positions": [
+   "A Gelug Mahāmudrā practised as the union of the sūtra view of emptiness (as in Tsongkhapa) and the tantric clear light; the First Panchen Lama's root text says the Mahāmudrā, Dzogchen, Chöd and Madhyamaka instructions converge in one intent."
+  ],
+  "ultimate": "ult:ganden-oral-lineage",
+  "summary": "The oral 'hearing lineage' of Mahāmudrā and guru yoga that the Gelug traces from Tsongkhapa through Tokden Jampal Gyatso, Baso Chökyi Gyaltsen, Chökyi Dorje and Gyalwa Ensapa to the First Panchen Lama, who set it down in 'The Highway of the Conquerors'.",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:garibdasi",
   "name": "Garībdāsī panth",
   "alt_names": [
@@ -6011,6 +6491,187 @@
   "provenance": {
    "units": [
     "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:gelug",
+  "name": "Gelug",
+  "alt_names": [
+   "dge lugs pa",
+   "Gelugpa",
+   "Ganden tradition (dga' ldan pa)",
+   "the New Kadam (bka' gdams gsar ma)",
+   "the Yellow Hats (name used by others)"
+  ],
+  "family": "ascetic",
+  "parent": "lin:vajrayana",
+  "sub_lineages": [
+   "lin:ganden-oral-lineage"
+  ],
+  "founders": [
+   "tch:tsongkhapa"
+  ],
+  "key_teachers": [
+   "tch:tsongkhapa",
+   "tch:gyaltsab-je",
+   "tch:khedrup-je",
+   "tch:jamyang-choje",
+   "tch:jamchen-choje",
+   "tch:gendun-drup",
+   "tch:gendun-gyatso",
+   "tch:sonam-gyatso",
+   "tch:dalai-lama-5",
+   "tch:dalai-lama-7",
+   "tch:panchen-lobsang-chokyi-gyaltsen",
+   "tch:panchen-lobsang-yeshe",
+   "tch:jetsun-chokyi-gyaltsen",
+   "tch:panchen-sonam-drakpa",
+   "tch:jamyang-shepa",
+   "tch:konchok-jigme-wangpo",
+   "tch:changkya-rolpai-dorje",
+   "tch:thuken-lobsang-chokyi-nyima",
+   "tch:yongzin-yeshe-gyaltsen",
+   "tch:gyalwa-ensapa",
+   "tch:pabongkha",
+   "tch:dalai-lama-14"
+  ],
+  "texts": [
+   "src:lamrim-chenmo",
+   "src:lamrim-dringpa",
+   "src:lamrim-nyamgur",
+   "src:three-principal-aspects",
+   "src:ngagrim-chenmo",
+   "src:legs-bshad-snying-po",
+   "src:ocean-of-reasoning",
+   "src:illumination-of-the-thought",
+   "src:praise-of-dependent-origination",
+   "src:golden-rosary-tsongkhapa",
+   "src:yid-dang-kun-gzhi",
+   "src:foundation-of-all-good-qualities",
+   "src:lamp-illuminating-five-stages",
+   "src:three-inspirations-naropa",
+   "src:eight-difficult-points-memorandum",
+   "src:rnam-grel-thar-lam-gsal-byed",
+   "src:namshe-nyingpo-gyen",
+   "src:gyalse-jugngog",
+   "src:tongthun-chenmo",
+   "src:gyude-chinam-khedrup",
+   "src:gyalwai-shunglam",
+   "src:yangsal-dronme",
+   "src:lama-chopa",
+   "src:essence-of-refined-gold",
+   "src:sacred-word-of-manjusri",
+   "src:easy-path-lamrim",
+   "src:swift-path-lamrim",
+   "src:liberation-in-the-palm",
+   "src:drubta-chenmo",
+   "src:precious-garland-of-tenets",
+   "src:bsdus-grwa",
+   "src:gelug-yigcha",
+   "src:migtsema",
+   "src:ganden-lhagyama",
+   "src:pramanavarttika",
+   "src:abhisamayalamkara",
+   "src:madhyamakavatara",
+   "src:abhidharmakosa",
+   "src:vinayasutra-gunaprabha"
+  ],
+  "regions": [
+   "Central Tibet (Ganden 1409, Drepung 1416, Sera 1419)",
+   "Tsang (Tashi Lhunpo 1447)",
+   "Amdo (Kumbum, Labrang)",
+   "Kham",
+   "Mongolia",
+   "Buryatia, Kalmykia",
+   "Ladakh",
+   "diaspora (South India re-foundations of the great monasteries)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Tsongkhapa, regarded as an emanation of Mañjuśrī, at Ganden in 1409; the tradition counts it as the renewal of Atiśa's Kadam",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Ganden 1409 CE; ruling school of the Ganden Phodrang government from 1642 CE",
+    "from": 1409,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:kadam",
+    "what": "lamrim, lojong, the Kadam deities and texts (hence 'New Kadam')",
+    "evidence": "Lamrim Chenmo builds on the Bodhipathapradīpa"
+   },
+   {
+    "from": "lin:prasangika",
+    "what": "Candrakīrti's Prāsaṅgika as the final view",
+    "evidence": "Lamrim Chenmo insight section; Illumination of the Thought"
+   },
+   {
+    "from": "lin:sakya",
+    "what": "Tsongkhapa's training under Rendawa; many tantric lines",
+    "evidence": "biographies"
+   },
+   {
+    "from": "lin:pramana-buddhist",
+    "what": "Dharmakīrti's epistemology via the Sangphu and Sakya traditions",
+    "evidence": "Gyaltsab's and Khedrup's pramāṇa works"
+   },
+   {
+    "from": "lin:arya-guhyasamaja",
+    "what": "the Guhyasamāja of the Ārya tradition as the king of tantras",
+    "evidence": "Lamp Illuminating the Five Stages"
+   },
+   {
+    "from": "lin:kagyu",
+    "what": "Nāropa's six yogas (Tsongkhapa's Three Inspirations)",
+    "evidence": "yid ches gsum ldan"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:rime",
+    "what": "Gelug texts studied in Rimé curricula (as an influence, not a lineage merger)"
+   }
+  ],
+  "distinctive_positions": [
+   "The three principal aspects of the path — renunciation, bodhicitta and the correct view — frame the whole of sūtra and tantra.",
+   "Prāsaṅgika Madhyamaka as the final view: the object of negation is inherent existence (existence from the object's own side), to be identified precisely — neither too broadly nor too narrowly.",
+   "Emptiness is a non-affirming negation; it is fully compatible with conventionally valid cause and effect (dependent arising), and ultimate truth is an object of knowledge.",
+   "Tsongkhapa's 'eight difficult points' distinguishing Prāsaṅgika (no ālaya distinct from the six consciousnesses; no reflexive awareness; no autonomous syllogisms; external objects conventionally accepted; śrāvakas realize the selflessness of phenomena; grasping at the self of phenomena is an affliction; disintegration is a functioning thing; the special account of the three times).",
+   "Analytical meditation is indispensable, not an obstacle to non-conceptual realization; insight arises when analysis itself induces pliancy.",
+   "Tantra is distinguished from sūtra by deity yoga (method), not by a higher view; strict monastic discipline is kept alongside Highest Yoga Tantra (Guhyasamāja, Cakrasaṃvara, Vajrabhairava).",
+   "Monastic education through debate on the five great texts, leading to the geshe degree."
+  ],
+  "ultimate": "ult:gelug",
+  "path_maps": [
+   "pth:lamrim-three-scopes",
+   "pth:nine-stages-calm-abiding",
+   "pth:three-principal-aspects",
+   "pth:seven-point-cause-and-effect",
+   "pth:gelug-monastic-curriculum"
+  ],
+  "summary": "The Gelug school, founded by Tsongkhapa Lobsang Drakpa (1357–1419) at Ganden and continued by his disciples Gyaltsab Je and Khedrup Je and the great monasteries of Drepung, Sera and Tashi Lhunpo, unites the Kadam graded path with Prāsaṅgika Madhyamaka and the Highest Yoga Tantras under strict monastic discipline; its lines of Dalai and Panchen Lamas and its debate curriculum made it the largest Tibetan school.",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -6777,6 +7438,58 @@
   }
  },
  {
+  "id": "lin:jangpa-medicine",
+  "name": "Jangpa (byang lugs), the Northern school of Tibetan medicine",
+  "alt_names": [
+   "byang lugs",
+   "the Northern tradition"
+  ],
+  "family": "shared",
+  "parent": "lin:sowa-rigpa",
+  "founders": [
+   "tch:jangdak-namgyal-drakzang"
+  ],
+  "key_teachers": [
+   "tch:jangdak-namgyal-drakzang"
+  ],
+  "texts": [
+   "src:gyushi"
+  ],
+  "regions": [
+   "Northern Latö (Jang Ngamring), Tsang"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "15th c. (Jangdak Namgyal Drakzang, 1395–1475)",
+    "from": 1400,
+    "to": 1700
+   },
+   "confidence": "low"
+  },
+  "status": "absorbed",
+  "distinctive_positions": [
+   "One of the two classical commentarial schools on the Four Tantras; its readings were weighed against the Zur school in Desi Sangye Gyatso's standardization."
+  ],
+  "summary": "The 'Northern' school of commentary and practice on the Four Tantras associated with the lord of Jang, Namgyal Drakzang (15th c.). Details of its distinctive doctrines are not recalled with confidence.",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:jangter",
   "name": "Jangter (the Northern Treasures)",
   "alt_names": [
@@ -7447,6 +8160,165 @@
   }
  },
  {
+  "id": "lin:jonang",
+  "name": "Jonang (jo nang pa)",
+  "alt_names": [
+   "Jonangpa",
+   "the Jomonang tradition (jo mo nang)",
+   "the tradition of other-emptiness (gzhan stong)",
+   "the Great Madhyamaka (dbu ma chen po) of Dolpopa",
+   "the Jonang Kālacakra tradition"
+  ],
+  "family": "ascetic",
+  "parent": "lin:vajrayana",
+  "founders": [
+   "tch:kunpang-thukje-tsondru",
+   "tch:yumo-mikyo-dorje"
+  ],
+  "key_teachers": [
+   "tch:yumo-mikyo-dorje",
+   "tch:kunpang-thukje-tsondru",
+   "tch:changsem-gyalwa-yeshe",
+   "tch:yonten-gyatso-jonang",
+   "tch:dolpopa",
+   "tch:mati-panchen",
+   "tch:jonang-lotsawa-lodro-pal",
+   "tch:chogle-namgyal",
+   "tch:nyabon-kunga-pal",
+   "tch:kunga-drolchok",
+   "tch:taranatha",
+   "tch:bamda-gelek-gyatso",
+   "tch:ngawang-lodro-drakpa"
+  ],
+  "texts": [
+   "src:mountain-doctrine",
+   "src:fourth-council-dolpopa",
+   "src:general-commentary-on-the-doctrine-dolpopa",
+   "src:zhentong-nyingpo-taranatha",
+   "src:twenty-one-differences-taranatha",
+   "src:zhentong-uma-gyen-taranatha",
+   "src:thongwa-donden-taranatha",
+   "src:gyagar-chojung-taranatha",
+   "src:tara-tantra-origin-taranatha",
+   "src:bka-babs-bdun-ldan",
+   "src:salgron-korzhi",
+   "src:jonang-khrid-brgya",
+   "src:jonang-chojung-ngawang-lodro-drakpa",
+   "src:kalacakra-tantra",
+   "src:vimalaprabha",
+   "src:ratnagotravibhaga",
+   "src:dharmadhatustava",
+   "src:tathagatagarbha-sutra",
+   "src:srimaladevi-sutra",
+   "src:mahaparinirvana-sutra-mahayana",
+   "src:angulimaliya-sutra"
+  ],
+  "regions": [
+   "Jomonang valley in Tsang, central Tibet (the Jonang monastery and its great stūpa)",
+   "Takten Phuntsok Ling (rtag brtan phun tshogs gling) in Tsang, Tāranātha's seat",
+   "Dzamthang ('dzam thang) and the Amdo/Gyalrong/Golok borderlands (the surviving tradition)",
+   "Mongolia (Tāranātha's activity; the Jebtsundamba line counted as his rebirth)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Kālacakra received from Śambhala through the Indian masters and the Kashmiri Somanātha (11th c.); the Jonang hermitage founded by Künpang Thukje Tsöndrü; the view of other-emptiness taught openly by Dolpopa (1292–1361), who holds it to be the teaching of the age of perfection",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Jonang hermitage founded c. 1294; Dolpopa's zhentong formulated c. 1320s–1330s; Tāranātha 1575–1634; Tsang seats converted to Gelug c. 1650–1658; continues in Amdo to the present",
+    "from": 1294,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:kalacakra",
+    "what": "the Kālacakra tantra, the Vimalaprabhā and the six-branch vajra-yoga (chiefly the Dro lineage from Somanātha; Künpang Thukje Tsöndrü is said to have gathered seventeen lineages of the six-branch yoga)",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:tathagatagarbha",
+    "what": "the tathāgatagarbha sūtras and the Ratnagotravibhāga, read as definitive teaching of an ultimate empty of what is other than it",
+    "evidence": "explicit-citation"
+   },
+   {
+    "from": "lin:yogacara",
+    "what": "the Maitreya texts and the three natures, read as Great Madhyamaka",
+    "evidence": "explicit-citation"
+   },
+   {
+    "from": "lin:sakya",
+    "what": "Dolpopa's early training (Sakya monastery) before he took charge of Jonang",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:shangpa-kagyu",
+    "what": "the Shangpa instructions held by Tāranātha",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:mahasiddha",
+    "what": "the seven instruction lineages (bka' babs bdun ldan) received by Tāranātha from the Indian yogin Buddhaguptanātha",
+    "evidence": "tradition-account"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:rime",
+    "what": "the other-emptiness view (through Jamgön Kongtrul's Great Madhyamaka) and the Kālacakra six-branch yoga counted as one of the eight great practice lineages"
+   },
+   {
+    "to": "lin:karma-kagyu",
+    "what": "a shentong strand of buddha-nature interpretation (8th Situ, Jamgön Kongtrul), contested within the school"
+   },
+   {
+    "to": "lin:gelug",
+    "what": "the Tsang seats and their communities, converted in the mid-17th c."
+   },
+   {
+    "to": "lin:kalacakra",
+    "what": "a revised Tibetan translation of the Kālacakra and Vimalaprabhā made under Dolpopa by Jonang Lotsawa Lodrö Pal and Mati Paṇchen (the 'Jonang translation')"
+   }
+  ],
+  "distinctive_positions": [
+   "Two truths: conventional phenomena are empty of their own nature (rang stong); the ultimate — the dharmatā, dharmakāya, buddha-nature — is empty only of what is other than it (gzhan stong), i.e. of the adventitious conventional phenomena, and is not empty of its own nature and qualities.",
+   "The ultimate is permanent, stable, peaceful and eternal (rtag brtan ther zug g.yung drung) and is not a dependent arising.",
+   "Buddha-nature is present in all beings complete with the buddha-qualities, which are uncovered, not newly produced (Ratnagotravibhāga 1.154-155 read literally).",
+   "The third turning (the tathāgatagarbha sūtras and the Maitreya texts), the Kālacakra and the 'bodhisattva commentaries', and Nāgārjuna's hymns (the Dharmadhātustava) teach the definitive meaning; together they are the Great Madhyamaka (dbu ma chen po).",
+   "The ālaya is twofold: the ālaya-consciousness (kun gzhi rnam shes), which is conventional, and the ālaya-wisdom (kun gzhi ye shes), which is ultimate.",
+   "Dolpopa presents his teaching as the doctrine of the age of perfection (rdzogs ldan, kṛtayuga), a 'fourth council' restoring the Buddha's final intent.",
+   "The Kālacakra six-branch vajra-yoga is the principal practice through which the other-empty ultimate — 'the emptiness endowed with all supreme aspects' — is directly realized."
+  ],
+  "ultimate": "ult:jonang",
+  "path_maps": [
+   "pth:kalacakra-six-branches"
+  ],
+  "summary": "A Tibetan school centred on the Kālacakra tantra and on the view of 'other-emptiness' (gzhan stong). Its Kālacakra lineage runs from the 11th-century master Yumo Mikyö Dorje; the Jonang hermitage was founded by Künpang Thukje Tsöndrü (c. 1294). Dolpopa Sherab Gyaltsen (1292–1361) taught openly that the ultimate — buddha-nature, the dharmakāya — is permanent and empty only of adventitious phenomena other than itself, in his Mountain Doctrine and Fourth Council, and oversaw a new translation of the Kālacakra. Tāranātha (1575–1634) revived the school, wrote on other-emptiness, on Kālacakra practice and on the history of Buddhism in India. In the mid-17th century its Tsang seats were converted to Gelug and its writings restricted under the Fifth Dalai Lama's government; the tradition survived in Amdo (Dzamthang), and its view was revived more widely by the 19th-century Rimé masters.",
+  "notes": "Historical metadata (scholarly account): the conversion of Takten Phuntsok Ling (renamed Ganden Phuntsok Ling) and the sealing of Jonang printing blocks are usually dated c. 1650–1658, after Tāranātha's death; the reasons given in the sources are both doctrinal and political (Tāranātha's patrons were the Tsang rulers defeated in 1642). Exact years: moderate confidence.",
+  "coverage": [
+   "B6",
+   "F",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:jushe-zong",
   "name": "Jushe school (Abhidharmakośa school)",
   "alt_names": [
@@ -7787,6 +8659,520 @@
   "provenance": {
    "units": [
     "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:kadam",
+  "name": "Kadam",
+  "alt_names": [
+   "bka' gdams pa",
+   "Kadampa",
+   "'those who take all the Buddha's words (bka') as personal instruction (gdams)'",
+   "the Old Kadam (as distinct from the Gelug 'New Kadam')"
+  ],
+  "family": "ascetic",
+  "parent": "lin:mahayana",
+  "sub_lineages": [
+   "lin:kadam-shungpa",
+   "lin:kadam-lamrimpa",
+   "lin:kadam-mengakpa"
+  ],
+  "founders": [
+   "tch:atisa",
+   "tch:dromtonpa"
+  ],
+  "key_teachers": [
+   "tch:atisa",
+   "tch:dromtonpa",
+   "tch:potowa",
+   "tch:chengawa",
+   "tch:phuchungwa",
+   "tch:gonpawa",
+   "tch:neusurpa",
+   "tch:sharawa",
+   "tch:langri-tangpa",
+   "tch:chekawa",
+   "tch:se-chilbu",
+   "tch:dolpa-sherab-gyatso",
+   "tch:ben-gungyal",
+   "tch:ngok-lekpai-sherab",
+   "tch:ngok-loden-sherab",
+   "tch:chapa-chokyi-senge"
+  ],
+  "texts": [
+   "src:bodhipathapradipa",
+   "src:bodhimargapradipapanjika",
+   "src:satyadvayavatara",
+   "src:bodhisattvamanyavali",
+   "src:caryasamgrahapradipa",
+   "src:cittotpadasamvaravidhikrama",
+   "src:saranagamanadesana",
+   "src:vimalaratnalekha",
+   "src:mahayanapathasadhanavarnasamgraha",
+   "src:book-of-kadam",
+   "src:seven-point-mind-training",
+   "src:seven-point-commentary-se-chilbu",
+   "src:eight-verses-mind-training",
+   "src:wheel-of-sharp-weapons",
+   "src:peacock-neutralizing-poison",
+   "src:mind-training-great-collection",
+   "src:blue-compendium",
+   "src:bodhisattvabhumi",
+   "src:mahayanasutralamkara",
+   "src:siksasamuccaya",
+   "src:bodhicaryavatara",
+   "src:jatakamala",
+   "src:udanavarga"
+  ],
+  "regions": [
+   "Ngari (Tholing) — Atiśa's arrival 1042",
+   "Central Tibet (Nyethang, Reting 1056/7, Sangphu 1073, Narthang 1153)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Atiśa invited to Tibet by the Ngari kings Yeshe Ö and Jangchub Ö; Reting founded by Dromtönpa after Atiśa's death",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Atiśa in Tibet 1042–1054 CE; Reting 1056/57; Kadam as a separate order absorbed into the Gelug from the 15th c. and its lojong and lamrim into all schools",
+    "from": 1042,
+    "to": 1450
+   },
+   "confidence": "high"
+  },
+  "status": "absorbed",
+  "transmissions_received": [
+   {
+    "from": "lin:mahayana",
+    "what": "the two bodhicitta lineages — 'profound view' (Nāgārjuna) and 'vast conduct' (Asaṅga) — and the mind-training of exchanging self and other from Serlingpa, Dharmarakṣita and Maitrīyogin",
+    "evidence": "Kadam lineage accounts; Bodhipathapradīpa"
+   },
+   {
+    "from": "lin:prasangika",
+    "what": "Candrakīrti as the one who realized emptiness (Satyadvayāvatāra 15)",
+    "evidence": "Satyadvayāvatāra v15"
+   },
+   {
+    "from": "lin:vajrayana",
+    "what": "Atiśa's tantric transmissions (Guhyasamāja, the four deities practice)",
+    "evidence": "Bodhipathapradīpa 62–69 and Pañjikā"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:gelug",
+    "what": "the lamrim structure of the three scopes, the four deities and six texts, and lojong ('New Kadam')"
+   },
+   {
+    "to": "lin:kagyu",
+    "what": "the Kadam gradual path joined by Gampopa with Mahāmudrā ('the two streams of Kadam and Mahāmudrā')"
+   },
+   {
+    "to": "lin:sakya",
+    "what": "mind training, taught by Sakya masters such as Tokmé Zangpo"
+   }
+  ],
+  "distinctive_positions": [
+   "All the Buddha's words are to be taken as personal instruction for practice; none is to be discarded as irrelevant.",
+   "The path is graded for three kinds of person (small, middling, great) — Bodhipathapradīpa 2–5.",
+   "Mind training (blo sbyong): relative bodhicitta by equalizing and exchanging self and other, sending and taking; turning adversity into the path.",
+   "The seven divine dharmas (lha chos bdun ldan): the four deities (Śākyamuni, Avalokiteśvara, Tārā, Acala) and the three baskets.",
+   "The six Kadam treatises (bka' gdams gzhung drug) as core texts.",
+   "Celibate monastics are not to take the secret and wisdom initiations literally (Bodhipathapradīpa 66–68).",
+   "Madhyamaka in Candrakīrti's line: the ultimate is one, not realized by the two means of valid cognition taken as conceptual (Satyadvayāvatāra 4, 10)."
+  ],
+  "ultimate": "ult:kadam",
+  "path_maps": [
+   "pth:lamrim-three-scopes",
+   "pth:seven-points-mind-training",
+   "pth:seven-point-cause-and-effect"
+  ],
+  "summary": "The Kadam, founded on Atiśa's teaching in Tibet (1042–1054) and organised by his lay disciple Dromtönpa at Reting, stressed renunciation, bodhicitta and the graded path for three persons (Lamp for the Path), and produced the mind-training (lojong) literature — Langri Tangpa's Eight Verses, Chekawa's Seven Points — that all later schools adopted; its lines were absorbed into the Gelug ('New Kadam').",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:kadam-lamrimpa",
+  "name": "Kadam Lamrimpa (stages-of-the-path tradition)",
+  "alt_names": [
+   "bka' gdams lam rim pa"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kadam",
+  "founders": [
+   "tch:gonpawa",
+   "tch:neusurpa"
+  ],
+  "key_teachers": [
+   "tch:gonpawa",
+   "tch:neusurpa"
+  ],
+  "texts": [
+   "src:bodhipathapradipa"
+  ],
+  "regions": [
+   "Central Tibet"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "late 11th – 14th c. CE",
+    "from": 1070,
+    "to": 1400
+   },
+   "confidence": "moderate"
+  },
+  "status": "absorbed",
+  "distinctive_positions": [
+   "One of the three Kadam transmission lines distinguished by Tibetan historians (textual, lamrim, oral-instruction)."
+  ],
+  "ultimate": "ult:kadam-lamrimpa",
+  "summary": "The Kadam line that transmitted the graded path (lamrim) as a meditation sequence; traced by Tibetan historians to Gönpawa and Neusurpa. Tsongkhapa received it through Lhodrak Namkha Gyaltsen and others.",
+  "notes": "The assignment of founders to the three lines differs between Tibetan histories; recalled, not checked.",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:kadam-mengakpa",
+  "name": "Kadam Mengakpa (oral-instruction tradition)",
+  "alt_names": [
+   "bka' gdams man ngag pa",
+   "gdams ngag pa"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kadam",
+  "founders": [
+   "tch:chengawa"
+  ],
+  "key_teachers": [
+   "tch:chengawa"
+  ],
+  "texts": [
+   "src:book-of-kadam"
+  ],
+  "regions": [
+   "Central Tibet"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "late 11th – 14th c. CE",
+    "from": 1070,
+    "to": 1400
+   },
+   "confidence": "moderate"
+  },
+  "status": "absorbed",
+  "distinctive_positions": [
+   "One of the three Kadam transmission lines distinguished by Tibetan historians (textual, lamrim, oral-instruction)."
+  ],
+  "ultimate": "ult:kadam-mengakpa",
+  "summary": "The Kadam line that transmitted the pith instructions (including the sixteen-drop practice of the Book of Kadam), traced to Chengawa Tsultrim Bar.",
+  "notes": "The assignment of founders to the three lines differs between Tibetan histories; recalled, not checked.",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:kadam-shungpa",
+  "name": "Kadam Shungpawa (textual tradition)",
+  "alt_names": [
+   "bka' gdams gzhung pa ba"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kadam",
+  "founders": [
+   "tch:potowa"
+  ],
+  "key_teachers": [
+   "tch:potowa"
+  ],
+  "texts": [
+   "src:bodhisattvabhumi",
+   "src:mahayanasutralamkara",
+   "src:siksasamuccaya",
+   "src:bodhicaryavatara",
+   "src:jatakamala",
+   "src:udanavarga",
+   "src:blue-compendium"
+  ],
+  "regions": [
+   "Central Tibet"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "late 11th – 14th c. CE",
+    "from": 1070,
+    "to": 1400
+   },
+   "confidence": "moderate"
+  },
+  "status": "absorbed",
+  "distinctive_positions": [
+   "One of the three Kadam transmission lines distinguished by Tibetan historians (textual, lamrim, oral-instruction)."
+  ],
+  "ultimate": "ult:kadam-shungpa",
+  "summary": "The Kadam line that trained through study of the six Kadam treatises, traced to Potowa Rinchen Sal.",
+  "notes": "The assignment of founders to the three lines differs between Tibetan histories; recalled, not checked.",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:kagyu",
+  "name": "Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)",
+  "alt_names": [
+   "bka' brgyud (Tibetan): 'lineage of the (Buddha's) word' / 'of the transmitted precepts'",
+   "dkar brgyud, 'the white lineage' (after the white cotton cloth of the repa yogins; an etymology the tradition also gives)",
+   "Marpa Kagyu (mar pa bka' brgyud)",
+   "Dakpo Kagyu (dwags po bka' brgyud, after Gampopa of Dakpo)",
+   "the practice lineage (sgrub brgyud)",
+   "the four great and eight lesser Kagyu (bka' brgyud che bzhi chung brgyad)"
+  ],
+  "family": "ascetic",
+  "parent": "lin:vajrayana",
+  "sub_lineages": [
+   "lin:karma-kagyu",
+   "lin:tsalpa-kagyu",
+   "lin:barom-kagyu",
+   "lin:phagdru-kagyu",
+   "lin:drikung-kagyu",
+   "lin:drukpa-kagyu",
+   "lin:taklung-kagyu",
+   "lin:trophu-kagyu",
+   "lin:martsang-kagyu",
+   "lin:yelpa-kagyu",
+   "lin:yazang-kagyu",
+   "lin:shugseb-kagyu",
+   "lin:shangpa-kagyu"
+  ],
+  "founders": [
+   "tch:vajradhara",
+   "tch:tilopa",
+   "tch:naropa",
+   "tch:maitripa",
+   "tch:marpa",
+   "tch:milarepa",
+   "tch:gampopa"
+  ],
+  "key_teachers": [
+   "tch:marpa",
+   "tch:milarepa",
+   "tch:rechungpa",
+   "tch:gampopa",
+   "tch:dusum-khyenpa",
+   "tch:phagmodrupa",
+   "tch:lama-zhang",
+   "tch:barom-darma-wangchuk",
+   "tch:jigten-sumgon",
+   "tch:tsangpa-gyare",
+   "tch:taklung-thangpa",
+   "tch:rangjung-dorje",
+   "tch:mikyo-dorje",
+   "tch:wangchuk-dorje",
+   "tch:dakpo-tashi-namgyal",
+   "tch:pema-karpo",
+   "tch:tsangnyon-heruka",
+   "tch:go-lotsawa",
+   "tch:karma-chagme",
+   "tch:tsele-natsok-rangdrol",
+   "tch:situ-panchen",
+   "tch:jamgon-kongtrul",
+   "tch:kalu-rinpoche",
+   "tch:khyungpo-naljor"
+  ],
+  "texts": [
+   "src:ganga-mahamudra",
+   "src:saddharmopadesa-tilopa",
+   "src:karnatantravajrapada",
+   "src:bka-dpe-phyi-ma",
+   "src:drstisamksipta",
+   "src:acintyamahamudra",
+   "src:ajnasamyakpramana",
+   "src:six-yogas-of-naropa",
+   "src:marpa-namthar",
+   "src:milarepa-namthar",
+   "src:milarepa-gurbum",
+   "src:jewel-ornament-of-liberation",
+   "src:precious-garland-of-the-supreme-path",
+   "src:four-dharmas-of-gampopa",
+   "src:gampopa-collected-works",
+   "src:moonbeams-of-mahamudra",
+   "src:dorje-chang-thungma",
+   "src:kagyu-gurtso",
+   "src:blue-annals",
+   "src:dohakosa-saraha",
+   "src:dohakosa-king-saraha",
+   "src:dohakosa-queen-saraha",
+   "src:amanasikaradhara",
+   "src:tattvadasaka",
+   "src:ratnagotravibhaga",
+   "src:samadhiraja-sutra",
+   "src:hevajra-tantra",
+   "src:cakrasamvara-tantra",
+   "src:guhyasamaja-tantra"
+  ],
+  "regions": [
+   "Lhodrak (Marpa's seat, southern Tibet)",
+   "Gungthang, Lapchi, Chubar and Mount Kailash (Milarepa's retreats)",
+   "Dakpo (Daklha Gampo, founded by Gampopa, 1121)",
+   "Tsurphu (Tölung, central Tibet)",
+   "Densa Thil (Phagmodru)",
+   "Drikung",
+   "Ralung and Druk (Tsang)",
+   "Taklung",
+   "Kham (Karma Gön, Surmang, Palpung)",
+   "Bhutan (Southern Drukpa)",
+   "Ladakh (Hemis, Lamayuru)",
+   "Nepal and Sikkim (Rumtek; recent)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "from the buddha Vajradhara to Tilopa (988–1069 by the usual Tibetan reckoning) and Nāropa; Marpa's three (or four) journeys to India in the 11th c.; Milarepa (1040–1123 in Tsangnyön Heruka's reckoning); Gampopa (1079–1153) unites the streams at Daklha Gampo (1121)",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "11th c. (Marpa's translations) onward; the Dakpo Kagyu schools founded in the 12th–13th c.",
+    "from": 1050,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:mahasiddha",
+    "what": "the Mahāmudrā songs and instructions of Saraha, Śavaripa, Tilopa and Maitrīpa (the dohā cycles; the amanasikāra cycle) and the six dharmas of Tilopa and Nāropa",
+    "evidence": "Tōh 2303, 2330, 2331, 2332, 2338 translated by Nāropa/Marpa (colophons read locally); the Kagyu lineage prayers name Tilopa, Nāropa and Maitrīpa"
+   },
+   {
+    "from": "lin:vajrayana",
+    "what": "the Hevajra, Cakrasaṃvara, Guhyasamāja, Mahāmāyā and Catuḥpīṭha tantras with their empowerments, received by Marpa from Nāropa, Maitrīpa, Kukkuripa and others",
+    "evidence": "tradition's account (Life of Marpa); the translator colophons of Marpa in the Tengyur"
+   },
+   {
+    "from": "lin:kadam",
+    "what": "the graded path, mind training and monastic discipline, merged by Gampopa with Mahāmudrā ('the two streams of Kadam and Mahāmudrā mixed')",
+    "evidence": "Gampopa's Jewel Ornament follows the Kadam graded-path pattern; tradition's account of his Kadam training before meeting Milarepa"
+   },
+   {
+    "from": "lin:tathagatagarbha",
+    "what": "the Ratnagotravibhāga as the treatise of sūtra Mahāmudrā",
+    "evidence": "tradition's report (Gö Lotsāwa, Blue Annals; Jamgön Kongtrul) that Gampopa named the Uttaratantra the treatise of his Mahāmudrā"
+   },
+   {
+    "from": "lin:nyingma",
+    "what": "Dzogchen instructions (Rangjung Dorje's Karma Nyingthig; the Mahāmudrā–Dzogchen union of Karma Chagmé and Tselé Natsok Rangdröl)",
+    "evidence": "tradition's account; see brw:dzogchen-and-mahamudra"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:gelug",
+    "what": "the Six Yogas of Nāropa (Tsongkhapa's commentary) and a Mahāmudrā lineage (the 'Ganden oral lineage' Mahāmudrā of the First Panchen Lama)"
+   },
+   {
+    "to": "lin:rime",
+    "what": "the Kagyu and Shangpa transmissions collected and revived by Jamgön Kongtrul"
+   },
+   {
+    "to": "lin:nyingma",
+    "what": "mixed Kagyu–Nyingma traditions (Surmang, Nedo; the Mahāmudrā–Dzogchen union)"
+   }
+  ],
+  "distinctive_positions": [
+   "Mahāmudrā — the nature of one's own mind, empty and luminous, the co-emergent dharmakāya — is to be recognized directly through the guru's pointing-out instruction and blessing, then stabilized through the four yogas (one-pointedness, simplicity, one taste, non-meditation).",
+   "Two paths: the path of method (the Six Yogas of Nāropa, on the basis of tantric empowerment) and the path of liberation (Mahāmudrā); in Gampopa's system Mahāmudrā may also be introduced on a sūtra basis ('sūtra Mahāmudrā'), a claim contested by Sakya Paṇḍita (dsp:sutra-mahamudra).",
+   "Devotion to the guru is 'the head of meditation'; the blessing passes through an unbroken 'golden rosary' of masters each said to have realized the teaching before transmitting it (the 'practice lineage').",
+   "Thoughts are not to be suppressed: their nature is dharmakāya (Dorje Chang Thungma); appearances are 'the light of the dharmakāya' (the co-emergent instruction).",
+   "Gampopa united the Kadam graded path (the four thoughts, refuge, bodhicitta, the perfections) with Mahāmudrā: renunciation and compassion are the ground on which the view is pointed out.",
+   "Renunciation of worldly concerns and long solitary practice in mountain retreats (Milarepa's model) make buddhahood possible in one life and one body.",
+   "The recognized reincarnation (tulku) of teachers begins with the Karmapas (tradition's account)."
+  ],
+  "ultimate": "ult:kagyu",
+  "path_maps": [
+   "pth:mahamudra-four-yogas",
+   "pth:four-dharmas-of-gampopa",
+   "pth:moonbeams-mahamudra-stages",
+   "pth:jewel-ornament-sequence",
+   "pth:six-yogas-of-naropa-sequence"
+  ],
+  "summary": "The Kagyu ('lineage of the word') are the Tibetan Buddhist transmissions that descend from the Indian siddhas Tilopa, Nāropa and Maitrīpa through the translator Marpa, the yogin Milarepa and the monk-physician Gampopa, whose disciples founded the 'four great and eight lesser' Dakpo Kagyu schools (Karma, Tsalpa, Barom, Phagdru; Drikung, Drukpa, Taklung, Trophu, Martsang, Yelpa, Yazang, Shugseb). Their hallmark is Mahāmudrā — direct recognition of the mind's nature through the guru's blessing — together with the Six Yogas of Nāropa. The separate Shangpa Kagyu, from the ḍākinīs Niguma and Sukhasiddhi through Khyungpo Naljor, is grouped with them by name.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "notes": "Umbrella id: each school below counts as its own root for convergence. The Shangpa is not descended from Marpa; it is placed under the Kagyu grouping only because the tradition calls it 'Kagyu' and the registry assigns it here.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -8272,6 +9658,137 @@
   "provenance": {
    "units": [
     "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:karma-kagyu",
+  "name": "Karma Kagyu (Kamtsang Kagyu)",
+  "alt_names": [
+   "kar ma bka' brgyud",
+   "kaM tshang bka' brgyud",
+   "the Karmapa's school"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "sub_lineages": [],
+  "founders": [
+   "tch:dusum-khyenpa"
+  ],
+  "key_teachers": [
+   "tch:dusum-khyenpa",
+   "tch:karma-pakshi",
+   "tch:rangjung-dorje",
+   "tch:rolpe-dorje",
+   "tch:deshin-shekpa",
+   "tch:thongwa-donden",
+   "tch:chodrak-gyatso",
+   "tch:mikyo-dorje",
+   "tch:wangchuk-dorje",
+   "tch:choying-dorje",
+   "tch:yeshe-dorje-karmapa-11",
+   "tch:changchub-dorje-karmapa-12",
+   "tch:dudul-dorje-karmapa-13",
+   "tch:thekchok-dorje",
+   "tch:khakhyab-dorje",
+   "tch:rangjung-rigpe-dorje",
+   "tch:khedrup-drakpa-senge",
+   "tch:situ-panchen",
+   "tch:pawo-tsuglag-trengwa",
+   "tch:karma-trinlepa",
+   "tch:karma-chagme",
+   "tch:jamgon-kongtrul",
+   "tch:kalu-rinpoche",
+   "tch:chogyam-trungpa"
+  ],
+  "texts": [
+   "src:profound-inner-meaning",
+   "src:aspiration-prayer-of-mahamudra",
+   "src:distinguishing-consciousness-and-wisdom",
+   "src:treatise-on-buddha-nature-rangjung-dorje",
+   "src:chariot-of-the-dakpo-kagyu-siddhas",
+   "src:four-session-guru-yoga",
+   "src:kagyu-gurtso",
+   "src:ocean-of-definitive-meaning",
+   "src:dispelling-the-darkness-of-ignorance",
+   "src:pointing-out-the-dharmakaya",
+   "src:feast-for-scholars",
+   "src:union-of-mahamudra-and-dzogchen",
+   "src:karma-chagme-mountain-dharma",
+   "src:torch-of-certainty",
+   "src:kagyu-ngagdzo"
+  ],
+  "regions": [
+   "Kampo Nenang, Karma Gön and Tsurphu (founded by Düsum Khyenpa)",
+   "Kham (Palpung, Surmang, Nedo)",
+   "Rumtek, Sikkim (seat in exile; recent)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by the first Karmapa Düsum Khyenpa (1110–1193), who founded Kampo Nenang (1164), Karma Gön (1185) and Tsurphu (c. 1187–1189)",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "12th c. onward",
+    "from": 1147,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:kagyu",
+    "what": "Gampopa's Mahāmudrā and Six Yogas, through Düsum Khyenpa",
+    "evidence": "tradition's lineage lists (the Karma Kagyu 'golden rosary')"
+   },
+   {
+    "from": "lin:nyingma",
+    "what": "the Vima Nyingthig / Karma Nyingthig through Rangjung Dorje (from Rigdzin Kumārarāja); the Nedo branch's Kagyu–Nyingma synthesis",
+    "evidence": "tradition's account"
+   },
+   {
+    "from": "lin:jonang",
+    "what": "the other-emptiness (shentong) reading of buddha-nature in one strand (the 8th Situ, Jamgön Kongtrul), contested by others in the school",
+    "evidence": "see dsp:rangtong-shentong"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:rime",
+    "what": "Jamgön Kongtrul's collections (the Kagyu Ngagdzö; the Treasury of Instructions) and the three-year retreat model"
+   }
+  ],
+  "distinctive_positions": [
+   "The Karmapa, recognized in successive rebirths since Karma Pakshi (the first recognized tulku line by the tradition's account), heads the school; the black crown is his emblem.",
+   "Mahāmudrā is taught in the system of the 9th Karmapa's three manuals (Ocean of Definitive Meaning, Dispelling the Darkness of Ignorance, Pointing Out the Dharmakāya): preliminaries, śamatha, vipaśyanā, pointing-out, and the four yogas.",
+   "Rangjung Dorje's teaching on the nature of mind: buddha-nature is mind's luminous clarity-emptiness; the eight consciousnesses are distinguished from the five wisdoms into which they are transformed.",
+   "Mahāmudrā and Dzogchen are of one essence (Rangjung Dorje; Karma Chagmé's union of the two).",
+   "Within the school the Madhyamaka of the 8th Karmapa (the Chariot of the Dakpo Kagyu Siddhas) and the shentong reading of the 3rd Karmapa's buddha-nature teaching as understood by the 8th Situ and Jamgön Kongtrul coexist (not yet reconciled; see dsp:rangtong-shentong)."
+  ],
+  "ultimate": "ult:karma-kagyu",
+  "path_maps": [
+   "pth:mahamudra-four-yogas",
+   "pth:moonbeams-mahamudra-stages"
+  ],
+  "summary": "The school founded by the first Karmapa, Düsum Khyenpa, a principal disciple of Gampopa, and headed by the successive Karmapas; the largest Kagyu school, centred on Tsurphu and on the great monasteries of Kham, and in exile on Rumtek. Its Mahāmudrā system is that of the 3rd, 8th and 9th Karmapas; its later renaissance came through the 8th Situ and Jamgön Kongtrul.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "notes": "The recognition of the 17th Karmapa is contested between two candidates (Ogyen Trinley Dorje and Trinley Thaye Dorje); recorded as metadata only (recent).",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -10370,7 +11887,8 @@
   ],
   "ultimate": "ult:mahasiddha",
   "path_maps": [
-   "pth:pancakrama-five-stages"
+   "pth:mahasiddha-view-meditation-conduct",
+   "pth:ganga-three-phases"
   ],
   "summary": "The Indian tantric adepts (siddhas) of c. 8th–12th c. — the eighty-four of Abhayadatta's lives and others — whose songs (dohās, caryāgīti) and instructions teach the innate (sahaja) and mahāmudrā beyond ritual and conceptual meditation, and whose lineages passed into the Tibetan Kagyu, Sakya and other schools and overlap with the Nāth siddhas.",
   "coverage": [
@@ -11011,6 +12529,66 @@
   "provenance": {
    "units": [
     "skeleton:U31-sound-arts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:martsang-kagyu",
+  "name": "Martsang Kagyu",
+  "alt_names": [
+   "smar tshang bka' brgyud"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:martsang-sherab-senge"
+  ],
+  "key_teachers": [
+   "tch:martsang-sherab-senge"
+  ],
+  "regions": [
+   "eastern Tibet"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Marpa Drubthob Sherab Senge, disciple of Phagmodrupa",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "late 12th c.",
+    "from": 1170,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "extinct",
+  "distinctive_positions": [
+   "Transmits the Dakpo Kagyu Mahāmudrā and Six Yogas received from Phagmodrupa; no distinctive doctrine recorded here."
+  ],
+  "summary": "One of the 'eight lesser' Kagyu schools; extinct.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "transmissions_received": [
+   {
+    "from": "lin:phagdru-kagyu",
+    "what": "Phagmodrupa's Mahāmudrā and Six Yogas",
+    "evidence": "tradition's account of the 'eight lesser' schools"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -12182,6 +13760,62 @@
   "provenance": {
    "units": [
     "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:ngor",
+  "name": "Ngor (Ngorpa) Sakya",
+  "alt_names": [
+   "ngor pa",
+   "Ngor Evaṃ Chöden lineage"
+  ],
+  "family": "ascetic",
+  "parent": "lin:sakya",
+  "founders": [
+   "tch:ngorchen-kunga-zangpo"
+  ],
+  "key_teachers": [
+   "tch:ngorchen-kunga-zangpo"
+  ],
+  "texts": [
+   "src:lamdre-lobshe",
+   "src:three-visions-ngorchen",
+   "src:three-continua-ngorchen"
+  ],
+  "regions": [
+   "Ngor, Tsang",
+   "Kham (Derge)"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "Ngor monastery founded 1429 CE",
+    "from": 1429,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "status": "living",
+  "distinctive_positions": [
+   "Holds the Sakya Path with its Result and the Khön family's teaching lineages; distinguished from the other Sakya lines by its own transmission and monastic seat."
+  ],
+  "ultimate": "ult:ngor",
+  "summary": "Sub-school founded by Ngorchen Kunga Zangpo at Ngor Evaṃ Chöden (1429), keeper of the Lamdre Lobshé ('explanation for disciples') and of strict monastic discipline; famed for its mandala rituals and Vajrayoginī and Hevajra transmissions.",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -13437,6 +15071,83 @@
   "provenance": {
    "units": [
     "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:phagdru-kagyu",
+  "name": "Phagdru Kagyu",
+  "alt_names": [
+   "phag gru bka' brgyud",
+   "Phagmodru Kagyu"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:phagmodrupa"
+  ],
+  "key_teachers": [
+   "tch:phagmodrupa"
+  ],
+  "regions": [
+   "Densa Thil (1158)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Phagmodrupa Dorje Gyalpo (1110–1170), disciple of Gampopa (and earlier of Sachen Kunga Nyingpo)",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "mid-12th c.; the Phagmodru ruling house from 1354",
+    "from": 1158,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "absorbed",
+  "distinctive_positions": [
+   "Phagmodrupa joined Gampopa's Mahāmudrā with the Sakya Lamdre he had studied under Sachen."
+  ],
+  "summary": "One of the 'four great' Dakpo Kagyu schools, founded by Phagmodrupa at Densa Thil; the eight 'lesser' schools (Drikung, Drukpa, Taklung, Trophu, Martsang, Yelpa, Yazang, Shugseb) were founded by his disciples.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "transmissions_received": [
+   {
+    "from": "lin:kagyu",
+    "what": "Gampopa's Mahāmudrā and Six Yogas",
+    "evidence": "tradition's account of the 'four great' schools"
+   },
+   {
+    "from": "lin:sakya",
+    "what": "the Lamdre, studied by Phagmodrupa under Sachen Kunga Nyingpo",
+    "evidence": "tradition's account"
+   }
+  ],
+  "sub_lineages": [
+   "lin:drikung-kagyu",
+   "lin:drukpa-kagyu",
+   "lin:taklung-kagyu",
+   "lin:trophu-kagyu",
+   "lin:martsang-kagyu",
+   "lin:yelpa-kagyu",
+   "lin:yazang-kagyu",
+   "lin:shugseb-kagyu"
+  ],
+  "notes": "sub_lineages lists the eight schools descended from Phagmodrupa's disciples; their parent field points to the Kagyu umbrella so that each counts as its own root.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -15344,6 +17055,146 @@
   }
  },
  {
+  "id": "lin:rime",
+  "name": "Rimé (ris med), the non-sectarian movement",
+  "alt_names": [
+   "ris med ('without boundaries/bias')",
+   "phyogs med ris med ('impartial and non-sectarian')",
+   "the non-partisan movement of Kham"
+  ],
+  "family": "ascetic",
+  "parent": null,
+  "recent": true,
+  "founders": [
+   "tch:jamyang-khyentse-wangpo",
+   "tch:jamgon-kongtrul"
+  ],
+  "key_teachers": [
+   "tch:jamyang-khyentse-wangpo",
+   "tch:jamgon-kongtrul",
+   "tch:chokgyur-lingpa",
+   "tch:mipham",
+   "tch:patrul-rinpoche",
+   "tch:jamyang-loter-wangpo",
+   "tch:khenpo-shenga",
+   "tch:shechen-gyaltsap",
+   "tch:adzom-drukpa",
+   "tch:terton-sogyal",
+   "tch:khakhyab-dorje",
+   "tch:jamyang-khyentse-chokyi-lodro",
+   "tch:dilgo-khyentse"
+  ],
+  "texts": [
+   "src:sheja-kunkhyab",
+   "src:damngak-dzo",
+   "src:rinchen-terdzo",
+   "src:kagyu-ngagdzo",
+   "src:gyachen-kadzo",
+   "src:drubtab-kuntu",
+   "src:gyude-kuntu",
+   "src:kongtrul-autobiography",
+   "src:khyentse-namthar-kongtrul",
+   "src:chokling-namthar",
+   "src:uttaratantra-commentary-kongtrul",
+   "src:khorlo-thama-gongdon",
+   "src:zhentong-khelen-sengei-ngaro",
+   "src:sugatagarbha-lions-roar-mipham",
+   "src:khejug",
+   "src:ketaka-mipham",
+   "src:shenga-thirteen-great-texts",
+   "src:kunzang-lamai-shelung"
+  ],
+  "regions": [
+   "Kham, above all Derge (Dzongsar, Palpung, Shechen, Dzogchen, Kathok)",
+   "Amdo and Golok",
+   "the diaspora (20th c.)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "not a new school but the renewal of all lineages; its masters are regarded as emanations (Khyentse Wangpo of Jigme Lingpa, Kongtrul of Vairocana)",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "c. 1840s–1910s, centred on Derge; continued by 20th-c. teachers",
+    "from": 1840,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:nyingma",
+    "what": "the treasure (terma) cycles and Dzogchen",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:kagyu",
+    "what": "Marpa Kagyu Mahāmudrā and the Six Yogas",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:shangpa-kagyu",
+    "what": "the Shangpa instructions revived by Kongtrul",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:sakya",
+    "what": "the Path and Result (Lamdre) and the tantra collections compiled by Loter Wangpo",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:kadam",
+    "what": "the Kadam instructions and mind training",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:jonang",
+    "what": "the Kālacakra six-branch yoga and the other-emptiness (Great Madhyamaka) view",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:chod",
+    "what": "Chöd, paired with Shije",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:shije",
+    "what": "the Pacification instructions",
+    "evidence": "tradition-account"
+   }
+  ],
+  "distinctive_positions": [
+   "All authentic lineages are to be respected and preserved; disparaging another tradition is the grave fault of abandoning the Dharma.",
+   "The whole of Tibetan practice is mapped as eight great chariots of practice lineages: Nyingma, Kadam, Sakya Lamdre, Marpa Kagyu, Shangpa Kagyu, Shije-and-Chöd, the Kālacakra six-branch yoga, and Orgyenpa's approach-and-accomplishment of the three vajras.",
+   "Each lineage is to be received, practised and taught in its own terms, without mixing its methods or views with another's.",
+   "Rare and endangered transmissions are to be gathered and printed so that they survive (the Five Treasuries; the Compendium of Sādhanas; the Compendium of Tantras).",
+   "In Kongtrul's presentation, the other-emptiness Great Madhyamaka and the self-emptiness Madhyamaka each have their place; Mipham defends a Madhyamaka of the unity of appearance and emptiness; the movement does not impose one view."
+  ],
+  "ultimate": "ult:rime",
+  "summary": "The 19th-century non-sectarian (ris med) movement of eastern Tibet led by Jamyang Khyentse Wangpo (1820–1892) and Jamgön Kongtrul Lodrö Thayé (1813–1899), with Chokgyur Lingpa, Mipham and Patrul Rinpoche. It gathered, practised and printed the teachings of all Tibetan lineages — above all those in danger of loss — in collections such as Kongtrul's Five Treasuries, organizing them as the eight great practice lineages, and urged respect for every tradition in its own terms. Flagged as recent (post-1800).",
+  "notes": "The tradition itself presents Rimé as an attitude and a programme of preservation, not as a new school; lineage membership stays with the teachers' own schools.",
+  "coverage": [
+   "B6",
+   "H"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:rinzai",
   "name": "Rinzai Zen",
   "alt_names": [
@@ -16882,6 +18733,167 @@
   }
  },
  {
+  "id": "lin:sakya",
+  "name": "Sakya",
+  "alt_names": [
+   "sa skya pa",
+   "Sakyapa",
+   "the school of the 'Grey Earth' (sa skya) monastery",
+   "Lamdre school (after its central instruction)"
+  ],
+  "family": "ascetic",
+  "parent": "lin:vajrayana",
+  "sub_lineages": [
+   "lin:ngor",
+   "lin:tshar",
+   "lin:dzongpa"
+  ],
+  "founders": [
+   "tch:khon-konchok-gyalpo",
+   "tch:sachen-kunga-nyingpo"
+  ],
+  "key_teachers": [
+   "tch:virupa",
+   "tch:gayadhara",
+   "tch:drokmi-lotsawa",
+   "tch:khon-konchok-gyalpo",
+   "tch:sachen-kunga-nyingpo",
+   "tch:sonam-tsemo",
+   "tch:drakpa-gyaltsen",
+   "tch:sakya-pandita",
+   "tch:chogyal-phagpa",
+   "tch:rendawa",
+   "tch:yakton-sangye-pal",
+   "tch:rongton-sheja-kunrig",
+   "tch:ngorchen-kunga-zangpo",
+   "tch:dzongpa-kunga-namgyal",
+   "tch:gorampa",
+   "tch:shakya-chokden",
+   "tch:taktsang-lotsawa",
+   "tch:tsarchen-losal-gyatso",
+   "tch:ngorchen-konchog-lhundrub",
+   "tch:tokme-zangpo"
+  ],
+  "texts": [
+   "src:lamdre",
+   "src:lamdre-tsokshe",
+   "src:lamdre-lobshe",
+   "src:pod-ser",
+   "src:nyakma",
+   "src:three-visions-ngorchen",
+   "src:three-continua-ngorchen",
+   "src:parting-from-four-attachments",
+   "src:parting-from-four-attachments-drakpa-gyaltsen",
+   "src:tshad-ma-rigs-gter",
+   "src:thubpai-gongsal",
+   "src:domsum-rabye",
+   "src:sakya-legshe",
+   "src:khepa-jugpai-go",
+   "src:sheja-rabsel",
+   "src:gyude-chinam-sonam-tsemo",
+   "src:chola-jugpai-go",
+   "src:taway-shenje",
+   "src:taway-ngensel",
+   "src:golden-lancet",
+   "src:hevajra-tantra",
+   "src:thirty-seven-practices"
+  ],
+  "regions": [
+   "Tsang (Sakya monastery, founded 1073)",
+   "Ngor Evaṃ Chöden (1429)",
+   "Nalendra (Tshar)",
+   "Gongkar Dorjeden (Dzong)",
+   "Kham and Amdo (Derge Gönchen, Lhundrub Teng)",
+   "Mongol court of the Yuan (Phagpa)",
+   "diaspora (Rajpur, India)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Lamdre revealed to Virūpa by the goddess Nairātmyā; brought to Tibet by Gayadhara and Drokmi; Sakya monastery founded by Khön Könchok Gyalpo 1073",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Sakya monastery 1073 CE; the school's identity fixed by the 'five founding masters' (1092–1280 CE); Sakya–Yuan hegemony over Tibet c. 1260–1354",
+    "from": 1073,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:mahasiddha",
+    "what": "the Path with its Result (Lamdre) of Virūpa and the Hevajra cycle; the 'eight later cycles of the path' (lam skor phyi ma brgyad)",
+    "evidence": "Sakya lineage lists (Virūpa → Kāṇha → Ḍamarupa → Avadhūtipa → Gayadhara → Drokmi); Vajra Verses Tōh 2284 in the Tengyur"
+   },
+   {
+    "from": "lin:nyingma",
+    "what": "the Khön family's inherited Vajrakīlaya and Yangdak Heruka practice",
+    "evidence": "Sakya family histories (tradition's account)"
+   },
+   {
+    "from": "lin:pramana-buddhist",
+    "what": "Dharmakīrti's epistemology as read in Sakya Paṇḍita's Treasury of Reasoning",
+    "evidence": "Tshad ma rigs gter"
+   },
+   {
+    "from": "lin:kadam",
+    "what": "mind training and the Mahāyāna gradual path (Parting from the Four Attachments commentaries; Tokmé Zangpo)",
+    "evidence": "Sakya lojong literature"
+   },
+   {
+    "from": "lin:madhyamaka",
+    "what": "Candrakīrti's Madhyamaka read as freedom from elaborations (spros bral)",
+    "evidence": "Rendawa, Rongtön, Gorampa"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:gelug",
+    "what": "Tsongkhapa's Madhyamaka and early training under the Sakya master Rendawa; many tantric lineages"
+   },
+   {
+    "to": "lin:rime",
+    "what": "Ngor and Tshar Lamdre and the Sakya collections re-transmitted by Jamyang Khyentse Wangpo and Jamgön Kongtrul"
+   }
+  ],
+  "distinctive_positions": [
+   "The Path with its Result (lam 'bras): the result is already present in the cause, so path and result are taught together; the whole path is laid out as the three visions (impure, experiential, pure) and the three continua (causal/all-base, method/body, result/Mahāmudrā).",
+   "View of the inseparability of saṃsāra and nirvāṇa ('khor 'das dbyer med), the union of clarity and emptiness of the all-base causal continuum.",
+   "Parting from the Four Attachments (zhen pa bzhi bral), received by Sachen Kunga Nyingpo from Mañjuśrī, as the summary of the whole common path.",
+   "Sakya Paṇḍita's insistence that Mahāmudrā is the wisdom born of empowerment and the two stages; his critique of a self-sufficient 'white panacea' Mahāmudrā as Chinese-style (Hwashang) teaching.",
+   "Three vows (prātimokṣa, bodhisattva, tantric) must be kept distinct and each by its own rules (Discrimination of the Three Vows).",
+   "Madhyamaka (Gorampa): the final view is freedom from all four extremes (spros bral), not a mere negation of inherent existence; Tsongkhapa's reading rejected as 'nihilist Madhyamaka'.",
+   "Epistemology (Sakya Paṇḍita): universals are conceptual constructions, not real entities, against the earlier Sangphu realists.",
+   "Leadership of the school by the Khön family (Sakya Trizin), with the Ngor, Tshar and Dzong sub-schools."
+  ],
+  "ultimate": "ult:sakya",
+  "path_maps": [
+   "pth:lamdre-three-visions",
+   "pth:lamdre-vajra-verses-grounds",
+   "pth:parting-from-four-attachments"
+  ],
+  "summary": "The Sakya school, centred on the Khön family's monastery of Sakya (1073) and its 'five founding masters', transmits Virūpa's Path with its Result (Lamdre) with the Hevajra tantra as its core, the mind-training summary Parting from the Four Attachments, and a strong scholastic tradition (Sakya Paṇḍita's epistemology and Three Vows; Gorampa's and Shākya Chokden's Madhyamaka).",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:samaya-srividya",
   "name": "Samaya school of Śrīvidyā (Samayācāra)",
   "family": "vedic",
@@ -18352,6 +20364,111 @@
   }
  },
  {
+  "id": "lin:shangpa-kagyu",
+  "name": "Shangpa Kagyu",
+  "alt_names": [
+   "shangs pa bka' brgyud",
+   "the Shangpa (after the Shang valley in Tsang)",
+   "the lineage of Niguma"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:niguma",
+   "tch:sukhasiddhi",
+   "tch:khyungpo-naljor"
+  ],
+  "key_teachers": [
+   "tch:khyungpo-naljor",
+   "tch:mokchokpa",
+   "tch:kyergangpa",
+   "tch:sangye-nyenton",
+   "tch:sangye-tonpa",
+   "tch:thangtong-gyalpo",
+   "tch:taranatha",
+   "tch:jamgon-kongtrul",
+   "tch:kalu-rinpoche"
+  ],
+  "texts": [
+   "src:vajra-lines-of-niguma",
+   "src:amulet-mahamudra",
+   "src:three-integrations",
+   "src:deathless-body-and-mind",
+   "src:white-and-red-khecari",
+   "src:sukhasiddhi-six-dharmas",
+   "src:drodon-khakhyabma"
+  ],
+  "regions": [
+   "Shang (Tsang), Zhong-zhong",
+   "later carried inside the Jonang (Tāranātha), Karma Kagyu and Rimé (Jamgön Kongtrul); revived in the 20th c. by Kalu Rinpoche"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Khyungpo Naljor (by the tradition's reckoning 978/990–1127/1139, a life of over a century) received the teachings in India from the ḍākinīs Niguma and Sukhasiddhi",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "11th–12th c. onward",
+    "from": 1050,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:mahasiddha",
+    "what": "Niguma's six dharmas, the Amulet Mahāmudrā and related cycles; Sukhasiddhi's teachings",
+    "evidence": "tradition's account"
+   },
+   {
+    "from": "lin:nyingma",
+    "what": "Khyungpo Naljor's earlier Bön and Dzogchen training",
+    "evidence": "tradition's account (biographies)"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:jonang",
+    "what": "the Shangpa cycles held and commented on by Tāranātha"
+   },
+   {
+    "to": "lin:rime",
+    "what": "the Shangpa texts collected by Jamgön Kongtrul"
+   }
+  ],
+  "distinctive_positions": [
+   "Its source is two women: the ḍākinīs Niguma (by the Tibetan account Nāropa's sister or consort) and Sukhasiddhi, received by Khyungpo Naljor in India.",
+   "The 'five golden dharmas' pictured as a tree: the root, Niguma's six dharmas; the trunk, the Amulet Mahāmudrā; the branches, the three integrations; the flowers, the white and red Khecarī; the fruit, the deathless body and mind.",
+   "By Niguma's command (tradition) the teachings passed to a single disciple for the first seven generations (the 'seven jewels'), then spread widely.",
+   "The Shangpa has had no large institutional school of its own after the 14th c.; it lives inside other schools."
+  ],
+  "ultimate": "ult:shangpa-kagyu",
+  "path_maps": [
+   "pth:shangpa-five-golden-dharmas"
+  ],
+  "summary": "A Tibetan transmission distinct from the Marpa Kagyu, founded by Khyungpo Naljor on the teachings of the Indian ḍākinīs Niguma and Sukhasiddhi; its 'five golden dharmas' parallel the Six Yogas and Mahāmudrā. It survives within the Karma Kagyu, Jonang and Rimé and was revived by Kalu Rinpoche.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "notes": "Grouped under lin:kagyu by name only (see the umbrella's note).",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:shelun",
   "name": "Shelun school (Chinese 'Mahāyānasaṃgraha' school)",
   "alt_names": [
@@ -18400,6 +20517,102 @@
   "provenance": {
    "units": [
     "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:shije",
+  "name": "Shije (zhi byed), 'Pacification [of suffering]'",
+  "alt_names": [
+   "zhi byed",
+   "sdug bsngal zhi byed ('pacifying suffering')",
+   "the tradition of Padampa Sangye",
+   "Dampa's Pacification"
+  ],
+  "family": "ascetic",
+  "parent": "lin:vajrayana",
+  "founders": [
+   "tch:padampa-sangye"
+  ],
+  "key_teachers": [
+   "tch:padampa-sangye",
+   "tch:dampa-kunga",
+   "tch:machig-labdron",
+   "tch:tsele-natsok-rangdrol"
+  ],
+  "texts": [
+   "src:dingri-gyatsa",
+   "src:zhije-collection",
+   "src:zhije-lamnga-tsele",
+   "src:dampa-sangye-namthar",
+   "src:blue-annals",
+   "src:prajnaparamita-hrdaya",
+   "src:damngak-dzo"
+  ],
+  "regions": [
+   "Dingri (Langkhor) in southern Tsang",
+   "Latö and the Nepal borderlands",
+   "later only within other schools' collections"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "brought by the South Indian siddha Padampa Sangye on several visits to Tibet, his last and longest at Dingri, where he died",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "late 11th – early 12th c. (Padampa d. c. 1105 or 1117); transmitted as the early, middle and later lines; no longer an independent institution after c. 15th c.",
+    "from": 1080,
+    "to": 1500
+   },
+   "confidence": "low"
+  },
+  "status": "absorbed",
+  "transmissions_received": [
+   {
+    "from": "lin:mahasiddha",
+    "what": "the siddha instructions Padampa is said to have received from many Indian masters",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:mahayana",
+    "what": "the Perfection of Wisdom, above all the Heart Sūtra's 'mantra that pacifies all suffering', from which the name is taken",
+    "evidence": "explicit-citation"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:chod",
+    "what": "the father lineage of Chöd and Padampa's instructions to Machig Labdrön"
+   },
+   {
+    "to": "lin:rime",
+    "what": "counted with Chöd as one of the eight great practice lineages; its instructions gathered in the Treasury of Instructions"
+   }
+  ],
+  "distinctive_positions": [
+   "Suffering is pacified by the realization of the emptiness taught in the Perfection of Wisdom; the name comes from the Heart Sūtra's description of the mantra of wisdom as 'pacifying all suffering'.",
+   "Sūtra and mantra instructions are combined and given according to the disciple's capacity.",
+   "Renunciation of worldly concerns, solitary practice and devotion to the guru are urged in the plain verses of the Dingri Hundred.",
+   "The teaching was given in three transmissions (early, middle, later) on Padampa's successive visits."
+  ],
+  "ultimate": "ult:shije",
+  "summary": "The 'Pacification' tradition brought to Tibet by the South Indian siddha Padampa Sangye (d. c. 1105/1117), who taught at Dingri. Grounded in the Perfection of Wisdom — whose mantra 'pacifies all suffering' — it combined sūtra and tantra instructions and was passed down in early, middle and later transmissions, the last through Dampa Kunga. Padampa's Hundred Verses to the people of Dingri remain widely read. As an independent line it faded; its instructions survive in other schools and in Kongtrul's Treasury of Instructions, where it is paired with Chöd.",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -18533,6 +20746,66 @@
   "provenance": {
    "units": [
     "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:shugseb-kagyu",
+  "name": "Shugseb Kagyu",
+  "alt_names": [
+   "shug gseb bka' brgyud"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:gyergom-tsultrim-senge"
+  ],
+  "key_teachers": [
+   "tch:gyergom-tsultrim-senge"
+  ],
+  "regions": [
+   "Shugseb (south of Lhasa)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Gyergom Tsultrim Senge, disciple of Phagmodrupa",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "late 12th c.",
+    "from": 1180,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "absorbed",
+  "distinctive_positions": [
+   "Transmits the Dakpo Kagyu Mahāmudrā and Six Yogas received from Phagmodrupa; no distinctive doctrine recorded here."
+  ],
+  "summary": "One of the 'eight lesser' Kagyu schools; its seat Shugseb later became a Nyingma nunnery.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "transmissions_received": [
+   {
+    "from": "lin:phagdru-kagyu",
+    "what": "Phagmodrupa's Mahāmudrā and Six Yogas",
+    "evidence": "tradition's account of the 'eight lesser' schools"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -18806,6 +21079,136 @@
   "provenance": {
    "units": [
     "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:sowa-rigpa",
+  "name": "Sowa Rigpa (gso ba rig pa), the Tibetan science of healing",
+  "alt_names": [
+   "Tibetan medicine",
+   "gso ba rig pa ('the science of healing')",
+   "sman dpyad",
+   "amchi medicine",
+   "the medicine of the Four Tantras (rgyud bzhi)"
+  ],
+  "family": "shared",
+  "parent": null,
+  "sub_lineages": [
+   "lin:jangpa-medicine",
+   "lin:zurkharpa-medicine"
+  ],
+  "founders": [
+   "tch:bhaisajyaguru",
+   "tch:yuthok-yonten-gonpo-elder",
+   "tch:yuthok-yonten-gonpo-younger"
+  ],
+  "key_teachers": [
+   "tch:rigpe-yeshe",
+   "tch:yile-kye",
+   "tch:vairocana-translator",
+   "tch:yuthok-yonten-gonpo-elder",
+   "tch:drapa-ngonshe",
+   "tch:yuthok-yonten-gonpo-younger",
+   "tch:sumton-yeshe-zung",
+   "tch:jangdak-namgyal-drakzang",
+   "tch:zurkhar-nyamnyi-dorje",
+   "tch:zurkhar-lodro-gyalpo",
+   "tch:desi-sangye-gyatso",
+   "tch:deumar-geshe-tenzin-phuntsok",
+   "tch:khyenrab-norbu"
+  ],
+  "texts": [
+   "src:gyushi",
+   "src:gyushi-tsagyu",
+   "src:gyushi-shegyu",
+   "src:gyushi-mengagyu",
+   "src:gyushi-chimagyu",
+   "src:blue-beryl",
+   "src:medical-paintings",
+   "src:mengak-lhenthab",
+   "src:khogbug",
+   "src:yuthok-nyingthig",
+   "src:mepo-zhallung",
+   "src:shelgong-shelthreng",
+   "src:astanga-hrdaya",
+   "src:yogasataka-nagarjuna",
+   "src:jivasutra",
+   "src:bhaisajyaguru-sutra"
+  ],
+  "regions": [
+   "Tibet (Chakpori medical college, Lhasa, 1696; Mentsikhang, Lhasa, 1916)",
+   "Ladakh, Spiti, Lahaul",
+   "Bhutan, Sikkim, Nepal Himalaya",
+   "Mongolia, Buryatia, Kalmykia",
+   "the Tibetan diaspora (Mentsikhang, Dharamsala)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "taught by the Medicine Buddha in the city of Tanaduk; the Four Tantras brought to Tibet and translated by Vairocana in the 8th c., given to Yuthok the Elder (trad. 708–833), hidden at Samye and recovered as treasure by Drapa Ngönshé in 1038",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "the Four Tantras compiled in the 12th c. by Yuthok Yönten Gönpo the Younger (1126–1202), with the Aṣṭāṅgahṛdaya as a principal source; the Jangpa and Zurkharpa schools 15th c.; standardized by Desi Sangye Gyatso 1680s–1703; living",
+    "from": 1150,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:ayurveda",
+    "what": "the Aṣṭāṅgahṛdaya (Tibetan translation in the Tengyur's medical section, with its commentaries) — the eight branches, the three doṣas, seven dhātus, six tastes, daily and seasonal regimen",
+    "evidence": "textual-parallel"
+   },
+   {
+    "from": "lin:vajrayana",
+    "what": "the Medicine Buddha as teacher, the tantra form of the Four Tantras, consecration of medicines and the physician's deity practice (Yuthok Nyingthig)",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:mahayana",
+    "what": "the Bhaiṣajyaguru sūtra and the doctrine that ignorance and the three poisons are the root of all disease",
+    "evidence": "shared-vocabulary"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:rime",
+    "what": "medicine counted among the sciences in Kongtrul's Treasury of Knowledge (as recalled; low confidence)"
+   }
+  ],
+  "distinctive_positions": [
+   "The Four Tantras were taught by the Medicine Buddha, emanating as the sage Rigpé Yeshe, in answer to the sage Yilé Kyé (the tradition's account).",
+   "The ultimate cause of all disease is ignorance (ma rig pa) that does not understand selflessness; from it arise desire, hatred and delusion, which give rise to the three nyepa — rlung, mkhris pa and bad kan.",
+   "Health is the balance of the three nyepa, the seven bodily constituents and the three excretions; disease is their imbalance.",
+   "Diagnosis is by seeing (above all tongue and urine), touching (above all the pulse) and questioning; treatment is by diet, behaviour, medicines and external therapies, in that order of gentleness.",
+   "The whole science is summarized in the image of three trees with roots, trunks, branches and leaves, whose flowers are health and long life and whose fruits are Dharma, wealth and happiness.",
+   "The physician must have compassion (bodhicitta) as well as learning; medicine is practised as a path of the bodhisattva.",
+   "Some diseases are karmic or caused by spirits (gdon) and need Dharma practice or ritual rather than medicine alone."
+  ],
+  "ultimate": "ult:sowa-rigpa",
+  "summary": "The Tibetan science of healing (one of the five major sciences), based on the Four Tantras (rgyud bzhi) — in the tradition's account the word of the Medicine Buddha, in the scholarly account a 12th-century compilation by Yuthok Yönten Gönpo the Younger drawing heavily on the Aṣṭāṅgahṛdaya. It explains health and disease through the three nyepa (rlung, mkhris pa, bad kan), which arise from the three poisons rooted in ignorance, and the seven bodily constituents; it diagnoses by pulse and urine and treats by diet, behaviour, medicines and external therapies. Desi Sangye Gyatso's Blue Beryl commentary and the medical paintings (late 17th c.) fixed the classical tradition, which is practised across the Himalaya, Mongolia and the diaspora.",
+  "notes": "family 'shared': Buddhist in frame (Medicine Buddha, three poisons), Āyurvedic in much of its content, and also used by Bön physicians with their own origin account (not covered here). Decision in REPORT.",
+  "coverage": [
+   "B6",
+   "C",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -19711,6 +22114,66 @@
   "provenance": {
    "units": [
     "skeleton:U32-jyotisa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:taklung-kagyu",
+  "name": "Taklung Kagyu",
+  "alt_names": [
+   "stag lung bka' brgyud"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:taklung-thangpa"
+  ],
+  "key_teachers": [
+   "tch:taklung-thangpa"
+  ],
+  "regions": [
+   "Taklung (1180); Riwoche (Kham)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Taklung Thangpa Tashi Pal (1142–1210), disciple of Phagmodrupa",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "late 12th c.",
+    "from": 1180,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "distinctive_positions": [
+   "Emphasis on strict discipline within the Phagdru Mahāmudrā tradition."
+  ],
+  "summary": "One of the 'eight lesser' Kagyu schools, founded by Taklung Thangpa at Taklung; known for strict monastic discipline.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "transmissions_received": [
+   {
+    "from": "lin:phagdru-kagyu",
+    "what": "Phagmodrupa's Mahāmudrā and Six Yogas",
+    "evidence": "tradition's account of the 'eight lesser' schools"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -20833,6 +23296,182 @@
   }
  },
  {
+  "id": "lin:trophu-kagyu",
+  "name": "Trophu Kagyu",
+  "alt_names": [
+   "khro phu bka' brgyud"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:gyaltsa-rinchen-gon"
+  ],
+  "key_teachers": [
+   "tch:gyaltsa-rinchen-gon"
+  ],
+  "regions": [
+   "Trophu (Tsang)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Gyaltsa Rinchen Gön and Kunden Repa, disciples of Phagmodrupa; later Trophu Lotsāwa invited Śākyaśrībhadra to Tibet",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "late 12th–13th c.",
+    "from": 1170,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "extinct",
+  "distinctive_positions": [
+   "Transmits the Dakpo Kagyu Mahāmudrā and Six Yogas received from Phagmodrupa; no distinctive doctrine recorded here."
+  ],
+  "summary": "One of the 'eight lesser' Kagyu schools, centred on Trophu in Tsang; now extinct as a separate school.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "transmissions_received": [
+   {
+    "from": "lin:phagdru-kagyu",
+    "what": "Phagmodrupa's Mahāmudrā and Six Yogas",
+    "evidence": "tradition's account of the 'eight lesser' schools"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:tsalpa-kagyu",
+  "name": "Tsalpa Kagyu",
+  "alt_names": [
+   "tshal pa bka' brgyud"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:lama-zhang"
+  ],
+  "key_teachers": [
+   "tch:lama-zhang"
+  ],
+  "regions": [
+   "Tshal Gungthang near Lhasa (1175)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Zhang Yudrakpa Tsöndrü Drakpa (Lama Zhang, 1123–1193), disciple of Gampopa's nephew Gomtsul",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "late 12th c.; the Tshalpa myriarchy flourished in the 13th–14th c.",
+    "from": 1175,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "absorbed",
+  "distinctive_positions": [
+   "Lama Zhang's Mahāmudrā instruction, including the 'white self-sufficient remedy' (dkar po chig thub) idiom that Sakya Paṇḍita attacked."
+  ],
+  "summary": "One of the 'four great' Dakpo Kagyu schools, founded by Lama Zhang, author of the Ultimate Supreme Path of Mahāmudrā; the school later merged into others.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "texts": [
+   "src:ultimate-supreme-path-of-mahamudra"
+  ],
+  "transmissions_received": [
+   {
+    "from": "lin:kagyu",
+    "what": "Gampopa's Mahāmudrā and Six Yogas",
+    "evidence": "tradition's account of the 'four great' schools"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:tshar",
+  "name": "Tshar (Tsharpa) Sakya",
+  "alt_names": [
+   "tshar pa"
+  ],
+  "family": "ascetic",
+  "parent": "lin:sakya",
+  "founders": [
+   "tch:tsarchen-losal-gyatso"
+  ],
+  "key_teachers": [
+   "tch:tsarchen-losal-gyatso"
+  ],
+  "texts": [
+   "src:lamdre-lobshe"
+  ],
+  "regions": [
+   "Nalendra (Phenpo)",
+   "Dar Drangmochen"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "16th c. CE",
+    "from": 1502,
+    "to": 1566
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "distinctive_positions": [
+   "Holds the Sakya Path with its Result and the Khön family's teaching lineages; distinguished from the other Sakya lines by its own transmission and monastic seat."
+  ],
+  "ultimate": "ult:tshar",
+  "summary": "Sub-school stemming from Tsarchen Losal Gyatso (1502–1566), who re-transmitted the Lamdre Lobshé as a hidden oral instruction and the 'thirteen golden dharmas'; associated with Nalendra monastery.",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:u-ba-khin-goenka",
   "name": "U Ba Khin – S. N. Goenka tradition (Sayagyi U Ba Khin lineage)",
   "alt_names": [
@@ -21882,8 +24521,7 @@
    "pth:pancakrama-five-stages",
    "pth:guhyasamaja-sadanga-yoga",
    "pth:kalacakra-six-branches",
-   "pth:four-abhisekas",
-   "pth:four-tantra-classes"
+   "pth:mahasiddha-view-meditation-conduct"
   ],
   "summary": "The esoteric Mahāyāna of India that teaches the swift path to buddhahood by mantra, deity yoga in the maṇḍala, consecration by a vajra master and the yogas of the subtle body, codified in tantras revealed (by the tradition's account) by the Buddha as Vajradhara and, historically, composed c. 6th–11th c. and taught at Nālandā, Vikramaśīla and among the wandering siddhas; transmitted to Tibet, Nepal and East Asia.",
   "coverage": [
@@ -23507,6 +26145,126 @@
   }
  },
  {
+  "id": "lin:yazang-kagyu",
+  "name": "Yazang Kagyu",
+  "alt_names": [
+   "g.ya' bzang bka' brgyud"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:zarawa-kalden-yeshe-senge"
+  ],
+  "key_teachers": [
+   "tch:zarawa-kalden-yeshe-senge"
+  ],
+  "regions": [
+   "Yazang (Yarlung)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Zarawa Kalden Yeshe Senge, disciple of Phagmodrupa",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "c. 1200",
+    "from": 1200,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "extinct",
+  "distinctive_positions": [
+   "Transmits the Dakpo Kagyu Mahāmudrā and Six Yogas received from Phagmodrupa; no distinctive doctrine recorded here."
+  ],
+  "summary": "One of the 'eight lesser' Kagyu schools; extinct.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "transmissions_received": [
+   {
+    "from": "lin:phagdru-kagyu",
+    "what": "Phagmodrupa's Mahāmudrā and Six Yogas",
+    "evidence": "tradition's account of the 'eight lesser' schools"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:yelpa-kagyu",
+  "name": "Yelpa Kagyu",
+  "alt_names": [
+   "yel pa bka' brgyud"
+  ],
+  "family": "ascetic",
+  "parent": "lin:kagyu",
+  "founders": [
+   "tch:yelpa-yeshe-tsek"
+  ],
+  "key_teachers": [
+   "tch:yelpa-yeshe-tsek"
+  ],
+  "regions": [
+   "Yelphug; Kham"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Drubthob Yelpa Yeshe Tsek, disciple of Phagmodrupa",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "late 12th c.",
+    "from": 1170,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "extinct",
+  "distinctive_positions": [
+   "Transmits the Dakpo Kagyu Mahāmudrā and Six Yogas received from Phagmodrupa; no distinctive doctrine recorded here."
+  ],
+  "summary": "One of the 'eight lesser' Kagyu schools; absorbed.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6"
+  ],
+  "transmissions_received": [
+   {
+    "from": "lin:phagdru-kagyu",
+    "what": "Phagmodrupa's Mahāmudrā and Six Yogas",
+    "evidence": "tradition's account of the 'eight lesser' schools"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:yogacara",
   "name": "Yogācāra",
   "alt_names": [
@@ -24171,6 +26929,60 @@
   "provenance": {
    "units": [
     "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:zurkharpa-medicine",
+  "name": "Zurkharpa (zur lugs), the Zur school of Tibetan medicine",
+  "alt_names": [
+   "zur lugs",
+   "Zurkhar tradition"
+  ],
+  "family": "shared",
+  "parent": "lin:sowa-rigpa",
+  "founders": [
+   "tch:zurkhar-nyamnyi-dorje"
+  ],
+  "key_teachers": [
+   "tch:zurkhar-nyamnyi-dorje",
+   "tch:zurkhar-lodro-gyalpo"
+  ],
+  "texts": [
+   "src:gyushi",
+   "src:mepo-zhallung"
+  ],
+  "regions": [
+   "Lhokha (Zurkhar), southern Tibet"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "15th–16th c. (Zurkhar Nyamnyi Dorje 1439–1475; Zurkhar Lodrö Gyalpo 1509–1579)",
+    "from": 1450,
+    "to": 1700
+   },
+   "confidence": "low"
+  },
+  "status": "absorbed",
+  "distinctive_positions": [
+   "Its commentary, the Oral Instructions of the Ancestors (mes po'i zhal lung), became a principal reference behind the Blue Beryl; Zurkhar Lodrö Gyalpo discussed whether the Four Tantras is the Buddha's word."
+  ],
+  "summary": "The southern commentarial school on the Four Tantras founded by Zurkhar Nyamnyi Dorje and continued by Zurkhar Lodrö Gyalpo, whose commentary shaped later classical medicine.",
+  "coverage": [
+   "B6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"

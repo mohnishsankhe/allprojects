@@ -27,7 +27,7 @@ The samādhi of recollecting the Buddha is the truly unsurpassed, profound and w
 
 _level: conventional · standpoint: devotional · path: sound, meditation · stage: all · types: practice, sound-language_
 
-terms: `trm:nianfo-sanmei`, `trm:minghao` · practices: `prc:wuhui-nianfo` · teachers: [Fazhao](../teachers/fazhao.md)
+terms: [nianfo sanmei](../terms/nianfo-sanmei.md), [minghao](../terms/minghao.md) · practices: [Five-tone recitation (wuhui nianfo) of Fazhao](../practices/wuhui-nianfo.md) · teachers: [Fazhao](../teachers/fazhao.md)
 
 ### 476b27-c02 <a id="tea-wuhui-nianfo-fashi-yizan-476b27-c02"></a>
 `skeleton` · confidence high
@@ -38,10 +38,10 @@ The five assemblies of recitation: first, 'Namo Amituofo' slowly in level tone; 
 
 _level: conventional · standpoint: ritual · path: sound, devotion · stage: all · types: practice, sound-language_
 
-practices: `prc:wuhui-nianfo` · teachers: [Fazhao](../teachers/fazhao.md)
+practices: [Five-tone recitation (wuhui nianfo) of Fazhao](../practices/wuhui-nianfo.md) · teachers: [Fazhao](../teachers/fazhao.md)
 
 
 _Notes: Read locally (T47n1983)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

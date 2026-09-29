@@ -13,4 +13,4 @@
 - leads-to → [Conventional and ultimate truth (sammuti- and paramattha-sacca)](two-truths-theravada.md) (bridging): the commentarial two truths (sammuti- and paramattha-sacca) build on these passages — rests on [39-53](../texts/potthapada-sutta.md#tea-potthapada-sutta-39-53), [53.5](../texts/potthapada-sutta.md#tea-potthapada-sutta-53-5)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

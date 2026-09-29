@@ -50,4 +50,4 @@ _none recorded_
 _Notes: Low confidence throughout; reconstruction depends on A. Sanderson's work on the Niśvāsamukha and the Lākulas (scholarly metadata only)._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:34 IST._

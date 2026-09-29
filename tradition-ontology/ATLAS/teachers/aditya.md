@@ -8,4 +8,4 @@
 The Sun-god who instructs visitors to his world: Triśikhi (Triśikhibrāhmaṇa), Sāṅkṛti (Akṣi); in the Maṇḍalabrāhmaṇa Yājñavalkya goes to the solar world and is taught by the Person there (Nārāyaṇa).
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._

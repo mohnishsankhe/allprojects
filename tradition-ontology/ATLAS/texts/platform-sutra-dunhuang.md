@@ -31,7 +31,7 @@ Huineng's first verse in the Dunhuang recension: bodhi originally has no tree, t
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [foxing (buddha-nature)](../terms/foxing.md) · concepts: `cpt:verse-contest`
+terms: [foxing (buddha-nature)](../terms/foxing.md) · concepts: [The verse contest at Huangmei](../concepts/verse-contest.md)
 
 ### 8.4 <a id="tea-platform-sutra-dunhuang-8-4"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ Huineng's second verse (Dunhuang only): the mind is the bodhi tree, the body the
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-concepts: `cpt:verse-contest`
+concepts: [The verse contest at Huangmei](../concepts/verse-contest.md)
 
 ### 14.1 <a id="tea-platform-sutra-dunhuang-14-1"></a>
 `skeleton` · confidence high
@@ -53,7 +53,7 @@ One-practice samādhi is practising a straight mind at all times; the deluded wh
 
 _level: bridging · standpoint: polemical · path: meditation · stage: all · types: practice, dispute_
 
-practices: `prc:yixing-sanmei` · obstacles: `obs:attachment-to-stillness` · disputes: `dsp:sudden-or-gradual`
+practices: [One-practice samādhi (yixing sanmei)](../practices/yixing-sanmei.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · disputes: `dsp:sudden-or-gradual`
 
 ### 17.1 <a id="tea-platform-sutra-dunhuang-17-1"></a>
 `skeleton` · confidence high
@@ -64,7 +64,7 @@ From the beginning, both sudden and gradual have taken no-thought as tenet, no-f
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: all · types: practice, consciousness-mind_
 
-terms: [wunian (no-thought)](../terms/wunian.md), [wuxiang (no-form)](../terms/wuxiang.md), [wuzhu (non-abiding)](../terms/wuzhu.md) · concepts: `cpt:no-thought-no-form-non-abiding`
+terms: [wunian (no-thought)](../terms/wunian.md), [wuxiang (no-form)](../terms/wuxiang.md), [wuzhu (non-abiding)](../terms/wuzhu.md) · concepts: [No-thought as tenet, no-form as substance, non-abiding as root](../concepts/no-thought-no-form-non-abiding.md)
 
 ### 24.1 <a id="tea-platform-sutra-dunhuang-24-1"></a>
 `skeleton` · confidence high
@@ -75,7 +75,7 @@ Mahāprajñāpāramitā must be practised, not merely recited; 'great' means the
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: all · types: practice_
 
-terms: [wuji kong (indeterminate emptiness)](../terms/wuji-kong.md) · obstacles: `obs:blank-emptiness`
+terms: [wuji kong (indeterminate emptiness)](../terms/wuji-kong.md) · obstacles: [Indeterminate (blank) emptiness](../obstacles/blank-emptiness.md)
 
 ### 38.1 <a id="tea-platform-sutra-dunhuang-38-1"></a>
 `skeleton` · confidence high
@@ -86,7 +86,7 @@ The compilers' note: the tenet is transmitted by handing on the Platform Sūtra 
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission_
 
-concepts: `cpt:mind-to-mind-transmission`
+concepts: [Mind-to-mind transmission](../concepts/mind-to-mind-transmission.md)
 
 ### 44.1 <a id="tea-platform-sutra-dunhuang-44-1"></a>
 `skeleton` · confidence high
@@ -108,7 +108,7 @@ Asked who will receive robe and Dharma, Huineng says the Dharma has been entrust
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission, dispute_
 
-concepts: `cpt:robe-and-bowl` · teachers: [Heze Shenhui 荷澤神會](../teachers/shenhui.md) · disputes: `dsp:huatai-true-lineage`
+concepts: [The robe and bowl as tokens of transmission](../concepts/robe-and-bowl.md) · teachers: [Heze Shenhui 荷澤神會](../teachers/shenhui.md) · disputes: [Who is the true Sixth Patriarch — was the Northern school collateral?](../debates/huatai-true-lineage.md)
 
 ### 51.1 <a id="tea-platform-sutra-dunhuang-51-1"></a>
 `skeleton` · confidence high
@@ -119,7 +119,7 @@ The transmission list of the Dunhuang recension: seven buddhas with Śākyamuni 
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission_
 
-concepts: `cpt:twenty-eight-indian-patriarchs`
+concepts: [The twenty-eight Indian patriarchs and six Chinese patriarchs](../concepts/twenty-eight-indian-patriarchs.md)
 
 ### 52.2 <a id="tea-platform-sutra-dunhuang-52-2"></a>
 `skeleton` · confidence high
@@ -130,10 +130,10 @@ Verse on seeing the true buddha: deluded, the buddha is a sentient being; awaken
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-concepts: `cpt:buddha-nature-chan`
+concepts: [Buddha-nature in Chan, Seon and Zen](../concepts/buddha-nature-chan.md)
 
 
 _Notes: Same work as src:platform-sutra in an earlier recension; kept as a separate id because the prepared segments and the wording differ (e.g. Huineng's verse 'buddha-nature is always pure' instead of 'originally there is not one thing')._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

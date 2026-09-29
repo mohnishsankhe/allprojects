@@ -83,4 +83,4 @@ Read by stage (P4) both sides agree that action has a place; they still disagree
 _Notes: A sub-debate of dsp:works-knowledge-grace (owned by U50); both sides are stated within the Rāma Gītā itself._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._

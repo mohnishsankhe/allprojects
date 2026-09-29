@@ -17,4 +17,4 @@ Early Chan lineage history presenting Guṇabhadra, translator of the Laṅkāva
 _Notes: Dunhuang (T85 no. 2837); not held locally._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

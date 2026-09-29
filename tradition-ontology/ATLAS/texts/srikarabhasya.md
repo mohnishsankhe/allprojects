@@ -15,4 +15,4 @@
 _Notes: Contributed by U16 for its philosophy; Vīraśaiva lineage entries are owned by U20._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._

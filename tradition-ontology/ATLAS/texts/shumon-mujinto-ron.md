@@ -23,8 +23,8 @@ Tōrei sets out the Zen path in stages: arousing faith, entering by seeing the n
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-concepts: `cpt:post-awakening-practice` · teachers: [Tōrei Enji 東嶺圓慈](../teachers/toirei-enji.md)
+concepts: [Practice after awakening](../concepts/post-awakening-practice.md) · teachers: [Tōrei Enji 東嶺圓慈](../teachers/toirei-enji.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

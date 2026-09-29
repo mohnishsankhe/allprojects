@@ -74,4 +74,4 @@ terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [buddhajñāna](../terms
 _Notes: T278/T279 (vols. 9-10) are not in the local CBETA subset; Sanskrit survives only for the Daśabhūmika and Gaṇḍavyūha._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

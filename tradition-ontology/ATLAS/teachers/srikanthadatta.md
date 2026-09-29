@@ -10,4 +10,4 @@
 Pupil of Vijayarakṣita who completed the Madhukośa.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._

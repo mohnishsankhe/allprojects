@@ -11,4 +11,4 @@
 Heir of Mazu; 'the ordinary mind is the Way'; killed the cat when the monks could not answer; teacher of Zhaozhou.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

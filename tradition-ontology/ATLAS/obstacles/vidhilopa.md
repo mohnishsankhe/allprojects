@@ -12,4 +12,4 @@ Omissions and errors in the prescribed rites, which the annual pavitra offering 
   - [Mṛgendratantra](../texts/mrgendra-tantra.md) — ref: caryapada.128-130; rests_on: ["tea:mrgendra-tantra:caryapada.128-130"]
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._

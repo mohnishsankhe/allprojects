@@ -11,4 +11,4 @@ The seventh fetter: lust for existence in the formless realm.
   - [Mahāmāluṅkya Sutta](../texts/mahamalunkya-sutta.md) — ref: 3-15; rests_on: ["tea:mahamalunkya-sutta:3-15"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

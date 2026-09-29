@@ -33,4 +33,4 @@ Whether the physical body itself is supramundane or sāsrava remains not yet rec
 _Notes: Related dispute from the Theravāda side: dsp:kv-buddha-in-human-world (U37, the Kathāvatthu debate); this entry records the cross-school debate — candidate for dedupe/merge at synthesis._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._

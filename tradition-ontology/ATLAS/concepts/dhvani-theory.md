@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The sphoṭa (the meaning-bearing word)](sphota.md): Ānandavardhana models dhvani on the grammarians' sounds manifesting the sphoṭa — rests on [1.13](../texts/dhvanyaloka.md#tea-dhvanyaloka-1-13)
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._

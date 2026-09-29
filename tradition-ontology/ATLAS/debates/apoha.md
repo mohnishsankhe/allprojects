@@ -34,4 +34,4 @@ Words signify by excluding what is other (anyāpoha); there are no real universa
 _Notes: U41 contribution; U12's entry gives the Mīmāṃsā side and a short Buddhist side._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U12-mimamsa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._

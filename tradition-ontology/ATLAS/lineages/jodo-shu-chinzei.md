@@ -25,7 +25,7 @@ The line of Hōnen's disciple Benchō (Shōkō-bō, 1162–1238), active in Kyus
 [Benchō](../teachers/bencho.md), [Ryōchū](../teachers/ryochu.md), [Shōgei](../teachers/shogei.md)
 
 ## Practices
-_none recorded_
+[The fivefold transmission rite (gojū sōden)](../practices/goju-soden.md)
 
 ## Path maps
 _none recorded_
@@ -36,4 +36,4 @@ _none recorded_
 _Notes: Chinzei doctrinal positions stated in general terms only; exact formulations to be checked._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

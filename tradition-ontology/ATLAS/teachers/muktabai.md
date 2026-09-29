@@ -14,4 +14,4 @@
 Youngest of the four siblings; her 'door' abhaṅgas (tāṭīce abhaṅga) coaxed Jñāneśvar out of the hut he had shut himself into after being insulted, teaching that the saint bears insult without anger; the yogī Cāṅgadev became her disciple. Tradition says she vanished in a flash of lightning at Mehūṇ on the Tāpī.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

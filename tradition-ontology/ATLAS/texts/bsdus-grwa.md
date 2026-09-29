@@ -4,7 +4,7 @@
 
 **Language:** Tibetan
 **Family:** ascetic
-**Lineages:** `lin:gelug`, [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
+**Lineages:** [Gelug](../lineages/gelug.md), [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 **Genre:** monastic debate manuals
 **Availability:** digitized-original
 
@@ -15,4 +15,4 @@ The genre of introductory debate manuals (e.g. the Rwa stod and Yongs 'dzin bsdu
 _Notes: A genre, not a single text; Phase C should split it by textbook._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._

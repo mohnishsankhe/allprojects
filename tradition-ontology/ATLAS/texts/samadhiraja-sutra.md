@@ -5,7 +5,7 @@
 **Alternate titles:** Candrapradīpa-sūtra, Yuedeng sanmei jing 月燈三昧經 (T639, Narendrayaśas 557), Sarvadharmasvabhāvasamatāvipañcitasamādhirāja, ting nge 'dzin gyi rgyal po (Toh 127)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:kagyu`, `lin:gelug`, `lin:newar-vajrayana`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md), [Gelug](../lineages/gelug.md), `lin:newar-vajrayana`
 **Genre:** sūtra (samādhi)
 **Location in parent:** one of Nepal's nine dharmas
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous, c. 2nd-3rd c. (core); Gilgit ms; confidence: high
@@ -62,4 +62,4 @@ concepts: [The middle way as true examination of dharmas (Kāśyapaparivarta, Sa
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

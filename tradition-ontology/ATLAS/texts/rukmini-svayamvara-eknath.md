@@ -14,4 +14,4 @@
 Eknāth's ovī poem on Rukmiṇī's marriage to Kṛṣṇa (Bhāgavata 10.52–54), read as the soul's choosing of God; sung at weddings.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._

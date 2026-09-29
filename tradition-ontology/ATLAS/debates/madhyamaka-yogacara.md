@@ -45,4 +45,4 @@ Each side reads the other's key scripture as provisional (P5): the Yogācāra th
 _Notes: The Yogācāra side is stated from U40's knowledge; U41 owns the Yogācāra lineage and texts._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

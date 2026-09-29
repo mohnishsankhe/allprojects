@@ -24,8 +24,8 @@ The Guhyasamāja is to be read by the six alternatives: words of provisional and
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: advanced · types: dispute, sound-language_
 
-concepts: `cpt:six-alternatives` · teachers: [Candrakīrti (the tantric)](../teachers/candrakirti-tantric.md) · disputes: `dsp:literal-or-symbolic-tantric-conduct`
+concepts: [The six alternatives (ṣaṭkoṭi)](../concepts/six-alternatives.md) · teachers: [Candrakīrti (the tantric)](../teachers/candrakirti-tantric.md) · disputes: [Are the transgressive statements and practices of the tantras to be taken literally or as intentional language?](../debates/literal-or-symbolic-tantric-conduct.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

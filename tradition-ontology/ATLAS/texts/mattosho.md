@@ -24,7 +24,7 @@ The Buddha's coming to welcome at death belongs to those who seek birth by vario
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: death-dying, karma-liberation_
 
-terms: `trm:raigo`, `trm:zhengding-ju` · concepts: `cpt:deathbed-welcome`, `cpt:rightly-established-state` · teachers: [Shinran](../teachers/shinran.md) · disputes: `dsp:deathbed-welcome-or-settled-in-life`
+terms: [raigō](../terms/raigo.md), [zhengding ju](../terms/zhengding-ju.md) · concepts: [The Buddha's welcome at death (raigō)](../concepts/deathbed-welcome.md), [The rightly established state (zhengding ju / shōjōju)](../concepts/rightly-established-state.md) · teachers: [Shinran](../teachers/shinran.md) · disputes: [Is birth settled only at death with the Buddha's welcome, or already in this life?](../debates/deathbed-welcome-or-settled-in-life.md)
 
 ### 5 <a id="tea-mattosho-5"></a>
 `skeleton` · confidence high
@@ -33,7 +33,7 @@ terms: `trm:raigo`, `trm:zhengding-ju` · concepts: `cpt:deathbed-welcome`, `cpt
 
 _level: ultimate · standpoint: absolute · path: devotion, knowledge · stage: advanced · types: ultimate_
 
-terms: `trm:jinen-honi`, `trm:hakarai` · concepts: `cpt:jinen-honi` · teachers: [Shinran](../teachers/shinran.md)
+terms: [jinen hōni](../terms/jinen-honi.md), [hakarai](../terms/hakarai.md) · concepts: [Jinen hōni (naturalness by the working of the vow)](../concepts/jinen-honi.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### antidote <a id="tea-mattosho-antidote"></a>
 `skeleton` · confidence moderate
@@ -42,7 +42,7 @@ Because there is medicine, do not delight in poison: some say that since the vow
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, dispute_
 
-obstacles: `obs:licensed-evil` · teachers: [Shinran](../teachers/shinran.md)
+obstacles: [Licensed evil (zōaku muge)](../obstacles/licensed-evil.md) · teachers: [Shinran](../teachers/shinran.md)
 
 ### equal-to-tathagata <a id="tea-mattosho-equal-to-tathagata"></a>
 `skeleton` · confidence moderate
@@ -51,10 +51,10 @@ The person of true shinjin, being certain to attain supreme awakening, is 'the s
 
 _level: bridging · standpoint: divine · path: devotion · stage: all · types: karma-liberation, consciousness-mind_
 
-concepts: `cpt:shinjin`, `cpt:rightly-established-state` · teachers: [Shinran](../teachers/shinran.md)
+concepts: [Shinjin — true entrusting](../concepts/shinjin.md), [The rightly established state (zhengding ju / shōjōju)](../concepts/rightly-established-state.md) · teachers: [Shinran](../teachers/shinran.md)
 
 
 _Notes: Letter numbering varies between editions; numbers given are those commonly used (moderate)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

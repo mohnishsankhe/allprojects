@@ -23,4 +23,4 @@ With calm established, the practitioner examines a chosen object — the self, t
 - Mere absence of thought without prior analysis is like fainting and does not lead to non-conceptual wisdom. — [Bhāvanākrama](../texts/bhavanakrama.md) III
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._

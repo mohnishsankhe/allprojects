@@ -32,7 +32,7 @@ Linji in the hall: on the lump of red flesh there is a true person of no rank, a
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, teacher-transmission_
 
-terms: [wuwei zhenren (true person of no rank)](../terms/wuwei-zhenren.md) · concepts: `cpt:true-person-of-no-rank` · teachers: [Linji Yixuan 臨濟義玄](../teachers/linji.md)
+terms: [wuwei zhenren (true person of no rank)](../terms/wuwei-zhenren.md) · concepts: [The true person of no rank](../concepts/true-person-of-no-rank.md) · teachers: [Linji Yixuan 臨濟義玄](../teachers/linji.md)
 
 ### 497a19 <a id="tea-linji-lu-497a19"></a>
 `skeleton` · confidence high
@@ -43,7 +43,7 @@ Each phrase must contain three mysterious gates, each mysterious gate three esse
 
 _level: bridging · standpoint: analytic · path: knowledge, sound · stage: advanced · types: sound-language, teacher-transmission_
 
-terms: [sanxuan sanyao (three mysteries, three essentials)](../terms/sanxuan-sanyao.md) · concepts: `cpt:linji-devices`
+terms: [sanxuan sanyao (three mysteries, three essentials)](../terms/sanxuan-sanyao.md) · concepts: [Linji's teaching devices](../concepts/linji-devices.md)
 
 ### 497a22 <a id="tea-linji-lu-497a22"></a>
 `skeleton` · confidence high
@@ -54,7 +54,7 @@ The four classifications: sometimes take away the person but not the environment
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: teacher-transmission, practice_
 
-terms: [si liaojian (four classifications)](../terms/siliaojian.md) · concepts: `cpt:linji-devices`
+terms: [si liaojian (four classifications)](../terms/siliaojian.md) · concepts: [Linji's teaching devices](../concepts/linji-devices.md)
 
 ### 497a29 <a id="tea-linji-lu-497a29"></a>
 `skeleton` · confidence high
@@ -65,7 +65,7 @@ Students today must seek true insight; with true insight birth and death do not 
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: practice, karma-liberation_
 
-terms: [zhenzheng jianjie (true insight)](../terms/zhenzheng-jianjie.md) · concepts: `cpt:true-person-of-no-rank` · obstacles: `obs:seeking-outside`
+terms: [zhenzheng jianjie (true insight)](../terms/zhenzheng-jianjie.md) · concepts: [The true person of no rank](../concepts/true-person-of-no-rank.md) · obstacles: [Seeking outside](../obstacles/seeking-outside.md)
 
 ### 497b17 <a id="tea-linji-lu-497b17"></a>
 `skeleton` · confidence high
@@ -76,7 +76,7 @@ The pure light in your single thought is the Dharma-body buddha in your own hous
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, body-layers_
 
-concepts: `cpt:three-bodies-in-self-nature`
+concepts: [The three bodies in one's own nature](../concepts/three-bodies-in-self-nature.md)
 
 ### 497c04 <a id="tea-linji-lu-497c04"></a>
 `skeleton` · confidence high
@@ -87,7 +87,7 @@ The mind-dharma has no form and pervades the ten directions: in the eye it is se
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [xin (mind)](../terms/xin.md) · concepts: `cpt:true-person-of-no-rank`
+terms: [xin (mind)](../terms/xin.md) · concepts: [The true person of no rank](../concepts/true-person-of-no-rank.md)
 
 ### 498a16 <a id="tea-linji-lu-498a16"></a>
 `skeleton` · confidence high
@@ -98,7 +98,7 @@ In the buddha-dharma there is no place to apply effort; just be ordinary with no
 
 _level: ultimate · standpoint: absolute · path: general · stage: realized · types: practice, ultimate_
 
-terms: [wushi (nothing to do)](../terms/wushi.md), [suichu zuozhu, lichu jiezhen (be master wherever you are; wherever you stand is true)](../terms/suichu-zuozhu.md) · concepts: `cpt:ordinary-mind`, `cpt:everyday-activity-as-the-way`
+terms: [wushi (nothing to do)](../terms/wushi.md), [suichu zuozhu, lichu jiezhen (be master wherever you are; wherever you stand is true)](../terms/suichu-zuozhu.md) · concepts: [Ordinary mind is the Way](../concepts/ordinary-mind.md), [Everyday activity as the Way](../concepts/everyday-activity-as-the-way.md)
 
 ### 498c02 <a id="tea-linji-lu-498c02"></a>
 `skeleton` · confidence high
@@ -109,7 +109,7 @@ True insight: entering all realms — ordinary and holy, defiled and pure, buddh
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [wuyi daoren (person of the Way who depends on nothing)](../terms/wuyi-daoren.md) · concepts: `cpt:true-person-of-no-rank`
+terms: [wuyi daoren (person of the Way who depends on nothing)](../terms/wuyi-daoren.md) · concepts: [The true person of no rank](../concepts/true-person-of-no-rank.md)
 
 ### 500b22 <a id="tea-linji-lu-500b22"></a>
 `skeleton` · confidence high
@@ -120,7 +120,7 @@ If you want insight according to the Dharma, do not be deceived by others; whate
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: practice, karma-liberation_
 
-concepts: `cpt:killing-the-buddha` · obstacles: `obs:seeking-outside`
+concepts: ['If you meet the Buddha, kill the Buddha'](../concepts/killing-the-buddha.md) · obstacles: [Seeking outside](../obstacles/seeking-outside.md)
 
 ### 502a12 <a id="tea-linji-lu-502a12"></a>
 `skeleton` · confidence high
@@ -131,7 +131,7 @@ Right at the words, turn your light around and shine it back, and seek nothing e
 
 _level: ultimate · standpoint: seeker · path: meditation, knowledge · stage: all · types: practice_
 
-terms: [fanzhao / huiguang fanzhao (turning the light around)](../terms/fanzhao.md) · practices: `prc:huiguang-fanzhao`
+terms: [fanzhao / huiguang fanzhao (turning the light around)](../terms/fanzhao.md) · practices: [Turning the light around (huiguang fanzhao / hoegwang banjo)](../practices/huiguang-fanzhao.md)
 
 ### 504a26 <a id="tea-linji-lu-504a26"></a>
 `skeleton` · confidence high
@@ -142,7 +142,7 @@ The four shouts: sometimes a shout is like the jewelled sword of the vajra king;
 
 _level: bridging · standpoint: analytic · path: sound · stage: advanced · types: sound-language, teacher-transmission_
 
-terms: [he / katsu (the shout)](../terms/he-shout.md) · concepts: `cpt:linji-devices` · practices: `prc:shout-and-staff`
+terms: [he / katsu (the shout)](../terms/he-shout.md) · concepts: [Linji's teaching devices](../concepts/linji-devices.md) · practices: [Shouts and blows (he, bang)](../practices/shout-and-staff.md)
 
 ### 504c16 <a id="tea-linji-lu-504c16"></a>
 `skeleton` · confidence high
@@ -153,8 +153,8 @@ Linji's awakening: three times he asked Huangbo the exact meaning of the buddha-
 
 _level: unmarked · standpoint: experiential · path: knowledge · stage: advanced · types: powers-experiences, teacher-transmission, narrative_
 
-concepts: `cpt:kensho-seeing-nature` · teachers: [Linji Yixuan 臨濟義玄](../teachers/linji.md), [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md), [Gao'an Dayu 高安大愚](../teachers/dayu.md)
+concepts: [Seeing the nature (kenshō) and awakening (satori)](../concepts/kensho-seeing-nature.md) · teachers: [Linji Yixuan 臨濟義玄](../teachers/linji.md), [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md), [Gao'an Dayu 高安大愚](../teachers/dayu.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

@@ -16,4 +16,4 @@ The Ming monk Miaoye's manual presenting recollection of the Buddha as the 'jewe
   - kind: original; name: Taishō T47n1974 (CBETA); licence: CBETA CC BY-NC-SA; url: https://cbetaonline.dila.edu.tw/T1974
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

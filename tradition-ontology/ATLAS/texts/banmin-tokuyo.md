@@ -22,8 +22,8 @@ Each occupation — farming, trade, craft, a warrior's service — performed who
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, practice_
 
-practices: `prc:samu` · teachers: [Suzuki Shōsan 鈴木正三](../teachers/suzuki-shosan.md)
+practices: [Samu / puqing (communal work)](../practices/samu.md) · teachers: [Suzuki Shōsan 鈴木正三](../teachers/suzuki-shosan.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

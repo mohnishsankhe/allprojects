@@ -48,4 +48,4 @@ concepts: [The seven factors of awakening](../concepts/seven-bojjhangas.md) · p
 _Notes: SuttaCentral uid mn2; Mahāsaṅgīti title 'Sabbāsavasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

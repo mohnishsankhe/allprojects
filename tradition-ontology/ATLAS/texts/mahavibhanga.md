@@ -46,4 +46,4 @@ terms: [uttarimanussadhamma](../terms/uttarimanussadhamma.md) · concepts: [The 
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

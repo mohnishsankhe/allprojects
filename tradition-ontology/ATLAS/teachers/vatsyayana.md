@@ -12,4 +12,4 @@
 Author of the Nyāyabhāṣya, the first extant commentary on the Nyāya Sūtra; criticized by Dignāga. Not to be identified (on the scholarly account) with Vātsyāyana Mallanāga of the Kāmasūtra.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._

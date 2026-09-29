@@ -14,4 +14,4 @@ Contracting and expanding the anal opening again and again (GS 3.82-83); it is u
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 1.48-49; rests_on: ["tea:gheranda-samhita:1.48-49"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._

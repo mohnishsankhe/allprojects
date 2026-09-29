@@ -17,4 +17,4 @@ Nine nights of worship of the Goddess in autumn and spring, with recitation, wor
 - Fasts are to be kept according to ability; prolonged fasting is recorded in summary only. — [Devī Bhāgavata Purāṇa](../texts/devi-bhagavata-purana.md) 3.26 (summary)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

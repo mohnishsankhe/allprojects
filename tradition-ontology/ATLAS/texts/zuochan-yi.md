@@ -24,10 +24,10 @@ Sit with the body upright, neither leaning nor slumped, ears in line with should
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: beginner · types: practice_
 
-practices: `prc:zazen`, `prc:awareness-of-arising-thoughts` · teachers: [Changlu Zongze](../teachers/changlu-zongze.md)
+practices: [Zazen / zuochan (seated meditation)](../practices/zazen.md), [Awareness of arising thoughts](../practices/awareness-of-arising-thoughts.md) · teachers: [Changlu Zongze](../teachers/changlu-zongze.md)
 
 
 _Notes: Dōgen's Fukanzazengi draws on it. Wording of the quoted line is from memory — no original given._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

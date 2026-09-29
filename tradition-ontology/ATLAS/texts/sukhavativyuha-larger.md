@@ -28,7 +28,7 @@ Strive and you will surely transcend and go to be born in the land of Peace and 
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: karma-liberation, world-fate_
 
-terms: `trm:ocho` · concepts: `cpt:easy-and-difficult-practice`
+terms: [ōchō](../terms/ocho.md) · concepts: [The easy path and the difficult path](../concepts/easy-and-difficult-practice.md)
 
 ### entrustment <a id="tea-sukhavativyuha-larger-entrustment"></a>
 `skeleton` · confidence high
@@ -39,7 +39,7 @@ The Buddha tells Maitreya: whoever hears that Buddha's name and rejoices, even f
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: karma-liberation, sound-language_
 
-terms: `trm:yinian`, `trm:minghao` · concepts: `cpt:name-embodies-all-virtues` · disputes: `dsp:one-calling-or-many-calling`
+terms: [yinian](../terms/yinian.md), [minghao](../terms/minghao.md) · concepts: [The name contains all virtues](../concepts/name-embodies-all-virtues.md) · disputes: [Is birth settled by one calling (or one thought of faith), or by lifelong many callings?](../debates/one-calling-or-many-calling.md)
 
 ### five-evils <a id="tea-sukhavativyuha-larger-five-evils"></a>
 `skeleton` · confidence high
@@ -50,7 +50,7 @@ The Buddha tells Maitreya that the buddha-lands elsewhere are easy to transform 
 
 _level: conventional · standpoint: ethical-social · path: action, general · stage: all · types: ethics, world-fate_
 
-concepts: `cpt:five-turbidities-age` · obstacles: `obs:five-evils`
+obstacles: [The five evils, five pains and five burnings](../obstacles/five-evils.md), [The five turbidities (pañcakaṣāya)](../obstacles/five-turbidities.md)
 
 ### fulfilment <a id="tea-sukhavativyuha-larger-fulfilment"></a>
 `skeleton` · confidence high
@@ -70,7 +70,7 @@ It is hard to meet a Tathāgata, hard to hear the scriptures, hard to hear the p
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: karma-liberation_
 
-concepts: `cpt:difficulty-of-faith`
+concepts: [The difficulty of faith in the easy practice](../concepts/difficulty-of-faith.md)
 
 ### skt.vow18 <a id="tea-sukhavativyuha-larger-skt-vow18"></a>
 `skeleton` · confidence high
@@ -81,7 +81,7 @@ Sanskrit vow 18: beings in other worlds who have aroused the thought of awakenin
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: death-dying_
 
-terms: `trm:raigo`, [buddhānusmṛti](../terms/buddhanusmrti.md) · concepts: `cpt:deathbed-welcome`
+terms: [raigō](../terms/raigo.md), [buddhānusmṛti](../terms/buddhanusmrti.md) · concepts: [The Buddha's welcome at death (raigō)](../concepts/deathbed-welcome.md)
 
 ### skt.vow19 <a id="tea-sukhavativyuha-larger-skt-vow19"></a>
 `skeleton` · confidence high
@@ -92,7 +92,7 @@ Sanskrit vow 19: if beings in immeasurable buddha-fields who hear his name direc
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: karma-liberation_
 
-terms: `trm:shinian`, [ānantarya](../terms/anantarya.md) · concepts: [The eighteenth (primal) vow](../concepts/eighteenth-vow.md), `cpt:ten-recitations`
+terms: [shinian](../terms/shinian.md), [ānantarya](../terms/anantarya.md) · concepts: [The eighteenth (primal) vow](../concepts/eighteenth-vow.md), [The ten recitations (shinian / jūnen)](../concepts/ten-recitations.md)
 
 ### skt.womb <a id="tea-sukhavativyuha-larger-skt-womb"></a>
 `skeleton` · confidence high
@@ -103,7 +103,7 @@ The Buddha tells Ajita (Maitreya): those who plant roots of good for birth in Su
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:taisheng`, `trm:huasheng` · obstacles: `obs:doubt-of-buddha-wisdom`
+terms: [taisheng](../terms/taisheng.md), [huasheng](../terms/huasheng.md) · obstacles: [Doubting the Buddha's wisdom](../obstacles/doubt-of-buddha-wisdom.md)
 
 ### sutra-remains <a id="tea-sukhavativyuha-larger-sutra-remains"></a>
 `skeleton` · confidence high
@@ -114,7 +114,7 @@ In the age to come when the scriptures and the way have perished, out of compass
 
 _level: conventional · standpoint: cosmic · path: devotion, sound · stage: all · types: world-fate_
 
-concepts: `cpt:three-periods-of-the-dharma`
+concepts: [The three ages of the Dharma (true, semblance, final)](../concepts/three-periods-of-the-dharma.md)
 
 ### three-grades <a id="tea-sukhavativyuha-larger-three-grades"></a>
 `skeleton` · confidence high
@@ -134,7 +134,7 @@ Those who are arrogant, corrupt and lazy find it hard to believe this teaching; 
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: karma-liberation_
 
-concepts: `cpt:difficulty-of-faith` · obstacles: `obs:arrogance-and-laziness`
+concepts: [The difficulty of faith in the easy practice](../concepts/difficulty-of-faith.md) · obstacles: [Arrogance, corruption and laziness (that hinder faith)](../obstacles/arrogance-and-laziness.md)
 
 ### vow11 <a id="tea-sukhavativyuha-larger-vow11"></a>
 `skeleton` · confidence high
@@ -145,18 +145,18 @@ The eleventh vow: if, when he attains buddhahood, the humans and gods of his lan
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: karma-liberation_
 
-terms: `trm:zhengding-ju`, `trm:benyuan` · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), `cpt:rightly-established-state`
+terms: [zhengding ju](../terms/zhengding-ju.md), [benyuan](../terms/benyuan.md) · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), [The rightly established state (zhengding ju / shōjōju)](../concepts/rightly-established-state.md)
 
 ### vow12-13 <a id="tea-sukhavativyuha-larger-vow12-13"></a>
 `skeleton` · confidence high
 
 The twelfth and thirteenth vows: his light shall not be limited so as not to illuminate hundreds of thousands of koṭis of nayutas of buddha-lands, and his life shall not be limited to hundreds of thousands of koṭis of nayutas of kalpas — else may he not attain awakening.
 
-> 設我得佛，光明有能限量，下至不照百千億那由他諸佛國者，不取正覺。設我得佛，壽命有能限量，下至百千億那由他劫者，不取正覺。
+> 設我得佛，光明有能限量，下至不照百千億那由他諸佛國者，不取正覺。……設我得佛，壽命有能限量，下至百千億那由他劫者，不取正覺。
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: ultimate_
 
-terms: `trm:amitabha`, `trm:amitayus` · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), `cpt:twelve-lights`
+terms: [Amitābha](../terms/amitabha.md), [Amitāyus](../terms/amitayus.md) · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), [The twelve lights of Amitābha](../concepts/twelve-lights.md)
 
 ### vow17 <a id="tea-sukhavativyuha-larger-vow17"></a>
 `skeleton` · confidence high
@@ -167,7 +167,7 @@ The seventeenth vow: if the immeasurable buddhas of the worlds in the ten direct
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: sound-language_
 
-terms: `trm:minghao` · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), `cpt:name-embodies-all-virtues`
+terms: [minghao](../terms/minghao.md) · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), [The name contains all virtues](../concepts/name-embodies-all-virtues.md)
 
 ### vow18 <a id="tea-sukhavativyuha-larger-vow18"></a>
 `skeleton` · confidence high
@@ -189,7 +189,7 @@ The nineteenth vow: beings of the ten directions who arouse the aspiration for a
 
 _level: conventional · standpoint: divine · path: devotion, action · stage: all · types: death-dying, karma-liberation_
 
-terms: `trm:raigo`, [bodhicitta](../terms/bodhicitta.md) · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), `cpt:deathbed-welcome`, `cpt:three-vows-turning`
+terms: [raigō](../terms/raigo.md), [bodhicitta](../terms/bodhicitta.md) · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), [The Buddha's welcome at death (raigō)](../concepts/deathbed-welcome.md), [Turning through the three vows (sangan tennyū)](../concepts/three-vows-turning.md)
 
 ### vow20 <a id="tea-sukhavativyuha-larger-vow20"></a>
 `skeleton` · confidence high
@@ -200,7 +200,7 @@ The twentieth vow: beings who hear his name, fix their thoughts on his land, pla
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: karma-liberation_
 
-terms: `trm:huixiang`, `trm:minghao` · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), `cpt:three-vows-turning`
+terms: [pariṇāmanā](../terms/parinamana.md), [minghao](../terms/minghao.md) · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), [Turning through the three vows (sangan tennyū)](../concepts/three-vows-turning.md)
 
 ### vow22 <a id="tea-sukhavativyuha-larger-vow22"></a>
 `skeleton` · confidence high
@@ -211,7 +211,7 @@ The twenty-second vow: bodhisattvas from other lands born in his land will certa
 
 _level: conventional · standpoint: divine · path: devotion, general · stage: advanced · types: karma-liberation_
 
-terms: `trm:genso-eko` · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), `cpt:two-aspects-of-merit-transfer`
+terms: [gensō ekō](../terms/genso-eko.md) · concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md), [The two aspects of merit transfer: going and returning](../concepts/two-aspects-of-merit-transfer.md)
 
 ### vow35 <a id="tea-sukhavativyuha-larger-vow35"></a>
 `skeleton` · confidence high
@@ -242,10 +242,10 @@ Those who cultivate merit and aspire to birth while doubting the Buddha's inconc
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: karma-liberation_
 
-terms: `trm:taisheng`, `trm:huasheng` · concepts: `cpt:true-and-transformed-lands` · obstacles: `obs:doubt-of-buddha-wisdom`
+terms: [taisheng](../terms/taisheng.md), [huasheng](../terms/huasheng.md) · concepts: [True and transformed lands; womb-birth and the borderland](../concepts/true-and-transformed-lands.md) · obstacles: [Doubting the Buddha's wisdom](../obstacles/doubt-of-buddha-wisdom.md)
 
 
 _Notes: Doctrine and lineages of Pure Land belong to U43; this unit owns the sūtra entry. 18th vow read locally in T360 (268a26-27)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

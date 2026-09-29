@@ -12,4 +12,4 @@ Worship of Śiva in the formless liṅga (including liṅgas made of earth for t
   - [Liṅga Purāṇa](../texts/linga-purana.md) — ref: 1.3.1; rests_on: ["tea:linga-purana:1.3.1"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._

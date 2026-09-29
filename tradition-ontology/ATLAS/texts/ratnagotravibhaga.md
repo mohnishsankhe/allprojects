@@ -6,7 +6,7 @@
 **Original title:** रत्नगोत्रविभाग महायानोत्तरतन्त्रशास्त्र
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), [Yogācāra](../lineages/yogacara.md), `lin:gelug`, `lin:kagyu`, [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), `lin:jonang`, `lin:sakya`, `lin:rime`, `lin:huayan`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), [Yogācāra](../lineages/yogacara.md), [Gelug](../lineages/gelug.md), [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), [Jonang (jo nang pa)](../lineages/jonang.md), [Sakya](../lineages/sakya.md), [Rimé (ris med), the non-sectarian movement](../lineages/rime.md), `lin:huayan`
 **Genre:** śāstra
 **Authors:** 
   - [Maitreyanātha](../teachers/maitreyanatha.md) — role: author; attribution: traditional
@@ -21,7 +21,7 @@ The treatise on the jewel-lineage: seven vajra points — Buddha, dharma, saṅg
 **Editions / translations:** 
   - kind: original; name: ed. E. H. Johnston 1950 (DSBC); licence: GRETIL (reference use); url: https://gretil.sub.uni-goettingen.de/gretil.html#Buddh
   - kind: original; name: Toh 4024 (verses), 4025 (commentary); licence: Derge Tengyur
-**Commentaries on this text:** [Ratnagotravibhāgavyākhyā](ratnagotravibhaga-vyakhya.md), [Rgyud bla ma'i 'grel bshad de kho na nyid rab tu gsal ba'i me long (Gö Lotsawa)](uttaratantra-commentary-go-lotsawa.md), [Theg pa chen po rgyud bla ma'i ṭīkā (Gyaltsab Je's commentary on the Uttaratantra)](uttaratantra-commentary-gyaltsab.md), [Rgyud bla ma'i 'grel pa phyir mi ldog pa seng ge'i nga ro (Jamgön Kongtrul)](uttaratantra-commentary-kongtrul.md)
+**Commentaries on this text:** [Gö Lotsāwa's commentary on the Ratnagotravibhāga](go-lotsawa-ratnagotravibhaga-commentary.md), [Ratnagotravibhāgavyākhyā](ratnagotravibhaga-vyakhya.md), [Rgyud bla ma'i 'grel bshad de kho na nyid rab tu gsal ba'i me long (Gö Lotsawa)](uttaratantra-commentary-go-lotsawa.md), [Theg pa chen po rgyud bla ma'i ṭīkā (Gyaltsab Je's commentary on the Uttaratantra)](uttaratantra-commentary-gyaltsab.md), [Rgyud bla ma'i 'grel pa phyir mi ldog pa seng ge'i nga ro (Jamgön Kongtrul)](uttaratantra-commentary-kongtrul.md)
 
 ## Teachings (15: skeleton 15)
 
@@ -184,4 +184,4 @@ terms: [śraddhā](../terms/sraddha.md)
 _Notes: Chapter colophons and cited verses read in the local e-text (Johnston numbering; Takasaki's numbering differs slightly in chapter 1). Registry lists src:ratnagotravibhaga; U41 (five Maitreya texts) may also contribute._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._

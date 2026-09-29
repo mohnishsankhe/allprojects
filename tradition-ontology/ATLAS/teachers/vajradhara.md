@@ -14,4 +14,4 @@
 The 'holder of the vajra', the primordial or sixth buddha in whose form the Buddha teaches the tantras; the ultimate source of the tantric lineages and the form in which the guru is to be seen (Gurupañcāśikā 22).
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

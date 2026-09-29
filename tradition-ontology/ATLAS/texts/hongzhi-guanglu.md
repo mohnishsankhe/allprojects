@@ -28,8 +28,8 @@ The field is empty and vast, what has been there from the beginning; purify and 
 
 _level: bridging · standpoint: seeker · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-concepts: `cpt:silent-illumination` · practices: `prc:silent-illumination`
+concepts: [Silent illumination (mozhao)](../concepts/silent-illumination.md) · practices: [Silent illumination (mozhao)](../practices/silent-illumination.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._

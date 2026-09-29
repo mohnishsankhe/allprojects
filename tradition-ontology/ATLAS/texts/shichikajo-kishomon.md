@@ -24,10 +24,10 @@ Hōnen's disciples pledge: not to attack the Tendai and Shingon teachings or sla
 
 _level: conventional · standpoint: ethical-social · path: action, devotion · stage: all · types: ethics, teacher-transmission_
 
-obstacles: `obs:licensed-evil` · teachers: [Hōnen](../teachers/honen.md) · disputes: `dsp:exclusive-nenbutsu-controversy`
+obstacles: [Licensed evil (zōaku muge)](../obstacles/licensed-evil.md) · teachers: [Hōnen](../teachers/honen.md) · disputes: [May the nenbutsu be practised exclusively, setting aside all other practices and deities?](../debates/exclusive-nenbutsu-controversy.md)
 
 
 _Notes: Article order and exact number of signatories recalled (moderate)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

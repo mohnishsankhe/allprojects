@@ -20,4 +20,4 @@ Jīvaśarman: with (exalted) malefics one does not become a king.
 **Queue:** RQ-U32-exalted-malefics
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._

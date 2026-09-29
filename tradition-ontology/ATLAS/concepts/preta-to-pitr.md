@@ -18,4 +18,4 @@ _Notes: Doctrine stated from the Gṛhya/Dharmaśāstra tradition at large; spec
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/yajnavalkya-smrti_plain_text.md (GRETIL), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/visnu-smrti_plain_text.md (GRETIL) — The doctrine is attested, with anchors the entry lacks. YS 1.253–255 has four vessels, the preta's vessel poured into the three of the fathers ('arghyārthaṃ pitṛpātreṣu pretapātraṃ prasecayet'), and 'etat sapiṇḍīkaraṇam'. If sapiṇḍīkaraṇa is done before the year, food and a water-pot are given for the year. ViSmṛ 21.19–23 has sapiṇḍīkaraṇa after the twelve-day/monthly śrāddhas and the same rule. These refs could be added as sources in extraction. The claim that the most distant ancestor passes out of the piṇḍa circle was not separately text-located.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._

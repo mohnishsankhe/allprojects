@@ -27,7 +27,7 @@ The seven consecrations at the beginning are for introducing children; three (hi
 
 _level: bridging · standpoint: divine · path: ritual · stage: all · types: teacher-transmission_
 
-terms: [abhiṣeka](../terms/abhiseka.md) · concepts: `cpt:abhiseka-kalacakra`, `cpt:two-truths-tantric`
+terms: [abhiṣeka](../terms/abhiseka.md) · concepts: [The Kālacakra consecrations](../concepts/abhiseka-kalacakra.md), [The two truths in the tantras](../concepts/two-truths-tantric.md)
 
 ### 10-14 <a id="tea-sekoddesa-10-14"></a>
 `skeleton` · confidence high
@@ -38,7 +38,7 @@ The sevenfold consecration is water, crown, silk ribbon, vajra and bell, the gre
 
 _level: conventional · standpoint: ritual · path: ritual · stage: beginner · types: practice, teacher-transmission_
 
-concepts: `cpt:abhiseka-kalacakra`
+concepts: [The Kālacakra consecrations](../concepts/abhiseka-kalacakra.md)
 
 ### 15-22 <a id="tea-sekoddesa-15-22"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -47,7 +47,7 @@ The higher consecrations — vase, secret, wisdom-gnosis and again great wisdom 
 
 _level: conventional · standpoint: ritual · path: ritual, body-breath · stage: advanced · types: practice, teacher-transmission_
 
-concepts: `cpt:abhiseka-kalacakra`, `cpt:abhiseka-four`
+concepts: [The Kālacakra consecrations](../concepts/abhiseka-kalacakra.md), [The four consecrations](../concepts/abhiseka-four.md)
 
 ### 24-27 <a id="tea-sekoddesa-24-27"></a>
 `skeleton` · confidence high
@@ -58,7 +58,7 @@ One should accomplish this by unimagined appearances — the signs beginning wit
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, practice_
 
-concepts: `cpt:ten-signs-kalacakra`, `cpt:empty-form` · practices: `prc:sadanga-yoga`
+concepts: [The ten signs of the Kālacakra](../concepts/ten-signs-kalacakra.md), [Empty form (śūnyatābimba)](../concepts/empty-form.md) · practices: [The six-branch yoga (ṣaḍaṅgayoga)](../practices/sadanga-yoga.md)
 
 ### 28 <a id="tea-sekoddesa-28"></a>
 `skeleton` · confidence high
@@ -69,7 +69,7 @@ Meditation on an existent (image) is not meditation for yogins; the mind has nei
 
 _level: ultimate · standpoint: apophatic · path: meditation · stage: advanced · types: practice_
 
-concepts: `cpt:empty-form`
+concepts: [Empty form (śūnyatābimba)](../concepts/empty-form.md)
 
 ### 43-45 <a id="tea-sekoddesa-43-45"></a>
 `skeleton` · confidence moderate
@@ -80,7 +80,7 @@ The breath moves fifty-six and a quarter times in each period, and twenty-one th
 
 _level: conventional · standpoint: cosmic · path: body-breath · stage: advanced · types: body-layers, world-fate_
 
-concepts: `cpt:outer-inner-other-kalacakra`, `cpt:winds-vajrayana`
+concepts: [Outer, inner and other Kālacakra](../concepts/outer-inner-other-kalacakra.md), [The winds as the mount of mind](../concepts/winds-vajrayana.md)
 
 ### 46-50 <a id="tea-sekoddesa-46-50"></a>
 `skeleton` · confidence high
@@ -91,7 +91,7 @@ The left channel is the moon, lalanā (iḍā), the right the sun, rasanā (pi�
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: advanced · types: body-layers_
 
-terms: `trm:lalana`, `trm:rasana`, `trm:avadhuti` · concepts: `cpt:buddhist-subtle-body`
+terms: [lalanā](../terms/lalana.md), [rasanā](../terms/rasana.md), [avadhūtī](../terms/avadhuti.md) · concepts: [The Buddhist subtle body (channels, winds, drops)](../concepts/buddhist-subtle-body.md)
 
 ### 70-79 <a id="tea-sekoddesa-70-79"></a>
 `skeleton` · confidence moderate · _restricted: summary only_
@@ -100,7 +100,7 @@ Omens of death are read from the excess flow of wind in the left or right channe
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: death-dying, practice_
 
-concepts: `cpt:signs-of-death-vajrayana` · practices: `prc:cheating-death`
+concepts: [Omens of death and cheating death](../concepts/signs-of-death-vajrayana.md) · practices: [Cheating death (mṛtyuvañcana)](../practices/cheating-death.md)
 
 ### 80-82 <a id="tea-sekoddesa-80-82"></a>
 `skeleton` · confidence moderate · _restricted: summary only_
@@ -109,7 +109,7 @@ The joys arise as the drop descends from the crown: joy at the head, supreme joy
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: powers-experiences_
 
-terms: `trm:sahajananda`, `trm:aksara-sukha` · concepts: `cpt:four-joys`
+terms: [sahajānanda](../terms/sahajananda.md), [akṣarasukha](../terms/aksara-sukha.md) · concepts: [The four joys (ānanda)](../concepts/four-joys.md)
 
 ### 129-133 <a id="tea-sekoddesa-129-133"></a>
 `skeleton` · confidence high
@@ -120,7 +120,7 @@ The stain is not adventitious to mind nor long-lasting in it, not born without m
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: consciousness-mind, ultimate_
 
-concepts: `cpt:adventitious-stains-vajrayana`
+concepts: [Beings are buddhas obscured by adventitious stains](../concepts/adventitious-stains-vajrayana.md)
 
 ### 135-141 <a id="tea-sekoddesa-135-141"></a>
 `skeleton` · confidence moderate · _restricted: summary only_
@@ -129,7 +129,7 @@ There is no evil greater than dispassion and no merit greater than bliss; as one
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: karma-liberation, powers-experiences_
 
-concepts: `cpt:aksara-sukha-kalacakra`
+concepts: [Immutable bliss (akṣarasukha)](../concepts/aksara-sukha-kalacakra.md)
 
 ### 146 <a id="tea-sekoddesa-146"></a>
 `skeleton` · confidence high
@@ -140,10 +140,10 @@ The image arisen from emptiness is the cause; the bliss born of the imperishable
 
 _level: ultimate · standpoint: analytic · path: meditation, knowledge · stage: advanced · types: ultimate, practice_
 
-concepts: `cpt:empty-form`, `cpt:aksara-sukha-kalacakra`
+concepts: [Empty form (śūnyatābimba)](../concepts/empty-form.md), [Immutable bliss (akṣarasukha)](../concepts/aksara-sukha-kalacakra.md)
 
 
 _Notes: The GRETIL file is titled 'Naropa: Sekoddesa' because it derives from the edition accompanying Nāropa's commentary; the verses are the Sekoddeśa itself._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

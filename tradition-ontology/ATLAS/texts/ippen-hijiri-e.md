@@ -25,7 +25,7 @@ After a monk refused the talisman saying he had no faith, Ippen prayed at the Ku
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: teacher-transmission, powers-experiences, karma-liberation_
 
-terms: `trm:fusan` · concepts: `cpt:name-as-birth-ippen` · practices: `prc:fusan` · teachers: [Ippen](../teachers/ippen.md)
+terms: [fusan](../terms/fusan.md) · concepts: [The name as itself birth (Ippen)](../concepts/name-as-birth-ippen.md) · practices: [Distributing nenbutsu talismans (fusan)](../practices/fusan.md) · teachers: [Ippen](../teachers/ippen.md)
 
 ### 4.dancing <a id="tea-ippen-hijiri-e-4-dancing"></a>
 `skeleton` · confidence moderate
@@ -34,7 +34,7 @@ At Saku in Shinano the dancing nenbutsu began: Ippen and his followers, beating 
 
 _level: conventional · standpoint: ritual · path: sound, devotion, body-breath · stage: all · types: practice_
 
-terms: `trm:odori-nenbutsu` · practices: `prc:odori-nenbutsu` · teachers: [Ippen](../teachers/ippen.md)
+terms: [odori nenbutsu](../terms/odori-nenbutsu.md) · practices: [Dancing nenbutsu (odori nenbutsu)](../practices/odori-nenbutsu.md) · teachers: [Ippen](../teachers/ippen.md)
 
 ### 12.death <a id="tea-ippen-hijiri-e-12-death"></a>
 `skeleton` · confidence moderate
@@ -49,4 +49,4 @@ teachers: [Ippen](../teachers/ippen.md)
 _Notes: Scroll numbers for episodes are approximate (low)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._

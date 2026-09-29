@@ -17,4 +17,4 @@ Wearing an ascetic's garb or talking of yoga without practice (HYP 1.65–66; DY
   - [Narsinh Mehta's padas](../texts/narsinh-mehta-padas.md) — ref: jyam-lagi-atma; rests_on: ["tea:narsinh-mehta-padas:jyam-lagi-atma"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U26-regional-bhakti, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U26-regional-bhakti, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._

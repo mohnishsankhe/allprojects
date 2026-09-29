@@ -7,11 +7,11 @@
 **Lineages:** [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md)
 **Genre:** history (Tibetan)
 **Authors:** 
-  - [Tāranātha](../teachers/taranatha.md) — role: author; attribution: accepted
+  - [Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)](../teachers/taranatha.md) — role: author; attribution: accepted
 **Dates:** Scholarly account: c. 1600; (confidence moderate)
 **Availability:** digitized-translation
 
 Tāranātha's account of the seven lineages of instruction (mahāmudrā, caṇḍālī, karmamudrā, clear light, the Guhyasamāja, the Hevajra-Saṃvara, etc.) and their Indian siddhas, based on the oral accounts of Buddhaguptanātha.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._

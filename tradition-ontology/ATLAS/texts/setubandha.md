@@ -47,4 +47,4 @@ concepts: [The three streams of gurus (divya, siddha, mānava)](../concepts/thre
 
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._

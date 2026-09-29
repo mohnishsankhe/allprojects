@@ -40,4 +40,4 @@ concepts: [The undeclared questions](../concepts/undeclared-questions.md), [The 
 _Notes: SuttaCentral uid mn63; Mahāsaṅgīti title 'Cūḷamālukyasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._

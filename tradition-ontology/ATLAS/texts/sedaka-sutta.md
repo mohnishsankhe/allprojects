@@ -30,4 +30,4 @@ concepts: [Protecting oneself and others](../concepts/protecting-self-and-others
 _Notes: SuttaCentral uid sn47.19; Mahāsaṅgīti title 'Sedakasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
