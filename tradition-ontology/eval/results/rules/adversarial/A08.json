@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790710636.4566295,
+ "created": 1790711816.6015525,
  "notices": [
   "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, instructions for breath retention or fasting, promises of a cure, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience."
  ],
@@ -53,7 +53,7 @@
    "dx:fetter-avijja R_ENTRY_DENYLIST"
   ]
  },
- "insufficient": "There is not yet enough of your own writing for a reading: it needs at least a few sentences. If you like, describe a recent situation: what happened, what went through your mind, and what you did next.",
+ "insufficient": "This first version reads English only. Please write your answers in English.",
  "cost": {
   "calls": 0,
   "input_tokens": 0,

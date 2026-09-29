@@ -46,3 +46,89 @@ Posts failing (d) only:
 7. Closings: choose per teaching, not from one generic list ("read your day this way" was put on a devotional verse in L37). `_sentence()` should not produce "'.'." or "—." (6 posts).
 
 (e) note: 20 fail (15 x_posts missing the link and closing; 5 long videos without minutes or points). The 10 carousels and 10 short videos are within limits. The 10 threads are within limits, but 5 repeat part 2.
+
+
+## Re-run (P6)
+
+Judge: onto-judge (claude-opus-5-5), 2026-09-29. Packet: `eval/judge/rules/content_review.jsonl`: 50 rules-engine posts redrafted from `buckets.json` 2.0, 10 per bucket (3 x_post, 2 x_thread, 2 ig_carousel, 2 short_video, 1 long_video). Per-post scores, evidence and fixes are in `eval/judge/content_verdicts_rerun.jsonl`. "Lnn" means line nn of the new packet; the P5 line numbers above refer to other posts.
+Checked by code:
+- claims.scan re-run: 0 hits in 50.
+- Keyword scan for health, clinical, research, promise and prediction words: the only hits are scene words or the verses' own attributed words.
+- Pairwise 5-gram Jaccard recomputed: max 0.316 (L8/L38), same as the packet.
+- `source_line(tid)` is printed exactly in all 50, never as a prefix of a longer ref. For every tid, `teaching(tid).id == tid` and the teaching is citable. No tid appears twice.
+- Format limits: x_post and thread parts ≤ 280 characters, slides ≤ 30 words, captions ≤ 120 words, short videos 113–127 words, long videos 6 sections / 10 minutes.
+- Every fix below was re-checked for length, pool-field word limits, claims.scan and similarity.
+
+Checked by reading: all 50 posts against the cited original and paraphrase, and against neighbouring entries in `data/`: BhG 12.19, 13.12; TS 6.4-6.5; Vism 9.p299-300; MN 10:2, 10:8, 10:46; DN 22:3; MN 118:7; TU 2.1.1, 2.2-5.
+Not run: the AI-label reminder (not in the packet); on-screen timing; the model check (rules engine only).
+
+| criterion | pass | fail |
+|---|---|---|
+| (a) cites faithfully | 45 | 5 |
+| (b) no claims | 50 | 0 |
+| (c) no near-duplicates | 46 | 4 |
+| (d) idea-specific | 48 | 2 |
+| **all of a–d** | **40** | **10** |
+| (e) format/voice, note only | 30 | 20 |
+
+Passes per bucket: work 9, overthinking 7, sleep 8, loneliness 8, meaning 8 (P5: 8 of 50 in total). The P5 template faults are fixed in this packet:
+- Every x_post has a link and a closing.
+- Scenes are bound to their items.
+- Every tid is exact.
+- No "you will" remains.
+
+The P5 (a) items in this packet (TS 6.10, BhG 5.10 "by sin") now pass. The other P5 (a) items are not in this packet and were not checked here.
+
+### Failures and exact fixes (full text and lengths in the verdicts file)
+- L3 d4daac3e work x_post, BhG 2.47 (a): "never to its fruits, and not to inaction either" puts inaction under the right (adhikāra). The verse says not to let attachment (saṅga) be to inaction. Fix: point → "The right is to the action alone, Kṛṣṇa says, never to its fruits; nor should one cling to inaction." (redraft 263 chars).
+- L11 d7a1f95b overthinking x_post, YS 1.32 (c): the link "one principle, returned to" restates L17's BhG 6.26 "the instruction is the return", on the same many-at-once scene. Fix: link → "Twelve pulls; the sūtra's counsel is one, not twelve." (259 chars).
+- L14 5f5befb9 overthinking x_thread, MN 10:36 (c): same idea and closing as L13 (MN 10:34): know the state rather than stop it, then "What is here now?". Fix: link → "Beyond knowing it is there, the sutta asks one to know how it arose."; closing → "Which line in the meeting started it?".
+- L20 abac28ed overthinking long_video, Dhp 348 (a): section 5 says the verse "does not promise a result", but its last line states one (no more birth and ageing). Fix: section 5 points → "The verse ends on its own goal: with the mind freed everywhere, the Dhammapada says, one does not come again to birth and ageing. That is the text's goal in its own words; this video promises nothing."
+- L23 0ccc23c5 sleep x_post, BAU 4.3.9-14 (c): the point and the closing "Whose light was it?" repeat L22's thesis from BAU 4.3.2-6 (the self as its own light; "What is still lit?"). Fix: x_link "Waking life gave the pieces; the dreamer built."; closing → "What did the dream borrow from the day?" (276 chars).
+- L28 85450832 sleep short_video, MN 10:6 (a, c):
+  - (a) "No technique, no target" is contradicted by MN 10:2 (goals) and MN 10:46 (stated result).
+  - (c) Same instruction and closing as L21: DN 22:4 = MN 10:8, the next section, which also lists lying down and sleeping.
+  - Fix: remove MN 10:6 from the sleep pool, treat DN 22:3-4 / MN 10:6-8 as one passage family in the overlap check, and redraft from another sleep item.
+- L39 22f9b21c loneliness short_video, Dhp 76 (a):
+  - "the friend": the verse speaks of a wise one to keep company with.
+  - The bridge "It is not advice from outside you": the verse is advice (bhaje).
+  - The STOPS line "does not promise a result": the verse says "better, not worse".
+  - Fix: close_reading → "The verse describes the wise one twice: one who points out faults (vajjadassī), and a reprover (niggayhavādī). It likens that person to someone who shows where treasure lies hidden."; link → "The verse counts such a person's words as treasure."; bridge → "The old texts are often this plain. They name the thing, and leave the seeing to the reader."; STOPS → "Where the text stops: it says only that keeping such company is better, not worse." (121 words).
+- L40 25521c0d loneliness long_video, MN 118:8 (a): the STOPS line is contradicted by "a little given to such an assembly becomes much". Fix: section 5 points → "The passage also calls this assembly worthy of gifts, where a little given becomes much: its own teaching on giving, stated as the text's. It praises one assembly; it promises no company."
+- L42 a4051cdb meaning x_post, TU ch2 (d): the link maps "name and job" onto the first self (the body made of food), and the closing "And the fifth answer?" steers the reader to the bliss-self as who they are (meaning never-list). Fix: link → "Its list has no name or job; it starts at the body."; closing → "What comes after the job?" (270 chars).
+- L49 365de4f8 meaning short_video, BhG 3.35 (d): the link is a gloss and joins nothing. By the gloss's own terms (svadharma is station duty, not a calling), a friend's life path is not what the verse is about, and "measure" is not in the verse. The faithful use (keep to one's station) is barred by the meaning never-list. Fix: retire BhG 3.35 from the meaning pool, redraft from another item, and drop the svadharma line in `rules/voices/meaning.md`.
+
+### Template and pool fixes (`insight/content.py`, `rules/content/buckets.json`)
+1. The fixed STOPS line "it describes what happens; it does not promise a result" is false when the cited text states a fruit (Dhp 348, Dhp 76, MN 118:8). Add an optional `stops` field per pool item and use it in short and long videos. Check every video-eligible item for a stated fruit before the next draft.
+2. BRIDGES[1] "It is not advice from outside you" is false for injunctive verses; change it to "Read it slowly, and check it against your own day." Drop the bridge when STOPS follows with the same words (L18, L28).
+3. The code checks passages, not ideas. Treat adjacent sutta sections with the same instruction (DN 22:3-4 / MN 10:6-8) and two passages carrying one dialogue's thesis (BAU 4.3.2-6 / 4.3.9-14) as one family per account. Have a reader compare links and closings within each pool (the pairs here: L11/L17, L13/L14, L21/L28, L22/L23).
+4. Pool text to change:
+   - BhG 2.47: point.
+   - YS 1.32: link.
+   - MN 10:36: link and closing.
+   - TU ch2: link and closing.
+   - BAU 4.3.9-14: x_link and closing.
+   - Dhp 76: close_reading and link.
+   - Retire MN 10:6 (sleep) and BhG 3.35 (meaning).
+
+### (e) notes (not gating)
+20 posts are noted: L1, L4, L5, L8, L10, L18, L19, L20, L24, L25, L26, L28, L29, L30, L31, L34, L36, L38, L40, L50.
+- 7 closings use the generic "Sit with that." (L4, L5, L8, L19, L24, L36, L38).
+- 5 long videos have one-line points and no other-lens section (L10, L20, L30, L40, L50). L50 should say that the Yoga Sūtra's "not-self" is not the Buddhist anattā.
+- Part 3, or the close-reading beat, restates part 2 (L4, L24, L29, L34).
+- The bridge and the STOPS line say the same thing back to back (L18, L28).
+- A term is unglossed or bracketed twice (L1 sāttvic, L26 brahman, L19 aparikheda, L34 vijugupsate).
+- L25 uses "two hours" (the sleep voice allows no numbers).
+- L31's x_link repeats its point.
+- In carousels, the fixed slide "An old text has a word for this." is not literally true for most scenes.
+- The difference lines of L45 and L47 are nearly the same sentence.
+
+### Gate verdict: FAIL
+40 of 50 posts pass a–d; the gate needs 50 of 50.
+- Claims (b) is clean. Similarity is clean by code (max 0.316).
+- The 10 failures break down as:
+  - 5 faithfulness failures: 2 from pool text (L3, L28) and 3 from the fixed STOPS or bridge lines (L20, L39, L40; L39 also from pool text).
+  - 4 same-idea pairs within one account (L11, L14, L23, L28).
+  - 2 stretched links (L42, L49).
+- Every failure has an exact fix above and in the verdicts file.
+- L28 and L49 are redrafted from new pool items, so those two new posts must be judged before the gate can pass.

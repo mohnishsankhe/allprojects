@@ -1,13 +1,15 @@
 {
  "engine": "rules",
- "created": 1790710636.2290325,
- "notices": [],
+ "created": 1790711816.3571486,
+ "notices": [
+  "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, instructions for breath retention or fasting, promises of a cure, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience."
+ ],
  "citations": {},
  "safety": {
   "route": "continue",
   "categories": [],
   "model_checked": false,
-  "injection": false
+  "injection": true
  },
  "mapping_audit": {
   "unmapped_reason": "no_entry_met_floor",

@@ -73,14 +73,38 @@ def select(maps: list[dict], route: str, max_n: int = 4) -> list[tuple[dict, lis
     return chosen
 
 
+def _entry_cites(dx_id: str) -> set:
+    e = ontology.diagnosis().get(dx_id) or {}
+    out = set()
+    for f in ("definitions", "markers"):
+        for x in e.get(f) or []:
+            out |= set(x.get("cites") or [])
+    return out
+
+
 def _why_text(p: dict, why: list) -> str:
+    """Honest about who pairs them. If a verse the practice rests on is also a verse that describes the pattern, the
+    texts themselves make the pairing; otherwise the pairing is this reading's."""
     m = why[0]
     q = m["evidence"][0]["quote"] if m.get("evidence") else ""
-    # honest about who pairs them: the practice is the texts', the pairing with this pattern is this reading's
-    return (f"You wrote “{q}”. This reading suggests the practice below for what the texts call {m['name']}; "
-            f"the practice comes from the texts cited with it, and the pairing is this reading's, not theirs." if q
-            else f"This reading suggests the practice below for what the texts call {m['name']}; the pairing is this "
-                 f"reading's, not the texts'.")
+    shared = sorted(set(p.get("cites") or []) & _entry_cites(m["dx_id"]))
+    if shared:
+        refs = "; ".join(f"{c['title']} {c['ref']}" for c in (ontology.citation(t) for t in shared[:3] if ontology.citable(t)))
+        tail = (f"The same passage that describes it ({refs}) also gives this practice." if refs
+                else "The texts that describe it also give this practice.")
+    else:
+        tail = "The practice comes from the texts cited with it; the pairing with this pattern is this reading's, not theirs."
+    head = f"You wrote “{q}”. This reading suggests the practice below for what the texts call {m['name']}. " if q else \
+        f"This reading suggests the practice below for what the texts call {m['name']}. "
+    return head + tail
+
+
+def _named_cites(p: dict) -> list:
+    """Show only the verses the practice's own text (name, summary, steps, warnings) actually names."""
+    from .synthesizer import _cites_named
+    text = " ".join([p.get("name", ""), p.get("summary", "")] + list(p.get("steps") or []))
+    named = _cites_named(list(p.get("cites") or []), text)
+    return named or list(p.get("cites") or [])
 
 
 def sequence(chosen: list[dict]) -> list[dict]:
@@ -118,7 +142,7 @@ def build(segs: list[dict], maps: list[dict], scr, engine: str = "rules", client
                       "for": [m["dx_id"] for m in why],
                       "evidence_refs": [e["qid"] for m in why for e in (m.get("evidence") or [])[:1] if e.get("qid")],
                       "steps": p.get("steps") or [], "duration": p.get("duration") or {},
-                      "warnings": p.get("warnings") or [], "cites": p.get("cites") or []})
+                      "warnings": p.get("warnings") or [], "cites": _named_cites(p)})
     if engine == "model" and client is not None and client.available() and items:
         try:
             out = client.call_json("pathway", PATHWAY_SYSTEM, _pathway_user(segs, items), PATHWAY_SCHEMA, ledger).data

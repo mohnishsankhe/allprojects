@@ -21,6 +21,9 @@ INSUFFICIENT = {
            "descriptions quite strictly, and only says something when your words clearly fit. You can add a sentence "
            "or two in your own words about how the pattern shows up — when it happens, what goes through your mind, "
            "what you do next — or use the full reading when it is available."),
+    "short": ("What you shared is short, and this reading could not connect it, honestly, with a pattern the texts "
+              "describe. That says nothing about you. If you like, add a few sentences about a recent situation: what "
+              "happened, what went through your mind, and what you did next."),
     "not_enough_own_words": ("There is not yet enough of your own writing for a reading: it needs at least a few "
                              "sentences. If you like, describe a recent situation: what happened, what went through "
                              "your mind, and what you did next."),
@@ -109,7 +112,15 @@ def run_reading(inputs: dict, engine: str = "rules", client: Optional[ModelClien
         report["notices"].append(res["notice"])
     report["mapping_audit"] = _audit_summary(res.get("audit") or {})
     if not maps:
-        why = (res.get("audit") or {}).get("unmapped_reason")
+        audit = res.get("audit") or {}
+        why = audit.get("unmapped_reason")
+        sents = [x for sg in segs for x in re.split(r"(?<=[.!?।])\s+", sg["text"].strip()) if x.strip()]
+        n_sent = len(sents)
+        n_ne = sum(1 for x in sents if not mapper.english_ok(x))    # counted here: the mapper may stop at its gate first
+        if why != "dialogue_speaker_unresolved" and n_sent and n_ne * 2 >= n_sent:
+            why = "language_not_supported"          # mostly not English: say so, instead of asking for more writing
+        elif why in (None, "no_entry_met_floor") and len(text.split()) < 80:
+            why = "short"
         report["insufficient"] = INSUFFICIENT.get(why, INSUFFICIENT[None])
         report["cost"] = ledger.totals()
         return report

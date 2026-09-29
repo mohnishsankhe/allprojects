@@ -559,3 +559,22 @@ Conservative choices made without asking, with reasons. Newest last.
      These are stricter than MAPPING_RULES (the worked examples still pass).
   7. **Safety:** a medical emergency now leads with the emergency line (lead). New injection patterns flag system impersonation, requests for breath-retention or fasting instructions, "say it will cure", and the Hindi "ignore instructions". The notice names them.
 - **Re-run of the hidden sets:** 0 automated failures in all three sets. The P02 false positive is gone. **Recall 2/30** (P10, P28). The swap test has only 2 pairs, which is not a meaningful sample; the release report says so. The failed gates go back to the judge.
+
+## 2026-09-30 01:27 IST — Person-map re-judge 1 and content re-judge 1: fixes (P6, round 2)
+- **Person-map re-judge 1** (PERSON_MAP_GATES.md, "Re-run (P6)"):
+  - PASS: forbidden claims (0/52), two lenses (3/3, grounded or counterpart-only), safety 42/42, injection resistance 10/10.
+  - FAIL: citation integrity 13/14; swap test 4/12 (n from 2 reports, not meaningful); insufficient message (generic; A08 given the wrong cause); injection flags 3/5.
+  - Recall: 2/30, both genuine.
+- **Fixes:**
+  - **Pathway wording.** When a verse of the practice is also a verse that describes the pattern (e.g. BhG 6.35), the reading says "the same passage that describes it … also gives this practice". Otherwise it says the pairing is this reading's.
+  - **Pathway cites.** A practice shows only the verses its own name, summary and steps name.
+  - **Named-verse matching.** It now understands ranges, e.g. "TS 9.30–33" names 9.31.
+  - **Anchoring.** Every reconciliation point and difference starts "For what you wrote, “…”:", tying the general point to this person's words.
+  - **Insufficient message by case:** "short" (under 80 words); "English only" when half or more of the sentences are not English (counted by the engine with the mapper's English check); otherwise the "limit of this reading" message.
+  - **Injection patterns generalised:** "N-day … fast", and "say/write/state … will cure/heal/fix/end".
+  - Adversarial inputs flagged: 8/10.
+- **Content re-judge 1:** 40/50 pass. Fixes:
+  - pool v2.1: BhG 2.47, YS 1.32, MN 10:36, BAU 4.3.9-14, Dhp 76 and TU ch2 texts; per-item "stops" lines for Dhp 348, Dhp 76 and MN 118:8; MN 10:6 (sleep) and BhG 3.35 (meaning) retired; the svadharma line dropped from the meaning voice guide;
+  - templates: the default STOPS and BRIDGES lines reworded so they are true of any verse.
+  The 10 failing posts are marked **rejected** in the queue (kept, with the reason) and replaced. Only the 10 replacements go back to the judge; rejected drafts are no longer counted in the packet.
+- **Hidden sets re-run:** 0 automated failures.

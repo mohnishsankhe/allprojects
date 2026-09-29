@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790710636.1315572,
+ "created": 1790711816.257644,
  "notices": [
   "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, instructions for breath retention or fasting, promises of a cure, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience.",
   "There are not yet enough gentle practices in the texts' own terms that match what you described, so the pathway below is short."
@@ -324,7 +324,7 @@
  "reconciliation": {
   "points": [
    {
-    "text": "Each names a mind that will not stay. Gītā: the mind is restless, turbulent, strong and obstinate, as hard to restrain as the wind (BhG 6.34). It is held by practice and dispassion (BhG 6.35), and wherever it wanders it is to be brought back (BhG 6.26). Vyāsa: samādhi is a property of the mind at every level, and one of its grounds is the distracted (vikṣipta) (YB 1.1). Suttas: restlessness and remorse (uddhacca-kukkucca) is a hindrance known as present or absent (MN 10:36), and a scattered (vikkhitta) mind is known as scattered (MN 10:34). Under the one-truth principle, they describe it from different standpoints: the match is a partial match, not an identity.",
+    "text": "For what you wrote, “My mind still jumps around”: Each names a mind that will not stay. Gītā: the mind is restless, turbulent, strong and obstinate, as hard to restrain as the wind (BhG 6.34). It is held by practice and dispassion (BhG 6.35), and wherever it wanders it is to be brought back (BhG 6.26). Vyāsa: samādhi is a property of the mind at every level, and one of its grounds is the distracted (vikṣipta) (YB 1.1). Suttas: restlessness and remorse (uddhacca-kukkucca) is a hindrance known as present or absent (MN 10:36), and a scattered (vikkhitta) mind is known as scattered (MN 10:34). Under the one-truth principle, they describe it from different standpoints: the match is a partial match, not an identity.",
     "basis": "standpoint",
     "cites": [
      "tea:bhagavad-gita:6.34",
@@ -342,7 +342,7 @@
   ],
   "differences": [
    {
-    "text": "(1) Vyāsa's distracted mind is one ground in a scale of grounds of mind (YB 1.1). MN 10 only names the scattered mind as something to be known, with no scale (MN 10:34). (2) The hindrance joins restlessness and remorse (kukkucca) into one (MN 10:36). The Gītā passage speaks of restlessness alone. (3) The Gītā names the remedy, practice and dispassion (BhG 6.35). MN 10's approach in this passage is to know the hindrance as present, arising and abandoned (MN 10:36). (4) The Visuddhimagga defines restlessness by its mark of non-calming (Vism XIV). It counts restlessness among the fetters that remain until the arahat path (Vism XXII), a depth that the Gītā and Vyāsa passages do not grade.",
+    "text": "For what you wrote, “My mind still jumps around”: (1) Vyāsa's distracted mind is one ground in a scale of grounds of mind (YB 1.1). MN 10 only names the scattered mind as something to be known, with no scale (MN 10:34). (2) The hindrance joins restlessness and remorse (kukkucca) into one (MN 10:36). The Gītā passage speaks of restlessness alone. (3) The Gītā names the remedy, practice and dispassion (BhG 6.35). MN 10's approach in this passage is to know the hindrance as present, arising and abandoned (MN 10:36). (4) The Visuddhimagga defines restlessness by its mark of non-calming (Vism XIV). It counts restlessness among the fetters that remain until the arahat path (Vism XXII), a depth that the Gītā and Vyāsa passages do not grade.",
     "cites": [
      "tea:bhagavad-gita:6.35",
      "tea:yoga-bhasya:1.1",
@@ -371,7 +371,7 @@
     "px_id": "px:abhyasa-vairagya-bg-6-35",
     "name": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35)",
     "lens": "vedic-yogic",
-    "why": "You wrote “My mind still jumps around”. This reading suggests the practice below for what the texts call Cañcala manas (the restless mind); the practice comes from the texts cited with it, and the pairing is this reading's, not theirs.",
+    "why": "You wrote “My mind still jumps around”. This reading suggests the practice below for what the texts call Cañcala manas (the restless mind). The same passage that describes it (Bhagavad Gītā 6.26; Bhagavad Gītā 6.34; Bhagavad Gītā 6.35) also gives this practice.",
     "for": [
      "dx:gita-restless-mind"
     ],
@@ -418,7 +418,6 @@
     "cites": [
      "tea:bhagavad-gita:6.34",
      "tea:bhagavad-gita:6.35",
-     "tea:bhagavad-gita:6.36",
      "tea:bhagavad-gita:6.26",
      "tea:bhagavad-gita:6.25",
      "tea:bhagavad-gita:5.22",

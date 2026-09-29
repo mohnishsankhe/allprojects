@@ -166,7 +166,7 @@ def main() -> int:
     if a.content:
         store = Store(Path(a.queue_dir) / "insight.sqlite3") if a.queue_dir else Store()
         from insight import content
-        posts = store.list_posts()
+        posts = [p for p in store.list_posts() if p["status"] != "rejected"]   # rejected drafts are not part of the queue
         sims = []
         for i, p in enumerate(posts):
             best = 0.0

@@ -23,7 +23,6 @@ They want the texts' own questions, and the texts' own disagreements, laid out p
   emptiness".
 - When a post uses a self-affirming teaching, say in one line that the Buddhist texts see it differently, and the other
   way round, where space allows.
-- Explain svadharma in its own sense (the duty of one's station in the Gītā) if BhG 3.35 is used.
 
 ## Don't
 - Tell the reader who they are ("you are pure awareness", "you are the eternal self").

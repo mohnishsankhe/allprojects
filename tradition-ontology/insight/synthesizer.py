@@ -136,11 +136,30 @@ def _mentioned(tid: str, text: str) -> bool:
     if re.match(r"(mn|dn)\d+[:.]", ref):                     # 'mn10:36' is named as 'MN 10:36'
         return re.search(re.escape(_norm_ref(ref).split("-")[0]) + r"(?![\d])", t) is not None
     lo = _norm_ref(ref).split("-")[0]
-    return bool(lo) and re.search(rf"(?<![\d.]){re.escape(lo)}(?![\d])", t) is not None
+    if bool(lo) and re.search(rf"(?<![\d.]){re.escape(lo)}(?![\d])", t) is not None:
+        return True
+    # a verse inside a range the text names, e.g. 'TS 9.30–33' names 9.31
+    m = re.fullmatch(r"((?:\d+\.)*)(\d+)", lo)
+    if not m:
+        return False
+    head, n = m.group(1), int(m.group(2))
+    for a, b in re.findall(rf"(?<![\d.]){re.escape(head)}(\d+)-(\d+)(?![\d])", t):
+        if int(a) <= n <= int(b):
+            return True
+    return False
 
 
 def _cites_named(cites: list, text: str) -> list:
     return [c for c in cites if _mentioned(c, text)]
+
+
+def _for_you(maps_hit: list) -> str:
+    """The person-specific anchor for a general point: the words that mapped the pattern."""
+    for m in maps_hit:
+        q, _ = _first_quote(m)
+        if q:
+            return f"For what you wrote, “{q}”: "
+    return ""
 
 
 def _counterpart_point(m: dict, entry: dict, e: dict) -> Optional[dict]:
@@ -204,15 +223,16 @@ def _rec_from_rows(maps: list[dict], dx: dict, mapped_ids: set) -> tuple[list, l
         basis = BASIS_OF_PRINCIPLE.get(str(pr.get("id") if isinstance(pr, dict) else (pr or "")).split(" ")[0])
         agree = r.get("what_is_shared") or r.get("agreement") or ""
         differ = r.get("what_differs") or r.get("differs") or ""
+        anchor = _for_you(hit)
         if basis and cites and refs:
-            text = _clean(f"{agree.rstrip('.') or 'The texts name a closely related pattern'}. Under the one-truth "
+            text = _clean(f"{anchor}{agree.rstrip('.') or 'The texts name a closely related pattern'}. Under the one-truth "
                           f"principle, {BASIS_WORDS[basis]}: the match is {GRADE_WORDS.get(r.get('grade'), 'partial')}, "
                           f"not an identity.")
             named = _cites_named(cites, text)          # each text carries only the verses it actually names
             if named:
                 points.append({"text": text, "basis": basis, "cites": named, "evidence_refs": refs, "row": key})
         if differ and cites and refs:
-            dtext = _clean(differ)
+            dtext = _clean(f"{anchor}{differ}")
             named = _cites_named(cites, dtext)
             if named:
                 diffs.append({"text": dtext, "cites": named, "evidence_refs": refs, "row": key, "members": sorted(mem)})
@@ -237,7 +257,7 @@ def _rec_from_equivalences(maps: list[dict], dx: dict, mapped_ids: set, seen_pai
                 continue
             seen_pairs.add(pair)
             _, refs = _first_quote(m)
-            dtext = _clean(f"{entry['name']} and {e['_t']['name']} are {GRADE_WORDS[e['grade']]}. {e['note']}")
+            dtext = _clean(f"{_for_you([m])}{entry['name']} and {e['_t']['name']} are {GRADE_WORDS[e['grade']]}. {e['note']}")
             named = _cites_named(list(e["cites"]), dtext)     # only the verses the note actually names
             if named:
                 diffs.append({"text": dtext, "cites": named, "evidence_refs": refs, "pair": list(pair)})
@@ -257,7 +277,7 @@ def _self_question(maps: list[dict]) -> list:
     refs = sorted({e["qid"] for m in hit for e in m.get("evidence") or []})
     if not (text and cites and refs):
         return []
-    return [{"text": _clean(f"On the sense of 'I': {text}"), "cites": sorted(set(cites)), "evidence_refs": refs,
+    return [{"text": _clean(f"{_for_you(hit)}on the sense of 'I': {text}" if _for_you(hit) else f"On the sense of 'I': {text}"), "cites": sorted(set(cites)), "evidence_refs": refs,
              "row": "self_question"}]
 
 

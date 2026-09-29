@@ -105,7 +105,7 @@ def _sentence(s: str) -> str:
     return s if not s or s[-1] in ".?!…”\"’')" or s[-2:] in ('."', '.”', ".’", "?”", "!”") else s + "."
 
 
-STOPS = "Where the text stops: it describes what happens; it does not promise a result."
+STOPS = "Where the text stops: it says what it says; reading it into your own day is left to you."
 
 
 def _item_parts(bucket_id: str, scene_idx: int, item: dict) -> dict:
@@ -116,7 +116,8 @@ def _item_parts(bucket_id: str, scene_idx: int, item: dict) -> dict:
     return {"scene": _sentence(scene), "point": _sentence(item["point"]), "link": _sentence(link),
             "difference": _sentence(item.get("difference") or ""),
             "x_link": _sentence(item.get("x_link") or link), "close": _sentence(item.get("close_reading") or ""),
-            "closing": _sentence(closing), "src": source_line(item["tid"])}
+            "closing": _sentence(closing), "src": source_line(item["tid"]),
+            "stops": _sentence(item.get("stops") or STOPS)}
 
 
 def rules_draft(bucket_id: str, fmt: str, scene_idx: int, item: dict) -> dict:
@@ -139,13 +140,13 @@ def rules_draft(bucket_id: str, fmt: str, scene_idx: int, item: dict) -> dict:
         parts = [sc, "An old text has a word for this.", pt, f"Source: {src}", ln] + \
                 ([P["difference"]] if P["difference"] else []) + [cl]
     elif fmt == "short_video":
-        parts = _short_video_parts(sc, pt, ln, src, cl, cr, item["tid"])
+        parts = _short_video_parts(sc, pt, ln, src, cl, cr, item["tid"], P["stops"])
     elif fmt == "long_video":
         parts = [f"1. The scene (about 2 min). Points: {sc} Stay with the moment before judging it.",
                  f"2. The teaching (about 2 min). Points: {pt} Source: {src}.",
                  f"3. Reading closely (about 2 min). Points: {cr or pt} Say only what the passage says.",
                  f"4. The link (about 2 min). Points: {ln}",
-                 f"5. Where the text stops (about 1 min). Points: {STOPS}",
+                 f"5. Where the text stops (about 1 min). Points: {P['stops']}",
                  f"6. Close (about 1 min). Points: {cl}"]
     else:
         raise ValueError(f"unknown format {fmt}")
@@ -156,8 +157,8 @@ def rules_draft(bucket_id: str, fmt: str, scene_idx: int, item: dict) -> dict:
     return body
 
 
-BRIDGES = ["Notice what the text does and does not say. It describes what happens in the mind; it promises nothing.",
-           "Read it slowly. It is not advice from outside you. It is a description you can check against your own day.",
+BRIDGES = ["Notice exactly what the text says, and what it leaves unsaid.",
+           "Read it slowly, and check it against your own day.",
            "The old texts are often this plain. They name the thing, and leave the seeing to the reader."]
 
 
@@ -165,13 +166,13 @@ def _words(t: str) -> int:
     return len(re.sub(r"\[on screen:[^\]]*\]", "", t).split())
 
 
-def _short_video_parts(scene, point, link, src, closing, close_reading, tid) -> list[str]:
+def _short_video_parts(scene, point, link, src, closing, close_reading, tid, stops=STOPS) -> list[str]:
     """45–60 s script: 110–160 spoken words (on-screen cues excluded), built only from the pool item, the
     'where the text stops' beat and at most two fixed bridge sentences that make no claim."""
     parts = [f"[on screen: {scene}] {scene}", f"[on screen: {src}] There is an old text that says it plainly. {point}"]
     if close_reading:
         parts.append(f"Here is what the passage says, closely: {close_reading}")
-    parts += [link, STOPS, f"[on screen: {closing}] {closing}"]
+    parts += [link, stops, f"[on screen: {closing}] {closing}"]
     b = int(hashlib.sha1(tid.encode()).hexdigest(), 16) % len(BRIDGES)
     k = 0
     while _words(" ".join(parts)) < 110 and k < len(BRIDGES):
