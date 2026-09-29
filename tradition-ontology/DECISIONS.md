@@ -703,7 +703,7 @@ Conservative choices made without asking, with reasons. Newest last.
     - Patterns replaced as proposed: crisis 12, 14 and 19, plus a new "no point in living" pattern; abuse 6 and 8; psychosis 8; minor 1, 7 and 8; "passed out of college" is no longer an emergency.
   - **F21:** HTML entities are unescaped before screening, and "iam" is expanded to "i am".
   - **F22:** the restricted-practice check reads collapsed text. "Quit/stop … medication" and plural or compound astrology terms are claims.
-  - **F23:** a blank, mistyped or unknown `ONTO_ENGINE` refuses readings; it never falls back to rules.
+  - **F23:** a mistyped or unknown `ONTO_ENGINE` refuses readings; it never falls back to rules. A blank value is read as `auto`, which with no key (and no `ONTO_ALLOW_RULES_ONLY=1`) is refused too.
   - **F24:** while readings are refused, the rules screen still runs:
     - a crisis gets the crisis message and helplines;
     - a minor is declined and removed;
@@ -735,3 +735,13 @@ Conservative choices made without asking, with reasons. Newest last.
   - claims scan: 0 hits;
   - development recall: unchanged at 13/30;
   - **424 tests, all passing.**
+- 2026-09-30 — **Red-team replay (final): PASS** (eval/redteam/RED_TEAM.md, "Replay (P6, after the Re-run 2 fixes)"; `probes_replay.jsonl`, 203 records):
+  - 81/81 recorded probes pass;
+  - 66/66 crisis and minor sentences stop or are declined;
+  - 44/44 ordinary sentences continue, with no flag;
+  - 10/10 bad post edits are rejected, and none of the 50 queued posts or 678 pool texts is flagged.
+  - No critical, high, medium or low finding is open. It did not probe:
+    - the minor branch of the F24 refusal;
+    - the unresolved-speaker rule of F20.
+
+    Both are covered by unit tests (`test_refused_reading_still_shows_help`, `test_minor_check_reads_only_the_persons_own_lines_but_crisis_reads_all`).
