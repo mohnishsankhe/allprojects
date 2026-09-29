@@ -59,7 +59,10 @@ def _direct_point(m: dict, entry: dict) -> Optional[dict]:
         return None
     text = _clean(f"Your words “{q}” {FIT.get(m.get('confidence'), 'may fit')} what {TRAD_NAME[entry['lens']]} call "
                   f"{entry['name']}. {dtext}")
-    return {"text": text, "cites": sorted(set(dcites)), "evidence_refs": refs, "dx_id": entry["id"], "via": None}
+    if entry.get("kind") in ("temperament", "guna"):
+        text += " The texts describe signs that can arise and pass; this is not a judgement about who you are."
+    named = _cites_named(dcites, text)          # drop cites whose sentence was removed (red team F17)
+    return {"text": text, "cites": sorted(set(named or dcites)), "evidence_refs": refs, "dx_id": entry["id"], "via": None}
 
 
 def _best_equivalences(entry: dict, other_lens: str, dx: dict, mapped: set) -> list[dict]:

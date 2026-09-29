@@ -72,7 +72,7 @@ def person_text(segs: list[dict]) -> str:
 
 def _age(inputs: dict) -> Optional[int]:
     try:
-        return int(inputs.get("age")) if inputs.get("age") not in (None, "") else None
+        return int(float(str(inputs.get("age")).strip())) if inputs.get("age") not in (None, "") else None
     except (TypeError, ValueError):
         return None
 
@@ -103,6 +103,10 @@ def run_reading(inputs: dict, engine: str = "rules", client: Optional[ModelClien
         report["cost"] = ledger.totals()
         return report
     report["notices"].extend(msg.get("notes") or [])
+    if engine != "model":
+        # red team X03: say plainly when the reading is offline and the model safety check did not run
+        report["notices"].append("This reading was made offline, by rule-based matching only; the fuller model-based "
+                                 "safety check and reading did not run.")
     if not segs:
         report["insufficient"] = "Nothing was shared yet, so there is nothing to reflect on."
         report["cost"] = ledger.totals()

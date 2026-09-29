@@ -36,7 +36,7 @@ def intake_questions() -> list[dict]:
 
 def _age_ok(age) -> Optional[int]:
     try:
-        a = int(age)
+        a = int(float(str(age).strip()))          # '17.5' is 17 (red team F6): never rounded up into adulthood
     except (TypeError, ValueError):
         return None
     return a if 0 < a < 130 else None
@@ -85,6 +85,7 @@ class Service:
             inputs["age"] = answers.pop("age")
         a = _age_ok(inputs.get("age"))
         if a is not None and a < consent_info()["min_age"]:
+            self.store.delete_person(pid)             # red team F15: a minor is removed, whatever the route of discovery
             return {"reading_id": None, "report": {"stopped": safety.messages()["decline_minor"]},
                     "markdown": report_mod.to_markdown({"stopped": safety.messages()["decline_minor"]})}
         e, client = self._engine(engine)
@@ -123,8 +124,15 @@ class Service:
             raise ServiceError("bad_day", "Day must be between 1 and 60.")
         e, client = self._engine(engine)
         ledger = Ledger()
+        if rid:
+            r = self.store.get_reading(rid)
+            if not r or r["person_id"] != pid:      # red team F9: a check-in belongs to the person's own reading
+                raise ServiceError("not_found", "Reading not found.", 404)
         scr = safety.screen(text or "", client=client, ledger=ledger, require_model=(e == "model"))
         msg = scr.message()
+        if scr.route == "decline_minor":
+            self.store.delete_person(pid)             # red team F15
+            return {"stored": False, "stopped": msg}
         if scr.stop:
             log.info("checkin stopped route=%s", scr.route)
             return {"stored": False, "stopped": msg}

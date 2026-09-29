@@ -222,6 +222,14 @@ def model_draft(client: ModelClient, ledger: Ledger, bucket_id: str, fmt: str, s
 
 
 # --- checks --------------------------------------------------------------------------------------
+MIXED_SCRIPT = re.compile(r"\b(?=[^\W\d_]*[A-Za-z])(?=[^\W\d_]*[\u0370-\u03FF\u0400-\u04FF])[^\W\d_]+\b")
+# posts only (reports keep the texts' own cautions): never instructions for restricted practices (red team F16)
+RESTRICTED_IN_POST = re.compile(r"\b(?:hold|retain|suspend|stop) (?:your|the) breath\b|\bkumbhaka\b|\bkhecar[iī]\b|\bvajrol[iī]\b"
+                                r"|\b(?:\d+|forty|thirty|twenty|long|extended)[- ]days? (?:\w+ )?fast\b"
+                                r"|\bfast(?:ing)? for (?:\d+|many|several|forty|thirty|twenty) days\b|\beat nothing for\b"
+                                r"|\bmercury\b|\bp[aā]rada\b", re.I)
+
+
 def shingles(text: str, n: int = 5) -> set:
     t = re.sub(r"\s+", " ", (text or "").lower()).strip()
     return {t[i:i + n] for i in range(max(0, len(t) - n + 1))}
@@ -262,6 +270,11 @@ def rules_check(store, body: dict, exclude_id: Optional[str] = None) -> dict:
     hits = claims.scan(text)
     if hits:
         problems.append(f"forbidden claim: {hits[0]['match']!r}")
+    if MIXED_SCRIPT.search(text):
+        problems.append("a word mixes Latin with Cyrillic or Greek letters")
+    rp = RESTRICTED_IN_POST.search(claims._norm(text))
+    if rp:
+        problems.append(f"restricted practice named as an instruction: {rp.group(0)!r}")
     if PERSONAL_DATA.search(text):
         problems.append("personal data or link")
     sh = shingles(text)

@@ -186,9 +186,14 @@ def diagnosis() -> dict:
     if not p.exists():
         return {}
     out = {}
+    sr = config.RULES / "synthesis_rules.json"
+    names = (json.loads(sr.read_text(encoding="utf-8")).get("display_names") or {}) if sr.exists() else {}
     for e in json.loads(p.read_text(encoding="utf-8")):
         c = _clean_entry(e)
         if c and c.get("definitions"):
+            if c["id"] in names:           # neutral display name (never a label on a person)
+                c["label_in_texts"] = c.get("name")
+                c["name"] = names[c["id"]]
             out[c["id"]] = c
     return out
 

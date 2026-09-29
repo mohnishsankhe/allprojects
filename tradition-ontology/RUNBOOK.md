@@ -5,7 +5,7 @@
 |---|---|---|
 | `ANTHROPIC_API_KEY` | none | Needed for the model engine. Without it the app runs the rules engine only |
 | `ONTO_ANTHROPIC_BASE_URL` | `https://api.anthropic.com` | The API base URL. The app never reads `ANTHROPIC_BASE_URL` |
-| `ONTO_ENGINE` | `auto` | `rules`, `model` or `auto` |
+| `ONTO_ENGINE` | `auto` | `rules`, `model` or `auto`. **Any public deployment must run `model` with a key.** With `auto` and no key, only the rules engine runs and the model safety screen does not; every such reading says so. |
 | `ONTO_DATA_DIR` | `~/.onto-insight` | Where the encrypted database and key file live (mode 0700). Keep it outside the repository |
 | `ONTO_DATA_KEY` | a key file in the data directory | A Fernet key (urlsafe base64). Set it in production and keep it in a secret store |
 | `ONTO_RETENTION_DAYS` | `90` | How long personal data is kept |
@@ -40,8 +40,9 @@ the published price list before relying on COSTS.md.
    `eval/judge/`, and the results go into RELEASE_REPORT.md.
 
 ## Incidents
-- **Model outage.** Readings in model mode stop with `stop_unavailable` (the safety screen fails closed). Switch to
-  `ONTO_ENGINE=rules` to keep serving offline readings.
+- **Model outage.** Readings in model mode stop with `stop_unavailable`, because the safety screen fails closed. Do **not**
+  switch a public deployment to `ONTO_ENGINE=rules` to keep serving: the rules screen alone misses indirect crisis
+  wording that the model screen is there to catch. Wait for the API to recover.
 - **Deletion request.** The person uses "Delete my data" in the page, or the operator runs
   `python3 -m insight.cli delete --person ID`.
 - **Suspected key leak.** Rotate `ONTO_DATA_KEY`. Old records cannot be decrypted with the new key, so export and

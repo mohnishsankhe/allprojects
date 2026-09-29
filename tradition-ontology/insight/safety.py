@@ -84,18 +84,28 @@ def _route_for(flags: dict) -> str:
     return "continue"
 
 
-_QUOTES = {ord(c): "'" for c in "‘’‚‛′`´"} | {ord(c): '"' for c in "“”„‟″"}
+_QUOTES = {ord(c): "'" for c in "‘’‚‛′`´ʼʹ＇"} | {ord(c): '"' for c in "“”„‟″＂"}
+_INVISIBLE = re.compile("[\u00ad\u034f\u061c\u180e\u200b-\u200f\u202a-\u202e\u2060-\u2069\ufeff]")
+_UESC = re.compile(r"\\u([0-9a-fA-F]{4})")
+_MOJIBAKE = {"\u00e2\u0080\u0099": "'", "\u00e2\u0080\u0098": "'", "\u00e2\u0080\u009c": '"', "\u00e2\u0080\u009d": '"',
+             "\u00e2\u20ac\u2122": "'", "\u00e2\u20ac\u02dc": "'", "\u00e2\u20ac\u0153": '"', "\u00e2\u20ac\u009d": '"'}
 _TEXTING = {"im": "i'm", "ive": "i've", "dont": "don't", "cant": "can't", "wont": "won't", "didnt": "didn't",
             "doesnt": "doesn't", "isnt": "isn't", "wasnt": "wasn't", "couldnt": "couldn't", "wouldnt": "wouldn't",
             "havent": "haven't", "id": "i'd", "ill": "i'll"}
 
 
-def normalise(text: str) -> str:
-    """What the screen reads: NFC, straight quotes, no zero-width characters, texting contractions expanded (so that
-    'I don’t want to live' and 'im 15' are read like 'I don't want to live' and 'i'm 15'). Used only for screening."""
+def normalise(text: str, collapse: bool = True) -> str:
+    """What the screen reads (red team F1, F12): JSON \\u escapes and common mojibake repaired, NFKC, straight
+    quotes, invisible characters removed, whitespace collapsed (so a chat line break or a double space cannot split a
+    phrase), texting contractions expanded. Used only for screening; injection patterns read it uncollapsed."""
     import unicodedata
-    t = unicodedata.normalize("NFC", text or "").translate(_QUOTES)
-    t = re.sub(r"[\u200b-\u200f\u2060\ufeff]", "", t)
+    t = _UESC.sub(lambda m: chr(int(m.group(1), 16)), text or "")
+    for k, v in _MOJIBAKE.items():
+        t = t.replace(k, v)
+    t = unicodedata.normalize("NFKC", t).translate(_QUOTES)
+    t = _INVISIBLE.sub("", t)
+    if collapse:
+        t = re.sub(r"\s+", " ", t)
     t = re.sub(r"\b(" + "|".join(_TEXTING) + r")\b", lambda m: _TEXTING.get(m.group(1).lower(), m.group(1)), t, flags=re.I)
     return t
 
@@ -112,7 +122,8 @@ def rule_screen(text: str, age: Optional[int] = None) -> SafetyResult:
             flags[cat] = hits
     if age is not None and age < 18:
         flags.setdefault("minor", []).append(f"age answer: {age}")
-    res = SafetyResult(flags=flags, injection=any(p.search(screened) for p in inj))
+    lined = normalise(text, collapse=False)            # injection patterns need line starts (e.g. "SYSTEM:")
+    res = SafetyResult(flags=flags, injection=any(p.search(lined) or p.search(screened) for p in inj))
     res.route = _route_for(flags)
     return res
 

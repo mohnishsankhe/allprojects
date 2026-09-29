@@ -17,11 +17,24 @@ def _rules():
     return cats, allow
 
 
+def _norm(text: str) -> str:
+    """NFKC and invisible characters removed (red team F16), so look-alike forms cannot hide a claim."""
+    import unicodedata
+    t = unicodedata.normalize("NFKC", text or "")
+    return re.sub("[\u00ad\u034f\u061c\u180e\u200b-\u200f\u202a-\u202e\u2060-\u2069\ufeff]", "", t)
+
+
 def scan(text: str) -> list[dict]:
-    """Return a list of hits {category, match, sentence}. Sentences that are standard disclaimers are exempt."""
+    """Return a list of hits {category, match, sentence}. A standard disclaimer exempts only its own words. Each
+    sentence is scanned, and so is the whole text with its whitespace collapsed (a line break cannot split a claim)."""
     cats, allow = _rules()
     hits = []
-    for sent in re.split(r"(?<=[.!?])\s+|\n+", text or ""):
+    text = _norm(text)
+    whole = re.sub(r"\s+", " ", text).strip()
+    units = re.split(r"(?<=[.!?])\s+|\n+", text or "")
+    if whole and whole not in units:
+        units = units + [whole]
+    for sent in units:
         # a disclaimer exempts only its own words, never the rest of the sentence
         # ("Not medical advice: this verse cures anxiety" is still caught)
         probe = sent

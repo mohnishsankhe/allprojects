@@ -20,5 +20,17 @@
     ],
     "source": "layers/tables/self_question.json",
     "rule": "When a reading maps an entry about the sense of 'I' (asmitā, māna), it adds ONE difference point built from self_question.json product_wording (reading_sentence + difference_sentence), with its citable cites and the person's quotes for that entry. The four accounts are shown side by side; no reconciliation is claimed (status: not yet reconciled; onto-deep verdict 2026-09-29). Display rules of self_question.json are followed: the two sentences always together; triggers are asmitā and Theravāda conceit only (for Jain māna the row's own text leads)."
-  }
+  },
+  "display_names": {
+    "dx:carita-raga": "Rāga-carita (a pattern of craving)",
+    "dx:carita-dosa": "Dosa-carita (a pattern of aversion)",
+    "dx:carita-moha": "Moha-carita (a pattern of confusion)",
+    "dx:carita-saddha": "Saddhā-carita (a pattern of faith)",
+    "dx:carita-buddhi": "Buddhi-carita (a pattern of discernment)",
+    "dx:carita-vitakka": "Vitakka-carita (a pattern of much thinking)",
+    "dx:guna-sattva": "Signs of sattva rising (clarity)",
+    "dx:guna-rajas": "Signs of rajas rising (restless activity)",
+    "dx:guna-tamas": "Signs of tamas rising (heaviness, inertia)"
+  },
+  "_display_note": "Orchestrator P6 (red team F17): temperament and guṇa entries are shown under neutral names ('a pattern of …', 'signs of … rising'); the texts' own labels stay in the layer. Every such point says it is not a judgement about who the person is."
 }
