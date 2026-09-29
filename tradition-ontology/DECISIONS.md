@@ -314,3 +314,10 @@ Conservative choices made without asking, with reasons. Newest last.
   - YS 3.37 applies to the perceptions of 3.36 only, not to all powers.
 - The judge removed 123 wrong-sense links (43 term ids, 2 concept ids, 5 replacements). Each is listed with its reason in shards/extraction/yoga-sutra/*/fidelity.jsonl. The root cause is systemic: many data/terms.json entries carry only another tradition's sense. It goes to NEXT_STEPS (Yoga-sense definitions plus a lineage check before linking), and the Role S brief already requires the sense check.
 - tea:yoga-bhasya:mangala stays undecided (its source line is not in the prepared segments); it is listed in NEXT_STEPS. Nothing user-facing depends on it.
+
+## 2026-09-29 22:38 IST — Māṇḍūkya Upaniṣad and Gauḍapāda's Kārikā judge: below 95%, so all 232 entries were checked
+- Sample faithful as written: MU 3/5, GK 16/22. All 232 teachings were checked individually and 59 fixed; 21 entities corrected. Merged: text-verified teachings now number 1,503. The diagnosis layer now has 90 of 102 entries usable.
+- **Main faults fixed.** Commentators' readings had been given as the plain sense: pravivikta as "subtle"; ubhayatva as "in-between"; "turīya", which the Upaniṣad does not use. There were also grammatical misconstruals and silent construals. The Role S rule on commentary labels already covers this.
+- **Level tag for means.** A means or instruction (e.g. Oṃ meditation, manonigraha) is tagged conventional, not ultimate. This follows principles.md: conventional covers the path itself. Mixed verses keep "ultimate".
+- **18 sense-specific -gk/-mu ids** have the same sense as their base ids in data/. They were kept, since they resolve, and folding them into the base ids is listed in NEXT_STEPS. The same goes for trm:kasaya-gk: the Advaita gloss on data trm:kasaya should move to it.
+- **Kārikā 2.22** shares a segment with 2.23, so a citation of 2.22 will not resolve. Nothing user-facing cites it (checked by check_layers). Listed in NEXT_STEPS.

@@ -479,6 +479,7 @@
 {"kind": "scalar", "id": "tea:brahma-sutra:3.4.2", "field": "reported_by_opponent", "kept": false, "other": true}
 {"kind": "scalar", "id": "tea:brahma-sutra:4.3.12", "field": "reported_by_opponent", "kept": false, "other": true}
 {"kind": "scalar", "id": "tea:brahma-sutra:4.4.5", "field": "reported_by_opponent", "kept": false, "other": true}
+{"kind": "scalar", "id": "tea:mandukya-karika:1.9", "field": "reported_by_opponent", "kept": true, "other": false}
 {"kind": "scalar", "id": "tea:prajnaparamita-hrdaya:s4", "field": "speaker", "kept": "Avalokiteśvara (by the sūtra's frame)", "other": "Avalokiteśvara"}
 {"kind": "scalar", "id": "tea:prajnaparamita-hrdaya:s6", "field": "speaker", "kept": "Avalokiteśvara (by the sūtra's frame)", "other": "Avalokiteśvara"}
 {"kind": "scalar", "id": "tea:prajnaparamita-hrdaya:s7", "field": "speaker", "kept": "Avalokiteśvara (by the sūtra's frame)", "other": "Avalokiteśvara"}
@@ -593,12 +594,10 @@
 {"kind": "scalar", "id": "trm:aksara", "field": "literal", "kept": "imperishable", "other": "the imperishable; syllable"}
 {"kind": "scalar", "id": "trm:aksara", "field": "literal", "kept": "imperishable", "other": "imperishable; syllable"}
 {"kind": "scalar", "id": "trm:aksara", "field": "literal", "kept": "imperishable", "other": "imperishable; syllable"}
-{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "Turīya", "other": "turīya"}
-{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "Turīya", "other": "turīya / turya"}
-{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "Turīya", "other": "turīya"}
-{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "Turīya", "other": "turīya"}
-{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "Turīya", "other": "turīya / caturtha"}
-{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "Turīya", "other": "turīya"}
+{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "turīya", "other": "turīya / turya"}
+{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "turīya", "other": "Turīya"}
+{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "turīya", "other": "turīya / turya"}
+{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "turīya", "other": "turīya / caturtha"}
 {"kind": "scalar", "id": "trm:hamsa", "field": "literal", "kept": "swan/goose", "other": "swan; 'ham-sa'"}
 {"kind": "scalar", "id": "trm:hamsa", "field": "literal", "kept": "swan/goose", "other": "'swan'; the breath-mantra sa-ha"}
 {"kind": "scalar", "id": "trm:hamsa", "field": "literal", "kept": "swan/goose", "other": "goose/swan; the breath (ham-sa)"}
@@ -845,7 +844,7 @@
 {"kind": "scalar", "id": "trm:arthavada", "field": "literal", "kept": "statement of purpose; explanatory praise", "other": "explanatory passage"}
 {"kind": "scalar", "id": "trm:arthavada", "field": "literal", "kept": "statement of purpose; explanatory praise", "other": "explanatory statement; eulogy"}
 {"kind": "scalar", "id": "trm:jyotisa", "field": "literal", "kept": "(science) of the lights", "other": "the science of the lights"}
-{"kind": "scalar", "id": "trm:matra", "field": "literal", "kept": "measure, mora", "other": "measure"}
+{"kind": "scalar", "id": "trm:matra", "field": "literal", "kept": "measure", "other": "measure, mora"}
 {"kind": "scalar", "id": "trm:varna", "field": "literal", "kept": "colour; class; phoneme", "other": "colour; social class"}
 {"kind": "scalar", "id": "trm:varna", "field": "literal", "kept": "colour; class; phoneme", "other": "class"}
 {"kind": "scalar", "id": "trm:varna", "field": "literal", "kept": "colour; class; phoneme", "other": "letter; phoneme"}
@@ -1068,27 +1067,30 @@
 {"kind": "scalar", "id": "trm:antaryamin", "field": "literal", "kept": "the one who controls from within", "other": "inner controller"}
 {"kind": "scalar", "id": "trm:antaryamin", "field": "literal", "kept": "the one who controls from within", "other": "inner controller"}
 {"kind": "scalar", "id": "trm:ksara", "field": "literal", "kept": "perishable", "other": "the perishable"}
+{"kind": "scalar", "id": "trm:prajna-mandukya", "field": "term", "kept": "prājña (Māṇḍūkya)", "other": "prājña"}
+{"kind": "scalar", "id": "trm:prajna-mandukya", "field": "term", "kept": "prājña (Māṇḍūkya)", "other": "prājña"}
 {"kind": "scalar", "id": "trm:vijnana", "field": "literal", "kept": "discernment, realised or particular knowledge", "other": "discerning knowledge, realized knowledge"}
 {"kind": "scalar", "id": "trm:vijnana", "field": "literal", "kept": "discernment, realised or particular knowledge", "other": "consciousness"}
 {"kind": "scalar", "id": "trm:vijnana", "field": "literal", "kept": "discernment, realised or particular knowledge", "other": "discerning or realised knowledge"}
+{"kind": "scalar", "id": "trm:prajnanaghana", "field": "term", "kept": "prajñānaghana", "other": "prajñānaghana / vijñānaghana"}
 {"kind": "scalar", "id": "trm:neti-neti", "field": "literal", "kept": "not this, not this", "other": "not thus, not thus"}
 {"kind": "scalar", "id": "trm:neti-neti", "field": "literal", "kept": "not this, not this", "other": "not thus, not thus"}
 {"kind": "scalar", "id": "trm:adesa", "field": "term", "kept": "ādeś", "other": "ādeśa"}
 {"kind": "scalar", "id": "trm:adesa", "field": "language", "kept": "Hindi", "other": "Sanskrit"}
 {"kind": "scalar", "id": "trm:mahavakya", "field": "literal", "kept": "great sentence", "other": "great saying"}
-{"kind": "scalar", "id": "trm:jagrat", "field": "term", "kept": "jāgarita / jāgrat", "other": "jāgrat"}
-{"kind": "scalar", "id": "trm:jagrat", "field": "term", "kept": "jāgarita / jāgrat", "other": "jāgrat"}
+{"kind": "scalar", "id": "trm:jagrat", "field": "term", "kept": "jāgarita", "other": "jāgarita / jāgrat"}
+{"kind": "scalar", "id": "trm:jagrat", "field": "term", "kept": "jāgarita", "other": "jāgrat"}
+{"kind": "scalar", "id": "trm:jagrat", "field": "term", "kept": "jāgarita", "other": "jāgrat"}
 {"kind": "scalar", "id": "trm:svapna", "field": "literal", "kept": "dream; sleep", "other": "dream"}
 {"kind": "scalar", "id": "trm:svapna", "field": "literal", "kept": "dream; sleep", "other": "dream"}
 {"kind": "scalar", "id": "trm:svapna", "field": "literal", "kept": "dream; sleep", "other": "dream"}
-{"kind": "scalar", "id": "trm:susupti", "field": "term", "kept": "suṣupti / suṣupta", "other": "suṣupti"}
-{"kind": "scalar", "id": "trm:susupti", "field": "term", "kept": "suṣupti / suṣupta", "other": "suṣupti"}
-{"kind": "scalar", "id": "trm:susupti", "field": "term", "kept": "suṣupti / suṣupta", "other": "suṣupti / sauṣupta"}
-{"kind": "scalar", "id": "trm:susupti", "field": "term", "kept": "suṣupti / suṣupta", "other": "suṣupti"}
-{"kind": "scalar", "id": "trm:taijasa", "field": "term", "kept": "Taijasa", "other": "taijasa"}
-{"kind": "scalar", "id": "trm:taijasa", "field": "literal", "kept": "the luminous", "other": "fiery, energetic"}
-{"kind": "scalar", "id": "trm:taijasa", "field": "term", "kept": "Taijasa", "other": "taijasa"}
-{"kind": "scalar", "id": "trm:taijasa", "field": "term", "kept": "Taijasa", "other": "taijasa"}
+{"kind": "scalar", "id": "trm:susupti", "field": "term", "kept": "suṣupti", "other": "suṣupta / suṣupti"}
+{"kind": "scalar", "id": "trm:susupti", "field": "term", "kept": "suṣupti", "other": "suṣupti / suṣupta"}
+{"kind": "scalar", "id": "trm:susupti", "field": "term", "kept": "suṣupti", "other": "suṣupti / sauṣupta"}
+{"kind": "scalar", "id": "trm:taijasa", "field": "term", "kept": "taijasa", "other": "Taijasa"}
+{"kind": "scalar", "id": "trm:taijasa", "field": "literal", "kept": "the brilliant one", "other": "the luminous"}
+{"kind": "scalar", "id": "trm:taijasa", "field": "literal", "kept": "the brilliant one", "other": "fiery, energetic"}
+{"kind": "scalar", "id": "trm:taijasa", "field": "literal", "kept": "the brilliant one", "other": "the luminous"}
 {"kind": "scalar", "id": "trm:dahara", "field": "literal", "kept": "small (space)", "other": "small, subtle"}
 {"kind": "scalar", "id": "trm:nadi", "field": "literal", "kept": "channel, tube", "other": "channel"}
 {"kind": "scalar", "id": "trm:nadi", "field": "literal", "kept": "channel, tube", "other": "tube, channel; pulse"}
@@ -2039,8 +2041,10 @@
 {"kind": "scalar", "id": "trm:vivarta", "field": "literal", "kept": "turning aside; apparent change", "other": "apparent transformation"}
 {"kind": "scalar", "id": "trm:anirvacaniya", "field": "literal", "kept": "indeterminable", "other": "not to be spoken of"}
 {"kind": "scalar", "id": "trm:bimba", "field": "literal", "kept": "original (of a reflection)", "other": "original disc; prototype"}
-{"kind": "scalar", "id": "trm:visva", "field": "term", "kept": "Viśva", "other": "viśva"}
-{"kind": "scalar", "id": "trm:visva", "field": "literal", "kept": "the all", "other": "the all-pervading"}
+{"kind": "scalar", "id": "trm:rajju-sarpa", "field": "term", "kept": "rajju-sarpa (rope and snake)", "other": "rajju-sarpa"}
+{"kind": "scalar", "id": "trm:visva", "field": "term", "kept": "viśva", "other": "Viśva"}
+{"kind": "scalar", "id": "trm:visva", "field": "literal", "kept": "all-common", "other": "the all"}
+{"kind": "scalar", "id": "trm:visva", "field": "literal", "kept": "all-common", "other": "the all-pervading"}
 {"kind": "scalar", "id": "trm:arciradi-marga", "field": "literal", "kept": "the path beginning with light", "other": "path beginning with flame"}
 {"kind": "scalar", "id": "trm:arciradi-marga", "field": "literal", "kept": "the path beginning with light", "other": "the path of light (beginning with flame)"}
 {"kind": "scalar", "id": "trm:aparoksa-jnana", "field": "literal", "kept": "direct (non-mediate) knowledge", "other": "knowledge not beyond the eye"}
@@ -2048,7 +2052,8 @@
 {"kind": "scalar", "id": "trm:laksmi", "field": "term", "kept": "Lakṣmī (Śrī, Ramā)", "other": "Śrī / Lakṣmī"}
 {"kind": "scalar", "id": "trm:laksmi", "field": "literal", "kept": "fortune; the goddess", "other": "prosperity, glory; the Goddess"}
 {"kind": "scalar", "id": "trm:mukta", "field": "literal", "kept": "freed", "other": "liberated"}
-{"kind": "scalar", "id": "trm:mumuksu", "field": "literal", "kept": "one desiring release", "other": "one seeking release"}
+{"kind": "scalar", "id": "trm:mumuksu", "field": "literal", "kept": "one who desires release", "other": "one desiring release"}
+{"kind": "scalar", "id": "trm:mumuksu", "field": "literal", "kept": "one who desires release", "other": "one seeking release"}
 {"kind": "scalar", "id": "trm:akincanya", "field": "literal", "kept": "having nothing", "other": "owning nothing"}
 {"kind": "scalar", "id": "trm:upaya", "field": "literal", "kept": "means", "other": "method, means"}
 {"kind": "scalar", "id": "trm:prapanna", "field": "literal", "kept": "one who has come for refuge", "other": "one who has surrendered"}
@@ -2508,7 +2513,8 @@
 {"kind": "scalar", "id": "cpt:yuga-dharma", "field": "name", "kept": "The means proper to each age", "other": "Dharma according to the age"}
 {"kind": "scalar", "id": "cpt:yuga-dharma", "field": "category", "kept": "ethics", "other": "cosmology-time"}
 {"kind": "scalar", "id": "cpt:brahman", "field": "name", "kept": "Brahman (the ultimate ground)", "other": "Brahman"}
-{"kind": "scalar", "id": "cpt:atman-brahman-identity", "field": "name", "kept": "The identity of the self and brahman", "other": "Identity of self and Brahman"}
+{"kind": "scalar", "id": "cpt:atman-brahman-identity", "field": "name", "kept": "Ātman is brahman (as stated in the Māṇḍūkya)", "other": "The identity of the self and brahman"}
+{"kind": "scalar", "id": "cpt:atman-brahman-identity", "field": "name", "kept": "Ātman is brahman (as stated in the Māṇḍūkya)", "other": "Identity of self and Brahman"}
 {"kind": "scalar", "id": "cpt:atman-brahman-identity", "field": "category", "kept": "ultimate", "other": "self"}
 {"kind": "scalar", "id": "cpt:mahavakyas", "field": "name", "kept": "The four great sayings (mahāvākya)", "other": "The great sayings"}
 {"kind": "scalar", "id": "cpt:neti-neti", "field": "name", "kept": "'Not so, not so' (neti neti)", "other": "'Not this, not this' (neti neti)"}
@@ -2516,6 +2522,8 @@
 {"kind": "scalar", "id": "cpt:neti-neti", "field": "name", "kept": "'Not so, not so' (neti neti)", "other": "Negation: 'not so, not so' (neti neti)"}
 {"kind": "scalar", "id": "cpt:ananda-mimamsa", "field": "name", "kept": "The scale of bliss (ānanda-mīmāṃsā, Taittirīya 2.8)", "other": "The calculus of bliss (ānanda-mīmāṃsā)"}
 {"kind": "scalar", "id": "cpt:ananda-mimamsa", "field": "category", "kept": "consciousness-states", "other": "ultimate"}
+{"kind": "scalar", "id": "cpt:turiya", "field": "name", "kept": "Turīya, the fourth", "other": "The fourth (turīya / caturtha)"}
+{"kind": "scalar", "id": "cpt:turiya", "field": "name", "kept": "Turīya, the fourth", "other": "The fourth (turīya / caturtha)"}
 {"kind": "scalar", "id": "cpt:four-states-and-turya", "field": "name", "kept": "Waking, dream, deep sleep and the fourth", "other": "The states: waking, dream, deep sleep, the fourth and beyond"}
 {"kind": "scalar", "id": "cpt:four-states-and-turya", "field": "name", "kept": "Waking, dream, deep sleep and the fourth", "other": "The states: waking, dream, deep sleep, the fourth and beyond"}
 {"kind": "scalar", "id": "cpt:jiva", "field": "name", "kept": "The individual living self (jīva)", "other": "The individual self (jīva)"}
@@ -2528,6 +2536,8 @@
 {"kind": "scalar", "id": "cpt:maya", "field": "name", "kept": "Māyā in the principal Upaniṣads", "other": "Māyā"}
 {"kind": "scalar", "id": "cpt:maya", "field": "name", "kept": "Māyā in the principal Upaniṣads", "other": "Māyā"}
 {"kind": "scalar", "id": "cpt:hrdaya-heart", "field": "name", "kept": "The heart and the space within it", "other": "The Heart (hṛdaya)"}
+{"kind": "scalar", "id": "cpt:five-sheaths", "field": "name", "kept": "The five sheaths (pañca-kośa) as defined in Taittirīya Upaniṣad 2.1-2.5", "other": "The five sheaths (pañcakośa) as referred to in the Kārikā"}
+{"kind": "scalar", "id": "cpt:five-sheaths", "field": "category", "kept": "self", "other": "body-energy"}
 {"kind": "scalar", "id": "cpt:five-sheaths", "field": "name", "kept": "The five sheaths (pañca-kośa) as defined in Taittirīya Upaniṣad 2.1-2.5", "other": "The five sheaths (pañca-kośa)"}
 {"kind": "scalar", "id": "cpt:five-sheaths", "field": "category", "kept": "self", "other": "body-energy"}
 {"kind": "scalar", "id": "cpt:five-sheaths", "field": "name", "kept": "The five sheaths (pañca-kośa) as defined in Taittirīya Upaniṣad 2.1-2.5", "other": "The five sheaths (pañca-kośa)"}
@@ -2582,6 +2592,7 @@
 {"kind": "scalar", "id": "cpt:three-laksyas", "field": "category", "kept": "consciousness-states", "other": "body-energy"}
 {"kind": "scalar", "id": "cpt:unmani", "field": "name", "kept": "Unmanī / manonmanī — the state beyond mind", "other": "The mind-less state (unmanī / unmana)"}
 {"kind": "scalar", "id": "cpt:ninety-six-tattvas", "field": "category", "kept": "matter-qualities", "other": "body-energy"}
+{"kind": "scalar", "id": "cpt:omkara-matras", "field": "name", "kept": "The measures of Oṃ (a, u, m)", "other": "The measures of Oṃ (mātrā)"}
 {"kind": "scalar", "id": "cpt:levels-of-speech", "field": "name", "kept": "The levels of speech (parā, paśyantī, madhyamā, vaikharī)", "other": "The levels of speech (vāc)"}
 {"kind": "scalar", "id": "cpt:levels-of-speech", "field": "name", "kept": "The levels of speech (parā, paśyantī, madhyamā, vaikharī)", "other": "The levels of speech (vāc)"}
 {"kind": "scalar", "id": "cpt:guru", "field": "name", "kept": "The guru in the minor Upaniṣads", "other": "The teacher (guru)"}
@@ -2710,9 +2721,12 @@
 {"kind": "scalar", "id": "cpt:nirguna-saguna-brahman", "field": "name", "kept": "Attributeless and qualified Brahman", "other": "Nirguṇa and saguṇa (the ultimate with and without qualities)"}
 {"kind": "scalar", "id": "cpt:avidya", "field": "name", "kept": "Avidyā (ignorance) in Advaita", "other": "Ignorance (avidyā)"}
 {"kind": "scalar", "id": "cpt:avidya", "field": "name", "kept": "Avidyā (ignorance) in Advaita", "other": "Nescience (avidyā)"}
+{"kind": "scalar", "id": "cpt:ajativada", "field": "name", "kept": "Ajātivāda (non-origination) — Kārikā 2.32", "other": "Non-origination (ajātivāda)"}
+{"kind": "scalar", "id": "cpt:ajativada", "field": "name", "kept": "Ajātivāda (non-origination) — Kārikā 2.32", "other": "Non-origination (ajātivāda)"}
 {"kind": "scalar", "id": "cpt:three-bodies", "field": "name", "kept": "The three bodies (śarīra-traya)", "other": "The three bodies"}
 {"kind": "scalar", "id": "cpt:three-bodies", "field": "name", "kept": "The three bodies (śarīra-traya)", "other": "The three bodies of a buddha"}
 {"kind": "scalar", "id": "cpt:three-bodies", "field": "category", "kept": "body-energy", "other": "karma-rebirth"}
+{"kind": "scalar", "id": "cpt:three-states-and-turiya", "field": "name", "kept": "The three states and the fourth (waking, dream, deep sleep, turīya)", "other": "The three states and the fourth (avasthā-traya, turīya)"}
 {"kind": "scalar", "id": "cpt:sravana-manana-nididhyasana", "field": "name", "kept": "Hearing, reflection and meditation", "other": "Hearing, reflection and contemplation"}
 {"kind": "scalar", "id": "cpt:three-kinds-of-karma", "field": "name", "kept": "The three kinds of karma", "other": "Three kinds of karma"}
 {"kind": "scalar", "id": "cpt:brahma-parinama", "field": "name", "kept": "Brahman's real transformation into the world (pariṇāma)", "other": "Brahman as material and efficient cause through its body"}
@@ -2862,9 +2876,14 @@
 {"kind": "scalar", "id": "obs:raga", "field": "name", "kept": "Attachment (rāga)", "other": "Passion (rāga)"}
 {"kind": "scalar", "id": "obs:raga", "field": "category", "kept": "affliction", "other": "passion"}
 {"kind": "scalar", "id": "obs:raga", "field": "name", "kept": "Attachment (rāga)", "other": "Passion, attachment (rāga)"}
-{"kind": "scalar", "id": "obs:laya", "field": "name", "kept": "Sinking (laya)", "other": "Dullness (laya)"}
-{"kind": "scalar", "id": "obs:laya", "field": "name", "kept": "Sinking (laya)", "other": "Torpor (laya)"}
-{"kind": "scalar", "id": "obs:laya", "field": "name", "kept": "Sinking (laya)", "other": "Sleepiness (laya)"}
+{"kind": "scalar", "id": "obs:laya", "field": "name", "kept": "Laya (absorption of the mind, Kārikā 3.35, 3.42, 3.44)", "other": "Sinking (laya)"}
+{"kind": "scalar", "id": "obs:laya", "field": "name", "kept": "Laya (absorption of the mind, Kārikā 3.35, 3.42, 3.44)", "other": "Dullness (laya)"}
+{"kind": "scalar", "id": "obs:laya", "field": "name", "kept": "Laya (absorption of the mind, Kārikā 3.35, 3.42, 3.44)", "other": "Torpor (laya)"}
+{"kind": "scalar", "id": "obs:laya", "field": "name", "kept": "Laya (absorption of the mind, Kārikā 3.35, 3.42, 3.44)", "other": "Sleepiness (laya)"}
+{"kind": "scalar", "id": "obs:viksepa", "field": "name", "kept": "Vikṣepa (distraction in desire and enjoyment)", "other": "Distraction (vikṣepa)"}
+{"kind": "scalar", "id": "obs:viksepa", "field": "name", "kept": "Vikṣepa (distraction in desire and enjoyment)", "other": "Distraction (vikṣepa)"}
+{"kind": "scalar", "id": "obs:viksepa", "field": "name", "kept": "Vikṣepa (distraction in desire and enjoyment)", "other": "Distraction (vikṣepa)"}
+{"kind": "scalar", "id": "obs:viksepa", "field": "name", "kept": "Vikṣepa (distraction in desire and enjoyment)", "other": "Distraction (vikṣepa)"}
 {"kind": "scalar", "id": "obs:nine-antarayas", "field": "name", "kept": "The nine obstacles (antarāya), distractions of the mind", "other": "The nine obstacles (antarāya), distractions of mind"}
 {"kind": "scalar", "id": "obs:vyadhi", "field": "name", "kept": "Illness (vyādhi) as a distraction", "other": "Illness (vyādhi)"}
 {"kind": "scalar", "id": "obs:viksepa-sahabhuva", "field": "name", "kept": "The five accompaniments of distraction (vikṣepa-sahabhuva)", "other": "The five accompaniments of distraction"}
@@ -2877,8 +2896,11 @@
 {"kind": "scalar", "id": "obs:upadha", "field": "category", "kept": "bond", "other": "impurity"}
 {"kind": "scalar", "id": "obs:adharma", "field": "name", "kept": "Adharma / sin (pāpa)", "other": "Demerit (adharma)"}
 {"kind": "scalar", "id": "obs:adharma", "field": "category", "kept": "karma-type", "other": "impurity"}
-{"kind": "scalar", "id": "obs:kasaya", "field": "name", "kept": "Latent attachment (kaṣāya)", "other": "Residual impurity (kaṣāya)"}
-{"kind": "scalar", "id": "obs:rasasvada", "field": "name", "kept": "Relishing the bliss (rasāsvāda)", "other": "Relish of other pleasures (rasāsvāda)"}
+{"kind": "scalar", "id": "obs:four-obstacles-to-samadhi", "field": "name", "kept": "The four obstacles to absorption (laya, vikṣepa, kaṣāya, rasāsvāda)", "other": "The four obstacles to nirvikalpa samādhi"}
+{"kind": "scalar", "id": "obs:kasaya", "field": "name", "kept": "Kaṣāya (the mind \"sakaṣāya\", Kārikā 3.44)", "other": "Latent attachment (kaṣāya)"}
+{"kind": "scalar", "id": "obs:kasaya", "field": "name", "kept": "Kaṣāya (the mind \"sakaṣāya\", Kārikā 3.44)", "other": "Residual impurity (kaṣāya)"}
+{"kind": "scalar", "id": "obs:rasasvada", "field": "name", "kept": "Rasāsvāda (relishing the happiness of the state)", "other": "Relishing the bliss (rasāsvāda)"}
+{"kind": "scalar", "id": "obs:rasasvada", "field": "name", "kept": "Rasāsvāda (relishing the happiness of the state)", "other": "Relish of other pleasures (rasāsvāda)"}
 {"kind": "scalar", "id": "obs:prarabdha-karma", "field": "name", "kept": "Begun karma (prārabdha)", "other": "Karma already in effect (prārabdha)"}
 {"kind": "scalar", "id": "obs:anyasraya", "field": "name", "kept": "Reliance on other supports or other gods (anyāśraya)", "other": "Taking refuge in other than Kṛṣṇa (anyāśraya)"}
 {"kind": "scalar", "id": "obs:pasutva", "field": "name", "kept": "The paśu-state (paśutva)", "other": "Bondage as a paśu"}
@@ -3203,6 +3225,7 @@
 {"kind": "scalar", "id": "prc:santosa", "field": "category", "kept": "mind-training", "other": "ethics"}
 {"kind": "scalar", "id": "prc:caturtha-pranayama", "field": "name", "kept": "The fourth prāṇāyāma (YS 2.51)", "other": "The fourth prāṇāyāma (2.51)"}
 {"kind": "scalar", "id": "prc:samyama", "field": "signs_of_progress", "kept": ["the light of insight (3.5), clearer as saṃyama takes firm footing (bhāṣya 3.5)"], "other": "the light of insight (3.5); the powers (3.16–49)"}
+{"kind": "scalar", "id": "prc:asparsa-yoga", "field": "name", "kept": "Asparśa-yoga (contactless yoga)", "other": "Asparśa-yoga ('contactless' yoga)"}
 {"kind": "scalar", "id": "prc:vasana-ksaya", "field": "name", "kept": "Cessation of vāsanās and saṃskāras as the text states it", "other": "Destruction of latent tendencies (vāsanā-kṣaya)"}
 {"kind": "scalar", "id": "prc:mahesvara-puja", "field": "name", "kept": "Worship and service of devotees (Māhēśvara-pūjā)", "other": "Service of the devotees"}
 {"kind": "scalar", "id": "prc:manasa-puja", "field": "name", "kept": "Mental temple-building and worship", "other": "Inner worship without outer offerings"}
@@ -3329,6 +3352,8 @@
 {"kind": "scalar", "id": "prc:guru-yoga", "field": "name", "kept": "Guru yoga", "other": "Guru yoga (bla ma'i rnal 'byor)"}
 {"kind": "scalar", "id": "prc:guru-yoga", "field": "category", "kept": "devotion-service", "other": "visualization-deity"}
 {"kind": "scalar", "id": "prc:trulkhor", "field": "name", "kept": "Yantra exercises ('khrul 'khor)", "other": "Magical movement ('phrul 'khor)"}
+{"kind": "scalar", "id": "prc:omkara-dhyana-mandukya", "field": "name", "kept": "Yoking the mind to Oṃ (as stated in the Kārikā)", "other": "Meditation on Oṃ by its measures (as stated in the Māṇḍūkya)"}
+{"kind": "scalar", "id": "prc:omkara-dhyana-mandukya", "field": "stage", "kept": "intermediate", "other": "all"}
 {"kind": "list-kept-primary", "id": "pth:gita-devotion-ladder", "field": "stages"}
 {"kind": "list-kept-primary", "id": "pth:gita-ascent-in-yoga", "field": "stages"}
 {"kind": "list-kept-primary", "id": "pth:yoga-sutra-sevenfold-prajna", "field": "stages"}

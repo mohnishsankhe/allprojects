@@ -7346,23 +7346,228 @@
   "lineage": "lin:advaita-vedanta",
   "source": "src:mandukya-karika",
   "ref": "3.39",
+  "stage": "advanced",
   "kind": "difficulty",
-  "description": "Approaching the contactless (asparśa) state, yogins feel fear, 'seeing fear in the fearless'.",
+  "description": "Yogins fear the contactless yoga, seeing fear where there is fearlessness; it is hard for all yogins to see.",
   "rests_on": [
    "tea:mandukya-karika:3.39"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mandukya-karika:3.39"
+     ],
+     "result": "confirmed",
+     "note": "Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_description": [
+   "Approaching the contactless (asparśa) state, yogins feel fear, 'seeing fear in the fearless'."
+  ],
   "provenance": {
    "units": [
+    "extraction:mandukya-karika/all",
     "skeleton:U13-advaita"
    ],
    "phases": [
+    "extraction",
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gk-brahman-state",
+  "lineage": "lin:advaita-vedanta",
+  "source": "src:mandukya-karika",
+  "ref": "3.36-3.37, 3.46-3.47",
+  "stage": "realized",
+  "kind": "state",
+  "description": "Unborn, sleepless, dreamless, nameless, formless, shining once for all, omniscient; free of speech and thought; motionless, fearless samādhi; neither absorbed nor distracted, motionless, without appearance; self-abiding, peaceful, inexpressible, highest happiness.",
+  "rests_on": [
+   "tea:mandukya-karika:3.36",
+   "tea:mandukya-karika:3.37",
+   "tea:mandukya-karika:3.46",
+   "tea:mandukya-karika:3.47"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mandukya-karika:3.36",
+      "tea:mandukya-karika:3.37",
+      "tea:mandukya-karika:3.46",
+      "tea:mandukya-karika:3.47"
+     ],
+     "result": "confirmed",
+     "note": "Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:mandukya-karika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:gk-laya-vs-sleep",
+  "lineage": "lin:advaita-vedanta",
+  "source": "src:mandukya-karika",
+  "ref": "3.34-3.35",
+  "stage": "advanced",
+  "kind": "state",
+  "description": "The mind that is absorbed (laya) in deep sleep is unlike the restrained mind, which is not absorbed; the restrained mind is called fearless brahman with the light of knowledge on every side.",
+  "rests_on": [
+   "tea:mandukya-karika:3.34",
+   "tea:mandukya-karika:3.35"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mandukya-karika:3.34",
+      "tea:mandukya-karika:3.35"
+     ],
+     "result": "confirmed",
+     "note": "Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:mandukya-karika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:gk-the-fourth",
+  "lineage": "lin:advaita-vedanta",
+  "source": "src:mandukya-karika",
+  "ref": "1.10-1.15",
+  "stage": "realized",
+  "kind": "state",
+  "description": "The fourth is not bound by cause or effect, has no seed-sleep, sleep or dream, and is called all-seeing and non-dual; it is reached when the two errors (dream, not knowing the truth) are exhausted.",
+  "rests_on": [
+   "tea:mandukya-karika:1.10",
+   "tea:mandukya-karika:1.11",
+   "tea:mandukya-karika:1.12",
+   "tea:mandukya-karika:1.13",
+   "tea:mandukya-karika:1.14",
+   "tea:mandukya-karika:1.15"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mandukya-karika:1.10",
+      "tea:mandukya-karika:1.11",
+      "tea:mandukya-karika:1.12",
+      "tea:mandukya-karika:1.13",
+      "tea:mandukya-karika:1.14",
+      "tea:mandukya-karika:1.15"
+     ],
+     "result": "confirmed",
+     "note": "Sense-specific id confirmed: the Kārikā's description (all-seeing, no seed-sleep) differs from MU 7's negations; kept apart from phn:mandukya-the-fourth. Level not raised (entities are not promoted by the spot-check)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:mandukya-karika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:gk-unborn-dawning",
+  "lineage": "lin:advaita-vedanta",
+  "source": "src:mandukya-karika",
+  "ref": "4.80-4.81",
+  "stage": "realized",
+  "kind": "state",
+  "description": "Steady abiding of one who has turned back and does not proceed; unborn, sleepless, dreamless, it dawns of itself and is ever once-shone.",
+  "rests_on": [
+   "tea:mandukya-karika:4.80",
+   "tea:mandukya-karika:4.81"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mandukya-karika:4.80",
+      "tea:mandukya-karika:4.81"
+     ],
+     "result": "confirmed",
+     "note": "Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:mandukya-karika/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -8006,7 +8211,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The effects of the sounds close the second prose section of the e-text Haṃsa (Adyar §§18-21). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-effects-of-the-sounds (corrected).",
-    "date": "2026-09-29 22:32 IST",
+    "date": "2026-09-29 22:37 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -8061,7 +8266,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The ten sounds are in the second prose section of the e-text Haṃsa, which has vv. 1-3 and prose sections 1-2 but no '4' (Adyar §§15-17). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-ten-sounds (corrected).",
-    "date": "2026-09-29 22:32 IST",
+    "date": "2026-09-29 22:37 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -11989,20 +12194,32 @@
   "lineage": "lin:upanisadic",
   "source": "src:mandukya-upanisad",
   "ref": "7",
+  "stage": "realized",
   "kind": "state",
-  "description": "The fourth: neither inward- nor outward-knowing, not a mass of cognition, unseen, ungraspable, the stilling of the world, peaceful, auspicious, non-dual.",
+  "description": "The fourth is described only by negation and as the stilling of the world, peaceful, auspicious and non-dual; the text says it is the self, and is to be known.",
   "rests_on": [
-   "tea:mandukya-upanisad:7"
-  ],
-  "coverage": [
-   "A2",
-   "D"
+   "tea:mandukya-upanisad:7",
+   "tea:mandukya-upanisad:12"
   ],
   "verification": {
    "level": "sourced",
    "confidence": "high",
    "unverified": false,
    "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mandukya-upanisad:7",
+      "tea:mandukya-upanisad:12"
+     ],
+     "result": "confirmed",
+     "note": "Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check)."
+    },
     {
      "phase": "C",
      "date": "2026-09-29",
@@ -12017,13 +12234,23 @@
      "note": "All 1 Upaniṣad refs cited in the entry are located in the prepared segments (MāU 7). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.",
      "by": "sourcing:U03-principal-upanisads"
     }
-   ]
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_description": [
+   "The fourth: neither inward- nor outward-knowing, not a mass of cognition, unseen, ungraspable, the stilling of the world, peaceful, auspicious, non-dual."
+  ],
+  "coverage": [
+   "A2",
+   "D"
+  ],
   "provenance": {
    "units": [
+    "extraction:mandukya-upanisad/all",
     "skeleton:U03-principal-upanisads"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -16285,7 +16512,7 @@
     "old": "1.60-68",
     "new": "1.68-69 (prose closing khaṇḍa 7)",
     "reason": "The list of saṃyamas and their powers is the prose after v. 1.68 that closes khaṇḍa 7. E-text 1.60-68 deal with curing diseases by breath. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:sandilya-upanisad:1.60-68 (corrected).",
-    "date": "2026-09-29 22:32 IST",
+    "date": "2026-09-29 22:37 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -17497,7 +17724,7 @@
     "old": "10.5.2.20",
     "new": "10.5.2.19-20",
     "reason": "The two halves of the description are in adjacent kaṇḍikās. The breaths going into the self in sleep is ŚB 10.5.2.19: 'sa yadā svapity athainam ete prāṇāḥ svā apiyanti tasmāt svāpyayaḥ … taṃ svapna ity ācakṣate'. Knowing nothing by mind, speech, smell, sight or hearing is 10.5.2.20: 'sa etaiḥ suptaḥ na kasya cana veda na manasā saṅkalpayati …'. Correction: ref 10.5.2.19-20, the same range fix as for tea:satapatha-brahmana:10.5.2.20.",
-    "date": "2026-09-29 22:32 IST",
+    "date": "2026-09-29 22:37 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],

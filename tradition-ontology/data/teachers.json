@@ -32271,6 +32271,63 @@
    "lin:srividya",
    "lin:samaya-srividya"
   ],
+  "works": [
+   {
+    "source": "src:mandukya-karika",
+    "attribution": "accepted"
+   },
+   {
+    "source": "src:samkhya-karika-bhasya-gaudapada",
+    "attribution": "disputed"
+   },
+   {
+    "source": "src:uttara-gita",
+    "attribution": "doubtful"
+   },
+   {
+    "source": "src:subhagodaya",
+    "attribution": "traditional"
+   },
+   {
+    "source": "src:srividyaratnasutra",
+    "attribution": "doubtful"
+   }
+  ],
+  "summary": "Traditional author of the Kārikā on the Māṇḍūkya Upaniṣad; the text itself does not name its author. Its four prakaraṇas restate the Upaniṣad (ch.1), argue the unreality of dream and waking (ch.2), teach non-birth by the space analogy and give counsel on restraining the mind (ch.3), and argue non-origination and the firebrand image (ch.4).",
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check)."
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Uttara Gita Gaudapada commentary"
+     ],
+     "evidence": [
+      "https://archive.org/details/UttaraGitaWithCommentary",
+      "https://www.wisdomlib.org/definition/uttaragita"
+     ],
+     "result": "confirmed",
+     "note": "Of eight commentary manuscripts on the Uttara Gītā, five are ascribed to Gauḍapāda; identity with the Kārikā author is doubtful, as the entry says.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
   "alt_names": [
    "Gauḍapādācārya",
    "Parama-guru of Śaṅkara"
@@ -32294,55 +32351,11 @@
   "students": [
    "tch:govinda-bhagavatpada"
   ],
-  "works": [
-   {
-    "source": "src:mandukya-karika",
-    "attribution": "accepted"
-   },
-   {
-    "source": "src:samkhya-karika-bhasya-gaudapada",
-    "attribution": "disputed"
-   },
-   {
-    "source": "src:uttara-gita",
-    "attribution": "doubtful"
-   },
-   {
-    "source": "src:subhagodaya",
-    "attribution": "traditional"
-   },
-   {
-    "source": "src:srividyaratnasutra",
-    "attribution": "doubtful"
-   }
-  ],
   "historicity": "historical",
   "gender": "male",
   "notes": "Also credited (traditional) with Śākta works (Subhagodaya, Śrīvidyāratnasūtras) and an Uttaragītā commentary. Whether he is the same person as the author of the commentary on the Sāṃkhya Kārikā (src:samkhya-karika-bhasya-gaudapada) is doubted by most scholars.",
-  "summary": "Author of the Māṇḍūkya Kārikā; teacher of Govinda, Śaṅkara's teacher, and in the paramparā disciple of Śuka; first systematic exponent of non-origination (ajātivāda) and asparśa-yoga.",
-  "verification": {
-   "level": "sourced",
-   "confidence": "high",
-   "unverified": false,
-   "checks": [
-    {
-     "phase": "C",
-     "date": "2026-09-29",
-     "method": "websearch",
-     "queries": [
-      "Uttara Gita Gaudapada commentary"
-     ],
-     "evidence": [
-      "https://archive.org/details/UttaraGitaWithCommentary",
-      "https://www.wisdomlib.org/definition/uttaragita"
-     ],
-     "result": "confirmed",
-     "note": "Of eight commentary manuscripts on the Uttara Gītā, five are ascribed to Gauḍapāda; identity with the Kārikā author is doubtful, as the entry says.",
-     "by": "sourcing:U06-other-gitas"
-    }
-   ]
-  },
   "alt_summary": [
+   "Author of the Māṇḍūkya Kārikā; teacher of Govinda, Śaṅkara's teacher, and in the paramparā disciple of Śuka; first systematic exponent of non-origination (ajātivāda) and asparśa-yoga.",
    "U09 contribution: a Gauḍapāda is named in the closing verse of the bhāṣya on SK 1–69. Whether he is the Advaita teacher Gauḍapāda (author of the Māṇḍūkya-kārikā, Śaṅkara's paramaguru) is disputed; many scholars regard them as different persons.",
    "In U06's context: a commentary on the Uttara Gītā is ascribed to him (attribution doubtful).",
    "U23 contribution: Śrīvidyā tradition ascribes to him the Subhagodaya and the Śrīvidyāratnasūtra and places him at the head of the line Gauḍapāda - Govinda - Śaṅkara as upāsakas of the Goddess."
@@ -32357,12 +32370,14 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mandukya-karika/all",
     "skeleton:U13-advaita",
     "skeleton:U09-samkhya",
     "skeleton:U06-other-gitas",
     "skeleton:U23-sakta-srividya"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -119651,7 +119666,7 @@
      "confidence": "moderate"
     },
     "reason": "Web: Viṣṇucitta, author of the Viṣṇucittīya on the Viṣṇu Purāṇa, c. 12th c., pupil of Piḷḷāṉ (a direct disciple of Rāmānuja). The entry had no date ('dating not checked'); a dating is supplied.",
-    "date": "2026-09-29 22:32 IST",
+    "date": "2026-09-29 22:37 IST",
     "by": "sourcing:U07-puranas"
    }
   ],
