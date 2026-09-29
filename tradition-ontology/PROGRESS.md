@@ -51,13 +51,13 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U36-pali-suttas | done | 2 lin · 200 src · 117 tch · 447 tea (all segment-checked, 96 Pali originals) · 303 trm · 153 cpt · 74 prc · 11 dsp | report saved |
 | U37-abhidhamma-visuddhimagga | done | 16 lin · 80 src · 53 tch · 222 tea (109 Pali originals read locally) · 190 trm · 58 cpt · 81 prc · 20 dsp | report saved |
 | U38-early-schools | done | 31 lin · 85 src · 47 tch · 197 tea (114 AK kārikās quoted) · 181 trm · 62 cpt · 25 prc · 18 dsp · 50 brw | report saved |
-| U39-mahayana-sutras | running (resumed) | | |
+| U39-mahayana-sutras | done | 2 lin · 98 src · 53 tch · 265 tea (171 located locally, 91 originals) · 139 trm · 87 cpt · 38 prc · 8 dsp | report saved |
 | U40-madhyamaka | running (resumed) | | |
 | U41-yogacara-pramana | running (resumed) | | |
 | U42-chan-zen | running | | |
 | U43-pure-land | running | | |
 | U44-indian-vajrayana | running | | |
-| U45-nyingma-bon | queued | | |
+| U45-nyingma-bon | running | | |
 | U46-kagyu | queued | | |
 | U47-sakya-kadam-gelug | queued | | |
 | U48-jonang-chod-medicine-rime | queued | | |
@@ -87,6 +87,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 - C-U01: tea:atharvaveda-saunaka:2.32 paraphrase imports 'visible and invisible' and 'with a stone' from AVŚ 2.31; trm:samana — no Saṃhitā occurrence found (BĀU 1.5.3 has it); src:jnanayajna 'c. 11th c.' and src:vedadipa 'c. 1589' unsupported; use GRETIL (not DharmicData) for RV verse text.
 - S4 note: prc:mahamrtyunjaya-japa has method summaries from U01 (Vedic) and U32 (jyotiṣa remedy) — merge must keep both as per-lineage content, not let one replace the other. U32 kuja-dosa and kāla-sarpa entries have no classical verse located (recent/unsourced — sweep first).
 - C/Phase D note (U37): the 'sixteen insight knowledges' are a later systematization (Vism has 9 within the 6th purification, Abhidhammatthasaṅgaha 10); the heart-base is commentarial (Paṭṭhāna names only 'the matter in dependence on which'). prc:nesajjikanga flagged restricted.
+- S5 note (U39): tch:maitreya-bodhisattva = U36's tch:metteyya (same figure, Pali/Sanskrit ids; relate, do not merge ids blindly — tch:maitreya is the Upaniṣadic sage); trm:vyakarana-prediction ≠ trm:vyakarana (grammar).
 - S5 dedupe candidates (reported by units): U04 prc:mahabandha-mahavedha → U29 prc:mahabandha + prc:mahavedha; U24 cpt:satkarma (tantric six acts) ≠ U28 cpt:satkarma-doctrine (haṭha six acts) — never merge; U28/U29 overlapping HYP/GS range teachings (≈53) — Phase D decides; U10's YBh 2.46 paraphrase may omit vīrāsana; cpt:vyoma-pancaka (U04) = cpt:five-vyomas (U21); cpt:three-laksyas categories differ U04/U21; prc:viparitakarani (U28/U29) vs prc:viparita-karani (U21); prc:sanmukhi-mudra vs prc:shanmukhi-mudra (U04); tea overlaps on U04's Śākta Upaniṣad range teachings vs U23's verse teachings (fidelity pass decides levels).
 
 ## Gap hunter (after C)
