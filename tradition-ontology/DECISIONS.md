@@ -145,3 +145,26 @@ Conservative choices made without asking, with reasons. Newest last.
   - Kunjed Gyalpo has 84 chapters, and its ch. 31 is the Cuckoo of Awareness.
   - The Dupa Do has 75 chapters.
   - The Guhyagarbha has 22 chapters, and its "e ma'o" stanza is in ch. 2.
+
+## 2026-09-29 17:30 IST — U43 (Pure Land) and U44 (Indian Vajrayāna) decisions (reported by the units; recorded by the orchestrator)
+- **U43 new sub-lineages.** These are accepted as unit-owned ids; no registry change is needed, because the registry lists only mandatory ids:
+  - lin:ji-shu, lin:yuzu-nenbutsu-shu;
+  - lin:jodo-shu-chinzei, lin:jodo-shu-seizan (both point to ult:jodo-shu);
+  - lin:shinshu-honganji-ha, lin:shinshu-otani-ha, lin:shinshu-takada-ha (all point to ult:jodo-shinshu);
+  - lin:bailian-zong.
+- **U43 corrections from the local texts.**
+  - The Sanskrit Larger Sukhāvatīvyūha has 47 vows; the Chinese 18th vow corresponds to Sanskrit vow 19.
+  - The Smaller Sūtra §10 has manasikariṣyati, where Kumārajīva has 執持名號.
+  - Nāgārjuna's verse reads 無量力威德.
+  - The Gaoseng zhuan records the vow of 123 people in 402 without the names "White Lotus Society" or "eighteen worthies"; those are later.
+  - The "four alternatives" ascribed to Yanshou were not found in T2017.
+  - In the Xu gaoseng zhuan it is a questioner who leaps from the willow; in the later Fozu tongji it is Shandao.
+- **U43 restricted practice.** prc:shashen-wangsheng (abandoning the body for birth) is recorded as narrative summary only. The unit found no later teacher's warning to attach; the Phase C sweep should look for one.
+- **U44 sub-lineages.** lin:arya-guhyasamaja, lin:jnanapada-guhyasamaja, lin:cakrasamvara and lin:kalacakra are created, each with its own ult view. lin:kalacakra covers the Indian phase; U48 and U47 may reference it for the Tibetan phase.
+- **U44 homonyms.**
+  - tch:aryadeva-tantric and tch:candrakirti-tantric are separate from the Madhyamaka masters.
+  - tch:nagarjuna-siddha (from U30) serves as the tantric Nāgārjuna.
+  - The tradition's identification of each with the Madhyamaka master is recorded in notes, not merged.
+- **U44 84-siddha list.** It is based on Tōh 2292, the siddhas' realization songs (src:caturasiti-siddha-bodhihrdaya), because Abhayadatta's lives are not in the Derge Tengyur. src:caturasiti-siddha-pravrtti is kept for the lives, which are from memory with low confidence.
+- **U44 Tibetan-based paraphrases.** These carry ai_translated and a translation_basis note. Wylie originals are sliced to the verse lines of the sense unit.
+- **CBETA completed.** All of Taishō 1–55 plus 85 and the selected Xuzangjing volumes are now local (825 MB), which makes several "not local" items in the U42 and U43 reports checkable: Shandao T1753, Ouyi T1762, Tanluan T1819, Jingying Huiyuan T1749, Wonhyo T1747, T1856 and T52. Taishō 56–84 (Japanese texts) are not distributed by CBETA.

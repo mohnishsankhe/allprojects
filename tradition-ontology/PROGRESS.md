@@ -55,14 +55,14 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U40-madhyamaka | done | 4 lin · 70 src · 30 tch · 228 tea (105 MMK with GRETIL originals; 159 originals) · 124 trm · 76 cpt · 21 prc · 7 dsp | report saved |
 | U41-yogacara-pramana | done | 7 lin · 120 src · 51 tch · 177 tea (91 originals checked locally) · 198 trm · 71 cpt · 22 prc · 15 dsp | report saved |
 | U42-chan-zen | done | 143 src · 228 tch · 244 tea (189 with verified CBETA original) · 11 dsp | REPORT.md; Japanese texts not local |
-| U43-pure-land | running | | |
-| U44-indian-vajrayana | running | | |
+| U43-pure-land | done | 77 src · 89 tch · 193 tea (93 originals verified: CBETA 89, GRETIL 4) · 14 dsp | REPORT.md; Japanese texts not local |
+| U44-indian-vajrayana | done | 100 src · 133 tch · 303 tea (244 originals read locally; 23 restricted) · 27 prc (9 restricted) · 6 dsp | REPORT.md; Hevajra/Saṃvara/Kālacakra Sanskrit not local |
 | U45-nyingma-bon | done | 125 src · 82 tch · 101 tea (23 read in Derge) · 43 prc (8 restricted) · 5 dsp | REPORT.md; Seventeen Tantras, Longchenpa, Bön not local |
 | U46-kagyu | running | | |
 | U47-sakya-kadam-gelug | running | | |
 | U48-jonang-chod-medicine-rime | running | | |
 | U49-cross-family | running | | |
-| U50-debates | queued | | |
+| U50-debates | running | | |
 | U51-path-maps | queued | | |
 | U52-recent-teachers | queued | | |
 | U53-glossary-ultimate | queued | | |
@@ -83,6 +83,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U03-principal-upanisads | done — 736 checked: 729 confirmed · 2 partial · 5 corrected (fabricated default edition strings) · 0 not-found |
 | U04-minor-upanisads | running |
 | U06-other-gitas | running |
+| U07-puranas | running |
 ### Sweep follow-ups (for Phase D / S5 / later sweeps)
 - C-U05: tea:moksadharma:12.289 — the arrow-maker simile is at 12.171.61, not 12.289 (12.289.31 has an archer); fix in extraction. tch:hanuman summary says "four sciences" but MBh 3.149.31 says three (tisro vidyāḥ) — shared by U04/U06/U05, fix in S5. U13 sweep: check tch:sankara's dating framing (788–820 CE is the older scholarly convention, not "most maṭha traditions"; Kāñcī gives 509–477 BCE). tea:vyadha-gita:3.197 has ref "3.196-197".
 
