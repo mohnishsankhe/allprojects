@@ -44,14 +44,14 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U29-hatha-practices | done | 141 prc (19 restricted) · 354 tea (57 originals) · 42 trm · 15 phn · 1 dsp | report saved; 107 tea ids shared with U28 (union at merge) |
 | U30-ayurveda-rasa | done | 5 lin · 69 src · 97 tch · 259 tea (71 originals) · 181 trm · 112 cpt · 32 prc · 15 dsp · 68 restricted | report saved |
 | U31-sound-arts | done | 4 lin · 76 src · 81 tch · 148 tea · 119 trm · 38 cpt · 19 prc · 12 dsp | report saved |
-| U32-jyotisa | running | | |
+| U32-jyotisa | done | 5 lin · 92 src · 78 tch · 125 tea (116 spot-checked) · 164 trm · 83 cpt · 23 prc · 11 dsp | report saved |
 | U33-sramana | running | | |
 | U34-jain-canon | running | | |
 | U35-jain-philosophy | running | | |
 | U36-pali-suttas | running | | |
 | U37-abhidhamma-visuddhimagga | running | | |
 | U38-early-schools | running | | |
-| U39-mahayana-sutras | paused (weekly limit; resume when a slot frees) | | |
+| U39-mahayana-sutras | running (resumed) | | |
 | U40-madhyamaka | paused (weekly limit; resume when a slot frees) | | |
 | U41-yogacara-pramana | paused (weekly limit; resume when a slot frees) | | |
 | U42-chan-zen | queued | | |
@@ -84,6 +84,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 - C-U05: tea:moksadharma:12.289 — the arrow-maker simile is at 12.171.61, not 12.289 (12.289.31 has an archer); fix in extraction. tch:hanuman summary says "four sciences" but MBh 3.149.31 says three (tisro vidyāḥ) — shared by U04/U06/U05, fix in S5. U13 sweep: check tch:sankara's dating framing (788–820 CE is the older scholarly convention, not "most maṭha traditions"; Kāñcī gives 509–477 BCE). tea:vyadha-gita:3.197 has ref "3.196-197".
 
 - C-U01: tea:atharvaveda-saunaka:2.32 paraphrase imports 'visible and invisible' and 'with a stone' from AVŚ 2.31; trm:samana — no Saṃhitā occurrence found (BĀU 1.5.3 has it); src:jnanayajna 'c. 11th c.' and src:vedadipa 'c. 1589' unsupported; use GRETIL (not DharmicData) for RV verse text.
+- S4 note: prc:mahamrtyunjaya-japa has method summaries from U01 (Vedic) and U32 (jyotiṣa remedy) — merge must keep both as per-lineage content, not let one replace the other. U32 kuja-dosa and kāla-sarpa entries have no classical verse located (recent/unsourced — sweep first).
 - S5 dedupe candidates (reported by units): U04 prc:mahabandha-mahavedha → U29 prc:mahabandha + prc:mahavedha; U24 cpt:satkarma (tantric six acts) ≠ U28 cpt:satkarma-doctrine (haṭha six acts) — never merge; U28/U29 overlapping HYP/GS range teachings (≈53) — Phase D decides; U10's YBh 2.46 paraphrase may omit vīrāsana; cpt:vyoma-pancaka (U04) = cpt:five-vyomas (U21); cpt:three-laksyas categories differ U04/U21; prc:viparitakarani (U28/U29) vs prc:viparita-karani (U21); prc:sanmukhi-mudra vs prc:shanmukhi-mudra (U04); tea overlaps on U04's Śākta Upaniṣad range teachings vs U23's verse teachings (fidelity pass decides levels).
 
 ## Gap hunter (after C)
