@@ -73,12 +73,13 @@ def build():
         except Exception:
             title = sid
         rows.append({"coll": "SC", "key": sid, "title": title, "path": os.path.relpath(f, ROOT), "context": " ".join(heads[:-1])[:120] if 'heads' in dir() else ""})
-    for f in glob.glob(os.path.join(RAW, "cbeta", "T", "**", "*.xml"), recursive=True):
+    for f in glob.glob(os.path.join(RAW, "cbeta", "[TX]", "**", "*.xml"), recursive=True):
         try:
             head = open(f, encoding="utf-8").read(4000)
             m = re.search(r'<title level="m"[^>]*>([^<]+)</title>', head)
             no = re.search(r"No\. (\w+)", head)
-            t = ((m.group(1) if m else os.path.basename(f)) + (f" T{no.group(1)}" if no else "")).strip()
+            canon = os.path.basename(f)[0]  # T = Taishō, X = Xuzangjing (Shinsan Zokuzōkyō)
+            t = ((m.group(1) if m else os.path.basename(f)) + (f" {canon}{no.group(1)}" if no else "")).strip()
         except Exception:
             t = os.path.basename(f)
         rows.append({"coll": "CBETA", "key": os.path.basename(f)[:-4], "title": t, "path": os.path.relpath(f, ROOT)})

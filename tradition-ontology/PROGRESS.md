@@ -54,14 +54,14 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U39-mahayana-sutras | done | 2 lin · 98 src · 53 tch · 265 tea (171 located locally, 91 originals) · 139 trm · 87 cpt · 38 prc · 8 dsp | report saved |
 | U40-madhyamaka | done | 4 lin · 70 src · 30 tch · 228 tea (105 MMK with GRETIL originals; 159 originals) · 124 trm · 76 cpt · 21 prc · 7 dsp | report saved |
 | U41-yogacara-pramana | done | 7 lin · 120 src · 51 tch · 177 tea (91 originals checked locally) · 198 trm · 71 cpt · 22 prc · 15 dsp | report saved |
-| U42-chan-zen | running | | |
+| U42-chan-zen | done | 143 src · 228 tch · 244 tea (189 with verified CBETA original) · 11 dsp | REPORT.md; Japanese texts not local |
 | U43-pure-land | running | | |
 | U44-indian-vajrayana | running | | |
 | U45-nyingma-bon | running | | |
 | U46-kagyu | running | | |
 | U47-sakya-kadam-gelug | running | | |
 | U48-jonang-chod-medicine-rime | running | | |
-| U49-cross-family | queued | | |
+| U49-cross-family | running | | |
 | U50-debates | queued | | |
 | U51-path-maps | queued | | |
 | U52-recent-teachers | queued | | |

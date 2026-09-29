@@ -15,3 +15,4 @@
 - 2026-09-29 17:09 IST  Catalogue: +OpenPecha-Data P000001–P001200 titles (sources_raw/openpecha_titles_P.tsv; 31,761 items). Sourcing brief updated.
 - 2026-09-29 17:18 IST  Gītā ch10-12 M done (125 tea); F launched.
 - 2026-09-29 17:22 IST  Gītā ch13-15 B done (88 tea); M launched.
+- 2026-09-29 17:24 IST  U42 skeleton done (REPORT saved). CBETA extended: T85 + X63–65/68–69/79–80/83; catalogue 32,086 items.
