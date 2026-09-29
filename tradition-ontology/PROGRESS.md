@@ -60,7 +60,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U45-nyingma-bon | running | | |
 | U46-kagyu | running | | |
 | U47-sakya-kadam-gelug | running | | |
-| U48-jonang-chod-medicine-rime | queued | | |
+| U48-jonang-chod-medicine-rime | running | | |
 | U49-cross-family | queued | | |
 | U50-debates | queued | | |
 | U51-path-maps | queued | | |
@@ -100,7 +100,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | bhagavad-gita | ch04-06 | done (123) | done (125) | done (124 tea, 534 disagreements; skeleton 63 up · 4 corr · 0 ret) | done: 109 passed · 15 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch07-09 | done (95) | done (95) | done (97 tea, 449 disagreements; skeleton 40 up · 6 corr · 0 ret) | done: 68 passed · 29 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch10-12 | done (120) | done (120) | running | | |
-| bhagavad-gita | ch13-15 | running | running | | | |
+| bhagavad-gita | ch13-15 | done (85) | running | | | |
 | bhagavad-gita | ch16-18 | | | | | |
 
 ### Gītā text-level gates (after ch16-18)
