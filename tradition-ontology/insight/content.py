@@ -326,4 +326,16 @@ def calendar(store, bucket_id: str, days: int = 30) -> list[dict]:
                          "source": p["body"].get("source"), "first_line": (p["body"].get("parts") or [""])[0][:120]})
         else:
             plan.append({"day": d, "format": want, "post_id": None, "status": "to draft"})
+    # days still to draft get a suggested (scene, teaching) pair: each teaching at most once in the 30 days
+    b = buckets().get(bucket_id) or {}
+    used_t = {p["body"].get("tid") for p in posts}
+    pool = [it for it in b.get("teaching_pool") or [] if it["tid"] not in used_t and ontology.citable(it["tid"])]
+    rng = random.Random(f"calendar:{bucket_id}")
+    rng.shuffle(pool)
+    scenes = list(range(len(b.get("scenes") or [])))
+    for i, d in enumerate([x for x in plan if x["status"] == "to draft"]):
+        if i < len(pool) and scenes:
+            it = pool[i]
+            d.update({"source": source_line(it["tid"]), "tid": it["tid"],
+                      "first_line": f"Scene: {b['scenes'][scenes[(i * 7) % len(scenes)]]} / Teaching: {it['point']}"})
     return plan

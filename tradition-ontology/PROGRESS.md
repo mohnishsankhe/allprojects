@@ -15,7 +15,7 @@ Budget: 12 working hours. Phase budgets: P0 0:00–0:30 · P1 0:30–3:30 · P2 
 | P1 Ontology sufficiency | running (since 18:36 IST) | text-verified and merged (2,136 teachings): 3 Pāli suttas; TS karma/passions; TaittU sheaths; KU chariot; Heart Sūtra ×2; YS + Vyāsa; Māṇḍūkya + Kārikā; Visuddhimagga selections; Dhammapada. VBT extracted, judge running. HYP extraction running. Gītā ch16–18 merge running. Layers: diagnosis 100/102 usable; practices 29 usable, 14 gentle. Tables done (obstacle 14/16 user-facing; one-truth 5/8; path-map 43/77 rows). onto-deep: self-question running. |
 | P2 Engine design | started early, in parallel (22:45 IST) | ENGINE_SPEC.md; mapping rules (onto-deep); intake.json; tone.md; synthesis_rules.json; content design running (onto-analyst) |
 | P3 Build | started early, in parallel | written: llm, store, safety, claims, specificity, ontology, report, engine, pathway, synthesizer, schemas, service, cli, content, gates, run_eval. Builders running: mapper; api + web + tests |
-| P4 Content engine | queued | |
+| P4 Content engine | drafts done early (23:20 IST), rules engine | 50 posts (10 per bucket, 5 formats) in the review queue, all passing rules checks; 30-day calendar per bucket (content/calendars/); export content/queue.jsonl. Model-engine drafts and the Opus content check: not run (no API key). |
 | P5 Evaluation | queued | |
 | P6 Fix loop | queued | |
 | P7 Release | queued | |
