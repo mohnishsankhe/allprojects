@@ -11,3 +11,4 @@
 - 2026-09-29 16:00 IST — resumed after the weekly usage limit (all 13 running agents had stopped at ~09:20 IST on 09-28). U31 report saved.
 - 2026-09-29 16:27 IST — CBETA sparse checkout extended to T01–02, T22–32, T49–51, T54 (396 MB); catalogue rebuilt. lin:sthavira added to UMBRELLAS (U38 recommendation).
 - 2026-09-29 17:04 IST  TU prepared text fixed (51 segments; 1.12.1, 3.8.1, 3.9.1 recovered; invocations split; colophons stripped). See DECISIONS.
+- 2026-09-29 17:08 IST  Lojong sources located on OpenPecha (P000258 classical commentary with root lemmata; P000222 Eight Verses + Chekawa; P000209/P000200 confirmation only). GAPS/DECISIONS/PROGRESS updated.

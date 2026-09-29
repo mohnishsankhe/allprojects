@@ -104,3 +104,10 @@ Conservative choices made without asking, with reasons. Newest last.
 - The Phase C sweep of U03 found TU 3.8–3.9 missing from the prepared text. Cause: the advaita-shAradA edition prints TU 1.12, 3.8 and 3.9 without a verse number, and the parser silently dropped sections with no number.
 - Fix (conservative, nothing invented): a section with no number is kept as verse 1 of that section, with a note saying the edition prints it unnumbered. The śānti invocations before TU 2.1 and 3.1 are kept in separate fields (invocation_deva/_iast) rather than merged into the first verse. In TU 1.1 the invocation is the section's own text, so it stays as the text. Commentary colophons ("iti śrīmat… bhāṣye …") are stripped.
 - Result: TU has 51 segments (48 before). New: 1.12.1, 3.8.1, 3.9.1. Every earlier ref keeps its number. The other ten Upaniṣads keep their segment counts.
+
+## 2026-09-29 17:08 IST — Lojong root text: reconstruct from lemmata; modern commentaries only confirm wording
+- No open e-text gives Chekawa's Seven Points root on its own. The classical commentary in *Blo sbyong legs bshad kun 'dus* (OpenPecha-Data P000258, a Derge xylograph edition; pre-modern, public domain) quotes every root line as a headword ("… ། །ཞེས་བསྟན་ཏོ" / "ཅེས་པ").
+- Conservative choice: the Phase D lojong unit rebuilds the root from those headwords, in the order the commentary gives them. For each line it records every place the line is quoted. Other quotations (Bodhicaryāvatāra, Suhṛllekha, Kadam sayings, and so on) are kept apart as quotations, not root.
+- Two twentieth-century commentaries on OpenPecha (P000209, P000200) are used only to check that a headword's wording matches. None of their own commentary is quoted or extracted, because their licence is not stated in the repository metadata.
+- The order and wording of the root differ between recensions. Every difference is recorded in RECONCILE_QUEUE-style notes on the source, never settled by choosing one.
+- The Eight Verses (Langri Thangpa, 11th c.) come from Chekawa's own narrative commentary (P000222, 12th c.). Both works are public domain; the e-text is openly distributed on GitHub.

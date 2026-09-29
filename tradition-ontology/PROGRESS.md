@@ -116,7 +116,7 @@ Prepared verse-level segments (sources_raw/prepared/, git-ignored) as of 2026-09
 - [x] mūlamadhyamakakārikā (448 verses, GRETIL Devanāgarī mirror, 4 chunks), aṣṭāvakra gītā (298 verses, GRETIL, 2 chunks), pratyabhijñāhṛdayam (20 sūtras + Kṣemarāja's commentary + intro, GRETIL), avadhūta gītā (275 verses of the 1917 Khemrāj ed., 8 chapters; 5 refs to recover by hand — see META known_gaps)
 - [x] tattvārtha-sūtra (357 sūtras, Digambara recension, nikkyjain Jain DB), Tilopa's Gaṅgā Mahāmudrā (Tōh 2303, 29 stanzas + title/colophon, Tibetan + Wylie), Saraha's People/King/Queen Dohās (Tōh 2224: 136 st.; 2263; 2264)
 - [x] maitrī (73 sections in 7 prapāṭhakas, Cowell/Rāmatīrtha recension, eBhāratī)
-- [ ] lojong (Tibetan-authored; not in the Tengyur — still sought)
+- [x] lojong sources located (not prepared as segments): Seven Points root = lemmata in Blo sbyong legs bshad kun 'dus (OpenPecha P000258); confirmations P000209, P000200; Eight Verses + Chekawa's commentary P000222 — see GAPS/DECISIONS
 
 ## Morning report (07:00 IST)
 ## Waves 1–5
