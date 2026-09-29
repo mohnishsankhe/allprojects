@@ -1,7 +1,7 @@
 """The engine end to end (mapper faked): schema, claims, citations, injection, routes, model engine with a fake transport."""
 import pytest
 
-from insight import engine, mapper, ontology, safety
+from insight import engine, mapper, ontology, pathway, safety
 from insight.schemas import validate_report
 from conftest import BENIGN, NO_FLAGS, QUOTE, client_with, fake_map_person
 
@@ -185,7 +185,9 @@ def _syn_ok(kw=None):
                        "evidence_refs": v["evidence_refs"]}], "ascetic": [], "reconciliation": [], "differences": []}
 
 
-def test_model_engine_end_to_end(fake_mapper):
+def test_model_engine_end_to_end(fake_mapper, monkeypatch):
+    # independent of the practice layer's contents: no practice is selected, so the pathway step makes no model call
+    monkeypatch.setattr(pathway, "select", lambda maps, route, max_n=4: [])
     c, t = client_with({"safety_screen": NO_FLAGS, "synthesis": _syn_ok})
     rep = engine.run_reading(inputs(), engine="model", client=c)
     validate_report(rep)
