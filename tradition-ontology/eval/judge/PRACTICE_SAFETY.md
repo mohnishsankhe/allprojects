@@ -43,3 +43,70 @@ Judge: onto-judge (claude-opus-5-5), 2026-09-29. Scope: every entry of `insight.
 - `not-harbouring-the-grievance-dhp-3-5` W2 points to the Vism mettā method. Revisit it if mettā is demoted.
 - Not judged: 5 raw gentle entries that the loader already excludes for uncitable warning cites (`aloka-sanna-dn2-68`, `brahmavihara-bhavana-vism-9`, `six-recollections-vism-7`, `upasamanussati-vism-8`, `tattvartha-sraddhana-ts-1-2`). Re-judge them if they become loadable.
 - Could not check: Daśavaikālika wording (no local text); Tattvārtha commentaries (not verified in data/). Readings rest on the ontology's verified originals and paraphrases, not on fresh fetches.
+
+## Re-run (P6)
+
+Judge: onto-judge (claude-opus-5-5), 2026-09-30 00:16 IST. Scope:
+- every entry the first run marked fix-needed or demote;
+- the 14 first-run passes;
+- the current `insight.ontology.gentle_practices()`.
+
+Per-entry verdicts, criteria and evidence (file and line, verse quotes) are in `eval/judge/practice_safety_rerun.jsonl`, one line for each of the 38 first-run entries.
+
+**Final gate verdict: PASS.** All 30 entries now in `gentle_practices()` pass every criterion. Nothing blocks the gate.
+
+### Counts (by code)
+- 16 editorial fix-needed: 16 pass.
+- 4 demotions confirmed; 4 uttama exclusions confirmed.
+- First-run passes: 13 unchanged, and 1 changed that still passes.
+- `gentle_practices()`: 38 before, 30 now.
+- Mechanical checks on all 30 gentle entries:
+  - `claims.scan_fields` on the raw and loaded entries: 0 hits.
+  - Cites: every cite is citable (text-verified or sourced), and the loader drops none.
+  - Durations: 30 of 30 are labelled as a product default.
+  - Steps: 3 to 6 in every entry.
+  - The product-note pattern matches no warning.
+  - The first 160 characters of every displayed original have no hell or death terms.
+
+### How the diff was made
+- The first-run layer was rebuilt in memory, without writing anything, from `entries.py`, `refresh_p1.repair` and its new entries, and `overrides`. It reproduces the first run exactly: all 38 entry lines, all 45 quoted `layers/practices.json` lines, and every cite set.
+- Applying `judge_fixes.FIXES` to that rebuild gives the current file, field for field.
+- `judge_fixes.py --check` reports 0 changes and 0 errors, so the fixes are idempotent and in place.
+- Targets were not compared. `layers/diagnosis.json` was rebuilt after the first run, and targets are not a criterion.
+
+### Results
+1. **Fix-needed (editorial), 16 entries: all pass.** Each fix is applied as the first run asked. Where the fixer went beyond the judge's wording, the change was re-judged and passes:
+   - BhG 6.35 W3 reads "can be attained", matching 6.36 śakyo 'vāptum.
+   - TS 7.11 W2 now reads only "serve the steadiness of the vows (TS 7.1; 7.3)". The ontology tags both 7.3 and 7.11 with `cpt:vow-bhavanas`.
+   - anuprekṣā W2 is dropped, since tier_reason already said it.
+2. **Demoted, 4 entries: confirmed.**
+   - `inward-turned-gaze-ku-2-1-1`, `anapanasati-first-tetrad`, `metta-bhavana-vism-9` and `recalling-the-good-in-one-who-wronged-vism-9` are needs-teacher, with steps [] and the summary-only duration. None is in `gentle_practices()`.
+   - They stay in `practices()` as summary-only entries. `insight/pathway.py` selects only from `gentle_practices()`.
+   - Each carries its text's own teacher condition with citable cites.
+   - For recalling-the-good, the "at any tier" items are done: W2 (bodily harm) is deleted and Vism IX p.300 is dropped.
+3. **Uttama (TS 9.6), 4 entries: not user-facing, confirmed.**
+   - Each has user_facing false and manual_exclusion set. None is in `practices()` or `gentle_practices()`.
+   - The skeleton 9.30-33 range is replaced by 9.30, 9.31, 9.32 and 9.33.
+   - Their content still rests on the skeleton Daśavaikālika 8.36-38. This does not block the gate, because they are not shown to users.
+4. **First-run passes.**
+   - 13 are unchanged (empty field diff).
+   - `not-harbouring-the-grievance-dhp-3-5` changed: the Vism IX p.298 warning was removed after the mettā demotion. It still passes; its only warning is Dhp 239.
+   - The first run's note on 'taste' is fixed: `insight/pathway.py` EXCLUDE_IF_NO_DIET now matches taste, flavour and hunger.
+5. **Śauca.** `px:uttama-sauca-ts-9-6` is still `safety_tier: gentle` in the raw layer, with 5 steps. Its manual exclusion keeps it out of `gentle_practices()`.
+   - Its only method (S4, "conquer greed by contentment") practises contentment, not śauca. Its own W1 now says "the Daśavaikālika names contentment, not śauca, against greed".
+   - Even after the Daśavaikālika is verified, it would fail criterion 1: the name does not match the method.
+
+### Remaining fixes (none block the gate)
+- Before any uttama entry is re-enabled:
+  - Text-verify Daśavaikālika 8.36-38.
+  - Move W1 of kṣamā, mārdava and ārjava ("the steps are recollection of ...", a product note) to tier_reason.
+  - For śauca, choose one: reframe it (for example, as contentment against greed), give it a text-verified śauca method, or keep it excluded.
+- Optional editorial changes:
+  - BhG 6.35 W3 could add 6.36's "whose self is under control" (vaśyātmanā).
+  - YS 1.39 S2 could name sexual imagery and intoxicants outright. Today they are covered only by "something you crave", read with YB 1.15.
+  - Four satipaṭṭhāna entries (MN 10:8, 10:34, 10:36, 10:40) have a W2 that quotes MN 118:26 on mindfulness of breathing, which is now needs-teacher. W2 gives no breath instruction. Still, a caution from the Satipaṭṭhāna sutta itself would avoid pointing to that practice.
+
+### Not judged and could not check
+- Not judged: the 5 raw gentle entries the loader excludes for uncitable warning cites. They are still excluded.
+- Could not check: the Daśavaikālika wording (there is no local text).
+- Readings rest on the ontology's verified originals and paraphrases in `data/teachings`, not on fresh fetches.

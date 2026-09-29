@@ -1,6 +1,8 @@
 """Build and validate layers/practices.json from entries.py. Run: python3 layers/_gen/practices/build.py
 Writes layers/practices.json and layers/_gen/practices/build_report.json. Exits non-zero on any error."""
 import collections, glob, json, os, re, sys
+_PX_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'practices.json')
+_PX_BACKUP = open(_PX_FILE, encoding='utf-8').read() if os.path.exists(_PX_FILE) else None
 ROOT = '/home/user/allprojects/tradition-ontology'
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE); sys.path.insert(0, ROOT); sys.path.insert(0, f'{ROOT}/layers/_gen/diagnosis')
@@ -167,8 +169,15 @@ if not errors:
     # the P1 refresh (new texts), the orchestrator overrides and the practice-safety judge fixes (P6) must survive
     # every rebuild; judge_fixes.py runs last, after the second overrides.py
     import subprocess as _sp
-    for _f in ("overrides.py", "refresh_p1.py", "overrides.py", "judge_fixes.py"):
-        _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _f)
-        if os.path.exists(_p):
-            _sp.run([sys.executable, _p] + (["--write"] if _f == "refresh_p1.py" else []), check=True)
+    try:
+        for _f in ("overrides.py", "refresh_p1.py", "overrides.py", "judge_fixes.py"):
+            _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _f)
+            if os.path.exists(_p):
+                _sp.run([sys.executable, _p] + (["--write"] if _f == "refresh_p1.py" else []), check=True)
+    except _sp.CalledProcessError as _e:
+        # never leave a half-built layer (it would lack the safety fixes): restore the layer as it was
+        if _PX_BACKUP is not None:
+            open(_PX_FILE, "w", encoding="utf-8").write(_PX_BACKUP)
+        print("POST-STEP FAILED; layers/practices.json restored to its previous state:", _e)
+        sys.exit(1)
 sys.exit(1 if errors else 0)
