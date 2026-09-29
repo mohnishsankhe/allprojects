@@ -231,9 +231,9 @@
    "standpoint": "each side speaks from its own standpoint; no shared standpoint is established",
    "what_it_denies": "Each side denies the others' central claim. The Theravāda denies any self (Dhp 279). The Yoga denies that the mind is the seer (YS 4.19) and keeps seers many (YS 2.22). The Jains keep souls many and body-sized (TS 5.16). Advaita denies that plurality is ultimate (GK 1.17).",
    "principle_relating_it": {
-    "id": "P1-level",
-    "name": "Level of truth",
-    "reason": "Provisional candidate only (see candidate_readings). All sides agree that the body and changing cognitions are not the true self (dsp:is-there-a-self), but they disagree whether anything lies beyond them."
+    "id": "P2-standpoint",
+    "name": "Standpoint",
+    "reason": "Held by the Jains only (onto-deep, layers/tables/self_question.json): the one standpoint on which the four can be related is the Jain teaching of standpoints, and the Theravāda, Yoga and Upaniṣadic/Advaita sides each reject it from their own verified texts. Shared minimum, qualified: none takes the body or a passing state of mind to be what one is; the Jain texts do not deny that the changing states belong to the soul (TS 2.1, 2.7), only that the soul is the body or only its passing states. Not yet reconciled; shown side by side."
    },
    "candidate_readings": [
     "P1-level: the Buddhist analysis negates a self found among or apart from the aggregates, which Advaita and the Yoga also call not-self. Advaita's witness and the Yoga's seer are said never to be an object of such analysis. The Buddhist logicians refute these selves too, and Advaita asserts the self as being-consciousness, not an absence.",

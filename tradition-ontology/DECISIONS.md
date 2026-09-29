@@ -444,3 +444,12 @@ Conservative choices made without asking, with reasons. Newest last.
   - data/'s older renderings of ārta ("sorrowful", "brooding") differ from the verified shard; the verified ones are used;
   - Jain parīṣaha and tapas concepts in data/ still list the hardships with counts (not method, but to be reviewed);
   - the skeleton upgrades whose brackets carry commentarial glosses need relabelling.
+
+## 2026-09-29 23:23 IST — The self-question (onto-deep): shown side by side, never reconciled
+- **Question.** Can the Jain jīva, the Yoga puruṣa, the Upaniṣadic ātman and the Theravāda not-self teaching be related as more than "none is the body or a passing state of mind"?
+- **Verdict** (layers/tables/self_question.json, SELF_QUESTION.md): related-under-P2-standpoint, status **not yet reconciled**.
+  - The only relating standpoint is the Jain teaching of standpoints, and the three other sides reject it from their own verified texts.
+  - Its Jain grounds are mostly still skeleton.
+  - The shared minimum is corrected: the Jain texts count the changing states as the soul's own nature (TS 2.1, 2.7).
+- **In the product.** When a reading maps asmitā (YS 2.6) or Theravāda conceit (māna), it adds one "difference" point. It gives onto-deep's two sentences together, with 22 citable cites: first what the four share, then what each says is left. Nothing states or implies that jīva, puruṣa, ātman and not-self are the same. For Jain māna (pride, a passion) the obstacle row's own text leads. Wired in rules/synthesis_rules.json → self_question.
+- **One-truth table.** The provisional row now names P2-standpoint as held by the Jains, with the qualification. It stays user_facing false. RQ-U50-01 stays queued.

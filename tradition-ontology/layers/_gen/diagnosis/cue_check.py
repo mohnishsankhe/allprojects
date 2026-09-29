@@ -12,10 +12,10 @@ What it does, on the layer as it is in layers/diagnosis.json:
  2. self-test: each added cue, written as a person's sentence, must give a direct evidence item on its own marker;
  3. bland baseline (tests/fixtures/bland_baseline.jsonl, 24 synthetic people): for every cue, on how many people the
     rules engine produces an evidence item for that marker through that cue. A cue firing on > 10% (>= 3 of 24) is
-    generic. With --apply, an added cue that is generic is removed from "cues" and "cues_added" and recorded in
-    cues_removed.json (add_cues.py never re-adds it). Original cues are reported, never removed here.
+    generic. With --apply, a generic cue (added or original) is removed from "cues" (and "cues_added") and recorded
+    in cues_removed.json (add_cues.py never re-adds it, and removes listed original cues again after a rebuild).
  4. bland mappings: map_person(..., safety.rule_screen(text), engine="rules") must give 0 mappings for every bland
-    person; with --apply, the added cues behind any bland mapping are removed.
+    person; with --apply, the cues behind any bland mapping are removed.
  5. dev recall: 10 short patterned DEV texts written here (not evaluation data), mapped with the layer as it is and
     with cues_added stripped (before/after).
 Writes cue_check_report.json next to this file.
@@ -226,16 +226,15 @@ def added_set(raw: list) -> set:
 
 
 def remove_cues(raw: list, which: dict) -> int:
-    """which: {(eid, marker, cue): reason}. Removes only added cues. Returns count removed."""
+    """which: {(eid, marker, cue): reason}. Removes the cue from "cues" and, if it was added, from "cues_added"."""
     n = 0
     for e in raw:
         for m in e.get("markers") or []:
-            for c in list(m.get("cues_added") or []):
-                key = (e["id"], m["marker"], c)
-                if key in which:
-                    m["cues_added"].remove(c)
-                    if c in m["cues"]:
-                        m["cues"].remove(c)
+            for c in list(m.get("cues") or []):
+                if (e["id"], m["marker"], c) in which:
+                    m["cues"].remove(c)
+                    if c in (m.get("cues_added") or []):
+                        m["cues_added"].remove(c)
                     n += 1
             if "cues_added" in m and not m["cues_added"]:
                 del m["cues_added"]
@@ -342,8 +341,8 @@ def main() -> int:
             for it in items:
                 if it.eid in {x[0] for x in ms}:
                     k = cue_of(layer, it)
-                    if k in added:
-                        behind[k] = f"behind a bland mapping ({p['id']})"
+                    if k[2] is not None:
+                        behind[k] = f"behind a bland mapping ({p['id']}: {it.eid})"
     rep["bland_mappings"] = bland_maps
 
     # 5. dev recall, before (cues_added stripped) and after
@@ -367,8 +366,7 @@ def main() -> int:
     removed_now = {}
     if args.apply:
         for k, v in generic.items():
-            if k in added:
-                removed_now[k] = f"generic: fires on {len(v)}/{N} bland people ({', '.join(sorted(v))})"
+            removed_now[k] = f"generic: fires on {len(v)}/{N} bland people ({', '.join(sorted(v))})"
         for k, why in behind.items():
             removed_now.setdefault(k, why)
         if removed_now:
@@ -378,7 +376,8 @@ def main() -> int:
             have = {(r["id"], r["marker"], r["cue"]) for r in prev}
             for (eid, mtext, c), why in removed_now.items():
                 if (eid, mtext, c) not in have:
-                    prev.append({"id": eid, "marker": mtext, "cue": c, "reason": why})
+                    prev.append({"id": eid, "marker": mtext, "cue": c, "original": (eid, mtext, c) not in added,
+                                 "reason": why})
             REMOVED.write_text(json.dumps(prev, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
             rep["removed_this_run"] = n
     rep["removed_this_run_list"] = [f"{k[0]} | {k[2]} | {v}" for k, v in removed_now.items()]

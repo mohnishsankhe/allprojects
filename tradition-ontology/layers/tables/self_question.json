@@ -1,0 +1,374 @@
+{
+ "question": "Is there any standpoint, accepted by at least one of the parties from its own texts, on which the Jain jīva, the Yoga puruṣa, the Upaniṣadic ātman and the Theravāda not-self teaching can be related as more than 'all deny that the body and the changing cognitions are the self'?",
+ "refs": [
+  "dsp:is-there-a-self",
+  "RQ-U50-01",
+  "ot:provisional-self-question"
+ ],
+ "verdict": "related-under-P2-standpoint",
+ "verdict_note": "Exactly one standpoint passes the test (held by one of the four from its own texts, relates all four, says more than the shared minimum): the Jain teaching of standpoints. Only the Jains hold it, the other three reject it on their own verified texts, and the Jain texts that apply it to other doctrines are skeleton in data/ (only its ground, TS 5.30, is verified). So the four are not reconciled and the product shows them side by side.",
+ "shared_minimum": {
+  "text": "None of the four takes the body, or any passing state of mind, to be what one is, and each teaches seeing through that identification. Correction to the usual wording: the Jain texts do not deny that the changing states belong to the soul. They call all five kinds of state, the karma-born passions and wrong view included, the soul's own nature (TS 2.1, 2.6), while being a soul is its inherent state (TS 2.7). What the Jain denies is that the soul is the body, or only its passing states. Each has its practice: the Jain contemplations of impermanence, otherness and impurity (TS 9.7), the Yoga's discernment (YS 2.26), the Upaniṣads' 'not this, not this' (BAU 4.2.4), the Theravāda's 'this is not mine, I am not this, this is not my self' (Vism 20.p638).",
+  "cites": [
+   "tea:tattvartha-sutra:2.1",
+   "tea:tattvartha-sutra:2.6",
+   "tea:tattvartha-sutra:2.7",
+   "tea:tattvartha-sutra:7.12",
+   "tea:tattvartha-sutra:9.7",
+   "tea:tattvartha-sutra:8.2",
+   "tea:tattvartha-sutra:8.11",
+   "tea:yoga-sutra:2.5",
+   "tea:yoga-bhasya:2.5",
+   "tea:yoga-sutra:2.20",
+   "tea:yoga-sutra:2.26",
+   "tea:brhadaranyaka-upanisad:4.2.4",
+   "tea:chandogya-upanisad:8.12.1-2",
+   "tea:chandogya-upanisad:8.7.4-8.8.5",
+   "tea:brhadaranyaka-upanisad:3.4.1-2",
+   "tea:dhammapada:277",
+   "tea:dhammapada:279",
+   "tea:visuddhimagga:20.p638",
+   "tea:visuddhimagga:17.p570"
+  ]
+ },
+ "same_words_different_sense": [
+  {
+   "pair": "Yoga and Theravāda",
+   "text": "YS 2.5 and Vism 22.p683 name the same four inversions: the impermanent, impure, painful and not-self taken as permanent, pure, pleasant and self. The Yoga holds that there is a seer and that the error is taking what is seen for the self (YS 2.20); the Theravāda holds that nothing is self (Dhp 279).",
+   "cites": [
+    "tea:yoga-sutra:2.5",
+    "tea:yoga-bhasya:2.5",
+    "tea:visuddhimagga:22.p683",
+    "tea:dhammapada:279",
+    "tea:yoga-sutra:2.20"
+   ]
+  },
+  {
+   "pair": "Upaniṣadic and Theravāda",
+   "text": "'Not this, not this' (BAU 4.2.4) and 'all dhammas are not-self' (Dhp 279) both refuse every graspable thing as the self. The Upaniṣad names the ungraspable seer as the self (BAU 3.4.1-2); the Theravāda names nothing as self.",
+   "cites": [
+    "tea:brhadaranyaka-upanisad:4.2.4",
+    "tea:brhadaranyaka-upanisad:3.4.1-2",
+    "tea:dhammapada:279"
+   ]
+  }
+ ],
+ "positions": [
+  {
+   "tradition": "Jain (Tattvārthasūtra)",
+   "lineage": "lin:jainism",
+   "position": "The soul's five kinds of state are its own nature; being a soul is inherent. Whatever exists arises, ceases and persists. The soul contracts and expands like a lamp. Through passions it takes in karmic matter. The liberated are many.",
+   "cites": [
+    "tea:tattvartha-sutra:2.1",
+    "tea:tattvartha-sutra:2.7",
+    "tea:tattvartha-sutra:5.30",
+    "tea:tattvartha-sutra:5.16",
+    "tea:tattvartha-sutra:8.2",
+    "tea:tattvartha-sutra:10.9"
+   ],
+   "not_citable_yet": [
+    "tea:tattvartha-sutra:2.8",
+    "tea:tattvartha-sutra:5.29",
+    "tea:tattvartha-sutra:5.31",
+    "tea:bhagavati-sutra:7.2"
+   ],
+   "note": "Cognition as the soul's mark (TS 2.8), permanence as not losing its own nature (TS 5.31) and 'lasting as substance, not as modes' (Bhagavatī 7.2) are skeleton and stay out of product wording. Plurality rests on TS 10.9 (the liberated are set out by number and relative number) and TS 2.7."
+  },
+  {
+   "tradition": "Pātañjala Yoga (Yoga Sūtra with Vyāsa)",
+   "lineage": "lin:patanjala-yoga",
+   "position": "The seer is seeing alone: pure, it looks on the mind's cognitions without being them, and it never changes. Taking the body or mind for the self is ignorance. The seen continues for other seers, so seers are many.",
+   "cites": [
+    "tea:yoga-sutra:2.20",
+    "tea:yoga-bhasya:2.20",
+    "tea:yoga-sutra:4.18",
+    "tea:yoga-bhasya:4.18",
+    "tea:yoga-sutra:2.5",
+    "tea:yoga-bhasya:2.5",
+    "tea:yoga-sutra:2.22",
+    "tea:yoga-bhasya:2.22"
+   ]
+  },
+  {
+   "tradition": "Upaniṣadic",
+   "lineage": "lin:upanisadic",
+   "position": "The finest essence is the self of this whole world: 'that you are'. Brahman knew itself, 'I am brahman', and became all. The self is the seer that cannot be seen, 'not this, not this', unborn and undying.",
+   "cites": [
+    "tea:chandogya-upanisad:6.8.7",
+    "tea:brhadaranyaka-upanisad:1.4.10",
+    "tea:brhadaranyaka-upanisad:3.4.1-2",
+    "tea:brhadaranyaka-upanisad:4.2.4",
+    "tea:katha-upanisad:1.2.18-19",
+    "tea:mandukya-upanisad:2"
+   ],
+   "note": "The Upaniṣads also speak of difference (MuU 3.1.1-2; BAU 3.7.3-23), and the Vedānta schools read them as identity, qualified identity or difference (dsp:tat-tvam-asi, not yet reconciled). This entry records the statements, not one school's reading."
+  },
+  {
+   "tradition": "Theravāda",
+   "lineage": "lin:theravada",
+   "position": "'All dhammas are not-self': seeing this with wisdom, one becomes disenchanted with suffering. Even oneself is not one's own. Every doctrine of self is a clinging, and conceit is cut only at the arahat path.",
+   "cites": [
+    "tea:dhammapada:279",
+    "tea:dhammapada:62",
+    "tea:visuddhimagga:17.p569",
+    "tea:visuddhimagga:17.p570",
+    "tea:visuddhimagga:22.p682"
+   ],
+   "not_citable_yet": [
+    "tea:anattalakkhana-sutta:2-5",
+    "tea:anattalakkhana-sutta:6",
+    "tea:anattalakkhana-sutta:7-10",
+    "tea:alagaddupama-sutta:25-27",
+    "tea:abyakata-samyutta:44.10",
+    "tea:khemaka-sutta:9-12",
+    "tea:visuddhimagga:16",
+    "tea:visuddhimagga:18/2",
+    "tea:milindapanha:3.1.1/2",
+    "tea:udana:8.3"
+   ],
+   "note": "The MN/SN not-self suttas are in data/ but all skeleton (SN 22.59, MN 22, SN 44.10, SN 22.89 and others), so none is cited; the Theravāda side rests on the Dhammapada and the Visuddhimagga."
+  },
+  {
+   "tradition": "Prajñāpāramitā (Heart Sūtra; Mahāyāna, not Theravāda)",
+   "lineage": "lin:mahayana",
+   "position": "Avalokiteśvara saw the five aggregates as empty of own-being. All dharmas have the mark of emptiness; in emptiness there is no form, feeling, perception, formations or consciousness, and no knowledge and no attainment.",
+   "cites": [
+    "tea:prajnaparamita-hrdaya:s3",
+    "tea:prajnaparamita-hrdaya:s6",
+    "tea:prajnaparamita-hrdaya:s7"
+   ],
+   "note": "Not one of the four parties; read because the brief asked for its not-self and emptiness lines. It carries the negation into emptiness and denies an attainment, so it gives no ground for reading the Buddhist negation as leaving a hidden self."
+  }
+ ],
+ "relation": {
+  "principle": {
+   "id": "P2-standpoint",
+   "name": "Standpoint"
+  },
+  "held_by": {
+   "tradition": "Jain",
+   "lineage": "lin:jainism"
+  },
+  "statement": "Jain standpoint-teaching (naya): whatever exists arises, ceases and persists, so a soul lasts as substance and changes in modes; each standpoint is false held alone, right joined with the others. On it, the Jain texts treat an unchanging self (Yoga), one self of all (Upaniṣads) and 'all dhammas are not-self' (Theravāda) as one-sided views, true only in one respect.",
+  "does_not_claim": "It does not claim that the four teach the same thing or name one reality; that souls are one (the Jain texts keep them many); that there is no self (they keep the soul real, TS 2.7); that the Theravāda accepts a lasting substance, the Yoga a changing seer, or the Upaniṣads many real selves; or that any party but the Jains accepts it. It is the Jain view of the others, not the ontology's verdict.",
+  "rejected_by": [
+   {
+    "tradition": "Theravāda",
+    "lineage": "lin:theravada",
+    "why": "Nothing, in any respect, is self: 'all dhammas are not-self' (Dhp 279), and even oneself is not one's own (Dhp 62). A doctrine of self is a clinging, and 'the self is eternal' grows from it (Vism 17.p569-570). The eternity view and the annihilation view are given up by seeing passing and arising (Vism 22.p694); no substance lasting through its modes is posited.",
+    "cites": [
+     "tea:dhammapada:279",
+     "tea:dhammapada:62",
+     "tea:visuddhimagga:17.p569",
+     "tea:visuddhimagga:17.p570",
+     "tea:visuddhimagga:22.p694"
+    ],
+    "not_citable_yet": [
+     "tea:abyakata-samyutta:44.10",
+     "tea:alagaddupama-sutta:25-27",
+     "tea:kaccanagotta-sutta:3.1-3.3"
+    ]
+   },
+   {
+    "tradition": "Pātañjala Yoga",
+    "lineage": "lin:patanjala-yoga",
+    "why": "The seer has no side of modes: the mind's modifications are always known because their lord, the puruṣa, is unchanging (YS 4.18 with Vyāsa); the buddhi changes and the puruṣa does not (Vyāsa on 2.20). What transforms is the seen (YS 2.18 with Vyāsa). Vyāsa also argues against a mind that is only momentary cognitions (on 1.32).",
+    "cites": [
+     "tea:yoga-sutra:4.18",
+     "tea:yoga-bhasya:4.18",
+     "tea:yoga-bhasya:2.20",
+     "tea:yoga-sutra:2.18",
+     "tea:yoga-bhasya:2.18",
+     "tea:yoga-bhasya:1.32"
+    ]
+   },
+   {
+    "tradition": "Upaniṣadic",
+    "lineage": "lin:upanisadic",
+    "why": "Being was one only, without a second (ChU 6.2.1-2); 'he goes from death to death who sees diversity here' (KaU 2.1.10-11); whoever thinks 'he is one, I am another' does not know (BAU 1.4.10); the self is unborn and not killed when the body is killed (KaU 1.2.18-19). These passages do not admit many selves as a true respect. The Upaniṣads also speak of two birds on one tree (MuU 3.1.1-2), and the schools read them differently (dsp:tat-tvam-asi).",
+    "cites": [
+     "tea:chandogya-upanisad:6.2.1-2",
+     "tea:katha-upanisad:2.1.10-11",
+     "tea:brhadaranyaka-upanisad:1.4.10",
+     "tea:katha-upanisad:1.2.18-19",
+     "tea:mundaka-upanisad:3.1.1-2"
+    ]
+   },
+   {
+    "tradition": "Advaita (Gauḍapāda's Kārikā)",
+    "lineage": "lin:advaita-vedanta",
+    "why": "Non-duality alone is the ultimate: duality is māyā (GK 1.17) and only the 'difference' of the non-dual (GK 3.18); the jīvas are the one self as pot-spaces are space (GK 3.3, 3.7), and difference is censured (GK 3.13). So one and many are not two equal respects of the self.",
+    "cites": [
+     "tea:mandukya-karika:1.17",
+     "tea:mandukya-karika:3.18",
+     "tea:mandukya-karika:3.3",
+     "tea:mandukya-karika:3.7",
+     "tea:mandukya-karika:3.13"
+    ],
+    "not_citable_yet": [
+     "tea:brahma-sutra:2.2.33",
+     "tea:mandukya-karika-bhasya-sankara:4.99"
+    ]
+   }
+  ],
+  "cites": [
+   "tea:tattvartha-sutra:5.30",
+   "tea:tattvartha-sutra:2.1",
+   "tea:tattvartha-sutra:2.7",
+   "tea:tattvartha-sutra:5.16",
+   "tea:yoga-sutra:4.18",
+   "tea:chandogya-upanisad:6.2.1-2",
+   "tea:dhammapada:279"
+  ],
+  "not_citable_yet": [
+   "tea:bhagavati-sutra:7.2",
+   "tea:sanmati-tarka:kanda-1",
+   "tea:sanmati-tarka:3.47",
+   "tea:sanmati-tarka:1.3",
+   "tea:aptamimamsa:pariccheda-3",
+   "tea:aptamimamsa:24-27",
+   "tea:aptamimamsa:14",
+   "tea:aptamimamsa:104",
+   "tea:tattvartha-sutra:1.6",
+   "tea:tattvartha-sutra:1.33",
+   "tea:tattvartha-sutra:5.29",
+   "tea:tattvartha-sutra:5.31",
+   "tea:tattvartha-sutra:5.32",
+   "tea:anyayogavyavacchedika:30"
+  ],
+  "user_facing": false,
+  "user_facing_reason": "Only its ground in the nature of the existent is verified (TS 5.30). The Jain texts that state the standpoints and treat the other doctrines as one-sided (TS 1.6, 1.33, 5.31-32; Bhagavatī 7.2; Āptamīmāṃsā; Sanmati) are skeleton. Even when verified it is one party's view of the others, which the other three reject."
+ },
+ "other_candidates": [
+  {
+   "principle": "P1-level",
+   "held_by": "Advaita (Gauḍapāda)",
+   "lineage": "lin:advaita-vedanta",
+   "reading": "Non-duality is the ultimate and duality its difference; the dualists conflict with one another but this teaching does not conflict with them (GK 3.17-18); the jīvas are the one self as pot-spaces are space (GK 3.3).",
+   "why_not": "Held by one party from its own verified texts, but it relates only the plural-self views (Yoga, Jain) to the one self; nothing in it reaches 'all dhammas are not-self', and Śaṅkara on GK 4.99 says the non-dual truth was not taught by the Buddha (skeleton). Rejected by the Yoga (YS 2.22 with Vyāsa) and by the Jain texts.",
+   "cites": [
+    "tea:mandukya-karika:3.17",
+    "tea:mandukya-karika:3.18",
+    "tea:mandukya-karika:3.3",
+    "tea:mandukya-karika:4.99",
+    "tea:yoga-sutra:2.22",
+    "tea:yoga-bhasya:2.22"
+   ],
+   "not_citable_yet": [
+    "tea:mandukya-karika-bhasya-sankara:4.99",
+    "tea:aptamimamsa:24-27"
+   ]
+  },
+  {
+   "principle": "P1-level",
+   "held_by": "none of the four",
+   "reading": "The provisional row's reading: the Buddhist analysis negates only a self found among the aggregates, and the Yoga seer and the Advaita witness are never its object.",
+   "why_not": "No party's verified text makes this move. Dhp 279 negates all dhammas, not only the aggregates; the Heart Sūtra carries the negation into emptiness (s6-s7); the Upaniṣadic and Advaita texts in data/ relate nothing to the Buddhist analysis.",
+   "cites": [
+    "tea:dhammapada:279",
+    "tea:prajnaparamita-hrdaya:s6",
+    "tea:prajnaparamita-hrdaya:s7",
+    "tea:brhadaranyaka-upanisad:3.4.1-2"
+   ]
+  },
+  {
+   "principle": null,
+   "held_by": "Theravāda",
+   "lineage": "lin:theravada",
+   "reading": "Every doctrine of self is clinging to a doctrine of self, and one who grasps 'the self is eternal' takes up rites for the self's purity (Vism 17.p569-570).",
+   "why_not": "It covers all four, but only as views to be given up: it relates them as error, under no reconciliation principle. The three self-teachings reject it.",
+   "cites": [
+    "tea:visuddhimagga:17.p569",
+    "tea:visuddhimagga:17.p570"
+   ]
+  },
+  {
+   "principle": "P4-stage / P6-upaya",
+   "held_by": "Jain (Haribhadra)",
+   "lineage": "lin:jainism",
+   "reading": "The highest reality called nirvāṇa is one though named Sadāśiva, supreme brahman, perfected self and suchness; the teachers' teachings vary with their disciples' capacities (Yogadṛṣṭisamuccaya 129-134).",
+   "why_not": "Skeleton; and it relates the teachers and the goal (nirvāṇa), not the self.",
+   "cites": [],
+   "not_citable_yet": [
+    "tea:yogadrstisamuccaya:129-130",
+    "tea:yogadrstisamuccaya:133-134"
+   ]
+  },
+  {
+   "principle": "P5-neyartha / P6-upaya",
+   "held_by": "none of the four (Madhyamaka)",
+   "lineage": "lin:madhyamaka",
+   "reading": "'Self' and 'no-self' both taught, fitted to the hearer (MMK 18.6); the Buddha's silence to Vacchagotta (SN 44.10).",
+   "why_not": "MMK is not one of the four parties; both entries are skeleton; the self-teachings do not accept that their self is a teaching device.",
+   "cites": [],
+   "not_citable_yet": [
+    "tea:mulamadhyamakakarika:18.6",
+    "tea:abyakata-samyutta:44.10"
+   ]
+  }
+ ],
+ "product_wording": {
+  "reading_sentence": "Jain, Yoga, Upaniṣadic and Buddhist texts all teach that one is not the body, nor any passing state of mind. The Yoga Sūtra calls the seer's seeming oneness with the mind 'I-am-ness'; Theravāda texts teach seeing 'this is not mine, I am not this'.",
+  "reading_cites": [
+   "tea:tattvartha-sutra:8.2",
+   "tea:tattvartha-sutra:8.11",
+   "tea:tattvartha-sutra:7.12",
+   "tea:tattvartha-sutra:9.7",
+   "tea:tattvartha-sutra:2.7",
+   "tea:yoga-sutra:2.5",
+   "tea:yoga-bhasya:2.5",
+   "tea:yoga-sutra:2.20",
+   "tea:yoga-sutra:2.6",
+   "tea:yoga-bhasya:2.6",
+   "tea:chandogya-upanisad:8.12.1-2",
+   "tea:brhadaranyaka-upanisad:3.4.1-2",
+   "tea:dhammapada:279",
+   "tea:visuddhimagga:20.p638"
+  ],
+  "difference_sentence": "They differ on what is left: Jain texts, many souls whose changing states are their own; the Yoga Sūtra, many seers that never change; the Upaniṣads, a self that is brahman; Theravāda texts, nothing that is a self. These are different answers, not one.",
+  "difference_cites": [
+   "tea:tattvartha-sutra:2.1",
+   "tea:tattvartha-sutra:2.7",
+   "tea:tattvartha-sutra:10.9",
+   "tea:yoga-sutra:2.22",
+   "tea:yoga-bhasya:2.22",
+   "tea:yoga-sutra:4.18",
+   "tea:mandukya-upanisad:2",
+   "tea:brhadaranyaka-upanisad:1.4.10",
+   "tea:chandogya-upanisad:6.8.7",
+   "tea:dhammapada:279"
+  ],
+  "user_facing": true,
+  "display_rules": [
+   "Show the two sentences together, reading_sentence first; never the reading_sentence alone.",
+   "Use them on rows about the sense of 'I': asmitā (YS 2.3, 2.6) and conceit (māna) in the Theravāda sense (Vism 22.p682-683). Jain māna is pride, one of the four passions (TS 8.9): there the row's own text leads.",
+   "Never show relation.statement while it is user_facing false. After its Jain grounds are text-verified it may be shown only as 'The Jain texts hold ...', with every rejected_by entry beside it.",
+   "Never say or imply that jīva, puruṣa, ātman and not-self are the same, or views of one truth."
+  ],
+  "left_out_because_skeleton": [
+   "Jain: 'lasting as substance, not as modes' (Bhagavatī 7.2) and cognition as the soul's mark (TS 2.8); the standpoint texts (TS 1.6, 1.33, 5.31-32; Āptamīmāṃsā; Sanmati).",
+   "The P2 relation itself: its Jain grounds other than TS 5.30.",
+   "The Buddha's own 'this is not mine, this I am not, this is not my self' in SN 22.59; the same formula is quoted from Vism 20.p638 instead.",
+   "The Theravāda 'being is a designation, like a chariot' (Vism 18/2; Milinda 3.1.1/2)."
+  ]
+ },
+ "status": "not yet reconciled",
+ "checked_by_code": {
+  "data_state": "data/teachings as last merged at 2026-09-29 17:48:02 UTC",
+  "method": "insight/ontology.py citable() on every id under 'cites', 'reading_cites' and 'difference_cites'; every id under 'not_citable_yet' confirmed present in data/teachings and not citable; word limits counted by code; banned words searched.",
+  "distinct_cites": 54,
+  "all_cites_citable": true,
+  "distinct_not_citable_listed": 31,
+  "word_counts": {
+   "relation.statement": 59,
+   "reading_sentence": 44,
+   "difference_sentence": 44,
+   "position:lin:jainism": 40,
+   "position:lin:patanjala-yoga": 39,
+   "position:lin:upanisadic": 38,
+   "position:lin:theravada": 35,
+   "position:lin:mahayana": 33
+  },
+  "errors": []
+ }
+}

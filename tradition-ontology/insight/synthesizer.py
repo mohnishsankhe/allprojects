@@ -163,6 +163,23 @@ def _rec_from_equivalences(maps: list[dict], dx: dict, mapped_ids: set, seen_pai
     return diffs
 
 
+def _self_question(maps: list[dict]) -> list:
+    """Side by side, never reconciled: the four accounts of what one is (layers/tables/self_question.json)."""
+    sq = (config.json_file("rules/synthesis_rules.json") or {}).get("self_question") or {}
+    hit = [m for m in maps if m["dx_id"] in set(sq.get("triggers") or [])]
+    t = ontology.table("self_question")
+    if not hit or not t:
+        return []
+    pw = t.get("product_wording") or {}
+    cites = [c for c in (pw.get("reading_cites") or []) + (pw.get("difference_cites") or []) if ontology.citable(c)]
+    text = " ".join(x for x in (pw.get("reading_sentence"), pw.get("difference_sentence")) if x)
+    refs = sorted({e["qid"] for m in hit for e in m.get("evidence") or []})
+    if not (text and cites and refs):
+        return []
+    return [{"text": _clean(f"On the sense of 'I': {text}"), "cites": sorted(set(cites)), "evidence_refs": refs,
+             "row": "self_question"}]
+
+
 def rules_synthesis(maps: list[dict]) -> dict:
     dx = ontology.diagnosis()
     mapped_ids = {m["dx_id"] for m in maps}
@@ -196,6 +213,7 @@ def rules_synthesis(maps: list[dict]) -> dict:
         mem = d.get("members") or []
         seen |= {tuple(sorted((a, b))) for a in mem for b in mem if a != b}
     rec_diffs += _rec_from_equivalences(maps, dx, mapped_ids, seen)
+    rec_diffs = _self_question(maps) + rec_diffs
     names = [f"{m['name']}, in the {m['lens_label']} texts" for m in maps]
     summary = ("You described " + ("a pattern" if len(maps) == 1 else f"{len(maps)} patterns")
                + " that the texts name: " + "; ".join(names) + ". Each is shown below with your own words and the texts' description.")

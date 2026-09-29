@@ -6,6 +6,19 @@
     "oc:pramada-pamada": "Same word, different sense across the lenses (tables report, item 5). Held out of readings until reviewed."
   },
   "max_differences": 6,
-  "bases": {"P1-level": "level", "P2-standpoint": "standpoint", "P3-path": "path", "P4-stage": "stage"},
-  "note": "In v1 every obstacle-correspondence row is related under P2-standpoint (computed by layers/_gen/tables), so readings show standpoint reconciliations; level, path and stage are accepted from the model engine only with packet cites."
+  "bases": {
+    "P1-level": "level",
+    "P2-standpoint": "standpoint",
+    "P3-path": "path",
+    "P4-stage": "stage"
+  },
+  "note": "In v1 every obstacle-correspondence row is related under P2-standpoint (computed by layers/_gen/tables), so readings show standpoint reconciliations; level, path and stage are accepted from the model engine only with packet cites.",
+  "self_question": {
+    "triggers": [
+      "dx:klesa-asmita",
+      "dx:fetter-mana"
+    ],
+    "source": "layers/tables/self_question.json",
+    "rule": "When a reading maps an entry about the sense of 'I' (asmitā, māna), it adds ONE difference point built from self_question.json product_wording (reading_sentence + difference_sentence), with its citable cites and the person's quotes for that entry. The four accounts are shown side by side; no reconciliation is claimed (status: not yet reconciled; onto-deep verdict 2026-09-29). Display rules of self_question.json are followed: the two sentences always together; triggers are asmitā and Theravāda conceit only (for Jain māna the row's own text leads)."
+  }
 }
