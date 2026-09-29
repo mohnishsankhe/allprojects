@@ -112,6 +112,26 @@ def build():
                 t = title.replace("-", " ")
                 rows.append({"coll": "JainDB", "key": name, "title": t + " " + iast_of(t) + (" | " + author.replace("-", " ") + " " + iast_of(author.replace("-", " ")) if author else ""),
                              "path": os.path.relpath(os.path.join(nj, d), ROOT), "context": parts[2]})
+    # OpenPecha-Data repositories P000001-P001200 (README titles probed by the orchestrator into sources_raw/openpecha_titles_P.tsv):
+    # Tibetan-authored works outside the Kangyur/Tengyur (Kagyu, Nyingma, Sakya, Kadam/lojong ...). Tibetan converted to Wylie.
+    opath = os.path.join(RAW, "openpecha_titles_P.tsv")
+    if os.path.exists(opath):
+        try:
+            import pyewts
+            conv = pyewts.pyewts().toWylie
+        except Exception:
+            conv = lambda x: x
+        for ln in open(opath, encoding="utf-8"):
+            parts = ln.rstrip("\n").split("\t")
+            if len(parts) < 3:
+                continue
+            fields = [f.strip() for f in parts[2].split("|") if f.strip()]
+            fields = [f for f in fields if not re.search(r"https?://|^\[|^---|^None$|^Missing$|^test", f, re.I)]
+            if not fields:
+                continue
+            txt = " | ".join(conv(f).replace("_", " ") if re.search(r"[\u0f00-\u0fff]", f) else f for f in fields[:5])
+            rows.append({"coll": "OpenPecha", "key": parts[0], "title": txt[:400],
+                         "path": "https://github.com/OpenPecha-Data/" + parts[0]})
     with open(INDEX, "w", encoding="utf-8") as fh:
         for r in rows:
             r["n"] = norm(r["title"] + " " + r.get("context", ""))
