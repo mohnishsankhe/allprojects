@@ -257,3 +257,19 @@ def test_real_rules_mapper_smoke():
     validate_report(rep)
     assert rep["claim_hits"] == []
     assert all(e["quote"] in BENIGN for m in rep.get("mappings", []) for e in m["evidence"])
+
+
+# --- red team re-run 2, F25 ---------------------------------------------------------------------------------------
+def test_old_temperament_labels_become_the_neutral_names():
+    from insight.synthesizer import _display_labels
+    out = _display_labels("The deluded temperament is a classification of persons; the greedy temperament (rāga-carita) is first.")
+    assert "temperament" not in out and out.startswith("A pattern of confusion (moha-carita)")
+    assert out.count("(rāga-carita)") == 1
+
+
+def test_a_cite_named_only_in_a_removed_sentence_is_dropped():
+    from insight.synthesizer import _clean, _drop_stripped
+    raw = "It covers knowledge (3.38–39). Desire, anger and greed are the threefold gate of hell; give them up (16.21)."
+    text = _clean(raw)
+    kept = _drop_stripped(["tea:bhagavad-gita:3.38", "tea:bhagavad-gita:3.39", "tea:bhagavad-gita:16.21"], raw, text)
+    assert "hell" not in text and kept == ["tea:bhagavad-gita:3.38", "tea:bhagavad-gita:3.39"]

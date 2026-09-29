@@ -118,7 +118,10 @@ def _clean_inputs(raw: Any) -> dict:
         raise _err("bad_request", "'inputs' must be an object.")
     out: dict = {}
     if raw.get("age") not in (None, ""):
-        out["age"] = raw["age"] if isinstance(raw["age"], (int, str)) and not isinstance(raw["age"], bool) else None
+        # red team F6: a number that is not an int (17.5, 16.0) is kept, so the service reads it; any other type becomes
+        # text, so the service asks for the age again instead of reading it as "no age"
+        a = raw["age"]
+        out["age"] = a if isinstance(a, (int, float, str)) and not isinstance(a, bool) else str(a)
     answers = raw.get("answers") or {}
     if not isinstance(answers, dict):
         raise _err("bad_request", "'answers' must be an object.")

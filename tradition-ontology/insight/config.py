@@ -53,10 +53,10 @@ def retention_days() -> int:
 
 def engine_mode() -> str:
     """'model' (Claude API, needs a key), 'rules' (deterministic, offline) or 'auto' (model if a key is set, else rules)."""
-    m = os.environ.get("ONTO_ENGINE", "auto").lower()
+    m = os.environ.get("ONTO_ENGINE", "auto").strip().lower() or "auto"
     if m == "auto":
         return "model" if os.environ.get(routing()["api_key_env"]) else "rules"
-    return m
+    return m if m in ("model", "rules") else "unavailable"      # red team F23: a mistyped value never means rules
 
 
 def rules_only_allowed() -> bool:
@@ -71,6 +71,6 @@ def reading_engine() -> str:
     allowed explicitly, because the rules screen alone misses indirect crisis wording. `ONTO_ENGINE=rules` is an
     explicit operator choice, for development and evaluation only (RUNBOOK)."""
     m = engine_mode()
-    if m == "rules" and os.environ.get("ONTO_ENGINE", "auto").lower() == "auto" and not rules_only_allowed():
+    if m == "rules" and (os.environ.get("ONTO_ENGINE", "auto").strip().lower() or "auto") == "auto" and not rules_only_allowed():
         return "unavailable"
     return m

@@ -93,10 +93,12 @@ def test_full_reading_is_stored_and_retrievable_in_three_formats(svc, fake_mappe
     assert e.value.status == 404
 
 
-def test_unknown_engine_value_is_treated_as_rules(svc, fake_mapper):
+def test_unknown_engine_value_is_refused_not_rules(svc, fake_mapper):
+    # red team F23: a value the product does not know never falls through to a rule-only reading
     pid = _started(svc)
-    out = svc.reading(pid, {"age": 40, "free_text": BENIGN}, engine="whatever")
-    assert out["report"]["engine"] == "rules"
+    with pytest.raises(ServiceError) as e:
+        svc.reading(pid, {"age": 40, "free_text": BENIGN}, engine="whatever")
+    assert e.value.code == "model_unavailable" and e.value.status == 503 and "findahelpline.com" in e.value.message
 
 
 def test_model_engine_without_key_is_a_clear_error(svc):
@@ -241,3 +243,47 @@ def test_the_route_is_not_stored_in_plain_text(svc, store):
     raw = store.db.execute("SELECT route FROM readings WHERE id=?", (rid,)).fetchone()["route"]
     assert b"stop_crisis" not in (raw if isinstance(raw, bytes) else str(raw).encode())
     assert store.get_reading(rid)["route"] == "stop_crisis"
+
+
+# --- red team re-run 2: F23, F24, F6 -------------------------------------------------------------------------------
+@pytest.mark.parametrize("value", ["", "modle", "model ", "whatever"])
+def test_unknown_engine_setting_never_serves_rules(svc, monkeypatch, value):
+    pid = _started(svc)
+    monkeypatch.setenv("ONTO_ENGINE", value)
+    monkeypatch.delenv("ONTO_ALLOW_RULES_ONLY", raising=False)
+    with pytest.raises(ServiceError) as e:
+        svc.reading(pid, {"answers": {"q01": BENIGN}})
+    assert e.value.code == "model_unavailable"
+
+
+def test_refused_reading_still_shows_help(svc, store, monkeypatch):
+    monkeypatch.setenv("ONTO_ENGINE", "auto")
+    monkeypatch.delenv("ONTO_ALLOW_RULES_ONLY", raising=False)
+    pid = _started(svc)
+    out = svc.reading(pid, {"answers": {"q14": "I want to kill myself tonight."}})
+    assert out["reading_id"] is None and "988" in str(out["report"]["stopped"])
+    assert svc.checkin(pid, None, 1, "I want to kill myself tonight.")["stored"] is False
+    assert store.db.execute("SELECT COUNT(*) c FROM readings").fetchone()["c"] == 0
+    with pytest.raises(ServiceError) as e:
+        svc.reading(pid, {"answers": {"q01": BENIGN}})
+    assert e.value.status == 503 and "findahelpline.com" in e.value.message
+    out = svc.reading(pid, {"answers": {"q14": "I'm 16 and my exams are next month."}})
+    assert out["reading_id"] is None and not store.has_consent(pid)
+
+
+@pytest.mark.parametrize("age", [16.0, 17.5, "16.0"])
+def test_non_integer_minor_ages_are_declined(svc, store, age):
+    pid = _started(svc)
+    out = svc.reading(pid, {"age": age, "answers": {"q01": BENIGN}})
+    assert out["reading_id"] is None and not store.has_consent(pid)
+
+
+@pytest.mark.parametrize("age", ["inf", "nan", "-inf"])
+def test_non_finite_ages_are_asked_again(svc, age):
+    pid = _started(svc)
+    with pytest.raises(ServiceError) as e:
+        svc.reading(pid, {"age": age, "answers": {"q01": BENIGN}})
+    assert e.value.code == "age_required"
+    with pytest.raises(ServiceError) as e:
+        svc.start(age, True)
+    assert e.value.code == "age_required"

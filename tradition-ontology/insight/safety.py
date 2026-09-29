@@ -91,7 +91,7 @@ _MOJIBAKE = {"\u00e2\u0080\u0099": "'", "\u00e2\u0080\u0098": "'", "\u00e2\u0080
              "\u00e2\u20ac\u2122": "'", "\u00e2\u20ac\u02dc": "'", "\u00e2\u20ac\u0153": '"', "\u00e2\u20ac\u009d": '"'}
 _TEXTING = {"im": "i'm", "ive": "i've", "dont": "don't", "cant": "can't", "wont": "won't", "didnt": "didn't",
             "doesnt": "doesn't", "isnt": "isn't", "wasnt": "wasn't", "couldnt": "couldn't", "wouldnt": "wouldn't",
-            "havent": "haven't", "id": "i'd", "ill": "i'll"}
+            "havent": "haven't", "id": "i'd", "ill": "i'll", "iam": "i am"}
 
 
 def normalise(text: str, collapse: bool = True) -> str:
@@ -99,7 +99,9 @@ def normalise(text: str, collapse: bool = True) -> str:
     quotes, invisible characters removed, whitespace collapsed (so a chat line break or a double space cannot split a
     phrase), texting contractions expanded. Used only for screening; injection patterns read it uncollapsed."""
     import unicodedata
+    import html
     t = _UESC.sub(lambda m: chr(int(m.group(1), 16)), text or "")
+    t = html.unescape(t)                               # red team F21: a saved-HTML chat writes ' as &#039;
     for k, v in _MOJIBAKE.items():
         t = t.replace(k, v)
     t = unicodedata.normalize("NFKC", t).translate(_QUOTES)
@@ -157,10 +159,35 @@ When unsure whether a crisis category applies, flag it. Also report whether the 
 (injection_attempt) and whether it asks for a diagnosis, cure, prediction, astrology or fortune-telling."""
 
 
+def rule_screen_fields(fields: list[str], own: Optional[list[str]] = None, age: Optional[int] = None) -> SafetyResult:
+    """Red team F19, F20: the rules read each field on its own, so a phrase is never built across two answers, and the
+    minor category reads only the person's own words (another speaker's "I'm 15" is not the person's age). Every other
+    category reads every field, all speakers included."""
+    flags: dict = {}
+    inj = False
+    for f in fields:
+        r = rule_screen(f)
+        inj = inj or r.injection
+        for c, hits in r.flags.items():
+            if c != "minor":
+                flags.setdefault(c, []).extend(hits)
+    for f in (fields if own is None else own):
+        hits = rule_screen(f).flags.get("minor")
+        if hits:
+            flags.setdefault("minor", []).extend(hits)
+    if age is not None and age < 18:
+        flags.setdefault("minor", []).append(f"age answer: {age}")
+    res = SafetyResult(flags=flags, injection=inj)
+    res.route = _route_for(flags)
+    return res
+
+
 def screen(text: str, age: Optional[int] = None, client: Optional[ModelClient] = None,
-           ledger: Optional[Ledger] = None, require_model: bool = False) -> SafetyResult:
-    """Rules first; then the model screen when a client is available. Model flags are added, never removed."""
-    res = rule_screen(text, age)
+           ledger: Optional[Ledger] = None, require_model: bool = False,
+           fields: Optional[list[str]] = None, own: Optional[list[str]] = None) -> SafetyResult:
+    """Rules first; then the model screen when a client is available. Model flags are added, never removed.
+    With `fields`, the rules read each field on its own (rule_screen_fields); the model still reads the whole text."""
+    res = rule_screen_fields(fields, own, age) if fields is not None else rule_screen(text, age)
     if res.route == "decline_minor":
         return res                               # decline before any model call
     if client is None or not client.available():

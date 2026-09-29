@@ -37,7 +37,7 @@ def intake_questions() -> list[dict]:
 def _age_ok(age) -> Optional[int]:
     try:
         a = int(float(str(age).strip()))          # '17.5' is 17 (red team F6): never rounded up into adulthood
-    except (TypeError, ValueError):
+    except (TypeError, ValueError, OverflowError):   # 'inf' and 'nan' are not ages
         return None
     return a if 0 < a < 130 else None
 
@@ -76,14 +76,28 @@ class Service:
             if configured == "unavailable":
                 raise ServiceError("model_unavailable", "Readings need the model engine, which is not configured on this server.", 503)
             raise ServiceError("engine_not_allowed", "This server does not make rule-only readings.", 403)
-        if e == "unavailable":
-            raise ServiceError("model_unavailable", "Readings need the model engine, which is not configured on this server.", 503)
         if e == "model":
             client = self.client or ModelClient()
             if not client.available():
                 raise ServiceError("model_unavailable", "The model engine is not configured on this server.", 503)
             return e, client
-        return "rules", None
+        if e == "rules":
+            return "rules", None
+        # red team F23: 'unavailable', or any value the product does not know, never falls through to rules
+        raise ServiceError("model_unavailable", "Readings need the model engine, which is not configured on this server.", 503)
+
+    def _refused(self, pid: str, texts: list[str], own: list[str], err: ServiceError) -> dict:
+        """Red team F24: while readings are refused, the rules screen still runs, so a person in crisis gets the crisis
+        message and helplines (a minor is declined and removed), and everyone else gets a refusal that lists help.
+        Nothing is stored."""
+        scr = safety.rule_screen_fields([t for t in texts if t.strip()], [o for o in own if o.strip()])
+        if scr.route == "decline_minor":
+            self.store.delete_person(pid)
+            return {"stopped": safety.messages()["decline_minor"], "route": scr.route}
+        if scr.stop:
+            return {"stopped": scr.message(), "route": scr.route}
+        m = safety.messages()["stop_unavailable"]
+        raise ServiceError(err.code, m["body"], err.status)
 
     def reading(self, pid: str, inputs: dict, engine: Optional[str] = None, premium: bool = False) -> dict:
         self._need(pid)
@@ -99,7 +113,20 @@ class Service:
             self.store.delete_person(pid)             # red team F15: a minor is removed, whatever the route of discovery
             return {"reading_id": None, "report": {"stopped": safety.messages()["decline_minor"]},
                     "markdown": report_mod.to_markdown({"stopped": safety.messages()["decline_minor"]})}
-        e, client = self._engine(engine)
+        try:
+            e, client = self._engine(engine)
+        except ServiceError as err:
+            if err.code != "model_unavailable":
+                raise
+            from .engine import build_segments
+            texts = [*(str(v) for v in (inputs.get("answers") or {}).values() if isinstance(v, (str, int))),
+                     inputs.get("free_text") or "", inputs.get("dialogue") or ""]
+            own = [s_["text"] for s_ in build_segments(inputs)]
+            if (inputs.get("dialogue") or "").strip() and not any(s_["source"] == "dialogue" for s_ in build_segments(inputs)):
+                own.append(inputs["dialogue"])
+            out = self._refused(pid, texts, own, err)
+            rep = {"stopped": out["stopped"], "safety": {"route": out["route"], "categories": [], "model_checked": False}}
+            return {"reading_id": None, "report": rep, "markdown": report_mod.to_markdown(rep)}
         rep = run_reading(inputs, engine=e, client=client, premium=premium)
         if (rep.get("safety") or {}).get("route") == "decline_minor":
             # a minor found in the text: nothing is kept, and the person record itself is removed
@@ -133,7 +160,13 @@ class Service:
         self._need(pid)
         if not (1 <= int(day) <= 60):
             raise ServiceError("bad_day", "Day must be between 1 and 60.")
-        e, client = self._engine(engine)
+        try:
+            e, client = self._engine(engine)
+        except ServiceError as err:
+            if err.code != "model_unavailable":
+                raise
+            out = self._refused(pid, [text or ""], [text or ""], err)
+            return {"stored": False, "stopped": out["stopped"]}
         ledger = Ledger()
         if rid:
             r = self.store.get_reading(rid)

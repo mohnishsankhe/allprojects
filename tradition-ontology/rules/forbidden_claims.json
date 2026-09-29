@@ -1,6 +1,6 @@
 {
   "_note": "Automated scan for forbidden claims in ANY output (reports, pathways, posts). A hit blocks the text: the rules engine drops the sentence; the model engine rejects the output and falls back. Quoted teaching originals are exempt only inside the 'original' field. Patterns are case-insensitive.",
-  "version": "1.4",
+  "version": "1.5",
   "categories": {
     "health_cure": [
       "\\b(cure|cures|cured|curing|heal|heals|healed|healing) (your |the |my |their )?(anxiety|depression|insomnia|illness|disease|disorder|pain|trauma|condition|cancer|diabetes|blood pressure|migraines?|addiction|burnout|ptsd|adhd|ocd)\\b",
@@ -18,7 +18,8 @@
       "\\b(science|research|studies|study) (shows?|says|proves?|found)\\b",
       "\\bstop (?:taking )?(?:your |the )?(?:medicine|medicines|medication|meds|tablets|pills|treatment)\\b",
       "\\b(?:worries|worry|anxiety|stress|pain|fears?|sleeplessness|troubles?) will (?:vanish|disappear|go away|melt away|stop|end)\\b",
-      "\\bnights? will be (?:restful|peaceful|calm)\\b|\\bbrings? relief\\b"
+      "\\bnights? will be (?:restful|peaceful|calm)\\b|\\bbrings? relief\\b",
+      "\\b(?:stop|quit|drop|skip|give up|throw away|come off|get off)\\s+(?:taking\\s+|using\\s+)?(?:your |the |all )?(?:medicine|medicines|medication|medications|meds|tablets|pills|treatment|prescriptions?)\\b|\\b(?:won'?t|will not|no longer|never) need (?:your |the |any )?(?:medicine|medication|meds|tablets|pills|treatment|doctor|therapy)\\b|\\ball the (?:medicine|medication|treatment|therapy) (?:you|one) (?:need|needs)\\b"
     ],
     "diagnosis": [
       "\\byou (have|suffer from|are suffering from|show signs of|display symptoms of|are showing symptoms of) (clinical |an? )?(depression|anxiety disorder|anxiety|ptsd|adhd|ocd|bipolar|insomnia|burnout syndrome|personality disorder|trauma)\\b",
@@ -38,7 +39,8 @@
       "\\byou('ll| will) (feel|be|become|sleep|find|notice|see|get|experience|start to|begin to) (calm|calmer|better|happier|lighter|free|freer|relaxed|rested|peace|peaceful|less|more at|at ease|clarity|healed|different|improve)",
       "\\b(soon|quickly|in no time) you('ll| will)\\b",
       "\\bwithin (?:a|one|two|three|\\d+) (?:days?|weeks?|months?)\\b",
-      "\\b(?:rashi|lagna|graha|jyotish\\w*|shani|rahu|ketu|sade ?sati|manglik|mangal dosha?|kundli|janam ?kundli)\\b"
+      "\\b(?:rashi|lagna|graha|jyotish\\w*|shani|rahu|ketu|sade ?sati|manglik|mangal dosha?|kundli|janam ?kundli)\\b",
+      "\\b(?:rashi|lagna|graha|nakshatra|horoscope|kundli|kundali)s\\b|\\bshani\\w+\\b|\\bsani ?dev\\w*\\b"
     ],
     "fate_verdict": [
       "\\b(?:gates?|doors?) (?:of|to) hell\\b",

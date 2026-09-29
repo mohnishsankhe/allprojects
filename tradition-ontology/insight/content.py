@@ -272,7 +272,7 @@ def rules_check(store, body: dict, exclude_id: Optional[str] = None) -> dict:
         problems.append(f"forbidden claim: {hits[0]['match']!r}")
     if MIXED_SCRIPT.search(text):
         problems.append("a word mixes Latin with Cyrillic or Greek letters")
-    rp = RESTRICTED_IN_POST.search(claims._norm(text))
+    rp = RESTRICTED_IN_POST.search(re.sub(r"\s+", " ", claims._norm(text)))     # red team F22: a line break cannot split it
     if rp:
         problems.append(f"restricted practice named as an instruction: {rp.group(0)!r}")
     if PERSONAL_DATA.search(text):
@@ -303,6 +303,8 @@ def draft_batch(store, bucket_id: str, fmt: str, n: int = 1, engine: Optional[st
     if bucket_id not in buckets():
         raise ValueError(f"unknown bucket {bucket_id}")
     engine = engine or config.engine_mode()
+    if engine != "model":
+        engine = "rules"          # drafts are reviewed by a person before anything is posted
     if engine == "model":
         client = client or ModelClient()
         if not client.available():

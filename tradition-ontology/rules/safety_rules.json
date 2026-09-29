@@ -17,15 +17,16 @@
         "\\beveryone would be better off\\b",
         "\\bthoughts of (dying|death|ending)\\b",
         "\\b(?:wanna|want to|wish i could|going to|gonna|ready to)\\s+(?:die|end it(?: all)?|not exist|disappear|be gone for good)\\b(?!\\s+(?:of\\b|laughing\\b|from (?:laughter|boredom|embarrassment)\\b|with\\b))",
-        "\\b(?:want|wish|hope|pray|like)\\w*\\b[^.!?\\n]{0,40}\\b(?:never|not)\\s+(?:wake|waking)\\s+up\\b|\\bsleep\\b[^.!?\\n]{0,30}\\b(?:never|not)\\s+(?:wake|waking)\\s+up\\b",
+        "\\b(?:want|wish|hope|pray)\\w*\\b(?![^.!?,;\\n]{0,40}\\b(?:he|she|they|it|baby|babies|kids?|children|son|daughter|husband|wife|partner|dog|cat|alarm)\\b)[^.!?,;\\n]{0,40}\\b(?:never|not)\\s+(?:wake|waking)\\s+up\\b(?=(?:\\s+(?:again|ever|any ?more))?\\s*(?:[.!?,;]|$)|\\s+tomorrow\\b|\\s+in the morning\\b)|\\bsleep\\b[^.!?,;\\n]{0,30}\\b(?:never|not)\\s+(?:wake|waking)\\s+up\\b(?=(?:\\s+(?:again|ever|any ?more))?\\s*(?:[.!?,;]|$)|\\s+tomorrow\\b)",
         "\\bsu[ie]?c[ie]?d(?:e|al|el)\\b|\\bsuicid\\w*|\\bsucid\\w*|\\bsuiside\\w*|\\bsuicde\\w*|\\bsuicidal\\w*",
-        "(?<![\\d.,]\\s)(?<!\\d)\\bkms\\b|\\bunalive\\b|\\bend it all\\b|\\bbetter off (?:dead|without me)\\b|\\bno one would (?:miss|notice) (?:me|if i)\\b",
+        "(?<![\\d.,]\\s)(?<!\\d)(?<!one )(?<!two )(?<!three )(?<!four )(?<!five )(?<!six )(?<!seven )(?<!eight )(?<!nine )(?<!ten )(?<!few )(?<!many )(?<!some )(?<!more )(?<!several )(?<!hundred )\\bkms\\b|\\bunalive\\b|\\bend it all\\b|\\bbetter off (?:dead|without me)\\b|\\bno one would (?:miss|notice) (?:me|if i)\\b",
         "\\bjeene ka (?:mann|man|mun) nahi\\b|\\bmar(?:na| jaana| jana| jaun| jau) chaht[aei]\\b|\\bkhud ?kushi\\b|\\baa?tma ?hatya\\b|\\bzindagi (?:khatam|khatm|khatma)\\b",
         "\\b(?:pills|tablets) (?:ready|saved up|stocked)\\b|\\bi have the pills\\b",
         "\\b(?:don'?t|do not) (?:want to|wanna) (?:be alive|exist)\\b",
         "\\b(?:don'?t|do not|can'?t|cannot) (?:want to |wanna )?(?:go on|keep going|live|be alive) (?:anymore|any more|like this anymore)\\b",
-        "\\b(?:wrote|written|writing|left) (?:a |my )?(?:goodbye|farewell) (?:letters?|notes?)\\b|\\bsuicide (?:letters?|notes?)\\b",
-        "\\bjeena nahi (?:chahta|chahti|chahte|hai)\\b|\\bmar (?:jaana|jana|jaun|jau|jaunga|jaungi) (?:hai|chahta|chahti|chahte)\\b|\\bmarne ka (?:mann|man|dil) (?:karta|karti|hai)\\b|\\b(?:khud ko|apne aap ko|apni zindagi) (?:khatam|khatm) kar\\w*\\b"
+        "\\b(?:wrote|written|writing|left) (?:a |my )?(?:goodbye|farewell) (?:letters?|notes?)\\b(?![^.!?\\n]{0,40}\\b(?:colleagues?|manager|boss|team|teacher|retir\\w*|leaving|farewell party|office|class|batch|trip|travel|holiday|vacation|flight|fridge|card)\\b)|\\bsuicide (?:letters?|notes?)\\b",
+        "\\bjeena nahi (?:chahta|chahti|chahte|hai)\\b|\\bmar (?:jaana|jana|jaun|jau|jaunga|jaungi) (?:hai|chahta|chahti|chahte)\\b|\\bmarne ka (?:mann|man|dil) (?:karta|karti|hai)\\b|\\b(?:khud ko|apne aap ko|apni zindagi) (?:khatam|khatm) kar\\w*\\b",
+        "\\b(?:don'?t|do not|can'?t|cannot) see (?:the |any )?(?:point|reason) (?:in|of|to) (?:living|being alive|going on|carrying on|live)\\b|\\bwhat(?:'s| is) the point (?:of|in) (?:living|being alive|going on)\\b"
       ]
     },
     "self_harm": {
@@ -47,9 +48,9 @@
         "\\bafraid (he|she|they)('ll| will)? (hurt|kill) me\\b",
         "\\bnot safe at home\\b",
         "\\b(forces|forced|forcing) me to have sex\\b",
-        "\\b(?:punched|slapped|kicked|strangled|choked|shoved|smacked) me\\b(?! out\\b)|\\b(?:pushed|shoved) me (?:down|against|into (?:a |the )?wall|off|to the (?:floor|ground))\\b|\\b(?:he|she|they|my (?:husband|wife|partner|boyfriend|girlfriend|father|mother|dad|mum|mom|stepfather|stepmother|brother|sister|in-laws?|father-in-law|mother-in-law|son|uncle|aunt|boss))\\b[^.!?\\n]{0,20}\\b(?:beat|beats|hit|hits|beating|hitting) me\\b(?! (?:up|at|in|to|on)\\b)",
+        "(?<!baby )(?<!toddler )\\b(?:punched|slapped|kicked|strangled|choked|shoved|smacked) me\\b(?! out\\b)(?![^.!?\\n]{0,30}\\bin (?:his|her|their|my) sleep\\b)|\\b(?:pushed|shoved) me (?:down|against|into (?:a |the )?wall|off|to the (?:floor|ground))\\b|\\b(?:he|she|they|my (?:husband|wife|partner|boyfriend|girlfriend|father|mother|dad|mum|mom|stepfather|stepmother|brother|sister|in-laws?|father-in-law|mother-in-law|son|uncle|aunt|boss))\\b[^.!?\\n]{0,20}\\b(?:beat|beats|hit|hits|beating|hitting) me\\b(?! (?:up|at|in|to|on)\\b)",
         "\\bafraid (?:to go|of going) home\\b",
-        "\\braises? (?:his|her|their) hands? (?:on|at|against) me\\b|\\b(?:locks?|locked) me (?:in|up|inside)\\b"
+        "\\braises? (?:his|her|their) hands? (?:on|at|against) me\\b|\\b(?:he|she|they|husband|wife|partner|boyfriend|girlfriend|father|mother|dad|mum|mom|parents|in-laws?|father-in-law|mother-in-law|brother|sister|uncle|aunt|son|boss)\\b[^.!?\\n]{0,30}\\b(?:lock|locks|locked) me (?:in|up|inside)\\b"
       ]
     },
     "psychosis": {
@@ -63,7 +64,7 @@
         "\\b(tv|television|radio|phone|government|aliens?) (is|are) (sending|talking to|controlling|reading) (me|my)\\b",
         "\\bthoughts (are )?(being )?(inserted|put into my head|broadcast|stolen)\\b",
         "\\b(i am|i'm) (being )?(chosen|sent) (by god|by the gods|by the universe) to\\b",
-        "\\bthe voices\\b(?! of\\b)|\\bvoices (?:say|says|tell|telling|keep telling|saying|told)\\b",
+        "\\bvoices? (?:say|says|tell|telling|keep telling|saying|told|command|commands)\\b|\\b(?:the |these |those )?voices (?:in|inside) my (?:head|mind)\\b|\\b(?:hear|hearing|heard) (?:the )?voices\\b(?! of\\b)",
         "\\b(?:being|am being|they are) (?:watched|followed|tracked) (?:by|through)\\b"
       ]
     },
@@ -73,7 +74,7 @@
         "\\bchest (pain|pains|tightness)\\b",
         "\\b(can'?t|cannot|can not|struggling to) breathe\\b",
         "\\b(having|had|think i'?m having) a (heart attack|stroke|seizure|fit)\\b",
-        "\\b(fainted|fainting|passed out|passing out|lost consciousness|unconscious)\\b",
+        "\\b(fainted|fainting|passed out|passing out|lost consciousness|unconscious)\\b(?!\\s+(?:of|from) (?:the )?(?:college|school|university|iit|iim|academy|institute|course)\\b)",
         "\\bbleeding (heavily|a lot|won'?t stop|that won'?t stop)\\b",
         "\\btook (too many|an overdose of|a lot of|a bottle of|all my) (pills|tablets|medicine|medication)\\b",
         "\\b(face|arm|one side) (is )?(drooping|numb|went numb)\\b",
@@ -105,14 +106,14 @@
       "route": "decline_minor",
       "patterns": [
         "\\bi('m| am)\\s+(?:a\\s+|an?\\s+|only\\s+|just\\s+)?(1[0-7]|[5-9])\\b(?!\\s*(%|percent|minutes|mins|hours|hrs|days|weeks|months|kg|kilos|pounds|lbs|km|miles|times|people|messages|emails|years?\\b(?!\\s*old)))",
-        "(?<!was )(?<!were )(?<!is )(?<!are )(?<!my )(?<!our )(?<!his )(?<!her )(?<!their )(?<!your )\\b(1[0-7]|[5-9])\\s*(years old|year old|yrs old|y/o|yo)\\b(?!\\s+(?:son|daughter|child|kid|boy|girl|brother|sister|nephew|niece|student|cousin))",
+        "(?<!a )(?<!an )(?<!the )(?<!was )(?<!were )(?<!is )(?<!are )(?<!my )(?<!our )(?<!his )(?<!her )(?<!their )(?<!your )\\b(1[0-7]|[5-9])\\s*(years old|year old|yrs old|y/o|yo)\\b(?!\\s+(?:son|daughter|child|kid|boy|girl|brother|sister|nephew|niece|student|cousin))",
         "\\bi('m| am) (a )?(minor|teenager|teen)\\b",
         "\\bi('m| am) (in|still in) (high school|middle school|secondary school|junior high|grade ([1-9]|1[0-2])|class ([1-9]|1[0-2]))\\b",
         "\\bunder 18\\b",
         "\\bmy (school|class) teacher (said|says|gave)\\b",
         "\\b(?:as|i'?m|i am|being)\\s+(?:a |an )?(1[0-7]|[5-9])[\\s-]*(?:years?[\\s-]*old|yrs?[\\s-]*old|y/?o)\\b(?!\\s+(?:son|daughter|child|kid|brother|sister|nephew|niece|cousin)\\b)",
-        "\\b(?:i'?m|i am|aged?)\\s+(?:thirteen|fourteen|fifteen|sixteen|seventeen)\\b(?!\\s*(?:minutes|hours|days|weeks|months|years?\\b(?!\\s*old)))",
-        "\\bi\\s*\\((?:1[0-7])\\s*[mf]?\\)|\\((?:1[0-7])\\s*[mf]\\)",
+        "\\b(?:i'?m|i am)\\s+(?:aged\\s+)?(?:thirteen|fourteen|fifteen|sixteen|seventeen)\\b(?!\\s*(?:minutes|hours|days|weeks|months|years?\\b(?!\\s*old)))",
+        "\\b(?:i|me|myself)\\s*\\(\\s*(?:1[0-7])\\s*[mf]?\\s*\\)|\\b(?:i|me|myself)\\s*\\(\\s*[mf]\\s*(?:1[0-7])\\s*\\)|^\\s*\\(\\s*(?:1[0-7])\\s*[mf]\\s*\\)",
         "\\b(?:i'?m|i am) (?:in|studying in|still in) (?:class |std\\.? |standard |grade )?(?:[6-9]|1[0-2])(?:st|nd|rd|th)\\b(?! (?:year|semester|sem|month|week|floor|place|position|row|round|attempt|house|flat)s?\\b)"
       ]
     },
@@ -124,19 +125,19 @@
     }
   },
   "injection_patterns": [
-    "\\bignore (all |any |the |your )?(previous|prior|above|earlier) (instructions|rules|prompts?)\\b",
-    "\\b(system prompt|developer message|you are now|act as (?:a |an |my |the )?(?:ai|assistant|chatbot|system|model|doctor|therapist|astrologer|psychic|guru|developer)\\b|pretend (you are|you're|to be (an? |the |my )?(ai|assistant|chatbot|system|model|developer|doctor|astrologer))|jailbreak|dan mode)\\b",
+    "\\b(?:ignore|disregard|forget)(?: all| any| the| your| of)*\\s+(?:previous|prior|above|earlier|old)\\s+(?:instructions|rules|prompts?)\\b",
+    "\\b(system prompt|developer message|you are now|from now on,? you(?: are|'re)|(?<!\\bi )(?<!\\bwe )(?<!\\bme to )(?<!\\bus to )act as (?:a |an |my |the )?(?:ai|assistant|chatbot|system|model|doctor|therapist|astrologer|psychic|guru|developer)\\b|pretend (you are|you're|to be (an? |the |my )?(ai|assistant|chatbot|system|model|developer|doctor|astrologer))|jailbreak|dan mode)\\b",
     "\\b(diagnose|diagnosis of) me\\b",
     "\\b(tell|predict|forecast) (me )?(my )?(future|fate|destiny)\\b",
-    "\\b(?:tell me|predict|can you (?:tell|see)|will you tell me|show me) what will happen\\b|\\bwhat will happen (?:in my life|next year|in the future)\\b",
+    "\\b(?:tell me|predict|can you (?:tell|see)|will you tell me|show me) what will happen\\b|\\b(?:tell|show) me when (?:i(?:'ll| will)|will i)\\b",
     "\\b(kundali|horoscope|birth chart|zodiac|nakshatra)\\b",
     "(?m)^\\s*(?:system|assistant|developer|admin)\\s*:",
-    "\\b(?:safety (?:check|screen|filter)s? (?:passed|disabled|off|is off)|override (?:the )?(?:safety|rules)|new instructions?)\\b",
+    "\\b(?:safety (?:check|screen|filter)s? (?:passed|disabled|off|is off)|override (?:the )?(?:safety|rules)|(?:here are|these are|follow) (?:your |my )?new instructions|your new instructions)\\b",
     "\\b(?:teach|tell|give|show|explain to) me (?:how to )?(?:hold|retain|stop|suspend) (?:my|the) breath\\b",
     "\\b(?:kumbhaka|kevala kumbhaka|khecari|khecarī|bhastrika|mula ?bandha)\\b",
     "(?:पिछले|पूर्व) (?:सभी )?निर्देश|निर्देशों को (?:अनदेखा|नज़रअंदाज़|नजरअंदाज|भूल)|सिस्टम प्रॉम्प्ट",
     "\\b(?:give|make|design|plan|suggest|prescribe|recommend|write)\\s+(?:me\\s+)?(?:a|an|my)\\s+(?:\\d+|forty|long|extended)[- ]day\\s+(?:\\w+\\s+)?fast\\b|\\bfasting (?:plan|schedule|regime)\\b|\\bhow (?:long|many days) (?:should|can) i fast\\b",
-    "\\b(?:please|can you|could you|you (?:must|should)|i want you to|make sure (?:you|to))\\s+(?:say|write|state|claim|promise|confirm|guarantee)\\b[^.?!\\n]{0,60}\\b(?:will|would|can) (?:cure|heal|fix|end)\\b|\\b(?:say|write|state) (?:it )?(?:in|on) (?:the|this|my) (?:report|reading)\\b[^.?!\\n]{0,60}\\b(?:will|would|can) (?:cure|heal|fix|end)\\b",
+    "\\b(?:please|can you|could you|you (?:must|should)|i want you to|make sure (?:you|to))\\s+(?:say|write|state|claim|promise|confirm|guarantee|put in writing|put it in writing)\\b[^.?!\\n]{0,80}\\b(?:guarantee\\w*|(?:will|would|can) (?:cure|heal|fix|end|be gone|go away|vanish|disappear|stop))\\b",
     "\\b(?:day[- ]by[- ]day|daily) (?:austerity|fasting|fast) plan\\b|\\b(?:give|make|write|design) (?:me )?(?:an? )?austerity plan\\b",
     "\\b(?:give|make|write|design|send|share|create|need|want)\\s+(?:me\\s+)?(?:a |an |my )?(?:complete |full |detailed |strict |daily )?(?:austerity|fasting) plan\\b",
     "\\b(?:exact |detailed )?(?:steps|instructions|technique|method|how) (?:to|for) (?:hold|holding|retain|retaining|stop|stopping|suspend) (?:my|the|your) breath\\b",
@@ -147,5 +148,6 @@
   ],
   "_simile_note": "Orchestrator 2026-09-29 (P6): spans matching simile_exceptions (a simile marker + an idiom like 'hit by a bus') are removed before the category patterns run. Literal statements ('I was hit by a car') are still screened; the model screen, when on, reads the full text.",
   "_normalisation_note": "Orchestrator P6 (red team F1): rule_screen normalises text first (NFC; curly quotes and apostrophes to ASCII; zero-width characters removed; texting forms im/dont/cant/wont/ive/didnt/doesnt/isnt expanded) so that phone typing cannot bypass the patterns.",
-  "_redteam_note": "Orchestrator P6: red-team re-run F12-F14, F18 fixes applied verbatim from eval/redteam/RED_TEAM.md (checked there in simulation: 51 positives stopped, 27 ordinary sentences continue)."
+  "_redteam_note": "Orchestrator P6: red-team re-run F12-F14, F18 fixes applied verbatim from eval/redteam/RED_TEAM.md (checked there in simulation: 51 positives stopped, 27 ordinary sentences continue).",
+  "_redteam2_note": "Red team Re-run 2 (F19-F21) and judge re-run 4 probes: crisis_suicide 12/14/19 narrowed, a 'no point in living' pattern added, abuse 6/8 and psychosis 8 narrowed, minor 1/7/8 narrowed (the minor category reads only the person's own words, insight.safety.rule_screen_fields), 'passed out of college' is not an emergency; injection 0/1/4/7/12 scoped to requests addressed to the reading."
 }

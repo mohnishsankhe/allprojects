@@ -73,7 +73,7 @@ def person_text(segs: list[dict]) -> str:
 def _age(inputs: dict) -> Optional[int]:
     try:
         return int(float(str(inputs.get("age")).strip())) if inputs.get("age") not in (None, "") else None
-    except (TypeError, ValueError):
+    except (TypeError, ValueError, OverflowError):     # red team F6: "inf" and "nan" are not ages
         return None
 
 
@@ -92,9 +92,18 @@ def run_reading(inputs: dict, engine: str = "rules", client: Optional[ModelClien
     use_model = engine == "model"
     raw = "\n".join([*(str(v) for v in (inputs.get("answers") or {}).values() if isinstance(v, (str, int))),
                       inputs.get("free_text") or "", inputs.get("dialogue") or ""])
-    # the screen reads everything the person pasted (all speakers, unparsed lines): a crisis signal anywhere stops it
-    scr = safety.screen(raw + (f"\nAge: {inputs.get('age')}" if inputs.get("age") else ""), age=_age(inputs),
-                        client=client if use_model else None, ledger=ledger, require_model=use_model)
+    # the screen reads everything the person pasted (all speakers, unparsed lines): a crisis signal anywhere stops it.
+    # Red team F19, F20: the rules read each field on its own, and the minor check reads only the person's own words.
+    age_line = [f"Age: {inputs.get('age')}"] if inputs.get("age") else []
+    fields = [*(str(v) for v in (inputs.get("answers") or {}).values() if isinstance(v, (str, int))),
+              inputs.get("free_text") or "", inputs.get("dialogue") or "", *age_line]
+    own = [s_["text"] for s_ in segs] + age_line
+    dlg = inputs.get("dialogue") or ""
+    if dlg.strip() and not any(s_["source"] == "dialogue" for s_ in segs):
+        own.append(dlg)                 # the speaker is not resolved: the whole dialogue counts, erring towards the minor rule
+    scr = safety.screen(raw + ("\n" + age_line[0] if age_line else ""), age=_age(inputs),
+                        client=client if use_model else None, ledger=ledger, require_model=use_model,
+                        fields=[f for f in fields if f.strip()], own=[o for o in own if o.strip()])
     report["safety"] = {"route": scr.route, "categories": sorted(scr.flags), "model_checked": scr.model_checked,
                         "injection": scr.injection}
     msg = scr.message()
@@ -203,9 +212,23 @@ def finalize(report: dict, segs: list[dict]) -> None:
                                                          "basis_quote"))
 
 
+def _ref_named(tid: str, text: str) -> bool:
+    """Is the verse number of this cite written in the text (e.g. '16.21' for tea:bhagavad-gita:16.21)?"""
+    ref = tid.split(":")[-1].split("-")[0].replace(":", ".")
+    t = (text or "").replace(":", ".").replace("–", "-")
+    return bool(ref) and re.search(rf"(?<![\d.]){re.escape(ref)}(?![\d])", t) is not None
+
+
 def _strip_uncitable(obj) -> None:
-    """In place: keep only citable ids in every 'cites' list; scrub forbidden-claim sentences from free-text fields."""
+    """In place: keep only citable ids in every 'cites' list; scrub forbidden-claim sentences from free-text fields.
+    Red team F25: when a sentence is scrubbed, a cite whose verse only that sentence named is dropped with it."""
     if isinstance(obj, dict):
+        if isinstance(obj.get("text"), str) and isinstance(obj.get("cites"), list):
+            old = obj["text"]
+            new = claims.strip_sentences(old)
+            if new != old:
+                obj["cites"] = [c for c in obj["cites"]
+                                if not (isinstance(c, str) and _ref_named(c, old) and not _ref_named(c, new))]
         for k, v in list(obj.items()):
             if k == "cites" and isinstance(v, list):
                 obj[k] = [t for t in v if isinstance(t, str) and ontology.citable(t)]

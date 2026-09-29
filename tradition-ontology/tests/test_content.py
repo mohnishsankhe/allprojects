@@ -178,3 +178,14 @@ def test_model_error_falls_back_to_rules_draft_but_check_step_error_blocks(store
     c, _ = client_with({"content_draft": RuntimeError("down"), "content_check": RuntimeError("down")})
     out = content.draft_batch(store, bucket, "x_post", n=1, engine="model", client=c)
     assert out["queued"] == [] and any("draft step failed" in json.dumps(f) for f in out["failed"])
+
+
+# --- red team F22: a line break cannot split a restricted practice; stop-medication and plural astrology terms ---------
+@pytest.mark.parametrize("extra", ["Tonight, hold your\nbreath for as long as you can.",
+                                   "Quit your medication; this verse is all the medicine you need.",
+                                   "For all twelve rashis and the nine grahas, this verse pleases Shanidev."])
+def test_red_team_rerun2_bad_edits_fail_the_checks(store, bucket, extra):
+    scene, item = content.pick(store, bucket, "x_post")
+    body = content.rules_draft(bucket, "x_post", scene, item)
+    bad = dict(body, parts=[extra + " " + body["parts"][0]])
+    assert not content.rules_check(store, bad)["passed"]

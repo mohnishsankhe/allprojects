@@ -48,8 +48,35 @@ def _definition(entry: dict) -> tuple[str, list[str]]:
     return "", []
 
 
+_CARITA = {"greedy": ("a pattern of craving", "rāga"), "hating": ("a pattern of aversion", "dosa"),
+           "deluded": ("a pattern of confusion", "moha"), "faithful": ("a pattern of faith", "saddhā"),
+           "intelligent": ("a pattern of discernment", "buddhi"), "discerning": ("a pattern of discernment", "buddhi"),
+           "speculative": ("a pattern of much thinking", "vitakka")}
+_CARITA_RE = re.compile(r"\b(?:[Tt]he |[Aa] )?(greedy|hating|deluded|faithful|intelligent|discerning|speculative) temperament\b"
+                        r"(\s*\((?:rāga|dosa|moha|saddhā|buddhi|vitakka)-carita\))?")
+
+
+def _display_labels(text: str) -> str:
+    """Red team F25: the product's neutral names for the six temperaments, never 'the greedy/deluded temperament'."""
+    def sub(m):
+        name, pali = _CARITA[m.group(1)]
+        start = m.start() == 0 or text[max(0, m.start() - 2):m.start()].rstrip().endswith((".", ":", "—"))
+        return (name[0].upper() + name[1:] if start else name) + f" ({pali}-carita)"
+    return _CARITA_RE.sub(sub, text)
+
+
 def _clean(text: str) -> str:
-    return claims.strip_sentences(text or "").strip()
+    return _display_labels(claims.strip_sentences(text or "").strip())
+
+
+NOT_A_VERDICT = " The texts describe signs that can arise and pass; this is not a judgement about who you are."
+
+
+def _not_a_verdict(text: str, *entries: dict) -> str:
+    """Red team F17, F25: every point that names a temperament or a guna says it is not a judgement of the person."""
+    if any((x or {}).get("kind") in ("temperament", "guna") for x in entries) and NOT_A_VERDICT.strip() not in text:
+        return text + NOT_A_VERDICT
+    return text
 
 
 def _direct_point(m: dict, entry: dict) -> Optional[dict]:
@@ -57,10 +84,11 @@ def _direct_point(m: dict, entry: dict) -> Optional[dict]:
     dtext, dcites = _definition(entry)
     if not (q and dtext and refs):
         return None
-    text = _clean(f"Your words “{q}” {FIT.get(m.get('confidence'), 'may fit')} what {TRAD_NAME[entry['lens']]} call "
-                  f"{entry['name']}. {dtext}")
-    if entry.get("kind") in ("temperament", "guna"):
-        text += " The texts describe signs that can arise and pass; this is not a judgement about who you are."
+    raw = (f"Your words “{q}” {FIT.get(m.get('confidence'), 'may fit')} what {TRAD_NAME[entry['lens']]} call "
+           f"{entry['name']}. {dtext}")
+    text = _clean(raw)
+    dcites = _drop_stripped(dcites, raw, text)
+    text = _not_a_verdict(text, entry)
     named = _cites_named(dcites, text)          # drop cites whose sentence was removed (red team F17)
     return {"text": text, "cites": sorted(set(named or dcites)), "evidence_refs": refs, "dx_id": entry["id"], "via": None}
 
@@ -104,8 +132,11 @@ def _equiv_point(m: dict, entry: dict, e: dict) -> Optional[dict]:
         return None
     if not _grounded(t["id"], [ev["quote"] for ev in m.get("evidence") or []]):
         return None
-    text = _clean(f"Read through {TRAD_NAME[t['lens']]}, your words “{q}” come closest to what they call {t['name']} "
-                  f"({GRADE_WORDS[e['grade']]} for {entry['name']}). {tdef}")
+    raw = (f"Read through {TRAD_NAME[t['lens']]}, your words “{q}” come closest to what they call {t['name']} "
+           f"({GRADE_WORDS[e['grade']]} for {entry['name']}). {tdef}")
+    text = _clean(raw)
+    tcites = _drop_stripped(tcites, raw, text)
+    text = _not_a_verdict(text, entry, t)
     return {"text": text, "cites": sorted(set(tcites)), "evidence_refs": refs, "dx_id": t["id"], "via": entry["id"]}
 
 
@@ -131,6 +162,12 @@ def _mentioned(tid: str, text: str) -> bool:
     abbrs = ABBR.get(slug)
     if not abbrs or not any(a in text for a in abbrs):
         return False
+    return _ref_in(tid, text)
+
+
+def _ref_in(tid: str, text: str) -> bool:
+    """Is this cite's verse number written in the text, with or without the text's abbreviation (ranges included)?"""
+    slug, _, ref = tid[4:].partition(":")
     t = _norm_ref(text)
     if slug == "visuddhimagga":
         ch, _, page = ref.partition(".p")
@@ -156,6 +193,11 @@ def _cites_named(cites: list, text: str) -> list:
     return [c for c in cites if _mentioned(c, text)]
 
 
+def _drop_stripped(cites: list, raw: str, cleaned: str) -> list:
+    """Red team F25: a cite whose verse was named only in a sentence that _clean removed goes with that sentence."""
+    return [c for c in cites if not (_ref_in(c, raw) and not _ref_in(c, cleaned))]
+
+
 def _for_you(maps_hit: list) -> str:
     """The person-specific anchor for a general point: the words that mapped the pattern."""
     for m in maps_hit:
@@ -176,9 +218,12 @@ def _counterpart_point(m: dict, entry: dict, e: dict) -> Optional[dict]:
     if not (refs and tcites and tdef) or e.get("grade") not in ("exact", "same-under-standpoint", "partial"):
         return None
     tn = TRAD_NAME[t["lens"]]
-    text = _clean(f"{tn[0].upper() + tn[1:]} have their own account of a pattern like the one above: "
-                  f"{t['name']} ({GRADE_WORDS[e['grade']]} for {entry['name']}). {tdef} Your words were matched to "
-                  f"{entry['name']}, not to this; it is shown so that both readings are in view.")
+    raw = (f"{tn[0].upper() + tn[1:]} have their own account of a pattern like the one above: "
+           f"{t['name']} ({GRADE_WORDS[e['grade']]} for {entry['name']}). {tdef} Your words were matched to "
+           f"{entry['name']}, not to this; it is shown so that both readings are in view.")
+    text = _clean(raw)
+    tcites = _drop_stripped(tcites, raw, text)
+    text = _not_a_verdict(text, entry, t)
     return {"text": text, "cites": sorted(set(tcites)), "evidence_refs": refs, "dx_id": t["id"], "via": entry["id"],
             "counterpart_only": True}
 
@@ -232,11 +277,12 @@ def _rec_from_rows(maps: list[dict], dx: dict, mapped_ids: set) -> tuple[list, l
             text = _clean(f"{anchor}{agree.rstrip('.') or 'The texts name a closely related pattern'}. Under the one-truth "
                           f"principle, {BASIS_WORDS[basis]}: the match is {GRADE_WORDS.get(r.get('grade'), 'partial')}, "
                           f"not an identity.")
+            text = _not_a_verdict(text, *[dx.get(x) for x in mem])
             named = _cites_named(cites, text)          # each text carries only the verses it actually names
             if named:
                 points.append({"text": text, "basis": basis, "cites": named, "evidence_refs": refs, "row": key})
         if differ and cites and refs:
-            dtext = _clean(f"{anchor}{differ}")
+            dtext = _not_a_verdict(_clean(f"{anchor}{differ}"), *[dx.get(x) for x in mem])
             named = _cites_named(cites, dtext)
             if named:
                 diffs.append({"text": dtext, "cites": named, "evidence_refs": refs, "row": key, "members": sorted(mem)})
@@ -261,7 +307,8 @@ def _rec_from_equivalences(maps: list[dict], dx: dict, mapped_ids: set, seen_pai
                 continue
             seen_pairs.add(pair)
             _, refs = _first_quote(m)
-            dtext = _clean(f"{_for_you([m])}{entry['name']} and {e['_t']['name']} are {GRADE_WORDS[e['grade']]}. {e['note']}")
+            dtext = _not_a_verdict(_clean(f"{_for_you([m])}{entry['name']} and {e['_t']['name']} are {GRADE_WORDS[e['grade']]}. {e['note']}"),
+                                   entry, e["_t"])
             named = _cites_named(list(e["cites"]), dtext)     # only the verses the note actually names
             if named:
                 diffs.append({"text": dtext, "cites": named, "evidence_refs": refs, "pair": list(pair)})

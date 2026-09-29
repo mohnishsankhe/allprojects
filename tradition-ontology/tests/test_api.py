@@ -340,3 +340,10 @@ def test_person_id_is_never_taken_from_the_url(client):
 def test_the_public_page_offers_no_engine_choice():
     assert 'id="engine"' not in (WEB / "index.html").read_text("utf-8")
     assert "body.engine" not in (WEB / "app.js").read_text("utf-8")
+
+
+def test_a_json_float_age_under_18_is_declined(client):
+    pid = start(client)
+    r = client.post("/api/reading", json={"person_id": pid, "inputs": {"age": 17.5, "answers": {"q01": BENIGN}}})
+    assert r.status_code == 200 and r.json()["reading_id"] is None
+    assert client.get("/api/me", headers={"x-person-id": pid}).status_code == 403
