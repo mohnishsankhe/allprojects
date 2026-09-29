@@ -66,3 +66,7 @@ Conservative choices made without asking, with reasons. Newest last.
 - 2026-09-28 ~09:20 IST every running subagent (13) stopped with "You've hit your weekly limit · resets Sep 29, 10am (UTC)". Partial shards were committed as they stood. Resumed after the reset (2026-09-29 15:59 IST) by messaging each stopped agent (it continues from its own transcript and the files on disk), not by relaunching, so no finished work is redone.
 - Pacing from now on: at most ~10 concurrent subagents, and the orchestrator keeps merges/atlas builds to milestones, because the weekly allowance — not wall time — is the binding constraint. Nothing in scope is dropped; the run simply continues across allowance windows.
 - U31 (sound arts) had already handed back its complete report before the stop; saved (0 validator errors).
+
+## 2026-09-29 16:05 IST — Gītā extraction: scheme for split verses (merger ch04-06)
+- Every verse keeps one whole-verse entry. A half-verse "/2" entry is not kept when the halves are one thought. A sentence-span entry `tea:bhagavad-gita:<c>.<v1>-<v2>` is kept only when one verse of the sentence has no main clause and the span states a ground, result or definition (ch04-06: 5.8-9, 5.27-28, 6.20-23). Instructional sequences run verse by verse with a "[continuing <ref>]" marker. Applies to all later Gītā chunks.
+- Skeleton reconciliation ch4–6: 67 → 63 upgrade, 4 correct (5.14-15, 6.10-32, 6.13-14, 6.40-45: the skeleton had put a commentator's gloss into the paraphrase), 0 retire.
