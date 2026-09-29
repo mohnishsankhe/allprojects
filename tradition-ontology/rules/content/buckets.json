@@ -1,0 +1,791 @@
+{
+  "version": "1.0",
+  "_note": "Content engine pools (ENGINE_SPEC.md §14). Each post joins ONE scene to ONE teaching from its bucket's pool. Every tid must pass insight.ontology.citable(); the engine re-checks at pick time. 'point' is the teaching's own point (≤25 words); 'angle' is reader-facing and may appear in posts (≤30 words, one carousel slide). Scenes are invented, generic and free of personal data; each works as a post's first sentence. 'never' lists bucket-specific bans on top of rules/forbidden_claims.json, rules/tone.md and rules/content/originality.md.",
+  "buckets": [
+    {
+      "id": "work",
+      "name": "Work pressure and burnout",
+      "audience": "Working people carrying long days, full inboxes and the weight of results, who want an old, steady way to look at the work in front of them.",
+      "scenes": [
+        "An email marked urgent lands at 10:40 at night.",
+        "The to-do list is longer at six in the evening than it was at nine.",
+        "A colleague presents your idea in the meeting as their own.",
+        "The laptop comes along on the family holiday, just in case.",
+        "Review week, and the form asks you to describe your impact.",
+        "Back-to-back calls, and lunch is eaten standing at the desk.",
+        "One more project gets a yes before the last one is done.",
+        "A report goes out to the whole team with a mistake on page two.",
+        "The promotion goes to someone else.",
+        "A project you cared about is cancelled after six months.",
+        "Sunday evening, and Monday has already started in your head.",
+        "A message from the manager: 'Quick call?' and nothing more.",
+        "A sharp reply sits in the drafts folder, cursor blinking.",
+        "Praise in the team meeting, and the wish to hear it again tomorrow.",
+        "A new colleague asks how the system works, on the busiest day of the month."
+      ],
+      "teaching_pool": [
+        {
+          "tid": "tea:bhagavad-gita:2.47",
+          "point": "Kṛṣṇa tells Arjuna his right is to the action alone, never to its fruits, and not to cling to inaction either.",
+          "angle": "The work is in your hands; how it is received never was. The verse also closes the other door: dropping the work is not its answer."
+        },
+        {
+          "tid": "tea:bhagavad-gita:2.48",
+          "point": "Act without clinging, Kṛṣṇa says, the same in success and failure; that sameness (samatva) is called yoga.",
+          "angle": "Before the result comes in, the verse asks for one thing: to do the work the same way whether it lands or not."
+        },
+        {
+          "tid": "tea:bhagavad-gita:2.50",
+          "point": "Yoga, the Gītā says, is skill in actions (karmasu kauśalam), for one whose understanding is held steady.",
+          "angle": "In the verse, skill belongs to understanding held steady while acting. It speaks of how the work is done, not how much of it gets done."
+        },
+        {
+          "tid": "tea:bhagavad-gita:3.8",
+          "point": "Do your allotted work (niyataṃ karma), Kṛṣṇa says; action is better than inaction, and even keeping the body going needs it.",
+          "angle": "The verse asks for allotted work, not all the work there is. On a day of forty requests, that one word, allotted, is worth sitting with."
+        },
+        {
+          "tid": "tea:bhagavad-gita:3.19",
+          "point": "Always without attachment, do the work that has to be done, Kṛṣṇa says; acting unattached, a person reaches the highest.",
+          "angle": "The task list stays the same. What the verse changes is the grip: the work that has to be done, done without holding on to it."
+        },
+        {
+          "tid": "tea:bhagavad-gita:4.20",
+          "point": "Free of attachment to results, ever content, depending on nothing, such a person does nothing at all, the Gītā says, even while fully busy.",
+          "angle": "A full calendar and an unclenched mind are not opposites in this verse. The busyness is outside; what it asks for is the not-clinging inside."
+        },
+        {
+          "tid": "tea:bhagavad-gita:4.22",
+          "point": "Content with what comes unasked, free of envy, the same in success and failure, such a person acts and is not bound.",
+          "angle": "When a colleague's win stings, notice what the verse sets side by side: freedom from envy (vimatsara) and contentment with what comes."
+        },
+        {
+          "tid": "tea:bhagavad-gita:5.10",
+          "point": "One who acts without clinging, offering the work to Brahman, is not stained, the Gītā says, as a lotus leaf is not wet by water.",
+          "angle": "The lotus leaf sits in the pond all day. The image is not about leaving the water; it is about how the water runs off."
+        },
+        {
+          "tid": "tea:bhagavad-gita:6.1",
+          "point": "The true renouncer and yogin, Kṛṣṇa says, is one who does the work to be done without depending on its fruit.",
+          "angle": "No retreat is needed for this. The verse finds renunciation inside ordinary work: doing it without leaning on what it will bring back."
+        },
+        {
+          "tid": "tea:bhagavad-gita:12.16",
+          "point": "Kṛṣṇa praises one who is capable (dakṣa), pure and impartial, who expects nothing, is rid of distress and relinquishes every undertaking.",
+          "angle": "Capable and expecting nothing sit in the same verse. Being good at the work and not needing it to pay you back are held together."
+        },
+        {
+          "tid": "tea:bhagavad-gita:12.18",
+          "point": "The one dear to Kṛṣṇa is the same toward enemy and friend, in honour and dishonour, in cold and heat, pleasure and pain.",
+          "angle": "Praise on Monday, criticism on Thursday. The verse lists honour and dishonour right beside cold and heat, and asks for the same evenness toward both."
+        },
+        {
+          "tid": "tea:bhagavad-gita:17.14-16",
+          "point": "The Gītā counts as austerity of speech words that cause no agitation and are truthful, pleasant and beneficial.",
+          "angle": "Before sending the sharp reply, the verse offers a four-part test: does it agitate, is it true, is it pleasant to hear, does it help?"
+        },
+        {
+          "tid": "tea:bhagavad-gita:18.26-28",
+          "point": "The Gītā's steady doer is free of clinging and ego, full of steadiness and zeal, and unchanged by success or failure.",
+          "angle": "Steadiness (dhṛti) and zeal (utsāha) appear together here. Keen about the work and unmoved by how it turns out: the verse wants both at once."
+        },
+        {
+          "tid": "tea:yoga-sutra:1.14",
+          "point": "Practice becomes firmly grounded, the Yoga Sūtra says, when kept up for a long time, without a break, and with care (satkāra).",
+          "angle": "The sutra's measure is long time, no gaps and care. Intensity is not on its list, so a few quiet minutes kept daily fit it well."
+        },
+        {
+          "tid": "tea:yoga-sutra:2.42",
+          "point": "From contentment (saṃtoṣa), the Yoga Sūtra says, comes unsurpassed happiness.",
+          "angle": "The raise, the title, the next target: the sutra does not put the highest happiness at the end of that list. It names contentment instead."
+        },
+        {
+          "tid": "tea:yoga-sutra:2.47",
+          "point": "Posture is mastered, the Yoga Sūtra says, by relaxing effort (prayatna-śaithilya) and by resting the mind on the endless.",
+          "angle": "Even the sitting posture of yoga is reached by easing effort, not piling it on. A line worth remembering at a desk held tight all day."
+        },
+        {
+          "tid": "tea:visuddhimagga:3.p93/2",
+          "point": "The Visuddhimagga names gain as an impediment (palibodha): a monk so busy receiving and thanking has no time for his real work.",
+          "angle": "Even good things can crowd out what matters. The text's word is impediment: not a fault, just something that leaves no time."
+        },
+        {
+          "tid": "tea:visuddhimagga:3.p93/3",
+          "point": "A crowd of pupils can be an impediment too, the Visuddhimagga says, when teaching them leaves a teacher no time for his own practice.",
+          "angle": "Being needed by many is named plainly here as something that can use up the day. The text's advice: finish what is nearly done, then step away."
+        },
+        {
+          "tid": "tea:visuddhimagga:9.p298/2",
+          "point": "Returning anger to an angry man is worse, the Buddha's verse says; not returning it, one wins a battle hard to win.",
+          "angle": "The sharp remark in the meeting has already happened. The verse is about the next move: not handing the anger back, which it counts as the harder victory."
+        },
+        {
+          "tid": "tea:visuddhimagga:9.p301/2",
+          "point": "When resentment will not settle, the Visuddhimagga asks what anger will achieve, and recalls that each person owns and inherits their own deeds (kamma).",
+          "angle": "Replaying a colleague's slight on the way home, the text's question is practical: what will this anger actually do, and whose deed is it?"
+        },
+        {
+          "tid": "tea:satipatthana-sutta:mn10:8",
+          "point": "The Satipaṭṭhāna Sutta asks for clear knowing (sampajāna) in every ordinary act: going and returning, eating, speaking and keeping silent.",
+          "angle": "The walk to the next meeting belongs to the practice in this sutta, not to the gap between tasks. It asks only for knowing the walk while it happens."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:6.6",
+          "point": "The Tattvārtha says the weight of an act differs by intensity or mildness, and by whether it was done knowingly or unknowingly.",
+          "angle": "The error in the report was not made knowingly. The Jain text weighs an act by intent and intensity, not only by how it looks from outside."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:6.10",
+          "point": "Spite, hiding what one knows, envy and blocking others' learning, the Tattvārtha says, bring in karma that clouds one's own knowledge.",
+          "angle": "Keeping the handover notes vague so no one else can do the job: the Jain text counts that as clouding the hider's own knowing, not only the others'."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:6.17",
+          "point": "Few undertakings (ārambha) and little possessiveness, the Tattvārtha says, are what bring in the karma of a human life.",
+          "angle": "Saying yes to every new project is what this text calls undertaking. It links a human life with fewer of them, and with holding loosely to what one owns."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:6.24",
+          "point": "Among the causes of the highest karma, a Tīrthaṅkara's, the Tattvārtha lists giving and austerity according to one's own power (śaktitaḥ).",
+          "angle": "Even in a list of the highest virtues, the measure is one's own strength. The sutra asks for effort that fits your power, not someone else's."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:6.25",
+          "point": "Censuring others, praising oneself, hiding others' real virtues and claiming false ones, the Tattvārtha says, bring in low-status karma.",
+          "angle": "The meeting where credit is quietly re-routed: the Jain text names each move in it, and says the cost falls on the one who makes them."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:7.5",
+          "point": "To keep speech truthful, the Tattvārtha asks one to give up anger, greed, fear and joking.",
+          "angle": "The Jain text guards truth at its sources. Before the quick reply goes out, it asks which of four is speaking: anger, greed, fear or the joke."
+        }
+      ],
+      "never": [
+        "Productivity or performance promises: never say a teaching makes anyone faster, more productive, more focused or better at a job.",
+        "Burnout, stress or exhaustion as a condition or label for the reader; describe the scene instead (long days, too much, running on empty).",
+        "Career predictions: nothing about promotions, raises, job offers, layoffs or how a review will go.",
+        "Advice to quit, stay, confront a manager, or take legal or HR steps.",
+        "Company, product, app or brand names, and any detail that could identify a real workplace or person.",
+        "Using the Gītā's battlefield setting as licence for conflict at work, or svadharma and caste duty as a reason to accept mistreatment.",
+        "Recommending austerity (tapas) or fasting; the 'according to one's power' of TS 6.24 is never turned into a call for more effort.",
+        "Hustle framing ('grind', 'crush it', 'no days off') or praise of overwork; equally, no scorn for ambition."
+      ]
+    },
+    {
+      "id": "overthinking",
+      "name": "Anxiety and overthinking",
+      "audience": "People whose minds keep going over things: replaying conversations, rehearsing what might happen, reopening decisions already made.",
+      "scenes": [
+        "A message shows 'seen', and no reply comes.",
+        "On the drive home, the meeting replays with better lines each time.",
+        "A comment from three years ago comes back while brushing your teeth.",
+        "Twelve browser tabs open, each one a different worry.",
+        "Twenty minutes spent drafting a two-line text.",
+        "Before a trip, everything that could go wrong gets its own rehearsal.",
+        "A friend's short reply gets read five different ways.",
+        "In the shower, an argument that may never happen is rehearsed again.",
+        "Waiting for an exam result, the mind runs ahead to every outcome.",
+        "Scrolling back through an old chat to find where it went wrong.",
+        "The decision is made, and the mind keeps reopening it.",
+        "A small slip at work grows larger with each replay.",
+        "Stuck at a red light, planning three conversations at once.",
+        "Someone's slightly cold tone, and the whole afternoon goes to it.",
+        "A week of choosing between two options, and still no choice."
+      ],
+      "teaching_pool": [
+        {
+          "tid": "tea:yoga-sutra:1.2",
+          "point": "Yoga, the Yoga Sūtra says, is the stilling (nirodha) of the mind's activities (vṛtti).",
+          "angle": "The sutra does not ask for an empty mind by force. It names the churning as activity, something that moves, and so something that can be stilled."
+        },
+        {
+          "tid": "tea:yoga-sutra:1.4",
+          "point": "At other times, the Yoga Sūtra says, the seer takes on the form of the mind's activities (sārūpya).",
+          "angle": "The tenth replay of the same conversation, in the sutra's terms: the one who sees starts to look like the thought being seen."
+        },
+        {
+          "tid": "tea:yoga-sutra:1.11",
+          "point": "Memory (smṛti), the Yoga Sūtra says, is the not-slipping-away of something once experienced.",
+          "angle": "The old remark that keeps returning is memory doing what the sutra says memory does: not letting the experienced thing slip. It is named, not blamed."
+        },
+        {
+          "tid": "tea:yoga-sutra:1.12",
+          "point": "The mind's activities are stilled, the Yoga Sūtra says, by practice (abhyāsa) and dispassion (vairāgya) together.",
+          "angle": "Two means, not one: coming back again and again, and not feeding the thing the mind keeps reaching for."
+        },
+        {
+          "tid": "tea:yoga-sutra:1.13",
+          "point": "Practice (abhyāsa), the Yoga Sūtra says, is the effort toward stability.",
+          "angle": "Practice here is not a score to hit. It is the effort to stay, and then to stay again after drifting off."
+        },
+        {
+          "tid": "tea:yoga-sutra:1.32",
+          "point": "To remove the mind's distractions, the Yoga Sūtra advises practice on a single principle (eka-tattva).",
+          "angle": "When the mind runs down twelve paths at once, the sutra's counsel is one: choose a single thing and keep returning to it."
+        },
+        {
+          "tid": "tea:yoga-sutra:2.33",
+          "point": "When harmful thoughts (vitarka) press in, the Yoga Sūtra says, cultivate their opposite.",
+          "angle": "Rehearsing a cutting reply to someone who did you wrong is one such thought. The sutra's counsel is to grow the opposite thought, deliberately."
+        },
+        {
+          "tid": "tea:bhagavad-gita:6.26",
+          "point": "Wherever the restless, unsteady mind wanders off, Kṛṣṇa says, bring it back from there.",
+          "angle": "No verdict on the wandering. The whole instruction in this verse is the return, from wherever the mind went, as often as it goes."
+        },
+        {
+          "tid": "tea:bhagavad-gita:6.34",
+          "point": "Arjuna says the mind is restless, turbulent, strong and stubborn; holding it seems as hard as holding the wind.",
+          "angle": "The Gītā lets its hero say it first and plainly. The complaint about a mind that will not stop is already in the text."
+        },
+        {
+          "tid": "tea:bhagavad-gita:6.35",
+          "point": "Kṛṣṇa grants that the mind is restless and hard to hold, then says it is held by practice and dispassion.",
+          "angle": "He does not argue with Arjuna's complaint. He agrees with it first, then names the two means. Agreement, then method."
+        },
+        {
+          "tid": "tea:bhagavad-gita:6.25",
+          "point": "Little by little one should come to rest, Kṛṣṇa says, the mind settled in the self, thinking of nothing at all.",
+          "angle": "The phrase 'little by little' (śanaiḥ śanaiḥ) matters. The verse does not demand a quiet mind at once; it describes a slow settling."
+        },
+        {
+          "tid": "tea:bhagavad-gita:2.62",
+          "point": "Dwelling on objects breeds attachment, the Gītā says; from attachment desire is born, and from desire, anger.",
+          "angle": "The chain starts with dwelling: the fifth look at the same message, the tenth replay. The verse places the start there, well before the anger."
+        },
+        {
+          "tid": "tea:bhagavad-gita:2.67",
+          "point": "When the mind follows the roving senses, the Gītā says, it carries off understanding as the wind carries a ship on water.",
+          "angle": "Notification, tab, another tab. The verse's image is a boat with no anchor, blown wherever the senses go next."
+        },
+        {
+          "tid": "tea:bhagavad-gita:6.19",
+          "point": "A mind held steady, the Gītā says, is like a lamp in a windless place that does not flicker.",
+          "angle": "The image is not of a lamp put out, but of one still burning. The mind stays lit; only the wind drops."
+        },
+        {
+          "tid": "tea:bhagavad-gita:12.15",
+          "point": "Dear to Kṛṣṇa is one who does not disturb the world and is not disturbed by it, free of elation, intolerance, fear and agitation.",
+          "angle": "The verse runs both ways: not shaken by the world, and not shaking it. The group chat, seen from both ends."
+        },
+        {
+          "tid": "tea:mandukya-karika:3.41",
+          "point": "Restraining the mind, Gauḍapāda says, is like emptying the ocean drop by drop with a blade of grass, done without weariness.",
+          "angle": "The image admits the size of the task. Its instruction is about manner: drop by drop, and without wearing yourself out (aparikheda)."
+        },
+        {
+          "tid": "tea:mandukya-karika:3.44",
+          "point": "When the mind sinks, Gauḍapāda says, rouse it; when it scatters, calm it; when it reaches evenness, do not stir it.",
+          "angle": "The last line is easy to miss: once the mind is even, leave it be. Leaving it alone is part of the instruction."
+        },
+        {
+          "tid": "tea:satipatthana-sutta:mn10:36",
+          "point": "When restlessness and remorse (uddhacca-kukkucca) are present, the Satipaṭṭhāna says, one knows they are present, how they arise and how they go.",
+          "angle": "The first step here is not to stop the worry but to know it is there. The sutta's words are simple: 'there is restlessness in me.'"
+        },
+        {
+          "tid": "tea:satipatthana-sutta:mn10:34",
+          "point": "The Satipaṭṭhāna asks one to know a scattered mind as scattered, and a collected mind as collected.",
+          "angle": "No fixing in this line. Seeing the scattered mind as 'scattered' is itself the practice the sutta describes."
+        },
+        {
+          "tid": "tea:visuddhimagga:8.p280",
+          "point": "Counting breaths, the Visuddhimagga says, has one purpose: to set mindfulness on the breath by cutting off thoughts scattered outside.",
+          "angle": "The counting is scaffolding. Once mindfulness stands on the breath, the text says, the counting is dropped. A tool, not a target."
+        },
+        {
+          "tid": "tea:visuddhimagga:3.p110",
+          "point": "For one whose thoughts run about, the Visuddhimagga says, a wide view feeds the running; a small object suits better.",
+          "angle": "The text is practical: a sweeping view gives racing thoughts more to chase. It advises a sheltered place and a small object."
+        },
+        {
+          "tid": "tea:anapanasati-sutta:mn118:20",
+          "point": "With each breath, the Ānāpānasati Sutta trains one in experiencing the mind, gladdening it, collecting it and freeing it.",
+          "angle": "Before any freeing comes experiencing the mind as it is, busy or not. The sutta starts there, with the breath going in and out."
+        },
+        {
+          "tid": "tea:prajnaparamita-hrdaya:2.5",
+          "point": "With nothing to attain, the Heart Sūtra says, the mind has no obstruction; with no obstruction there is no fear, and no upside-down thinking.",
+          "angle": "The sutra traces fear to obstruction in the mind, and obstruction to reaching for something to gain. The chain runs back to 'nothing to attain'."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:7.4",
+          "point": "Among the supports of non-violence, the Tattvārtha lists restraint of speech and restraint of mind (mano-gupti), with care in walking and handling things.",
+          "angle": "The Jain text puts guarding the mind beside guarding speech. The unsent angry message and the one rehearsed in the head sit on the same list."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:6.14",
+          "point": "Intense states of mind driven by the passions (kaṣāya), the Tattvārtha says, bring in karma that clouds right conduct.",
+          "angle": "The Jain text looks at intensity (tīvra) itself: how hot a state of mind runs matters, not only what it is about."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:8.23",
+          "point": "In the Tattvārtha, karma's fruit is its being experienced, and from that experiencing comes its shedding (nirjarā).",
+          "angle": "In this Jain account, what ripens is felt, and in being felt it falls away. The text names that falling away as shedding."
+        }
+      ],
+      "never": [
+        "The word 'anxiety' or 'anxious' as a condition to be treated, calmed or managed; speak of worry, a mind that will not stop, going over things.",
+        "Any promise that a teaching or practice will stop, calm, fix or quieten worrying thoughts.",
+        "Clinical or brain words: disorder, panic attack, OCD, nervous system, the brain, rumination as a technical term.",
+        "Breath work beyond plain awareness of the breath as the suttas and the Visuddhimagga describe it; never breath retention of any kind.",
+        "Telling a reader their worries are unreal, an illusion or a dream; the non-dual teachings are never used to dismiss a worry.",
+        "Scenes about medical tests, health scares, or repeated checking of locks and switches.",
+        "Listicle or hack framing ('stop overthinking in 3 steps').",
+        "Suggesting anyone stop or replace professional help."
+      ]
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "audience": "People who meet the night awake, wake with the day already in their heads, or wonder what sleep and dreams are, looking for reflection rather than tips.",
+      "scenes": [
+        "It is 3 a.m., and the ceiling is very familiar.",
+        "The alarm rings, and the first thought is the inbox.",
+        "A dream hangs around all through breakfast.",
+        "One more episode, and then one more.",
+        "The phone's light on a face in a dark room, long after midnight.",
+        "Waking before the alarm, in the quiet before the house stirs.",
+        "A heavy hour at the desk after lunch.",
+        "The night bus home, half-asleep against the window.",
+        "A baby's cry at 2 a.m., then the long walk back to bed.",
+        "Lying down, and the day's conversations start up again.",
+        "Sunday morning with nowhere to be, and still awake at six.",
+        "A nap that ran two hours, and waking unsure what day it is.",
+        "Night shift over, going to bed as the city wakes.",
+        "The first sound on waking: birds, traffic, or rain.",
+        "Someone breathing slowly, asleep in the next room."
+      ],
+      "teaching_pool": [
+        {
+          "tid": "tea:bhagavad-gita:6.16",
+          "point": "Yoga is not for one who eats too much or not at all, the Gītā says, nor for one who sleeps too much or too little.",
+          "angle": "The verse names both ends and sets no hours. It is a verse about measure, not a rule to keep."
+        },
+        {
+          "tid": "tea:bhagavad-gita:6.17",
+          "point": "The Gītā asks for measure (yukta) in food and recreation, in effort at work, and in sleep and waking alike.",
+          "angle": "Sleep sits in a list with meals, leisure and work. The verse does not single it out; it asks for the same measure across the whole day."
+        },
+        {
+          "tid": "tea:bhagavad-gita:2.69",
+          "point": "What is night for all beings, the Gītā says, the self-restrained one is awake in; what they wake to is night for the sage.",
+          "angle": "The verse is not about staying up. It turns night and waking into a question: what are you awake to, and what goes unseen by day?"
+        },
+        {
+          "tid": "tea:bhagavad-gita:5.8",
+          "point": "Even while seeing, walking, sleeping and breathing, the Gītā says, one who knows the truth thinks, 'I do nothing at all.'",
+          "angle": "Sleep appears here in a plain list of what the body does. Lying down at night, the verse offers a thought: not all the doing is yours."
+        },
+        {
+          "tid": "tea:yoga-sutra:1.10",
+          "point": "Sleep (nidrā), the Yoga Sūtra says, is an activity of the mind whose support is the cognition of absence.",
+          "angle": "In this sutra sleep is not the mind switched off. It is one of the mind's five activities, with absence as its object."
+        },
+        {
+          "tid": "tea:yoga-bhasya:1.10",
+          "point": "Vyāsa notes that on waking one says 'I slept well, my mind is clear' or 'I slept heavily, my mind is dull'.",
+          "angle": "Those first words of the morning are, for Vyāsa, evidence: remembering the night at all shows that sleep was itself a kind of cognition."
+        },
+        {
+          "tid": "tea:yoga-sutra:1.38",
+          "point": "The mind may also be steadied, the Yoga Sūtra says, by taking the knowledge of dream or of sleep as its support.",
+          "angle": "The sutra places dream and sleep among the things a steady mind can rest on in reflection. The night becomes material for daytime attention."
+        },
+        {
+          "tid": "tea:mandukya-upanisad:3",
+          "point": "The first quarter of the self, the Māṇḍūkya says, is waking: knowing outward and enjoying the gross world.",
+          "angle": "Waking here is one station among four, not the whole of what a person is. The Upaniṣad starts its map of the self with the ordinary morning."
+        },
+        {
+          "tid": "tea:mandukya-upanisad:4",
+          "point": "The second quarter, the Māṇḍūkya says, is dream: knowing inward, enjoying a world set apart.",
+          "angle": "The Upaniṣad neither dismisses dreams nor reads them as omens. It gives dream its own station in the self, facing inward."
+        },
+        {
+          "tid": "tea:mandukya-upanisad:5",
+          "point": "Where one asleep wants nothing and sees no dream, the Māṇḍūkya says, that is deep sleep: one, a mass of knowing, made of bliss.",
+          "angle": "The Upaniṣad describes deep sleep as unified, not empty. It is a description of a state, not a promise about any night."
+        },
+        {
+          "tid": "tea:mandukya-karika:1.16",
+          "point": "When the being asleep in beginningless illusion (māyā) awakens, Gauḍapāda says, it wakes to the unborn: sleepless, dreamless, non-dual.",
+          "angle": "Here waking is a word for understanding, not for the alarm clock. The text borrows the night to speak of a larger waking."
+        },
+        {
+          "tid": "tea:mandukya-karika:3.35",
+          "point": "In deep sleep the mind is absorbed, Gauḍapāda says; the restrained mind is not absorbed, and that is fearless brahman.",
+          "angle": "The text separates the two with care: both are still, but deep sleep is not the goal it points to. The difference is the light of knowing."
+        },
+        {
+          "tid": "tea:chandogya-upanisad:6.8.1-2",
+          "point": "When one sleeps, the Chāndogya says, one has gone to one's own; like a tethered bird, the mind settles in breath.",
+          "angle": "The bird flies every way before it settles at its post. The Upaniṣad describes sleep as going home, not as a task to get right."
+        },
+        {
+          "tid": "tea:chandogya-upanisad:8.11.1-3",
+          "point": "Taught that the self is the one in dreamless sleep, Indra objects: there one does not know oneself as 'I am he'.",
+          "angle": "Not every Upaniṣad voice praises deep sleep. Indra finds a flaw in it and keeps asking. The texts differ here, and say so."
+        },
+        {
+          "tid": "tea:brhadaranyaka-upanisad:4.3.19-21",
+          "point": "As a tired falcon folds its wings for its nest, the Bṛhadāraṇyaka says, one goes where, asleep, nothing is wanted and no dream seen.",
+          "angle": "The image is of a bird that has flown all day. Rest is described as the nest the flying was always returning to."
+        },
+        {
+          "tid": "tea:brhadaranyaka-upanisad:4.3.9-14",
+          "point": "In dream, the Bṛhadāraṇyaka says, the person takes material from this world, breaks it up, builds it again, and becomes his own light.",
+          "angle": "The strange buildings of a dream are, in this text, made by the dreamer's own light. It marvels at the maker rather than decoding the dream."
+        },
+        {
+          "tid": "tea:katha-upanisad:2.2.8",
+          "point": "The person awake in those who sleep, shaping desire after desire: that, the Kaṭha says, is the bright, the immortal.",
+          "angle": "While the body sleeps, the text says, someone is awake. It speaks of that one with reverence, not as a problem to solve."
+        },
+        {
+          "tid": "tea:katha-upanisad:2.1.4",
+          "point": "That by which one perceives both dream and waking: knowing it as the great self, the Kaṭha says, the wise do not grieve.",
+          "angle": "Dream and waking have one witness in this verse. Crossing from one to the other at dawn, the text asks who sees both."
+        },
+        {
+          "tid": "tea:katha-upanisad:1.3.14",
+          "point": "Arise, awake, the Kaṭha says; having obtained the boons, understand. The path is sharp as a razor's edge, hard to cross.",
+          "angle": "The morning call here is to understanding, and the text does not pretend it is easy: a razor's edge, it says."
+        },
+        {
+          "tid": "tea:kausitaki-upanisad:4.19-20",
+          "point": "In dreamless sleep speech, sight, hearing and mind go into breath, the Kauṣītaki says; on waking they fly out like sparks from a fire.",
+          "angle": "Morning, in this image, is sparks leaving one fire: the senses going back out into the day from a single source."
+        },
+        {
+          "tid": "tea:mahasatipatthana-sutta:dn22:4",
+          "point": "The Mahāsatipaṭṭhāna asks for clear knowing (sampajāna) in every act, including falling asleep and waking up.",
+          "angle": "Falling asleep is on the sutta's list beside eating and walking. Nothing special is asked of it, only that it be known."
+        },
+        {
+          "tid": "tea:satipatthana-sutta:mn10:6",
+          "point": "When lying down, the Satipaṭṭhāna says, one knows 'I am lying down'; however the body is placed, one knows it.",
+          "angle": "The sutta's instruction for lying down is one line long: know the lying down. No technique, no target."
+        },
+        {
+          "tid": "tea:mahasatipatthana-sutta:dn22:13",
+          "point": "When dullness and drowsiness (thina-middha) are present, the Mahāsatipaṭṭhāna says, one knows they are present, and how they come and go.",
+          "angle": "The heavy hour after lunch is named here, not blamed. The sutta asks only for knowing: 'dullness and drowsiness are here.'"
+        },
+        {
+          "tid": "tea:tattvartha-sutra:8.7",
+          "point": "The Tattvārtha lists kinds of sleep and drowsiness among the karmas that veil perception (darśana-āvaraṇa).",
+          "angle": "The Jain text names the grades of sleep with care, from dozing to deep sleep, and files them all under what veils seeing. It describes; it does not scold."
+        }
+      ],
+      "never": [
+        "Any statement or hint that a teaching, verse or practice improves sleep, helps anyone fall or stay asleep, or makes rest deeper or better.",
+        "Condition and hygiene words: insomnia, sleep disorder, sleep hygiene; no advice on hours, bedtimes, naps, screens or routines.",
+        "Dream interpretation, dream omens or predictions from dreams; no sleep charms or protective rites (the Atharvaveda hymn to Sleep is not used).",
+        "The Visuddhimagga's list of the benefits of loving-kindness ('sleeps in comfort, wakes in comfort') is not used in this account.",
+        "Verses that place sleep under dullness (tamas), such as BhG 14.8 and 18.39, are not used to judge anyone's sleep or rest.",
+        "Presenting deep sleep as the goal the texts point to, or promising the bliss the Māṇḍūkya describes.",
+        "Breathing or meditation instructions framed as something to do in bed to get to sleep.",
+        "Any mention of sleeping pills, supplements or medicine, for or against."
+      ]
+    },
+    {
+      "id": "loneliness",
+      "name": "Loneliness",
+      "audience": "People who spend more evenings alone than they would choose, or feel alone among others, and would welcome the company of old words.",
+      "scenes": [
+        "Dinner for one, with a show on for the sound of voices.",
+        "The group chat moves on, and your message stays unanswered.",
+        "A new city, and no one at the shop knows your name.",
+        "A birthday with more notifications than visitors.",
+        "Working from home, and the only voice all day is your own.",
+        "A crowded train, and not one pair of eyes meets yours.",
+        "Photos of a party that no one mentioned.",
+        "The phone lights up, and it is only an app.",
+        "An old friend's number, and not knowing what to say after so long.",
+        "Sunday afternoon, with the week's plans all cancelled.",
+        "Lunch at the desk while the others go out together.",
+        "A festival evening, and the streets full of families.",
+        "Coming home to a quiet flat and switching every light on.",
+        "A neighbour's window where people are laughing.",
+        "Saying 'I'm fine' three times in one day."
+      ],
+      "teaching_pool": [
+        {
+          "tid": "tea:bhagavad-gita:6.5",
+          "point": "Lift yourself by yourself, Kṛṣṇa says, and do not let yourself sink; the self alone is the self's friend, and its enemy.",
+          "angle": "The verse names a friend who is there when no one else is. It is honest that the same self can also act as an enemy."
+        },
+        {
+          "tid": "tea:bhagavad-gita:6.29",
+          "point": "One yoked in yoga, the Gītā says, sees the self in all beings and all beings in the self.",
+          "angle": "On a crowded train where no eyes meet, the verse describes a way of seeing: the same self looking out through every face."
+        },
+        {
+          "tid": "tea:bhagavad-gita:6.30",
+          "point": "Whoever sees me everywhere and everything in me, Kṛṣṇa says, I am not lost to him, and he is not lost to me.",
+          "angle": "This is a devotional verse, and its closeness is with the divine. Its words are about not being lost, a kind of company the text offers plainly."
+        },
+        {
+          "tid": "tea:bhagavad-gita:6.32",
+          "point": "The highest yogin, the Gītā says, sees others' pleasure and pain by likeness to himself (ātmaupamya).",
+          "angle": "The ache of an empty evening becomes, in this verse, the measure for noticing someone else's. One's own pain is how another's is known."
+        },
+        {
+          "tid": "tea:bhagavad-gita:10.9",
+          "point": "Their thought on the Lord, the Gītā says, devotees awaken one another (bodhayantaḥ parasparam), speak of him, and are content and glad.",
+          "angle": "Company in this verse is not small talk. It is people waking each other up to what matters most to them, and finding delight in it."
+        },
+        {
+          "tid": "tea:bhagavad-gita:12.13",
+          "point": "Dear to Kṛṣṇa is one who hates no being, is friendly and compassionate, free of 'mine' and 'I', and forbearing.",
+          "angle": "Friendliness (maitra) here is not a reward for having friends. It is a way of facing every being, including those who have not reached out."
+        },
+        {
+          "tid": "tea:bhagavad-gita:13.11",
+          "point": "The Gītā counts resorting to secluded places, and finding no delight in crowds, among the marks of knowledge.",
+          "angle": "Solitude and loneliness are not the same. The Gītā speaks only of the first, chosen and quiet, and gives it a place on the path."
+        },
+        {
+          "tid": "tea:bhagavad-gita:5.25",
+          "point": "Seers whose doubts are cut, self-restrained and delighting in the welfare of all beings, the Gītā says, reach the peace of Brahman.",
+          "angle": "The delight named here is taken in the welfare of all beings, strangers included. It is a joy that faces outward."
+        },
+        {
+          "tid": "tea:yoga-sutra:1.33",
+          "point": "The mind grows clear, the Yoga Sūtra says, through friendliness to the happy, compassion for the suffering, gladness for the virtuous, equanimity toward the unvirtuous.",
+          "angle": "The sutra gives each kind of person an attitude of its own. Friendliness goes to the happy, compassion to those who struggle."
+        },
+        {
+          "tid": "tea:brhadaranyaka-upanisad:1.4.2",
+          "point": "Alone in the beginning, the first being was afraid, the Bṛhadāraṇyaka says; then it asked: with nothing but me, what is there to fear?",
+          "angle": "The Upaniṣad begins creation with someone alone and afraid. The fear is taken seriously, then questioned from the inside."
+        },
+        {
+          "tid": "tea:brhadaranyaka-upanisad:1.4.3",
+          "point": "He found no delight, the Bṛhadāraṇyaka says; one who is alone finds no delight. He wanted a second.",
+          "angle": "The Upaniṣad says it without embarrassment: alone, there was no delight, and the wish for a second is where its world begins."
+        },
+        {
+          "tid": "tea:isa-upanisad:6-7",
+          "point": "One who sees all beings in the self and the self in all beings, the Īśa says, shrinks from nothing.",
+          "angle": "The verse's word is 'shrinks from' (vijugupsate). It describes a seeing in which no one is a stranger to recoil from."
+        },
+        {
+          "tid": "tea:taittiriya-upanisad:3.10.1",
+          "point": "It is a vow, the Taittirīya says, never to turn away one who seeks lodging; so gather plenty of food.",
+          "angle": "The vow runs outward. Before any question of being visited, it asks for an open door and food ready for whoever comes."
+        },
+        {
+          "tid": "tea:katha-upanisad:1.1.10-11",
+          "point": "Given three boons by Death, Naciketas first asks that his father be calm and kind, and welcome him home.",
+          "angle": "Offered a wish by Death himself, the boy's first request is to be welcomed back. The Upaniṣad puts that longing first."
+        },
+        {
+          "tid": "tea:visuddhimagga:9.p296/2",
+          "point": "Loving-kindness, the Visuddhimagga says, is first developed toward oneself: 'may I be happy and free from suffering.'",
+          "angle": "The text puts oneself first in the order, not last. Friendliness begins where you already sit, even on a night alone."
+        },
+        {
+          "tid": "tea:visuddhimagga:9.p297/2",
+          "point": "Wishing oneself happy, the Visuddhimagga says, one sees: as I want happiness and dislike suffering, so do other beings.",
+          "angle": "Your own wish to be happy becomes, in this text, the bridge to the wishes of all other beings. Your own wanting is the witness."
+        },
+        {
+          "tid": "tea:visuddhimagga:9.p307",
+          "point": "Loving-kindness is developed toward oneself, a dear person, a neutral person and an enemy, the Visuddhimagga says, until the barriers between them break.",
+          "angle": "The stranger at the bus stop is the 'neutral person' of this text. The practice gives them the same place as a dear friend, and as oneself."
+        },
+        {
+          "tid": "tea:visuddhimagga:9.p318/2",
+          "point": "Gladness (muditā), the Visuddhimagga says, has rejoicing as its mark, not envying as its function, and it removes discontent.",
+          "angle": "Scrolling through others' celebrations alone, the text's word is gladness. Its mark is rejoicing; its work is not envying."
+        },
+        {
+          "tid": "tea:visuddhimagga:9.p319",
+          "point": "The near enemy of compassion, the Visuddhimagga says, is worldly grief over what is lacking or lost: it too sees what has gone wrong.",
+          "angle": "Missing what one had can look like compassion, the text says, because both see what has gone wrong. It keeps the two apart."
+        },
+        {
+          "tid": "tea:anapanasati-sutta:mn118:8",
+          "point": "The Buddha praises an assembly without chatter or idle talk, settled on what is essential: rare, and worth travelling far to see.",
+          "angle": "The sutta's picture of good company is quiet: people gathered without chatter, settled on what matters, and praised as rare."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:7.11",
+          "point": "The Tattvārtha asks for friendliness toward all living beings, delight in the virtuous, compassion for the afflicted, equanimity toward the unruly.",
+          "angle": "The Jain list starts with friendliness toward all living beings (sattva), not only people one knows. The circle is drawn as wide as it goes."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:6.12",
+          "point": "Compassion for living beings, giving, forbearance and purity, the Tattvārtha says, bring in karma of pleasant feeling.",
+          "angle": "In this Jain account, compassion and giving shape the one who offers them. Kindness sent outward does not only travel outward."
+        }
+      ],
+      "never": [
+        "Promises of connection: never say a reader will find friends, love or a partner, or that loneliness will pass.",
+        "'You are never alone' or any line that tells the reader the feeling is wrong; teachings on oneness are given as the texts' view, not as a correction.",
+        "Clinical words (depression, isolation as a condition) or any link between loneliness and health.",
+        "Praising solitude to someone who did not choose it; BhG 13.11 is about chosen seclusion and is presented as such.",
+        "Crisis material: self-harm, suicide or abuse are never used as scenes; those belong to the safety messages, not to posts.",
+        "Dating, relationship or astrological compatibility content.",
+        "Devotional verses (BhG 6.30, 10.9) used to recruit or to suggest the reader should adopt a faith.",
+        "Pity or rescue language ('you poor thing', 'we are here for you') and any promise of a reply or a community."
+      ]
+    },
+    {
+      "id": "meaning",
+      "name": "Meaning and identity",
+      "audience": "People at a turn in life, after a goal, a loss of role or a change of place, asking what their life is for and who they are without the labels.",
+      "scenes": [
+        "At a party, someone asks, 'So, what do you do?'",
+        "The goal is reached, and the next morning feels flat.",
+        "A birthday ending in zero.",
+        "A form asks for 'occupation', a month after leaving the job.",
+        "The last child leaves home, and the house goes quiet.",
+        "An old diary full of plans that never happened.",
+        "The degree is framed on the wall, and the question 'what now?' remains.",
+        "A friend's life looks further along on the screen.",
+        "The new job title in the email signature does not sound like you.",
+        "Clearing out a wardrobe of clothes from another life.",
+        "The first Monday of retirement.",
+        "Standing in a quiet temple, not sure what to look for.",
+        "A childhood photo, and wondering who that was.",
+        "A move abroad, where no one knows who you used to be.",
+        "A choice between the safe offer and the one that feels right."
+      ],
+      "teaching_pool": [
+        {
+          "tid": "tea:bhagavad-gita:2.7",
+          "point": "Arjuna admits he is bewildered about what is right (dharma) and asks Kṛṣṇa to tell him plainly what is better.",
+          "angle": "The Gītā's teaching begins with someone who does not know what to do and says so. Not knowing is where the text starts, not where it fails."
+        },
+        {
+          "tid": "tea:bhagavad-gita:2.8",
+          "point": "Arjuna says not even an unrivalled kingdom, not even rule over the gods, would drive away his grief.",
+          "angle": "The goal arrives and the hollowness stays. Arjuna says the same: no kingdom he can name would lift this grief."
+        },
+        {
+          "tid": "tea:bhagavad-gita:2.20",
+          "point": "The self, the Gītā says, is not born and does not die; unborn and eternal, it is not killed when the body is killed.",
+          "angle": "A title, a role, a decade: each has a start date. The Gītā describes something in the person that has none. The Buddhist texts disagree, and say so."
+        },
+        {
+          "tid": "tea:bhagavad-gita:2.22",
+          "point": "As a person throws off worn-out clothes and puts on new ones, the Gītā says, the embodied one passes from worn-out bodies to new ones.",
+          "angle": "The Gītā's picture of the self is someone changing clothes. What wears out, it says, is the garment, not the wearer."
+        },
+        {
+          "tid": "tea:bhagavad-gita:3.27",
+          "point": "Actions are done by the qualities (guṇa) of nature, the Gītā says; one deluded by the sense of 'I' thinks, 'I am the doer.'",
+          "angle": "When a failure feels like a verdict on the whole person, the verse questions the 'I' at its centre: who, exactly, was the doer?"
+        },
+        {
+          "tid": "tea:bhagavad-gita:3.35",
+          "point": "Better one's own dharma, even done imperfectly, Kṛṣṇa says, than another's done well; another's dharma brings danger.",
+          "angle": "Svadharma meant, in the Gītā, the duty of one's own station in life. Its point on the page still stands: one's own, done imperfectly, over another's done well."
+        },
+        {
+          "tid": "tea:bhagavad-gita:13.2",
+          "point": "This body, Kṛṣṇa says, is called the field (kṣetra); the one who knows it is called the knower of the field.",
+          "angle": "The mirror shows the field. The verse points to the one looking: the knower of the field is not the same as what it knows."
+        },
+        {
+          "tid": "tea:bhagavad-gita:18.63",
+          "point": "Having taught Arjuna the most secret knowledge, Kṛṣṇa says: reflect on it fully, then do as you wish.",
+          "angle": "At the end of the whole teaching, the teacher does not give orders. He hands the choice back: think it all through, then choose."
+        },
+        {
+          "tid": "tea:yoga-sutra:1.3",
+          "point": "Then, the Yoga Sūtra says, the seer abides in its own form (svarūpa).",
+          "angle": "Not a new identity to build, the sutra says, but the seer resting in its own form once the mind's activity is stilled."
+        },
+        {
+          "tid": "tea:yoga-sutra:2.5",
+          "point": "Ignorance (avidyā), the Yoga Sūtra says, takes the impermanent as permanent, the impure as pure, pain as pleasure and the not-self as self.",
+          "angle": "The last mistake on the list stings at a job change: taking what is not the self, a title or a role, for the self."
+        },
+        {
+          "tid": "tea:yoga-sutra:2.6",
+          "point": "I-am-ness (asmitā), the Yoga Sūtra says, is the seer and the instrument of seeing appearing to be one.",
+          "angle": "'I am my job', 'I am my marks': the sutra names this blending of seer and instrument, and counts it among the afflictions."
+        },
+        {
+          "tid": "tea:katha-upanisad:1.2.1-2",
+          "point": "The good (śreyas) and the pleasant (preyas) differ, the Kaṭha says; both come to a person, and the wise choose the good.",
+          "angle": "The pleasant offer and the good one rarely come labelled. The Upaniṣad asks that they be examined and told apart before choosing."
+        },
+        {
+          "tid": "tea:katha-upanisad:1.3.3",
+          "point": "Know the self as the rider in the chariot, the Kaṭha says: the body is the chariot, intellect the driver, mind the reins.",
+          "angle": "A picture for a life pulled many ways: the senses are the horses, the mind the reins, and someone is riding."
+        },
+        {
+          "tid": "tea:chandogya-upanisad:7.1.1-3",
+          "point": "Nārada had studied every science of his day, yet told Sanatkumāra: 'I know only the words, not the self; I am in sorrow.'",
+          "angle": "Degrees, skills, a full record of learning: Nārada had all of it and still came asking. The Upaniṣad makes his sorrow the start of learning."
+        },
+        {
+          "tid": "tea:taittiriya-upanisad:3.1.1",
+          "point": "Asked by his son Bhṛgu to teach him brahman, Varuṇa says: seek to know that from which beings are born, live and return.",
+          "angle": "The father gives no ready answer, only a direction to look in. The question of what all this is for is handed back to the one asking."
+        },
+        {
+          "tid": "tea:taittiriya-upanisad:ch2",
+          "point": "The Taittirīya describes the person as five selves, each within the last: made of food, of breath, of mind, of understanding, of bliss.",
+          "angle": "Asked who one is, most answers stop at the first layer. The Upaniṣad keeps going inward, past body and mind, to understanding and bliss."
+        },
+        {
+          "tid": "tea:prajnaparamita-hrdaya:s4",
+          "point": "Form is emptiness, and emptiness is form, the Heart Sūtra says; emptiness is not other than form, nor form other than emptiness.",
+          "angle": "Unlike the Upaniṣads, the sutra finds no lasting self beneath the roles. Form itself is empty, it says, and emptiness is not somewhere else."
+        },
+        {
+          "tid": "tea:satipatthana-sutta:mn10:38",
+          "point": "The Satipaṭṭhāna asks one to see form, feeling, perception, formations and consciousness each arising and passing away.",
+          "angle": "Instead of asking 'who am I?', the sutta watches what the 'I' is made of, and sees each part arise and pass."
+        },
+        {
+          "tid": "tea:satipatthana-sutta:mn10:5",
+          "point": "Mindful that 'there is a body' just enough for knowing, the Satipaṭṭhāna says, one abides independent, clinging to nothing in the world.",
+          "angle": "The sutta keeps the body in view without making it a self. Just enough mindfulness to know, and nothing grabbed onto."
+        },
+        {
+          "tid": "tea:visuddhimagga:20.p638",
+          "point": "The meditator regards even bright experiences as 'not mine, not I, not my self', the Visuddhimagga says, and so does not waver.",
+          "angle": "Even the brightest states are met here with the same three phrases. In this text nothing, however good, is made into 'me'."
+        },
+        {
+          "tid": "tea:visuddhimagga:20.p633",
+          "point": "Formations appear ever new and short-lived, the Visuddhimagga says: like a dewdrop at sunrise, a bubble on water, a line drawn on water.",
+          "angle": "The old job, the old city, the person of ten years ago: the text's images are dew, bubble and a line on water. Short-lived, and ever new."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:2.7",
+          "point": "The Tattvārtha names being a soul (jīvatva) as an inherent state (pāriṇāmika), not one produced by karma.",
+          "angle": "Roles come and go with circumstance. In Jain terms, being a living soul is not one of them. Here the Jain and Buddhist texts part ways."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:7.12",
+          "point": "The Tattvārtha asks for reflection on the nature of the world and of the body, to stir dread of endless rebirth (saṃvega) and detachment.",
+          "angle": "A birthday ending in zero can bring this on uninvited. The Jain text asks for it on purpose: look at the world and the body as they are."
+        },
+        {
+          "tid": "tea:tattvartha-sutra:8.1",
+          "point": "Wrong view, non-restraint, carelessness, the passions and activity, the Tattvārtha says, are the causes of bondage.",
+          "angle": "The Jain answer to 'what holds me back?' is a list of five, and wrong view (mithyādarśana) comes first: how one sees comes before what one does."
+        }
+      ],
+      "never": [
+        "Telling a reader who they are ('you are pure awareness', 'you are the eternal self'); say what each text says about the self.",
+        "Blending self and no-self: the Upaniṣads, the Gītā, the Yoga Sūtra and the Jain texts affirm a self; the Buddhist texts deny a lasting self. Name the difference, never merge them.",
+        "Using svadharma (BhG 3.35) to endorse caste or to tell a reader to stay in a role, job or station.",
+        "Destiny, purpose or life-path predictions; astrology, kundali or any 'your calling awaits' framing.",
+        "Recommending austerity (tapas) or fasting, even where a passage mentions it (TU 3.1.1).",
+        "Pushing renunciation, a guru or a conversion; no telling a reader to leave work, family or home.",
+        "Self-help promises such as 'find your purpose' or 'become your best self'.",
+        "Grief after a death used as a scene; bereavement is not this account's material."
+      ]
+    }
+  ]
+}
