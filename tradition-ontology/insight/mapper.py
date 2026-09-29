@@ -1441,7 +1441,8 @@ def build_rationale(R: Reading, eid: str, kept: list, marker_of: dict, other_nam
         cands = []
         if e.get("kind") in ("temperament", "guna"):
             # never the texts' trait lists on a person (red team F17), and every variant says what it is not (F25)
-            nj = " Such signs come and go; this is not a judgement about who you are."
+            nj = (" Such signs come and go; this is not a judgement about who you are." if e.get("kind") == "guna" else
+                  " This names a pattern in your words; it is not a judgement about who you are.")
             cands.append(f'You wrote "{it.quote}"; the texts list signs like this under {e["name"]}.' + nj)
             cands.append(f'You wrote "{it.quote}"; the texts list signs like this.' + nj)
         else:
@@ -1456,7 +1457,7 @@ def build_rationale(R: Reading, eid: str, kept: list, marker_of: dict, other_nam
             last = code
     no_quote = "Your own words fit how the texts describe this pattern."
     if e.get("kind") in ("temperament", "guna"):
-        no_quote = "Your own words fit signs the texts list under this pattern. Such signs come and go; this is not a judgement about who you are."
+        no_quote = "Your own words fit signs the texts list under this pattern; this is not a judgement about who you are."
     if v7(no_quote, unit_texts, ent_texts, set(), other_names, qs) is None:
         return no_quote, None
     return None, last

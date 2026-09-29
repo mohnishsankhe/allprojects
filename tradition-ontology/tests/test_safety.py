@@ -313,3 +313,19 @@ def test_html_escaped_apostrophe_is_screened():
 def test_judge_rerun4_probes(text, flag):
     from insight import safety
     assert safety.rule_screen(text).injection is flag
+
+
+# --- judge re-run 5: the eating-disorder referral stays unconditional; a planned long fast has its own note ----------
+def test_disordered_eating_keeps_the_specialist_referral():
+    from insight import safety
+    r = safety.rule_screen("I have been skipping meals to lose weight for a year and I'm terrified of gaining weight.")
+    note = " ".join(r.message()["notes"])
+    assert r.route == "continue_no_diet" and "eating-disorder specialist" in note and "If eating" not in note
+
+
+def test_a_planned_long_fast_gets_the_fasting_note():
+    from insight import safety
+    r = safety.rule_screen("I want to do a 21-day water fast like the munis")
+    note = " ".join(r.message()["notes"])
+    assert r.route == "continue_no_diet" and "prolonged_fast" in r.flags and "disordered_eating" not in r.flags
+    assert "long fast" in note and "doctor" in note and "specialist" not in note

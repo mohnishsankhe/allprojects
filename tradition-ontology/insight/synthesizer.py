@@ -69,14 +69,44 @@ def _clean(text: str) -> str:
     return _display_labels(claims.strip_sentences(text or "").strip())
 
 
-NOT_A_VERDICT = " The texts describe signs that can arise and pass; this is not a judgement about who you are."
+NOT_A_VERDICT = {"guna": " The texts describe signs that can arise and pass; this is not a judgement about who you are.",
+                 "temperament": " This reading names a pattern in your words; it is not a judgement about who you are."}
 
 
 def _not_a_verdict(text: str, *entries: dict) -> str:
-    """Red team F17, F25: every point that names a temperament or a guna says it is not a judgement of the person."""
-    if any((x or {}).get("kind") in ("temperament", "guna") for x in entries) and NOT_A_VERDICT.strip() not in text:
-        return text + NOT_A_VERDICT
+    """Red team F17, F25: every point that names a temperament or a guna says it is not a judgement of the person.
+    The guna line rests on BhG 14.10 (the gunas rise and prevail in turn); the temperament line claims nothing about
+    the texts (judge re-run 5: Vism III treats temperament as one's nature)."""
+    kinds = {(x or {}).get("kind") for x in entries}
+    for k in ("temperament", "guna"):
+        if k in kinds and "not a judgement about who you are" not in text:
+            return text + NOT_A_VERDICT[k]
     return text
+
+
+def _clauses(text: str) -> str:
+    """Remove the clause that carries a forbidden claim or verdict and every clause after it in that sentence, not the
+    whole sentence: a definition written as one sentence of ';'-joined verse glosses keeps the verses before it
+    (judge re-run 5: tamas, 'those in it go downward')."""
+    out = []
+    for sent in re.split(r"(?<=[.!?])\s+", text or ""):
+        keep = []
+        for c in re.split(r";\s+", sent):          # only the clauses before the first removed one: nothing kept depends on it
+            if claims.scan(c):
+                break
+            if c.strip():
+                keep.append(c)
+        if keep:
+            j = "; ".join(keep).rstrip()
+            out.append(j if j[-1] in ".!?" else j.rstrip(",;:") + ".")
+    return " ".join(out)
+
+
+def _called(entry: dict, trad: str) -> str:
+    """How a point names an entry: a neutral display name is the reading's name, never put in the texts' mouth."""
+    if entry.get("label_in_texts"):
+        return f"a pattern {trad} describe, which this reading names {entry['name']}"
+    return f"what {trad} call {entry['name']}"
 
 
 def _direct_point(m: dict, entry: dict) -> Optional[dict]:
@@ -84,10 +114,11 @@ def _direct_point(m: dict, entry: dict) -> Optional[dict]:
     dtext, dcites = _definition(entry)
     if not (q and dtext and refs):
         return None
-    raw = (f"Your words “{q}” {FIT.get(m.get('confidence'), 'may fit')} what {TRAD_NAME[entry['lens']]} call "
-           f"{entry['name']}. {dtext}")
-    text = _clean(raw)
+    head = f"Your words “{q}” {FIT.get(m.get('confidence'), 'may fit')} {_called(entry, TRAD_NAME[entry['lens']])}. "
+    raw, text = head + dtext, _clean(head + _clauses(dtext))
     dcites = _drop_stripped(dcites, raw, text)
+    if not dcites or not _clean(_clauses(dtext)):
+        return None                     # judge re-run 5: never a point whose definition was removed, or one with no cites
     text = _not_a_verdict(text, entry)
     named = _cites_named(dcites, text)          # drop cites whose sentence was removed (red team F17)
     return {"text": text, "cites": sorted(set(named or dcites)), "evidence_refs": refs, "dx_id": entry["id"], "via": None}
@@ -132,10 +163,12 @@ def _equiv_point(m: dict, entry: dict, e: dict) -> Optional[dict]:
         return None
     if not _grounded(t["id"], [ev["quote"] for ev in m.get("evidence") or []]):
         return None
-    raw = (f"Read through {TRAD_NAME[t['lens']]}, your words “{q}” come closest to what they call {t['name']} "
-           f"({GRADE_WORDS[e['grade']]} for {entry['name']}). {tdef}")
-    text = _clean(raw)
+    head = (f"Read through {TRAD_NAME[t['lens']]}, your words “{q}” come closest to {_called(t, 'they')} "
+            f"({GRADE_WORDS[e['grade']]} for {entry['name']}). ")
+    raw, text = head + tdef, _clean(head + _clauses(tdef))
     tcites = _drop_stripped(tcites, raw, text)
+    if not tcites or not _clean(_clauses(tdef)):
+        return None
     text = _not_a_verdict(text, entry, t)
     return {"text": text, "cites": sorted(set(tcites)), "evidence_refs": refs, "dx_id": t["id"], "via": entry["id"]}
 
@@ -218,11 +251,13 @@ def _counterpart_point(m: dict, entry: dict, e: dict) -> Optional[dict]:
     if not (refs and tcites and tdef) or e.get("grade") not in ("exact", "same-under-standpoint", "partial"):
         return None
     tn = TRAD_NAME[t["lens"]]
-    raw = (f"{tn[0].upper() + tn[1:]} have their own account of a pattern like the one above: "
-           f"{t['name']} ({GRADE_WORDS[e['grade']]} for {entry['name']}). {tdef} Your words were matched to "
-           f"{entry['name']}, not to this; it is shown so that both readings are in view.")
-    text = _clean(raw)
+    head = (f"{tn[0].upper() + tn[1:]} have their own account of a pattern like the one above: "
+            f"{t['name']} ({GRADE_WORDS[e['grade']]} for {entry['name']}). ")
+    tail = f" Your words were matched to {entry['name']}, not to this; it is shown so that both readings are in view."
+    raw, text = head + tdef + tail, _clean(head + _clauses(tdef) + tail)
     tcites = _drop_stripped(tcites, raw, text)
+    if not tcites or not _clean(_clauses(tdef)):
+        return None
     text = _not_a_verdict(text, entry, t)
     return {"text": text, "cites": sorted(set(tcites)), "evidence_refs": refs, "dx_id": t["id"], "via": entry["id"],
             "counterpart_only": True}

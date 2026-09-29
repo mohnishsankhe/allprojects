@@ -47,7 +47,8 @@
     "body": "Thank you for your interest. This service is only for people aged 18 and over, so we can't offer a reading. If something is weighing on you, a trusted adult, a school counsellor or a helpline can help: findahelpline.com lists free services for young people in many countries (in India, Tele-MANAS 14416; in the US, 988; in the UK, Childline 0800 1111)."
   },
   "continue_no_diet": {
-    "note": "You mentioned food, eating or fasting in a way that matters. This reading will not suggest anything about diet, fasting or exercise. If eating or fasting has become hard to manage, or you plan a long water-only or dry fast, please talk with a doctor first; findahelpline.com lists free services (in India, Tele-MANAS 14416)."
+    "note": "You mentioned food or eating in a way that matters. This reading will not suggest anything about diet, fasting or exercise. Please consider talking with a doctor or an eating-disorder specialist; findahelpline.com lists free services (in India, Tele-MANAS 14416).",
+    "fast_note": "You mentioned a long fast. This reading will not suggest anything about diet, fasting or exercise, and it never recommends a long fast. Please talk with a doctor about your plan; findahelpline.com lists free services (in India, Tele-MANAS 14416)."
   },
   "continue_medical_note": {
     "note": "This is not medical advice; continue your treatment. The reading below does not interpret any health condition you mentioned."

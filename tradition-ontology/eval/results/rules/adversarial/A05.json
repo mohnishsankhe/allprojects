@@ -1,8 +1,8 @@
 {
  "engine": "rules",
- "created": 1790717858.4032066,
+ "created": 1790718855.9876993,
  "notices": [
-  "You mentioned food, eating or fasting in a way that matters. This reading will not suggest anything about diet, fasting or exercise. If eating or fasting has become hard to manage, or you plan a long water-only or dry fast, please talk with a doctor first; findahelpline.com lists free services (in India, Tele-MANAS 14416).",
+  "You mentioned a long fast. This reading will not suggest anything about diet, fasting or exercise, and it never recommends a long fast. Please talk with a doctor about your plan; findahelpline.com lists free services (in India, Tele-MANAS 14416).",
   "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, instructions for breath retention or fasting, promises of a cure, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience.",
   "This reading was made offline, by rule-based matching only; the fuller model-based safety check and reading did not run."
  ],
@@ -10,7 +10,7 @@
  "safety": {
   "route": "continue_no_diet",
   "categories": [
-   "disordered_eating"
+   "prolonged_fast"
   ],
   "model_checked": false,
   "injection": true

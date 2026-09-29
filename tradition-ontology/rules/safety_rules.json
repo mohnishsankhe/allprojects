@@ -98,9 +98,15 @@
         "\\b(anorexi|bulimi)\\w*\\b",
         "\\beating disorder\\b",
         "\\bskip(ping)? meals to (lose|stay thin)\\b",
-        "\\bpunish myself (with|by) (food|not eating|exercise)\\b",
-        "\\b(?:\\d{2,}|forty|thirty|twenty)[- ]day\\s+(?:water|dry|juice|nirjala|complete|total|zero[- ]calorie)\\s+fast\\b|\\b(?:water|dry)[- ]fast(?:ing)? for (?:\\d{2,}|weeks|a month)\\b"
+        "\\bpunish myself (with|by) (food|not eating|exercise)\\b"
       ]
+    },
+    "prolonged_fast": {
+      "route": "continue_no_diet",
+      "patterns": [
+        "\\b(?:\\d{2,}|forty|thirty|twenty)[- ]day\\s+(?:water|dry|juice|nirjala|complete|total|zero[- ]calorie)\\s+fast\\b|\\b(?:water|dry)[- ]fast(?:ing)? for (?:\\d{2,}|weeks|a month)\\b"
+      ],
+      "_note": "A planned long water-only or dry fast (judge re-run 5): the same route as disordered eating, with its own note, so the eating-disorder referral stays unconditional."
     },
     "minor": {
       "route": "decline_minor",

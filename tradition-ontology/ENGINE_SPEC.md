@@ -86,7 +86,7 @@ consent + age gate ─► intake (build own-words units) ─► SAFETY SCREEN �
   - `stop_crisis` (suicidal thoughts, self-harm, abuse, psychosis signs, medical emergency). It stops the reading and shows warm
     words plus Tele-MANAS 14416, 988, Samaritans 116 123 and findahelpline.com;
   - `stop_unavailable` (the model screen failed in model mode);
-  - `continue_no_diet` (disordered eating, or a planned long fast without food or water). No guidance on diet, fasting or exercise. Practices whose steps or warnings
+  - `continue_no_diet` (disordered eating, or a planned long fast without food or water; the categories `disordered_eating` and `prolonged_fast` each have their own note, and the eating-disorder referral is never conditional). No guidance on diet, fasting or exercise. Practices whose steps or warnings
     touch food or exercise are excluded, and food sentences are never evidence;
   - `continue_medical_note` (a medical condition). The note reads "This is not medical advice; continue your
     treatment". The condition is never interpreted, and the flagged sentences are never evidence;

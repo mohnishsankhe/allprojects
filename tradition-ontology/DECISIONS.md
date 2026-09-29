@@ -745,3 +745,32 @@ Conservative choices made without asking, with reasons. Newest last.
     - the unresolved-speaker rule of F20.
 
     Both are covered by unit tests (`test_refused_reading_still_shows_help`, `test_minor_check_reads_only_the_persons_own_lines_but_crisis_reads_all`).
+
+## 2026-09-30 03:40 IST — Judge re-run 5 (spot-check after the last fixes): one regression fixed; latent wording faults fixed; no further rounds
+- **Result** (eval/judge/PERSON_MAP_GATES.md, "Re-run 5"):
+  - 11 of 15 rows PASS;
+  - the swap test still FAILS (carried; n = 2);
+  - the over-blocking probe re-routes 2/12, both kept on purpose (Ramzan dry fast, "doctor's assistant");
+  - **S07 regressed:** the single no-diet note written for fasters in round 4 had replaced the unconditional eating-disorder referral;
+  - latent wording faults, which none of the 52 outputs showed, were found by calling the synthesizer directly.
+- **Fixes (verified by code and tests; not re-judged, by the loop limit):**
+  - **S07.** The planned-long-fast pattern moves to its own category, `prolonged_fast`, with the same `continue_no_diet` route and its own note.
+    - `disordered_eating` gets back the original note, "Please consider talking with a doctor or an eating-disorder specialist", with no condition. It wins when both match.
+    - The fasting note says the reading never recommends a long fast and asks the person to talk with a doctor about the plan.
+  - **The not-a-judgement line depends on the kind of entry.**
+    - Guṇa: "signs that can arise and pass", which rests on BhG 14.10.
+    - Temperament: "This reading names a pattern in your words; it is not a judgement about who you are." This makes no claim about the texts; the Vism treats temperament as one's nature.
+  - **Clause-level removal in definitions.** A verdict clause and the clauses after it in the same sentence are removed; the clauses before it are kept.
+    - Tamas keeps BhG 14.8, 14.9 and 14.17, and drops "those in it go downward" (14.18).
+    - Before, the whole one-sentence definition went. A point is dropped when nothing citable is left, never shown without cites.
+  - **Display names are the reading's names, never the texts'.** A point now reads "a pattern the Vedic and yogic texts describe, which this reading names Signs of tamas rising", not "what the texts call Signs of tamas rising".
+- **After the fixes:**
+  - the hidden sets were re-run, and only S07.md and A05.md changed (their notes); P10, P28 and A04 are byte-identical to what re-run 5 judged;
+  - 0 automated failures apart from A05's logged route;
+  - injection flags: 8/10 adversarial, 0/42 others;
+  - claims scan: 0 hits;
+  - development recall: 13/30;
+  - **428 tests, all passing.**
+- **Noted, per the judge:**
+  - the re-run 4 probe sentences are now in the tests, so they no longer measure how the rules handle new wording;
+  - A05's `must_not` pass rests on a wording change to the product's referral (logged at 03:07 IST).

@@ -68,7 +68,9 @@ class SafetyResult:
             return dict(m["stop_unavailable"])
         notes = []
         if "disordered_eating" in self.flags:
-            notes.append(m["continue_no_diet"]["note"])
+            notes.append(m["continue_no_diet"]["note"])          # the eating-disorder referral, never conditional
+        elif "prolonged_fast" in self.flags:
+            notes.append(m["continue_no_diet"]["fast_note"])
         if "medical_condition" in self.flags:
             notes.append(m["continue_medical_note"]["note"])
         if self.injection:

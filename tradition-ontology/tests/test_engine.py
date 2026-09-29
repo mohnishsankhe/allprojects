@@ -273,3 +273,23 @@ def test_a_cite_named_only_in_a_removed_sentence_is_dropped():
     text = _clean(raw)
     kept = _drop_stripped(["tea:bhagavad-gita:3.38", "tea:bhagavad-gita:3.39", "tea:bhagavad-gita:16.21"], raw, text)
     assert "hell" not in text and kept == ["tea:bhagavad-gita:3.38", "tea:bhagavad-gita:3.39"]
+
+
+# --- judge re-run 5: clause-level removal, kind-specific line, the reading's own names ------------------------------
+def test_a_removed_verdict_clause_takes_only_itself_and_what_follows():
+    from insight.synthesizer import _clauses
+    t = "Tamas binds by sleep (BhG 14.8); it covers knowledge (14.9); those in it go downward (14.18)."
+    assert _clauses(t) == "Tamas binds by sleep (BhG 14.8); it covers knowledge (14.9)."
+    assert _clauses("They are the threefold gate of hell; give them up (16.21).") == ""
+
+
+def test_guna_and_temperament_points_carry_their_own_line_and_no_verdict_cite():
+    from insight import ontology, synthesizer as S
+    dx = ontology.diagnosis()
+    m = {"confidence": "low", "evidence": [{"qid": "q01", "quote": "I lie on the couch all day", "unit": "intake:q01"}]}
+    tamas = S._direct_point({**m, "dx_id": "dx:guna-tamas"}, dx["dx:guna-tamas"])
+    assert "tea:bhagavad-gita:14.18" not in tamas["cites"] and "tea:bhagavad-gita:14.8" in tamas["cites"]
+    assert "can arise and pass" in tamas["text"] and "downward" not in tamas["text"]
+    assert "which this reading names Signs of tamas rising" in tamas["text"]      # the reading's name, not the texts'
+    dosa = S._direct_point({**m, "dx_id": "dx:carita-dosa"}, dx["dx:carita-dosa"])
+    assert "This reading names a pattern in your words" in dosa["text"] and "arise and pass" not in dosa["text"]
