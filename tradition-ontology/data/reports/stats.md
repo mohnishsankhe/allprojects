@@ -1,19 +1,19 @@
-# Counts (2026-09-29 23:06 IST)
+# Counts (2026-09-29 23:12 IST)
 
 | entity | total | skeleton | sourced | text-verified | [unverified] | recent |
 |---|---|---|---|---|---|---|
 | sources | 3698 | 3122 | 576 | 0 | 0 | 123 |
 | lineages | 347 | 316 | 31 | 0 | 0 | 51 |
-| teachers | 2776 | 2377 | 399 | 0 | 0 | 210 |
-| teachings | 12463 | 7777 | 2383 | 2303 | 1 | 100 |
-| terms | 5424 | 4607 | 817 | 0 | 0 | 20 |
-| concepts | 2986 | 2559 | 427 | 0 | 0 | 22 |
+| teachers | 2801 | 2372 | 429 | 0 | 0 | 210 |
+| teachings | 12853 | 7668 | 2352 | 2833 | 1 | 100 |
+| terms | 5434 | 4605 | 829 | 0 | 0 | 20 |
+| concepts | 3005 | 2553 | 452 | 0 | 0 | 22 |
 | ultimate | 232 | 227 | 5 | 0 | 0 | 35 |
-| obstacles | 634 | 504 | 130 | 0 | 0 | 2 |
-| practices | 1553 | 1130 | 423 | 0 | 0 | 30 |
-| paths | 213 | 168 | 45 | 0 | 0 | 6 |
-| phenomenology | 796 | 633 | 163 | 0 | 0 | 19 |
-| disputes | 467 | 405 | 62 | 0 | 0 | 12 |
+| obstacles | 636 | 505 | 131 | 0 | 0 | 2 |
+| practices | 1560 | 1110 | 450 | 0 | 0 | 30 |
+| paths | 213 | 167 | 46 | 0 | 0 | 6 |
+| phenomenology | 801 | 628 | 173 | 0 | 0 | 19 |
+| disputes | 468 | 403 | 65 | 0 | 0 | 12 |
 | borrowings | 470 | 423 | 47 | 0 | 0 | 1 |
 
-Reconciliation queue: 425 · interpretation-log lines: 2429 · merge conflicts logged: 3732 · dangling references: 429
+Reconciliation queue: 425 · interpretation-log lines: 2598 · merge conflicts logged: 3802 · dangling references: 419

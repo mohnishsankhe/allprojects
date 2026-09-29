@@ -395,3 +395,18 @@ Conservative choices made without asking, with reasons. Newest last.
   - the carousel caption word limit is now checked by code.
   All five formats pass rules_check on a 300-draft sample.
 - **AI-label reminders are general.** They were not checked against the current platform policies (no web access). originality.md makes the human reviewer check them at posting time.
+
+## 2026-09-29 23:13 IST — Gītā ch16–18 Role F: all 137 entries checked, 11 fixed. The whole Gītā is now text-verified (736 teachings)
+- **Fixes:**
+  - 18.64: the endearment is the reason, not the content, of the "most secret" word.
+  - The thesis no longer decides the arthavāda question for 18.68–71 and 18.78.
+  - 18.75: the divine-eye link is removed.
+  - The notes at 18.12, 18.14, 18.16, 18.20 and 18.33 are corrected (avyabhicāriṇyā agrees with dhṛti).
+  - 6 entities corrected.
+- **Restricted content** (17.5–6 and 17.19, fierce and self-tormenting austerity) is summary plus the text's own verdict only. 18.52 "eating lightly" is moderation, not fasting.
+- **Open items for NEXT_STEPS** (ontology quality, not user-facing in v1):
+  - data/ entries that carry only another school's sense (trm:punya, trm:artha, trm:acara, trm:paurusa; trm:bhava mixed);
+  - a Gītā-wide rule for term links where the verse lacks the word;
+  - the level-tag policy for "unmarked" versus "bridging";
+  - cosmetic duplicates left by the code-combined merge;
+  - the commentators' views, which are recalled and should be checked in Wave 2.

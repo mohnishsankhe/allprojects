@@ -1,14 +1,14 @@
 {
- "total_distinct": 429,
+ "total_distinct": 419,
  "by_prefix": {
   "lin": 24,
   "tch": 111,
   "src": 108,
-  "tea": 118,
+  "tea": 107,
   "brw": 1,
   "prc": 11,
+  "cpt": 29,
   "trm": 22,
-  "cpt": 28,
   "obs": 5,
   "dsp": 1
  },
@@ -191,15 +191,6 @@
     "tea:hatha-yoga-pradipika:3.6-7",
     "tea:hatha-yoga-pradipika:3.77-79",
     "tea:hatha-yoga-pradipika:3.80-81"
-   ]
-  },
-  {
-   "id": "tea:bhagavad-gita:18.57",
-   "refs": 5,
-   "e.g.": [
-    "tea:bhagavad-gita:12.6-7",
-    "tea:bhagavad-gita:3.30",
-    "tea:bhagavad-gita:9.27"
    ]
   },
   {
@@ -526,14 +517,6 @@
    ]
   },
   {
-   "id": "tea:bhagavad-gita:16.6",
-   "refs": 2,
-   "e.g.": [
-    "tea:bhagavad-gita:7.15",
-    "tea:bhagavad-gita:9.12"
-   ]
-  },
-  {
    "id": "tea:prasna-upanisad:3.10",
    "refs": 2,
    "e.g.": [
@@ -566,30 +549,6 @@
    ]
   },
   {
-   "id": "tea:bhagavad-gita:16.1",
-   "refs": 2,
-   "e.g.": [
-    "tea:bhagavad-gita:13.8",
-    "tea:bhagavad-gita:13.8-12"
-   ]
-  },
-  {
-   "id": "tea:bhagavad-gita:16.2",
-   "refs": 2,
-   "e.g.": [
-    "tea:bhagavad-gita:13.8",
-    "tea:bhagavad-gita:13.8-12"
-   ]
-  },
-  {
-   "id": "tea:bhagavad-gita:16.3",
-   "refs": 2,
-   "e.g.": [
-    "tea:bhagavad-gita:13.8",
-    "tea:bhagavad-gita:13.8-12"
-   ]
-  },
-  {
    "id": "tea:mundaka-upanisad:2.2.4",
    "refs": 2,
    "e.g.": [
@@ -611,14 +570,6 @@
    "e.g.": [
     "prc:vara-caram",
     "tea:siva-svarodaya:topic.actions"
-   ]
-  },
-  {
-   "id": "tea:bhagavad-gita:18.64",
-   "refs": 2,
-   "e.g.": [
-    "tea:bhagavad-gita:15.20",
-    "tea:bhagavad-gita:9.1"
    ]
   },
   {
@@ -2096,20 +2047,6 @@
    ]
   },
   {
-   "id": "tea:bhagavad-gita:18.47",
-   "refs": 1,
-   "e.g.": [
-    "tea:bhagavad-gita:3.35"
-   ]
-  },
-  {
-   "id": "tea:bhagavad-gita:18.41",
-   "refs": 1,
-   "e.g.": [
-    "tea:bhagavad-gita:4.13"
-   ]
-  },
-  {
    "id": "tea:svetasvatara-upanisad:3.18",
    "refs": 1,
    "e.g.": [
@@ -2128,13 +2065,6 @@
    "refs": 1,
    "e.g.": [
     "tea:bhagavad-gita:8.11"
-   ]
-  },
-  {
-   "id": "tea:bhagavad-gita:18.53",
-   "refs": 1,
-   "e.g.": [
-    "tea:bhagavad-gita:14.26"
    ]
   },
   {
@@ -2257,13 +2187,6 @@
    ]
   },
   {
-   "id": "tea:bhagavad-gita:16.21",
-   "refs": 1,
-   "e.g.": [
-    "tea:bhagavad-gita:3.37"
-   ]
-  },
-  {
    "id": "tea:chandogya-upanisad:6.1.3",
    "refs": 1,
    "e.g.": [
@@ -2320,13 +2243,6 @@
    ]
   },
   {
-   "id": "tea:bhagavad-gita:18.67",
-   "refs": 1,
-   "e.g.": [
-    "tea:bhagavad-gita:9.1"
-   ]
-  },
-  {
    "id": "tea:svetasvatara-upanisad:3.3",
    "refs": 1,
    "e.g.": [
@@ -2352,6 +2268,13 @@
    "refs": 1,
    "e.g.": [
     "tea:bhagavad-gita:11.19"
+   ]
+  },
+  {
+   "id": "cpt:divine-eye (the eye the Lord gives Arjuna, 11.8) was linked although the verse says only 'by Vyāsa's grace' (vyāsa-prasādāt); the entry's own notes say it is not linked and the skeleton decision on 18.74-78 says it is not carried. Removed.",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:18.75"
    ]
   },
   {
@@ -2898,6 +2821,76 @@
    "refs": 1,
    "e.g.": [
     "ult:brahma-kumaris"
+   ]
+  },
+  {
+   "id": "tea:science-of-being-and-art-of-living:being",
+   "refs": 1,
+   "e.g.": [
+    "ult:transcendental-meditation"
+   ]
+  },
+  {
+   "id": "trm:paramacaitanya",
+   "refs": 1,
+   "e.g.": [
+    "ult:sahaja-yoga"
+   ]
+  },
+  {
+   "id": "tea:meta-modern-era:self-realisation",
+   "refs": 1,
+   "e.g.": [
+    "ult:sahaja-yoga"
+   ]
+  },
+  {
+   "id": "tea:pravacana-ratnakara:bhutartha",
+   "refs": 1,
+   "e.g.": [
+    "ult:kanji-swami"
+   ]
+  },
+  {
+   "id": "obs:klesas",
+   "refs": 1,
+   "e.g.": [
+    "obs:bhutadahiya-dosas"
+   ]
+  },
+  {
+   "id": "obs:tirodhana-sakti",
+   "refs": 1,
+   "e.g.": [
+    "obs:tirobhava"
+   ]
+  },
+  {
+   "id": "prc:kriya-yoga (thins them, 2.2)",
+   "refs": 1,
+   "e.g.": [
+    "obs:five-klesas"
+   ]
+  },
+  {
+   "id": "prc:dhyana (removes their gross activities, 2.11)",
+   "refs": 1,
+   "e.g.": [
+    "obs:five-klesas"
+   ]
+  },
+  {
+   "id": "obs:klesa",
+   "refs": 1,
+   "e.g.": [
+    "obs:five-klesas"
+   ]
+  },
+  {
+   "id": "obs:three-bonds",
+   "refs": 1,
+   "e.g.": [
+    "obs:three-malas"
    ]
   }
  ]

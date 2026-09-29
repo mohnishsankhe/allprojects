@@ -813,16 +813,34 @@
   "id": "tch:adinatha",
   "name": "Ādinātha",
   "lineages": [
-   "lin:natha",
-   "lin:hatha-yoga"
+   "lin:hatha-yoga",
+   "lin:natha"
   ],
-  "summary": "Śiva as the first Nāth and first teacher of yoga; the Haṭhapradīpikā opens with homage to Śrī Ādinātha 'by whom the knowledge of haṭha yoga was taught' (HYP 1.1), and Nāth lineages begin with him. In Nāth accounts he taught Matsyendra, who overheard or received the teaching he gave to Pārvatī.",
+  "summary": "Honoured in HYP 1.1 as the one by whom haṭhayoga was taught, first in the list of adepts (1.5), and named as the teacher of the ten mudrās (3.8, 3.128) and of a crore and a quarter of ways of laya (4.66).",
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "notes": "Contribution from the HYP text only (ref 1.1).",
+  "alt_summary": [
+   "Śiva as the first Nāth and first teacher of yoga; the Haṭhapradīpikā opens with homage to Śrī Ādinātha 'by whom the knowledge of haṭha yoga was taught' (HYP 1.1), and Nāth lineages begin with him. In Nāth accounts he taught Matsyendra, who overheard or received the teaching he gave to Pārvatī.",
+   "U28 contribution: in the haṭha texts Ādinātha — Śiva as the first lord — is the revealer of haṭhavidyā (HYP 1.1), of the eighty-four postures (HYP 1.33), the ten mudrās (HYP 3.8, 3.128), 'a crore and a quarter' ways of laya (HYP 4.66; DYŚ 14: eight crore saṅketas), and of the Khecarīvidyā; the Jyotsnā says he taught haṭha to Girijā (Pārvatī)."
+  ],
   "coverage": [
    "A7",
    "A10"
@@ -866,15 +884,14 @@
     "attribution": "traditional"
    }
   ],
-  "alt_summary": [
-   "U28 contribution: in the haṭha texts Ādinātha — Śiva as the first lord — is the revealer of haṭhavidyā (HYP 1.1), of the eighty-four postures (HYP 1.33), the ten mudrās (HYP 3.8, 3.128), 'a crore and a quarter' ways of laya (HYP 4.66; DYŚ 14: eight crore saṅketas), and of the Khecarīvidyā; the Jyotsnā says he taught haṭha to Girijā (Pārvatī)."
-  ],
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U21-natha-aghora",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -3350,6 +3367,55 @@
   }
  },
  {
+  "id": "tch:allama-hyp",
+  "name": "Allama",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.8; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "corrected",
+     "note": "Corrected by J (see correction_log). Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.8. The verse's 'allamaḥ prabhudevaśca' may name one person (Allama Prabhudeva) or two (Allama and Prabhudeva); the division is uncertain and this id is provisional.",
+  "correction_log": [
+   {
+    "field": "notes",
+    "old": "Named in HYP 1.8.",
+    "new": "Named in HYP 1.8. The verse's 'allamaḥ prabhudevaśca' may name one person (Allama Prabhudeva) or two (Allama and Prabhudeva); the division is uncertain and this id is provisional.",
+    "reason": "J check (insight-p1-single+spot): Aligned with the J note on 1.8: the division of 'allamaḥ prabhudevaśca' is uncertain.",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:allama-prabhu",
   "name": "Allama Prabhu",
   "lineages": [
@@ -4193,6 +4259,45 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "tch:anandabhairava-hyp",
+  "name": "Ānandabhairava",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.5; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.5.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -6402,6 +6507,21 @@
      "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     },
     {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:16.5",
+      "tea:bhagavad-gita:17.1",
+      "tea:bhagavad-gita:18.1",
+      "tea:bhagavad-gita:18.64",
+      "tea:bhagavad-gita:18.73"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
      "phase": "C",
      "date": "2026-09-29",
      "method": "text-locate",
@@ -6427,7 +6547,8 @@
    "The addressee of BhG 4–6 (so called by the vocatives Pārtha, Kaunteya, Bhārata, Parantapa, Mahābāho, Dhanañjaya, Pāṇḍava, Kurusattama, Kurunandana). He receives the ancient yoga as the Lord's devotee and friend (4.3); he asks how the Lord could have taught Vivasvat (4.4), which is better, renunciation or yoga (5.1), how the restless mind can be steadied (6.33–34), and what becomes of one who falls from yoga (6.37–39).",
    "In BhG 7–9 the addressee; he asks the seven questions of 8.1–2 (Brahman, adhyātma, karma, adhibhūta, adhidaiva, adhiyajña, knowing the Lord at death) and is told to remember Kṛṣṇa and fight (8.7).",
    "In BhG 10–12 he acknowledges Kṛṣṇa as the supreme brahman (10.12), asks to hear his manifestations and to see his sovereign form (10.16–18, 11.3–4), receives the divine eye, describes and praises the universal form in fear and wonder (11.15–46), asks forgiveness for past familiarity (11.41–42), and asks which worshippers know yoga best (12.1); named by the Lord among his manifestations ('Dhanañjaya among the Pāṇḍavas', 10.37).",
-   "Kṛṣṇa's disciple and interlocutor in the Bhagavad Gītā. In chapters 13–15 he asks about prakṛti and puruṣa, the field and its knower, knowledge and the knowable (13.1, in editions with that verse) and about the marks, conduct and means of the one beyond the guṇas (14.21); he is addressed as Kaunteya, Bhārata, Bharatarṣabha, Mahābāhu, Anagha, Pāṇḍava and Kurunandana."
+   "Kṛṣṇa's disciple and interlocutor in the Bhagavad Gītā. In chapters 13–15 he asks about prakṛti and puruṣa, the field and its knower, knowledge and the knowable (13.1, in editions with that verse) and about the marks, conduct and means of the one beyond the guṇas (14.21); he is addressed as Kaunteya, Bhārata, Bharatarṣabha, Mahābāhu, Anagha, Pāṇḍava and Kurunandana.",
+   "In BhG 16–18 Arjuna asks about those who sacrifice with faith outside scriptural injunction (17.1) and about the truth of renunciation and relinquishment (18.1); told he is born to the divine endowment (16.5) and dearly loved (18.64–65), he declares at the end that his delusion is destroyed, his memory regained by Kṛṣṇa's grace, and that he will do Kṛṣṇa's word (18.73)."
   ],
   "works": [],
   "notes": "Linked in BhG ch. 1–3 at 1.4, 1.14, 1.15, 1.20, 1.21, 1.22, 1.23, 1.24, 1.25, 1.26, 1.27, 1.28, 1.29, 1.30, 1.31, 1.32, 1.33, 1.34, 1.35, 1.36, 1.37, 1.38, 1.39, 1.40, 1.41, 1.42, 1.43, 1.44, 1.45, 1.46, 1.47, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17, 2.18, 2.19, 2.20, 2.21, 2.22, 2.23, 2.24, 2.25, 2.26, 2.27, 2.28, 2.29, 2.30, 2.31, 2.32, 2.33, 2.34, 2.35, 2.36, 2.37, 2.38, 2.39, 2.40, 2.41, 2.42, 2.43, 2.44, 2.45, 2.46, 2.47, 2.48, 2.49, 2.50, 2.51, 2.52, 2.53, 2.54, 2.55, 2.56, 2.57, 2.58, 2.59, 2.60, 2.61, 2.62, 2.63, 2.64, 2.65, 2.66, 2.67, 2.68, 2.69, 2.70, 2.71, 2.72, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.13, 3.14, 3.15, 3.16, 3.17, 3.18, 3.19, 3.20, 3.21, 3.22, 3.23, 3.24, 3.25, 3.26, 3.27, 3.28, 3.29, 3.30, 3.31, 3.32, 3.33, 3.34, 3.35, 3.36, 3.37, 3.38, 3.39, 3.40, 3.41, 3.42, 3.43.",
@@ -6438,7 +6559,8 @@
     "extraction:bhagavad-gita/ch04-06",
     "extraction:bhagavad-gita/ch07-09",
     "extraction:bhagavad-gita/ch10-12",
-    "extraction:bhagavad-gita/ch13-15"
+    "extraction:bhagavad-gita/ch13-15",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction",
@@ -12213,6 +12335,45 @@
   }
  },
  {
+  "id": "tch:bhanuki-hyp",
+  "name": "Bhānukī",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.8; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.8.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:bharadvaja",
   "name": "Bharadvāja",
   "lineages": [
@@ -15521,6 +15682,45 @@
   }
  },
  {
+  "id": "tch:bilesaya-hyp",
+  "name": "Bileśaya",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.5; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.5.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:bilvamangala",
   "name": "Bilvamaṅgala (Līlāśuka)",
   "lineages": [
@@ -15587,6 +15787,45 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "tch:bindunatha-hyp",
+  "name": "Bindunātha",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.7; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.7.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -19203,6 +19442,45 @@
   }
  },
  {
+  "id": "tch:carpati-hyp",
+  "name": "Carpaṭi",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.6; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.6.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:carvaka",
   "name": "Cārvāka (the eponymous teacher)",
   "lineages": [
@@ -19472,18 +19750,37 @@
   "id": "tch:caurangi",
   "name": "Cauraṅgīnātha",
   "lineages": [
+   "lin:hatha-yoga",
    "lin:natha",
    "lin:mahasiddha",
-   "lin:vajrayana",
-   "lin:hatha-yoga"
+   "lin:vajrayana"
   ],
-  "summary": "A Nāth siddha (Cauraṅgī in HYP 1.5): a prince whose hands and feet were cut off at a stepmother's false accusation and who was restored by the Nāth gurus — known in Punjab as Pūraṇ Bhagat and in Telugu as Sāraṅgadhara. The Prāṇ Saṅkalī is ascribed to him.",
+  "summary": "Named in the HYP list of adepts (1.5); the text says nothing else about him.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "notes": "Contribution from the HYP text only (ref 1.5).",
+  "alt_summary": [
+   "A Nāth siddha (Cauraṅgī in HYP 1.5): a prince whose hands and feet were cut off at a stepmother's false accusation and who was restored by the Nāth gurus — known in Punjab as Pūraṇ Bhagat and in Telugu as Sāraṅgadhara. The Prāṇ Saṅkalī is ascribed to him.",
+   "U44 contribution (the siddha of the eighty-four): No. 10 of the eighty-four siddhas (Tōh 2292 order). A prince falsely accused by his stepmother, whose hands and feet were cut off and who was left in the forest; Mīnapa taught him breath and meditation, Gorakṣa served him, and after twelve years his limbs were restored.",
+   "U28 contribution: named among the Mahāsiddhas of HYP 1.5 (Cauraṅgī); the text says these Siddhas broke the staff of time by the power of haṭha and roam the universe (HYP 1.9)."
+  ],
   "coverage": [
    "A7",
    "B5",
@@ -19520,18 +19817,18 @@
     "src:caturasiti-siddha-bodhihrdaya"
    ]
   },
-  "alt_summary": [
-   "U44 contribution (the siddha of the eighty-four): No. 10 of the eighty-four siddhas (Tōh 2292 order). A prince falsely accused by his stepmother, whose hands and feet were cut off and who was left in the forest; Mīnapa taught him breath and meditation, Gorakṣa served him, and after twelve years his limbs were restored.",
-   "U28 contribution: named among the Mahāsiddhas of HYP 1.5 (Cauraṅgī); the text says these Siddhas broke the staff of time by the power of haṭha and roam the universe (HYP 1.9)."
+  "alt_notes": [
+   "Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292."
   ],
-  "notes": "Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292.",
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U21-natha-aghora",
     "skeleton:U44-indian-vajrayana",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -27076,6 +27373,17 @@
      "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     },
     {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.76"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
      "phase": "C",
      "date": "2026-09-29",
      "method": "text-locate",
@@ -27097,7 +27405,8 @@
   ],
   "alt_summary": [
    "The king whose question to Sañjaya opens the text: what did my people and the sons of Pāṇḍu do at Kurukṣetra, the field of dharma? (1.1); addressed by Sañjaya as 'lord of the earth' and 'Bhārata'.",
-   "Addressed as 'king' by Sañjaya in the narration of the universal form (11.9); his sons are seen entering the mouths of the fierce form (11.26)."
+   "Addressed as 'king' by Sañjaya in the narration of the universal form (11.9); his sons are seen entering the mouths of the fierce form (11.26).",
+   "The king ('rājan') to whom Sañjaya addresses the close of the Gītā (18.76–77)."
   ],
   "alt_names": [],
   "works": [],
@@ -27106,7 +27415,8 @@
    "units": [
     "skeleton:U05-gita-epic",
     "extraction:bhagavad-gita/ch01-03",
-    "extraction:bhagavad-gita/ch10-12"
+    "extraction:bhagavad-gita/ch10-12",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction",
@@ -33241,6 +33551,45 @@
   }
  },
  {
+  "id": "tch:ghodacoli-hyp",
+  "name": "Ghoḍācolī",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.8; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.8.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:ghora-angirasa",
   "name": "Ghora Āṅgirasa",
   "lineages": [
@@ -34087,19 +34436,38 @@
   "id": "tch:goraksanatha",
   "name": "Gorakṣanātha",
   "lineages": [
-   "lin:natha",
    "lin:hatha-yoga",
+   "lin:natha",
    "lin:tamil-siddha",
    "lin:mahasiddha",
    "lin:vajrayana"
   ],
-  "summary": "Disciple of Matsyendra and the great organiser of the Nāth order, to whom the Nāths trace their panths, insignia and yoga; the Gorakṣaśataka, Siddhasiddhāntapaddhati, Amaraughaprabodha, Amaraughaśāsana and the Hindi Gorakh Bānī are ascribed to him. The tradition holds him immortal, appearing in every age; he rescues Matsyendra from the Kadalī kingdom, initiates Gopīcand, Bharthari and Pūraṇ Bhagat (Cauraṅgī), and in Vīraśaiva accounts meets Allama Prabhu. The Gorakhnāth Maṭh at Gorakhpur is his principal seat; Gorkha and the Gurkhas take their name from him.",
+  "summary": "Named in HYP 1.4 (with Matsyendra) as a knower of haṭha; quoted for a rule of conduct (1.61); called the teacher of nādopāsana (4.65); a posture is called gorakṣāsana by adept yogins (1.54).",
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "notes": "Contribution from the HYP text only (ref 1.4).",
+  "alt_summary": [
+   "Disciple of Matsyendra and the great organiser of the Nāth order, to whom the Nāths trace their panths, insignia and yoga; the Gorakṣaśataka, Siddhasiddhāntapaddhati, Amaraughaprabodha, Amaraughaśāsana and the Hindi Gorakh Bānī are ascribed to him. The tradition holds him immortal, appearing in every age; he rescues Matsyendra from the Kadalī kingdom, initiates Gopīcand, Bharthari and Pūraṇ Bhagat (Cauraṅgī), and in Vīraśaiva accounts meets Allama Prabhu. The Gorakhnāth Maṭh at Gorakhpur is his principal seat; Gorkha and the Gurkhas take their name from him.",
+   "U28 contribution: the haṭha texts treat Gorakṣa as the great teacher of haṭha: HYP 1.4 names him with Matsyendra; HYP 1.61 quotes 'Gorakṣa's saying' on what to avoid; HYP 4.65 credits him with the worship of the inner sound (nādopāsana) even for the dull; the Vivekamārtaṇḍa, Yogabīja and (doubtfully) the Amanaska are ascribed to him.",
+   "U44 contribution (the siddha of the eighty-four): No. 9 of the eighty-four siddhas (Tōh 2292 order). A cowherd boy who, at Mīnapa's request, guarded and served the limbless Cauraṅgi for twelve years; received the instruction and attained realization; the tradition says he did not die. Identified with Gorakṣanātha of the Nāth tradition."
+  ],
   "coverage": [
    "A7",
    "A10",
@@ -34219,18 +34587,18 @@
   },
   "historicity": "semi-legendary",
   "gender": "male",
-  "alt_summary": [
-   "U28 contribution: the haṭha texts treat Gorakṣa as the great teacher of haṭha: HYP 1.4 names him with Matsyendra; HYP 1.61 quotes 'Gorakṣa's saying' on what to avoid; HYP 4.65 credits him with the worship of the inner sound (nādopāsana) even for the dull; the Vivekamārtaṇḍa, Yogabīja and (doubtfully) the Amanaska are ascribed to him.",
-   "U44 contribution (the siddha of the eighty-four): No. 9 of the eighty-four siddhas (Tōh 2292 order). A cowherd boy who, at Mīnapa's request, guarded and served the limbless Cauraṅgi for twelve years; received the instruction and attained realization; the tradition says he did not die. Identified with Gorakṣanātha of the Nāth tradition."
+  "alt_notes": [
+   "Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Names Matsyendra (ma tsin+d+hi) explicitly — Tōh 2292 itself links Mīnapa/Matsyendra, Cauraṅgi and Gorakṣa. The word 'ba dzi' in the last line is not understood."
   ],
-  "notes": "Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Names Matsyendra (ma tsin+d+hi) explicitly — Tōh 2292 itself links Mīnapa/Matsyendra, Cauraṅgi and Gorakṣa. The word 'ba dzi' in the last line is not understood.",
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U21-natha-aghora",
     "skeleton:U28-hatha-texts",
     "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -46721,6 +47089,45 @@
   }
  },
  {
+  "id": "tch:kakacandisvara-hyp",
+  "name": "Kākacaṇḍīśvara",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.7; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.7.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:kakapusundar",
   "name": "Kākapucuṇṭar (Kākabhuśuṇḍa)",
   "lineages": [
@@ -48427,6 +48834,45 @@
   }
  },
  {
+  "id": "tch:kaneri-hyp",
+  "name": "Kānerī",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.7; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.7.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:kangal-harinath",
   "name": "Kāṅgāl Harināth (Harināth Majumdar)",
   "lineages": [
@@ -48956,6 +49402,45 @@
   }
  },
  {
+  "id": "tch:kanthadi-hyp",
+  "name": "Kanthaḍi",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.6; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.6.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:kanva",
   "name": "Kaṇva",
   "lineages": [
@@ -49126,6 +49611,45 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "tch:kapali-hyp",
+  "name": "Kapālī",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.7; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.7.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -51849,6 +52373,45 @@
   }
  },
  {
+  "id": "tch:khanda-kapalika-hyp",
+  "name": "Khaṇḍa Kāpālika",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.8; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.8.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:khandadeva",
   "name": "Khaṇḍadeva Miśra",
   "lineages": [
@@ -53209,6 +53772,45 @@
   }
  },
  {
+  "id": "tch:koranta-hyp",
+  "name": "Koraṇṭaka",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.6; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.6.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:kosai",
   "name": "Kōsai",
   "alt_names": [
@@ -53467,7 +54069,8 @@
    "Hari",
    "Yādava",
    "śrī bhagavān (the Blessed Lord)",
-   "Prabhu"
+   "Prabhu",
+   "Keśiniṣūdana"
   ],
   "lineages": [
    "lin:epic-teaching",
@@ -53592,6 +54195,20 @@
      "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     },
     {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.61",
+      "tea:bhagavad-gita:18.64",
+      "tea:bhagavad-gita:18.75",
+      "tea:bhagavad-gita:18.78"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
      "phase": "C",
      "date": "2026-09-29",
      "method": "text-locate",
@@ -53646,7 +54263,8 @@
     "extraction:bhagavad-gita/ch07-09",
     "extraction:bhagavad-gita/ch04-06",
     "extraction:bhagavad-gita/ch10-12",
-    "extraction:bhagavad-gita/ch13-15"
+    "extraction:bhagavad-gita/ch13-15",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction",
@@ -63670,6 +64288,45 @@
   }
  },
  {
+  "id": "tch:manthana-hyp",
+  "name": "Manthāna",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.6; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.6.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:mantharabhairava",
   "name": "Manthānabhairava",
   "lineages": [
@@ -64897,20 +65554,38 @@
   "id": "tch:matsyendranatha",
   "name": "Matsyendranātha",
   "lineages": [
+   "lin:hatha-yoga",
    "lin:natha",
    "lin:yogini-kaula",
    "lin:kaula",
    "lin:mahasiddha",
-   "lin:newar-vajrayana",
-   "lin:hatha-yoga"
+   "lin:newar-vajrayana"
   ],
-  "summary": "The first human Nāth after Ādinātha and guru of Gorakṣa; the Kaulajñānanirṇaya calls itself 'brought down' by Macchaghnapāda/Mīnapāda from Candradvīpa and tells how Bhairava as a fisherman recovered the scripture from a fish's belly (KJN 16). Nāth sagas tell how he forgot himself among the women of the Kadalī (or Strī) kingdom and was awakened by Gorakṣa. In the Kathmandu valley he is worshipped as Karuṇāmaya (Buṅga-dyaḥ, Rāto Macchindranāth), brought to end a drought caused by Gorakṣa; Tibetan tradition relates the name to the siddha Lūipa. Abhinavagupta praises 'Macchanda' as a Kaula master (Tantrāloka 1.7).",
+  "summary": "Named in HYP 1.4 (with Gorakṣa) as a knower of haṭha, in the list of adepts (1.5) and as a yogin whose accepted postures the text draws on (1.18).",
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "notes": "Contribution from the HYP text only (ref 1.4).",
+  "alt_summary": [
+   "The first human Nāth after Ādinātha and guru of Gorakṣa; the Kaulajñānanirṇaya calls itself 'brought down' by Macchaghnapāda/Mīnapāda from Candradvīpa and tells how Bhairava as a fisherman recovered the scripture from a fish's belly (KJN 16). Nāth sagas tell how he forgot himself among the women of the Kadalī (or Strī) kingdom and was awakened by Gorakṣa. In the Kathmandu valley he is worshipped as Karuṇāmaya (Buṅga-dyaḥ, Rāto Macchindranāth), brought to end a drought caused by Gorakṣa; Tibetan tradition relates the name to the siddha Lūipa. Abhinavagupta praises 'Macchanda' as a Kaula master (Tantrāloka 1.7).",
+   "U28 contribution: named second in the HYP's list of Mahāsiddhas (1.5), with Gorakṣa as knower of haṭhavidyā (1.4); the posture matsyendrāsana bears his name (HYP 1.26–27) and HYP 1.18 names 'Matsyendra and other yogins' as authorities on postures."
+  ],
   "coverage": [
    "A7",
    "A10"
@@ -64988,16 +65663,17 @@
   },
   "historicity": "semi-legendary",
   "gender": "male",
-  "notes": "HYP 1.5 lists both 'Matsyendra' and 'Mīna', and some traditions distinguish Mīnanātha from Matsyendra (e.g. as father/son); this shard keeps one entry and records the question in dsp:identity-of-matsyendra.",
-  "alt_summary": [
-   "U28 contribution: named second in the HYP's list of Mahāsiddhas (1.5), with Gorakṣa as knower of haṭhavidyā (1.4); the posture matsyendrāsana bears his name (HYP 1.26–27) and HYP 1.18 names 'Matsyendra and other yogins' as authorities on postures."
+  "alt_notes": [
+   "HYP 1.5 lists both 'Matsyendra' and 'Mīna', and some traditions distinguish Mīnanātha from Matsyendra (e.g. as father/son); this shard keeps one entry and records the question in dsp:identity-of-matsyendra."
   ],
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U21-natha-aghora",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -66531,6 +67207,45 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "tch:mina-hyp",
+  "name": "Mīna",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.5; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.5.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -71352,6 +72067,45 @@
   }
  },
  {
+  "id": "tch:naradeva-hyp",
+  "name": "Nāradeva",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.8; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.8.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:narahari-cakravarti",
   "name": "Narahari Cakravartī",
   "lineages": [
@@ -74073,6 +74827,45 @@
   }
  },
  {
+  "id": "tch:niranjana-hyp",
+  "name": "Nirañjana",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.7; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.7.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:nirmala-varkari",
   "name": "Nirmaḷā",
   "lineages": [
@@ -74219,6 +75012,45 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "tch:nityanatha-hyp",
+  "name": "Nityanātha",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.7; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.7.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -80518,6 +81350,55 @@
   }
  },
  {
+  "id": "tch:prabhudeva-hyp",
+  "name": "Prabhudeva",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.8; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "corrected",
+     "note": "Corrected by J (see correction_log). Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.8. The verse's 'allamaḥ prabhudevaśca' may name one person (Allama Prabhudeva) or two (Allama and Prabhudeva); the division is uncertain and this id is provisional.",
+  "correction_log": [
+   {
+    "field": "notes",
+    "old": "Named in HYP 1.8.",
+    "new": "Named in HYP 1.8. The verse's 'allamaḥ prabhudevaśca' may name one person (Allama Prabhudeva) or two (Allama and Prabhudeva); the division is uncertain and this id is provisional.",
+    "reason": "J check (insight-p1-single+spot): Aligned with the J note on 1.8: the division of 'allamaḥ prabhudevaśca' is uncertain.",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:prabhutaratna",
   "name": "Prabhūtaratna",
   "lineages": [
@@ -81876,6 +82757,45 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "tch:pujyapada-hyp",
+  "name": "Pūjyapāda",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.7; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.7.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -88875,6 +89795,45 @@
   }
  },
  {
+  "id": "tch:sabara-hyp",
+  "name": "Śābara",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.5; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.5.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:sabari",
   "name": "Śabarī",
   "lineages": [
@@ -92544,6 +93503,17 @@
      "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     },
     {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.74"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
      "phase": "C",
      "date": "2026-09-29",
      "method": "text-locate",
@@ -92565,7 +93535,8 @@
   ],
   "alt_summary": [
    "The narrator of the Gītā's frame, reporting the scene on the battlefield to Dhṛtarāṣṭra in answer to his question (1.2 onward; 1.24, 1.47, 2.1, 2.9–10).",
-   "Narrator to Dhṛtarāṣṭra of the showing of the universal form (11.9–14), of Arjuna's trembling homage (11.35) and of Kṛṣṇa's resuming his gentle form (11.50)."
+   "Narrator to Dhṛtarāṣṭra of the showing of the universal form (11.9–14), of Arjuna's trembling homage (11.35) and of Kṛṣṇa's resuming his gentle form (11.50).",
+   "Narrator of the Gītā to Dhṛtarāṣṭra; at its close (18.74–78) he says he heard the wondrous, hair-raising dialogue directly from Kṛṣṇa by the grace of Vyāsa, rejoices again and again in recalling it and Hari's form, and holds that where Kṛṣṇa and Arjuna are there are fortune, victory, prosperity and firm right conduct."
   ],
   "alt_names": [],
   "works": [],
@@ -92574,7 +93545,8 @@
    "units": [
     "skeleton:U05-gita-epic",
     "extraction:bhagavad-gita/ch01-03",
-    "extraction:bhagavad-gita/ch10-12"
+    "extraction:bhagavad-gita/ch10-12",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction",
@@ -98187,6 +99159,45 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "tch:siddhapada-hyp",
+  "name": "Siddhapāda",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.6; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.6.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -104397,6 +105408,45 @@
   }
  },
  {
+  "id": "tch:surananda-hyp",
+  "name": "Surānanda",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.6; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.6.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:surapala",
   "name": "Surapāla",
   "lineages": [
@@ -105178,13 +106228,34 @@
  {
   "id": "tch:svatmarama",
   "name": "Svātmārāma",
-  "alt_names": [
-   "Svātmārāma Yogīndra",
-   "Svātmārāma Yogin"
-  ],
   "lineages": [
    "lin:hatha-yoga",
    "lin:natha"
+  ],
+  "summary": "The yogin who, having bowed to his guru, teaches haṭha solely for rājayoga (1.2), out of compassion for those in the darkness of many views (1.3), and says he knows it by the grace of Matsyendra, Gorakṣa and others (1.4).",
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Contribution from the HYP text only (ref 1.2).",
+  "alt_names": [
+   "Svātmārāma Yogīndra",
+   "Svātmārāma Yogin"
   ],
   "dating": {
    "tradition": {
@@ -105217,27 +106288,25 @@
   },
   "historicity": "historical",
   "gender": "male",
-  "summary": "Compiler of the Haṭhapradīpikā (c. 1450), who gathered verses from some twenty earlier haṭha and rājayoga texts into a single four-part system taught 'solely for the sake of rājayoga'. He salutes his guru as 'Nātha' (HYP 1.2); the tradition places him in Gorakṣa's line. Nothing reliable is known of his life.",
-  "notes": "HYP 1.2 'praṇamya śrīguruṃ nātham' — whether 'Nātha' names a specific guru is not settled.",
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
+  "alt_summary": [
+   "Compiler of the Haṭhapradīpikā (c. 1450), who gathered verses from some twenty earlier haṭha and rājayoga texts into a single four-part system taught 'solely for the sake of rājayoga'. He salutes his guru as 'Nātha' (HYP 1.2); the tradition places him in Gorakṣa's line. Nothing reliable is known of his life.",
+   "U21 contribution: author of the Haṭhapradīpikā, who bows to the Nātha guru and places himself after Matsyendra, Gorakṣa and the siddhas (HYP 1.2–9)."
+  ],
+  "alt_notes": [
+   "HYP 1.2 'praṇamya śrīguruṃ nātham' — whether 'Nātha' names a specific guru is not settled."
+  ],
   "coverage": [
    "A10",
    "A7"
   ],
-  "alt_summary": [
-   "U21 contribution: author of the Haṭhapradīpikā, who bows to the Nātha guru and places himself after Matsyendra, Gorakṣa and the siddhas (HYP 1.2–9)."
-  ],
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U28-hatha-texts",
     "skeleton:U21-natha-aghora"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -107252,6 +108321,45 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "tch:tintini-hyp",
+  "name": "Ṭiṇṭiṇi",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.8; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.8.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -119445,6 +120553,45 @@
   }
  },
  {
+  "id": "tch:virupaksa-hyp",
+  "name": "Virūpākṣa",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "summary": "Named among the great adepts (mahāsiddha) of haṭha in HYP 1.5; the text gives only the name and nothing else about him. Not identified here with any person of the same name in other texts.",
+  "historicity": "unknown",
+  "gender": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Named in HYP 1.5.",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:virupaksanatha",
   "name": "Virūpākṣanātha",
   "lineages": [
@@ -119666,7 +120813,7 @@
      "confidence": "moderate"
     },
     "reason": "Web: Viṣṇucitta, author of the Viṣṇucittīya on the Viṣṇu Purāṇa, c. 12th c., pupil of Piḷḷāṉ (a direct disciple of Rāmānuja). The entry had no date ('dating not checked'); a dating is supplied.",
-    "date": "2026-09-29 23:06 IST",
+    "date": "2026-09-29 23:12 IST",
     "by": "sourcing:U07-puranas"
    }
   ],
@@ -121437,6 +122584,17 @@
      "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     },
     {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.75"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
      "phase": "C",
      "date": "2026-09-28",
      "method": "text-locate",
@@ -121525,9 +122683,9 @@
    "Kṛṣṇa Dvaipāyana, son of Parāśara, called Veda-vyāsa, 'arranger of the Veda': seeing the decline of the ages, he divided the one Veda into four for the continuity of the sacrifice and taught the Ṛg to Paila, the Sāma to Jaimini, the Yajus to Vaiśampāyana and the Atharva to Sumantu, who branched them into śākhās through their pupils (Bhāgavata Purāṇa 1.4.19–23; Viṣṇu Purāṇa 3.4).",
    "(Yoga unit contribution) For the Yoga tradition, the author of the Yogabhāṣya, the oldest commentary on the Yoga Sūtra. Vijñānabhikṣu calls him Vedavyāsa and Bādarāyaṇa and says he spoke 'the essence of all the Veda under the guise of the Yoga-bhāṣya'; Nārāyaṇatīrtha also names the bhāṣyakāra Bādarāyaṇa. Modern scholars doubt the identification; several ascribe the bhāṣya to Patañjali himself.",
    "Cited by Arjuna among the seers who declare Kṛṣṇa supreme (BhG 10.13); named by the Lord as his manifestation among sages (munis) (10.37).",
+   "By Vyāsa's grace Sañjaya heard the Gītā directly from Kṛṣṇa (BhG 18.75).",
    "In the Purāṇic tradition the compiler of the eighteen Purāṇas (and Upapurāṇas through his disciples, KūP 1.1.280), who gave the Purāṇa-saṃhitā to his sūta disciple Romaharṣaṇa (VP 3.6.15-16) and the Bhāgavata to his son Śuka.",
-   "In U06's texts: the traditional author of the Bhāgavata Purāṇa (Uddhava and Kapila Gītās), the Devī Bhāgavata (Devī Gītā), the Kūrma Purāṇa and, as part of the Brahmāṇḍa Purāṇa, the Adhyātma Rāmāyaṇa; the speaker of the Vyāsa Gītā.",
-   "In the Vedānta tradition, author of the Brahma Sūtras (as Bādarāyaṇa) and of the Mahābhārata and Purāṇas; in the Advaita guru-paramparā, son and disciple of Parāśara and teacher of his son Śuka; the Śaṅkaradigvijaya has him appear to Śaṅkara at Kāśī, test his commentary and extend his life."
+   "In U06's texts: the traditional author of the Bhāgavata Purāṇa (Uddhava and Kapila Gītās), the Devī Bhāgavata (Devī Gītā), the Kūrma Purāṇa and, as part of the Brahmāṇḍa Purāṇa, the Adhyātma Rāmāyaṇa; the speaker of the Vyāsa Gītā."
   ],
   "teachers": [
    "tch:parasara",
@@ -121540,6 +122698,7 @@
     "skeleton:U01-vedic-samhitas",
     "skeleton:U10-yoga",
     "extraction:bhagavad-gita/ch10-12",
+    "extraction:bhagavad-gita/ch16-18",
     "skeleton:U07-puranas",
     "skeleton:U06-other-gitas",
     "skeleton:U13-advaita",

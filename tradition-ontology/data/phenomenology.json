@@ -2066,6 +2066,44 @@
   }
  },
  {
+  "id": "phn:bhagavad-gita-brahmabhuta-marks",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "18.54",
+  "stage": "brahma-bhūta",
+  "kind": "state",
+  "description": "Bhagavad Gītā 16–18: Having become brahman, serene in self, one neither grieves nor desires and is the same toward all beings; one then attains supreme devotion (18.54).",
+  "rests_on": [
+   "tea:bhagavad-gita:18.54"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.54"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch16-18"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:bhagavad-gita-brahmi-sthiti",
   "lineage": "lin:epic-teaching",
   "source": "src:bhagavad-gita",
@@ -2116,6 +2154,45 @@
   "provenance": {
    "units": [
     "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-delusion-destroyed-memory-regained",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "18.72–73",
+  "kind": "state",
+  "description": "Bhagavad Gītā 16–18: Asked whether his delusion born of ignorance is destroyed (18.72), Arjuna reports: delusion destroyed, memory (smṛti) regained by Kṛṣṇa's grace, standing firm with doubt gone, ready to do his word (18.73).",
+  "rests_on": [
+   "tea:bhagavad-gita:18.72",
+   "tea:bhagavad-gita:18.73"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.72",
+      "tea:bhagavad-gita:18.73"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction"
@@ -2401,6 +2478,43 @@
   }
  },
  {
+  "id": "phn:bhagavad-gita-marks-of-the-relinquisher",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "18.10",
+  "kind": "sign",
+  "description": "The relinquisher (tyāgin), pervaded by sattva, intelligent, with doubts cut away, neither hates disagreeable action nor clings to agreeable action (18.10).",
+  "rests_on": [
+   "tea:bhagavad-gita:18.10"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.10"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch16-18"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:bhagavad-gita-mutual-indwelling-of-devotee",
   "lineage": "lin:epic-teaching",
   "source": "src:bhagavad-gita",
@@ -2658,6 +2772,47 @@
   }
  },
  {
+  "id": "phn:bhagavad-gita-sanjaya-rejoicing",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "18.74-77",
+  "kind": "state",
+  "description": "Sañjaya calls the dialogue wondrous and hair-raising (romaharṣaṇa) (18.74); recalling it again and again he rejoices again and again (18.76); recalling Hari's most wondrous form, great is his amazement (vismaya) and he rejoices again and again (18.77).",
+  "rests_on": [
+   "tea:bhagavad-gita:18.74",
+   "tea:bhagavad-gita:18.76",
+   "tea:bhagavad-gita:18.77"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.74",
+      "tea:bhagavad-gita:18.76",
+      "tea:bhagavad-gita:18.77"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch16-18"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:bhagavad-gita-seeing-self-in-all",
   "lineage": "lin:epic-teaching",
   "source": "src:bhagavad-gita",
@@ -2897,6 +3052,67 @@
   "provenance": {
    "units": [
     "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-three-kinds-of-happiness",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "18.36–39",
+  "kind": "state",
+  "description": "Bhagavad Gītā 16–18: Sāttvic happiness is delighted in through practice, ends sorrow, is like poison at first and nectar in the end, and is born of the clarity (prasāda) of ātma-buddhi, one's own understanding or the understanding of the self; rājasic happiness, from sense-contact, is nectar at first and poison in the end; tāmasic happiness deludes one's self first and last and arises from sleep, sloth and heedlessness (18.36–39).",
+  "rests_on": [
+   "tea:bhagavad-gita:18.36",
+   "tea:bhagavad-gita:18.37",
+   "tea:bhagavad-gita:18.38",
+   "tea:bhagavad-gita:18.39"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.36",
+      "tea:bhagavad-gita:18.37",
+      "tea:bhagavad-gita:18.38",
+      "tea:bhagavad-gita:18.39"
+     ],
+     "result": "corrected",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in correction_log and interpretation_log.jsonl."
+    }
+   ]
+  },
+  "correction_log": [
+   {
+    "field": "description",
+    "old": "Bhagavad Gītā 16–18: Sāttvic happiness is delighted in through practice, ends sorrow, is like poison at first and nectar in the end, and is born of the serenity of the understanding of the self; rājasic happiness, from sense-contact, is nectar at first and poison in the end; tāmasic happiness deludes the self first and last and arises from sleep, sloth and heedlessness (18.36–39).",
+    "new": "Bhagavad Gītā 16–18: Sāttvic happiness is delighted in through practice, ends sorrow, is like poison at first and nectar in the end, and is born of the clarity (prasāda) of ātma-buddhi, one's own understanding or the understanding of the self; rājasic happiness, from sense-contact, is nectar at first and poison in the end; tāmasic happiness deludes the self first and last and arises from sleep, sloth and heedlessness (18.36–39).",
+    "reason": "Chose one analysis of ātma-buddhi-prasāda-ja (18.37), the one the merged teaching deliberately leaves open ('one's own understanding, or the understanding of the self') and that the skeleton decision on 18.36-39 corrects in the skeleton.",
+    "by": "F",
+    "date": "2026-09-29"
+   },
+   {
+    "field": "description",
+    "old": "Bhagavad Gītā 16–18: Sāttvic happiness is delighted in through practice, ends sorrow, is like poison at first and nectar in the end, and is born of the clarity (prasāda) of ātma-buddhi, one's own understanding or the understanding of the self; rājasic happiness, from sense-contact, is nectar at first and poison in the end; tāmasic happiness deludes the self first and last and arises from sleep, sloth and heedlessness (18.36–39).",
+    "new": "Bhagavad Gītā 16–18: Sāttvic happiness is delighted in through practice, ends sorrow, is like poison at first and nectar in the end, and is born of the clarity (prasāda) of ātma-buddhi, one's own understanding or the understanding of the self; rājasic happiness, from sense-contact, is nectar at first and poison in the end; tāmasic happiness deludes one's self first and last and arises from sleep, sloth and heedlessness (18.36–39).",
+    "reason": "18.39 mohanam ātmanaḥ: the merged teaching and the skeleton decision on 18.36-39 keep the reflexive open ('deludes one's self').",
+    "by": "F",
+    "date": "2026-09-29"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction"
@@ -8211,7 +8427,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The effects of the sounds close the second prose section of the e-text Haṃsa (Adyar §§18-21). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-effects-of-the-sounds (corrected).",
-    "date": "2026-09-29 23:06 IST",
+    "date": "2026-09-29 23:12 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -8266,7 +8482,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The ten sounds are in the second prose section of the e-text Haṃsa, which has vv. 1-3 and prose sections 1-2 but no '4' (Adyar §§15-17). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-ten-sounds (corrected).",
-    "date": "2026-09-29 23:06 IST",
+    "date": "2026-09-29 23:12 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -8791,26 +9007,47 @@
   "lineage": "lin:hatha-yoga",
   "source": "src:hatha-yoga-pradipika",
   "ref": "2.78",
-  "kind": "sign",
-  "description": "Signs of success in haṭha: slim body, bright face, distinct inner sound, very clear eyes, freedom from disease, control of bindu, kindled fire, purified channels.",
+  "kind": "bodily",
+  "description": "The text lists as marks of success in haṭha: a lean body, a serene face, a distinct inner sound, very clear eyes, freedom from disease, mastery of bindu, kindled digestive fire and purified channels.",
   "rests_on": [
    "tea:hatha-yoga-pradipika:2.78"
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:hatha-yoga-pradipika:2.78"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "notes": "The marks are the text's list, not offered as observed effects.",
+  "alt_description": [
+   "Signs of success in haṭha: slim body, bright face, distinct inner sound, very clear eyes, freedom from disease, control of bindu, kindled fire, purified channels."
+  ],
   "coverage": [
    "A10",
    "D"
   ],
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -8819,27 +9056,52 @@
   "id": "phn:hyp-inner-sounds-sequence",
   "lineage": "lin:hatha-yoga",
   "source": "src:hatha-yoga-pradipika",
-  "ref": "4.84-86",
+  "ref": "4.84 4.85 4.86",
   "kind": "sound",
-  "description": "At first ocean, thunder, kettledrum and cymbal sounds; in the middle drum, conch, bell and horn; at the end tinkling bells, flute, vīṇā and bee; the sounds become subtler as practice grows.",
+  "description": "The sounds heard: at first like ocean, thunder-cloud, kettledrum and jharjhara; in the middle mardala, conch, bell and kāhala; at the end tiny bells, flute, vīṇā and bee; they become subtler as practice grows (4.84).",
   "rests_on": [
+   "tea:hatha-yoga-pradipika:4.84",
+   "tea:hatha-yoga-pradipika:4.85",
+   "tea:hatha-yoga-pradipika:4.86",
    "tea:hatha-yoga-pradipika:4.84-86"
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:hatha-yoga-pradipika:4.84",
+      "tea:hatha-yoga-pradipika:4.85",
+      "tea:hatha-yoga-pradipika:4.86"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_description": [
+   "At first ocean, thunder, kettledrum and cymbal sounds; in the middle drum, conch, bell and horn; at the end tinkling bells, flute, vīṇā and bee; the sounds become subtler as practice grows."
+  ],
   "coverage": [
    "A10",
    "D"
   ],
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -8908,18 +9170,41 @@
   "id": "phn:hyp-laya-bliss",
   "lineage": "lin:hatha-yoga",
   "source": "src:hatha-yoga-pradipika",
-  "ref": "4.30-32",
+  "ref": "4.30-4.32",
   "kind": "state",
-  "description": "When mind and breath dissolve an indescribable bliss arises; breathing ceases, objects are not grasped, the yogin is motionless and changeless; the laya is known only to oneself, beyond speech.",
+  "description": "The text says that when mind and breath dissolve a bliss arises (4.30), that in laya breath and out-breath have ceased and objects are not grasped (4.31), and that it is known to oneself and beyond speech (4.32).",
   "rests_on": [
+   "tea:hatha-yoga-pradipika:4.30",
+   "tea:hatha-yoga-pradipika:4.31",
+   "tea:hatha-yoga-pradipika:4.32",
    "tea:hatha-yoga-pradipika:4.30-34"
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:hatha-yoga-pradipika:4.30",
+      "tea:hatha-yoga-pradipika:4.31",
+      "tea:hatha-yoga-pradipika:4.32"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_description": [
+   "When mind and breath dissolve an indescribable bliss arises; breathing ceases, objects are not grasped, the yogin is motionless and changeless; the laya is known only to oneself, beyond speech."
+  ],
   "coverage": [
    "A10",
    "D"
@@ -8927,9 +9212,11 @@
   "stage": "advanced",
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -9028,28 +9315,51 @@
   "id": "phn:hyp-nada-arambha",
   "lineage": "lin:hatha-yoga",
   "source": "src:hatha-yoga-pradipika",
-  "ref": "4.70-71",
-  "kind": "sound",
-  "description": "Beginning stage: the knot of Brahmā pierced, bliss from the void, tinkling sounds (unstruck) within; the body divine, radiant, fragrant, healthy, heart full.",
+  "ref": "4.70 4.71",
+  "kind": "state",
+  "description": "Ārambha: the knot of Brahmā pierced, bliss from the void, tinkling and the unstruck sound heard in the body; the body divine, radiant and fragrant, the heart full (as the text says).",
   "rests_on": [
+   "tea:hatha-yoga-pradipika:4.70",
+   "tea:hatha-yoga-pradipika:4.71",
    "tea:hatha-yoga-pradipika:4.70-71"
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:hatha-yoga-pradipika:4.70",
+      "tea:hatha-yoga-pradipika:4.71"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "stage": "ārambha",
+  "alt_description": [
+   "Beginning stage: the knot of Brahmā pierced, bliss from the void, tinkling sounds (unstruck) within; the body divine, radiant, fragrant, healthy, heart full."
+  ],
   "coverage": [
    "A10",
    "D"
   ],
-  "stage": "ārambha",
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -9088,28 +9398,61 @@
   "id": "phn:hyp-nada-ghata",
   "lineage": "lin:hatha-yoga",
   "source": "src:hatha-yoga-pradipika",
-  "ref": "4.72-73",
-  "kind": "sound",
-  "description": "Ghaṭa stage: the united breath enters the middle, posture firm; the knot of Viṣṇu pierced, the sound of a kettledrum in the extreme void, indicating supreme bliss.",
+  "ref": "4.72 4.73",
+  "kind": "state",
+  "description": "Ghaṭa: the breath goes in the middle, the posture is firm, the knot of Viṣṇu is pierced, and a clashing (vimarda) and a kettledrum sound arise in the atiśūnya, the 'beyond-void' (as the text says).",
   "rests_on": [
+   "tea:hatha-yoga-pradipika:4.72",
+   "tea:hatha-yoga-pradipika:4.73",
    "tea:hatha-yoga-pradipika:4.72-73"
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:hatha-yoga-pradipika:4.72",
+      "tea:hatha-yoga-pradipika:4.73"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J (see correction_log). Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "stage": "ghaṭa",
+  "correction_log": [
+   {
+    "field": "description",
+    "old": "Ghaṭa: the breath goes in the middle, the posture is firm, the knot of Viṣṇu is pierced and a kettledrum sound arises in the great void (as the text says).",
+    "new": "Ghaṭa: the breath goes in the middle, the posture is firm, the knot of Viṣṇu is pierced, and a clashing (vimarda) and a kettledrum sound arise in the atiśūnya, the 'beyond-void' (as the text says).",
+    "reason": "J check (insight-p1-single+spot): Aligned with the J correction of 4.73: 'atiśūnye', not 'the great void' (mahāśūnya is 4.74's term).",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "alt_description": [
+   "Ghaṭa stage: the united breath enters the middle, posture firm; the knot of Viṣṇu pierced, the sound of a kettledrum in the extreme void, indicating supreme bliss."
+  ],
   "coverage": [
    "A10",
    "D"
   ],
-  "stage": "ghaṭa",
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -9118,28 +9461,51 @@
   "id": "phn:hyp-nada-nispatti",
   "lineage": "lin:hatha-yoga",
   "source": "src:hatha-yoga-pradipika",
-  "ref": "4.76-77",
-  "kind": "sound",
-  "description": "Niṣpatti: the knot of Rudra pierced, the breath at Śiva's seat; sounds of flute and vīṇā; the mind becomes one — rājayoga.",
+  "ref": "4.76 4.77",
+  "kind": "state",
+  "description": "Niṣpatti: the knot of Rudra pierced, flute and vīṇā sounds; the mind becomes one, which the text calls rājayoga.",
   "rests_on": [
+   "tea:hatha-yoga-pradipika:4.76",
+   "tea:hatha-yoga-pradipika:4.77",
    "tea:hatha-yoga-pradipika:4.76-77"
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:hatha-yoga-pradipika:4.76",
+      "tea:hatha-yoga-pradipika:4.77"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "stage": "niṣpatti",
+  "alt_description": [
+   "Niṣpatti: the knot of Rudra pierced, the breath at Śiva's seat; sounds of flute and vīṇā; the mind becomes one — rājayoga."
+  ],
   "coverage": [
    "A10",
    "D"
   ],
-  "stage": "niṣpatti",
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -9148,28 +9514,51 @@
   "id": "phn:hyp-nada-paricaya",
   "lineage": "lin:hatha-yoga",
   "source": "src:hatha-yoga-pradipika",
-  "ref": "4.74-75",
+  "ref": "4.74 4.75",
   "kind": "sound",
-  "description": "Paricaya stage: the sound of a drum (mardala); the breath in the great void, abode of all powers; natural bliss beyond the bliss of mind; no pain, age, disease, hunger or sleep.",
+  "description": "Paricaya: the mardala sound in the sky, the great void, then the bliss of the natural state (sahajānanda); the text says the yogin is free of fault, sorrow, old age, disease, hunger and sleep.",
   "rests_on": [
+   "tea:hatha-yoga-pradipika:4.74",
+   "tea:hatha-yoga-pradipika:4.75",
    "tea:hatha-yoga-pradipika:4.74-75"
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:hatha-yoga-pradipika:4.74",
+      "tea:hatha-yoga-pradipika:4.75"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "stage": "paricaya",
+  "alt_description": [
+   "Paricaya stage: the sound of a drum (mardala); the breath in the great void, abode of all powers; natural bliss beyond the bliss of mind; no pain, age, disease, hunger or sleep."
+  ],
   "coverage": [
    "A10",
    "D"
   ],
-  "stage": "paricaya",
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -9178,27 +9567,49 @@
   "id": "phn:hyp-nadi-suddhi-signs",
   "lineage": "lin:hatha-yoga",
   "source": "src:hatha-yoga-pradipika",
-  "ref": "2.19-20",
-  "kind": "sign",
-  "description": "When the channels are purified: slimness of body and radiance; holding the breath at will, kindled digestive fire, the inner sound manifest, health.",
+  "ref": "2.19",
+  "kind": "bodily",
+  "description": "The text names outward signs when the channels are purified, such as leanness of the body and brightness.",
   "rests_on": [
+   "tea:hatha-yoga-pradipika:2.19",
    "tea:hatha-yoga-pradipika:2.19-20"
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:hatha-yoga-pradipika:2.19"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "notes": "The text says the verse; the rest of the list in the skeleton entry is not in this segment.",
+  "alt_description": [
+   "When the channels are purified: slimness of body and radiance; holding the breath at will, kindled digestive fire, the inner sound manifest, health."
+  ],
   "coverage": [
    "A10",
    "D"
   ],
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -9209,25 +9620,45 @@
   "source": "src:hatha-yoga-pradipika",
   "ref": "2.12",
   "kind": "bodily",
-  "description": "In the lowest (grade of breath-control) sweat, in the middle trembling, in the highest the breath reaches its place.",
+  "description": "The text names three grades of breath-practice marked by sweat, trembling and attaining a place. Restricted practice; summary only.",
   "rests_on": [
    "tea:hatha-yoga-pradipika:2.12"
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:hatha-yoga-pradipika:2.12"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_description": [
+   "In the lowest (grade of breath-control) sweat, in the middle trembling, in the highest the breath reaches its place."
+  ],
   "coverage": [
    "A10",
    "D"
   ],
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -9236,19 +9667,62 @@
   "id": "phn:hyp-samadhi-state",
   "lineage": "lin:hatha-yoga",
   "source": "src:hatha-yoga-pradipika",
-  "ref": "4.106-112",
+  "ref": "4.106-4.113",
   "kind": "state",
-  "description": "In samādhi the body is like a log and hears no conch or drum; no smell, taste, form, touch or sound, no self or other; the mind neither asleep nor awake, free of memory and forgetting; no cold or heat, pleasure or pain, honour or dishonour; in waking as if asleep, without breath.",
+  "description": "The yogin joined in samādhi, as the text describes him: body like wood, as if dead, no perception of smell, taste, form, touch or sound, mind neither asleep nor awake, no sense of heat or cold, pain or pleasure, honour or dishonour, as if asleep though awake, and, the text says, not to be slain by any weapon nor seized by mantras and yantras.",
   "rests_on": [
+   "tea:hatha-yoga-pradipika:4.106",
+   "tea:hatha-yoga-pradipika:4.107",
+   "tea:hatha-yoga-pradipika:4.108",
+   "tea:hatha-yoga-pradipika:4.109",
+   "tea:hatha-yoga-pradipika:4.110",
+   "tea:hatha-yoga-pradipika:4.111",
+   "tea:hatha-yoga-pradipika:4.112",
+   "tea:hatha-yoga-pradipika:4.113",
    "tea:hatha-yoga-pradipika:4.106-108",
    "tea:hatha-yoga-pradipika:4.109-112"
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:hatha-yoga-pradipika:4.106",
+      "tea:hatha-yoga-pradipika:4.107",
+      "tea:hatha-yoga-pradipika:4.108",
+      "tea:hatha-yoga-pradipika:4.109",
+      "tea:hatha-yoga-pradipika:4.110",
+      "tea:hatha-yoga-pradipika:4.111",
+      "tea:hatha-yoga-pradipika:4.112",
+      "tea:hatha-yoga-pradipika:4.113"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J (see correction_log). Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "correction_log": [
+   {
+    "field": "description",
+    "old": "The yogin joined in samādhi, as the text describes him: body like wood, as if dead, no perception of smell, taste, form, touch or sound, mind neither asleep nor awake, no sense of heat or cold, pain or pleasure, honour or dishonour, as if asleep though awake, not seized by weapons or mantras.",
+    "new": "The yogin joined in samādhi, as the text describes him: body like wood, as if dead, no perception of smell, taste, form, touch or sound, mind neither asleep nor awake, no sense of heat or cold, pain or pleasure, honour or dishonour, as if asleep though awake, and, the text says, not to be slain by any weapon nor seized by mantras and yantras.",
+    "reason": "J check (insight-p1-single+spot): Skt 4.113 'avadhyaḥ sarvaśastrāṇām ... agrāhyo mantrayantrāṇām': 'not seized by weapons' misstated 'cannot be slain by any weapon'; the claim is now framed as the text's.",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "alt_description": [
+   "In samādhi the body is like a log and hears no conch or drum; no smell, taste, form, touch or sound, no self or other; the mind neither asleep nor awake, free of memory and forgetting; no cold or heat, pleasure or pain, honour or dishonour; in waking as if asleep, without breath."
+  ],
   "coverage": [
    "A10",
    "D"
@@ -9256,9 +9730,11 @@
   "stage": "realized",
   "provenance": {
    "units": [
+    "extraction:hatha-yoga-pradipika/all",
     "skeleton:U28-hatha-texts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -16512,7 +16988,7 @@
     "old": "1.60-68",
     "new": "1.68-69 (prose closing khaṇḍa 7)",
     "reason": "The list of saṃyamas and their powers is the prose after v. 1.68 that closes khaṇḍa 7. E-text 1.60-68 deal with curing diseases by breath. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:sandilya-upanisad:1.60-68 (corrected).",
-    "date": "2026-09-29 23:06 IST",
+    "date": "2026-09-29 23:12 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -17724,7 +18200,7 @@
     "old": "10.5.2.20",
     "new": "10.5.2.19-20",
     "reason": "The two halves of the description are in adjacent kaṇḍikās. The breaths going into the self in sleep is ŚB 10.5.2.19: 'sa yadā svapity athainam ete prāṇāḥ svā apiyanti tasmāt svāpyayaḥ … taṃ svapna ity ācakṣate'. Knowing nothing by mind, speech, smell, sight or hearing is 10.5.2.20: 'sa etaiḥ suptaḥ na kasya cana veda na manasā saṅkalpayati …'. Correction: ref 10.5.2.19-20, the same range fix as for tea:satapatha-brahmana:10.5.2.20.",
-    "date": "2026-09-29 23:06 IST",
+    "date": "2026-09-29 23:12 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],

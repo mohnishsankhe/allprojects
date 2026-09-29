@@ -11077,7 +11077,7 @@
   "to": 1000,
   "text": "c. 9th–10th c. (before Abhinavagupta, c. 1000)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:kanha",
@@ -13707,7 +13707,7 @@
   "to": 1300,
   "text": "c. 11th–13th c.",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:subhacandra",
@@ -24677,7 +24677,7 @@
   "to": 1500,
   "text": "c. 15th c. CE",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:gauranna",

@@ -2555,6 +2555,18 @@
    "lineage": "lin:epic-teaching",
    "names": [
     {
+     "name": "brahman, designated '(oṃ) tat sat' (BhG 17.23)",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Īśvara, the Lord dwelling in the heart of all beings (18.61)",
+     "term": "trm:isvara"
+    },
+    {
+     "name": "Vāsudeva, Keśava, Hari, Kṛṣṇa the lord of yoga (18.74–78)",
+     "term": "trm:yogesvara"
+    },
+    {
      "name": "Brahman — beginningless, supreme, imperishable (anādimat paraṃ brahma; akṣara)",
      "term": "trm:brahman"
     },
@@ -2588,6 +2600,10 @@
     }
    ],
    "descriptions": [
+    "the one from whom beings proceed and by whom all this is pervaded, to be worshipped with one's own work (18.46)",
+    "one imperishable being (bhāva) seen in all beings by sāttvic knowledge, undivided among the divided (18.20; the verse does not name it)",
+    "the Lord in the heart who makes all beings revolve by his māyā as if mounted on a machine (18.61)",
+    "known in truth by devotion — how great and who he is — and entered (18.55)",
     "beginningless supreme Brahman, said to be neither being nor non-being (BhG 13.12)",
     "with hands and feet everywhere, eyes, heads and faces everywhere, it stands enveloping all (13.13)",
     "the light of lights beyond darkness, knowledge, the known and the goal of knowledge, seated in the heart of all (13.17)",
@@ -2597,20 +2613,17 @@
     "the knower of the field in all fields (13.2)",
     "the twenty-sixth, ever awake, which the twenty-fifth comes to know (MBh 12.294–296)"
    ],
-   "negations": [
-    "neither being nor non-being — na sat tan nāsad ucyate (BhG 13.12)",
-    "unmanifest, unthinkable, unchangeable (2.25)",
-    "weapons do not cut it, fire does not burn it (2.23–24)",
-    "not seen with the ordinary eye, nor by Vedas, sacrifice, study or austerity, but by a divine eye or undivided devotion (11.8, 11.48, 11.53–54)",
-    "all beings abide in me but I do not abide in them — and yet beings do not abide in me (9.4–5)",
-    "the sun, moon and fire do not illumine that supreme abode (15.6)"
-   ],
-   "relation_to_self": "The self in every body is unborn and eternal (BhG 2.20); the Lord is the knower of the field in all fields (13.2) and an eternal portion of him becomes the living being (15.7); the supreme person in the body is witness, permitter, supporter and experiencer (13.22). The Mokṣadharma distinguishes the twenty-fifth (the self coming to awakening) from the twenty-sixth (the awakened) and teaches that the knower attains oneness (12.294–296). The commentators read these relations as identity (Advaita), the Lord as inner self of the selves (Viśiṣṭādvaita) or eternal difference (Dvaita).",
-   "relation_to_world": "The Lord's lower, eightfold nature (earth, water, fire, air, space, mind, intellect, ego) and his higher nature, the life-element, are the womb of all beings (BhG 7.4–6); at the end of each kalpa beings enter his prakṛti and at its beginning he sends them forth, prakṛti producing the moving and unmoving under his oversight (9.7–10); the world of saṃsāra is an aśvattha tree rooted above (15.1–3); he descends age after age to protect dharma (4.7–8).",
+   "relation_to_self": "BhG 16–18: the Lord dwells in the bodies of all (16.18, 17.6) and in the heart of all beings (18.61); the one who has become brahman attains supreme devotion to him, knows him in truth and enters him (18.54–55).",
+   "relation_to_world": "BhG 16–18: all this is pervaded by him and beings proceed from him (18.46); he moves all beings by his māyā (18.61); the demonic deny that the world has a Lord (16.8).",
    "personal_or_impersonal": "both",
-   "tradition_denies_single_ultimate": false,
-   "caveat": "The epic milieu is plural: it records Sāṃkhya, Yoga, Vedic, Pāñcarātra and Pāśupata views (MBh 12.337.59), differing counts of principles, and the question whether puruṣas are many or one (12.338). BhG 12.1–5 holds that worshippers of the unmanifest imperishable and of the Lord in form both reach him, the former with greater difficulty. Each Vedānta school reads the Gītā's ultimate in its own way and rejects the others' readings; the one-truth reading belongs to the interpretation layer, not to the epic's own text.",
    "rests_on": [
+    "tea:bhagavad-gita:17.23",
+    "tea:bhagavad-gita:18.20",
+    "tea:bhagavad-gita:18.46",
+    "tea:bhagavad-gita:18.54",
+    "tea:bhagavad-gita:18.55",
+    "tea:bhagavad-gita:18.61",
+    "tea:bhagavad-gita:16.8",
     "tea:bhagavad-gita:13.13",
     "tea:bhagavad-gita:13.14-18",
     "tea:bhagavad-gita:2.17",
@@ -2626,15 +2639,48 @@
    ],
    "verification": {
     "level": "skeleton",
-    "confidence": "moderate",
+    "confidence": "high",
     "unverified": false,
-    "checks": []
+    "checks": [
+     {
+      "phase": "D",
+      "date": "2026-09-29",
+      "method": "text",
+      "queries": [],
+      "evidence": [
+       "tea:bhagavad-gita:16.8",
+       "tea:bhagavad-gita:16.18",
+       "tea:bhagavad-gita:17.6",
+       "tea:bhagavad-gita:17.23",
+       "tea:bhagavad-gita:18.20",
+       "tea:bhagavad-gita:18.46",
+       "tea:bhagavad-gita:18.54",
+       "tea:bhagavad-gita:18.55",
+       "tea:bhagavad-gita:18.61",
+       "tea:bhagavad-gita:18.74"
+      ],
+      "result": "confirmed",
+      "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+     }
+    ]
    },
+   "negations": [
+    "neither being nor non-being — na sat tan nāsad ucyate (BhG 13.12)",
+    "unmanifest, unthinkable, unchangeable (2.25)",
+    "weapons do not cut it, fire does not burn it (2.23–24)",
+    "not seen with the ordinary eye, nor by Vedas, sacrifice, study or austerity, but by a divine eye or undivided devotion (11.8, 11.48, 11.53–54)",
+    "all beings abide in me but I do not abide in them — and yet beings do not abide in me (9.4–5)",
+    "the sun, moon and fire do not illumine that supreme abode (15.6)"
+   ],
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The epic milieu is plural: it records Sāṃkhya, Yoga, Vedic, Pāñcarātra and Pāśupata views (MBh 12.337.59), differing counts of principles, and the question whether puruṣas are many or one (12.338). BhG 12.1–5 holds that worshippers of the unmanifest imperishable and of the Lord in form both reach him, the former with greater difficulty. Each Vedānta school reads the Gītā's ultimate in its own way and rejects the others' readings; the one-truth reading belongs to the interpretation layer, not to the epic's own text.",
    "provenance": {
     "units": [
+     "extraction:bhagavad-gita/ch16-18",
      "skeleton:U05-gita-epic"
     ],
     "phases": [
+     "extraction",
      "skeleton"
     ]
    }

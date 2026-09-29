@@ -51,7 +51,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -119,7 +119,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -181,7 +181,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -287,7 +287,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -340,7 +340,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -424,7 +424,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -473,7 +473,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -557,7 +557,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -609,7 +609,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -670,7 +670,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -728,7 +728,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -797,7 +797,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -812,6 +812,10 @@
    {
     "lineage": "lin:epic-teaching",
     "name": "ahaṅkāra"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "The sense of 'I' (ahaṃkāra)"
    }
   ],
   "category": "affliction",
@@ -852,6 +856,61 @@
     "ref": "7.5.38",
     "rests_on": [
      "tea:rama-gita:7.5.34-41"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.18",
+    "rests_on": [
+     "tea:bhagavad-gita:16.18"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "17.5",
+    "rests_on": [
+     "tea:bhagavad-gita:17.5"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.17",
+    "rests_on": [
+     "tea:bhagavad-gita:18.17"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.24",
+    "rests_on": [
+     "tea:bhagavad-gita:18.24"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.53",
+    "rests_on": [
+     "tea:bhagavad-gita:18.53"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.58-59",
+    "rests_on": [
+     "tea:bhagavad-gita:18.58",
+     "tea:bhagavad-gita:18.59"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.18, 17.5, 18.24, 18.53, 18.58, 18.59",
+    "rests_on": [
+     "tea:bhagavad-gita:16.18",
+     "tea:bhagavad-gita:17.5",
+     "tea:bhagavad-gita:18.24",
+     "tea:bhagavad-gita:18.53",
+     "tea:bhagavad-gita:18.58",
+     "tea:bhagavad-gita:18.59"
     ]
    },
    {
@@ -914,6 +973,23 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:16.18",
+      "tea:bhagavad-gita:17.5",
+      "tea:bhagavad-gita:18.17",
+      "tea:bhagavad-gita:18.24",
+      "tea:bhagavad-gita:18.53",
+      "tea:bhagavad-gita:18.58",
+      "tea:bhagavad-gita:18.59"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:12.13"
      ],
      "result": "confirmed",
@@ -959,6 +1035,7 @@
   ],
   "alt_description": [
    "The sense 'I am the doer', first superimposition on the Self; in the story of Dāma, Vyāla and Kaṭa its arising makes the invincible weak.",
+   "Bhagavad Gītā 16–18: resorted to by the demonic (16.18) and by practitioners of unsanctioned austerity (17.5); action with it is rājasic (18.24); letting it go makes one fit for becoming Brahman (18.53); out of it Arjuna might not listen and perish, or resolve not to fight in vain (18.58–59); one without the sense 'I did it' does not slay though slaying (18.17).",
    "Bhagavad Gītā 10–12: The dear devotee is without the sense of 'I' (nirahaṅkāra) (12.13).",
    "Bhagavad Gītā 13–15: The sense of 'I' is listed among the constituents of the field (13.6); its absence (anahaṃkāra) is among the items called knowledge (13.9).",
    "The false sense that one is the agent and owner of acts and things apart from the Lord; removed by sāttvika-tyāga and by the meaning of 'namaḥ'.",
@@ -969,6 +1046,7 @@
    "units": [
     "extraction:bhagavad-gita/ch01-03",
     "skeleton:U06-other-gitas",
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch10-12",
     "extraction:bhagavad-gita/ch13-15",
     "skeleton:U14-visistadvaita",
@@ -998,7 +1076,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1060,7 +1138,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1119,7 +1197,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1182,7 +1260,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1234,7 +1312,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1338,6 +1416,27 @@
     "rests_on": [
      "tea:bhagavad-gita:14.17"
     ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.4",
+    "rests_on": [
+     "tea:bhagavad-gita:16.4"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.15",
+    "rests_on": [
+     "tea:bhagavad-gita:16.15"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.72",
+    "rests_on": [
+     "tea:bhagavad-gita:18.72"
+    ]
    }
   ],
   "verification": {
@@ -1385,6 +1484,19 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:16.4",
+      "tea:bhagavad-gita:16.15",
+      "tea:bhagavad-gita:18.72"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
    ]
   },
@@ -1396,14 +1508,22 @@
   "alt_description": [
    "Bhagavad Gītā 5.15–16: ignorance covers knowledge, and by it creatures are deluded; when it is destroyed by knowledge of the self, knowledge illumines the highest like the sun. 4.42: doubt is born of ignorance. 4.40: the ignorant perishes.",
    "Bhagavad Gītā 10–12: The darkness born of ignorance, which the Lord, out of compassion, destroys for his devotees with the shining lamp of knowledge (10.11).",
-   "Bhagavad Gītā 13–15: what is other than the dispositions called knowledge is ignorance (13.12); tamas is born of ignorance and deludes all embodied beings (14.8); covering knowledge, tamas attaches to heedlessness (14.9); ignorance is the fruit of tamas and arises from it (14.16–17)."
+   "Bhagavad Gītā 13–15: what is other than the dispositions called knowledge is ignorance (13.12); tamas is born of ignorance and deludes all embodied beings (14.8); covering knowledge, tamas attaches to heedlessness (14.9); ignorance is the fruit of tamas and arises from it (14.16–17).",
+   "Bhagavad Gītā 16–18: a mark of the demonic endowment (16.4); the demonic are deluded by ignorance (16.15); Arjuna's confusion is born of ignorance (18.72)."
+  ],
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Ignorance veiling knowledge (ajñāna)"
+   }
   ],
   "provenance": {
    "units": [
     "skeleton:U05-gita-epic",
     "extraction:bhagavad-gita/ch04-06",
     "extraction:bhagavad-gita/ch10-12",
-    "extraction:bhagavad-gita/ch13-15"
+    "extraction:bhagavad-gita/ch13-15",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction",
@@ -1421,7 +1541,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1476,7 +1596,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1536,7 +1656,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1592,7 +1712,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1673,7 +1793,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1710,6 +1830,28 @@
    },
    {
     "source": "src:bhagavad-gita",
+    "ref": "18.28",
+    "rests_on": [
+     "tea:bhagavad-gita:18.28"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.39",
+    "rests_on": [
+     "tea:bhagavad-gita:18.39"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.28, 18.39",
+    "rests_on": [
+     "tea:bhagavad-gita:18.28",
+     "tea:bhagavad-gita:18.39"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
     "ref": "14.8",
     "rests_on": [
      "tea:bhagavad-gita:14.8"
@@ -1741,6 +1883,18 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:18.28",
+      "tea:bhagavad-gita:18.39"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:14.8"
      ],
      "result": "confirmed",
@@ -1752,6 +1906,7 @@
   "alt_description": [
    "Inactivity from heaviness of body and mind. One of the nine obstacles (1.30, YBh 1.30).",
    "The first obstacle at the beginning of practice (DYŚ 47).",
+   "Bhagavad Gītā 18.28, 18.39: the tāmasic agent is lazy; tāmasic happiness arises from sleep, sloth and heedlessness.",
    "Bhagavad Gītā 13–15: Indolence is one of the three by which tamas binds (14.8)."
   ],
   "antidotes": [
@@ -1763,11 +1918,18 @@
    "D",
    "A10"
   ],
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Laziness (ālasya)"
+   }
+  ],
   "provenance": {
    "units": [
     "extraction:yoga-sutra/p1-2",
     "skeleton:U10-yoga",
     "skeleton:U28-hatha-texts",
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch13-15"
    ],
    "phases": [
@@ -1790,7 +1952,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1840,7 +2002,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1896,7 +2058,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -1954,7 +2116,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2005,7 +2167,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2066,7 +2228,7 @@
     "old": "Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛtanāda 27).",
     "new": "Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛtanāda 28).",
     "reason": "The verse listing these faults (bhayaṃ krodham athālasyam atisvapnātijāgaram | atyāhāram anāhāraṃ …) is Amṛtanāda 28 in the e-text; v. 27 names the doors. The ref in the description is corrected. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:amrtanada-upanisad:27 (corrected).",
-    "date": "2026-09-29 23:06 IST",
+    "date": "2026-09-29 23:12 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -2089,7 +2251,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2143,7 +2305,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2189,7 +2351,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2245,7 +2407,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2323,7 +2485,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2404,7 +2566,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2454,7 +2616,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2517,7 +2679,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2572,7 +2734,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2622,7 +2784,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2762,7 +2924,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2813,7 +2975,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2862,7 +3024,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -2959,7 +3121,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3018,7 +3180,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3060,7 +3222,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3113,7 +3275,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3168,7 +3330,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3252,7 +3414,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3301,7 +3463,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3355,7 +3517,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3448,7 +3610,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3518,7 +3680,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3572,7 +3734,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3631,7 +3793,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3705,7 +3867,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3759,7 +3921,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3810,7 +3972,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3862,7 +4024,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -3964,7 +4126,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4017,7 +4179,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4073,7 +4235,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4124,7 +4286,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4185,7 +4347,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4227,7 +4389,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4270,7 +4432,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4319,7 +4481,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4405,7 +4567,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4499,7 +4661,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4544,6 +4706,28 @@
     "rests_on": [
      "tea:bhagavad-gita:9.3"
     ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "17.13",
+    "rests_on": [
+     "tea:bhagavad-gita:17.13"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "17.28",
+    "rests_on": [
+     "tea:bhagavad-gita:17.28"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "17.13, 17.28",
+    "rests_on": [
+     "tea:bhagavad-gita:17.13",
+     "tea:bhagavad-gita:17.28"
+    ]
    }
   ],
   "verification": {
@@ -4573,6 +4757,18 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:17.13",
+      "tea:bhagavad-gita:17.28"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
    ]
   },
@@ -4582,13 +4778,21 @@
   ],
   "alt_description": [
    "Bhagavad Gītā 4.40: the faithless (aśraddadhāna), with the ignorant and the doubter, perishes; by contrast the one with faith obtains knowledge (4.39).",
-   "Bhagavad Gītā 9.3: people without faith in this dharma do not reach the Lord and return to the path of death-and-wandering (mṛtyu-saṃsāra)."
+   "Bhagavad Gītā 9.3: people without faith in this dharma do not reach the Lord and return to the path of death-and-wandering (mṛtyu-saṃsāra).",
+   "Bhagavad Gītā 17.13, 17.28: sacrifice devoid of faith is tāmasic; whatever is offered, given, practised or done without faith is 'asat', of no account here or hereafter."
+  ],
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Lack of faith (aśraddhā)"
+   }
   ],
   "provenance": {
    "units": [
     "skeleton:U05-gita-epic",
     "extraction:bhagavad-gita/ch04-06",
-    "extraction:bhagavad-gita/ch07-09"
+    "extraction:bhagavad-gita/ch07-09",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction",
@@ -4606,7 +4810,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4695,7 +4899,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4749,7 +4953,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4844,7 +5048,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4898,7 +5102,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -4958,7 +5162,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5058,7 +5262,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5077,6 +5281,10 @@
    {
     "lineage": "lin:epic-teaching",
     "name": "rākṣasī āsurī prakṛti mohinī (9.12)"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "The demonic endowment"
    }
   ],
   "sources": [
@@ -5103,6 +5311,40 @@
    },
    {
     "source": "src:bhagavad-gita",
+    "ref": "16.4-20",
+    "rests_on": [
+     "tea:bhagavad-gita:16.4",
+     "tea:bhagavad-gita:16.5",
+     "tea:bhagavad-gita:16.7",
+     "tea:bhagavad-gita:16.8",
+     "tea:bhagavad-gita:16.9",
+     "tea:bhagavad-gita:16.10",
+     "tea:bhagavad-gita:16.12",
+     "tea:bhagavad-gita:16.13",
+     "tea:bhagavad-gita:16.14",
+     "tea:bhagavad-gita:16.15",
+     "tea:bhagavad-gita:16.16",
+     "tea:bhagavad-gita:16.17",
+     "tea:bhagavad-gita:16.18",
+     "tea:bhagavad-gita:16.19",
+     "tea:bhagavad-gita:16.20"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.4, 16.5, 16.7, 16.8, 16.16, 16.19, 16.20",
+    "rests_on": [
+     "tea:bhagavad-gita:16.4",
+     "tea:bhagavad-gita:16.5",
+     "tea:bhagavad-gita:16.7",
+     "tea:bhagavad-gita:16.8",
+     "tea:bhagavad-gita:16.16",
+     "tea:bhagavad-gita:16.19",
+     "tea:bhagavad-gita:16.20"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
     "ref": "16.4–20",
     "rests_on": [
      "tea:bhagavad-gita:16.4",
@@ -5113,7 +5355,10 @@
    }
   ],
   "antidotes": [
-   "resorting to the divine nature (daivī prakṛti) and undivided worship (9.13)"
+   "resorting to the divine nature (daivī prakṛti) and undivided worship (9.13)",
+   "Abandoning desire, anger and greed (16.21–22); taking scripture as authority (16.24).",
+   "giving up desire, anger and greed (16.21–22)",
+   "acting by the ordinance of scripture (16.24)"
   ],
   "coverage": [
    "A3",
@@ -5136,10 +5381,38 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:16.4",
+      "tea:bhagavad-gita:16.5",
+      "tea:bhagavad-gita:16.7",
+      "tea:bhagavad-gita:16.8",
+      "tea:bhagavad-gita:16.9",
+      "tea:bhagavad-gita:16.10",
+      "tea:bhagavad-gita:16.12",
+      "tea:bhagavad-gita:16.13",
+      "tea:bhagavad-gita:16.14",
+      "tea:bhagavad-gita:16.15",
+      "tea:bhagavad-gita:16.16",
+      "tea:bhagavad-gita:16.17",
+      "tea:bhagavad-gita:16.18",
+      "tea:bhagavad-gita:16.19",
+      "tea:bhagavad-gita:16.20",
+      "tea:bhagavad-gita:16.21",
+      "tea:bhagavad-gita:16.24"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
    ]
   },
   "alt_description": [
+   "Bhagavad Gītā 16.4–20: hypocrisy, arrogance, conceit, anger, harshness and ignorance, leading to bondage; its bearers know neither engagement nor withdrawal, deny truth, foundation and a Lord, act from insatiable desire, boundless care and self-conceit, sacrifice in name only, hate the Lord in all bodies, fall into hell and are cast into demonic wombs.",
    "Hypocrisy, arrogance, pride, anger, harshness and ignorance, leading to bondage (BhG 16.4–5), with its denial of truth, foundation and a Lord and its life for desire (16.8–18)."
   ],
   "members": [
@@ -5153,6 +5426,7 @@
   "provenance": {
    "units": [
     "extraction:bhagavad-gita/ch07-09",
+    "extraction:bhagavad-gita/ch16-18",
     "skeleton:U05-gita-epic"
    ],
    "phases": [
@@ -5171,7 +5445,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5186,6 +5460,10 @@
    {
     "lineage": "lin:epic-teaching",
     "name": "abhyasūyantaḥ"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Cavilling (asūyā)"
    }
   ],
   "category": "other",
@@ -5201,6 +5479,36 @@
      "tea:bhagavad-gita:3.31",
      "tea:bhagavad-gita:3.32"
     ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.18",
+    "rests_on": [
+     "tea:bhagavad-gita:16.18"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.67",
+    "rests_on": [
+     "tea:bhagavad-gita:18.67"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.71",
+    "rests_on": [
+     "tea:bhagavad-gita:18.71"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.18, 18.67, 18.71",
+    "rests_on": [
+     "tea:bhagavad-gita:16.18",
+     "tea:bhagavad-gita:18.67",
+     "tea:bhagavad-gita:18.71"
+    ]
    }
   ],
   "antidotes": [
@@ -5210,16 +5518,34 @@
    "level": "skeleton",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:16.18",
+      "tea:bhagavad-gita:18.67",
+      "tea:bhagavad-gita:18.71"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
   },
   "equivalents": [],
   "coverage": [
    "A3",
    "D"
   ],
+  "alt_description": [
+   "Bhagavad Gītā 16–18: the demonic are cavillers who hate the Lord in all bodies (16.18); the teaching is never to be told to one who cavils at the Lord (18.67); hearing without cavil brings the worlds of the meritorious (18.71)."
+  ],
   "provenance": {
    "units": [
-    "extraction:bhagavad-gita/ch01-03"
+    "extraction:bhagavad-gita/ch01-03",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction"
@@ -5236,7 +5562,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5306,7 +5632,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5359,7 +5685,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5446,6 +5772,17 @@
     "rests_on": [
      "tea:bhagavad-gita:12.12"
     ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "17.12, 17.21, 18.12, 18.27, 18.34",
+    "rests_on": [
+     "tea:bhagavad-gita:17.12",
+     "tea:bhagavad-gita:17.21",
+     "tea:bhagavad-gita:18.12",
+     "tea:bhagavad-gita:18.27",
+     "tea:bhagavad-gita:18.34"
+    ]
    }
   ],
   "equivalents": [],
@@ -5483,20 +5820,37 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:17.12",
+      "tea:bhagavad-gita:17.21",
+      "tea:bhagavad-gita:18.12",
+      "tea:bhagavad-gita:18.27",
+      "tea:bhagavad-gita:18.34"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
    ]
   },
   "alt_description": [
    "The unyoked, attached to the fruit through desire, is bound (BhG 5.12); those whose motive is the fruit are pitiable (2.49).",
    "Bhagavad Gītā 4–6: the Lord has no longing for the fruit of action (4.14); abandoning attachment to the fruit, one does nothing though acting (4.20); the unyoked one, attached to the fruit, is bound (5.12); the renunciant and yogin acts without depending on the fruit (6.1).",
-   "Bhagavad Gītā 10–12: For one unable to do the higher practices, the relinquishment of the fruit of all actions is enjoined (12.11), and peace follows it immediately (12.12)."
+   "Bhagavad Gītā 10–12: For one unable to do the higher practices, the relinquishment of the fruit of all actions is enjoined (12.11), and peace follows it immediately (12.12).",
+   "Bhagavad Gītā 16–18: Action, sacrifice, giving and steadfastness aimed at the fruit are rājasic (17.12, 17.21, 18.27, 18.34); the threefold fruit of action comes after death to those who have not relinquished (18.12)."
   ],
   "provenance": {
    "units": [
     "extraction:bhagavad-gita/ch01-03",
     "skeleton:U05-gita-epic",
     "extraction:bhagavad-gita/ch04-06",
-    "extraction:bhagavad-gita/ch10-12"
+    "extraction:bhagavad-gita/ch10-12",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction",
@@ -5514,7 +5868,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5563,7 +5917,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5623,7 +5977,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5674,7 +6028,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5727,7 +6081,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5815,7 +6169,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5877,7 +6231,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -5944,7 +6298,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6021,7 +6375,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6080,7 +6434,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6132,7 +6486,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6181,7 +6535,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6234,7 +6588,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6485,7 +6839,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6529,7 +6883,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6588,7 +6942,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6650,7 +7004,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6731,7 +7085,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6795,7 +7149,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6857,7 +7211,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6912,7 +7266,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -6978,7 +7332,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7037,7 +7391,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7092,7 +7446,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7145,7 +7499,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7194,7 +7548,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7256,7 +7610,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7313,7 +7667,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7368,7 +7722,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7419,7 +7773,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7489,7 +7843,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7543,7 +7897,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7595,7 +7949,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7605,6 +7959,10 @@
    {
     "lineage": "lin:epic-teaching",
     "name": "bhaya"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Fear (bhaya)"
    }
   ],
   "lineages": [
@@ -7702,6 +8060,20 @@
    },
    {
     "source": "src:bhagavad-gita",
+    "ref": "18.35",
+    "rests_on": [
+     "tea:bhagavad-gita:18.35"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.30",
+    "rests_on": [
+     "tea:bhagavad-gita:18.30"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
     "ref": "4.10",
     "rests_on": [
      "tea:bhagavad-gita:4.10"
@@ -7757,6 +8129,18 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:18.30",
+      "tea:bhagavad-gita:18.35"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:4.10",
       "tea:bhagavad-gita:5.28",
       "tea:bhagavad-gita:6.14"
@@ -7784,6 +8168,7 @@
   "alt_description": [
    "Fear arises from a second (BAU 1.4.2); when one makes the slightest gap in brahman there is fear (TU 2.7); the knower of brahman's bliss is never afraid (TU 2.4, 2.9); brahman is fearlessness (BAU 4.4.25).",
    "Bhagavad Gītā 10–12: Fear and fearlessness are among the states that arise from the Lord (10.4); Arjuna and the worlds tremble at the terrible form (11.20, 11.23–25), he stammers in fear (11.35) and his manas is shaken with fear (11.45); the Lord bids him be free of fear (vyapetabhīḥ, 11.49); the devotee dear to the Lord is freed from fear (12.15).",
+   "Bhagavad Gītā 18.35: tāmasic steadiness does not let go of sleep, fear, grief, despondency and arrogance; the sāttvic understanding knows what is to be feared and not feared (18.30).",
    "Many free of passion, fear and anger reached the Lord's state (4.10); the meditating yogin is without fear (6.14); the sage free of desire, fear and anger is forever free (5.28)."
   ],
   "provenance": {
@@ -7791,6 +8176,7 @@
     "extraction:bhagavad-gita/ch01-03",
     "skeleton:U03-principal-upanisads",
     "extraction:bhagavad-gita/ch10-12",
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch04-06"
    ],
    "phases": [
@@ -7811,7 +8197,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7868,7 +8254,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7941,7 +8327,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -7997,7 +8383,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8078,7 +8464,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8159,7 +8545,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8250,7 +8636,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8331,7 +8717,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8391,7 +8777,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8465,7 +8851,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8598,7 +8984,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8654,7 +9040,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8753,7 +9139,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8815,7 +9201,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8875,7 +9261,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -8945,7 +9331,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9002,7 +9388,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9066,7 +9452,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9121,7 +9507,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9191,7 +9577,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9278,7 +9664,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9287,8 +9673,8 @@
   "category": "obstacle",
   "lineages": [
    "lin:hatha-yoga",
-   "lin:natha",
    "lin:epic-teaching",
+   "lin:natha",
    "lin:varkari",
    "lin:regional-bhakti-poets",
    "lin:radhavallabha",
@@ -9316,6 +9702,60 @@
     "rests_on": [
      "tea:dattatreyayogasastra:39-42",
      "tea:dattatreyayogasastra:43-46"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.4",
+    "rests_on": [
+     "tea:bhagavad-gita:16.4"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.10",
+    "rests_on": [
+     "tea:bhagavad-gita:16.10"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.17",
+    "rests_on": [
+     "tea:bhagavad-gita:16.17"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "17.5",
+    "rests_on": [
+     "tea:bhagavad-gita:17.5"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "17.12",
+    "rests_on": [
+     "tea:bhagavad-gita:17.12"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "17.18",
+    "rests_on": [
+     "tea:bhagavad-gita:17.18"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.4, 16.10, 16.17, 17.5, 17.12, 17.18",
+    "rests_on": [
+     "tea:bhagavad-gita:16.4",
+     "tea:bhagavad-gita:16.10",
+     "tea:bhagavad-gita:16.17",
+     "tea:bhagavad-gita:17.5",
+     "tea:bhagavad-gita:17.12",
+     "tea:bhagavad-gita:17.18"
     ]
    },
    {
@@ -9365,6 +9805,22 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:16.4",
+      "tea:bhagavad-gita:16.10",
+      "tea:bhagavad-gita:16.17",
+      "tea:bhagavad-gita:17.5",
+      "tea:bhagavad-gita:17.12",
+      "tea:bhagavad-gita:17.18"
+     ],
+     "result": "corrected",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in correction_log and interpretation_log.jsonl."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:13.8"
      ],
      "result": "confirmed",
@@ -9379,15 +9835,43 @@
    "A9",
    "B2"
   ],
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Hypocrisy, ostentation (dambha)"
+   }
+  ],
   "alt_description": [
+   "Bhagavad Gītā 16–17: hypocrisy/ostentation, first mark of the demonic endowment (16.4); the demonic act with it (16.10) and sacrifice with it (16.17); sacrifice for display (dambhārtham) is rājasic (17.12), austerity done with it is rājasic (17.18), and with the sense of 'I' it drives unsanctioned terrible austerity (17.5).",
    "Speaking of knowledge before the breath has entered the middle path, the bindu is firm and the natural state has arisen is 'hypocritical, false prattle' (HYP 4.114; Candrāvalokana).",
    "Bhagavad Gītā 13–15: Absence of pretence (adambhitva) is among the items called knowledge (13.8).",
    "Outward religiosity — bathing, marks, rosaries, rites — without inner purity or knowledge of the Self.",
    "Religious practice for show; its renunciation is the first step of adhyātma (Adhyātmasāra)."
   ],
+  "correction_log": [
+   {
+    "field": "names",
+    "old": [
+     {
+      "lineage": "lin:epic-teaching",
+      "name": "Hypocrisy of the unrealised (dambha)"
+     }
+    ],
+    "new": [
+     {
+      "lineage": "lin:epic-teaching",
+      "name": "Hypocrisy, ostentation (dambha)"
+     }
+    ],
+    "reason": "The epic-teaching name repeated data/'s haṭha-yoga title 'Hypocrisy of the unrealised' (HYP 1.65–66, DYŚ); the Gītā's dambha (16.4, 16.10, 16.17, 17.5, 17.12, 17.18) is hypocrisy or ostentation, as the entry's own description and trm:dambha say. The shared top-level name is left for S5.",
+    "by": "F",
+    "date": "2026-09-29"
+   }
+  ],
   "provenance": {
    "units": [
     "skeleton:U28-hatha-texts",
+    "extraction:bhagavad-gita/ch16-18",
     "skeleton:U21-natha-aghora",
     "extraction:bhagavad-gita/ch13-15",
     "skeleton:U26-regional-bhakti",
@@ -9422,7 +9906,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9468,7 +9952,86 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
+  }
+ },
+ {
+  "id": "obs:darpa",
+  "name": "Arrogance (darpa)",
+  "category": "passion",
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Arrogance (darpa)"
+   }
+  ],
+  "description": "Bhagavad Gītā: arrogance, a mark of the demonic endowment (16.4), resorted to with ahaṅkāra, force, desire and anger by those who hate the Lord in all bodies (16.18); let go of, with these, in the discipline that makes one fit for becoming Brahman (18.53).",
+  "lineages": [
+   "lin:epic-teaching"
+  ],
+  "sources": [
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.4",
+    "rests_on": [
+     "tea:bhagavad-gita:16.4"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.18",
+    "rests_on": [
+     "tea:bhagavad-gita:16.18"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.53",
+    "rests_on": [
+     "tea:bhagavad-gita:18.53"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:16.4",
+      "tea:bhagavad-gita:16.18",
+      "tea:bhagavad-gita:18.53"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch16-18"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:epic-teaching"
+   ],
+   "schools": [
+    "lin:epic-teaching"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9527,7 +10090,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9588,7 +10151,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9651,7 +10214,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9719,7 +10282,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9768,7 +10331,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9817,7 +10380,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9886,7 +10449,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -9960,7 +10523,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10012,7 +10575,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10083,7 +10646,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10147,7 +10710,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10196,7 +10759,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10257,7 +10820,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10317,7 +10880,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10379,7 +10942,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10435,7 +10998,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10505,7 +11068,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10561,7 +11124,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10629,7 +11192,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10733,7 +11296,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10823,7 +11386,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10874,7 +11437,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10932,7 +11495,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -10984,7 +11547,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11049,7 +11612,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11100,7 +11663,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11166,7 +11729,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11254,7 +11817,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11303,7 +11866,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11490,7 +12053,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11531,6 +12094,27 @@
     "ref": "1.11",
     "rests_on": [
      "tea:yoga-bhasya:1.11"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.10",
+    "rests_on": [
+     "tea:bhagavad-gita:18.10"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.23",
+    "rests_on": [
+     "tea:bhagavad-gita:18.23"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.51",
+    "rests_on": [
+     "tea:bhagavad-gita:18.51"
     ]
    },
    {
@@ -11610,6 +12194,19 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:18.10",
+      "tea:bhagavad-gita:18.23",
+      "tea:bhagavad-gita:18.51"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:5.3"
      ],
      "result": "confirmed",
@@ -11662,15 +12259,19 @@
    {
     "lineage": "lin:epic-teaching",
     "name": "dveṣa"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Aversion (dveṣa)"
    }
   ],
   "alt_description": [
    "Bhagavad Gītā 1–3: Aversion (dveṣa), set together with passion in each sense towards its object, is a waylayer; one should not come under its sway (3.34). The self-governed person moves among objects with senses free of attraction and aversion and attains serenity (2.64); the one of steady wisdom neither rejoices nor hates (na dveṣṭi) on meeting the pleasant or unpleasant (2.57).",
    "Aversion follows on pain (2.8).",
+   "Bhagavad Gītā 18: the relinquisher does not hate disagreeable action (18.10); sāttvic action is done without passion or aversion (18.23); passion and aversion are cast off in the discipline of 18.51.",
    "Bhagavad Gītā 5.3: the constant renunciant is the one who neither hates (dveṣṭi) nor desires.",
    "Bhagavad Gītā 7.27: with desire (icchā), the source of the delusion of the pairs that bewilders all beings at birth.",
-   "Bhagavad Gītā 10–12: The dear devotee hates no being (adveṣṭā sarvabhūtānām) (12.13) and neither rejoices nor hates (12.17); the one who comes to the Lord is without enmity toward any being (11.55).",
-   "Bhagavad Gītā 13–15: Aversion is listed among the contents of the field (13.7); the one beyond the guṇas does not hate illumination, activity and delusion when they are present (14.22)."
+   "Bhagavad Gītā 10–12: The dear devotee hates no being (adveṣṭā sarvabhūtānām) (12.13) and neither rejoices nor hates (12.17); the one who comes to the Lord is without enmity toward any being (11.55)."
   ],
   "antidotes": [
    "prc:indriya-samyama",
@@ -11689,6 +12290,7 @@
     "extraction:yoga-sutra/p1-2",
     "extraction:bhagavad-gita/ch01-03",
     "skeleton:U10-yoga",
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch04-06",
     "extraction:bhagavad-gita/ch07-09",
     "extraction:bhagavad-gita/ch10-12",
@@ -11712,7 +12314,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11764,7 +12366,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11839,7 +12441,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11896,7 +12498,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11944,7 +12546,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -11994,7 +12596,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12072,7 +12674,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12138,7 +12740,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12214,7 +12816,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12320,7 +12922,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12390,7 +12992,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12461,7 +13063,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12533,7 +13135,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12613,7 +13215,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12676,7 +13278,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12749,7 +13351,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12803,7 +13405,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12869,7 +13471,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12924,7 +13526,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -12969,7 +13571,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13036,7 +13638,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13110,7 +13712,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13166,7 +13768,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13247,7 +13849,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13304,7 +13906,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13411,7 +14013,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13467,7 +14069,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13525,7 +14127,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13602,7 +14204,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13658,7 +14260,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13714,7 +14316,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -13787,7 +14389,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14031,7 +14633,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14089,7 +14691,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14265,7 +14867,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14324,7 +14926,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14376,7 +14978,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14464,7 +15066,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14526,7 +15128,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14597,7 +15199,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14679,7 +15281,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14741,7 +15343,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14799,7 +15401,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14870,7 +15472,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14925,7 +15527,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -14977,7 +15579,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15087,7 +15689,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15142,7 +15744,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15205,7 +15807,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15262,7 +15864,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15318,7 +15920,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15431,7 +16033,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15509,7 +16111,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15585,7 +16187,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15641,7 +16243,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15745,7 +16347,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15816,7 +16418,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15892,7 +16494,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -15939,7 +16541,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16037,7 +16639,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16084,7 +16686,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16163,7 +16765,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16230,7 +16832,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16327,7 +16929,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16374,7 +16976,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16441,7 +17043,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16493,7 +17095,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16569,7 +17171,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16624,7 +17226,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16669,7 +17271,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16726,7 +17328,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16786,7 +17388,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16838,7 +17440,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16883,7 +17485,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16953,7 +17555,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -16999,7 +17601,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17048,7 +17650,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17149,6 +17751,13 @@
     "rests_on": [
      "tea:bhagavad-gita:14.20"
     ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.40",
+    "rests_on": [
+     "tea:bhagavad-gita:18.40"
+    ]
    }
   ],
   "verification": {
@@ -17184,6 +17793,17 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.40"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
    ]
   },
@@ -17193,13 +17813,21 @@
   ],
   "alt_description": [
    "Bhagavad Gītā 7.13–14: deluded by the three guṇa-made states, the whole world does not recognise the Lord who is beyond them; his divine māyā made of the guṇas is hard to cross.",
-   "Bhagavad Gītā 14.5–9: sattva, rajas and tamas, born of prakṛti, bind the imperishable embodied one in the body — sattva by attachment to happiness and to knowledge, rajas by attachment to action, tamas by heedlessness, idleness and sleep; attachment to the guṇas causes births in good and bad wombs (13.22)."
+   "Bhagavad Gītā 14.5–9: sattva, rajas and tamas, born of prakṛti, bind the imperishable embodied one in the body — sattva by attachment to happiness and to knowledge, rajas by attachment to action, tamas by heedlessness, idleness and sleep; attachment to the guṇas causes births in good and bad wombs (13.22).",
+   "Bhagavad Gītā 18.40: there is no being on earth or in heaven among the gods free of the three guṇas born of prakṛti."
+  ],
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Bondage by the three guṇas"
+   }
   ],
   "provenance": {
    "units": [
     "skeleton:U05-gita-epic",
     "extraction:bhagavad-gita/ch07-09",
-    "extraction:bhagavad-gita/ch13-15"
+    "extraction:bhagavad-gita/ch13-15",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction",
@@ -17217,7 +17845,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17284,7 +17912,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17341,7 +17969,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17393,7 +18021,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17439,7 +18067,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17497,7 +18125,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17522,6 +18150,13 @@
     "rests_on": [
      "tea:bhagavad-gita:12.17"
     ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.27",
+    "rests_on": [
+     "tea:bhagavad-gita:18.27"
+    ]
    }
   ],
   "verification": {
@@ -17540,13 +18175,34 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.27"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
    ]
   },
   "notes": "In 11.45 Arjuna reports being thrilled (hṛṣita) at the vision; the text does not call that a fault.",
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Elation (harṣa)"
+   }
+  ],
+  "alt_description": [
+   "Bhagavad Gītā 18.27: the rājasic agent is given to elation and grief."
+  ],
   "provenance": {
    "units": [
-    "extraction:bhagavad-gita/ch10-12"
+    "extraction:bhagavad-gita/ch10-12",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction"
@@ -17563,7 +18219,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17613,7 +18269,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17670,7 +18326,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17753,7 +18409,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17802,7 +18458,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17850,7 +18506,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -17943,7 +18599,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18004,7 +18660,79 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
+  }
+ },
+ {
+  "id": "obs:hyp-six-destroyers",
+  "name": "The six that destroy yoga (HYP 1.15)",
+  "category": "obstacle",
+  "description": "The text says yoga is destroyed by six: overeating (atyāhāra), exertion (prayāsa), idle talk (prajalpa), clinging to rules (niyamagraha), the company of people (janasaṅga) and fickleness or greed (laulya).",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "sources": [
+   {
+    "source": "src:hatha-yoga-pradipika",
+    "ref": "1.15",
+    "rests_on": [
+     "tea:hatha-yoga-pradipika:1.15"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:hatha-yoga-pradipika:1.15"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "antidotes": [
+   "cpt:hyp-six-furtherers-of-yoga"
+  ],
+  "members": [
+   "atyāhāra",
+   "prayāsa",
+   "prajalpa",
+   "niyamagraha",
+   "janasaṅga",
+   "laulya"
+  ],
+  "notes": "The verse does not define niyamagraha or laulya; see the note on tea:hatha-yoga-pradipika:1.15. HYP 1.61 separately warns against fasting and bodily torment (kāyakleśa).",
+  "provenance": {
+   "units": [
+    "extraction:hatha-yoga-pradipika/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:hatha-yoga"
+   ],
+   "schools": [
+    "lin:hatha-yoga"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18074,7 +18802,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18141,7 +18869,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18241,7 +18969,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18294,7 +19022,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18357,7 +19085,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18425,7 +19153,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18481,7 +19209,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18571,7 +19299,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18666,7 +19394,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18716,7 +19444,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18765,7 +19493,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18897,7 +19625,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18947,7 +19675,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -18996,7 +19724,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19045,7 +19773,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19094,7 +19822,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19158,7 +19886,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19218,7 +19946,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19260,7 +19988,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19331,7 +20059,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19387,7 +20115,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19443,7 +20171,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19577,7 +20305,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19633,7 +20361,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19689,7 +20417,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -19704,6 +20432,10 @@
    {
     "lineage": "lin:epic-teaching",
     "name": "kāmarūpa"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Desire (kāma)"
    }
   ],
   "category": "passion",
@@ -19829,6 +20561,34 @@
    },
    {
     "source": "src:bhagavad-gita",
+    "ref": "16.10",
+    "rests_on": [
+     "tea:bhagavad-gita:16.10"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.21",
+    "rests_on": [
+     "tea:bhagavad-gita:16.21"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.23",
+    "rests_on": [
+     "tea:bhagavad-gita:16.23"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.53",
+    "rests_on": [
+     "tea:bhagavad-gita:18.53"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
     "ref": "15.5",
     "rests_on": [
      "tea:bhagavad-gita:15.5"
@@ -19904,6 +20664,20 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:16.10",
+      "tea:bhagavad-gita:16.21",
+      "tea:bhagavad-gita:16.23",
+      "tea:bhagavad-gita:18.53"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:15.5"
      ],
      "result": "confirmed",
@@ -19939,9 +20713,9 @@
    "A person is made of desire; desire leads to resolve, action and its result, and the desiring one returns to this world for action (BAU 4.4.5-6); one who desires desires is born here and there by them (MuU 3.2.2); children pursue outward desires into the net of death (KU 2.1.2); when all desires in the heart are released one becomes immortal (BAU 4.4.7; KU 2.3.14).",
    "Bhagavad Gītā 4–6: undertakings free of desire mark the learned (4.19); the unyoked is bound, attached to the fruit through the drive of desire (5.12); the surge of desire and anger is to be withstood before leaving the body (5.23); the liberated sage is free of desire (icchā), fear and anger (5.28); the yoked one is free of craving for all desires (6.18); desires born of intention are to be abandoned without remainder (6.24).",
    "Bhagavad Gītā 7.20, 7.22; 9.21: desires carry off people's knowledge so that they resort to other deities for their desires; the followers of the three Vedas, 'desiring desires', obtain only going and coming. (At 7.11 the Lord is desire not opposed to dharma.)",
+   "Bhagavad Gītā 16–18: insatiable desire is resorted to by the demonic (16.10); with anger and greed it is the threefold gate of hell (16.21); acting as desire prompts, casting aside scriptural injunction, one gains neither perfection, happiness nor the highest course (16.23); it is let go of in the discipline of 18.53.",
    "Bhagavad Gītā 13–15: Those whose desires have turned away (vinivṛtta-kāma) reach the imperishable place (15.5).",
-   "Desire for one's own pleasure, the downward current; for the Sahajiyā not to be suppressed but refined into prema, for the Bāuls to be mastered before practice — and the danger into which the unqualified fall.",
-   "Desire for one's own sense-pleasure, contrasted with prema, the desire for Kṛṣṇa's pleasure."
+   "Desire for one's own pleasure, the downward current; for the Sahajiyā not to be suppressed but refined into prema, for the Bāuls to be mastered before practice — and the danger into which the unqualified fall."
   ],
   "provenance": {
    "units": [
@@ -19949,6 +20723,7 @@
     "skeleton:U03-principal-upanisads",
     "extraction:bhagavad-gita/ch04-06",
     "extraction:bhagavad-gita/ch07-09",
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch13-15",
     "skeleton:U27-sant-baul",
     "skeleton:U16-bhedabheda"
@@ -19978,7 +20753,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20045,7 +20820,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20104,7 +20879,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20160,7 +20935,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20273,7 +21048,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20337,7 +21112,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20389,7 +21164,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20447,7 +21222,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20504,7 +21279,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20562,7 +21337,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20624,7 +21399,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20678,7 +21453,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20731,7 +21506,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20795,7 +21570,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20859,7 +21634,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20944,7 +21719,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -20996,7 +21771,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21048,7 +21823,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21126,7 +21901,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21172,7 +21947,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21238,7 +22013,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21294,7 +22069,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21358,7 +22133,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21446,7 +22221,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21530,7 +22305,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21598,7 +22373,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21654,7 +22429,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21665,6 +22440,10 @@
     "lineage": "lin:epic-teaching",
     "name": "krodha",
     "term": "trm:krodha"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Anger (krodha)"
    }
   ],
   "category": "passion",
@@ -21681,6 +22460,27 @@
      "tea:bhagavad-gita:2.62",
      "tea:bhagavad-gita:2.63",
      "tea:bhagavad-gita:3.37"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.4",
+    "rests_on": [
+     "tea:bhagavad-gita:16.4"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.21",
+    "rests_on": [
+     "tea:bhagavad-gita:16.21"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.53",
+    "rests_on": [
+     "tea:bhagavad-gita:18.53"
     ]
    },
    {
@@ -21727,6 +22527,19 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:16.4",
+      "tea:bhagavad-gita:16.21",
+      "tea:bhagavad-gita:18.53"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:4.10",
       "tea:bhagavad-gita:5.23",
       "tea:bhagavad-gita:5.26",
@@ -21743,11 +22556,13 @@
    "D"
   ],
   "alt_description": [
+   "Bhagavad Gītā 16–18: a mark of the demonic endowment (16.4) and a gate of hell (16.21); let go of in the discipline of 18.53.",
    "Bhagavad Gītā 4–6: those free of passion, fear and anger came to the Lord's being (4.10); the surge of desire and anger is to be withstood (5.23); ascetics free of desire and anger have brahma-nirvāṇa all around them (5.26); the sage from whom desire, fear and anger have gone is ever liberated (5.28)."
   ],
   "provenance": {
    "units": [
     "extraction:bhagavad-gita/ch01-03",
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch04-06"
    ],
    "phases": [
@@ -21765,7 +22580,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21833,7 +22648,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21889,7 +22704,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21947,7 +22762,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -21995,7 +22810,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22044,7 +22859,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22088,7 +22903,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22148,7 +22963,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22199,7 +23014,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22270,7 +23085,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22320,7 +23135,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22428,7 +23243,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22565,7 +23380,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22615,7 +23430,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22687,7 +23502,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22739,6 +23554,20 @@
    },
    {
     "source": "src:bhagavad-gita",
+    "ref": "16.21",
+    "rests_on": [
+     "tea:bhagavad-gita:16.21"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.27",
+    "rests_on": [
+     "tea:bhagavad-gita:18.27"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
     "ref": "14.12",
     "rests_on": [
      "tea:bhagavad-gita:14.12"
@@ -22776,6 +23605,18 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:16.21",
+      "tea:bhagavad-gita:18.27"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:14.12",
       "tea:bhagavad-gita:14.17"
      ],
@@ -22793,11 +23634,16 @@
     "lineage": "lin:epic-teaching",
     "name": "lobha",
     "term": "trm:lobha"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Greed (lobha)"
    }
   ],
   "alt_description": [
    "Bhagavad Gītā 1–3: In Arjuna's argument, greed strikes down the minds of the Kauravas so that they do not see the fault in destroying the family (1.38), and his own side is ready to kill its own people from greed for the pleasures of kingship (1.45).",
    "The first unwholesome root; abandoning it alone guarantees non-return (Iti 1).",
+   "Bhagavad Gītā 16.21: the third gate of hell; the rājasic agent is greedy (18.27).",
    "Bhagavad Gītā 13–15: Greed arises when rajas has increased and comes from rajas (14.12, 14.17)."
   ],
   "equivalents": [],
@@ -22811,6 +23657,7 @@
     "extraction:visuddhimagga/selections",
     "extraction:bhagavad-gita/ch01-03",
     "skeleton:U36-pali-suttas",
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch13-15"
    ],
    "phases": [
@@ -22834,7 +23681,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -22936,7 +23783,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23013,7 +23860,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23054,7 +23901,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23122,7 +23969,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23190,7 +24037,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23294,7 +24141,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23345,7 +24192,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23401,7 +24248,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23456,7 +24303,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23502,7 +24349,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23562,7 +24409,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23613,7 +24460,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23683,7 +24530,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23765,18 +24612,46 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
   "id": "obs:mamatva",
   "name": "The sense of 'mine' (mamatva)",
   "category": "bond",
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "The sense of 'mine' (mamatva)"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "mama"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "nirmama (its absence)"
+   }
+  ],
+  "description": "Bhagavad Gītā: the demonic think 'this is mine, and this wealth too will be mine' (16.13); one without 'mine' (nirmama) is fit for becoming Brahman (18.53).",
   "lineages": [
    "lin:epic-teaching"
   ],
-  "description": "Bhagavad Gītā 10–12: The dear devotee is without 'mine' (nirmama) (12.13).",
   "sources": [
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.13",
+    "rests_on": [
+     "tea:bhagavad-gita:16.13"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.53",
+    "rests_on": [
+     "tea:bhagavad-gita:18.53"
+    ]
+   },
    {
     "source": "src:bhagavad-gita",
     "ref": "12.13",
@@ -23804,6 +24679,18 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:16.13",
+      "tea:bhagavad-gita:18.53"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:12.13"
      ],
      "result": "confirmed",
@@ -23811,17 +24698,8 @@
     }
    ]
   },
-  "names": [
-   {
-    "lineage": "lin:epic-teaching",
-    "name": "mama"
-   },
-   {
-    "lineage": "lin:epic-teaching",
-    "name": "nirmama (its absence)"
-   }
-  ],
   "alt_description": [
+   "Bhagavad Gītā 10–12: The dear devotee is without 'mine' (nirmama) (12.13).",
    "Bhagavad Gītā 1–3: Its absence (nirmama) marks the one who attains peace (2.71); Arjuna is to fight free of it (3.30)."
   ],
   "antidotes": [
@@ -23835,6 +24713,7 @@
   "notes": "The text names only its absence (nirmama); the abstract noun is supplied for the obstacle.",
   "provenance": {
    "units": [
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch10-12",
     "extraction:bhagavad-gita/ch01-03"
    ],
@@ -23853,7 +24732,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23920,7 +24799,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -23992,7 +24871,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24094,7 +24973,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24150,7 +25029,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24228,7 +25107,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24286,7 +25165,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24369,7 +25248,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24441,7 +25320,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24466,6 +25345,20 @@
     "rests_on": [
      "tea:bhagavad-gita:15.5"
     ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.10",
+    "rests_on": [
+     "tea:bhagavad-gita:16.10"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.17",
+    "rests_on": [
+     "tea:bhagavad-gita:16.17"
+    ]
    }
   ],
   "antidotes": [
@@ -24487,13 +25380,35 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:16.10",
+      "tea:bhagavad-gita:16.17"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
    ]
   },
   "notes": "New obstacle (extractor B) for the Gītā's māna / mānitva (13.8 amānitva, 15.5 nirmāna). Flagged for the S5 review with the existing pride obstacles, which are other traditions' (obs:mana, the Buddhist fetter of conceit; obs:mana-pride, Pāśupata; obs:abhimana, obs:abhimana-dambha).",
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Pride (māna)"
+   }
+  ],
+  "alt_description": [
+   "Bhagavad Gītā 16–18: pride (māna), with hypocrisy and arrogance, fills the demonic (16.10), who are filled with the pride and intoxication of wealth (dhana-māna-mada, 16.17)."
+  ],
   "provenance": {
    "units": [
-    "extraction:bhagavad-gita/ch13-15"
+    "extraction:bhagavad-gita/ch13-15",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction"
@@ -24510,7 +25425,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24613,7 +25528,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24704,7 +25619,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24758,7 +25673,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24815,7 +25730,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24867,7 +25782,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24927,7 +25842,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -24998,7 +25913,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -25058,7 +25973,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -25106,7 +26021,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -25177,7 +26092,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -25230,7 +26145,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -25292,7 +26207,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -25347,7 +26262,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -25428,7 +26343,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -25514,7 +26429,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -25583,7 +26498,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -25677,6 +26592,61 @@
     "ref": "9.12",
     "rests_on": [
      "tea:bhagavad-gita:9.12"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.10",
+    "rests_on": [
+     "tea:bhagavad-gita:16.10"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.16",
+    "rests_on": [
+     "tea:bhagavad-gita:16.16"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.7",
+    "rests_on": [
+     "tea:bhagavad-gita:18.7"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.25",
+    "rests_on": [
+     "tea:bhagavad-gita:18.25"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.60",
+    "rests_on": [
+     "tea:bhagavad-gita:18.60"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.72-73",
+    "rests_on": [
+     "tea:bhagavad-gita:18.72",
+     "tea:bhagavad-gita:18.73"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.10, 18.7, 18.25, 18.60, 18.72, 18.73",
+    "rests_on": [
+     "tea:bhagavad-gita:16.10",
+     "tea:bhagavad-gita:18.7",
+     "tea:bhagavad-gita:18.25",
+     "tea:bhagavad-gita:18.60",
+     "tea:bhagavad-gita:18.72",
+     "tea:bhagavad-gita:18.73"
     ]
    },
    {
@@ -25854,6 +26824,23 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:16.10",
+      "tea:bhagavad-gita:16.16",
+      "tea:bhagavad-gita:18.7",
+      "tea:bhagavad-gita:18.25",
+      "tea:bhagavad-gita:18.60",
+      "tea:bhagavad-gita:18.72",
+      "tea:bhagavad-gita:18.73"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:4.35",
       "tea:bhagavad-gita:5.15",
       "tea:bhagavad-gita:5.20"
@@ -25899,9 +26886,9 @@
    "Delusion, born of anger (BhG 2.63) and of the pairs of opposites (7.27), by which the world does not know the Lord (7.13); destroyed by knowledge and grace (4.35; 18.73).",
    "Bhagavad Gītā 1–3: Arjuna's mind is bewildered about dharma (2.7); understanding must cross the thicket of delusion (2.52); delusion arises from anger and confuses memory (2.63); those deluded by the guṇas are attached to their actions (3.29); those who cavil are deluded in all knowledge (3.32); desire deludes the embodied one through the senses, mind and understanding (3.40). The one in the brahmic state is not bewildered (2.72).",
    "Bhagavad Gītā 7–9: the whole world, deluded by the three guṇa-made states, does not recognize the Lord (7.13); the deluded (mūḍha) evil-doers do not take refuge in him (7.15); the deluded world does not know him, veiled by yoga-māyā (7.25); all beings fall into bewilderment at birth through the delusion of the pairs (7.27); the deluded disregard him in human form (9.11) and resort to a deluding nature (9.12).",
+   "Bhagavad Gītā 16–18: the demonic take up false notions out of delusion and are caught in its net (16.10, 16.16); abandoning allotted action from delusion is tāmasic (18.7), as is action begun from it (18.25); Arjuna's refusal is from delusion (18.60); his confusion born of ignorance is destroyed at the end of the teaching (18.72–73).",
    "The third unwholesome root, one of the three fires.",
-   "Knowledge taught by the truth-seers frees one from falling into delusion again (4.35); creatures are deluded because knowledge is covered by ignorance (5.15); the knower of Brahman is undeluded (5.20).",
-   "Bhagavad Gītā 10–12: Arjuna declares his delusion gone through the supreme secret teaching called adhyātma (11.1); the Lord bids him not be bewildered (vimūḍhabhāva) at the terrible form (11.49); one who knows the Lord as unborn and beginningless is undeluded among mortals (10.3); freedom from delusion (asaṃmoha) is among the states that arise from him (10.4)."
+   "Knowledge taught by the truth-seers frees one from falling into delusion again (4.35); creatures are deluded because knowledge is covered by ignorance (5.15); the knower of Brahman is undeluded (5.20)."
   ],
   "antidotes": [
    "knowledge (4.35)",
@@ -25913,6 +26900,7 @@
    "taking refuge in the Lord (7.14)",
    "the end of sin, freedom from the pairs (7.28)",
    "knowing the two paths (8.27)",
+   "Hearing the teaching with one-pointed thought (18.72); the teacher's grace (18.73).",
    "knowing the Lord as unborn, without beginning, the great lord of the world (10.3)",
    "hearing the teaching called adhyātma (11.1)"
   ],
@@ -25935,6 +26923,10 @@
    {
     "lineage": "lin:epic-teaching",
     "name": "mohakalila"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Delusion (moha)"
    }
   ],
   "equivalents": [],
@@ -25944,6 +26936,7 @@
     "skeleton:U05-gita-epic",
     "extraction:bhagavad-gita/ch01-03",
     "extraction:bhagavad-gita/ch07-09",
+    "extraction:bhagavad-gita/ch16-18",
     "skeleton:U36-pali-suttas",
     "extraction:bhagavad-gita/ch04-06",
     "extraction:bhagavad-gita/ch10-12",
@@ -25975,7 +26968,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26027,7 +27020,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26069,7 +27062,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26124,7 +27117,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26193,7 +27186,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26306,7 +27299,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26356,7 +27349,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26413,7 +27406,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26469,7 +27462,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26530,7 +27523,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26579,7 +27572,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26663,7 +27656,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26798,7 +27791,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26876,7 +27869,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -26961,7 +27954,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27046,7 +28039,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27097,7 +28090,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27147,7 +28140,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27207,7 +28200,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27275,7 +28268,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27332,7 +28325,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27384,7 +28377,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27451,7 +28444,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27518,7 +28511,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27610,7 +28603,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27673,7 +28666,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27716,7 +28709,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27772,7 +28765,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27828,7 +28821,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27891,7 +28884,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -27970,7 +28963,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28032,7 +29025,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28091,7 +29084,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28143,6 +29136,13 @@
     "rests_on": [
      "tea:astapahuda:sutta.18"
     ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.53",
+    "rests_on": [
+     "tea:bhagavad-gita:18.53"
+    ]
    }
   ],
   "antidotes": [
@@ -28163,6 +29163,17 @@
    "unverified": false,
    "checks": [
     {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.53"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
      "phase": "C",
      "date": "2026-09-29",
      "method": "text-locate",
@@ -28180,14 +29191,23 @@
    ]
   },
   "alt_description": [
-   "Holding possessions, living or lifeless — the bond the Sūtrakṛtāṅga names first; defined in both traditions as attachment (mūrcchā), though the Digambaras hold any clothing to show it and the Śvetāmbaras do not."
+   "Holding possessions, living or lifeless — the bond the Sūtrakṛtāṅga names first; defined in both traditions as attachment (mūrcchā), though the Digambaras hold any clothing to show it and the Śvetāmbaras do not.",
+   "Bhagavad Gītā 18.53: possessions are let go of in the discipline that makes one fit for becoming Brahman."
+  ],
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Possessiveness (parigraha)"
+   }
   ],
   "provenance": {
    "units": [
     "skeleton:U06-other-gitas",
-    "skeleton:U34-jain-canon"
+    "skeleton:U34-jain-canon",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   },
@@ -28211,7 +29231,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28275,7 +29295,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28345,7 +29365,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28408,7 +29428,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28484,7 +29504,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28596,7 +29616,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28661,7 +29681,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28715,7 +29735,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28764,7 +29784,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28824,7 +29844,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28869,7 +29889,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28931,7 +29951,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -28989,7 +30009,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29061,7 +30081,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29116,7 +30136,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29166,7 +30186,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29228,7 +30248,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29315,7 +30335,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29376,7 +30396,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29444,7 +30464,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29512,7 +30532,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29583,6 +30603,13 @@
     "ref": "2.3.11",
     "rests_on": [
      "tea:katha-upanisad:2.3.10-11"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.39",
+    "rests_on": [
+     "tea:bhagavad-gita:18.39"
     ]
    },
    {
@@ -29661,6 +30688,17 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:18.39"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:11.41",
       "tea:bhagavad-gita:11.42"
      ],
@@ -29704,9 +30742,9 @@
    "Heedlessness is death (Sanatsujāta, MBh 5.42.4); negligence is a bond of tamas (BhG 14.8).",
    "Not cultivating the means of samādhi; Vyāsa warns that carelessness, ever watching for an opening, revives the afflictions (YBh 3.51). One of the nine obstacles (1.30, YBh 1.30).",
    "Lineage contribution (Upaniṣadic): 'do not neglect truth, dharma, study' (TU 1.11); the target is to be pierced by one who is undistracted (MuU 2.2.4); not attained through heedlessness (MuU 3.2.4); in yoga one becomes undistracted (KU 2.3.11).",
+   "Bhagavad Gītā 18.39: tāmasic happiness arises from sleep, sloth and heedlessness.",
    "Inattention to what is to come and dependence; the end of suffering is reached by the vigilant.",
-   "Bhagavad Gītā 10–12: Arjuna asks forgiveness for what he said to Kṛṣṇa as to a friend, not knowing his greatness, 'through heedlessness or through affection' (11.41–42).",
-   "Bhagavad Gītā 13–15: Heedlessness: tamas binds by it (14.8), attaches one to it, covering knowledge (14.9); it is a sign and a product of tamas (14.13, 14.17)."
+   "Bhagavad Gītā 10–12: Arjuna asks forgiveness for what he said to Kṛṣṇa as to a friend, not knowing his greatness, 'through heedlessness or through affection' (11.41–42)."
   ],
   "antidotes": [
    "prc:apramada",
@@ -29719,12 +30757,19 @@
    "A5",
    "A2"
   ],
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Heedlessness (pramāda)"
+   }
+  ],
   "provenance": {
    "units": [
     "extraction:yoga-sutra/p1-2",
     "skeleton:U05-gita-epic",
     "skeleton:U10-yoga",
     "skeleton:U03-principal-upanisads",
+    "extraction:bhagavad-gita/ch16-18",
     "skeleton:U17-pasupata-kapalika",
     "extraction:bhagavad-gita/ch10-12",
     "extraction:bhagavad-gita/ch13-15"
@@ -29751,7 +30796,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29815,7 +30860,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29854,7 +30899,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29893,7 +30938,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -29952,7 +30997,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30031,7 +31076,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30079,7 +31124,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30136,7 +31181,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30185,7 +31230,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30242,7 +31287,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30343,7 +31388,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30393,7 +31438,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30455,7 +31500,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30523,7 +31568,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30579,7 +31624,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30637,7 +31682,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30697,7 +31742,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30784,7 +31829,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30838,7 +31883,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30908,7 +31953,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -30982,6 +32027,34 @@
    },
    {
     "source": "src:bhagavad-gita",
+    "ref": "17.5",
+    "rests_on": [
+     "tea:bhagavad-gita:17.5"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.23",
+    "rests_on": [
+     "tea:bhagavad-gita:18.23"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.27",
+    "rests_on": [
+     "tea:bhagavad-gita:18.27"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.51",
+    "rests_on": [
+     "tea:bhagavad-gita:18.51"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
     "ref": "4.10",
     "rests_on": [
      "tea:bhagavad-gita:4.10"
@@ -31029,6 +32102,20 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:17.5",
+      "tea:bhagavad-gita:18.23",
+      "tea:bhagavad-gita:18.27",
+      "tea:bhagavad-gita:18.51"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:4.10",
       "tea:bhagavad-gita:5.3"
      ],
@@ -31057,12 +32144,17 @@
    {
     "lineage": "lin:epic-teaching",
     "name": "rāga"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Passion, attachment (rāga)"
    }
   ],
   "alt_description": [
    "Bhagavad Gītā 1–3: Passion or attraction (rāga), set together with aversion in each sense towards its object, is a waylayer; one should not come under its sway (3.34). The self-governed person moves among objects with senses free of attraction and aversion and attains serenity (2.64); the sage of steady mind is free from passion, fear and anger (vītarāgabhayakrodha, 2.56).",
    "Sāṃkhya contribution: from passion of the nature of rajas comes saṃsāra (SK 45); meditation is its removal (SS 3.30); it is not quieted by enjoyment but by seeing the faults (SS 4.27–28); brooding on what is not a means binds, as with Bharata (SS 4.8).",
    "Attachment follows on pleasure (2.7).",
+   "Bhagavad Gītā 17–18: passion with desire drives unsanctioned austerity (17.5); the rājasic agent is passionate (18.27); sāttvic action is done without passion or aversion (18.23); passion and aversion are cast off in the discipline of 18.51.",
    "Many free of passion, fear and anger, absorbed in the Lord, reached his state (4.10); the constant renouncer does not crave (5.3).",
    "Bhagavad Gītā 13–15: Rajas has passion (rāga) for its nature (14.7)."
   ],
@@ -31085,6 +32177,7 @@
     "extraction:bhagavad-gita/ch01-03",
     "skeleton:U09-samkhya",
     "skeleton:U10-yoga",
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch04-06",
     "extraction:bhagavad-gita/ch13-15"
    ],
@@ -31108,7 +32201,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31169,7 +32262,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31232,7 +32325,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31321,7 +32414,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31372,7 +32465,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31432,7 +32525,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31499,7 +32592,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31572,7 +32665,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31665,7 +32758,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31714,7 +32807,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31785,7 +32878,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31869,7 +32962,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -31932,7 +33025,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32004,7 +33097,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32110,7 +33203,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32181,7 +33274,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32243,7 +33336,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32299,7 +33392,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32355,7 +33448,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32407,7 +33500,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32449,7 +33542,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32526,7 +33619,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32608,7 +33701,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32662,7 +33755,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32719,7 +33812,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32785,7 +33878,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32851,7 +33944,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32899,7 +33992,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -32951,7 +34044,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -33016,7 +34109,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -33129,7 +34222,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -33193,7 +34286,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -33251,7 +34344,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -33475,7 +34568,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -33543,7 +34636,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -33599,7 +34692,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -33660,7 +34753,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -33675,6 +34768,10 @@
    {
     "lineage": "lin:epic-teaching",
     "name": "sakta"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Attachment (saṅga)"
    }
   ],
   "category": "bond",
@@ -33775,6 +34872,34 @@
    },
    {
     "source": "src:bhagavad-gita",
+    "ref": "18.6",
+    "rests_on": [
+     "tea:bhagavad-gita:18.6"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.9",
+    "rests_on": [
+     "tea:bhagavad-gita:18.9"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.23",
+    "rests_on": [
+     "tea:bhagavad-gita:18.23"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.26",
+    "rests_on": [
+     "tea:bhagavad-gita:18.26"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
     "ref": "11.55",
     "rests_on": [
      "tea:bhagavad-gita:11.55"
@@ -33836,6 +34961,20 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:18.6",
+      "tea:bhagavad-gita:18.9",
+      "tea:bhagavad-gita:18.23",
+      "tea:bhagavad-gita:18.26"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:11.55",
       "tea:bhagavad-gita:12.18"
      ],
@@ -33852,6 +34991,7 @@
   "alt_description": [
    "Bhagavad Gītā 4–6: for the one whose attachment is gone action dissolves (4.23); one acting with actions placed in Brahman and abandoning attachment is unstained (5.10); yogins act abandoning attachment (5.11); one unattached to external contacts finds happiness in the self (5.21); one unattached to sense objects and actions has ascended to yoga (6.4).",
    "Bhagavad Gītā 13–15: Attachment to the guṇas is the cause of births (13.22); sattva binds by attachment to happiness and knowledge, rajas by attachment to action (14.6-14.7); non-attachment and not clinging are among the items called knowledge (13.10); the aśvattha is cut with the weapon of non-attachment (15.3); the fault of attachment is to be conquered (15.5).",
+   "Bhagavad Gītā 18: sacrifice, giving and austerity are to be done giving up attachment (18.6, 18.9); sāttvic action is free of attachment (18.23) and the sāttvic agent is free of it (18.26).",
    "Bhagavad Gītā 10–12: The one who comes to the Lord is free from attachment (saṅgavarjita) (11.55); the dear devotee is freed from attachment (saṅgavivarjita) (12.18)."
   ],
   "provenance": {
@@ -33859,6 +34999,7 @@
     "extraction:bhagavad-gita/ch01-03",
     "extraction:bhagavad-gita/ch04-06",
     "extraction:bhagavad-gita/ch13-15",
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch10-12"
    ],
    "phases": [
@@ -33876,7 +35017,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -33958,7 +35099,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34018,7 +35159,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34084,7 +35225,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34139,7 +35280,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34258,7 +35399,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34313,7 +35454,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34375,7 +35516,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34427,7 +35568,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34485,7 +35626,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34537,7 +35678,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34585,7 +35726,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34652,7 +35793,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34707,7 +35848,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34771,7 +35912,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34859,7 +36000,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34911,7 +36052,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34971,7 +36112,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -34984,6 +36125,7 @@
   "description": "Deluded by ego one thinks 'I am the doer' of actions done by the guṇas of prakṛti (BhG 3.27); one who sees the self alone as agent does not see (18.16).",
   "antidotes": [
    "prc:guna-witnessing",
+   "seeing the five causes of action (18.13–15)",
    "knowledge of reality (tattva) (5.8)"
   ],
   "sources": [
@@ -34995,6 +36137,14 @@
      "tea:bhagavad-gita:18.13-16",
      "tea:bhagavad-gita:18.17",
      "tea:bhagavad-gita:13.30-31"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.16-17",
+    "rests_on": [
+     "tea:bhagavad-gita:18.16",
+     "tea:bhagavad-gita:18.17"
     ]
    },
    {
@@ -35044,6 +36194,19 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:bhagavad-gita:18.13",
+      "tea:bhagavad-gita:18.16",
+      "tea:bhagavad-gita:18.17"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:bhagavad-gita:5.8",
       "tea:bhagavad-gita:5.9",
       "tea:bhagavad-gita:5.14"
@@ -35069,13 +36232,21 @@
    "A3",
    "D"
   ],
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "The sense of 'I am the doer' (kartṛtva-abhimāna)"
+   }
+  ],
   "alt_description": [
+   "Bhagavad Gītā 18.16–17: since action has five causes, one of untrained understanding who sees the self alone as agent does not see; one without the sense 'I did it' does not slay though slaying and is not bound.",
    "The yoked knower of reality thinks 'I do nothing at all', holding that the senses move among their objects (5.8–9); the lord creates neither agency nor actions nor their link with fruit — svabhāva acts (5.14). Chs. 4–6 do not use the compound kartṛtva-abhimāna.",
    "Bhagavad Gītā 13–15: Whoever sees actions done by prakṛti alone and oneself as not the doer sees truly (13.30); the seer sees no doer other than the guṇas (14.19)."
   ],
   "provenance": {
    "units": [
     "skeleton:U05-gita-epic",
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch04-06",
     "extraction:bhagavad-gita/ch13-15"
    ],
@@ -35095,7 +36266,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -35135,7 +36306,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -35240,7 +36411,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -35312,7 +36483,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -35375,7 +36546,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -35430,7 +36601,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -35482,7 +36653,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -35555,7 +36726,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -35685,7 +36856,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -35730,7 +36901,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -35927,7 +37098,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36019,7 +37190,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36078,7 +37249,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36136,7 +37307,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36198,7 +37369,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36284,7 +37455,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36341,7 +37512,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36414,7 +37585,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36471,7 +37642,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36540,7 +37711,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36597,7 +37768,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36657,7 +37828,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36714,7 +37885,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36787,7 +37958,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36839,7 +38010,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -36854,6 +38025,10 @@
    {
     "lineage": "lin:epic-teaching",
     "name": "anuśocana"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Grief (śoka)"
    }
   ],
   "category": "affliction",
@@ -36908,6 +38083,41 @@
    },
    {
     "source": "src:bhagavad-gita",
+    "ref": "16.5",
+    "rests_on": [
+     "tea:bhagavad-gita:16.5"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.27",
+    "rests_on": [
+     "tea:bhagavad-gita:18.27"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.35",
+    "rests_on": [
+     "tea:bhagavad-gita:18.35"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.54",
+    "rests_on": [
+     "tea:bhagavad-gita:18.54"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.66",
+    "rests_on": [
+     "tea:bhagavad-gita:18.66"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
     "ref": "12.17",
     "rests_on": [
      "tea:bhagavad-gita:12.17"
@@ -36925,6 +38135,21 @@
    "confidence": "high",
    "unverified": false,
    "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:16.5",
+      "tea:bhagavad-gita:18.27",
+      "tea:bhagavad-gita:18.35",
+      "tea:bhagavad-gita:18.54",
+      "tea:bhagavad-gita:18.66"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
     {
      "phase": "D",
      "date": "2026-09-29",
@@ -36963,12 +38188,14 @@
   ],
   "alt_description": [
    "Nārada, knowing only mantras, is in sorrow; 'the knower of the self crosses sorrow' (ChU 7.1.3; MuU 3.2.9); for one who sees oneness there is no delusion or sorrow (Īśa 7); the wise leaves joy and sorrow (KU 1.2.12); seeing the Lord the grieving bird is freed from sorrow (MuU 3.1.2).",
+   "Bhagavad Gītā 16–18: 'do not grieve' (16.5, 18.66); the rājasic agent is given to elation and grief (18.27); tāmasic steadiness does not let go of grief (18.35); the one become Brahman does not grieve (18.54).",
    "Bhagavad Gītā 10–12: The dear devotee neither grieves nor craves (12.17)."
   ],
   "provenance": {
    "units": [
     "extraction:bhagavad-gita/ch01-03",
     "skeleton:U03-principal-upanisads",
+    "extraction:bhagavad-gita/ch16-18",
     "extraction:bhagavad-gita/ch10-12"
    ],
    "phases": [
@@ -36989,7 +38216,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37076,7 +38303,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37132,7 +38359,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37189,7 +38416,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37244,7 +38471,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37333,7 +38560,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37396,7 +38623,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37488,7 +38715,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37545,7 +38772,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37610,7 +38837,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37707,7 +38934,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37766,7 +38993,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37817,7 +39044,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37873,7 +39100,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37941,7 +39168,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -37992,7 +39219,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38060,7 +39287,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38122,7 +39349,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38167,7 +39394,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38243,7 +39470,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38319,7 +39546,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38362,7 +39589,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38436,7 +39663,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38488,7 +39715,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38559,7 +39786,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38683,7 +39910,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38759,7 +39986,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38807,7 +40034,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -38880,7 +40107,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39006,7 +40233,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39084,7 +40311,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39161,7 +40388,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39278,7 +40505,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39379,7 +40606,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39433,7 +40660,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39487,7 +40714,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39557,7 +40784,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39644,7 +40871,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39657,7 +40884,8 @@
   "description": "Desire, anger and greed are the threefold gate of hell, destructive of the self, to be abandoned (BhG 16.21–22).",
   "antidotes": [
    "prc:threefold-tapas",
-   "prc:karma-yoga"
+   "prc:karma-yoga",
+   "prc:conquering-desire"
   ],
   "members": [
    "kāma",
@@ -39671,23 +40899,55 @@
     "rests_on": [
      "tea:bhagavad-gita:16.21-22"
     ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "16.21-22",
+    "rests_on": [
+     "tea:bhagavad-gita:16.21",
+     "tea:bhagavad-gita:16.22"
+    ]
    }
   ],
   "verification": {
    "level": "skeleton",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:16.21",
+      "tea:bhagavad-gita:16.22"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
   },
   "coverage": [
    "A3",
    "D"
   ],
+  "names": [
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "The three gates of hell: desire, anger, greed"
+   }
+  ],
+  "alt_description": [
+   "Desire, anger and greed are the threefold gate of hell, ruinous to the self, to be abandoned; one freed from these gates of darkness does what is good for the self and goes to the highest course (BhG 16.21–22)."
+  ],
   "provenance": {
    "units": [
-    "skeleton:U05-gita-epic"
+    "skeleton:U05-gita-epic",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   },
@@ -39702,7 +40962,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39756,7 +41016,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39810,7 +41070,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -39947,7 +41207,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40001,7 +41261,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40061,7 +41321,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40105,7 +41365,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40242,7 +41502,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40299,7 +41559,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40353,7 +41613,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40421,7 +41681,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40508,7 +41768,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40571,7 +41831,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40629,7 +41889,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40714,7 +41974,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40769,7 +42029,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40822,7 +42082,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -40934,7 +42194,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41021,7 +42281,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41090,7 +42350,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41148,7 +42408,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41219,7 +42479,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41278,7 +42538,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41421,7 +42681,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41479,7 +42739,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41538,7 +42798,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41590,7 +42850,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41722,7 +42982,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41779,7 +43039,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41833,7 +43093,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41879,7 +43139,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -41958,7 +43218,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42007,7 +43267,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42075,7 +43335,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42135,7 +43395,7 @@
      }
     ],
     "reason": "The upapātaka list is at MDh 11.59–66 in Kullūka numbering (Medhātithi 57–64). It begins 'govadho 'yājyasaṃyājyaṃ pāradāryātmavikrayaḥ | gurumātṛpitṛtyāgaḥ svādhyāyāgnyoḥ sutasya ca' (11.59) and ends '… strīśūdraviṭkṣatravadho nāstikyaṃ copapātakam' (11.66). 11.67 is the separate jātibhraṃśakara category. The description's first examples (cow-killing, neglect of Veda and fires, selling oneself, deserting parents or teacher, adultery) are all in 11.59, outside the cited 11.60–67. Correction: ref 11.59–66 in sources and in the description's parenthesis; no other wording changed.",
-    "date": "2026-09-29 23:06 IST",
+    "date": "2026-09-29 23:12 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    },
    {
@@ -42143,7 +43403,7 @@
     "old": "A long list of lesser offences — killing a cow, neglecting the fires or the Veda, selling oneself, usury, deserting parents or teacher, adultery, killing women, śūdras, vaiśyas or kṣatriyas, unbelief (nāstikya) and others (MDh 11.60–67).",
     "new": "A long list of lesser offences — killing a cow, neglecting the fires or the Veda, selling oneself, usury, deserting parents or teacher, adultery, killing women, śūdras, vaiśyas or kṣatriyas, unbelief (nāstikya) and others (MDh 11.59–66).",
     "reason": "The upapātaka list is at MDh 11.59–66 in Kullūka numbering (Medhātithi 57–64). It begins 'govadho 'yājyasaṃyājyaṃ pāradāryātmavikrayaḥ | gurumātṛpitṛtyāgaḥ svādhyāyāgnyoḥ sutasya ca' (11.59) and ends '… strīśūdraviṭkṣatravadho nāstikyaṃ copapātakam' (11.66). 11.67 is the separate jātibhraṃśakara category. The description's first examples (cow-killing, neglect of Veda and fires, selling oneself, deserting parents or teacher, adultery) are all in 11.59, outside the cited 11.60–67. Correction: ref 11.59–66 in sources and in the description's parenthesis; no other wording changed.",
-    "date": "2026-09-29 23:06 IST",
+    "date": "2026-09-29 23:12 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -42166,7 +43426,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42256,7 +43516,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42331,7 +43591,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42391,7 +43651,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42443,7 +43703,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42506,7 +43766,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42575,7 +43835,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42630,7 +43890,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42693,7 +43953,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42753,7 +44013,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42804,7 +44064,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42920,7 +44180,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -42978,7 +44238,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43027,7 +44287,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43090,7 +44350,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43138,7 +44398,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43204,7 +44464,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43268,7 +44528,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43406,7 +44666,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43494,7 +44754,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43542,7 +44802,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43644,7 +44904,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43697,7 +44957,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43746,7 +45006,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43761,6 +45021,10 @@
    {
     "lineage": "lin:epic-teaching",
     "name": "viṣīdan"
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "name": "Despondency (viṣāda)"
    }
   ],
   "category": "affliction",
@@ -43788,6 +45052,20 @@
      "tea:bhagavad-gita:2.3",
      "tea:bhagavad-gita:2.7"
     ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.28",
+    "rests_on": [
+     "tea:bhagavad-gita:18.28"
+    ]
+   },
+   {
+    "source": "src:bhagavad-gita",
+    "ref": "18.35",
+    "rests_on": [
+     "tea:bhagavad-gita:18.35"
+    ]
    }
   ],
   "antidotes": [
@@ -43798,7 +45076,20 @@
    "level": "skeleton",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:18.28",
+      "tea:bhagavad-gita:18.35"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ]
   },
   "equivalents": [],
   "coverage": [
@@ -43806,12 +45097,14 @@
    "D"
   ],
   "alt_description": [
-   "Arjuna's grief and dejection on seeing his kinsmen — trembling, dry mouth, failing limbs, confusion about dharma, faint-heartedness (kārpaṇya) — which moves him to lay down his bow (BhG 1.28–47; 2.1–7)."
+   "Arjuna's grief and dejection on seeing his kinsmen — trembling, dry mouth, failing limbs, confusion about dharma, faint-heartedness (kārpaṇya) — which moves him to lay down his bow (BhG 1.28–47; 2.1–7).",
+   "Bhagavad Gītā 18.28, 18.35: the tāmasic agent is despondent; tāmasic steadiness does not let go of despondency."
   ],
   "provenance": {
    "units": [
     "extraction:bhagavad-gita/ch01-03",
-    "skeleton:U05-gita-epic"
+    "skeleton:U05-gita-epic",
+    "extraction:bhagavad-gita/ch16-18"
    ],
    "phases": [
     "extraction",
@@ -43829,7 +45122,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43883,7 +45176,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -43985,7 +45278,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44055,7 +45348,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44136,7 +45429,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44198,7 +45491,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44258,7 +45551,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44359,7 +45652,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44461,7 +45754,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44519,7 +45812,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44570,7 +45863,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44640,7 +45933,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44704,7 +45997,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44757,7 +46050,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44813,7 +46106,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44868,7 +46161,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -44953,7 +46246,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -45040,7 +46333,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -45127,7 +46420,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -45199,7 +46492,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -45291,7 +46584,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  },
  {
@@ -45344,7 +46637,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 23:06 IST"
+   "computed": "2026-09-29 23:12 IST"
   }
  }
 ]
