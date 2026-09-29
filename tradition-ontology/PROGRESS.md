@@ -51,9 +51,9 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U36-pali-suttas | running | | |
 | U37-abhidhamma-visuddhimagga | running | | |
 | U38-early-schools | running | | |
-| U39-mahayana-sutras | running | | |
-| U40-madhyamaka | running | | |
-| U41-yogacara-pramana | running | | |
+| U39-mahayana-sutras | paused (weekly limit; resume when a slot frees) | | |
+| U40-madhyamaka | paused (weekly limit; resume when a slot frees) | | |
+| U41-yogacara-pramana | paused (weekly limit; resume when a slot frees) | | |
 | U42-chan-zen | queued | | |
 | U43-pure-land | queued | | |
 | U44-indian-vajrayana | queued | | |
