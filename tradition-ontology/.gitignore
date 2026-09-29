@@ -3,3 +3,11 @@ shards/**/_gen/
 __pycache__/
 *.pyc
 *.tmp
+
+# Insight Generator
+.env
+__pycache__/
+*.pyc
+*.sqlite3
+data.key
+.pytest_cache/

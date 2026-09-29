@@ -1,0 +1,12 @@
+{
+  "version": "2026-09-29.1",
+  "min_age": 18,
+  "text": [
+    "This service gives a reflective reading of what you write, through the lens of traditional Indian texts (Vedic, yogic, Buddhist and Jain). It is not therapy, not medical or psychological advice, and it makes no predictions.",
+    "You must be 18 or older.",
+    "What you write is used only to make your reading. It is stored encrypted on this service's machine for up to 90 days, then deleted. You can view, export or delete it at any time.",
+    "If you are using the model engine, your words are sent to Anthropic's API to produce the reading. They are not used in posts, evaluations or anywhere else.",
+    "If what you write suggests you may be at risk, the reading stops and we show you where to find help instead."
+  ],
+  "checkbox": "I am 18 or older and I agree to my words being processed to make this reading."
+}

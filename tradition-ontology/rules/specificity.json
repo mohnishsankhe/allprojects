@@ -1,0 +1,15 @@
+{
+  "_note": "The anti-horoscope rule. Every insight must depend on something this particular person said: it must carry at least one evidence reference to an exact quote from this person's input, and must not match the generic patterns below. Statements that would fit anyone are removed.",
+  "min_evidence_refs_per_insight": 1,
+  "generic_patterns": [
+    "\\b(everyone|everybody|all of us|we all|most people|many people|anyone|every human)\\b",
+    "\\bin today'?s (fast-paced |busy |modern )?world\\b",
+    "\\b(life|modern life) (is|can be) (busy|hard|stressful|a journey|full of ups and downs)\\b",
+    "\\bit'?s (natural|normal|human|okay|ok) to (feel|be|have)\\b",
+    "\\byou are (on a journey|exactly where you need to be|enough)\\b",
+    "\\bthe universe\\b",
+    "\\b(sometimes|at times) you (may|might) feel\\b",
+    "\\byou have (great|hidden|untapped) potential\\b",
+    "\\b(deep down|at heart) you\\b"
+  ]
+}

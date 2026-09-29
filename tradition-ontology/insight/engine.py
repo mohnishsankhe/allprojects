@@ -1,0 +1,160 @@
+"""Person-map pipeline: intake -> safety screen (first) -> mapping -> two-lens synthesis -> pathway -> report.
+
+Two engines share this pipeline and the same validators:
+- 'rules': deterministic, offline (cue matching, templated synthesis from the layers, rule-based pathway);
+- 'model': the Claude API steps in config/model_routing.json (needs ANTHROPIC_API_KEY).
+If a model step fails, the pipeline falls back to the rules engine for that step and says so in the report.
+"""
+from __future__ import annotations
+
+import re
+import time
+from typing import Optional
+
+from . import claims, ontology, safety, specificity
+from .llm import Ledger, ModelClient
+
+
+def build_segments(inputs: dict) -> list[dict]:
+    """The person's own words, as quotable segments with their origin. Dialogue: only the person's lines."""
+    segs = []
+    for qid, ans in (inputs.get("answers") or {}).items():
+        if isinstance(ans, str) and ans.strip():
+            segs.append({"id": f"a:{qid}", "source": qid, "text": ans.strip()})
+    if (inputs.get("free_text") or "").strip():
+        segs.append({"id": "free", "source": "free_text", "text": inputs["free_text"].strip()})
+    dlg = inputs.get("dialogue") or ""
+    me = (inputs.get("dialogue_speaker") or "").strip().lower()
+    if dlg.strip():
+        n = 0
+        for line in dlg.splitlines():
+            m = re.match(r"\s*([^:]{1,40}):\s*(.+)", line)
+            if not m:
+                continue
+            spk, txt = m.group(1).strip().lower(), m.group(2).strip()
+            if me and spk == me and txt:
+                n += 1
+                segs.append({"id": f"d:{n}", "source": "dialogue", "text": txt})
+    return segs
+
+
+def person_text(segs: list[dict]) -> str:
+    return "\n".join(s["text"] for s in segs)
+
+
+def _age(inputs: dict) -> Optional[int]:
+    try:
+        return int(inputs.get("age")) if inputs.get("age") not in (None, "") else None
+    except (TypeError, ValueError):
+        return None
+
+
+def run_reading(inputs: dict, engine: str = "rules", client: Optional[ModelClient] = None,
+                premium: bool = False) -> dict:
+    """Returns the report object (see ENGINE_SPEC.md). Never raises on model failure; fails safe."""
+    from . import mapper, synthesizer, pathway   # local imports keep module load light
+
+    t0 = time.time()
+    ledger = Ledger()
+    segs = build_segments(inputs)
+    text = person_text(segs)
+    report: dict = {"engine": engine, "created": t0, "notices": [], "citations": {}}
+
+    # 1. safety screen — always first
+    use_model = engine == "model"
+    scr = safety.screen(text + (f"\nAge: {inputs.get('age')}" if inputs.get("age") else ""), age=_age(inputs),
+                        client=client if use_model else None, ledger=ledger, require_model=use_model)
+    report["safety"] = {"route": scr.route, "categories": sorted(scr.flags), "model_checked": scr.model_checked,
+                        "injection": scr.injection}
+    msg = scr.message()
+    if scr.stop:
+        report["stopped"] = msg
+        report["cost"] = ledger.totals()
+        return report
+    report["notices"].extend(msg.get("notes") or [])
+    if not segs:
+        report["insufficient"] = "Nothing was shared yet, so there is nothing to reflect on."
+        report["cost"] = ledger.totals()
+        return report
+
+    # 2. mapping
+    maps, map_note = mapper.map_person(segs, engine=engine, client=client, ledger=ledger)
+    if map_note:
+        report["notices"].append(map_note)
+    if not maps:
+        report["insufficient"] = ("What you shared was not enough for us to connect it, honestly, with a pattern the texts "
+                                  "describe. If you like, add a few sentences about a recent situation: what happened, "
+                                  "what went through your mind, and what you did next.")
+        report["cost"] = ledger.totals()
+        return report
+    report["mappings"] = maps
+
+    # 3. two-lens synthesis
+    syn, syn_note = synthesizer.synthesize(segs, maps, engine=engine, client=client, ledger=ledger, premium=premium)
+    if syn_note:
+        report["notices"].append(syn_note)
+    report.update(syn)
+
+    # 4. pathway (rules first, model second)
+    pw, pw_note = pathway.build(segs, maps, scr, engine=engine, client=client, ledger=ledger)
+    if pw_note:
+        report["notices"].append(pw_note)
+    report["pathway"] = pw
+
+    # 5. citations, final validation
+    finalize(report, segs)
+    report["cost"] = ledger.totals()
+    return report
+
+
+def collect_cites(obj) -> set:
+    out = set()
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            if k == "cites" and isinstance(v, list):
+                out.update(x for x in v if isinstance(x, str))
+            elif k != "citations":
+                out |= collect_cites(v)
+    elif isinstance(obj, list):
+        for v in obj:
+            out |= collect_cites(v)
+    return out
+
+
+def finalize(report: dict, segs: list[dict]) -> None:
+    """Resolve citations; drop uncitable ones; enforce specificity and the claim scan on every insight."""
+    quotes = {}
+    for m in report.get("mappings") or []:
+        for e in m.get("evidence") or []:
+            quotes[e["qid"]] = e["quote"]
+    for lens in (report.get("lenses") or {}).values():
+        kept, _ = specificity.filter_insights(lens.get("points") or [], quotes)
+        lens["points"] = [p for p in kept if not claims.scan(p["text"])]
+    rec = report.get("reconciliation") or {}
+    for key in ("points", "differences"):
+        kept, _ = specificity.filter_insights(rec.get(key) or [], quotes)
+        rec[key] = [p for p in kept if not claims.scan(p["text"])]
+    _strip_uncitable(report)
+    cits = {}
+    for tid in sorted(collect_cites(report)):
+        try:
+            cits[tid] = ontology.citation(tid)
+        except KeyError:
+            pass
+    report["citations"] = cits
+    report["claim_hits"] = claims.scan_fields({k: v for k, v in report.items() if k not in ("citations", "safety")})
+
+
+def _strip_uncitable(obj) -> None:
+    """In place: keep only citable ids in every 'cites' list; scrub forbidden-claim sentences from free-text fields."""
+    if isinstance(obj, dict):
+        for k, v in list(obj.items()):
+            if k == "cites" and isinstance(v, list):
+                obj[k] = [t for t in v if isinstance(t, str) and ontology.citable(t)]
+            elif k in ("why", "summary", "text", "plan", "checkin_prompt") and isinstance(v, str):
+                obj[k] = claims.strip_sentences(v)
+            elif k not in ("citations", "evidence", "original", "stopped", "safety"):
+                _strip_uncitable(v)
+    elif isinstance(obj, list):
+        for v in obj:
+            _strip_uncitable(v)
