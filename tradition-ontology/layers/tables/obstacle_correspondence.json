@@ -60,6 +60,17 @@
      "user_facing": true
     },
     {
+     "dx": "dx:fetter-kamaraga",
+     "lens": "ascetic-buddhist",
+     "name": "Kāmarāga (sensual lust)",
+     "group": "the ten fetters (saṃyojana; Vism XXII)",
+     "term": "kāmarāga (sensual lust, one of the five lower fetters)",
+     "cites": [
+      "tea:visuddhimagga:22.p683"
+     ],
+     "user_facing": true
+    },
+    {
      "dx": "dx:tanha",
      "lens": "ascetic-buddhist",
      "name": "Taṇhā (craving)",
@@ -129,6 +140,18 @@
      "cross_lens": false
     },
     {
+     "a": "dx:nivarana-kamacchanda",
+     "b": "dx:fetter-kamaraga",
+     "grade": "partial",
+     "cross_lens": false
+    },
+    {
+     "a": "dx:root-lobha",
+     "b": "dx:fetter-kamaraga",
+     "grade": "partial",
+     "cross_lens": false
+    },
+    {
      "a": "dx:root-lobha",
      "b": "dx:kasaya-lobha",
      "grade": "partial",
@@ -136,7 +159,7 @@
     }
    ],
    "what_is_shared": "Each text names a pull toward what is found pleasant and dear, and treats it as binding and as something to let go. YS: attachment rests on pleasure (YS 2.7); Vyāsa glosses it as greed, thirst and covetousness (gardha, tṛṣṇā, lobha) for the pleasure or its means, preceded by the memory of pleasure (YB 2.7). Gītā: from dwelling on objects comes attachment, from attachment desire (BhG 2.62); desire-anger is 'the enemy here' (BhG 3.37). Suttas: sensual desire (kāmacchanda) is known as present or absent, as arising and as abandoned (MN 10:36; DN 22:13); craving (taṇhā) that delights here and there is the origin of suffering, and its fading away is cessation (DN 22:19–20). TS: greed (lobha) is one of the four passions (TS 8.9), because of which the soul takes in karmic matter (TS 8.2).",
-   "what_differs": "Rāga is not kāmacchanda, and neither is lobha. (1) Framework: YS rāga is one of five kleśas growing in the field of avidyā (YS 2.4). The Gītā's kāma is born of the guṇa rajas and is one enemy with anger (BhG 3.37). Kāmacchanda is a hindrance: a state to be noticed and abandoned in meditation (MN 10:36). Taṇhā is the origin of suffering (DN 22:19). Jain lobha is a passion-felt deluding karma (kaṣāya-vedanīya, TS 8.9) and a literal cause of karmic matter binding the soul (TS 8.2). (2) Scope: YS rāga covers any remembered pleasure and its means (YB 2.7). Kāmacchanda is sensual desire. Taṇhā in DN 22 also includes craving for being and for non-being (DN 22:19); the Yoga puts the wish to go on being under a different kleśa (abhiniveśa, YS 2.9). Jain lobha comes in four intensities, anantānubandhī to saṃjvalana (TS 8.9), a grading no other lens uses. (3) What is freed: the Yoga ends in the seer's aloneness (YS 2.25), the suttas in the cessation of craving (DN 22:20), the Jain path in the soul's release from karmic matter (TS 8.2). The self-question behind these three ends is not yet reconciled (row ot:provisional-self-question in one_truth.json).",
+   "what_differs": "Rāga is not kāmacchanda, and neither is lobha. (1) Framework: YS rāga is one of five kleśas growing in the field of avidyā (YS 2.4). The Gītā's kāma is born of the guṇa rajas and is one enemy with anger (BhG 3.37). Kāmacchanda is a hindrance: a state to be noticed and abandoned in meditation (MN 10:36). Taṇhā is the origin of suffering (DN 22:19). Jain lobha is a passion-felt deluding karma (kaṣāya-vedanīya, TS 8.9) and a literal cause of karmic matter binding the soul (TS 8.2). (2) Scope: YS rāga covers any remembered pleasure and its means (YB 2.7). Kāmacchanda is sensual desire. Taṇhā in DN 22 also includes craving for being and for non-being (DN 22:19); the Yoga puts the wish to go on being under a different kleśa (abhiniveśa, YS 2.9). Jain lobha comes in four intensities, anantānubandhī to saṃjvalana (TS 8.9), a grading no other lens uses. The Theravāda lists grade it differently, by depth: a hindrance that keeps jhāna from arising (Vism IV), greed as a root of unwholesome consciousness (Vism XIV), and sensual lust as one of the five lower fetters (Vism XXII). (3) What is freed: the Yoga ends in the seer's aloneness (YS 2.25), the suttas in the cessation of craving (DN 22:20), the Jain path in the soul's release from karmic matter (TS 8.2). The self-question behind these three ends is not yet reconciled (row ot:provisional-self-question in one_truth.json).",
    "principle": {
     "id": "P2-standpoint",
     "name": "Standpoint",
@@ -151,16 +174,17 @@
     "tea:satipatthana-sutta:mn10:36",
     "tea:mahasatipatthana-sutta:dn22:13",
     "tea:satipatthana-sutta:mn10:34",
+    "tea:visuddhimagga:22.p683",
     "tea:mahasatipatthana-sutta:dn22:19",
     "tea:mahasatipatthana-sutta:dn22:20",
     "tea:tattvartha-sutra:8.9",
     "tea:tattvartha-sutra:8.2",
     "tea:yoga-sutra:2.9",
-    "tea:yoga-sutra:2.25"
+    "tea:yoga-sutra:2.25",
+    "tea:visuddhimagga:4.p146",
+    "tea:visuddhimagga:14.p468"
    ],
-   "pending_members": [
-    "dx:fetter-kamaraga (its definition rests on Visuddhimagga XXII page references that do not resolve in data/)"
-   ],
+   "pending_members": [],
    "user_facing": true,
    "blocked_by": []
   },
@@ -212,7 +236,19 @@
      "group": "the three unwholesome roots (lobha, dosa, moha; Vism XIV, XXII)",
      "term": "dosa; the mind 'with hatred' (sadosa)",
      "cites": [
-      "tea:satipatthana-sutta:mn10:34"
+      "tea:satipatthana-sutta:mn10:34",
+      "tea:visuddhimagga:14.p470"
+     ],
+     "user_facing": true
+    },
+    {
+     "dx": "dx:fetter-patigha",
+     "lens": "ascetic-buddhist",
+     "name": "Paṭigha (resentment)",
+     "group": "the ten fetters (saṃyojana; Vism XXII)",
+     "term": "paṭigha (ill will as one of the five lower fetters)",
+     "cites": [
+      "tea:visuddhimagga:22.p683"
      ],
      "user_facing": true
     },
@@ -257,6 +293,12 @@
     },
     {
      "a": "dx:klesa-dvesa",
+     "b": "dx:fetter-patigha",
+     "grade": "partial",
+     "cross_lens": true
+    },
+    {
+     "a": "dx:klesa-dvesa",
      "b": "dx:kasaya-krodha",
      "grade": "partial",
      "cross_lens": true
@@ -280,6 +322,18 @@
      "cross_lens": false
     },
     {
+     "a": "dx:nivarana-byapada",
+     "b": "dx:fetter-patigha",
+     "grade": "partial",
+     "cross_lens": false
+    },
+    {
+     "a": "dx:root-dosa",
+     "b": "dx:fetter-patigha",
+     "grade": "partial",
+     "cross_lens": false
+    },
+    {
      "a": "dx:root-dosa",
      "b": "dx:kasaya-krodha",
      "grade": "partial",
@@ -287,7 +341,7 @@
     }
    ],
    "what_is_shared": "Each names a recoil from what is painful or opposed, and treats it as binding. YS: aversion rests on pain (YS 2.8); Vyāsa: it is recoil (pratigha), resentment (manyu), the wish to strike (jighāṃsā) and anger (krodha) toward pain or its means, preceded by the memory of pain (YB 2.8). Gītā: from desire, anger arises; from anger, delusion, confused memory and the loss of understanding (BhG 2.62–63). Suttas: ill will (byāpāda) is known as present or absent, as arising and as abandoned (MN 10:36; DN 22:13); a mind 'with hatred' (sadosa) is known as such (MN 10:34). TS: anger (krodha) is one of the four passions (TS 8.9), by which the soul takes in karmic matter (TS 8.2).",
-   "what_differs": "(1) Where anger comes from: the Gītā derives anger from desire (BhG 2.62). Anger is downstream of kāma, and the two are one enemy (BhG 3.37). YS makes dveṣa a kleśa of its own, resting on remembered pain, parallel to rāga and in the same field of avidyā (YS 2.4, 2.8). (2) In the suttas cited here, ill will is a hindrance and a quality of mind to be known (MN 10:34, 10:36). These passages do not ground it in a self or in karmic matter. (3) Jain krodha is a karma-type (conduct-deluding, passion-felt) with four intensities (TS 8.9), and it binds matter to the soul (TS 8.2). Neither the Yoga nor the suttas have this material account of bondage. (4) The Gītā's chain goes on from anger to the loss of understanding (BhG 2.63); YS gives no such chain for dveṣa.",
+   "what_differs": "(1) Where anger comes from: the Gītā derives anger from desire (BhG 2.62). Anger is downstream of kāma, and the two are one enemy (BhG 3.37). YS makes dveṣa a kleśa of its own, resting on remembered pain, parallel to rāga and in the same field of avidyā (YS 2.4, 2.8). (2) In the suttas cited here, ill will is a hindrance and a quality of mind to be known (MN 10:34, 10:36). These passages do not ground it in a self or in karmic matter. (3) Jain krodha is a karma-type (conduct-deluding, passion-felt) with four intensities (TS 8.9), and it binds matter to the soul (TS 8.2). Neither the Yoga nor the suttas have this material account of bondage. (4) The Gītā's chain goes on from anger to the loss of understanding (BhG 2.63); YS gives no such chain for dveṣa. (5) The Theravāda lists place hate at more than one depth: as a root of unwholesome consciousness whose mark is ferocity (Vism XIV), and as ill will (paṭigha) among the five lower fetters (Vism XXII). Vyāsa's word pratigha (YB 2.8) is the Sanskrit form of paṭigha, but the shared word does not make the frameworks the same.",
    "principle": {
     "id": "P2-standpoint",
     "name": "Standpoint",
@@ -302,13 +356,13 @@
     "tea:satipatthana-sutta:mn10:36",
     "tea:mahasatipatthana-sutta:dn22:13",
     "tea:satipatthana-sutta:mn10:34",
+    "tea:visuddhimagga:14.p470",
+    "tea:visuddhimagga:22.p683",
     "tea:tattvartha-sutra:8.9",
     "tea:tattvartha-sutra:8.2",
     "tea:yoga-sutra:2.4"
    ],
-   "pending_members": [
-    "dx:fetter-patigha (Visuddhimagga XXII page references unresolved in data/)"
-   ],
+   "pending_members": [],
    "user_facing": true,
    "blocked_by": []
   },
@@ -354,6 +408,17 @@
      "user_facing": true
     },
     {
+     "dx": "dx:fetter-avijja",
+     "lens": "ascetic-buddhist",
+     "name": "Avijjā (ignorance)",
+     "group": "the ten fetters (saṃyojana; Vism XXII)",
+     "term": "avijjā (ignorance, among the fetters left until the arahat path)",
+     "cites": [
+      "tea:visuddhimagga:22.p682"
+     ],
+     "user_facing": true
+    },
+    {
      "dx": "dx:jain-mithyadarsana",
      "lens": "ascetic-jain",
      "name": "Mithyādarśana (wrong view)",
@@ -388,13 +453,25 @@
     },
     {
      "a": "dx:klesa-avidya",
+     "b": "dx:fetter-avijja",
+     "grade": "partial",
+     "cross_lens": true
+    },
+    {
+     "a": "dx:klesa-avidya",
      "b": "dx:jain-mithyadarsana",
      "grade": "partial",
      "cross_lens": true
+    },
+    {
+     "a": "dx:root-moha",
+     "b": "dx:fetter-avijja",
+     "grade": "partial",
+     "cross_lens": false
     }
    ],
    "what_is_shared": "Each lens puts a failure to see things as they are at or near the root of bondage. YS: ignorance is the field of the other afflictions (YS 2.4). It takes the impermanent, impure, painful and not-self to be permanent, pure, pleasant and self (YS 2.5). Erroneous cognition (viparyaya) is false knowledge, not established in the object's own form (YS 1.8). Suttas: a mind 'with delusion' (samoha) is known as such (MN 10:34; DN 22:12). TS: wrong view (mithyādarśana) stands first among the five causes of bondage (TS 8.1).",
-   "what_differs": "(1) What is not seen: YS avidyā is a specific fourfold mis-taking, and its last item is taking the not-self for the self (YS 2.5). It presupposes a real seer that is mis-taken. The Jain wrong view is counted as a kind of view-deluding karma (mithyātva under darśana-mohanīya, beside right view, TS 8.9): it is itself karmic. In MN 10 delusion is a quality of mind known as present or absent, and the passage states no metaphysics. (2) How it is undone: in YS ignorance ends when unwavering discrimination (YS 2.26) brings the seer's aloneness (YS 2.25). In the suttas the way ends in the cessation of craving and in nibbāna (DN 22:20; MN 10:2). In TS bondage ends as its causes are removed, wrong view first (TS 8.1). (3) Within the Yoga, avidyā and viparyaya are graded same-under-standpoint in diagnosis.json: the kleśa seen as a mind-activity. Across the lenses the grade is only partial.",
+   "what_differs": "(1) What is not seen: YS avidyā is a specific fourfold mis-taking, and its last item is taking the not-self for the self (YS 2.5). It presupposes a real seer that is mis-taken. The Jain wrong view is counted as a kind of view-deluding karma (mithyātva under darśana-mohanīya, beside right view, TS 8.9): it is itself karmic. In MN 10 delusion is a quality of mind known as present or absent, and the passage states no metaphysics. In the Visuddhimagga ignorance is among the last fetters, abandoned only at the arahat path (Vism XXII). (2) How it is undone: in YS ignorance ends when unwavering discrimination (YS 2.26) brings the seer's aloneness (YS 2.25). In the suttas the way ends in the cessation of craving and in nibbāna (DN 22:20; MN 10:2). In TS bondage ends as its causes are removed, wrong view first (TS 8.1). (3) Within the Yoga, avidyā and viparyaya are graded same-under-standpoint in diagnosis.json: the kleśa seen as a mind-activity. Across the lenses the grade is only partial.",
    "principle": {
     "id": "P2-standpoint",
     "name": "Standpoint",
@@ -408,6 +485,7 @@
     "tea:yoga-bhasya:1.8",
     "tea:satipatthana-sutta:mn10:34",
     "tea:mahasatipatthana-sutta:dn22:12",
+    "tea:visuddhimagga:22.p682",
     "tea:tattvartha-sutra:8.1",
     "tea:tattvartha-sutra:8.9",
     "tea:yoga-sutra:2.25",
@@ -415,9 +493,7 @@
     "tea:mahasatipatthana-sutta:dn22:20",
     "tea:satipatthana-sutta:mn10:2"
    ],
-   "pending_members": [
-    "dx:fetter-avijja (Visuddhimagga XIV/XXII page references unresolved in data/)"
-   ],
+   "pending_members": [],
    "user_facing": true,
    "blocked_by": []
   },
@@ -460,11 +536,36 @@
       "tea:tattvartha-sutra:8.2"
      ],
      "user_facing": true
+    },
+    {
+     "dx": "dx:fetter-sakkaya-ditthi",
+     "lens": "ascetic-buddhist",
+     "name": "Sakkāya-diṭṭhi (personality view)",
+     "group": "the ten fetters (saṃyojana; Vism XXII)",
+     "term": "sakkāya-diṭṭhi (personality view, a lower fetter)",
+     "cites": [
+      "tea:visuddhimagga:17.p570",
+      "tea:visuddhimagga:22.p683"
+     ],
+     "user_facing": true
+    },
+    {
+     "dx": "dx:fetter-mana",
+     "lens": "ascetic-buddhist",
+     "name": "Māna (conceit)",
+     "group": "the ten fetters (saṃyojana; Vism XXII)",
+     "term": "māna (conceit, a fetter left until the arahat path)",
+     "cites": [
+      "tea:visuddhimagga:22.p682",
+      "tea:visuddhimagga:22.p683"
+     ],
+     "user_facing": true
     }
    ],
    "lenses": [
     "vedic-yogic",
-    "ascetic-jain"
+    "ascetic-jain",
+    "ascetic-buddhist"
    ],
    "grade": "partial",
    "grade_basis": "weakest cross-lens grade among the diagnosis.json equivalences that join the members",
@@ -476,18 +577,42 @@
      "cross_lens": true
     },
     {
+     "a": "dx:klesa-asmita",
+     "b": "dx:fetter-sakkaya-ditthi",
+     "grade": "partial",
+     "cross_lens": true
+    },
+    {
+     "a": "dx:klesa-asmita",
+     "b": "dx:fetter-mana",
+     "grade": "partial",
+     "cross_lens": true
+    },
+    {
      "a": "dx:gita-asuri-sampad",
      "b": "dx:kasaya-mana",
      "grade": "partial",
      "cross_lens": true
+    },
+    {
+     "a": "dx:gita-asuri-sampad",
+     "b": "dx:fetter-mana",
+     "grade": "partial",
+     "cross_lens": true
+    },
+    {
+     "a": "dx:kasaya-mana",
+     "b": "dx:fetter-mana",
+     "grade": "partial",
+     "cross_lens": true
     }
    ],
-   "what_is_shared": "Each names a false or inflated 'I'. YS: I-am-ness is the seeming identity of the power of the seer and the power of seeing (YS 2.6). Vyāsa: the puruṣa is the seer's power, the buddhi the power of seeing (YB 2.6). Gītā: arrogance and conceit (darpa, abhimāna) belong to the demonic endowment (BhG 16.4), which leads to bondage (BhG 16.5). TS: pride (māna) is one of the four passions (TS 8.9), by which the soul takes in karmic matter (TS 8.2).",
-   "what_differs": "Asmitā is not pride. YS 2.6 names a confusion of the seer with its instrument, a structural error that is present even without any haughtiness. The Gītā's darpa and abhimāna and the Jain māna are attitudes of self-exaltation: the Gītā lists them among the marks of a bad endowment (BhG 16.4), and TS grades māna in four intensities (TS 8.9). They meet only in the 'I'. The Buddhist entries that diagnosis.json links here, conceit (māna) as a fetter and personality view (sakkāya-diṭṭhi), are not added to this row: see pending_members.",
+   "what_is_shared": "Each names a false or inflated 'I'. YS: I-am-ness is the seeming identity of the power of the seer and the power of seeing (YS 2.6). Vyāsa: the puruṣa is the seer's power, the buddhi the power of seeing (YB 2.6). Gītā: arrogance and conceit (darpa, abhimāna) belong to the demonic endowment (BhG 16.4), which leads to bondage (BhG 16.5). TS: pride (māna) is one of the four passions (TS 8.9), by which the soul takes in karmic matter (TS 8.2). Visuddhimagga: personality view (sakkāyadiṭṭhi) regards form and the other aggregates as self (Vism XVII) and is one of the five lower fetters; conceit (māna) is a defilement and a fetter that remains until the arahat path (Vism XXII).",
+   "what_differs": "Asmitā is not pride. YS 2.6 names a confusion of the seer with its instrument, a structural error that is present even without any haughtiness. The Gītā's darpa and abhimāna and the Jain māna are attitudes of self-exaltation: the Gītā lists them among the marks of a bad endowment (BhG 16.4), and TS grades māna in four intensities (TS 8.9). They meet only in the 'I'. Personality view comes closest to asmitā, since both take something that is not the self as the self. The Yoga also counts that as an error (YS 2.5), but it corrects the error by isolating a real seer (YS 2.25). The Visuddhimagga's remedy is to abandon the view, which is one of the five lower fetters, and conceit remains until the arahat path (Vism XXII). It does not isolate a seer in the view's place. Whether a seer remains is not yet reconciled (row ot:provisional-self-question of one_truth.json).",
    "principle": {
     "id": "P2-standpoint",
     "name": "Standpoint",
-    "reason": "Related only through the 'I': a confusion of seer and instrument (YS), an arrogance (BhG), a passion (TS). Each is true within its own standpoint, and the row claims no more than that shared reference."
+    "reason": "Related only through the 'I': a confusion of seer and instrument (YS), an arrogance (BhG), a passion (TS), a view and a conceit to be abandoned (Vism). Each is true within its own standpoint, and the row claims no more than that shared reference."
    },
    "cites": [
     "tea:yoga-sutra:2.6",
@@ -495,12 +620,14 @@
     "tea:bhagavad-gita:16.4",
     "tea:bhagavad-gita:16.5",
     "tea:tattvartha-sutra:8.9",
-    "tea:tattvartha-sutra:8.2"
+    "tea:tattvartha-sutra:8.2",
+    "tea:visuddhimagga:17.p570",
+    "tea:visuddhimagga:22.p683",
+    "tea:visuddhimagga:22.p682",
+    "tea:yoga-sutra:2.5",
+    "tea:yoga-sutra:2.25"
    ],
-   "pending_members": [
-    "dx:fetter-mana",
-    "dx:fetter-sakkaya-ditthi (both rest on Visuddhimagga page references that do not resolve in data/). If they are added, the row must also state the Theravāda denial of the self that asmitā's seer presupposes, with its citation."
-   ],
+   "pending_members": [],
    "user_facing": true,
    "blocked_by": []
   },
@@ -735,6 +862,18 @@
       "tea:satipatthana-sutta:mn10:34"
      ],
      "user_facing": true
+    },
+    {
+     "dx": "dx:fetter-uddhacca",
+     "lens": "ascetic-buddhist",
+     "name": "Uddhacca (restlessness, as a fetter)",
+     "group": "the ten fetters (saṃyojana; Vism XXII)",
+     "term": "uddhacca (restlessness, a fetter left until the arahat path)",
+     "cites": [
+      "tea:visuddhimagga:14.p469",
+      "tea:visuddhimagga:22.p682"
+     ],
+     "user_facing": true
     }
    ],
    "lenses": [
@@ -761,10 +900,16 @@
      "b": "dx:citta-vikkhitta",
      "grade": "partial",
      "cross_lens": false
+    },
+    {
+     "a": "dx:nivarana-uddhacca-kukkucca",
+     "b": "dx:fetter-uddhacca",
+     "grade": "partial",
+     "cross_lens": false
     }
    ],
    "what_is_shared": "Each names a mind that will not stay. Gītā: the mind is restless, turbulent, strong and obstinate, as hard to restrain as the wind (BhG 6.34). It is held by practice and dispassion (BhG 6.35), and wherever it wanders it is to be brought back (BhG 6.26). Vyāsa: samādhi is a property of the mind at every level, and one of its grounds is the distracted (vikṣipta) (YB 1.1). Suttas: restlessness and remorse (uddhacca-kukkucca) is a hindrance known as present or absent (MN 10:36), and a scattered (vikkhitta) mind is known as scattered (MN 10:34).",
-   "what_differs": "(1) Vyāsa's distracted mind is one ground in a scale of grounds of mind (YB 1.1). MN 10 only names the scattered mind as something to be known, with no scale (MN 10:34). (2) The hindrance joins restlessness and remorse (kukkucca) into one (MN 10:36). The Gītā passage speaks of restlessness alone. (3) The Gītā names the remedy, practice and dispassion (BhG 6.35). MN 10's approach in this passage is to know the hindrance as present, arising and abandoned (MN 10:36).",
+   "what_differs": "(1) Vyāsa's distracted mind is one ground in a scale of grounds of mind (YB 1.1). MN 10 only names the scattered mind as something to be known, with no scale (MN 10:34). (2) The hindrance joins restlessness and remorse (kukkucca) into one (MN 10:36). The Gītā passage speaks of restlessness alone. (3) The Gītā names the remedy, practice and dispassion (BhG 6.35). MN 10's approach in this passage is to know the hindrance as present, arising and abandoned (MN 10:36). (4) The Visuddhimagga defines restlessness by its mark of non-calming (Vism XIV). It counts restlessness among the fetters that remain until the arahat path (Vism XXII), a depth that the Gītā and Vyāsa passages do not grade.",
    "principle": {
     "id": "P2-standpoint",
     "name": "Standpoint",
@@ -776,11 +921,12 @@
     "tea:bhagavad-gita:6.26",
     "tea:yoga-bhasya:1.1",
     "tea:satipatthana-sutta:mn10:36",
-    "tea:satipatthana-sutta:mn10:34"
+    "tea:satipatthana-sutta:mn10:34",
+    "tea:visuddhimagga:14.p469",
+    "tea:visuddhimagga:22.p682"
    ],
    "pending_members": [
-    "dx:gk-viksepa (GK 3.42–43 are cited in diagnosis.json but missing from data/)",
-    "dx:fetter-uddhacca (Visuddhimagga page references unresolved)"
+    "dx:gk-viksepa (GK 3.42–43 are cited in diagnosis.json but missing from data/)"
    ],
    "user_facing": true,
    "blocked_by": []
@@ -812,6 +958,17 @@
       "tea:mahasatipatthana-sutta:dn22:13"
      ],
      "user_facing": true
+    },
+    {
+     "dx": "dx:fetter-vicikiccha",
+     "lens": "ascetic-buddhist",
+     "name": "Vicikicchā (doubt, as a fetter)",
+     "group": "the ten fetters (saṃyojana; Vism XXII)",
+     "term": "vicikicchā (one of the five lower fetters)",
+     "cites": [
+      "tea:visuddhimagga:22.p683"
+     ],
+     "user_facing": true
     }
    ],
    "lenses": [
@@ -826,10 +983,16 @@
      "b": "dx:nivarana-vicikiccha",
      "grade": "partial",
      "cross_lens": true
+    },
+    {
+     "a": "dx:nivarana-vicikiccha",
+     "b": "dx:fetter-vicikiccha",
+     "grade": "exact",
+     "cross_lens": false
     }
    ],
    "what_is_shared": "Both lists count doubt as a block to practice: saṃśaya is among the nine obstacles (YS 1.30), and vicikicchā among the five hindrances (MN 10:36; DN 22:13).",
-   "what_differs": "Vyāsa defines saṃśaya as cognition touching both alternatives, 'this may be so, it may not be so' (YB 1.30): a wavering about any object of knowledge. MN 10 names the hindrance without defining its object, and treats it as something to know as present, arising and abandoned (MN 10:36). The Yoga places doubt among the distractions of mind (YB 1.30). The sutta places it among the dhammas to be contemplated.",
+   "what_differs": "Vyāsa defines saṃśaya as cognition touching both alternatives, 'this may be so, it may not be so' (YB 1.30): a wavering about any object of knowledge. MN 10 names the hindrance without defining its object, and treats it as something to know as present, arising and abandoned (MN 10:36). The Yoga places doubt among the distractions of mind (YB 1.30). The sutta places it among the dhammas to be contemplated. The Visuddhimagga also counts doubt among the five lower fetters (Vism XXII); within the Buddhist lens the hindrance and the fetter are graded exact in diagnosis.json. The Yoga list has no fetter sense.",
    "principle": {
     "id": "P2-standpoint",
     "name": "Standpoint",
@@ -839,11 +1002,10 @@
     "tea:yoga-sutra:1.30",
     "tea:yoga-bhasya:1.30",
     "tea:satipatthana-sutta:mn10:36",
-    "tea:mahasatipatthana-sutta:dn22:13"
+    "tea:mahasatipatthana-sutta:dn22:13",
+    "tea:visuddhimagga:22.p683"
    ],
-   "pending_members": [
-    "dx:fetter-vicikiccha (graded exact to the hindrance within the Buddhist lens; Visuddhimagga page references unresolved)"
-   ],
+   "pending_members": [],
    "user_facing": true,
    "blocked_by": []
   },
@@ -872,7 +1034,7 @@
      "cites": [
       "tea:dhammapada:21"
      ],
-     "user_facing": false
+     "user_facing": true
     },
     {
      "dx": "dx:jain-pramada",
@@ -928,13 +1090,8 @@
     "tea:bhagavad-gita:14.8"
    ],
    "pending_members": [],
-   "user_facing": false,
-   "blocked_by": [
-    {
-     "cite": "tea:dhammapada:21",
-     "why": "skeleton"
-    }
-   ]
+   "user_facing": true,
+   "blocked_by": []
   },
   {
    "id": "oc:avirati",
@@ -1183,9 +1340,9 @@
      "group": "the ten imperfections of insight (Vism XX)",
      "term": "vipassanūpakkilesa (imperfections of insight)",
      "cites": [
-      "tea:visuddhimagga:20/2",
-      "tea:visuddhimagga:20/3",
-      "tea:visuddhimagga:20/4"
+      "tea:visuddhimagga:20.p633",
+      "tea:visuddhimagga:20.p637",
+      "tea:visuddhimagga:20.p638"
      ],
      "user_facing": true
     },
@@ -1227,7 +1384,7 @@
      "cross_lens": true
     }
    ],
-   "what_is_shared": "Each warns that attainments or delights arising in practice can themselves become obstacles. YS: these perceptions are obstacles in samādhi and powers only for the outgoing mind (YS 3.37). Even when invited by the exalted, one should feel no attachment and no pride (YS 3.51). Visuddhimagga: in one who has begun insight, ten imperfections arise. Taking them for the path is the error, and the wise meditator discerns them as impermanent (Vism XX). Gauḍapāda: one should not relish the happiness there, and through discernment one should be unattached (GK 3.45).",
+   "what_is_shared": "Each warns that attainments or delights arising in practice can themselves become obstacles. YS: these perceptions are obstacles in samādhi and powers only for the outgoing mind (YS 3.37). Even when invited by the exalted, one should feel no attachment and no pride (YS 3.51). Visuddhimagga: when such states as knowledge, rapture, tranquillity and happiness arise, the meditator thinks 'surely I have reached the path' and takes what is not the path for the path (Vism XX). The one skilled in them regards them as 'this is not mine, I am not this, this is not my self' and does not waver (Vism XX). Gauḍapāda: one should not relish the happiness there, and through discernment one should be unattached (GK 3.45).",
    "what_differs": "(1) What arises: YS speaks of powers and extraordinary perceptions. The Visuddhimagga speaks of illumination, rapture, bliss and the rest arising in insight. Gauḍapāda speaks of the happiness of the stilled mind. (2) Why it obstructs: in YS they belong to the outgoing state (vyutthāna) and pull away from samādhi (YS 3.37). In the Visuddhimagga the error is mistaking them for the path. For Gauḍapāda it is relishing them. (3) In YS the same things are powers from one standpoint and obstacles from another (YS 3.37). The Upaniṣadic yoga texts differ on whether powers are signs or obstacles (see dsp:siddhis-sign-or-obstacle, which the ontology reconciles under P2 and where the Yogatattva's objection is recorded).",
    "principle": {
     "id": "P2-standpoint",
@@ -1237,9 +1394,9 @@
    "cites": [
     "tea:yoga-sutra:3.37",
     "tea:yoga-sutra:3.51",
-    "tea:visuddhimagga:20/2",
-    "tea:visuddhimagga:20/3",
-    "tea:visuddhimagga:20/4",
+    "tea:visuddhimagga:20.p633",
+    "tea:visuddhimagga:20.p637",
+    "tea:visuddhimagga:20.p638",
     "tea:mandukya-karika:3.45"
    ],
    "pending_members": [],
@@ -1269,7 +1426,7 @@
      "group": "the six temperaments (carita; Vism III)",
      "term": "rāga-carita (greedy temperament)",
      "cites": [
-      "tea:visuddhimagga:3/6"
+      "tea:visuddhimagga:3.p101/2"
      ],
      "user_facing": true
     }
@@ -1298,7 +1455,7 @@
    "cites": [
     "tea:bhagavad-gita:14.7",
     "tea:bhagavad-gita:14.12",
-    "tea:visuddhimagga:3/6",
+    "tea:visuddhimagga:3.p101/2",
     "tea:bhagavad-gita:14.5",
     "tea:bhagavad-gita:14.20"
    ],
@@ -1329,7 +1486,7 @@
      "group": "the six temperaments (carita; Vism III)",
      "term": "moha-carita (deluded temperament)",
      "cites": [
-      "tea:visuddhimagga:3/6"
+      "tea:visuddhimagga:3.p101/2"
      ],
      "user_facing": true
     }
@@ -1358,7 +1515,7 @@
    "cites": [
     "tea:bhagavad-gita:14.8",
     "tea:bhagavad-gita:14.13",
-    "tea:visuddhimagga:3/6",
+    "tea:visuddhimagga:3.p101/2",
     "tea:bhagavad-gita:14.5",
     "tea:bhagavad-gita:14.20"
    ],

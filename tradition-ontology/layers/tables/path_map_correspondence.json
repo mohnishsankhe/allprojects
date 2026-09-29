@@ -1052,7 +1052,7 @@
    "band_source": "data/paths.json",
    "cites": [
     "tea:rathavinita-sutta:9-15",
-    "tea:visuddhimagga:3/2",
+    "tea:visuddhimagga:3.p85/3",
     "tea:paramatthamanjusa:18"
    ],
    "user_facing": false,
@@ -1139,9 +1139,9 @@
    "cites": [
     "tea:rathavinita-sutta:9-15",
     "tea:visuddhimagga:20",
-    "tea:visuddhimagga:20/2",
-    "tea:visuddhimagga:20/3",
-    "tea:visuddhimagga:20/4"
+    "tea:visuddhimagga:20.p633",
+    "tea:visuddhimagga:20.p637",
+    "tea:visuddhimagga:20.p638"
    ],
    "user_facing": false,
    "blocked_by": [

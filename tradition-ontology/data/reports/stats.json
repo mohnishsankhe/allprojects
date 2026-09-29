@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29 22:42 IST",
+ "generated": "2026-09-29 22:47 IST",
  "entities": {
   "sources": {
    "sourced": 576,
@@ -21,23 +21,23 @@
   },
   "teachings": {
    "sourced": 2383,
-   "text-verified": 1686,
-   "skeleton": 7908,
+   "text-verified": 2136,
+   "skeleton": 7890,
    "unverified": 1,
    "recent": 100,
-   "total": 11977
+   "total": 12409
   },
   "terms": {
    "skeleton": 4607,
-   "sourced": 581,
+   "sourced": 797,
    "recent": 20,
-   "total": 5188
+   "total": 5404
   },
   "concepts": {
    "skeleton": 2559,
-   "sourced": 417,
+   "sourced": 418,
    "recent": 22,
-   "total": 2976
+   "total": 2977
   },
   "ultimate": {
    "skeleton": 227,
@@ -47,15 +47,15 @@
   },
   "obstacles": {
    "skeleton": 504,
-   "sourced": 118,
+   "sourced": 127,
    "recent": 2,
-   "total": 622
+   "total": 631
   },
   "practices": {
    "skeleton": 1242,
-   "sourced": 301,
+   "sourced": 311,
    "recent": 30,
-   "total": 1543
+   "total": 1553
   },
   "paths": {
    "skeleton": 168,
@@ -89,7 +89,7 @@
   "not-found": 1
  },
  "queue": 425,
- "interpretation_log": 2406,
- "conflicts": 3494,
+ "interpretation_log": 2410,
+ "conflicts": 3502,
  "dangling_refs": 429
 }

@@ -1,13 +1,13 @@
 {
  "obstacle_rows": 16,
- "obstacle_user_facing": 13,
+ "obstacle_user_facing": 14,
  "obstacle_grades": {
   "partial": 16
  },
- "obstacle_members": 50,
+ "obstacle_members": 57,
  "obstacle_lens_coverage": {
-  "3": 4,
-  "2": 12
+  "3": 5,
+  "2": 11
  },
  "one_truth_rows": 8,
  "one_truth_user_facing": 5,
@@ -68,10 +68,6 @@
    2
   ],
   [
-   "tea:dhammapada:277-279 (skeleton)",
-   2
-  ],
-  [
    "tea:visuddhimagga:18/2 (skeleton)",
    2
   ],
@@ -82,10 +78,6 @@
   [
    "tea:tattvartha-sutra:9.41-42 (skeleton)",
    2
-  ],
-  [
-   "tea:dhammapada:21 (skeleton)",
-   1
   ],
   [
    "tea:tattvartha-sutra:9.30-33 (skeleton)",
@@ -202,8 +194,17 @@
   [
    "tea:tattvartha-sutra:9.11 (skeleton)",
    1
+  ],
+  [
+   "tea:tattvartha-sutra:9.40 (skeleton)",
+   1
   ]
  ],
  "errors": [],
- "warnings": []
+ "warnings": [
+  "map:vism-seven-purifications/2: tea:visuddhimagga:3/2 superseded -> cited tea:visuddhimagga:3.p85/3",
+  "map:vism-seven-purifications/5: tea:visuddhimagga:20/2 superseded -> cited tea:visuddhimagga:20.p633",
+  "map:vism-seven-purifications/5: tea:visuddhimagga:20/3 superseded -> cited tea:visuddhimagga:20.p637",
+  "map:vism-seven-purifications/5: tea:visuddhimagga:20/4 superseded -> cited tea:visuddhimagga:20.p638"
+ ]
 }

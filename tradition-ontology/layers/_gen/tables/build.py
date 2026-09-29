@@ -60,6 +60,8 @@ def cite_check(cites, where):
             ERR.append(f"{where}: cite {c} does not exist in data/teachings")
             blocked.append({"cite": c, "why": "missing"})
             continue
+        if TEACH[c].get("superseded_by"):
+            ERR.append(f"{where}: cite {c} is superseded by {TEACH[c]['superseded_by']}; cite the replacement")
         if not o.citable(c):
             t = o.teaching(c)
             why = "restricted" if t and t["restricted"] else ("unverified" if t and t["unverified"] else (t["level"] if t else "missing"))
@@ -255,7 +257,14 @@ def build_paths():
                 ERR.append(f"{mid}: path {m['path_id']} not in data/paths.json")
             else:
                 for s in p["stages"]:
-                    cites = [c for c in (s.get("rests_on") or []) if c in TEACH]
+                    cites = []
+                    for c in (s.get("rests_on") or []):
+                        rep_c = TEACH.get(c, {}).get("superseded_by")
+                        if rep_c and rep_c in TEACH:  # mechanical: follow a superseded skeleton id to its replacement
+                            WARN.append(f"{mid}/{s.get('order')}: {c} superseded -> cited {rep_c}")
+                            c = rep_c
+                        if c in TEACH and c not in cites:
+                            cites.append(c)
                     dropped = [c for c in (s.get("rests_on") or []) if c not in TEACH]
                     ov = spec_paths.STAGE_CITE_OVERRIDES.get((m["path_id"], s.get("order")))
                     if ov:

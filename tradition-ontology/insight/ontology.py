@@ -119,6 +119,29 @@ def citable(tid: str, allow_restricted: bool = False) -> bool:
                 and (allow_restricted or not t["restricted"]))
 
 
+_FRAME = {
+    # display-only removal of edition frame text kept in the text layer (story titles, chapter colophons, end tables)
+    "dhammapada": [(r"\bEttāvatā\b.*$", ""), (r"\b\S+vatthu\b\s*", ""), (r"\s*\S+vaggo \S+\.\s*$", "")],
+}
+
+
+def display_original(tid: str, text: Optional[str]) -> Optional[str]:
+    """The original as shown to a person: edition frame text removed, a verse printed twice shown once.
+    The text layer itself is never changed."""
+    import re as _re
+    if not text:
+        return text
+    slug = tid[4:].partition(":")[0]
+    out = text
+    for pat, rep in _FRAME.get(slug, []):
+        out = _re.sub(pat, rep, out, flags=_re.S)
+    out = out.strip()
+    half = len(out) // 2
+    if len(out) > 20 and out[:half].strip() == out[half:].strip():
+        out = out[:half].strip()
+    return out or text
+
+
 def citation(tid: str) -> dict:
     """A resolved, displayable citation. Raises KeyError if not citable."""
     if not citable(tid):
@@ -126,7 +149,8 @@ def citation(tid: str) -> dict:
     t = teaching(tid)
     src = sources().get(t["source"] or "", {})
     return {"id": t["id"], "source": t["source"], "title": src.get("title") or src.get("name") or t["source"],
-            "ref": t["ref"], "original": t["original"], "paraphrase": t["paraphrase"], "level": t["level"]}
+            "ref": t["ref"], "original": display_original(t["id"], t["original"]), "paraphrase": t["paraphrase"],
+            "level": t["level"]}
 
 
 def _filter_cites(cites) -> list:

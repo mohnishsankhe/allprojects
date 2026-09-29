@@ -72,10 +72,10 @@ ROWS = [
         "name_for_the_ultimate": "nibbāna; the unborn, unbecome, unmade, unconditioned (ajāta, abhūta, akata, asaṅkhata)",
         "how_the_text_says_it": "The four establishments of mindfulness are the one-way path for the purification of beings and for realising nibbāna (MN 10:2). The cessation of suffering is the complete fading away and cessation of craving, its giving up and release (DN 22:20). There is an unborn, unbecome, unmade, unconditioned; were there not, no escape from the born would be known (Ud 8.3).",
         "standpoint": "apophatic and experiential; the person is analysed from an analytic standpoint",
-        "what_it_denies": "That nibbāna, or anything else, is a self. All phenomena are not-self (Dhp 277–279). In the ultimate sense the truths are void of an experiencer, a doer, one who is extinguished and a goer (Vism XVI). It also denies that nibbāna is mere non-existence (Vism XVI).",
+        "what_it_denies": "That nibbāna, or anything else, is a self. All phenomena are not-self (Dhp 279). In the ultimate sense the truths are void of an experiencer, a doer, one who is extinguished and a goer (Vism XVI). It also denies that nibbāna is mere non-existence (Vism XVI).",
         "principle_relating_it": {"id": "P1-level", "reason": "The Theravāda's own two levels: 'person' and 'being' are designations, like 'chariot' for assembled parts (Vism XVIII). Only in this sense can its account sit beside the others: they are not read as speaking of the same entity."},
         "tradition_objections": "The Theravāda explicitly rejects any identification of nibbāna with Brahman, ātman or a cosmic ground (ult:theravada, caveat; dsp:nibbana-atta-or-anatta, not yet reconciled). This denial stands, and the row does not absorb nibbāna into 'one truth'.",
-        "cites": ["tea:satipatthana-sutta:mn10:2", "tea:mahasatipatthana-sutta:dn22:20", "tea:udana:8.3", "tea:dhammapada:277-279", "tea:visuddhimagga:16", "tea:visuddhimagga:16/2", "tea:visuddhimagga:18/2"],
+        "cites": ["tea:satipatthana-sutta:mn10:2", "tea:mahasatipatthana-sutta:dn22:20", "tea:udana:8.3", "tea:dhammapada:279", "tea:visuddhimagga:16", "tea:visuddhimagga:16/2", "tea:visuddhimagga:18/2"],
     },
     {
         "id": "ot:prajnaparamita-heart",
@@ -111,9 +111,9 @@ ROWS = [
         "family": "the self-question across the rows: jīva, puruṣa, ātman, anattā",
         "ultimate_view": None,
         "name_for_the_ultimate": "(not one name) jīva (TS), puruṣa / draṣṭṛ (YS), ātman = brahman (Upaniṣads, Advaita), and the not-self teaching (Theravāda; Heart Sūtra)",
-        "how_the_text_says_it": "The Jain soul's own nature includes the destructional states and being a soul (TS 2.1, 2.7), and souls are many (TS 5.16). The seer is seeing alone (YS 2.20), and the seen continues for other seers (YS 2.22). 'That you are' (ChU 6.8.7). All phenomena are not-self (Dhp 277–279). The aggregates are empty of own-being (Heart s3).",
+        "how_the_text_says_it": "The Jain soul's own nature includes the destructional states and being a soul (TS 2.1, 2.7), and souls are many (TS 5.16). The seer is seeing alone (YS 2.20), and the seen continues for other seers (YS 2.22). 'That you are' (ChU 6.8.7). All phenomena are not-self (Dhp 279). The aggregates are empty of own-being (Heart s3).",
         "standpoint": "each side speaks from its own standpoint; no shared standpoint is established",
-        "what_it_denies": "Each side denies the others' central claim. The Theravāda denies any self (Dhp 277–279). The Yoga denies that the mind is the seer (YS 4.19) and keeps seers many (YS 2.22). The Jains keep souls many and body-sized (TS 5.16). Advaita denies that plurality is ultimate (GK 1.17).",
+        "what_it_denies": "Each side denies the others' central claim. The Theravāda denies any self (Dhp 279). The Yoga denies that the mind is the seer (YS 4.19) and keeps seers many (YS 2.22). The Jains keep souls many and body-sized (TS 5.16). Advaita denies that plurality is ultimate (GK 1.17).",
         "principle_relating_it": {"id": "P1-level", "reason": "Provisional candidate only (see candidate_readings). All sides agree that the body and changing cognitions are not the true self (dsp:is-there-a-self), but they disagree whether anything lies beyond them."},
         "candidate_readings": [
             "P1-level: the Buddhist analysis negates a self found among or apart from the aggregates, which Advaita and the Yoga also call not-self. Advaita's witness and the Yoga's seer are said never to be an object of such analysis. The Buddhist logicians refute these selves too, and Advaita asserts the self as being-consciousness, not an absence.",
@@ -122,7 +122,7 @@ ROWS = [
             "P5-neyartha / P6-upaya: the Buddha's silence to Vacchagotta and MMK 18.6 ('self' and 'no-self' both taught) are read as teaching fitted to the hearer. The self-affirming schools do not accept that their self is merely a teaching device.",
         ],
         "tradition_objections": "Every party rejects every candidate reading above, as recorded in dsp:is-there-a-self (queued as RQ-U50-01). Until one is accepted on textual grounds, the product must not say or imply that jīva, puruṣa, ātman and not-self are the same, or that they are related as views of one truth.",
-        "cites": ["tea:tattvartha-sutra:2.1", "tea:tattvartha-sutra:2.7", "tea:tattvartha-sutra:5.16", "tea:yoga-sutra:2.20", "tea:yoga-sutra:2.22", "tea:yoga-sutra:4.19", "tea:chandogya-upanisad:6.8.7", "tea:mandukya-karika:1.17", "tea:dhammapada:277-279", "tea:prajnaparamita-hrdaya:s3", "tea:mulamadhyamakakarika:18.6"],
+        "cites": ["tea:tattvartha-sutra:2.1", "tea:tattvartha-sutra:2.7", "tea:tattvartha-sutra:5.16", "tea:yoga-sutra:2.20", "tea:yoga-sutra:2.22", "tea:yoga-sutra:4.19", "tea:chandogya-upanisad:6.8.7", "tea:mandukya-karika:1.17", "tea:dhammapada:279", "tea:prajnaparamita-hrdaya:s3", "tea:mulamadhyamakakarika:18.6"],
         "force_user_facing_false": True,
     },
 ]

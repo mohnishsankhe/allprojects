@@ -331,3 +331,10 @@ Conservative choices made without asking, with reasons. Newest last.
   - there are no chapter entries;
   - four e-text readings were kept literally;
   - trm:vicara is a homonym (Pali "sustained thought" vs Advaita "inquiry").
+
+## 2026-09-29 22:48 IST — Dhammapada judge: 93.0% in the sample, so all 450 entries were checked
+- The random sample was 40 of 43 faithful. All 450 were checked individually and 38 fixed; 6 entities corrected. Merged: text-verified teachings now number 2,136, and the diagnosis layer has 100 of 102 entries usable.
+- **Homonym fix.** The Dhammapada links to trm:samana (headword samāna, the vital wind) now point to trm:sramana (the ascetic). Moving data/'s misfiled samaṇa definition off trm:samana is listed in NEXT_STEPS, along with the conflated headwords trm:bhava and trm:dosa.
+- **Frame text shown to users.** The Pali originals keep the edition's story titles ("…vatthu"), chapter colophons and end tables, because the text layer must equal the segment. The app now strips these from what it shows, and shows once a verse the edition prints twice (Dhp 416). This is done by insight/ontology.display_original(); the text layer is unchanged.
+- **Level tags for persons** (89, 92, 93, 95; 154, 179, 180, 353): conventional, consistent with the Māṇḍūkya decision.
+- **VBT extraction (Role S)** is in: 167 teachings; 18 restricted verses kept summary-only (breath-filling, rising power, fire and poison, whirling and others, flagged conservatively); 23 low-confidence entries. The VBT judge is running.

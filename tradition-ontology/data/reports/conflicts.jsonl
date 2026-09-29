@@ -480,6 +480,11 @@
 {"kind": "scalar", "id": "tea:brahma-sutra:4.3.12", "field": "reported_by_opponent", "kept": false, "other": true}
 {"kind": "scalar", "id": "tea:brahma-sutra:4.4.5", "field": "reported_by_opponent", "kept": false, "other": true}
 {"kind": "scalar", "id": "tea:mandukya-karika:1.9", "field": "reported_by_opponent", "kept": true, "other": false}
+{"kind": "scalar", "id": "tea:dhammapada:265", "field": "speaker", "kept": "the Buddha (traditional ascription)", "other": "the Buddha"}
+{"kind": "scalar", "id": "tea:dhammapada:388", "field": "speaker", "kept": "the Buddha (traditional ascription)", "other": "the Buddha"}
+{"kind": "scalar", "id": "tea:dhammapada:142", "field": "speaker", "kept": "the Buddha (traditional ascription)", "other": "the Buddha"}
+{"kind": "scalar", "id": "tea:dhammapada:184", "field": "speaker", "kept": "the Buddha (traditional ascription)", "other": "the Buddha"}
+{"kind": "scalar", "id": "tea:dhammapada:70", "field": "speaker", "kept": "the Buddha (traditional ascription)", "other": "the Buddha"}
 {"kind": "scalar", "id": "tea:prajnaparamita-hrdaya:s4", "field": "speaker", "kept": "Avalokiteśvara (by the sūtra's frame)", "other": "Avalokiteśvara"}
 {"kind": "scalar", "id": "tea:prajnaparamita-hrdaya:s6", "field": "speaker", "kept": "Avalokiteśvara (by the sūtra's frame)", "other": "Avalokiteśvara"}
 {"kind": "scalar", "id": "tea:prajnaparamita-hrdaya:s7", "field": "speaker", "kept": "Avalokiteśvara (by the sūtra's frame)", "other": "Avalokiteśvara"}
@@ -2510,6 +2515,8 @@
 {"kind": "scalar", "id": "trm:yukta", "field": "literal", "kept": "yoked, disciplined, joined", "other": "yoked; disciplined; measured"}
 {"kind": "scalar", "id": "trm:yukta", "field": "literal", "kept": "yoked, disciplined, joined", "other": "yoked"}
 {"kind": "scalar", "id": "trm:cetas", "field": "literal", "kept": "thought, awareness", "other": "thought; awareness"}
+{"kind": "scalar", "id": "trm:bandhana", "field": "language", "kept": "Pali", "other": "Sanskrit"}
+{"kind": "scalar", "id": "trm:bandhana", "field": "literal", "kept": "bond, bondage", "other": "bond"}
 {"kind": "scalar", "id": "trm:anagata", "field": "literal", "kept": "not yet come", "other": "future"}
 {"kind": "scalar", "id": "trm:apratisamkrama", "field": "literal", "kept": "non-transferring", "other": "not passing over"}
 {"kind": "scalar", "id": "trm:bhoktr-sakti", "field": "literal", "kept": "power of the enjoyer", "other": "power of the experiencer"}
@@ -2973,6 +2980,7 @@
 {"kind": "scalar", "id": "obs:intellectual-understanding", "field": "category", "kept": "obstacle", "other": "meditation-fault"}
 {"kind": "scalar", "id": "obs:hope-and-fear", "field": "name", "kept": "Hope and fear", "other": "Hope and fear (re dogs)"}
 {"kind": "scalar", "id": "obs:hope-and-fear", "field": "name", "kept": "Hope and fear", "other": "Hope and fear (re dogs)"}
+{"kind": "scalar", "id": "obs:issa", "field": "name", "kept": "Envy (issā)", "other": "Envy (issā, pihā)"}
 {"kind": "scalar", "id": "prc:gayatri-japa", "field": "name", "kept": "Repetition of the Gāyatrī (Sāvitrī)", "other": "Recitation of the Sāvitrī (Gāyatrī)"}
 {"kind": "scalar", "id": "prc:sandhyavandana", "field": "name", "kept": "Sandhyā (twilight worship)", "other": "Twilight worship (sandhyāvandana)"}
 {"kind": "scalar", "id": "prc:aghamarsana", "field": "name", "kept": "Aghamarṣaṇa (sin-effacing recitation)", "other": "Aghamarṣaṇa (the sin-effacing recitation)"}
