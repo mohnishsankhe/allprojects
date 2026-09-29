@@ -545,6 +545,7 @@
      "I still resent them",
      "I still can't forgive them",
      "I can't forgive and forget",
+     "I'm not able to forgive them",
      "I avoid them because of how they hurt me"
     ],
     "cues_added": [
@@ -558,6 +559,7 @@
      "I still resent them",
      "I still can't forgive them",
      "I can't forgive and forget",
+     "I'm not able to forgive them",
      "I avoid them because of how they hurt me"
     ],
     "cites": [
@@ -2881,14 +2883,16 @@
      "I sit around in a fog and ignore my duties",
      "my mind is clouded and I let everything slide",
      "I'm inactive and careless about my duties",
-     "I lie on the couch doing nothing"
+     "I lie on the couch all day",
+     "I stay on the sofa all day"
     ],
     "cues_added": [
      "my mind is dark and inert",
      "I sit around in a fog and ignore my duties",
      "my mind is clouded and I let everything slide",
      "I'm inactive and careless about my duties",
-     "I lie on the couch doing nothing"
+     "I lie on the couch all day",
+     "I stay on the sofa all day"
     ],
     "cites": [
      "tea:bhagavad-gita:14.13"
@@ -2915,7 +2919,8 @@
      "I always say tomorrow",
      "I keep delaying what matters",
      "I do something easier first",
-     "I avoid the task until the deadline"
+     "I avoid the task until the deadline",
+     "I put off starting until tomorrow"
     ],
     "cues_added": [
      "I procrastinate for weeks",
@@ -2933,7 +2938,8 @@
      "I always say tomorrow",
      "I keep delaying what matters",
      "I do something easier first",
-     "I avoid the task until the deadline"
+     "I avoid the task until the deadline",
+     "I put off starting until tomorrow"
     ],
     "cites": [
      "tea:bhagavad-gita:18.28"
@@ -3436,7 +3442,7 @@
      "I'm arrogant and conceited at work",
      "I flaunt my goodness so people admire me",
      "I'm harsh and conceited with those under me",
-     "I pretend to be religious",
+     "I act religious in public",
      "I act humble to look good",
      "I act religious in front of my family"
     ],
@@ -3446,7 +3452,7 @@
      "I'm arrogant and conceited at work",
      "I flaunt my goodness so people admire me",
      "I'm harsh and conceited with those under me",
-     "I pretend to be religious",
+     "I act religious in public",
      "I act humble to look good",
      "I act religious in front of my family"
     ],
@@ -5878,14 +5884,14 @@
      "halfway through my prayers I droop and stretch lazily",
      "my head droops while I recite the mantra",
      "I sink into boredom when I study",
-     "I get bored within minutes of studying"
+     "studying bores me quickly"
     ],
     "cues_added": [
      "during meditation I droop and sink lower and lower",
      "halfway through my prayers I droop and stretch lazily",
      "my head droops while I recite the mantra",
      "I sink into boredom when I study",
-     "I get bored within minutes of studying"
+     "studying bores me quickly"
     ],
     "cites": [
      "tea:visuddhimagga:14.p469"
@@ -6048,7 +6054,6 @@
    {
     "marker": "Regret afterwards: sorrowing over what one did and did not do (Vism XIV).",
     "cues": [
-     "I keep regretting what I did and didn't do",
      "I keep going back over what I should have done",
      "I keep going over my old mistakes",
      "I torment myself over things I left undone",
@@ -6071,7 +6076,8 @@
      "the past haunts me",
      "I'm full of regrets",
      "I regret the years I wasted",
-     "I feel guilty about my mistakes"
+     "I feel guilty about my mistakes",
+     "I keep asking myself whether I chose wrong"
     ],
     "cues_added": [
      "I keep going over my old mistakes",
@@ -6095,7 +6101,8 @@
      "the past haunts me",
      "I'm full of regrets",
      "I regret the years I wasted",
-     "I feel guilty about my mistakes"
+     "I feel guilty about my mistakes",
+     "I keep asking myself whether I chose wrong"
     ],
     "cites": [
      "tea:visuddhimagga:14.p470"
@@ -7005,7 +7012,7 @@
      "I seethe when I go unnoticed",
      "I'm better than the others",
      "I deserve the credit",
-     "I crave recognition",
+     "I crave recognition for my work",
      "I need to be admired",
      "I show off my achievements",
      "I feel superior to others"
@@ -7019,7 +7026,7 @@
      "I seethe when I go unnoticed",
      "I'm better than the others",
      "I deserve the credit",
-     "I crave recognition",
+     "I crave recognition for my work",
      "I need to be admired",
      "I show off my achievements",
      "I feel superior to others"
@@ -7448,7 +7455,7 @@
      "my anger burns inside me for days",
      "my fury spreads and scorches me first",
      "my hostility burns me up from inside",
-     "I'm boiling inside",
+     "inside I am boiling",
      "I seethe inside for days",
      "my anger keeps simmering inside me"
     ],
@@ -7457,7 +7464,7 @@
      "my anger burns inside me for days",
      "my fury spreads and scorches me first",
      "my hostility burns me up from inside",
-     "I'm boiling inside",
+     "inside I am boiling",
      "I seethe inside for days",
      "my anger keeps simmering inside me"
     ],
@@ -7939,14 +7946,14 @@
      "I go through my day on autopilot",
      "I do whole tasks with my mind elsewhere",
      "my awareness is muddled and I do things blindly",
-     "I'm only half present in whatever I'm doing",
+     "my attention is only half on what I'm doing",
      "I zone out when I read"
     ],
     "cues_added": [
      "I go through my day on autopilot",
      "I do whole tasks with my mind elsewhere",
      "my awareness is muddled and I do things blindly",
-     "I'm only half present in whatever I'm doing",
+     "my attention is only half on what I'm doing",
      "I zone out when I read"
     ],
     "cites": [
@@ -8380,9 +8387,9 @@
      "I'm envious when a colleague is praised",
      "I begrudge sharing what I have",
      "resentment smoulders in me for weeks",
-     "I'm jealous of my friends' success",
+     "I envy my friends' success",
      "I resent their success",
-     "I'm jealous when others succeed",
+     "I feel jealousy at my friends' success",
      "I envy my friends",
      "I compare myself and feel envious"
     ],
@@ -8391,9 +8398,9 @@
      "I'm envious when a colleague is praised",
      "I begrudge sharing what I have",
      "resentment smoulders in me for weeks",
-     "I'm jealous of my friends' success",
+     "I envy my friends' success",
      "I resent their success",
-     "I'm jealous when others succeed",
+     "I feel jealousy at my friends' success",
      "I envy my friends",
      "I compare myself and feel envious"
     ],
@@ -9372,7 +9379,9 @@
      "I snap at my family",
      "I have a short temper",
      "I get furious over small things",
-     "I stay angry for hours"
+     "I stay angry for hours",
+     "small things irritate me",
+     "I shout at my family"
     ],
     "cues_added": [
      "I'm angry for days",
@@ -9392,7 +9401,9 @@
      "I snap at my family",
      "I have a short temper",
      "I get furious over small things",
-     "I stay angry for hours"
+     "I stay angry for hours",
+     "small things irritate me",
+     "I shout at my family"
     ],
     "cites": [
      "tea:tattvartha-sutra:8.9",
@@ -9545,7 +9556,8 @@
      "I hate admitting I am wrong",
      "I'm too proud to ask",
      "it hurts my ego",
-     "my ego gets hurt easily"
+     "my ego gets hurt easily",
+     "I know I'm better than them"
     ],
     "cues_added": [
      "I'm too proud to apologise",
@@ -9564,7 +9576,8 @@
      "I hate admitting I am wrong",
      "I'm too proud to ask",
      "it hurts my ego",
-     "my ego gets hurt easily"
+     "my ego gets hurt easily",
+     "I know I'm better than them"
     ],
     "cites": [
      "tea:tattvartha-sutra:8.9"
@@ -9709,7 +9722,8 @@
      "I hide my real wishes from my family",
      "I hide what I really think",
      "I hide my true feelings",
-     "I pretend to be happy",
+     "I fake being happy",
+     "I fake a smile",
      "I put on a fake smile",
      "I tell people what they want to hear",
      "I lie to my family",
@@ -9718,7 +9732,10 @@
      "I keep secrets from my family",
      "I lead a double life",
      "I show a different face to different people",
-     "I talk behind their backs"
+     "I talk behind their backs",
+     "I hide it from my parents",
+     "I lie to my parents",
+     "I agree to their face and then complain"
     ],
     "cues_added": [
      "I hide my real intentions from people",
@@ -9730,7 +9747,8 @@
      "I hide my real wishes from my family",
      "I hide what I really think",
      "I hide my true feelings",
-     "I pretend to be happy",
+     "I fake being happy",
+     "I fake a smile",
      "I put on a fake smile",
      "I tell people what they want to hear",
      "I lie to my family",
@@ -9739,7 +9757,10 @@
      "I keep secrets from my family",
      "I lead a double life",
      "I show a different face to different people",
-     "I talk behind their backs"
+     "I talk behind their backs",
+     "I hide it from my parents",
+     "I lie to my parents",
+     "I agree to their face and then complain"
     ],
     "cites": [
      "tea:tattvartha-sutra:8.9"
@@ -10334,18 +10355,18 @@
      "I dwell on regaining the good times I've lost",
      "I keep plotting to recover the pleasure I lost",
      "I pine for my old comforts and scheme to regain them",
-     "I miss what I lost",
+     "I keep missing what is gone",
      "I keep wanting them back",
-     "I pine for the person I lost"
+     "I pine for the one who is gone"
     ],
     "cues_added": [
      "my mind fixes on regaining the comfort I had",
      "I dwell on regaining the good times I've lost",
      "I keep plotting to recover the pleasure I lost",
      "I pine for my old comforts and scheme to regain them",
-     "I miss what I lost",
+     "I keep missing what is gone",
      "I keep wanting them back",
-     "I pine for the person I lost"
+     "I pine for the one who is gone"
     ],
     "cites": [
      "tea:tattvartha-sutra:9.31"

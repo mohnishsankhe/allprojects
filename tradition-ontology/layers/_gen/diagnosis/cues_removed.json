@@ -40,5 +40,12 @@
   "cue": "I like to dominate and get my way",
   "original": false,
   "reason": "after the orchestrator added 'like' to the stopwords it has fewer than 2 content stems and no longer gives a direct item on its own marker (lint + self-test)"
+ },
+ {
+  "id": "dx:nivarana-uddhacca-kukkucca",
+  "marker": "Regret afterwards: sorrowing over what one did and did not do (Vism XIV).",
+  "cue": "I keep regretting what I did and didn't do",
+  "original": true,
+  "reason": "P6: inverted polarity. A one-content-stem cue ('regret') whose negator ('didn't') lies outside its stem: the mapper's polarity check turns every unnegated 'I regret ...' into counter-evidence (R_NEGATED) on this entry and makes 'I don't regret it' evidence. Found on tests/fixtures/dev_personas.jsonl (D04) and by self-testing every cue of the layer."
  }
 ]

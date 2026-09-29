@@ -81,7 +81,8 @@ def _used_pairs(store, bucket_id: str, days: int = 30) -> tuple[set, set]:
 
 
 def pick(store, bucket_id: str, fmt: str, seed: int = 0) -> Optional[tuple[int, dict]]:
-    """A (scene, pool item) pair not used by this account in 30 days; each teaching at most once per 30 days."""
+    """A pool item not used by this account in 30 days. Items written with their own scene (the P6 pool) are used as
+    a whole; older items without one are paired with a bucket scene."""
     b = buckets()[bucket_id]
     pairs, tids = _used_pairs(store, bucket_id)
     pool = [it for it in b["teaching_pool"] if ontology.citable(it["tid"]) and it["tid"] not in tids]
@@ -90,6 +91,8 @@ def pick(store, bucket_id: str, fmt: str, seed: int = 0) -> Optional[tuple[int, 
     scenes = list(range(len(b["scenes"])))
     rng.shuffle(scenes)
     for it in pool:
+        if it.get("scene"):
+            return -1, it
         for s in scenes:
             if (s, it["tid"]) not in pairs:
                 return s, it
@@ -102,36 +105,51 @@ def _sentence(s: str) -> str:
     return s if not s or s[-1] in ".?!…”\"" else s + "."
 
 
-def rules_draft(bucket_id: str, fmt: str, scene_idx: int, item: dict) -> dict:
+STOPS = "Where the text stops: it describes what happens; it does not promise a result."
+
+
+def _item_parts(bucket_id: str, scene_idx: int, item: dict) -> dict:
     b = buckets()[bucket_id]
-    scene = _sentence(b["scenes"][scene_idx])
-    point, angle, src = _sentence(item["point"]), _sentence(item.get("angle", "")), source_line(item["tid"])
-    close = CLOSINGS[int(hashlib.sha1(f"{bucket_id}{scene_idx}{item['tid']}".encode()).hexdigest(), 16) % len(CLOSINGS)]
+    scene = item.get("scene") or (b["scenes"][scene_idx] if scene_idx is not None and scene_idx >= 0 else "")
+    link = item.get("link") or item.get("angle") or ""
+    closing = item.get("closing") or CLOSINGS[int(hashlib.sha1(f"{bucket_id}{item['tid']}".encode()).hexdigest(), 16) % len(CLOSINGS)]
+    return {"scene": _sentence(scene), "point": _sentence(item["point"]), "link": _sentence(link),
+            "x_link": _sentence(item.get("x_link") or link), "close": _sentence(item.get("close_reading") or ""),
+            "closing": _sentence(closing), "src": source_line(item["tid"])}
+
+
+def rules_draft(bucket_id: str, fmt: str, scene_idx: int, item: dict) -> dict:
+    """Offline template drafts. Every part comes from the pool item (written for this teaching) or fixed, claim-free
+    framing; nothing is invented. The model engine replaces these with voiced drafts when a key is set."""
+    P = _item_parts(bucket_id, scene_idx, item)
+    sc, pt, ln, xl, cr, cl, src = P["scene"], P["point"], P["link"], P["x_link"], P["close"], P["closing"], P["src"]
     if fmt == "x_post":
-        parts = [f"{scene} {point} ({src})"]
-        if len(parts[0]) + len(angle) + 1 <= 280 and angle:
-            parts = [f"{scene} {point} {angle} ({src})"]
+        parts = [f"{sc} {pt} {ln} {cl} ({src})"]
+        if len(parts[0]) > 280:
+            parts = [f"{sc} {pt} {xl} {cl} ({src})"]
+        if len(parts[0]) > 280:
+            parts = [f"{sc} {pt} {xl} ({src})"]
+        if len(parts[0]) > 280:
+            parts = [f"{sc} {pt} ({src})"]
     elif fmt == "x_thread":
-        parts = [scene, f"An old text puts it this way: {point} ({src})", angle, close]
-        c = ontology.citation(item["tid"])
-        if c.get("paraphrase") and len(c["paraphrase"]) <= 270:
-            parts.insert(2, _sentence(c["paraphrase"]))
+        parts = [sc, f"An old text puts it this way: {pt} ({src})"] + ([cr] if cr else []) + [ln, cl]
     elif fmt == "ig_carousel":
-        parts = [scene, "An old text has a word for this.", point, f"Source: {src}", angle, close]
+        parts = [sc, "An old text has a word for this.", pt, f"Source: {src}", ln, cl]
     elif fmt == "short_video":
-        parts = _short_video_parts(scene, point, angle, src, close, item["tid"])
+        parts = _short_video_parts(sc, pt, ln, src, cl, cr, item["tid"])
     elif fmt == "long_video":
-        c = ontology.citation(item["tid"])
-        parts = [f"1. The scene: {scene}", f"2. The teaching: {point} ({src})",
-                 f"3. What the text says, read closely: {_sentence(c.get('paraphrase', ''))}",
-                 f"4. The link: {angle}", f"5. Where the text stops: it describes; it does not promise results.",
-                 f"6. Close: {close}"]
+        parts = [f"1. The scene (about 2 min). Points: {sc} Stay with the moment before judging it.",
+                 f"2. The teaching (about 2 min). Points: {pt} Source: {src}.",
+                 f"3. Reading closely (about 2 min). Points: {cr or pt} Say only what the passage says.",
+                 f"4. The link (about 2 min). Points: {ln}",
+                 f"5. Where the text stops (about 1 min). Points: {STOPS}",
+                 f"6. Close (about 1 min). Points: {cl}"]
     else:
         raise ValueError(f"unknown format {fmt}")
     body = {"bucket": bucket_id, "format": fmt, "scene_idx": scene_idx, "tid": item["tid"], "source": src,
-            "parts": [p for p in parts if p.strip()], "engine": "rules", "ai_label": _ai_label(fmt)}
+            "parts": [p.strip() for p in parts if p and p.strip()], "engine": "rules", "ai_label": _ai_label(fmt)}
     if fmt == "ig_carousel":
-        body["caption"] = f"{scene} {point} {angle} Source: {src}."
+        body["caption"] = f"{sc} {pt} {ln} Source: {src}."
     return body
 
 
@@ -144,24 +162,18 @@ def _words(t: str) -> int:
     return len(re.sub(r"\[on screen:[^\]]*\]", "", t).split())
 
 
-def _short_video_parts(scene, point, angle, src, close, tid) -> list[str]:
-    """45–60 s script: 110–160 spoken words (on-screen cues excluded), built only from the pool item and the
-    ontology's own paraphrase, plus one fixed bridge sentence that makes no claim."""
-    c = ontology.citation(tid)
-    head = [f"[on screen: {scene}] {scene}", f"[on screen: {src}] There is an old text that says it plainly. {point}"]
-    tail = [angle, f"[on screen: {close}] {close}"]
-    body, n = [], _words(" ".join(head + tail))
-    for sent in re.split(r"(?<=[.!?])\s+", c.get("paraphrase") or ""):
-        if sent and n + len(sent.split()) <= 150:
-            body.append(sent)
-            n += len(sent.split())
-        if n >= 115:
-            break
-    parts = head + ([f"Here is what the passage says, closely: {' '.join(body)}"] if body else []) + tail
+def _short_video_parts(scene, point, link, src, closing, close_reading, tid) -> list[str]:
+    """45–60 s script: 110–160 spoken words (on-screen cues excluded), built only from the pool item, the
+    'where the text stops' beat and at most two fixed bridge sentences that make no claim."""
+    parts = [f"[on screen: {scene}] {scene}", f"[on screen: {src}] There is an old text that says it plainly. {point}"]
+    if close_reading:
+        parts.append(f"Here is what the passage says, closely: {close_reading}")
+    parts += [link, STOPS, f"[on screen: {closing}] {closing}"]
     b = int(hashlib.sha1(tid.encode()).hexdigest(), 16) % len(BRIDGES)
-    while _words(" ".join(parts)) < 110 and b < len(BRIDGES) * 2:
-        parts.insert(-1, BRIDGES[b % len(BRIDGES)])
-        b += 1
+    k = 0
+    while _words(" ".join(parts)) < 110 and k < len(BRIDGES):
+        parts.insert(-2, BRIDGES[(b + k) % len(BRIDGES)])
+        k += 1
     return parts
 
 
@@ -235,6 +247,10 @@ def rules_check(store, body: dict) -> dict:
             problems.append(f"script is {w} words, outside {lim['total_words']}")
     if not ontology.citable(body["tid"]):
         problems.append("teaching not citable")
+    elif (ontology.teaching(body["tid"]) or {}).get("id") != body["tid"]:
+        problems.append("tid is superseded or resolves to another entry; cite the exact verse")
+    elif body.get("source") != source_line(body["tid"]):
+        problems.append("source line does not match the cited teaching")
     if body["source"] not in text:
         problems.append("source line missing")
     hits = claims.scan(text)

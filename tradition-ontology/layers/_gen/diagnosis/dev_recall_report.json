@@ -1,8 +1,8 @@
 {
- "p6_cues": 181,
+ "p6_cues": 192,
  "before": {
   "personas": 30,
-  "personas_with_any_mapping": 2,
+  "personas_with_any_mapping": 1,
   "personas_with_target_hit": 1,
   "targets_hit": "2/38",
   "target_confidence": {
@@ -10,9 +10,9 @@
    "none": 36
   },
   "mapping_confidence": {
-   "low": 2
+   "low": 1
   },
-  "off_target_mappings": 1,
+  "off_target_mappings": 0,
   "by_pattern": {
    "attachment": "1/5",
    "clinging/fear of loss": "1/4",
@@ -30,21 +30,21 @@
  },
  "after": {
   "personas": 30,
-  "personas_with_any_mapping": 12,
-  "personas_with_target_hit": 11,
-  "targets_hit": "12/38",
+  "personas_with_any_mapping": 14,
+  "personas_with_target_hit": 14,
+  "targets_hit": "15/38",
   "target_confidence": {
-   "low": 8,
-   "none": 26,
-   "high": 1,
-   "moderate": 3
+   "low": 9,
+   "none": 23,
+   "moderate": 5,
+   "high": 1
   },
   "mapping_confidence": {
-   "low": 9,
-   "high": 1,
-   "moderate": 3
+   "low": 10,
+   "moderate": 5,
+   "high": 1
   },
-  "off_target_mappings": 1,
+  "off_target_mappings": 0,
   "by_pattern": {
    "attachment": "3/5",
    "clinging/fear of loss": "1/4",
@@ -52,11 +52,11 @@
    "restless/wandering mind": "2/3",
    "regret/going over the past": "1/4",
    "doubt": "1/3",
-   "pride/conceit": "0/3",
+   "pride/conceit": "1/3",
    "envy": "0/3",
-   "concealment": "0/2",
+   "concealment": "1/2",
    "putting things off": "1/3",
-   "dullness": "1/3",
+   "dullness": "2/3",
    "greed": "0/2"
   }
  },
@@ -202,6 +202,10 @@
    "unmapped_reason": null,
    "mappings": [
     [
+     "dx:klesa-dvesa",
+     "low"
+    ],
+    [
      "dx:root-dosa",
      "low"
     ]
@@ -212,6 +216,10 @@
      "best": "low",
      "entries": [
       [
+       "dx:klesa-dvesa",
+       "low"
+      ],
+      [
        "dx:root-dosa",
        "low"
       ]
@@ -220,6 +228,29 @@
    },
    "off_target": [],
    "target_evidence": {
+    "dx:klesa-dvesa": {
+     "code": null,
+     "level": "low",
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q01",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I'm not able to forgive them",
+       "quote": "Till date I am not able to forgive him"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    },
     "dx:root-dosa": {
      "code": null,
      "level": "low",
@@ -230,13 +261,13 @@
      "kept": [
       {
        "unit": "intake:q11",
-       "match": "cue_window",
+       "match": "exact_cue",
        "strength": "direct",
        "caps": [],
        "spec": [
         "F2"
        ],
-       "cue": "I'm boiling inside",
+       "cue": "inside I am boiling",
        "quote": "inside I am boiling"
       }
      ],
@@ -287,30 +318,7 @@
     }
    },
    "off_target": [],
-   "target_evidence": {
-    "dx:nivarana-uddhacca-kukkucca": {
-     "code": "R_BELOW_FLOOR",
-     "level": null,
-     "E": 0.0,
-     "E_net": -0.6,
-     "n_units": 0,
-     "n_direct_units": 0,
-     "kept": [],
-     "counters": [
-      [
-       "R_NEGATED",
-       0.6,
-       "I take ages because I'm terrified of getting it wrong again and then having another thing to regret"
-      ],
-      [
-       "R_NEGATED",
-       0.6,
-       "I ended up writing the same regrets over and over"
-      ]
-     ],
-     "rejected_codes": {}
-    }
-   }
+   "target_evidence": {}
   },
   {
    "id": "D05",
@@ -360,24 +368,48 @@
    "unmapped_reason": null,
    "mappings": [
     [
-     "dx:mutthassati",
+     "dx:kasaya-mana",
      "low"
     ]
    ],
    "targets": {
     "pride/conceit": {
-     "hit": false,
-     "best": "none",
-     "entries": []
+     "hit": true,
+     "best": "low",
+     "entries": [
+      [
+       "dx:kasaya-mana",
+       "low"
+      ]
+     ]
     }
    },
-   "off_target": [
-    [
-     "dx:mutthassati",
-     "low"
-    ]
-   ],
-   "target_evidence": {}
+   "off_target": [],
+   "target_evidence": {
+    "dx:kasaya-mana": {
+     "code": null,
+     "level": "low",
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q08",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I know I'm better than them",
+       "quote": "I know I'm better than him"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
   },
   {
    "id": "D07",
@@ -397,13 +429,23 @@
   {
    "id": "D08",
    "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:kasaya-maya",
+     "moderate"
+    ]
+   ],
    "targets": {
     "concealment": {
-     "hit": false,
-     "best": "none",
-     "entries": []
+     "hit": true,
+     "best": "moderate",
+     "entries": [
+      [
+       "dx:kasaya-maya",
+       "moderate"
+      ]
+     ]
     }
    },
    "off_target": [],
@@ -422,11 +464,11 @@
      }
     },
     "dx:kasaya-maya": {
-     "code": "R_NO_SPECIFICITY",
-     "level": null,
-     "E": 1.0,
-     "E_net": 1.0,
-     "n_units": 1,
+     "code": null,
+     "level": "moderate",
+     "E": 1.6,
+     "E_net": 1.6,
+     "n_units": 2,
      "n_direct_units": 1,
      "kept": [
       {
@@ -437,6 +479,18 @@
        "spec": [],
        "cue": "I tell people what they want to hear",
        "quote": "I tell people what they want to hear"
+      },
+      {
+       "unit": "intake:q01",
+       "match": "cue_partial",
+       "strength": "indirect",
+       "caps": [],
+       "spec": [
+        "F2",
+        "F3"
+       ],
+       "cue": "I agree to their face and then complain",
+       "quote": "At work I say yes to everything and agree with my boss, and then I complain about him to my colleagues"
       }
      ],
      "counters": [],
@@ -463,11 +517,24 @@
     "dx:guna-tamas": {
      "code": "R_BELOW_FLOOR",
      "level": null,
-     "E": 0.0,
-     "E_net": 0.0,
-     "n_units": 0,
+     "E": 0.6,
+     "E_net": 0.6,
+     "n_units": 1,
      "n_direct_units": 0,
-     "kept": [],
+     "kept": [
+      {
+       "unit": "intake:q09",
+       "match": "cue_partial",
+       "strength": "indirect",
+       "caps": [],
+       "spec": [
+        "F2",
+        "F3"
+       ],
+       "cue": "I put off starting until tomorrow",
+       "quote": "When I try to begin I first make tea, then arrange the desk, then check WhatsApp, then I feel it is already evening so better start fresh tomorrow"
+      }
+     ],
      "counters": [],
      "rejected_codes": {
       "R_QUESTION": 1
@@ -541,32 +608,60 @@
   {
    "id": "D11",
    "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:guna-tamas",
+     "moderate"
+    ]
+   ],
    "targets": {
     "dullness": {
-     "hit": false,
-     "best": "none",
-     "entries": []
+     "hit": true,
+     "best": "moderate",
+     "entries": [
+      [
+       "dx:guna-tamas",
+       "moderate"
+      ]
+     ]
     }
    },
    "off_target": [],
    "target_evidence": {
     "dx:guna-tamas": {
-     "code": "R_BELOW_FLOOR",
-     "level": null,
-     "E": 0.0,
-     "E_net": -0.5,
-     "n_units": 0,
-     "n_direct_units": 0,
-     "kept": [],
-     "counters": [
-      [
-       "R_NEGATED",
-       1.0,
-       "I lie on the couch instead"
-      ]
+     "code": null,
+     "level": "moderate",
+     "E": 1.6,
+     "E_net": 1.6,
+     "n_units": 2,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q02",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F1",
+        "F2"
+       ],
+       "cue": "I stay on the sofa all day",
+       "quote": "Stayed on the sofa all day watching whatever"
+      },
+      {
+       "unit": "intake:q09",
+       "match": "cue_partial",
+       "strength": "indirect",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I lie on the couch all day",
+       "quote": "I lie on the couch instead"
+      }
      ],
+     "counters": [],
      "rejected_codes": {}
     }
    }
@@ -1511,7 +1606,31 @@
     }
    },
    "off_target": [],
-   "target_evidence": {}
+   "target_evidence": {
+    "dx:nivarana-uddhacca-kukkucca": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.6,
+     "E_net": 0.6,
+     "n_units": 1,
+     "n_direct_units": 0,
+     "kept": [
+      {
+       "unit": "intake:q07",
+       "match": "cue_partial",
+       "strength": "indirect",
+       "caps": [],
+       "spec": [
+        "F1"
+       ],
+       "cue": "I keep asking myself whether I chose wrong",
+       "quote": "And afterwards I keep asking myself if I chose wrong"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
   }
  ],
  "personas_before": [
@@ -1592,12 +1711,7 @@
   },
   {
    "id": "D06",
-   "mappings": [
-    [
-     "dx:mutthassati",
-     "low"
-    ]
-   ],
+   "mappings": [],
    "targets": {
     "pride/conceit": {
      "hit": false,

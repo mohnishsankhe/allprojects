@@ -501,3 +501,20 @@ Conservative choices made without asking, with reasons. Newest last.
   - The judge's optional edit to YS 1.39 (name sexual imagery and intoxicants in step 2) is **not applied**. judge_fixes.py's own validator forbids danger words in steps, so the step keeps "not something you crave, and not a fixed gaze". The judge marked the edit optional.
   - That attempt showed a fragility: a failed post-step could leave practices.json built but unfixed, with the demoted practices back as gentle. build.py now backs up the layer first and restores it if any post-step fails.
   - Before re-enabling the uttama entries: text-verify Daśavaikālika 8.36–38, move their W1 product note, and reframe or keep excluding śauca.
+
+## 2026-09-30 00:25 IST — Content gate, first run: FAIL (8 of 50 pass); fix loop started
+- **Judge scores** (eval/judge/CONTENT_JUDGE.md, content_verdicts.jsonl):
+  - faithful citing 42/50;
+  - no claims 49/50 (one unattributed "you will not again come to birth");
+  - no near-duplicates 48/50 (the same idea twice, and parallel sutta passages in two pools);
+  - **idea-specific 10/50**.
+- **Main cause:** the offline templates paired each pool item's "angle", which was written for one scene, with random bucket scenes. X posts also dropped the link and the closing.
+- **Fix, part one (templates; insight/content.py):**
+  - each pool item now carries its own scene, link, close reading and closing, and the templates use them;
+  - X posts carry scene, point, link, closing and citation;
+  - threads no longer paste the raw paraphrase;
+  - short videos have a "where the text stops" beat;
+  - long-video outlines have minutes and points;
+  - rules_check rejects a superseded or covering tid and any source line that does not match the cited verse exactly.
+- **Fix, part two (pool; onto-analyst):** rules/content/buckets.json is rewritten with exact, citable tids, one scene and link written for each teaching, the seven misstated pool texts corrected, and no passage in two pools.
+- Two content tests fail until the new pool lands, because the old pool cites superseded ranges. Then the 50 posts are redrafted and re-judged in full, since 42 failed.
