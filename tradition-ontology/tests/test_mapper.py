@@ -437,7 +437,7 @@ def _entry(eid, name, cues, kind="obstacle", marker="Wanting again.", lens="vedi
 def test_same_sentence_gives_full_weight_to_one_group_only():
     lay = {"dx:x": _entry("dx:x", "Xa (test)", ["I hoard blue marbles nightly", "I keep old ribbons"]),
            "dx:y": _entry("dx:y", "Yb (test)", ["I hoard marbles nightly", "I polish brass lamps"]),
-           "dx:z": _entry("dx:z", "Zc (test)", ["I hoard marbles nightly"])}
+           "dx:z": _entry("dx:z", "Zc (test)", ["I hoard marbles nightly", "I wax skis", "I mend sails"])}   # more cues: ranks later
     txt = {"q01": "I hoard blue marbles nightly.",                   # exact cue for X, window for Y and Z
            "q02": "I keep old ribbons in a tin every year.",         # X: second unit
            "q03": "I polish brass lamps every Sunday afternoon.",    # Y: its own unit
