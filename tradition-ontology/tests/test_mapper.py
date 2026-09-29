@@ -367,9 +367,11 @@ def test_dialogue_is_capped_and_needs_three_turns():
              "Me: I never finish anything I start at the office too."]
     out = run({"dialogue": "\n".join(turns), "dialogue_speaker": "Me", "answers": {"q14": NEUTRAL}}, "rules")
     m = by_id(out)["dx:antaraya-alasya"]
-    assert m["confidence"] == "low" and "dialogue_only" in m["audit"]["ceilings_applied"] or m["confidence"] == "low"
-    assert all(e["strength"] != "direct" and "C_DIALOGUE_LINE" in e["caps"] for e in m["evidence"])
-    two = "\n".join(turns[:3])
+    assert m["confidence"] == "low"                       # dialogue-only reading tops out at low
+    assert [e["unit"] for e in m["evidence"]] == ["dialogue:1:t1", "dialogue:1:t3", "dialogue:1:t5"]
+    assert all(e["strength"] == "indirect" and e["caps"] == ["C_DIALOGUE_LINE"] for e in m["evidence"])
+    assert m["audit"]["n_direct_units"] == 0 and m["audit"]["n_units"] == 1     # a dialogue is one unit
+    two = "\n".join(turns[:3])                            # only two self turns: weight 0.8 < 1.0, no mapping
     out2 = run({"dialogue": two, "dialogue_speaker": "Me", "answers": {"q14": NEUTRAL}}, "rules")
     assert "dx:antaraya-alasya" not in by_id(out2)
 
@@ -389,15 +391,17 @@ def test_email_quote_and_double_quoted_text_excluded():
 
 
 def test_question_echo_cap_when_answer_repeats_the_question():
-    # q05 asks about sitting down to something that needs attention (intake.json); a quote made of the question's words is capped
-    q = mapper._intake_meta().get("q05", {}).get("text")
-    if not q:
-        pytest.skip("rules/intake.json has no q05")
-    lay = {"dx:nivarana-thina-middha": FX["dx:nivarana-thina-middha"]}
-    ans = "I try to sit down to something that needs my attention."
-    out = run({"answers": {"q05": ans, "q14": NEUTRAL}}, "rules", layer=lay)
-    caps = [e["caps"] for m in out["mappings"] for e in m["evidence"]]
-    assert "mappings" in out and all(("C_QUESTION_ECHO" in c) for c in caps) if caps else True
+    q = mapper._intake_meta()["q05"]["text"]
+    ans = "I sit down to something that needs attention."
+    r = mapper.check_sentence(ans, cue="I sit down to something", question=q)
+    assert r["code"] == "ok" and "C_QUESTION_ECHO" in r["caps"]
+    r2 = mapper.check_sentence("I sit down and my mind fills with tomorrow's meetings.", cue="I sit down", question=q)
+    assert "C_QUESTION_ECHO" not in r2["caps"]
+
+
+def test_answers_to_non_evidence_questions_are_not_used():
+    out = run({"answers": {"age": "I hold grudges every night against my neighbour.", "q14": NEUTRAL}}, "rules")
+    assert out["mappings"] == [] and out["audit"]["own_words"] == mapper.n_words(NEUTRAL)
 
 
 # ---------------------------------------------------------------------------------------------------- grouping, selection
@@ -423,14 +427,43 @@ def test_equivalent_entries_group_and_keep_edges_without_transfer():
     assert by_id(out2)["dx:kasaya-krodha"]["group_id"] is None and out2["groups"] == []
 
 
+def _entry(eid, name, cues, kind="obstacle", marker="Wanting again.", lens="vedic-yogic"):
+    return {"id": eid, "name": name, "kind": kind, "group": "g", "lens": lens,
+            "definitions": [{"tradition": "lin:fx", "text": "d", "cites": ["tea:fx:d"]}],
+            "markers": [{"marker": marker, "cues": cues, "cites": ["tea:fx:m-" + eid[-1]]}],
+            "equivalences": [], "user_facing": True}
+
+
 def test_same_sentence_gives_full_weight_to_one_group_only():
-    lay = {k: dict(v) for k, v in FX.items() if k in ("dx:klesa-dvesa", "dx:kasaya-krodha", "dx:klesa-raga")}
-    lay["dx:kasaya-krodha"] = {**lay["dx:kasaya-krodha"], "equivalences": []}
-    lay["dx:klesa-dvesa"] = {**lay["dx:klesa-dvesa"], "equivalences": []}
-    lay["dx:klesa-raga"] = {**lay["dx:klesa-raga"], "markers": [{"marker": "Wanting again.",
-                            "cues": ["I stay angry for days"], "cites": ["tea:fx:ys-2.7"]}]}
-    out = run({"answers": {"q06": "I stay angry for days after a quarrel with my sister.", "q14": NEUTRAL}}, "rules", layer=lay)
-    assert len(out["mappings"]) == 1 or "R_QUOTE_OVERUSED" in codes(out) or "R_DUPLICATE_READING" in codes(out)
+    lay = {"dx:x": _entry("dx:x", "Xa (test)", ["I hoard blue marbles nightly", "I keep old ribbons"]),
+           "dx:y": _entry("dx:y", "Yb (test)", ["I hoard marbles nightly", "I polish brass lamps"]),
+           "dx:z": _entry("dx:z", "Zc (test)", ["I hoard marbles nightly"])}
+    txt = {"q01": "I hoard blue marbles nightly.",                   # exact cue for X, window for Y and Z
+           "q02": "I keep old ribbons in a tin every year.",         # X: second unit
+           "q03": "I polish brass lamps every Sunday afternoon."}    # Y: its own unit
+    out = run({"answers": txt}, "rules", layer=lay)
+    ids = by_id(out)
+    x, y = ids["dx:x"], ids["dx:y"]
+    assert x["confidence"] == "moderate" and len(x["evidence"]) == 2
+    s1 = next(e for e in y["evidence"] if e["unit"] == "intake:q01")
+    assert s1["strength"] == "suggestive"                             # second group: corroboration weight only
+    assert next(e for e in x["evidence"] if e["unit"] == "intake:q01")["strength"] == "direct"
+    assert "dx:z" not in ids and "R_QUOTE_OVERUSED" in codes(out)     # nothing beyond that
+
+
+def test_duplicate_reading_keeps_the_best_fit_only():
+    lay = {"dx:x": _entry("dx:x", "Xa (test)", ["I hoard blue marbles nightly"]),
+           "dx:y": _entry("dx:y", "Yb (test)", ["I hoard marbles nightly"])}
+    out = run({"answers": {"q01": "I hoard blue marbles nightly.", "q14": NEUTRAL}}, "rules", layer=lay)
+    assert list(by_id(out)) == ["dx:x"]
+    assert {"R_QUOTE_OVERUSED", "R_DUPLICATE_READING"} & codes(out)
+
+
+def test_near_duplicate_quotes_in_different_units_count_once():
+    same = "Every night I hold grudges against my neighbour."
+    out = run({"answers": {"q04": same, "q06": same, "q14": NEUTRAL}}, "rules")
+    m = by_id(out)["dx:klesa-dvesa"]
+    assert len(m["evidence"]) == 1 and m["audit"]["n_units"] == 1 and m["confidence"] == "low"
 
 
 def test_kind_caps_and_reading_limits():
@@ -447,13 +480,65 @@ def test_kind_caps_and_reading_limits():
 
 
 def test_counter_evidence_lowers_the_net_and_caps_at_moderate():
-    txt = {"q02": "I snap at my kids over small things every evening.", "q06": "At work I stay angry at a colleague for days.",
-           "q07": "Even though I am not an angry person in general I stay angry at the clerk every single day.",
-           "q08": "I used to be angry all the time but I have stopped."}
-    out = run({"answers": txt}, "rules")
+    base = {"q02": "I snap at my kids over small things every evening.",
+            "q06": "At work I stay angry at a colleague for days.",
+            "q09": "Small things at the office set me off and I snap at whoever is near me every morning."}
+    m = by_id(run({"answers": base}, "rules"))["dx:kasaya-krodha"]
+    assert m["confidence"] == "high" and m["audit"]["E"] == 3.0
+    withdenial = {**base, "q07": "I'm not an angry person at all, honestly."}
+    out = run({"answers": withdenial}, "rules")
     m = by_id(out)["dx:kasaya-krodha"]
-    assert m["counter_evidence"] and m["audit"]["C"] > 0
-    assert m["confidence"] in ("low", "moderate")
+    assert m["confidence"] == "moderate" and "counter_evidence" in m["audit"]["ceilings_applied"]
+    assert m["audit"]["C"] == 0.6 and m["audit"]["E_net"] == 2.7
+    assert [c["reason"] for c in m["counter_evidence"]] == ["R_NEGATED"] and m["counter_evidence"][0]["weight"] == 0.6
+    past = {**base, "q08": "I used to be angry with my neighbour but I have stopped."}
+    m = by_id(run({"answers": past}, "rules"))["dx:kasaya-krodha"]
+    assert m["counter_evidence"][0]["reason"] == "R_PAST_RESOLVED" and m["confidence"] == "moderate"
+
+
+def test_user_facing_false_and_reported_change():
+    lay = {"dx:hidden": {**_entry("dx:hidden", "Hidden (test)", ["I hoard marbles nightly"]), "user_facing": False},
+           "dx:klesa-raga": FX["dx:klesa-raga"]}
+    cl = fake_client([cand("dx:hidden", [{"unit": "intake:q01", "text": "I hoard marbles nightly"}])])
+    out = run({"answers": {"q01": "I hoard marbles nightly.", "q14": NEUTRAL}}, "model", cl, layer=lay)
+    assert "R_ENTRY_NOT_USER_FACING" in codes(out) and out["mappings"] == []
+    txt = "Every night I can't stop wanting more, though after japa each morning it is less. " + NEUTRAL
+    m = by_id(run({"answers": {"q04": txt}}, "rules", layer=lay))["dx:klesa-raga"]
+    assert m["reported_change"]["kind"] == "lessening" and "can't stop wanting more" in m["reported_change"]["quote"]
+    assert m["state"] is None                       # tanu is never attached as a label
+
+
+def _guna(eid, cues):
+    return _entry(eid, eid.split(":")[1].title() + " (test)", cues, kind="guna")
+
+
+def test_guna_rule_convergence_and_predominance():
+    one_cue = {"dx:g1": _guna("dx:g1", ["I dwell on ledgers nightly"])}
+    txt = {"q01": "I dwell on ledgers nightly.", "q02": "Honestly I dwell on ledgers nightly in my room.", "q14": NEUTRAL}
+    out = run({"answers": txt}, "rules", layer=one_cue)
+    assert out["mappings"] == [] and "R_GUNA_NOT_CONVERGENT" in codes(out)     # needs 2+ distinct cues
+    two = {"dx:g1": _guna("dx:g1", ["I dwell on ledgers nightly", "I count coins weekly"])}
+    txt = {"q01": "I dwell on ledgers nightly.", "q02": "I count coins weekly at my desk."}
+    m = by_id(run({"answers": {**txt, "q14": NEUTRAL}}, "rules", layer=two))["dx:g1"]
+    assert m["confidence"] == "moderate"            # never above moderate, whatever the evidence
+    rival = {**two, "dx:g2": _guna("dx:g2", ["I sort stamps nightly", "I fold maps weekly"])}
+    txt2 = {**txt, "q03": "I sort stamps nightly.", "q04": "I fold maps weekly in the loft.", "q14": NEUTRAL}
+    out = run({"answers": txt2}, "rules", layer=rival)
+    assert out["mappings"] == [] and "R_GUNA_NO_PREDOMINANCE" in codes(out)
+
+
+def test_temperament_needs_convergence():
+    lay = {"dx:t1": _entry("dx:t1", "Tone (test)", ["I dwell on ledgers nightly", "I count coins weekly"], kind="temperament")}
+    txt = {"q01": "I dwell on ledgers nightly.", "q02": "I count coins weekly at my desk."}
+    out = run({"answers": {**txt, "q14": NEUTRAL}}, "rules", layer=lay)
+    assert out["mappings"] == [] and "R_TEMPERAMENT_NOT_CONVERGENT" in codes(out)
+
+
+def test_language_heuristic():
+    out = run({"answers": {"q01": "mujhe bahut gussa aata hai aur mera man nahi lagta hai kya karun"}}, "rules")
+    assert out["mappings"] == [] and out["audit"]["non_english_sentences"] == 1
+    assert mapper.english_ok("Every night I scroll reels for hours.")
+    assert not mapper.english_ok("मुझे बहुत गुस्सा आता है")
 
 
 # ---------------------------------------------------------------------------------------------------- record shape, V7
