@@ -516,7 +516,7 @@ When posture is firm, the yogin, self-controlled and eating wholesome food in mo
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice, teacher-transmission_
 
-terms: [prāṇāyāma](../terms/pranayama.md) · concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md)
+terms: [prāṇāyāma](../terms/pranayama.md) · concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · practices: [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md)
 
 ### 2.2 <a id="tea-hatha-yoga-pradipika-2-2"></a>
 `skeleton` · confidence high
@@ -527,7 +527,7 @@ When the breath moves, the mind moves; when the breath is still, the mind is sti
 
 _level: conventional · standpoint: causal · path: body-breath · stage: all · types: practice, consciousness-mind_
 
-terms: [prāṇa](../terms/prana.md), [Vāyu](../terms/vayu.md) · concepts: [The bond of mind and breath](../concepts/mind-breath-bond.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md)
+terms: [prāṇa](../terms/prana.md), [Vāyu](../terms/vayu.md) · concepts: [The bond of mind and breath](../concepts/mind-breath-bond.md) · practices: [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md)
 
 ### 2.3 <a id="tea-hatha-yoga-pradipika-2-3"></a>
 `skeleton` · confidence high
@@ -673,7 +673,7 @@ One should release the breath skilfully, fill it skilfully and hold it skilfully
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice_
 
-concepts: [The dangers of forcing (the texts' own warnings)](../concepts/dangers-of-forcing.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md) · obstacles: [Improper breath-control](../obstacles/improper-pranayama.md)
+concepts: [The dangers of forcing (the texts' own warnings)](../concepts/dangers-of-forcing.md) · practices: [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md) · obstacles: [Improper breath-control](../obstacles/improper-pranayama.md)
 
 ### 2.19-20 <a id="tea-hatha-yoga-pradipika-2-19-20"></a>
 `skeleton` · confidence high
@@ -1650,7 +1650,7 @@ Thus the ten mudrās were taught by Ādinātha, Śambhu; each one grants great p
 
 _level: conventional · standpoint: seeker · path: body-breath, general · stage: all · types: teacher-transmission, powers-experiences_
 
-terms: [kālavañcana](../terms/kalavancana.md) · concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md), [The ten mudrās of the Haṭhapradīpikā](../concepts/ten-mudras-hyp.md), [Cheating time (kāla-vañcana)](../concepts/kala-vancana.md), [The eight lordly powers (aṇimā and the rest)](../concepts/anima-adi-siddhis.md) · teachers: [Ādinātha](../teachers/adinatha.md)
+terms: [kālavañcana](../terms/kalavancana.md) · concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md), [The ten mudrās of the Haṭhapradīpikā](../concepts/ten-mudras-hyp.md), [Cheating time (kāla-vañcana)](../concepts/kala-vancana.md), [The eight lordly powers (aṣṭa-aiśvarya)](../concepts/anima-adi-siddhis.md) · teachers: [Ādinātha](../teachers/adinatha.md)
 
 ### 4.1 <a id="tea-hatha-yoga-pradipika-4-1"></a>
 `skeleton` · confidence high
@@ -1957,7 +1957,7 @@ As camphor in fire and salt in water, so the mind joined with reality dissolves.
 
 _level: ultimate · standpoint: absolute · path: meditation, knowledge · stage: realized · types: consciousness-mind, karma-liberation, ultimate_
 
-terms: [unmanī](../terms/unmani.md), [kaivalya](../terms/kaivalya.md) · concepts: [Unmanī / manonmanī — the state beyond mind](../concepts/unmani.md), [Isolation (kaivalya)](../concepts/kaivalya.md), [Dissolution of breath and mind (laya)](../concepts/laya-natha.md)
+terms: [unmanī](../terms/unmani.md), [kaivalya](../terms/kaivalya.md) · concepts: [Unmanī / manonmanī — the state beyond mind](../concepts/unmani.md), [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md), [Dissolution of breath and mind (laya)](../concepts/laya-natha.md)
 
 ### 4.64 <a id="tea-hatha-yoga-pradipika-4-64"></a>
 `skeleton` · confidence high
@@ -2281,4 +2281,4 @@ concepts: [The innate (sahaja)](../concepts/sahaja.md), [Suṣumnā, the central
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

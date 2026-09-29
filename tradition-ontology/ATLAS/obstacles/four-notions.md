@@ -12,4 +12,4 @@ Notions whose presence means one is not a bodhisattva.
   - [Vajracchedikā Prajñāpāramitā](../texts/vajracchedika.md) — ref: §3, §14, §31; rests_on: ["tea:vajracchedika:3", "tea:vajracchedika:31"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

@@ -10,4 +10,4 @@
 Burmese teacher (U Vimala, 1899–1962) whose insight method begins from understanding dependent origination.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

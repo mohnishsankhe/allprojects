@@ -22,4 +22,4 @@ RESTRICTED (extreme retention) — summary only: breath drawn in slowly through 
 - Breath-control is to be practised by the path the guru teaches, once posture is firm and the diet wholesome and moderate. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 2.1
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._

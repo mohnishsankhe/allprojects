@@ -10,4 +10,4 @@
 Kallaṭa's maternal cousin (mātuleya), to whom he transmitted the secret teaching of the Śiva Sūtra (Bhāskara, Vārttika 1.6).
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

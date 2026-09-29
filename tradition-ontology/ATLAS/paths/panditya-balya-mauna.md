@@ -21,4 +21,4 @@ The meaning of bālya (childlike state; Śaṅkara relates it to the strength of
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: BĀU 3.5.1 ('tasmād brāhmaṇaḥ pāṇḍityaṃ nirvidya bālyena tiṣṭhāset | bālyaṃ ca pāṇḍityaṃ ca nirvidyātha muniḥ | amaunaṃ ca maunaṃ ca nirvidyātha brāhmaṇaḥ'). All 1 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3.5.1). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

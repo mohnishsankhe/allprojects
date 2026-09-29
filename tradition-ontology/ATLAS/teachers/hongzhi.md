@@ -15,4 +15,4 @@
 Caodong abbot of Tiantong for thirty years; taught silent illumination (mozhao) and wrote verses on a hundred cases (basis of the Book of Equanimity); friend of Dahui despite their disagreement.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

@@ -17,4 +17,4 @@ A short verse summary ascribed to Bhāviveka of the Madhyamaka meaning, distingu
   - kind: translation; name: Tibetan translation, Derge Tengyur D3857 (dbu ma'i don bsdus pa) — catalog:Derge-Tengyur:D3857
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

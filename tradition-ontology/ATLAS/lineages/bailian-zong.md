@@ -44,4 +44,4 @@ _none recorded_
 _Notes: Scope limited to the Song–Yuan Buddhist societies as described in T1973._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

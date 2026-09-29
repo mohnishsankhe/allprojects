@@ -2747,7 +2747,7 @@ Expiation, humility, service, study, abandonment and meditation are internal [au
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice_
 
-terms: [ābhyantara-tapas](../terms/abhyantara-tapas.md), [prāyaścitta](../terms/prayascitta.md), [vinaya](../terms/vinaya.md), [vaiyāvṛttya](../terms/vaiyavrttya.md), [svādhyāya](../terms/svadhyaya.md), [vyutsarga](../terms/vyutsarga.md), [dhyāna (nididhyāsana)](../terms/dhyana.md) · concepts: [The twelve austerities](../concepts/twelve-tapas.md) · practices: [Prāyaścitta (expiation)](../practices/prayascitta.md), [Vinaya (reverence)](../practices/vinaya.md), [Vaiyāvṛttya (service)](../practices/vaiyavrttya.md), [Self-study (svādhyāya)](../practices/svadhyaya.md), [Kāyotsarga (abandonment of the body)](../practices/kayotsarga.md), [Dharma-dhyāna (virtuous meditation)](../practices/dharma-dhyana.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [ābhyantara-tapas](../terms/abhyantara-tapas.md), [prāyaścitta](../terms/prayascitta.md), [vinaya](../terms/vinaya.md), [vaiyāvṛttya](../terms/vaiyavrttya.md), [svādhyāya](../terms/svadhyaya.md), [vyutsarga](../terms/vyutsarga.md), [dhyāna](../terms/dhyana.md) · concepts: [The twelve austerities](../concepts/twelve-tapas.md) · practices: [Prāyaścitta (expiation)](../practices/prayascitta.md), [Vinaya (reverence)](../practices/vinaya.md), [Vaiyāvṛttya (service)](../practices/vaiyavrttya.md), [Self-study (svādhyāya)](../practices/svadhyaya.md), [Kāyotsarga (abandonment of the body)](../practices/kayotsarga.md), [Dharma-dhyāna (virtuous meditation)](../practices/dharma-dhyana.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 9.21 <a id="tea-tattvartha-sutra-9-21"></a>
 `skeleton` · confidence high
@@ -2824,7 +2824,7 @@ Meditation is the stopping of the mind's wandering by fixing it on one object; [
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [ekāgra-cintā-nirodha](../terms/ekagra-cinta-nirodha.md), [uttama-saṃhanana](../terms/uttama-samhanana.md), [antarmuhūrta](../terms/antarmuhurta.md) · concepts: [The four meditations](../concepts/four-dhyanas.md) · practices: [Dharma-dhyāna (virtuous meditation)](../practices/dharma-dhyana.md), [Śukla-dhyāna (pure meditation)](../practices/sukla-dhyana.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [dhyāna](../terms/dhyana.md), [ekāgra-cintā-nirodha](../terms/ekagra-cinta-nirodha.md), [uttama-saṃhanana](../terms/uttama-samhanana.md), [antarmuhūrta](../terms/antarmuhurta.md) · concepts: [The four meditations](../concepts/four-dhyanas.md) · practices: [Dharma-dhyāna (virtuous meditation)](../practices/dharma-dhyana.md), [Śukla-dhyāna (pure meditation)](../practices/sukla-dhyana.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 9.28 <a id="tea-tattvartha-sutra-9-28"></a>
 `skeleton` · confidence high
@@ -3117,4 +3117,4 @@ terms: [kāla](../terms/kala.md) · concepts: [The six substances (ṣaḍ-dravy
 _Notes: Śvetāmbara numbering differs from the Digambara (e.g. sallekhanā is Dig 7.22 = Śv 7.17; hiṃsā is Dig 7.13 = Śv 7.8, since the Śv sūtra text lacks Dig 7.4–8; nayas Dig 1.33 = Śv 1.34–35; 'kālaś ca' Dig 5.39 ≈ Śv 5.38 'kālaś cety eke'). Śv numbers given from memory. Title present in the local catalogue (catalog:JainDB:तत्त्वार्थसूत्र--आचार्य-उमास्वामी); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

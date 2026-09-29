@@ -13,4 +13,4 @@
 Disciple of Nampiḷḷai who wrote down his teacher's lectures as the Īṭu Muppattāṟāyirappaṭi; father of Piḷḷai Lokācārya and Aḻagiya Maṇavāḷa Perumāḷ Nāyaṉār.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._

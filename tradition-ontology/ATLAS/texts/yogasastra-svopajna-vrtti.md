@@ -16,4 +16,4 @@
 Hemacandra's own long commentary on the Yogaśāstra, with illustrative stories and verses quoted from earlier works.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

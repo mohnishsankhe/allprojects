@@ -17,4 +17,4 @@ Abiding pervading one direction, then the second, third and fourth, above, below
 - partial: [The four attitudes (maitrī, pramoda, kāruṇya, mādhyasthya)](maitri-adi-bhavana.md) — YS 1.33 prescribes the four attitudes towards the happy, the suffering, the virtuous and the non-virtuous for clarity of mind
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

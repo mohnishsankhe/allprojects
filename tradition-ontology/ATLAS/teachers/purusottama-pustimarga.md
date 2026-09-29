@@ -12,4 +12,4 @@
 The most prolific later Śuddhādvaita scholar: Bhāṣyaprakāśa on the Aṇubhāṣya, Suvarṇasūtra on the Vidvanmaṇḍana, Prasthānaratnākara and many commentaries.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

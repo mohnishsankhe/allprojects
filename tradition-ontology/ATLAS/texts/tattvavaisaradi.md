@@ -31,4 +31,4 @@ concepts: [Īśvara, Hiraṇyagarbha and the transmission of Yoga](../concepts/i
 _Notes: Content summarized from memory; only the TV on 4.1 is in the local DCS corpus._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._

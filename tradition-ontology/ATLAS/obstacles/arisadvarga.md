@@ -14,4 +14,4 @@ Desire, anger, greed, delusion, pride and envy are to be avoided (PKS 1.19); in 
   - [Bhāvanā Upaniṣad](../texts/bhavana-upanisad.md) — ref: guru-body-cakra; rests_on: ["tea:bhavana-upanisad:guru-body-cakra"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

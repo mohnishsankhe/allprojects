@@ -16,4 +16,4 @@ With breath and senses mastered, fix the mind on Viṣṇu's form as the ground 
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:visnu-purana:6.7.75-90, tea:visnu-purana:6.7.91-92 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._

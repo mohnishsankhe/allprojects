@@ -16,4 +16,4 @@ Seeing danger and blame in violence and the other faults in this world and the n
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.10, tea:tattvartha-sutra:7.12, tea:tattvartha-sutra:7.9 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions. Generated 2026-09-29 22:32 IST._

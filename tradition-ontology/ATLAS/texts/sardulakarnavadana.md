@@ -11,4 +11,4 @@
 A Buddhist avadāna (in the Divyāvadāna) in which the outcaste king Triśaṅku expounds to the brahmin Puṣkarasārin the lunar mansions, their deities and the fortunes of those born under them; an early Buddhist record of nakṣatra lore.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

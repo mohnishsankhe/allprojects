@@ -15,4 +15,4 @@ The lists of words (gaṇa) referred to in the Aṣṭādhyāyī by their first 
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/ganapatha — Confirmed: the lists of nominal stems to which Aṣṭādhyāyī rules refer by their first member.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

@@ -1420,7 +1420,7 @@ vītarāgabhayakrodhaḥ sthitadhīrmunirucyate
 
 _level: unmarked · standpoint: experiential · path: knowledge · stage: realized (sthitadhī muni) · types: consciousness-mind, karma-liberation_
 
-terms: [sthitadhī](../terms/sthitadhi.md), [muni](../terms/muni.md), [rāga](../terms/raga.md), [krodha](../terms/krodha.md) · concepts: [The person of steady wisdom (sthitaprajña)](../concepts/sthitaprajna.md), [Equanimity (samatva)](../concepts/samatva.md) · obstacles: [Anger (krodha)](../obstacles/krodha.md), [Passion, attachment (rāga)](../obstacles/raga.md), [Fear (bhaya)](../obstacles/bhaya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [sthitadhī](../terms/sthitadhi.md), [muni](../terms/muni.md), [rāga](../terms/raga.md), [krodha](../terms/krodha.md) · concepts: [The person of steady wisdom (sthitaprajña)](../concepts/sthitaprajna.md), [Equanimity (samatva)](../concepts/samatva.md) · obstacles: [Anger (krodha)](../obstacles/krodha.md), [Attachment (rāga)](../obstacles/raga.md), [Fear (bhaya)](../obstacles/bhaya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 2.56-57 <a id="tea-bhagavad-gita-2-56-57"></a>
 `sourced` · confidence high
@@ -1551,7 +1551,7 @@ Kṛṣṇa: but one who moves among sense-objects with senses free from passion
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [rāga](../terms/raga.md), [dveṣa](../terms/dvesa.md), [prasāda](../terms/prasada.md), [viṣaya](../terms/visaya.md), [indriya](../terms/indriya.md) · concepts: [The person of steady wisdom (sthitaprajña)](../concepts/sthitaprajna.md), [From mastered senses to serenity and peace (BhG 2.64–66)](../concepts/ascent-from-restraint-to-peace.md) · practices: [Restraint and withdrawal of the senses (indriya-saṃyama)](../practices/indriya-samyama.md) · obstacles: [Passion, attachment (rāga)](../obstacles/raga.md), [Aversion (dveṣa)](../obstacles/dvesa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [rāga](../terms/raga.md), [dveṣa](../terms/dvesa.md), [prasāda](../terms/prasada.md), [viṣaya](../terms/visaya.md), [indriya](../terms/indriya.md) · concepts: [The person of steady wisdom (sthitaprajña)](../concepts/sthitaprajna.md), [From mastered senses to serenity and peace (BhG 2.64–66)](../concepts/ascent-from-restraint-to-peace.md) · practices: [Restraint and withdrawal of the senses (indriya-saṃyama)](../practices/indriya-samyama.md) · obstacles: [Attachment (rāga)](../obstacles/raga.md), [Aversion (dveṣa)](../obstacles/dvesa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 2.64-65 <a id="tea-bhagavad-gita-2-64-65"></a>
 `sourced` · confidence high
@@ -2179,7 +2179,7 @@ tayorna vaśamāgacchettau hyasya paripanthinau
 
 _level: conventional · standpoint: seeker · path: general, meditation · stage: all · types: practice, consciousness-mind_
 
-terms: [rāga](../terms/raga.md), [dveṣa](../terms/dvesa.md), [indriya](../terms/indriya.md), [indriyārtha](../terms/indriyartha.md) · practices: [Restraint and withdrawal of the senses (indriya-saṃyama)](../practices/indriya-samyama.md) · obstacles: [Passion, attachment (rāga)](../obstacles/raga.md), [Aversion (dveṣa)](../obstacles/dvesa.md), [The turbulent senses (indriyāṇi pramāthīni)](../obstacles/turbulent-senses.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [rāga](../terms/raga.md), [dveṣa](../terms/dvesa.md), [indriya](../terms/indriya.md), [indriyārtha](../terms/indriyartha.md) · practices: [Restraint and withdrawal of the senses (indriya-saṃyama)](../practices/indriya-samyama.md) · obstacles: [Attachment (rāga)](../obstacles/raga.md), [Aversion (dveṣa)](../obstacles/dvesa.md), [The turbulent senses (indriyāṇi pramāthīni)](../obstacles/turbulent-senses.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 3.35 <a id="tea-bhagavad-gita-3-35"></a>
 `text-verified` · confidence high
@@ -2478,7 +2478,7 @@ bahavo jñānatapasā pūtā madbhāvamāgatāḥ
 
 _level: unmarked · standpoint: devotional · path: devotion, knowledge · stage: realized · types: karma-liberation_
 
-terms: [rāga](../terms/raga.md), [krodha](../terms/krodha.md), [tapas](../terms/tapas.md), [jñāna](../terms/jnana.md), [madbhāva](../terms/madbhava.md) · concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · obstacles: [Passion, attachment (rāga)](../obstacles/raga.md), [Fear (bhaya)](../obstacles/bhaya.md), [Anger (krodha)](../obstacles/krodha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
+terms: [rāga](../terms/raga.md), [krodha](../terms/krodha.md), [tapas](../terms/tapas.md), [jñāna](../terms/jnana.md), [madbhāva](../terms/madbhava.md) · concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · obstacles: [Attachment (rāga)](../obstacles/raga.md), [Fear (bhaya)](../obstacles/bhaya.md), [Anger (krodha)](../obstacles/krodha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
 
 ### 4.11 <a id="tea-bhagavad-gita-4-11"></a>
 `text-verified` · confidence high
@@ -2750,7 +2750,7 @@ prāṇāpānagatī ruddhvā prāṇāyāmaparāyaṇāḥ
 
 _level: conventional · standpoint: ritual · path: body-breath · stage: unmarked · types: practice, body-layers_
 
-terms: [prāṇa](../terms/prana.md), [apāna](../terms/apana.md), [prāṇāyāma](../terms/pranayama.md), [yajña](../terms/yajna.md) · concepts: [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md), [The internalized sacrifice](../concepts/internalized-sacrifice.md) · practices: [Breath as sacrifice: offering prāṇa and apāna](../practices/prana-apana-offering.md), [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
+terms: [prāṇa](../terms/prana.md), [apāna](../terms/apana.md), [prāṇāyāma](../terms/pranayama.md), [yajña](../terms/yajna.md) · concepts: [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md), [The internalized sacrifice](../concepts/internalized-sacrifice.md) · practices: [Breath as sacrifice: offering prāṇa and apāna](../practices/prana-apana-offering.md), [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
 
 ### 4.30 <a id="tea-bhagavad-gita-4-30"></a>
 `text-verified` · confidence high
@@ -2987,7 +2987,7 @@ nirdvandvo hi mahābāho sukhaṃ bandhātpramucyate
 
 _level: conventional · standpoint: seeker · path: action · stage: advanced (nitya-saṃnyāsin) · types: ethics, karma-liberation_
 
-terms: [saṃnyāsa](../terms/samnyasa.md), [dveṣa](../terms/dvesa.md), [dvandva](../terms/dvandva.md), [karmabandha](../terms/karma-bandha.md), [saṃnyāsin](../terms/samnyasin.md), [nirdvandva](../terms/nirdvandva.md) · concepts: [Renunciation (saṃnyāsa) in the principal Upaniṣads](../concepts/sannyasa.md), [Bondage of action (karma-bandha)](../concepts/bondage-of-action.md) · obstacles: [Aversion (dveṣa)](../obstacles/dvesa.md), [Desire (kāma)](../obstacles/kama.md), [The pairs of opposites (dvandva)](../obstacles/dvandva.md), [Passion, attachment (rāga)](../obstacles/raga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
+terms: [saṃnyāsa](../terms/samnyasa.md), [dveṣa](../terms/dvesa.md), [dvandva](../terms/dvandva.md), [karmabandha](../terms/karma-bandha.md), [saṃnyāsin](../terms/samnyasin.md), [nirdvandva](../terms/nirdvandva.md) · concepts: [Renunciation (saṃnyāsa) in the principal Upaniṣads](../concepts/sannyasa.md), [Bondage of action (karma-bandha)](../concepts/bondage-of-action.md) · obstacles: [Aversion (dveṣa)](../obstacles/dvesa.md), [Desire (kāma)](../obstacles/kama.md), [The pairs of opposites (dvandva)](../obstacles/dvandva.md), [Attachment (rāga)](../obstacles/raga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
 
 ### 5.4 <a id="tea-bhagavad-gita-5-4"></a>
 `text-verified` · confidence high
@@ -3661,7 +3661,7 @@ manaḥ saṃyamya maccitto yukta āsīta matparaḥ
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: unmarked · types: practice_
 
-terms: [brahmacārin](../terms/brahmacarin.md), [manas](../terms/manas.md), [brahmacarya](../terms/brahmacarya.md), [yukta](../terms/yukta.md) · practices: [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md), [Vedic studentship (brahmacarya)](../practices/brahmacarya.md) · obstacles: [Fear (bhaya)](../obstacles/bhaya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
+terms: [brahmacārin](../terms/brahmacarin.md), [manas](../terms/manas.md), [brahmacarya](../terms/brahmacarya.md), [yukta](../terms/yukta.md) · practices: [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md), [Continence (brahmacarya)](../practices/brahmacarya.md) · obstacles: [Fear (bhaya)](../obstacles/bhaya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
 
 ### 6.15 <a id="tea-bhagavad-gita-6-15"></a>
 `text-verified` · confidence high
@@ -4295,7 +4295,7 @@ praṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, sound-language_
 
-terms: [rasa](../terms/rasa.md), [praṇava](../terms/pranava.md), [veda](../terms/veda.md), [śabda](../terms/sabda.md), [ākāśa](../terms/akasa.md), [pauruṣa](../terms/paurusa.md), [oṃ](../terms/om.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Oṃ](../concepts/om.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [rasa](../terms/rasa.md), [praṇava](../terms/pranava.md), [veda](../terms/veda.md), [śabda](../terms/sabda.md), [ākāśa](../terms/akasa.md), [pauruṣa](../terms/paurusa.md), [oṃ](../terms/om.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [Oṃ](../concepts/om.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 7.8-11 <a id="tea-bhagavad-gita-7-8-11"></a>
 `sourced` · confidence high
@@ -4304,7 +4304,7 @@ I am the taste in water, the light of moon and sun, the syllable Oṃ (praṇava
 
 _level: ultimate · standpoint: divine · path: knowledge, devotion · stage: all · types: ultimate, sound-language_
 
-terms: [oṃ](../terms/om.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Oṃ](../concepts/om.md)
+terms: [oṃ](../terms/om.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [Oṃ](../concepts/om.md)
 
 _Superseded by [7.8](bhagavad-gita.md#tea-bhagavad-gita-7-8)_
 
@@ -4318,7 +4318,7 @@ jīvanaṃ sarvabhūteṣu tapaścāsmi tapasviṣu
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [gandha](../terms/gandha.md), [tejas](../terms/tejas.md), [tapas](../terms/tapas.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [gandha](../terms/gandha.md), [tejas](../terms/tejas.md), [tapas](../terms/tapas.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 7.10 <a id="tea-bhagavad-gita-7-10"></a>
 `text-verified` · confidence high
@@ -4330,7 +4330,7 @@ buddhirbuddhimatāmasmi tejastejasvināmaham
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [buddhi](../terms/buddhi.md), [tejas](../terms/tejas.md), [bīja](../terms/bija.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [buddhi](../terms/buddhi.md), [tejas](../terms/tejas.md), [bīja](../terms/bija.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 7.11 <a id="tea-bhagavad-gita-7-11"></a>
 `text-verified` · confidence high
@@ -4342,7 +4342,7 @@ dharmāviruddho bhūteṣu kāmo'smi bharatarṣabha
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, ethics_
 
-terms: [bala](../terms/bala.md), [kāma](../terms/kama.md), [rāga](../terms/raga.md), [dharma](../terms/dharma.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [bala](../terms/bala.md), [kāma](../terms/kama.md), [rāga](../terms/raga.md), [dharma](../terms/dharma.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 7.12 <a id="tea-bhagavad-gita-7-12"></a>
 `text-verified` · confidence high
@@ -4824,7 +4824,7 @@ tatte padaṃ saṃgraheṇa pravakṣye
 
 _level: unmarked · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: ultimate, practice_
 
-terms: [akṣara](../terms/aksara.md), [yati](../terms/yati.md), [rāga](../terms/raga.md), [brahmacarya](../terms/brahmacarya.md), [pada](../terms/pada.md), [veda](../terms/veda.md) · concepts: [The imperishable (akṣara)](../concepts/aksara.md) · practices: [Vedic studentship (brahmacarya)](../practices/brahmacarya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [akṣara](../terms/aksara.md), [yati](../terms/yati.md), [rāga](../terms/raga.md), [brahmacarya](../terms/brahmacarya.md), [pada](../terms/pada.md), [veda](../terms/veda.md) · concepts: [The imperishable (akṣara)](../concepts/aksara.md) · practices: [Continence (brahmacarya)](../practices/brahmacarya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.12 <a id="tea-bhagavad-gita-8-12"></a>
 `text-verified` · confidence high
@@ -4836,7 +4836,7 @@ mūrdhnyādhāyātmanaḥ prāṇamāsthito yogadhāraṇām
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: advanced · types: death-dying, practice, body-layers_
 
-terms: [dvāra](../terms/dvara.md), [hṛd](../terms/hrd.md), [prāṇa](../terms/prana.md), [dhāraṇā](../terms/dharana.md), [manas](../terms/manas.md) · concepts: [Yogic departure at death](../concepts/yogic-exit-at-death.md), [The heart and the space within it](../concepts/hrdaya-heart.md) · practices: [Yogic departure at death](../practices/utkranti-yoga.md), [Concentration (dhāraṇā)](../practices/dharana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [dvāra](../terms/dvara.md), [hṛd](../terms/hrd.md), [prāṇa](../terms/prana.md), [dhāraṇā](../terms/dharana.md), [manas](../terms/manas.md) · concepts: [Yogic departure at death](../concepts/yogic-exit-at-death.md), [The heart and the space within it](../concepts/hrdaya-heart.md) · practices: [Yogic departure at death](../practices/utkranti-yoga.md), [Dhāraṇā (concentration)](../practices/dharana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.12-13 <a id="tea-bhagavad-gita-8-12-13"></a>
 `text-verified` · confidence high
@@ -4850,7 +4850,7 @@ yaḥ prayāti tyajandehaṃ sa yāti paramāṃ gatim
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation, sound, devotion · stage: advanced · types: death-dying, practice, sound-language, body-layers_
 
-terms: [dvāra](../terms/dvara.md), [hṛd](../terms/hrd.md), [prāṇa](../terms/prana.md), [dhāraṇā](../terms/dharana.md), [manas](../terms/manas.md), [oṃ](../terms/om.md), [akṣara](../terms/aksara.md), [brahman](../terms/brahman.md), [smaraṇa](../terms/smarana.md), [praṇava](../terms/pranava.md) · concepts: [Yogic departure at death](../concepts/yogic-exit-at-death.md), [The heart and the space within it](../concepts/hrdaya-heart.md), [Oṃ](../concepts/om.md), [Dying by yoga](../concepts/yogic-death.md) · practices: [Yogic departure at death](../practices/utkranti-yoga.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md), [Remembering the Lord at the hour of death](../practices/antakala-smarana.md), [Mantra repetition (japa)](../practices/japa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [dvāra](../terms/dvara.md), [hṛd](../terms/hrd.md), [prāṇa](../terms/prana.md), [dhāraṇā](../terms/dharana.md), [manas](../terms/manas.md), [oṃ](../terms/om.md), [akṣara](../terms/aksara.md), [brahman](../terms/brahman.md), [smaraṇa](../terms/smarana.md), [praṇava](../terms/pranava.md) · concepts: [Yogic departure at death](../concepts/yogic-exit-at-death.md), [The heart and the space within it](../concepts/hrdaya-heart.md), [Oṃ](../concepts/om.md), [Dying by yoga](../concepts/yogic-death.md) · practices: [Yogic departure at death](../practices/utkranti-yoga.md), [Dhāraṇā (concentration)](../practices/dharana.md), [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md), [Remembering the Lord at the hour of death](../practices/antakala-smarana.md), [Mantra repetition (japa)](../practices/japa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.13 <a id="tea-bhagavad-gita-8-13"></a>
 `text-verified` · confidence high
@@ -5347,7 +5347,7 @@ maṃtro'hamahamevājyamahamagnirahaṃ hutam
 
 _level: unmarked · standpoint: divine · path: ritual, knowledge · stage: unmarked · types: ultimate, practice_
 
-terms: [kratu](../terms/kratu.md), [yajña](../terms/yajna.md), [svadhā](../terms/svadha.md), [mantra](../terms/mantra.md), [agni](../terms/agni.md), [havis](../terms/havis.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [kratu](../terms/kratu.md), [yajña](../terms/yajna.md), [svadhā](../terms/svadha.md), [mantra](../terms/mantra.md), [agni](../terms/agni.md), [havis](../terms/havis.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 9.16-19 <a id="tea-bhagavad-gita-9-16-19"></a>
 `sourced` · confidence high
@@ -5356,7 +5356,7 @@ I am the ritual, the sacrifice, the offering to the ancestors, the healing herb,
 
 _level: ultimate · standpoint: divine · path: devotion, ritual, knowledge · stage: all · types: ultimate, sound-language_
 
-terms: [oṃ](../terms/om.md), [sākṣin](../terms/saksin.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [oṃ](../terms/om.md), [sākṣin](../terms/saksin.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 _Superseded by [9.16](bhagavad-gita.md#tea-bhagavad-gita-9-16)_
 
@@ -5370,7 +5370,7 @@ vedyaṃ pavitramoṃkāra ṛk sāma yajureva ca
 
 _level: unmarked · standpoint: divine · path: knowledge, devotion · stage: unmarked · types: ultimate, sound-language_
 
-terms: [oṃkāra](../terms/omkara.md), [ṛk](../terms/rk.md), [sāman](../terms/saman.md), [yajus](../terms/yajus.md), [veda](../terms/veda.md), [oṃ](../terms/om.md) · concepts: [Oṃ](../concepts/om.md), [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [oṃkāra](../terms/omkara.md), [ṛk](../terms/rk.md), [sāman](../terms/saman.md), [yajus](../terms/yajus.md), [veda](../terms/veda.md), [oṃ](../terms/om.md) · concepts: [Oṃ](../concepts/om.md), [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 9.18 <a id="tea-bhagavad-gita-9-18"></a>
 `text-verified` · confidence high
@@ -5382,7 +5382,7 @@ prabhavaḥ pralayaḥ sthānaṃ nidhānaṃ bījamavyayam
 
 _level: unmarked · standpoint: divine · path: devotion, knowledge · stage: unmarked · types: ultimate_
 
-terms: [sākṣin](../terms/saksin.md), [śaraṇa](../terms/sarana.md), [pralaya](../terms/pralaya.md), [bīja](../terms/bija.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The witness (sākṣin)](../concepts/saksin.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [sākṣin](../terms/saksin.md), [śaraṇa](../terms/sarana.md), [pralaya](../terms/pralaya.md), [bīja](../terms/bija.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [The witness (sākṣin)](../concepts/saksin.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 9.19 <a id="tea-bhagavad-gita-9-19"></a>
 `text-verified` · confidence moderate
@@ -5394,7 +5394,7 @@ amṛtaṃ caiva mṛtyuśca sadasaccāhamarjuna
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, world-fate_
 
-terms: [amṛta](../terms/amrta.md), [mṛtyu](../terms/mrtyu.md), [sat](../terms/sat.md), [asat](../terms/asat.md), [sadasat](../terms/sadasat.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [amṛta](../terms/amrta.md), [mṛtyu](../terms/mrtyu.md), [sat](../terms/sat.md), [asat](../terms/asat.md), [sadasat](../terms/sadasat.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 9.20 <a id="tea-bhagavad-gita-9-20"></a>
 `text-verified` · confidence high
@@ -5741,7 +5741,7 @@ so'vikampena yogena yujyate nātra saṃśayaḥ
 
 _level: unmarked · standpoint: seeker · path: knowledge, devotion · stage: all · types: ultimate, practice_
 
-terms: [vibhūti](../terms/vibhuti.md), [yoga](../terms/yoga.md), [tattva](../terms/tattva.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md)
+terms: [vibhūti](../terms/vibhuti.md), [yoga](../terms/yoga.md), [tattva](../terms/tattva.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md)
 
 ### 10.8 <a id="tea-bhagavad-gita-10-8"></a>
 `text-verified` · confidence high
@@ -5821,7 +5821,7 @@ Arjuna praises Kṛṣṇa as the supreme Brahman, the supreme abode, the suprem
 
 _level: ultimate · standpoint: devotional · path: devotion · stage: all · types: ultimate, teacher-transmission_
 
-terms: [vibhūti](../terms/vibhuti.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Nārada](../teachers/narada.md), [Asita Devala](../teachers/asita-devala.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md)
+terms: [vibhūti](../terms/vibhuti.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Nārada](../teachers/narada.md), [Asita Devala](../teachers/asita-devala.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md)
 
 _Superseded by [10.12](bhagavad-gita.md#tea-bhagavad-gita-10-12)_
 
@@ -5871,7 +5871,7 @@ yābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi
 
 _level: unmarked · standpoint: devotional · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-terms: [vibhūti](../terms/vibhuti.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [vibhūti](../terms/vibhuti.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 ### 10.17 <a id="tea-bhagavad-gita-10-17"></a>
 `text-verified` · confidence high
@@ -5883,7 +5883,7 @@ keṣu keṣu ca bhāveṣu cintyo'si bhagavanmayā
 
 _level: unmarked · standpoint: seeker · path: devotion, meditation · stage: unmarked · types: practice, ultimate_
 
-concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Contemplating the Lord in his manifestations (vibhūti)](../practices/vibhuti-cintana.md)
+concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · practices: [Contemplating the Lord in his manifestations (vibhūti)](../practices/vibhuti-cintana.md)
 
 ### 10.18 <a id="tea-bhagavad-gita-10-18"></a>
 `text-verified` · confidence high
@@ -5895,7 +5895,7 @@ bhūyaḥ kathaya tṛptirhi śrṛṇvato nāsti me'mṛtam
 
 _level: unmarked · standpoint: devotional · path: devotion · stage: unmarked · types: ultimate_
 
-terms: [vibhūti](../terms/vibhuti.md), [yoga](../terms/yoga.md), [amṛta](../terms/amrta.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md)
+terms: [vibhūti](../terms/vibhuti.md), [yoga](../terms/yoga.md), [amṛta](../terms/amrta.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md)
 
 ### 10.19 <a id="tea-bhagavad-gita-10-19"></a>
 `text-verified` · confidence high
@@ -5908,7 +5908,7 @@ prādhānyataḥ kuruśreṣṭha nāstyanto vistarasya me
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-terms: [vibhūti](../terms/vibhuti.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [vibhūti](../terms/vibhuti.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 ### 10.20 <a id="tea-bhagavad-gita-10-20"></a>
 `text-verified` · confidence high
@@ -5920,7 +5920,7 @@ ahamādiśca madhyaṃ ca bhūtānāmanta eva ca
 
 _level: unmarked · standpoint: divine · path: knowledge, meditation, devotion · stage: unmarked · types: ultimate_
 
-terms: [ātman](../terms/atman.md) · concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md), [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The self](../concepts/the-self.md)
+terms: [ātman](../terms/atman.md) · concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md), [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [The self](../concepts/the-self.md)
 
 ### 10.21 <a id="tea-bhagavad-gita-10-21"></a>
 `text-verified` · confidence high
@@ -5932,7 +5932,7 @@ marīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-terms: [āditya](../terms/aditya.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [āditya](../terms/aditya.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 ### 10.21-38 <a id="tea-bhagavad-gita-10-21-38"></a>
 `sourced` · confidence high
@@ -5941,7 +5941,7 @@ The catalogue of manifestations: among the Ādityas Kṛṣṇa is Viṣṇu, am
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: all · types: ultimate, sound-language_
 
-terms: [vibhūti](../terms/vibhuti.md), [japa-yajña](../terms/japa-yajna.md), [oṃ](../terms/om.md), [mauna](../terms/mauna.md), [kāla](../terms/kala.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kapila](../teachers/kapila.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md), [Uśanas (Śukra)](../teachers/usanas.md), [Nārada](../teachers/narada.md)
+terms: [vibhūti](../terms/vibhuti.md), [japa-yajña](../terms/japa-yajna.md), [oṃ](../terms/om.md), [mauna](../terms/mauna.md), [kāla](../terms/kala.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Kapila](../teachers/kapila.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md), [Uśanas (Śukra)](../teachers/usanas.md), [Nārada](../teachers/narada.md)
 
 _Superseded by [10.21](bhagavad-gita.md#tea-bhagavad-gita-10-21)_
 
@@ -5955,7 +5955,7 @@ indriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate, consciousness-mind_
 
-terms: [veda](../terms/veda.md), [indriya](../terms/indriya.md), [manas](../terms/manas.md), [cetana](../terms/cetana.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Indra (as student and teacher)](../teachers/indra.md)
+terms: [veda](../terms/veda.md), [indriya](../terms/indriya.md), [manas](../terms/manas.md), [cetana](../terms/cetana.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Indra (as student and teacher)](../teachers/indra.md)
 
 ### 10.23 <a id="tea-bhagavad-gita-10-23"></a>
 `text-verified` · confidence high
@@ -5967,7 +5967,7 @@ vasūnāṃ pāvakaścāsmi meruḥ śikhariṇāmaham
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Śiva](../teachers/siva.md) · disputes: [Who is supreme in the epic — Nārāyaṇa/Viṣṇu or Śiva?](../debates/siva-or-visnu-epic.md)
+concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Śiva](../teachers/siva.md) · disputes: [Who is supreme in the epic — Nārāyaṇa/Viṣṇu or Śiva?](../debates/siva-or-visnu-epic.md)
 
 ### 10.24 <a id="tea-bhagavad-gita-10-24"></a>
 `text-verified` · confidence high
@@ -5979,7 +5979,7 @@ senānīnāmahaṃ skandaḥ sarasāmasmi sāgaraḥ
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md), [Skanda / Guha](../teachers/skanda.md)
+concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md), [Skanda / Guha](../teachers/skanda.md)
 
 ### 10.25 <a id="tea-bhagavad-gita-10-25"></a>
 `text-verified` · confidence high
@@ -5991,7 +5991,7 @@ yajñānāṃ japayajño'smi sthāvarāṇāṃ himālayaḥ
 
 _level: unmarked · standpoint: divine · path: devotion, meditation, sound · stage: unmarked · types: ultimate, sound-language, practice_
 
-terms: [japa-yajña](../terms/japa-yajna.md), [japa](../terms/japa.md), [oṃ](../terms/om.md), [yajña](../terms/yajna.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Oṃ](../concepts/om.md) · practices: [Mantra repetition (japa)](../practices/japa.md) · teachers: [Bhṛgu Vāruṇi](../teachers/bhrgu.md)
+terms: [japa-yajña](../terms/japa-yajna.md), [japa](../terms/japa.md), [oṃ](../terms/om.md), [yajña](../terms/yajna.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [Oṃ](../concepts/om.md) · practices: [Mantra repetition (japa)](../practices/japa.md) · teachers: [Bhṛgu Vāruṇi](../teachers/bhrgu.md)
 
 ### 10.26 <a id="tea-bhagavad-gita-10-26"></a>
 `text-verified` · confidence high
@@ -6003,7 +6003,7 @@ gandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-terms: [aśvattha](../terms/asvattha.md), [muni](../terms/muni.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Nārada](../teachers/narada.md), [Kapila](../teachers/kapila.md)
+terms: [aśvattha](../terms/asvattha.md), [muni](../terms/muni.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Nārada](../teachers/narada.md), [Kapila](../teachers/kapila.md)
 
 ### 10.27 <a id="tea-bhagavad-gita-10-27"></a>
 `text-verified` · confidence high
@@ -6015,7 +6015,7 @@ airāvataṃ gajendrāṇāṃ narāṇāṃ ca narādhipam
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 ### 10.28 <a id="tea-bhagavad-gita-10-28"></a>
 `text-verified` · confidence high
@@ -6027,7 +6027,7 @@ prajanaścāsmi kandarpaḥ sarpāṇāmasmi vāsukiḥ
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 ### 10.29 <a id="tea-bhagavad-gita-10-29"></a>
 `text-verified` · confidence high
@@ -6039,7 +6039,7 @@ pitṛ़ṇāmaryamā cāsmi yamaḥ saṃyamatāmaham
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-terms: [pitṛ](../terms/pitr.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Varuṇa](../teachers/varuna.md)
+terms: [pitṛ](../terms/pitr.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Varuṇa](../teachers/varuna.md)
 
 ### 10.30 <a id="tea-bhagavad-gita-10-30"></a>
 `text-verified` · confidence high
@@ -6051,7 +6051,7 @@ mṛgāṇāṃ ca mṛgendro'haṃ vainateyaśca pakṣiṇām
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate, world-fate_
 
-terms: [kāla](../terms/kala.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Time (kāla)](../concepts/kala.md) · teachers: [Prahlāda](../teachers/prahlada.md), [Garuḍa](../teachers/garuda.md)
+terms: [kāla](../terms/kala.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [Time (kāla)](../concepts/kala.md) · teachers: [Prahlāda](../teachers/prahlada.md), [Garuḍa](../teachers/garuda.md)
 
 ### 10.31 <a id="tea-bhagavad-gita-10-31"></a>
 `text-verified` · confidence moderate
@@ -6063,7 +6063,7 @@ jhaṣāṇāṃ makaraścāsmi srotasāmasmi jāhnavī
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 ### 10.32 <a id="tea-bhagavad-gita-10-32"></a>
 `text-verified` · confidence high
@@ -6075,7 +6075,7 @@ adhyātmavidyā vidyānāṃ vādaḥ pravadatāmaham
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate, world-fate, sound-language_
 
-terms: [adhyātma](../terms/adhyatma.md), [vāda](../terms/vada.md), [adhyātma-vidyā](../terms/adhyatma-vidya.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [adhyātma](../terms/adhyatma.md), [vāda](../terms/vada.md), [adhyātma-vidyā](../terms/adhyatma-vidya.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 ### 10.32-33 <a id="tea-bhagavad-gita-10-32-33"></a>
 `sourced` · confidence high
@@ -6084,7 +6084,7 @@ Of creations I am the beginning, the end and the middle; among sciences I am the
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: sound-language, ultimate_
 
-terms: [kāla](../terms/kala.md), [adhyātma](../terms/adhyatma.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [kāla](../terms/kala.md), [adhyātma](../terms/adhyatma.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 _Superseded by [10.32](bhagavad-gita.md#tea-bhagavad-gita-10-32)_
 
@@ -6098,7 +6098,7 @@ ahamevākṣayaḥ kālo dhātā'haṃ viśvatomukhaḥ
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate, sound-language, world-fate_
 
-terms: [kāla](../terms/kala.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Time (kāla)](../concepts/kala.md)
+terms: [kāla](../terms/kala.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [Time (kāla)](../concepts/kala.md)
 
 ### 10.34 <a id="tea-bhagavad-gita-10-34"></a>
 `text-verified` · confidence high
@@ -6110,7 +6110,7 @@ kīrtiḥ śrīrvākca nārīṇāṃ smṛtirmedhā dhṛtiḥ kṣamā
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate, death-dying, consciousness-mind_
 
-terms: [mṛtyu](../terms/mrtyu.md), [vāc](../terms/vac.md), [smṛti](../terms/smrti.md), [medhā](../terms/medha.md), [dhṛti](../terms/dhrti.md), [kṣamā](../terms/ksama.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [mṛtyu](../terms/mrtyu.md), [vāc](../terms/vac.md), [smṛti](../terms/smrti.md), [medhā](../terms/medha.md), [dhṛti](../terms/dhrti.md), [kṣamā](../terms/ksama.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 ### 10.35 <a id="tea-bhagavad-gita-10-35"></a>
 `text-verified` · confidence high
@@ -6122,7 +6122,7 @@ māsānāṃ mārgaśīrṣo'hamṛtūnāṃ kusumākaraḥ
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate, sound-language, world-fate_
 
-terms: [gāyatrī](../terms/gayatri.md), [bṛhat](../terms/brhat-saman.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [gāyatrī](../terms/gayatri.md), [bṛhat](../terms/brhat-saman.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 ### 10.36 <a id="tea-bhagavad-gita-10-36"></a>
 `text-verified` · confidence high
@@ -6134,7 +6134,7 @@ jayo'smi vyavasāyo'smi sattvaṃ sattvavatāmaham
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-terms: [tejas](../terms/tejas.md), [sattva](../terms/sattva.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [tejas](../terms/tejas.md), [sattva](../terms/sattva.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 ### 10.37 <a id="tea-bhagavad-gita-10-37"></a>
 `text-verified` · confidence high
@@ -6146,7 +6146,7 @@ munīnāmapyahaṃ vyāsaḥ kavīnāmuśanā kaviḥ
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-terms: [Vāsudeva](../terms/vasudeva.md), [muni](../terms/muni.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md), [Uśanas (Śukra)](../teachers/usanas.md)
+terms: [Vāsudeva](../terms/vasudeva.md), [muni](../terms/muni.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md), [Uśanas (Śukra)](../teachers/usanas.md)
 
 ### 10.38 <a id="tea-bhagavad-gita-10-38"></a>
 `text-verified` · confidence high
@@ -6158,7 +6158,7 @@ maunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatāmaham
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate, ethics_
 
-terms: [mauna](../terms/mauna.md), [guhya](../terms/guhya.md), [jñāna](../terms/jnana.md), [daṇḍa](../terms/danda.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [mauna](../terms/mauna.md), [guhya](../terms/guhya.md), [jñāna](../terms/jnana.md), [daṇḍa](../terms/danda.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 ### 10.39 <a id="tea-bhagavad-gita-10-39"></a>
 `text-verified` · confidence high
@@ -6170,7 +6170,7 @@ na tadasti vinā yatsyānmayā bhūtaṃ carācaram
 
 _level: unmarked · standpoint: divine · path: knowledge, meditation, devotion · stage: unmarked · types: ultimate, world-fate_
 
-terms: [bīja](../terms/bija.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Īśvara (the Lord)](../concepts/isvara.md)
+terms: [bīja](../terms/bija.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [Īśvara (the Lord)](../concepts/isvara.md)
 
 ### 10.39-42 <a id="tea-bhagavad-gita-10-39-42"></a>
 `sourced` · confidence high
@@ -6179,7 +6179,7 @@ Whatever is the seed of all beings, that I am; there is no being, moving or unmo
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: all · types: ultimate_
 
-terms: [vibhūti](../terms/vibhuti.md), [aṃśa](../terms/amsa.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [vibhūti](../terms/vibhuti.md), [aṃśa](../terms/amsa.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 _Superseded by [10.39](bhagavad-gita.md#tea-bhagavad-gita-10-39)_
 
@@ -6193,7 +6193,7 @@ eṣa tūddeśataḥ prokto vibhūtervistaro mayā
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-terms: [vibhūti](../terms/vibhuti.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Contemplating the Lord in his manifestations (vibhūti)](../practices/vibhuti-cintana.md)
+terms: [vibhūti](../terms/vibhuti.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · practices: [Contemplating the Lord in his manifestations (vibhūti)](../practices/vibhuti-cintana.md)
 
 ### 10.41 <a id="tea-bhagavad-gita-10-41"></a>
 `text-verified` · confidence high
@@ -6205,7 +6205,7 @@ tattadevāvagaccha tvaṃ mama tejoṃ'śasaṃbhavam
 
 _level: unmarked · standpoint: divine · path: knowledge, meditation, devotion · stage: all · types: ultimate, practice_
 
-terms: [vibhūti](../terms/vibhuti.md), [tejas](../terms/tejas.md), [aṃśa](../terms/amsa.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Contemplating the Lord in his manifestations (vibhūti)](../practices/vibhuti-cintana.md)
+terms: [vibhūti](../terms/vibhuti.md), [tejas](../terms/tejas.md), [aṃśa](../terms/amsa.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · practices: [Contemplating the Lord in his manifestations (vibhūti)](../practices/vibhuti-cintana.md)
 
 ### 10.42 <a id="tea-bhagavad-gita-10-42"></a>
 `text-verified` · confidence high
@@ -6217,7 +6217,7 @@ viṣṭabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat
 
 _level: unmarked · standpoint: divine · path: knowledge, devotion · stage: unmarked · types: ultimate, world-fate_
 
-terms: [aṃśa](../terms/amsa.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Īśvara (the Lord)](../concepts/isvara.md)
+terms: [aṃśa](../terms/amsa.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [Īśvara (the Lord)](../concepts/isvara.md)
 
 ### 11.1 <a id="tea-bhagavad-gita-11-1"></a>
 `text-verified` · confidence high
@@ -7131,7 +7131,7 @@ Kṛṣṇa: but those who, resigning all actions to me (mayi saṃnyasya), hold
 
 _level: conventional · standpoint: devotional · path: devotion, meditation, action · stage: unmarked · types: practice_
 
-terms: [saṃnyāsa](../terms/samnyasa.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [karma](../terms/karma.md), [upāsanā](../terms/upasana.md), [matpara](../terms/matpara.md), [ananya-bhakti](../terms/ananya-bhakti.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md)
+terms: [saṃnyāsa](../terms/samnyasa.md), [dhyāna](../terms/dhyana.md), [karma](../terms/karma.md), [upāsanā](../terms/upasana.md), [matpara](../terms/matpara.md), [ananya-bhakti](../terms/ananya-bhakti.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md)
 
 ### 12.6-7 <a id="tea-bhagavad-gita-12-6-7"></a>
 `text-verified` · confidence high
@@ -7143,7 +7143,7 @@ teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt|bhavāmi nacirātpārtha 
 
 _level: conventional · standpoint: devotional · path: devotion, meditation, action · stage: unmarked · types: practice, karma-liberation, death-dying_
 
-terms: [saṃnyāsa](../terms/samnyasa.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [karma](../terms/karma.md), [upāsanā](../terms/upasana.md), [matpara](../terms/matpara.md), [ananya-bhakti](../terms/ananya-bhakti.md), [saṃsāra](../terms/samsara.md), [mṛtyu](../terms/mrtyu.md), [cetas](../terms/cetas.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · practices: [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md)
+terms: [saṃnyāsa](../terms/samnyasa.md), [dhyāna](../terms/dhyana.md), [karma](../terms/karma.md), [upāsanā](../terms/upasana.md), [matpara](../terms/matpara.md), [ananya-bhakti](../terms/ananya-bhakti.md), [saṃsāra](../terms/samsara.md), [mṛtyu](../terms/mrtyu.md), [cetas](../terms/cetas.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · practices: [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md)
 
 ### 12.7 <a id="tea-bhagavad-gita-12-7"></a>
 `text-verified` · confidence high
@@ -7220,7 +7220,7 @@ Kṛṣṇa: for knowledge (jñāna) is better than practice (abhyāsa); meditat
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation, action · stage: unmarked · types: practice, karma-liberation_
 
-terms: [jñāna](../terms/jnana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [abhyāsa](../terms/abhyasa.md), [tyāga](../terms/tyaga.md), [śānti](../terms/santi.md), [karmaphala-tyāga](../terms/karmaphala-tyaga.md) · concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md) · practices: [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md), [Practice (abhyāsa)](../practices/abhyasa.md)
+terms: [jñāna](../terms/jnana.md), [dhyāna](../terms/dhyana.md), [abhyāsa](../terms/abhyasa.md), [tyāga](../terms/tyaga.md), [śānti](../terms/santi.md), [karmaphala-tyāga](../terms/karmaphala-tyaga.md) · concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md) · practices: [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md), [Practice (abhyāsa)](../practices/abhyasa.md)
 
 ### 12.13 <a id="tea-bhagavad-gita-12-13"></a>
 `text-verified` · confidence moderate
@@ -7717,7 +7717,7 @@ Kṛṣṇa: some, through meditation (dhyāna), see the self (ātmānam) in the
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge, action · stage: all · types: practice, karma-liberation_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [ātman](../terms/atman.md), [sāṃkhya](../terms/samkhya.md), [yoga](../terms/yoga.md), [karmayoga](../terms/karma-yoga.md) · concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md) · practices: [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md), [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+terms: [dhyāna](../terms/dhyana.md), [ātman](../terms/atman.md), [sāṃkhya](../terms/samkhya.md), [yoga](../terms/yoga.md), [karmayoga](../terms/karma-yoga.md) · concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md) · practices: [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md), [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 ### 13.25-26 <a id="tea-bhagavad-gita-13-25-26"></a>
 `sourced` · confidence high
@@ -7981,7 +7981,7 @@ Kṛṣṇa: know rajas to be of the nature of passion (rāga), bound up with th
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, karma-liberation_
 
-terms: [rajas](../terms/rajas.md), [rāga](../terms/raga.md), [tṛṣṇā](../terms/trsna.md), [saṅga](../terms/sanga.md), [karma](../terms/karma.md), [dehin](../terms/dehin.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md), [Attachment (saṅga)](../obstacles/sanga.md), [Passion, attachment (rāga)](../obstacles/raga.md), [Craving (tṛṣṇā)](../obstacles/trsna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [rajas](../terms/rajas.md), [rāga](../terms/raga.md), [tṛṣṇā](../terms/trsna.md), [saṅga](../terms/sanga.md), [karma](../terms/karma.md), [dehin](../terms/dehin.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md), [Attachment (saṅga)](../obstacles/sanga.md), [Attachment (rāga)](../obstacles/raga.md), [Craving (tṛṣṇā)](../obstacles/trsna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 14.8 <a id="tea-bhagavad-gita-14-8"></a>
 `text-verified` · confidence high
@@ -8458,7 +8458,7 @@ Kṛṣṇa: the radiance (tejas) that is in the sun and illumines the whole wor
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, world-fate_
 
-terms: [tejas](../terms/tejas.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [tejas](../terms/tejas.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 15.12-14 <a id="tea-bhagavad-gita-15-12-14"></a>
 `sourced` · confidence high
@@ -8467,7 +8467,7 @@ The light in the sun that illumines the whole world, and in the moon and in fire
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate, body-layers_
 
-terms: [vaiśvānara](../terms/vaisvanara.md), [prāṇa](../terms/prana.md), [apāna](../terms/apana.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+terms: [vaiśvānara](../terms/vaisvanara.md), [prāṇa](../terms/prana.md), [apāna](../terms/apana.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md)
 
 _Superseded by [15.12](bhagavad-gita.md#tea-bhagavad-gita-15-12)_
 
@@ -8480,7 +8480,7 @@ Kṛṣṇa: entering the earth (go), I sustain beings by my vigour (ojas); and 
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: world-fate_
 
-terms: [ojas](../terms/ojas.md), [soma](../terms/soma.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [ojas](../terms/ojas.md), [soma](../terms/soma.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 15.14 <a id="tea-bhagavad-gita-15-14"></a>
 `text-verified` · confidence high
@@ -8491,7 +8491,7 @@ Kṛṣṇa: becoming Vaiśvānara, dwelling in the bodies of breathing beings (
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: body-layers, world-fate_
 
-terms: [vaiśvānara](../terms/vaisvanara.md), [prāṇa](../terms/prana.md), [apāna](../terms/apana.md), [deha](../terms/deha.md) · concepts: [The self common to all men (vaiśvānara)](../concepts/vaisvanara.md), [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [vaiśvānara](../terms/vaisvanara.md), [prāṇa](../terms/prana.md), [apāna](../terms/apana.md), [deha](../terms/deha.md) · concepts: [The self common to all men (vaiśvānara)](../concepts/vaisvanara.md), [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 15.15 <a id="tea-bhagavad-gita-15-15"></a>
 `text-verified` · confidence high
@@ -9180,7 +9180,7 @@ Chapter 10 is the Lord's account of his manifestations (vibhūti), in four movem
 
 _level: unmarked · standpoint: divine · path: devotion, knowledge, meditation · stage: all · types: ultimate, practice_
 
-terms: [vibhūti](../terms/vibhuti.md), [buddhiyoga](../terms/buddhi-yoga.md), [yoga](../terms/yoga.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Īśvara (the Lord)](../concepts/isvara.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md), [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md), [The states of beings that arise from the Lord (BhG 10.4–5)](../concepts/states-of-beings-from-the-lord.md) · practices: [Contemplating the Lord in his manifestations (vibhūti)](../practices/vibhuti-cintana.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Nārada](../teachers/narada.md), [Asita Devala](../teachers/asita-devala.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md)
+terms: [vibhūti](../terms/vibhuti.md), [buddhiyoga](../terms/buddhi-yoga.md), [yoga](../terms/yoga.md) · concepts: [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [Īśvara (the Lord)](../concepts/isvara.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md), [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md), [The states of beings that arise from the Lord (BhG 10.4–5)](../concepts/states-of-beings-from-the-lord.md) · practices: [Contemplating the Lord in his manifestations (vibhūti)](../practices/vibhuti-cintana.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Nārada](../teachers/narada.md), [Asita Devala](../teachers/asita-devala.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md)
 
 ### ch11 <a id="tea-bhagavad-gita-ch11"></a>
 `text-verified` · confidence high
@@ -9279,7 +9279,7 @@ Chapter 7 moves in eight steps. (1) 7.1–3: with his mind attached to the Lord,
 
 _level: unmarked · standpoint: divine · path: knowledge, devotion · stage: all · types: ultimate, world-fate, practice, karma-liberation_
 
-terms: [jñāna](../terms/jnana.md), [vijñāna](../terms/vijnana.md), [prakṛti](../terms/prakrti.md), [māyā](../terms/maya.md), [prapatti](../terms/prapatti.md), [guṇa](../terms/guna.md), [Vāsudeva](../terms/vasudeva.md) · concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md), [The four kinds of devotees](../concepts/four-kinds-of-devotees.md), [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The three planes: divine, bodily, sacrificial](../concepts/adhidaiva-adhyatma-adhiyajna.md), [The three guṇas](../concepts/three-gunas.md), [Māyā in the principal Upaniṣads](../concepts/maya.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md), [The pairs of opposites (dvandva)](../obstacles/dvandva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md), [Is the Lord who has come into manifestation in a human body only a manifest, human being?](../debates/bhagavad-gita-the-lords-embodiment.md)
+terms: [jñāna](../terms/jnana.md), [vijñāna](../terms/vijnana.md), [prakṛti](../terms/prakrti.md), [māyā](../terms/maya.md), [prapatti](../terms/prapatti.md), [guṇa](../terms/guna.md), [Vāsudeva](../terms/vasudeva.md) · concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md), [The four kinds of devotees](../concepts/four-kinds-of-devotees.md), [The powers of the Vibhūti-pāda (vibhūti)](../concepts/vibhutis.md), [The three planes: divine, bodily, sacrificial](../concepts/adhidaiva-adhyatma-adhiyajna.md), [The three guṇas](../concepts/three-gunas.md), [Māyā in the principal Upaniṣads](../concepts/maya.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md), [The pairs of opposites (dvandva)](../obstacles/dvandva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md), [Is the Lord who has come into manifestation in a human body only a manifest, human being?](../debates/bhagavad-gita-the-lords-embodiment.md)
 
 ### ch8 <a id="tea-bhagavad-gita-ch8"></a>
 `text-verified` · confidence high
@@ -9307,4 +9307,4 @@ _Notes: Chapter titles are the traditional colophon titles (they vary slightly b
 
 - 2026-09-29 text-locate: confirmed — catalog:GRETIL-dev:bhagavadgita, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_6.json (BORI Critical Edition text) 6.23.1 dharmakṣetre ... ; 6.40.78 yatra yogeśvaraḥ ...; 6.22/6.41 are battle narrative, local:sources_raw/gita/data/verse.json (701 entries incl. extra 13.0 verse), https:/ — CE Bhīṣmaparvan 23–40 holds exactly 700 verses, starting at dharmakṣetre and ending at yatra yogeśvaraḥ; the local vulgate corpus has 701 with the extra verse heading ch. 13, as the entry says. Dating accounts kept as entered (scholarly range is within published estimates).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

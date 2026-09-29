@@ -26,4 +26,4 @@ The ankles under the scrotum at the sides of the perineum, the sides of the feet
 _Notes: Listed in the Yoga-bhāṣya on YS 2.46. U10's paraphrase of that list omits vīrāsana; the unit recalls 'padmāsanaṃ vīrāsanaṃ bhadrāsanaṃ svastikaṃ …' — check the bhāṣya._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._

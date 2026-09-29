@@ -20,4 +20,4 @@ _Notes: Described only as what the text teaches for ritual construction; no mode
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:raw_etexts:Baudhayana_Shulba_Sutra, catalog:eBharati:baudhAyanashulbasUtram, https://en.wikipedia.org/wiki/Shulba_Sutras, https://en.wikipedia.org/wiki/Baudhayana_sutras — Extant; the oldest Śulbasūtra (Wikipedia).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

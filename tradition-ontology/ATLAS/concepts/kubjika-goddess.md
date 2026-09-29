@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Kuṇḍalinī](kundalini.md) (yogic): the hymn describes her as coiled like a sleeping serpent — rests on [2.2-5](../texts/kubjikamata-tantra.md#tea-kubjikamata-tantra-2-2-5)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._

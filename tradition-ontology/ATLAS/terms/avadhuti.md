@@ -16,4 +16,4 @@
 - partial: [suṣumnā](susumna.md) — The Sekoddeśa names the avadhūtī above the navel suṣumṇā; the Hindu haṭha suṣumṇā is the corresponding central channel in a different system.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

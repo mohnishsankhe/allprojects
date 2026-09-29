@@ -1,5 +1,5 @@
 {
- "total_distinct": 430,
+ "total_distinct": 429,
  "by_prefix": {
   "lin": 24,
   "tch": 111,
@@ -7,7 +7,7 @@
   "tea": 118,
   "brw": 1,
   "prc": 11,
-  "trm": 23,
+  "trm": 22,
   "cpt": 28,
   "obs": 5,
   "dsp": 1
@@ -2425,13 +2425,6 @@
    ]
   },
   {
-   "id": "trm:anatman",
-   "refs": 1,
-   "e.g.": [
-    "trm:anatta"
-   ]
-  },
-  {
    "id": "trm:samvrti",
    "refs": 1,
    "e.g.": [
@@ -2895,6 +2888,13 @@
   },
   {
    "id": "tea:sakar-murli:supreme-soul",
+   "refs": 1,
+   "e.g.": [
+    "ult:brahma-kumaris"
+   ]
+  },
+  {
+   "id": "tea:sakar-murli:soul-point-of-light",
    "refs": 1,
    "e.g.": [
     "ult:brahma-kumaris"

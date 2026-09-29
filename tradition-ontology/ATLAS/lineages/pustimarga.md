@@ -55,4 +55,4 @@ The householder path of grace founded by Vallabhācārya: a non-dualism in which
 [Does Brahman itself transform into the world, and if so does it change?](../debates/brahma-parinama-vada.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is devotion a means to liberation, or is love of God a goal beyond liberation?](../debates/prema-beyond-moksa.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md), [What is Rādhā's status — scriptural basis, relation to Kṛṣṇa, and place in worship?](../debates/status-of-radha.md)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

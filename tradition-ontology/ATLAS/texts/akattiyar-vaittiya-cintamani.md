@@ -16,4 +16,4 @@ A medical verse-treatise ascribed to Agastya on disease, diagnosis and remedies;
 _Notes: Title and ascription recalled at low confidence; many such works circulate in 19th–20th c. printed editions and palm-leaf manuscripts with varying titles and verse counts. Summary only; no preparations._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

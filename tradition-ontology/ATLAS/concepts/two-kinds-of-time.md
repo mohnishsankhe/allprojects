@@ -13,4 +13,4 @@
 - part-of → [Time (kāla)](kala.md): the jyotiṣa analysis of time — rests on [1.10-11](../texts/surya-siddhanta.md#tea-surya-siddhanta-1-10-11)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

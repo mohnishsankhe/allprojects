@@ -14,4 +14,4 @@ The self is sought as a chariot is sought: is it other than its parts, identical
   - [Mūlamadhyamakakārikā](../texts/mulamadhyamakakarika.md) — ref: 22.1; rests_on: ["tea:mulamadhyamakakarika:22.1"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

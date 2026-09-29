@@ -17,4 +17,4 @@
 The Chinese 'long discourses', affiliated with the Dharmaguptaka, parallel to the Pali Dīgha Nikāya (e.g. DĀ 2 Yu xing jing ↔ DN 16; DĀ 21 Fandong jing ↔ DN 1; DĀ 27 ↔ DN 2).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

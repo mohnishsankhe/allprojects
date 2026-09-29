@@ -15,4 +15,4 @@ Attending to the points where the breath arises and ends - the heart and the dv�
 - partial: [Vijñāna Bhairava dhāraṇā 1: Fullness at the two points where the breath arises](vbt-dharana-1.md) — same two points of the breath
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

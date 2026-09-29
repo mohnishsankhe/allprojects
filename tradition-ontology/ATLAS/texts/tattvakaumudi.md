@@ -38,7 +38,7 @@ The better means is the direct realization of the distinctness of sattva (buddhi
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: intermediate · types: practice, karma-liberation_
 
-terms: [tattvābhyāsa](../terms/tattvabhyasa.md), [viveka](../terms/viveka.md) · concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md) · practices: [Repeated practice of the principles (tattvābhyāsa)](../practices/tattvabhyasa.md)
+terms: [tattvābhyāsa](../terms/tattvabhyasa.md), [viveka](../terms/viveka.md) · concepts: [Discriminative vision (viveka-khyāti)](../concepts/viveka-khyati.md) · practices: [Repeated practice of the principles (tattvābhyāsa)](../practices/tattvabhyasa.md)
 
 ### 2/2 <a id="tea-tattvakaumudi-2-2"></a>
 `skeleton` · confidence high
@@ -89,4 +89,4 @@ concepts: [The sixty topics of the Ṣaṣṭitantra](../concepts/sastitantra-si
 _Notes: Only the part on SK 1–15 was available locally; teachings on later verses are from memory (low confidence)._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._

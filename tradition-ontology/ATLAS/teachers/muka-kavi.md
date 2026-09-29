@@ -11,4 +11,4 @@ The 'mute poet' of Kāñcī who by tradition received speech through Kāmākṣ�
 **Realization — the tradition's account:** Mute from birth, he became a poet when the Goddess (or a devotee in her presence) gave him her grace.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

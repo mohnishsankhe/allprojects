@@ -12,4 +12,4 @@ Pitta increases by anger, grief, fear, fasting, pungent, sour, salty, sharp and 
   - [Suśruta Saṃhitā](../texts/susruta-samhita.md) — ref: Sū 15, 21; rests_on: ["tea:susruta-samhita:su.21.18-36", "tea:susruta-samhita:su.15.3-4"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

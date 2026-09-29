@@ -15,4 +15,4 @@
 Saṅghabhadra's massive defence of Vaibhāṣika orthodoxy against Vasubandhu's bhāṣya, preserving the views of the Sautrāntika Śrīlāta and others.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

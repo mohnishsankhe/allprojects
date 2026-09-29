@@ -14,4 +14,4 @@
 Gadādhara Bhaṭṭācārya's treatise on how verbal cognition is produced from case-endings and word-meanings (the analysis of śābdabodha).
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

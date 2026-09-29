@@ -14,4 +14,4 @@
 The dawn hymn to Veṅkaṭeśvara of Tirumala (with its Stotra, Prapatti and Maṅgaḷāśāsana), attributed to Prativādi Bhayaṅkaram Aṇṇaṉ, a disciple of Maṇavāḷa Māmuni.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._

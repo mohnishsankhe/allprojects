@@ -15,4 +15,4 @@ Founder of the Linji house in Zhenzhou (Hebei); heir of Huangbo. Taught the true
 **Realization — the tradition's account:** Three times he asked Huangbo the great meaning of the buddha-dharma and three times was struck; sent to Dayu and told Huangbo had been 'grandmotherly', he awoke and said 'there isn't much to Huangbo's buddha-dharma' (Linji lu, record of pilgrimage).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

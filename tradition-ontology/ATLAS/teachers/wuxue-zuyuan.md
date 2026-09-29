@@ -10,4 +10,4 @@
 Chinese master (heir of Wuzhun) invited by Hōjō Tokimune; founded Engakuji (1282).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

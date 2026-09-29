@@ -14,4 +14,4 @@
 _Notes: The Yogācāra vow ritual (Bodhisattvabhūmi) is U41._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

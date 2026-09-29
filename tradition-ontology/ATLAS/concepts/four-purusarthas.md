@@ -21,4 +21,4 @@ _Notes: The early texts speak of three aims (trivarga); mokṣa as a fourth aim 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/yajnavalkya-smrti_plain_text.md (GRETIL),  — MDh 2.224, 6.35–37, YS 2.21, Arthaśāstra 1.7.6–7 and Kāmasūtra 1.2 were all text-located. The entry's note that mokṣa as a fourth aim is a later systematization agrees with the texts: Manu, Kauṭilya and Vātsyāyana speak of the trivarga. Rests on teaching checks confirmed in this sweep: tea:manusmrti:2.224, tea:yajnavalkyasmrti:2.21, tea:arthasastra:1.7.6-7, tea:kamasutra:1.2.1-4.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

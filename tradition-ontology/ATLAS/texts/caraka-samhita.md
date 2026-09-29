@@ -1534,4 +1534,4 @@ terms: [sattva](../terms/sattva.md) · concepts: [Strength of mind (three grades
 _Notes: Refs in this unit: sthāna abbreviation + chapter.verse (su = Sūtra, ni = Nidāna, vi = Vimāna, sa = Śārīra, in = Indriya, ci = Cikitsā, ka = Kalpa, si = Siddhi); Ci 1 has four pādas (ci.1.4.30 = Cikitsā 1, pāda 4, verse 30)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

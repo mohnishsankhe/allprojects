@@ -18,4 +18,4 @@ Govindasvāmin's commentary on the Baudhāyana Dharmasūtra.
 
 - 2026-09-28 catalog: confirmed — catalog:eBharati:bodhAyana-dharmasUtram (govinda-svAmI) — Low-confidence entry confirmed as extant (eBhāratī, Baudhāyana Dharmasūtra with Govindasvāmin).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

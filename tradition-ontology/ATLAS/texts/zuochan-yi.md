@@ -30,4 +30,4 @@ practices: [Zazen / zuochan (seated meditation)](../practices/zazen.md), [Awaren
 _Notes: Dōgen's Fukanzazengi draws on it. Wording of the quoted line is from memory — no original given._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

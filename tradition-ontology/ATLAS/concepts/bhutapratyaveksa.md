@@ -14,4 +14,4 @@
 - opposes → [Meditation as mere absence of thought (as criticized)](mere-non-thought.md) — rests on [3](../texts/bhavanakrama.md#tea-bhavanakrama-3)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

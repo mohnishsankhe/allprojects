@@ -16,4 +16,4 @@ A Sanskrit commentary glossing the Siddhāntaśikhāmaṇi verse by verse with s
   - kind: original; name: Śaivabhāratī Śodhapratiṣṭhāna, Vārāṇasī 2006, with Maritoṇṭadārya's Tattvapradīpikā (Muktabodha e-text M00207)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

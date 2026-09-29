@@ -20,4 +20,4 @@
 **Related:** [vyavahāra-naya (Kundakunda)](vyavahara-naya.md), [bhūtārtha](bhutartha.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

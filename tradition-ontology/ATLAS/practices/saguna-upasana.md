@@ -12,4 +12,4 @@ Sustained meditation on Brahman with attributes or through a symbol (Oṃ, the s
   - [Brahma Sūtra](../texts/brahma-sutra.md) — ref: 4.1.4; rests_on: ["tea:brahma-sutra:4.1.4"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

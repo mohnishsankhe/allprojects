@@ -14,4 +14,4 @@ Rites of pacifying, subjugating, paralysing, dissension, driving away and killin
 - Worship without the proper rule is reckoned sorcery (abhicāra) and meets obstacles at every step. — [Mahānirvāṇa Tantra](../texts/mahanirvana-tantra.md) 5.23
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._

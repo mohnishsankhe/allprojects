@@ -25,4 +25,4 @@ concepts: [The radiant citta as the seat of ignorance](../concepts/radiant-citta
 
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

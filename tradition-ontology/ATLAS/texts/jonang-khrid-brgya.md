@@ -16,4 +16,4 @@
 Kunga Drolchok's compilation of one hundred and eight concise meditation instructions from many Indian and Tibetan lineages, later included by Kongtrul in the Treasury of Instructions.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

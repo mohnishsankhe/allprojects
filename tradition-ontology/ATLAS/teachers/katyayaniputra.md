@@ -13,4 +13,4 @@
 Author of the Jñānaprasthāna, the root text of the Sarvāstivāda Abhidharma; the Vaibhāṣikas held that he gathered the Buddha's scattered Abhidharma teachings into a treatise.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

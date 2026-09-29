@@ -27,4 +27,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.6, tea:bhagavad-gita:13.6-7 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch13-15, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch13-15, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

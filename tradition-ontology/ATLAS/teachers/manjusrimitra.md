@@ -15,4 +15,4 @@ Indian scholar who came to debate Garab Dorje, was defeated, became his disciple
 **Realization — the tradition's account:** Received Garab Dorje's testament; his own testament was the Six Meditation Experiences.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

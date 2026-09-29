@@ -16,4 +16,4 @@
 Verse numbers are the unit's count in Bhattacharya's e-text; bands are interpretive. U51 owns the Kālacakra version (pth:kalacakra-six-branches), which has the same order of limbs.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

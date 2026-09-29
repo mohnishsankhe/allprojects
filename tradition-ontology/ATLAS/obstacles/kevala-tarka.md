@@ -13,4 +13,4 @@ Trying to know Viṣṇu by reasoning alone or by the senses, apart from the tru
   - [Chāndogyopaniṣad-bhāṣya (Madhva)](../texts/chandogya-upanisad-bhasya-madhva.md) — ref: 6.8.7; rests_on: ["tea:chandogya-upanisad-bhasya-madhva:6.8.7"]
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

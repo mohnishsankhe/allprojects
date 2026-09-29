@@ -16,4 +16,4 @@
 **Related:** [tanmātra](tanmatra.md), [viśeṣa](visesa.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._

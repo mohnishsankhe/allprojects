@@ -12,7 +12,7 @@
 - [Śvetāmbara](../lineages/svetambara.md): Hemacandra describes entering another body only as a wonder useless for liberation (YŚ 6.1); Śubhacandra warns against pursuing powers through breath-control.
 
 ## Relations (interpretation layer)
-- same-as-under-standpoint → [Powers as obstacles (the warnings)](siddhis-as-obstacles.md) (signs and powers): Both traditions treat powers as distractions from liberation. — rests on [1](../texts/aptamimamsa.md#tea-aptamimamsa-1), [6.1](../texts/yogasastra-hemacandra.md#tea-yogasastra-hemacandra-6-1)
+- same-as-under-standpoint → [The powers as obstacles in samādhi (3.37)](siddhis-as-obstacles.md) (signs and powers): Both traditions treat powers as distractions from liberation. — rests on [1](../texts/aptamimamsa.md#tea-aptamimamsa-1), [6.1](../texts/yogasastra-hemacandra.md#tea-yogasastra-hemacandra-6-1)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

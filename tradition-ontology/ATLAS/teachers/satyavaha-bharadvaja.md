@@ -14,4 +14,4 @@ Link in the Muṇḍaka's line: from Aṅgir to Aṅgiras, handing on the knowle
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering) — Located: MuU 1.1.2 ('sa bhāradvājāya satyavahāya prāha'). The Advaita-Śāradā text reads 'satyavaha-'.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

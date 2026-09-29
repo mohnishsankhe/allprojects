@@ -13,4 +13,4 @@
 - contrasts-with → [Sign-aspects (Jaimini)](rasi-drsti.md): Parāśarī planetary aspect vs Jaimini sign-aspect; both are taught side by side in BPHS — rests on [2.13](../texts/brhat-jataka.md#tea-brhat-jataka-2-13), [1.1.2-3](../texts/jaimini-upadesa-sutra.md#tea-jaimini-upadesa-sutra-1-1-2-3)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

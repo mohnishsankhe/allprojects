@@ -28,4 +28,4 @@ No human guru was needed: Kabīr is the Sat Puruṣ incarnate who came in every 
 **Candidate readings:** P6-upaya: the Kabīr Panth's own reading — Kabīr modelled discipleship as a skilful means; rejected by Rāmānandīs, who hold the discipleship real; P2-standpoint: outward initiation by Rāmānanda (social standpoint) and the inner satguru (the Lord) are both affirmed; rejected by the Kabīr Panth insofar as it makes Kabīr a disciple; Scholarly chronology (metadata only): Rāmānanda's traditional dates (c. 1299–1410) make direct discipleship difficult for a Kabīr of c. 1440–1518
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

@@ -12,4 +12,4 @@ Company of the worldly, the hypocrite and the unrestrained, which undoes practic
   - [Kabīr Granthāvalī](../texts/kabir-granthavali.md) — ref: Kusaṅgati kau aṅg
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

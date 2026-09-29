@@ -16,4 +16,4 @@ Vedānta Deśika's Tamil verse summary of the Āḻvārs: their birthplaces, bir
 _Notes: Existence recalled with moderate confidence; contents summarised from memory._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._

@@ -12,4 +12,4 @@
 Sui scholar-monk (not the Huiyuan of Lushan) whose commentary on the Contemplation Sūtra ranked the nine grades by the attainments of sages and ordinary beings; Shandao's commentary argues against this reading.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

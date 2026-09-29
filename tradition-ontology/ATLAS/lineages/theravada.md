@@ -57,4 +57,4 @@ The school of the elders, the one early Indian school that survives, carrying th
 _Notes: Abhidhamma, commentaries and the modern meditation lineages are U37's; this unit supplies the canonical base. Councils are recorded in teachings from Cullavagga 11–12 and in teacher entries._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

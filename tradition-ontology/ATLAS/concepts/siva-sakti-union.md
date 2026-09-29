@@ -17,4 +17,4 @@
 - contrasts-with → [Pūrva-Kaula and Uttara-Kaula (Lakṣmīdhara)](purva-uttara-kaula.md): the Samaya equality is set against the Kaula views — rests on [41](../texts/laksmidhara.md#tea-laksmidhara-41), [23](../texts/laksmidhara.md#tea-laksmidhara-23)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

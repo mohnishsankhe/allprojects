@@ -18,4 +18,4 @@ A short doxographical verse treatise ascribed to Āryadeva, ranking Vaibhāṣik
   - kind: translation; name: Tibetan translation, Derge Tengyur D3852 (Bodhibhadra's nibandhana) — catalog:Derge-Tengyur:D3852
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

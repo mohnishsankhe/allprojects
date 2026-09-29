@@ -13,4 +13,4 @@
 - contrasts-with → [The two truths (satyadvaya)](two-truths.md): Madhyamaka two truths
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

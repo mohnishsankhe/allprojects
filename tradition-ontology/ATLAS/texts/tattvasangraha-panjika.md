@@ -62,4 +62,4 @@ terms: [bhūta-caitanya](../terms/bhuta-caitanya.md) · concepts: [Consciousness
 
 
 ---
-_Contributed by: skeleton:U33-sramana, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U33-sramana, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

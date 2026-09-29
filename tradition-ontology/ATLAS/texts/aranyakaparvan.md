@@ -24,4 +24,4 @@ The book of the forest (vulgate: Vanaparvan): the twelve years of exile, with ma
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_3.json (BORI Critical Edition text) book 3: 299 chapters — Book 3 has exactly 299 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

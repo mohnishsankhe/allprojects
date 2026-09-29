@@ -13,4 +13,4 @@ The worship of the Kṛṣṇa image installed by Madhva at Uḍupi, performed i
 _Notes: The rotation rules are recorded from memory (see lin:udupi-asta-matha)._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

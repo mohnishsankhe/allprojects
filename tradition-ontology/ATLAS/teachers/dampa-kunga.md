@@ -10,4 +10,4 @@
 Principal Tibetan disciple of Padampa Sangye at Dingri and holder of the later transmission of Pacification.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

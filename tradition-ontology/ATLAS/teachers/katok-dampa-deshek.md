@@ -9,4 +9,4 @@
 Founder of Katok monastery in Kham (1159), a centre of the kama transmission; the first of the six 'mother' monasteries in time.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

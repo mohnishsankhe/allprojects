@@ -12,4 +12,4 @@ Vowing to save the beings of one's own mind, cut off its afflictions, learn the 
   - [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) — ref: 9.3; rests_on: ["tea:platform-sutra:9.3"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

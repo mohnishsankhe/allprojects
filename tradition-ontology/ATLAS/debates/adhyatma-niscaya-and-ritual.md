@@ -40,4 +40,4 @@ P1: niścaya and vyavahāra are the Jain form of the ultimate/conventional disti
 **The traditions' own objections:** The Śvetāmbara critics do not accept the Adhyātmī rejection of image rites and of monastic authority as a valid vyavahāra; the sectarian questions (kevalin's eating, clothing) remain separate and unreconciled (see dsp:kevali-bhukti).
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

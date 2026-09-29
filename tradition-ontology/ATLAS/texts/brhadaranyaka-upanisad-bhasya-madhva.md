@@ -17,4 +17,4 @@ one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of al
 **Commentaries on this text:** [Bṛhadāraṇyaka-bhāṣya-bhāvabodha](brhadaranyaka-bhasya-bhavabodha.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

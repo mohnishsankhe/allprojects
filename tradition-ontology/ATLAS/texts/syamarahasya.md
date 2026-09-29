@@ -16,4 +16,4 @@ Pūrṇānanda's digest of the worship of Śyāmā (Dakṣiṇakālī), widely u
 _Notes: Not in the local corpus; printed editions exist (Calcutta)._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._

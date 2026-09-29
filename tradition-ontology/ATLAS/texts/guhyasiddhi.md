@@ -15,4 +15,4 @@ Padmavajra's 'Accomplishment of the Secret', on the Guhyasamāja's practice and 
   - kind: translation; name: Derge Tengyur, Tōh 2217 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-tengyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

@@ -10,4 +10,4 @@ Author of the Indian commentary on Nāgārjuna's Ratnāvalī preserved in Tibeta
 _Notes: The commentary is D4159 (catalog:Derge-Tengyur:D4159); author's name from memory._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

@@ -12,4 +12,4 @@ Slowness or scattering of eloquence, yawning and laughing while copying, wearine
   - [Aṣṭasāhasrikā Prajñāpāramitā](../texts/astasahasrika-prajnaparamita.md) — ref: ch. 11, 17, 21; rests_on: ["tea:astasahasrika-prajnaparamita:11", "tea:astasahasrika-prajnaparamita:17"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

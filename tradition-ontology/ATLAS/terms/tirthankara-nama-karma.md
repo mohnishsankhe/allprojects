@@ -19,4 +19,4 @@
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:6.24, tea:tattvartha-sutra:8.11 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

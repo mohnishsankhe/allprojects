@@ -14,4 +14,4 @@
 Deśika's verse work on Pūrva Mīmāṃsā, read theistically as one science with Vedānta.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._

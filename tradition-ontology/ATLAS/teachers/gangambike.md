@@ -10,4 +10,4 @@
 Basava's wife, daughter of the minister Baladēva; a vacanakāra.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

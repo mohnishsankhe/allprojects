@@ -8,4 +8,4 @@
 Vārkarī teacher (d. 1920) who founded the Vārkarī Śikṣaṇ Saṃsthā at Āḷandī (1917) to train kīrtankārs in the Jñāneśvarī and the saints' texts.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

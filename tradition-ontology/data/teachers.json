@@ -70616,6 +70616,45 @@
   }
  },
  {
+  "id": "tch:nandisvara-bhasya-example",
+  "name": "Nandīśvara (as named in the Yoga-bhāṣya on 4.3)",
+  "lineages": [
+   "lin:patanjala-yoga"
+  ],
+  "summary": "Named in the bhāṣya on YS 4.3 as one of those to be cited as an example of dharma removing the obstruction of adharma; nothing more is stated in the passage. Not to be confused with the Nandīśvara of the Prābhākara tradition.",
+  "historicity": "unknown",
+  "works": [],
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:4.3"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p3-4"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:nangzher-lopo",
   "name": "Gyerpung Nangzher Löpo (gyer spungs snang bzher lod po)",
   "lineages": [
@@ -119612,7 +119651,7 @@
      "confidence": "moderate"
     },
     "reason": "Web: Viṣṇucitta, author of the Viṣṇucittīya on the Viṣṇu Purāṇa, c. 12th c., pupil of Piḷḷāṉ (a direct disciple of Rāmānuja). The entry had no date ('dating not checked'); a dating is supplied.",
-    "date": "2026-09-29 22:03 IST",
+    "date": "2026-09-29 22:32 IST",
     "by": "sourcing:U07-puranas"
    }
   ],

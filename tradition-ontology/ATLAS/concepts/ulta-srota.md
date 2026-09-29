@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Bindu and its retention](bindu-natha.md) (body-breath): The haṭha and Nāth idea of the upward-turned seed, in a devotional and couple-based frame; the Bāuls would not accept a purely yogic reading. — rests on [adhar-manus-and-the-tide](../texts/baul-gan.md#tea-baul-gan-adhar-manus-and-the-tide)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

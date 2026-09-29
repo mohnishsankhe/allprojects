@@ -15,4 +15,4 @@
 - contrasts-with → [The gods as names of the One](gods-as-names-of-the-one.md): The One is spoken of both as beyond the gods (10.129.6: the gods are later) and as what the gods' names name (1.164.46). — rests on [10.129.6](../texts/rgveda.md#tea-rgveda-10-129-6), [1.164.46](../texts/rgveda.md#tea-rgveda-1-164-46)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

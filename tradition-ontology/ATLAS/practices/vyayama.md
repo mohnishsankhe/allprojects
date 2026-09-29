@@ -18,4 +18,4 @@ Bodily exertion for steadiness and strength, done in measure — to half one's s
 - To be avoided by the vāta- and pitta-afflicted, children, the old and those with indigestion. — [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) Sū 2.11
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

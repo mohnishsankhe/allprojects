@@ -32,4 +32,4 @@ _Notes: Homonym: other units define jāti as birth or social class._
 
 - 2026-09-29 text: partially-confirmed — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J.
 
-_Contributed by: extraction:mahasatipatthana-sutta/all, skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva, skeleton:U36-pali-suttas, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U27-sant-baul, skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:mahasatipatthana-sutta/all, skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva, skeleton:U36-pali-suttas, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U27-sant-baul, skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

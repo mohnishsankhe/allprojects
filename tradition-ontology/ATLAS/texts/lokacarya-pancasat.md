@@ -14,4 +14,4 @@
 Fifty verses in praise of Piḷḷai Lokācārya that the Teṅkalai tradition attributes to Vedānta Deśika; the attribution is not accepted by all.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._

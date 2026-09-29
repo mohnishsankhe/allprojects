@@ -17,4 +17,4 @@
 _Notes: The compound is a commentarial and later label; the Gītā speaks of abandoning attachment (saṅga) and the fruit (phala)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

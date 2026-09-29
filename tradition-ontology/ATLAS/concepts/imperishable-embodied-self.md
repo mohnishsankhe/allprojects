@@ -23,4 +23,4 @@ _Notes: Merger: probably the same as the skeleton's broader cpt:the-self (BhG 2.
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.5, tea:bhagavad-gita:14.20 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:32 IST._

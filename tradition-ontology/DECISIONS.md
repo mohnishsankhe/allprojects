@@ -304,3 +304,13 @@ Conservative choices made without asking, with reasons. Newest last.
 - **Temperament** needs 3+ cues from 2+ markers across 3+ units and tops out at moderate, as the Visuddhimagga's own caution warrants. **Guṇa** tops out at moderate.
 - **YS 2.4 states:** only udāra may ever be attached, under strict conditions.
 - rules/specificity.json (mine) and the specificity section of the mapping rules overlap. The mapping rules govern mappings; specificity.json governs report insights. Both apply.
+
+## 2026-09-29 22:32 IST — Yoga Sūtra and Vyāsa judge: both chunks below 95%, so all 404 entries were checked
+- Sample faithful as written: p1-2 16/22 (72.7%), p3-4 18/19 (94.7%). Both chunks were checked entry by entry: 215 + 189 teachings; 62 + 53 fixed; 484 entities copied, 10 corrected. Merged: text-verified teachings now number 1,271. The diagnosis layer now has 84 of 102 entries usable.
+- Renderings fixed as policy:
+  - tāpa → "torment" (not "anxiety");
+  - cetana/acetana → "sentient/insentient";
+  - arthavāda labels stay out of text-layer notes (they belong to the interpretation layer);
+  - YS 3.37 applies to the perceptions of 3.36 only, not to all powers.
+- The judge removed 123 wrong-sense links (43 term ids, 2 concept ids, 5 replacements). Each is listed with its reason in shards/extraction/yoga-sutra/*/fidelity.jsonl. The root cause is systemic: many data/terms.json entries carry only another tradition's sense. It goes to NEXT_STEPS (Yoga-sense definitions plus a lineage check before linking), and the Role S brief already requires the sense check.
+- tea:yoga-bhasya:mangala stays undecided (its source line is not in the prepared segments); it is listed in NEXT_STEPS. Nothing user-facing depends on it.

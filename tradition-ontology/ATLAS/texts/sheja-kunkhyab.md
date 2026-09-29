@@ -53,4 +53,4 @@ terms: [dbu ma chen po (Uma Chenpo)](../terms/uma-chenpo.md), [gzhan stong (zhen
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000153 "gdul zhing snod bcud kyi 'jig rten rim par phye ba / Myriad Worlds", catalog:OpenPecha:P000055 "rgyal bstan 'dzam bu'i gling du ji ltar dar ba'i rim par phye ba", catalog:OpenPecha:P000207 "lhag pa tshul khrims kyi bslab pa'i rim par phye ba", catalog:OpenPecha:P000067 "lh — catalogue holds individual books under Kongtrul's name; the whole-work title itself was not searched successfully
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

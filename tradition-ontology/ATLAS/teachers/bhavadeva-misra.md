@@ -13,4 +13,4 @@ Author of the Yuktabhavadeva (1623), which combines haṭha practice with the P�
 _Notes: Distinct from the Mīmāṃsaka/Dharmaśāstra author Bhavadeva Bhaṭṭa (tch:bhavadeva-bhatta)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

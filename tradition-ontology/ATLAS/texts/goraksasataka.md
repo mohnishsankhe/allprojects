@@ -49,7 +49,7 @@ Posture, breath-control, withdrawal, concentration, meditation and samādhi: the
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: all · types: practice_
 
-terms: [āsana](../terms/asana.md), [pratyāhāra](../terms/pratyahara.md), [dhāraṇā](../terms/dharana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [samādhi](../terms/samadhi.md)
+terms: [āsana](../terms/asana.md), [pratyāhāra](../terms/pratyahara.md), [dhāraṇā](../terms/dharana.md), [dhyāna](../terms/dhyana.md), [samādhi](../terms/samadhi.md)
 
 ### 5-7 <a id="tea-goraksasataka-5-7"></a>
 `skeleton` · confidence high
@@ -278,7 +278,7 @@ The sun draws in the stream of nectar from the moon — that drawing-in is its p
 
 _level: conventional · standpoint: causal · path: body-breath · stage: all · types: body-layers, practice_
 
-terms: [sūrya](../terms/surya.md), [candra / śaśin / soma](../terms/candra.md), [amṛta](../terms/amrta.md) · concepts: [Sun, moon and fire in the body](../concepts/sun-moon-fire.md), [The nectar of the moon (amṛta)](../concepts/amrta-natha.md) · practices: [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md), [Viparītakaraṇī (the inverting technique)](../practices/viparita-karani.md) · obstacles: [The sun's swallowing of the moon's nectar (the cause of ageing)](../obstacles/sun-swallows-nectar.md)
+terms: [sūrya](../terms/surya.md), [candra / śaśin / soma](../terms/candra.md), [amṛta](../terms/amrta.md) · concepts: [Sun, moon and fire in the body](../concepts/sun-moon-fire.md), [The nectar of the moon (amṛta)](../concepts/amrta-natha.md) · practices: [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](../practices/pratyahara.md), [Viparītakaraṇī (the inverting technique)](../practices/viparita-karani.md) · obstacles: [The sun's swallowing of the moon's nectar (the cause of ageing)](../obstacles/sun-swallows-nectar.md)
 
 ### 56 <a id="tea-goraksasataka-56"></a>
 `skeleton` · confidence high
@@ -373,7 +373,7 @@ When the mind is fixed on a principle, that is meditation; it is of two kinds, w
 
 _level: bridging · standpoint: analytic · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md) · practices: [Meditation with and without qualities (Gorakṣaśataka)](../practices/gs-saguna-nirguna-dhyana.md), [Meditation with and without qualities](../practices/saguna-nirguna-dhyana.md)
+terms: [dhyāna](../terms/dhyana.md) · practices: [Meditation with and without qualities (Gorakṣaśataka)](../practices/gs-saguna-nirguna-dhyana.md), [Meditation with and without qualities](../practices/saguna-nirguna-dhyana.md)
 
 ### 78-88 <a id="tea-goraksasataka-78-88"></a>
 `skeleton` · confidence moderate
@@ -439,4 +439,4 @@ terms: [pada](../terms/pada.md) · concepts: [Equal taste (samarasa)](../concept
 _Notes: Refs in this shard follow the Kuvalayananda–Shukla (GRETIL) numbering. U28 may add the haṭha analysis._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

@@ -14,4 +14,4 @@
 - part-of → [The realms of rebirth](rebirth-realms.md) — rests on [35-43](../texts/mahasihanada-sutta.md#tea-mahasihanada-sutta-35-43)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

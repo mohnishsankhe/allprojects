@@ -14,4 +14,4 @@
   - [Prabhuliṅgalīle (Cāmarasa)](../texts/prabhulingalile.md) — ref: Māyā episode; rests_on: ["tea:prabhulingalile:episode-maya"]
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

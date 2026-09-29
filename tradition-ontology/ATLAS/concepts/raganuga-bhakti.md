@@ -13,4 +13,4 @@
 - contrasts-with → [Devotion by rule (vaidhī bhakti)](vaidhi-bhakti.md) — rests on [1.2.6](../texts/bhaktirasamrtasindhu.md#tea-bhaktirasamrtasindhu-1-2-6)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

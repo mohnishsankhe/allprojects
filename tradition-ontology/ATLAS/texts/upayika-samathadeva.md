@@ -15,4 +15,4 @@
 Śamathadeva's collection, in Tibetan, of the sūtra passages cited in the Kośa, preserving many (Mūla)sarvāstivāda Āgama sūtras in full; a key witness for Āgama parallels.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

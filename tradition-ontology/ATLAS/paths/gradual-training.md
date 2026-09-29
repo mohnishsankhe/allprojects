@@ -32,4 +32,4 @@
 Band B4 for the direct knowledges is an interpretation: the texts present them as attainments of the concentrated mind before the final knowledge, not as insight.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

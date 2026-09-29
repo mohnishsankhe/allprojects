@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A weaver who made loincloths and sacred th
 **Realization — the tradition's account:** A weaver who made loincloths and sacred threads for devotees.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

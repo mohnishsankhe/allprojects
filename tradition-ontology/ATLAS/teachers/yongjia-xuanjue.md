@@ -13,4 +13,4 @@
 Tiantai-trained monk said to have been confirmed by Huineng after one night ('the one-night guest'); credited with the Zhengdao ge and the Yongjia ji.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

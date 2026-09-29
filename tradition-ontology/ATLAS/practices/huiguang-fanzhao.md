@@ -14,4 +14,4 @@ Turning awareness back from its objects to its source — asking who it is that 
   - [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) — ref: 4.16; rests_on: ["tea:platform-sutra:4.16"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

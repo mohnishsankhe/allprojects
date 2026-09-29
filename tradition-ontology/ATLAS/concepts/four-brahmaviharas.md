@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](four-attitudes.md): YS 1.33's maitrī, karuṇā, muditā, upekṣā; see brw:buddhism-yoga-four-attitudes — rests on [76-81](../texts/tevijja-sutta.md#tea-tevijja-sutta-76-81), [1-10](../texts/metta-sutta.md#tea-metta-sutta-1-10)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

@@ -26,4 +26,4 @@ Gautama's answer (for Mahāvīra's line): the law is stated according to the dis
 **The traditions' own objections:** The Digambaras do not accept the Uttarādhyayana and hold that the monks of every Tīrthaṅkara went naked; the reconciliation is the Śvetāmbara canon's own.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

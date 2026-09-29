@@ -11,4 +11,4 @@ The fifth fetter (ill will), abandoned by the non-returner.
   - [Mahāmāluṅkya Sutta](../texts/mahamalunkya-sutta.md) — ref: 3-15; rests_on: ["tea:mahamalunkya-sutta:3-15"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

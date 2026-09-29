@@ -16,4 +16,4 @@ Meditating on "that" (tat; not named in the passage, the vallī's subject being 
 
 - 2026-09-29 text: corrected — tea:taittiriya-upanisad:3.10.2, tea:taittiriya-upanisad:3.10.3, tea:taittiriya-upanisad:3.10.4 — Corrected by J: method_summary: the object "that" (tat) is not named in 3.10.2-3; "brahman" is now marked as the vallī's subject rather than the passage's word.
 
-_Contributed by: extraction:taittiriya-upanisad/kosa. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:taittiriya-upanisad/kosa. Generated 2026-09-29 22:32 IST._

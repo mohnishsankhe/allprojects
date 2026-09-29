@@ -22,4 +22,4 @@ Visualising the suffering of others (beginning with one's own future suffering) 
 - partial: [Exchanging self and other](exchanging-self-and-other.md) — tonglen is the meditative technique of the exchange
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

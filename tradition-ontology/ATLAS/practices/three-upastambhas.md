@@ -13,4 +13,4 @@ Right use of food, sleep and continence, by which the body is upheld as a house 
   - [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) — ref: Sū 7.52; rests_on: ["tea:astanga-hrdaya:su.7.52-56"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

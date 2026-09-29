@@ -16,4 +16,4 @@
 - corresponds-to-in-map → [The void (śūnya, bayalu) in Allama Prabhu](sunya-allama.md)
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._

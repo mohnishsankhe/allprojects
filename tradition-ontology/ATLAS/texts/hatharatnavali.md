@@ -51,4 +51,4 @@ terms: [mahāyoga](../terms/mahayoga.md) · concepts: [The four yogas as one gre
 _Notes: Contents recalled in outline; the Andhra provenance is a low-confidence recollection._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

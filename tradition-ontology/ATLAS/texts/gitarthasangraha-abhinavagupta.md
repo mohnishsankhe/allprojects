@@ -24,4 +24,4 @@ _Notes: Title shared with Yāmuna's work; disambiguated by author._
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/gita/data/commentary.json (Sri Abhinavgupta), https://www.academia.edu/82753123/Abhinavagupta_on_the_Kashmirian_G%C4%ABt%C4%81 — Extant and digitized; commentary on the Kashmirian recension confirmed.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

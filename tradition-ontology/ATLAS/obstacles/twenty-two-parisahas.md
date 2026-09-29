@@ -13,4 +13,4 @@ Hunger, thirst, cold, heat and the other afflictions that may make an ascetic sw
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 9.9; rests_on: ["tea:tattvartha-sutra:9.9"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

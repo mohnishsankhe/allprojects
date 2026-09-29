@@ -31,4 +31,4 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 12.3.1 (the Earth laughs at kings) to 12.3.13 (all became mere stories) confirmed; the 'approx.' can be dropped.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

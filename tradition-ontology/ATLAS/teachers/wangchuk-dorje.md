@@ -14,4 +14,4 @@
 Author of the three classic Karma Kagyu Mahāmudrā manuals: the Ocean of Definitive Meaning, Dispelling the Darkness of Ignorance and Pointing Out the Dharmakāya.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

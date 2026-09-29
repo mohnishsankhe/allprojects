@@ -11,4 +11,4 @@
 Appayya Dīkṣita's short work on the 'three jewels' — Śiva, his Śakti and Viṣṇu (as Śiva's śakti) — from a Śaiva standpoint.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

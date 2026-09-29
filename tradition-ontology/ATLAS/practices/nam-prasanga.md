@@ -12,4 +12,4 @@ In the nāmghar, before the book on the guru-āsana, a leader sings verses of th
   - [Kīrtana-ghoṣā](../texts/kirtana-ghosa.md) — ref: passim; rests_on: ["tea:kirtana-ghosa:ajamila"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

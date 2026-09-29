@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The guru in the Nāth tradition](natha-guru.md) (haṭha manuals vs the Nāth order): the same teaching seen in the texts and in the living Nāth order (U21) — rests on [3.128-130](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-3-128-130)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

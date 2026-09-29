@@ -13,4 +13,4 @@ Author of the Braj Bhāṣā Jogapradīpikā (1737), a vernacular haṭha compen
 _Notes: Sectarian affiliation low confidence._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

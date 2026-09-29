@@ -15,4 +15,4 @@ By blocking all the currents (srotas), with the breath-power slowly rising upwar
 _Notes: Verses 67 (KSTS 8 / GRETIL numbering). Summary only; no method or duration is supplied._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

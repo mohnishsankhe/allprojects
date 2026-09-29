@@ -19,4 +19,4 @@
 **Related:** [anumāna](anumana.md), [svātantrika](svatantrika.md), [prasaṅga](prasanga.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

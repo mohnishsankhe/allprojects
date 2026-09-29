@@ -15,4 +15,4 @@ A modern Sanskrit commentary on the Yoga Sūtras. Its introduction surveys the d
 _Notes: Only the Samādhipāda is in the local raw_etexts file; author and date not identified (gap)._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._

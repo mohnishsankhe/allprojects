@@ -22,4 +22,4 @@ Nīlakaṇṭha's commentary on the whole Mahābhārata (vulgate), including the
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Neelakantha_Chaturdhara, https://archive.org/details/mahabharata_nk, local:sources_raw/gita/data/commentary.json (Sri Neelkanth) — Late 17th-c. Advaita commentary on the whole (vulgate) Mahābhārata, dated 1650–1700, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

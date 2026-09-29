@@ -20,4 +20,4 @@ A four-adhyāya supplement to the twelve adhyāyas of the Mīmāṃsā Sūtra, a
 _Notes: The name 'Devatā-kāṇḍa' and the connection with deities are the tradition's; I could not check the extant state of the sūtras here. Commentary: Devasvāmin's bhāṣya (src:sankarsa-kanda-bhasya)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._

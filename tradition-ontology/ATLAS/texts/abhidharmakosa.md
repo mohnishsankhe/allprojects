@@ -1397,7 +1397,7 @@ The dhyānas are four, of two kinds: as births and as attainments. The attainmen
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [samāpatti](../terms/samapatti.md) · practices: [The four dhyānas](../practices/four-dhyanas.md)
+terms: [dhyāna](../terms/dhyana.md), [samāpatti](../terms/samapatti.md) · practices: [The four dhyānas](../practices/four-dhyanas.md)
 
 ### 8.2-4 <a id="tea-abhidharmakosa-8-2-4"></a>
 `skeleton` · confidence high
@@ -1417,7 +1417,7 @@ The first dhyāna has five factors: reasoning, investigation, joy, pleasure and 
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md) · practices: [The four dhyānas](../practices/four-dhyanas.md)
+terms: [dhyāna](../terms/dhyana.md) · practices: [The four dhyānas](../practices/four-dhyanas.md)
 
 ### 8.24-25 <a id="tea-abhidharmakosa-8-24-25"></a>
 `skeleton` · confidence high
@@ -1496,4 +1496,4 @@ terms: [saddharma](../terms/saddharma.md) · concepts: [The two aspects of the t
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

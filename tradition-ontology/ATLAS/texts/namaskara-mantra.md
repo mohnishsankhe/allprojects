@@ -40,4 +40,4 @@ terms: [cūlikā](../terms/culika.md), [namaskāra-mantra](../terms/namaskara-ma
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

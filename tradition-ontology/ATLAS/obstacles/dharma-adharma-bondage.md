@@ -13,4 +13,4 @@ Both merit and demerit bind: engaged in through desire and aversion, they bring 
   - [Padārthadharmasaṅgraha](../texts/padarthadharmasangraha.md) — ref: dharma section; rests_on: ["tea:padarthadharmasangraha:moksa"]
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

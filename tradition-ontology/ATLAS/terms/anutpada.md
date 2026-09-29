@@ -20,4 +20,4 @@
 **Related:** [pratītyasamutpāda](pratityasamutpada.md), [anutpattika-dharma-kṣānti](anutpattika-dharma-ksanti.md), [śūnyatā](sunyata.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

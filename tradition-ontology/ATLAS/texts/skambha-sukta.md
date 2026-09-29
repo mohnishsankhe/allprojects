@@ -19,4 +19,4 @@ Two long hymns asking in which limb of Skambha, the 'frame' or 'pillar' of the w
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/atharvaveda-samhita_saunaka_rechension_unachchented_teXt.md (GRETIL, Roth–Whitney numbering), text:sources_raw/DharmicData/AtharvaVeda/atharvaveda_kaanda_10.json (sūkta headers: seer/deity) — 10.7 (Skambha; header seer Atharvan, deity Skambha or Ātman) and 10.8 (jyeṣṭha brahman; seer Kutsa, deity Ātman) located; 10.7.17 and 10.8.44 read as summarised.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

@@ -32,7 +32,7 @@ Now, the complete cessation of the threefold suffering is the supreme human goal
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: beginner · types: karma-liberation_
 
-terms: [duḥkhatraya](../terms/duhkhatraya.md), [puruṣārtha](../terms/purusartha.md) · concepts: [The three kinds of suffering (duḥkhatraya)](../concepts/three-kinds-of-suffering.md), [Isolation (kaivalya)](../concepts/kaivalya.md)
+terms: [duḥkhatraya](../terms/duhkhatraya.md), [puruṣārtha](../terms/purusartha.md) · concepts: [The three kinds of suffering (duḥkhatraya)](../concepts/three-kinds-of-suffering.md), [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md)
 
 ### 1.2-6 <a id="tea-samkhya-sutra-1-2-6"></a>
 `skeleton` · confidence moderate
@@ -86,7 +86,7 @@ The conjunction (of puruṣa with prakṛti) is due to non-discrimination; it is
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [aviveka](../terms/aviveka.md), [viveka](../terms/viveka.md), [saṃyoga](../terms/samyoga.md) · concepts: [The conjunction of puruṣa and prakṛti (saṃyoga)](../concepts/conjunction-of-purusa-and-prakrti.md), [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md) · obstacles: [Non-discrimination (aviveka)](../obstacles/aviveka.md)
+terms: [aviveka](../terms/aviveka.md), [viveka](../terms/viveka.md), [saṃyoga](../terms/samyoga.md) · concepts: [The conjunction of puruṣa and prakṛti (saṃyoga)](../concepts/conjunction-of-purusa-and-prakrti.md), [Discriminative vision (viveka-khyāti)](../concepts/viveka-khyati.md) · obstacles: [Non-discrimination (aviveka)](../obstacles/aviveka.md)
 
 ### 1.61 <a id="tea-samkhya-sutra-1-61"></a>
 `skeleton` · confidence moderate
@@ -265,7 +265,7 @@ Liberation comes from knowledge, bondage from error; since (knowledge) is the fi
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md), [Isolation (kaivalya)](../concepts/kaivalya.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
+concepts: [Discriminative vision (viveka-khyāti)](../concepts/viveka-khyati.md), [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.30-31 <a id="tea-samkhya-sutra-3-30-31"></a>
 `skeleton` · confidence moderate
@@ -274,7 +274,7 @@ Meditation (dhyāna) is the removal of passion; it is accomplished through the c
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: intermediate · types: practice_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md) · practices: [Meditation as objectless mind (dhyāna)](../practices/nirvisaya-dhyana.md) · obstacles: [Passion, attachment (rāga)](../obstacles/raga.md)
+terms: [dhyāna](../terms/dhyana.md) · practices: [Meditation as objectless mind (dhyāna)](../practices/nirvisaya-dhyana.md) · obstacles: [Attachment (rāga)](../obstacles/raga.md)
 
 ### 3.32-36 <a id="tea-samkhya-sutra-3-32-36"></a>
 `skeleton` · confidence moderate
@@ -283,7 +283,7 @@ It is accomplished by concentration, posture and one's own duty; restraint (of b
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: beginner · types: practice, ethics_
 
-terms: [āsana](../terms/asana.md), [abhyāsa](../terms/abhyasa.md), [vairāgya](../terms/vairagya.md) · practices: [Concentration (dhāraṇā)](../practices/dharana.md), [Posture (āsana)](../practices/asana.md), [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md), [Performing one's own duty (svakarma)](../practices/svakarma.md), [Dispassion (vairāgya)](../practices/vairagya.md)
+terms: [āsana](../terms/asana.md), [abhyāsa](../terms/abhyasa.md), [vairāgya](../terms/vairagya.md) · practices: [Dhāraṇā (concentration)](../practices/dharana.md), [Posture (āsana)](../practices/asana.md), [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md), [Performing one's own duty (svakarma)](../practices/svakarma.md), [Dispassion (vairāgya)](../practices/vairagya.md)
 
 ### 3.54 <a id="tea-samkhya-sutra-3-54"></a>
 `skeleton` · confidence moderate
@@ -319,7 +319,7 @@ On discriminative knowledge pradhāna's creation ceases, like a cook's when the 
 
 _level: ultimate · standpoint: cosmic · path: knowledge · stage: realized · types: karma-liberation_
 
-concepts: [Isolation (kaivalya)](../concepts/kaivalya.md)
+concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md)
 
 ### 3.70-74 <a id="tea-samkhya-sutra-3-70-74"></a>
 `skeleton` · confidence moderate
@@ -328,7 +328,7 @@ Though active, prakṛti ceases like a dancer when her purpose is served; once h
 
 _level: ultimate · standpoint: cosmic · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: [Isolation (kaivalya)](../concepts/kaivalya.md), [The eight dispositions of buddhi (bhāva)](../concepts/eight-bhavas.md)
+concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md), [The eight dispositions of buddhi (bhāva)](../concepts/eight-bhavas.md)
 
 ### 3.76 <a id="tea-samkhya-sutra-3-76"></a>
 `skeleton` · confidence moderate
@@ -339,7 +339,7 @@ Discrimination is accomplished through practice of the principles, by giving up 
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: advanced · types: practice, karma-liberation_
 
-terms: [tattvābhyāsa](../terms/tattvabhyasa.md), [neti neti](../terms/neti-neti.md), [viveka](../terms/viveka.md) · concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md), ['Not so, not so' (neti neti)](../concepts/neti-neti.md) · practices: [Repeated practice of the principles (tattvābhyāsa)](../practices/tattvabhyasa.md), [Negation 'not this, not this'](../practices/neti-neti.md)
+terms: [tattvābhyāsa](../terms/tattvabhyasa.md), [neti neti](../terms/neti-neti.md), [viveka](../terms/viveka.md) · concepts: [Discriminative vision (viveka-khyāti)](../concepts/viveka-khyati.md), ['Not so, not so' (neti neti)](../concepts/neti-neti.md) · practices: [Repeated practice of the principles (tattvābhyāsa)](../practices/tattvabhyasa.md), [Negation 'not this, not this'](../practices/neti-neti.md)
 
 ### 3.77 <a id="tea-samkhya-sutra-3-77"></a>
 `skeleton` · confidence moderate
@@ -366,7 +366,7 @@ Through discrimination, with the complete cessation of suffering, one is fulfill
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: realized · types: karma-liberation_
 
-concepts: [Isolation (kaivalya)](../concepts/kaivalya.md)
+concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md)
 
 ### 4.1 <a id="tea-samkhya-sutra-4-1"></a>
 `skeleton` · confidence moderate
@@ -393,7 +393,7 @@ Brooding on what is not a means leads to bondage, as with Bharata.
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: practice_
 
-obstacles: [Passion, attachment (rāga)](../obstacles/raga.md)
+obstacles: [Attachment (rāga)](../obstacles/raga.md)
 
 ### 4.11 <a id="tea-samkhya-sutra-4-11"></a>
 `skeleton` · confidence moderate
@@ -445,7 +445,7 @@ Passion is not quieted by enjoyment, as with the sage (Saubhari); (it is quieted
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: practice_
 
-practices: [Seeing the faults (doṣa-darśana)](../practices/dosa-darsana.md) · obstacles: [Passion, attachment (rāga)](../obstacles/raga.md)
+practices: [Seeing the faults (doṣa-darśana)](../practices/dosa-darsana.md) · obstacles: [Attachment (rāga)](../obstacles/raga.md)
 
 ### 4.29-30 <a id="tea-samkhya-sutra-4-29-30"></a>
 `skeleton` · confidence moderate
@@ -535,7 +535,7 @@ Liberation is not the manifestation of bliss (the self has no properties), nor t
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-concepts: [Isolation (kaivalya)](../concepts/kaivalya.md) · disputes: [What is liberation?](../debates/nature-of-liberation.md)
+concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md) · disputes: [What is liberation?](../debates/nature-of-liberation.md)
 
 ### 5.84 <a id="tea-samkhya-sutra-5-84"></a>
 `skeleton` · confidence moderate
@@ -607,7 +607,7 @@ Non-discrimination is beginningless; it is destroyed by its own definite cause, 
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: [Isolation (kaivalya)](../concepts/kaivalya.md) · obstacles: [Non-discrimination (aviveka)](../obstacles/aviveka.md)
+concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md) · obstacles: [Non-discrimination (aviveka)](../obstacles/aviveka.md)
 
 ### 6.20 <a id="tea-samkhya-sutra-6-20"></a>
 `skeleton` · confidence moderate
@@ -616,7 +616,7 @@ Liberation is the destruction of obstacles, nothing more.
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: [Isolation (kaivalya)](../concepts/kaivalya.md) · disputes: [What is liberation?](../debates/nature-of-liberation.md)
+concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md) · disputes: [What is liberation?](../debates/nature-of-liberation.md)
 
 ### 6.22-25 <a id="tea-samkhya-sutra-6-22-25"></a>
 `skeleton` · confidence moderate
@@ -627,7 +627,7 @@ Because the qualified are of three kinds there is no fixed rule; (the later prac
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: practice_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [āsana](../terms/asana.md) · practices: [Meditation as objectless mind (dhyāna)](../practices/nirvisaya-dhyana.md), [Posture (āsana)](../practices/asana.md)
+terms: [dhyāna](../terms/dhyana.md), [āsana](../terms/asana.md) · practices: [Meditation as objectless mind (dhyāna)](../practices/nirvisaya-dhyana.md), [Posture (āsana)](../practices/asana.md)
 
 ### 6.28-31 <a id="tea-samkhya-sutra-6-28-31"></a>
 `skeleton` · confidence moderate
@@ -636,7 +636,7 @@ terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [āsana](../terms/asana.md
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [laya](../terms/laya.md), [vikṣepa](../terms/viksepa.md), [uparāga](../terms/uparaga.md) · practices: [Meditation as objectless mind (dhyāna)](../practices/nirvisaya-dhyana.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Dispassion (vairāgya)](../practices/vairagya.md) · obstacles: [Sinking (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md)
+terms: [laya](../terms/laya.md), [vikṣepa](../terms/viksepa.md), [uparāga](../terms/uparaga.md) · practices: [Meditation as objectless mind (dhyāna)](../practices/nirvisaya-dhyana.md), [Dhāraṇā (concentration)](../practices/dharana.md), [Dispassion (vairāgya)](../practices/vairagya.md) · obstacles: [Sinking (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md)
 
 ### 6.34 <a id="tea-samkhya-sutra-6-34"></a>
 `skeleton` · confidence moderate
@@ -703,4 +703,4 @@ teachers: [Pañcaśikha](../teachers/pancasikha.md), [Sanandana](../teachers/san
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._

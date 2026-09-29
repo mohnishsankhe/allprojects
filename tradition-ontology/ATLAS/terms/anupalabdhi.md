@@ -19,4 +19,4 @@
 **Related:** [abhāva-pramāṇa](abhava-pramana.md), [upalabdhi-lakṣaṇa-prāpta](upalabdhilaksanaprapta.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

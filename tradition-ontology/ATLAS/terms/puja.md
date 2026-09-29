@@ -20,4 +20,4 @@
 **Related:** [ātmārtha-pūjā / svārtha-pūjā](atmartha-puja.md), [parārtha-pūjā](parartha-puja.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

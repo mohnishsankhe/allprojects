@@ -12,4 +12,4 @@
 Heir of Dongshan and co-founder of the Caodong house; elaborated the five ranks as lord and minister.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

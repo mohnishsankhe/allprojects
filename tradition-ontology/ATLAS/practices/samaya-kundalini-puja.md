@@ -17,4 +17,4 @@ When the initiate's contemplation of unity is firm and the guru's rite of 'great
 - The mind's steady flow toward the meaning comes only by the guru's grace, not by scripture alone. — [Setubandha](../texts/setubandha.md) yh2.84
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

@@ -11,4 +11,4 @@ When signs of untimely death appear, ransom rites, saving animals' lives, long-l
   - [Chitak Tsenma Rangdrol ('chi ltas mtshan ma rang grol, Self-Liberation of the Signs of Death)](../texts/chitak-rangdrol.md) — rests_on: ["tea:chitak-rangdrol:1"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

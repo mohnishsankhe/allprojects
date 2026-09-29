@@ -15,4 +15,4 @@ The Śrauta manual of the Atharvaveda, chiefly for the brahman priest's part in 
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Vaitānasūtra, catalog:GRETIL-dev:vaitana-srautasutra_vaitanasutra — Extant (GRETIL, DCS); the Atharvaveda Śrautasūtra.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

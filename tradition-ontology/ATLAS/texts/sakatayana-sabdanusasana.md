@@ -19,4 +19,4 @@ The Jain grammar of the Yāpanīya Śākaṭāyana (Pālyakīrti), with his auto
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/shakatayana, https://www.wisdomlib.org/history/book/glimpses-of-history-of-sanskrit-literature/d/doc1546773.html — Low-confidence entry confirmed: Pālyakīrti Śākaṭāyana, a Yāpanīya Jain grammarian of the 9th c. in the reign of the Rāṣṭrakūṭa Amoghavarṣa (Wisdomlib).
 
-_Contributed by: skeleton:U34-jain-canon, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

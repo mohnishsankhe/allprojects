@@ -9,4 +9,4 @@
 Heir of Yunmen who divided his statement into the three phrases (Rentian yanmu).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

@@ -35,4 +35,4 @@ teachers: [Lakṣmaṇa](../teachers/laksmana.md)
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/rAmacharitamAnasa/02_ayodhyAkANDa.md — Caupāī 'kāhu na kou sukha dukha kara dātā' is the 2nd caupāī before dohā 92; the teaching runs to dohā 93.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

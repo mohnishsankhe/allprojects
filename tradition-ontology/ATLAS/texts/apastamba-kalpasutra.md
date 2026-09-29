@@ -20,4 +20,4 @@ _Notes: Praśna division from memory; the grouping into four sūtras is certain.
 
 - 2026-09-28 websearch: confirmed — https://hindupedia.com/en/Apastamba — The praśna division, which the entry gives 'from memory', is confirmed: 1–24 Śrauta, 25–26 Mantrapāṭha, 27 Gṛhya, 28–29 Dharma, 30 Śulba (Hindupedia 'Apastamba').
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

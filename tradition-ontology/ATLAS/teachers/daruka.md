@@ -10,4 +10,4 @@ A gaṇa dear to Śiva, paired with Reṇuka among the pramathas; Reṇuka's lea
 _Notes: In Pañcācārya yuga-lists Dāruka is also named among the ācāryas of an earlier age (low confidence)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

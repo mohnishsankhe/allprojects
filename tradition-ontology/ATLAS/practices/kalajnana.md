@@ -13,4 +13,4 @@ Reading signs in the breath, the body, shadows and dreams to foreknow the approa
 _Notes: Restricted/summary only: no omen-lists recorded._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

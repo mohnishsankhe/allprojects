@@ -16,4 +16,4 @@ A liturgy of reviewing, confessing and repenting the faults of the day, night, f
 _Notes: The Śvetāmbara forgiveness verse 'khāmemi savve jīvā, savve jīvā khamaṃtu me, mittī me savvabhūesu, veraṃ majjha na keṇaï' is recited (wording as commonly recited)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

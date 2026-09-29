@@ -98,4 +98,4 @@ concepts: [Having no thesis](../concepts/no-thesis.md), [The four-cornered negat
 _Notes: Titles of chs. 8, 9, 10, 13, 14, 16 confirmed from colophons in the local e-text; the others from memory._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

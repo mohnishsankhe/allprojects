@@ -14,4 +14,4 @@ Pāñcarātra saṃhitā presented as the expansion of the Pauṣkara and follow
 _Notes: Distinct from the Śaiva src:paramesvara-agama. Chapter count and edition not verified._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

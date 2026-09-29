@@ -14,4 +14,4 @@
 The Shangpa practice cycle of the white and red sky-goers (Khecarī), the 'flowers' of the five golden dharmas.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

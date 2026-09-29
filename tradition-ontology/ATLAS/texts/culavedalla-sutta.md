@@ -77,4 +77,4 @@ terms: [nibbāna](../terms/nibbana.md) · concepts: [Nibbāna](../concepts/nibba
 _Notes: SuttaCentral uid mn44; Mahāsaṅgīti title 'Cūḷavedallasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

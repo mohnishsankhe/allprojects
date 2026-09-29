@@ -31,4 +31,4 @@ Kaula rites of worship, wine, meat and union bring enjoyment and liberation (the
 _Notes: The rival sides are stated partly as the AmŚ reports them (reported by an opponent); their own texts are cited where a related teaching exists._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

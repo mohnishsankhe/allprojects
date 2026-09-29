@@ -28,4 +28,4 @@ terms: [Vaikuṇṭha / Paramapada](../terms/vaikuntha.md), [nitya / nityasūri]
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._

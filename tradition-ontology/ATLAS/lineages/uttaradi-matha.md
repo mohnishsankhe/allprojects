@@ -43,4 +43,4 @@ _none recorded_
 _Notes: The division of the line after Vidyādhirāja Tīrtha (Kavīndra Tīrtha's line leading to this maṭha and, after a later split, to the Rāghavendra maṭha; Rājendra Tīrtha's line leading to the Vyāsarāja maṭha) is recorded here from memory at low confidence. The 'Mūla Rāma' images held by the tradition to have been brought from the Kaliṅga treasury by Narahari Tīrtha are claimed by this maṭha and the Rāghavendra maṭha — not verified._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

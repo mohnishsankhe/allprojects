@@ -11,4 +11,4 @@ Hating all people, constantly making 'I', and holding untrue notions — removed
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 13.13–21; rests_on: ["tea:siddhantasikhamani:13.17-19"]
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

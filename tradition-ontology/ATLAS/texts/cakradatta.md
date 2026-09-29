@@ -13,4 +13,4 @@
 A therapeutic compendium by Cakrapāṇidatta, arranged by disease, much used in Bengal.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

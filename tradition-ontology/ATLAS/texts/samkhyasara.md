@@ -37,8 +37,8 @@ The Kārikā discriminated the self-principle only briefly and mostly gathered t
 
 _level: unmarked · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation, teacher-transmission_
 
-concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md) · teachers: [Vijñānabhikṣu](../teachers/vijnanabhiksu.md)
+concepts: [Discriminative vision (viveka-khyāti)](../concepts/viveka-khyati.md) · teachers: [Vijñānabhikṣu](../teachers/vijnanabhiksu.md)
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._

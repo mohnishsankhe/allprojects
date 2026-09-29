@@ -18,4 +18,4 @@
 **Related:** [turyagā](turyaga.md), [videhamukti](videhamukti.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

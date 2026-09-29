@@ -12,4 +12,4 @@ In U06's context (recent reception): recommended the Ṛbhu Gītā, which was re
 
 - 2026-09-29 websearch: confirmed — https://archive.arunachala.org/docs/ribhu-gita/intro, https://en.wikipedia.org/wiki/Shivarahasya_Purana — Ramana often mentioned the Ribhu Gītā and had it read (Sri Ramanasramam editions). His quoting the Yoga Vāsiṣṭha and the Aṣṭāvakra Gītā is noted on the Aṣṭāvakra Gītā page.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

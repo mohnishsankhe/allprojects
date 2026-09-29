@@ -234,4 +234,4 @@ disputes: [Are the Śākta tantras Vedic and authoritative?](../debates/vedic-st
 _Notes: Sūtra numbers checked against the GRETIL e-text._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

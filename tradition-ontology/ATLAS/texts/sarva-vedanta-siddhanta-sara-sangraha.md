@@ -14,4 +14,4 @@
 A long verse compendium (c. 1,000 verses) of Advaita doctrine and practice.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

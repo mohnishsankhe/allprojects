@@ -14,4 +14,4 @@
 - part-of → [The self as a dependent designation](self-as-dependent-designation.md) — rests on [6.151-160](../texts/madhyamakavatara.md#tea-madhyamakavatara-6-151-160)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

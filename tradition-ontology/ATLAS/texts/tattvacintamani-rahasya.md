@@ -16,4 +16,4 @@
 Mathurānātha Tarkavāgīśa's commentary (the 'Māthurī') on the Tattvacintāmaṇi; he also wrote Rahasyas on the Dīdhiti and on Udayana's works.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

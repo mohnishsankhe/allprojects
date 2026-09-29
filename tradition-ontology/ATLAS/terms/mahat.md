@@ -24,4 +24,4 @@ _Notes: Chs. 13–15 contribution, merged from extractor B's trm:mahat and extra
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.3, tea:bhagavad-gita:14.4 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

@@ -24,4 +24,4 @@ _Notes: The Sarvānukramaṇī gives the deity as 'ātman': the seer Vāc Āmbh�
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_10.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers) — Hymn located in the local Śākala text. 8 verses; ṛṣikā Vāg Āmbhṛṇī, deity ātman (header).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

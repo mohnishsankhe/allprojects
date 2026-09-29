@@ -18,4 +18,4 @@ The long-lived sage who instructs the Pāṇḍavas in the forest (3.180–221):
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.180.5, 3.186.81-91, 3.197.1 [mārka] — Located as described.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 1.1; 81.1, local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 12.9 — MkP 1.1 (Jaimini questions Mārkaṇḍeya), 81.1 (narrates the eighth Manu's story), BhP 12.9 located.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._

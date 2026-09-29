@@ -12,4 +12,4 @@
 Ascetic Pure Land teacher of Nanyue ('the pratyutpanna master of Nanyue'), teacher of Fazhao; third patriarch in the Fozu tongji list.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

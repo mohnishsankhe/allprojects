@@ -19,7 +19,7 @@ Sitting upright in full or half lotus on a cushion, hands in the cosmic mudrā (
 - Taking quiet as the ultimate is to be captured by heretical silent-illumination Chan (Dahui). — [Recorded Sayings of Dahui (Dahui Pujue chanshi yulu)](../texts/dahui-yulu.md) 891b05
 
 ## Equivalents (interpretation layer)
-- partial: [Samādhi as the eighth limb](samadhi.md) — Chan redefines seated meditation so as not to be a pursuit of absorption states.
+- partial: [Samādhi (in the Vibhūti-pāda account)](samadhi.md) — Chan redefines seated meditation so as not to be a pursuit of absorption states.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

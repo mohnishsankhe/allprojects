@@ -69,7 +69,7 @@ Breath-control may steady the body and reveal omens, but those who pursue it for
 
 _level: conventional · standpoint: polemical · path: body-breath · stage: all · types: practice, dispute_
 
-practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md) · obstacles: [Attachment to powers](../obstacles/labdhi-attachment.md) · teachers: [Śubhacandra (author of the Jñānārṇava)](../teachers/subhacandra.md) · disputes: [Does breath-control (prāṇāyāma) serve meditation and liberation?](../debates/pranayama-and-liberation.md)
+practices: [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md) · obstacles: [Attachment to powers](../obstacles/labdhi-attachment.md) · teachers: [Śubhacandra (author of the Jñānārṇava)](../teachers/subhacandra.md) · disputes: [Does breath-control (prāṇāyāma) serve meditation and liberation?](../debates/pranayama-and-liberation.md)
 
 ### rupastha-rupatita <a id="tea-jnanarnava-rupastha-rupatita"></a>
 `skeleton` · confidence low
@@ -84,4 +84,4 @@ terms: [rūpastha](../terms/rupastha.md), [rūpātīta](../terms/rupatita.md) ·
 _Notes: Registry id. Distinct from the Śākta Jñānārṇava-tantra (src:jnanarnava-tantra). Title present in the local catalogue (catalog:JainDB:ज्ञानार्णव--शुभचंद्राचार्य); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

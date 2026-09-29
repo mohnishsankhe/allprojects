@@ -12,4 +12,4 @@ Recitations and rites to hold back death and restore life-breath, keeping the pe
   - [Vājasaneyi Saṃhitā (Mādhyandina)](../texts/vajasaneyi-samhita.md) — ref: 3.62; rests_on: ["tea:vajasaneyi-samhita:3.62"]
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

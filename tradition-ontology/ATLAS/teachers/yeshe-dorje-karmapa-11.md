@@ -10,4 +10,4 @@
 Short-lived Karmapa who also held Nyingma treasure teachings.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

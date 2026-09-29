@@ -17,4 +17,4 @@ Night worship of Kālī/Tārā by the vīra in the cremation ground, praised in 
 - analogous: [Dwelling in the cremation ground](smasana-vasa.md) — the Pāśupata dwelling in the cremation ground (U17)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._

@@ -22,4 +22,4 @@
 Pan-Mahāyāna frame (Yogācāra sources, Abhisamayālaṃkāra, Tibetan lamrim and grounds-and-paths literature; also applied to śrāvakas and pratyekabuddhas). Stage 6 is outside the five and marked as such.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:32 IST._

@@ -24,4 +24,4 @@ Such speech is 'flowery' and proclaimed by the undiscerning; those carried away 
 _Notes: The vedavādins' own texts are not part of this chunk; their side is recorded only as the Gītā reports it (reported_by_opponent). The commentators divide on how sharply 2.45–46 limit the Veda (see the notes on those teachings). Recorded from chapters 1–3 only; no reconciliation is attempted at extraction. Merged from A (dsp:vedic-rites-as-final-goal-bhagavad-gita) and B (same id as here)._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:32 IST._

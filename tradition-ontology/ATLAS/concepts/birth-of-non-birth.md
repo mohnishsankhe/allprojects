@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The two truths (satyadvaya)](two-truths.md) (absolute): reconciled by the tradition itself through the two truths: birth conventionally, non-arising ultimately — rests on [78a01-b01](../texts/jingtu-shiyi-lun.md#tea-jingtu-shiyi-lun-78a01-b01)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

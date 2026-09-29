@@ -42,4 +42,4 @@ _none recorded_
 [How should Digambara image worship be performed, and are the bhaṭṭārakas authorities?](../debates/bisapantha-terapantha.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

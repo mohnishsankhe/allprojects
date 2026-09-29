@@ -12,4 +12,4 @@ In Thailand and Burma monks chant the opening passages (mātikā) of the seven A
 _Notes: Practice attested in Thai and Burmese custom; no text source recorded._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

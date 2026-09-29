@@ -16,4 +16,4 @@ Establishing equanimity toward friends, enemies and strangers, then meditating i
 - analogous: [Equalizing self and other](equalizing-self-and-other.md) — the other lamrim method for bodhicitta; Gelug teachers often combine the two
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

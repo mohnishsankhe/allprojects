@@ -27,4 +27,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā — All 7 Upaniṣad refs cited in the entry are located in the prepared segments (KU 1.2.23; MuU 3.2.3; ŚU 3.20; KU 1.2.20; ŚU 1.6; ŚU 6.21; ŚU 6.18). It rests on 7 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U03-principal-upanisads, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U03-principal-upanisads, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

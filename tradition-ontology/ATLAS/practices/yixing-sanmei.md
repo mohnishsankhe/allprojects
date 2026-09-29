@@ -15,4 +15,4 @@ In the Platform Sūtra: always practising a straight mind in walking, standing, 
 - Taking it as sitting without moving and suppressing thoughts makes one like an insentient thing and obstructs the Way. — [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) 7.2
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

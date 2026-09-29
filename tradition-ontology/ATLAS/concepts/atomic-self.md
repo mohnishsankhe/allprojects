@@ -16,4 +16,4 @@
 _Notes: Nyāya, Sāṃkhya and Advaita hold the self all-pervading (see dsp:atomic-or-pervasive-self)._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

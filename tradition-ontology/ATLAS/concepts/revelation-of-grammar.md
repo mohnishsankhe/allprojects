@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — All three accounts were text-located. Rests on teaching checks confirmed in this sweep: tea:paniniya-siksa:56-57, tea:nandikesvara-kasika:1, tea:mahabhasya:paspasa/5.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

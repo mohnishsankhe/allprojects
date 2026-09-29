@@ -10,4 +10,4 @@
 Navadvīpa Naiyāyika, author of the Bhavānandī sub-commentary on the Dīdhiti.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

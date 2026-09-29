@@ -12,4 +12,4 @@ Married women are honoured as the Goddess, who 'is pleased by the worship of suv
   - [Lalitā Sahasranāma](../texts/lalita-sahasranama.md) — ref: 178; rests_on: ["tea:lalita-sahasranama:177-180"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

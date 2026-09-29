@@ -11,4 +11,4 @@ Faults of a pupil toward teacher and elders — walking ahead of or too close to
   - [Daśāśrutaskandha](../texts/dasasrutaskandha.md) — ref: 3
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

@@ -17,4 +17,4 @@ Dunhuang dialogue between a teacher 'Entrance into Principle' and a student 'Con
 _Notes: Dunhuang; not held locally; details from memory — low confidence._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

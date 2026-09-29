@@ -11,4 +11,4 @@ An elder, foremost in variegated speech, who answered Pāyāsi's denial of the o
 _Notes: AN 1 Etadaggavagga (the 'foremost' lists)_
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@ Taking the impermanent, suffering, selfless and impure as permanent, blissful, s
 _Notes: The first set of four is shared with the Pali vipallāsa (AN 4.49); the reversed set is the Mahāyāna Mahāparinirvāṇa's and Śrīmālā's addition._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

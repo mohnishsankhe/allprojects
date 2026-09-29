@@ -17,4 +17,4 @@ The householder's sacrament, following regional and village custom (ĀśGS 1.7.1
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/2_grhya/asvalayana-grhyasutra.md (GRETIL), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — ĀśGS 1.7 and MDh 3.21 were found. This rests on confirmed teaching checks: tea:asvalayana-grhyasutra:1.7.1, tea:manusmrti:3.21.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

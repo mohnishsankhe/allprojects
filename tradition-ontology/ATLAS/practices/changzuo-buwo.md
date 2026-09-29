@@ -15,4 +15,4 @@ Sitting day and night without lying down for long periods; reported of Northern-
 - 'Long sitting constrains the body — what benefit to the principle?' (Huineng); Jinul lists 'always sitting and never lying down' among austerities useless without knowing one's own mind. — [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) 11.1
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

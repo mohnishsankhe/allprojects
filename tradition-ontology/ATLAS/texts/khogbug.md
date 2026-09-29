@@ -29,4 +29,4 @@ teachers: [Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)](../teachers/des
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

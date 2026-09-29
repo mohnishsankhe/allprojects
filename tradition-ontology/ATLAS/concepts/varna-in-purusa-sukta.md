@@ -14,4 +14,4 @@
 _Notes: Its later use and the debates about it are recorded in dsp:varna-origin-purusa-sukta._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

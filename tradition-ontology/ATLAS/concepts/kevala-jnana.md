@@ -13,8 +13,8 @@
 - [Śvetāmbara](../lineages/svetambara.md): Mahāvīra's attainment: 'infinite, supreme, unobstructed, unimpeded, complete and full' knowledge and perception, arising in pure meditation after the destruction of the obscuring, deluding and obstructing karmas; 'who knows one knows all'.
 
 ## Relations (interpretation layer)
-- contrasts-with → [Isolation (kaivalya)](kaivalya.md): Both are named 'kevala/kaivalya' final states, but the Jain state is omniscience of all modes by a soul that remains individual; Patañjali's kaivalya is the seer's isolation from prakṛti. — rests on [1.29](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-1-29), [10.1](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-10-1)
+- contrasts-with → [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](kaivalya.md): Both are named 'kevala/kaivalya' final states, but the Jain state is omniscience of all modes by a soul that remains individual; Patañjali's kaivalya is the seer's isolation from prakṛti. — rests on [1.29](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-1-29), [10.1](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-10-1)
 - leads-to → [The state of the liberated (siddha)](siddha-state.md): Omniscience precedes final liberation at the end of life (TS 10.1–5). — rests on [10.1](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-10-1), [10.5](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-10-5)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

@@ -17,4 +17,4 @@ Thuken Lobsang Chökyi Nyima's history and description of the Indian, Tibetan, C
   - kind: translation; name: English: The Crystal Mirror of Philosophical Systems (Geshe Lhundub Sopa et al., Library of Tibetan Classics 25, 2009)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

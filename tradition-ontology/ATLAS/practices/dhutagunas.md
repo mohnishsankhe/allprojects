@@ -21,4 +21,4 @@ Optional austerities: rag-robes, only three robes, alms-round without skipping h
 _Notes: Common to all the Vinayas; details and counts differ by school._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

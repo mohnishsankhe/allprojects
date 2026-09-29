@@ -16,4 +16,4 @@ A cure for Zen sickness: lying on the back with legs stretched, one gathers brea
 - Hakuin presents it as a remedy for illness caused by unbalanced striving, to restore health so that practice can continue — not as a goal. — [Idle Talk on a Night Boat (Yasenkanna)](../texts/yasenkanna.md) naikan
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

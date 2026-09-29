@@ -12,4 +12,4 @@ The period around the sun's entry into a sign, above all into Capricorn and the 
   - [Muhūrtacintāmaṇi](../texts/muhurta-cintamani.md) — ref: prakaraṇa 3
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

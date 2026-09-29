@@ -15,4 +15,4 @@
 - part-of → [The three liṅgas (iṣṭa, prāṇa, bhāva)](trividha-linga.md) — rests on [6.49-50](../texts/siddhantasikhamani.md#tea-siddhantasikhamani-6-49-50)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

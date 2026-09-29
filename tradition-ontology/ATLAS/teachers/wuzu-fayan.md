@@ -11,4 +11,4 @@
 Yangqi master at Mount Wuzu who used Zhaozhou's 'wu' as a single-word barrier and posed 'Qiannü and her soul separated' (Wumenguan 35).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

@@ -41,4 +41,4 @@ concepts: [The siddhas' critique of ritual, caste and scholasticism](../concepts
 _Notes: The Tibetan Caturmudrāniścaya (Tōh 2225) is ascribed to Nāgārjuna; the relation to Advayavajra's text is not settled here._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

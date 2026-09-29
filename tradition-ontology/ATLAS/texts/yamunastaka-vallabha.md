@@ -13,4 +13,4 @@
 Eight verses praising the Yamunā as Kṛṣṇa's beloved and the giver of grace-devotion.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

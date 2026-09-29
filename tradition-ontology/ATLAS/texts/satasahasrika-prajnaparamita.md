@@ -18,4 +18,4 @@ The Perfection of Wisdom in 100,000 lines, the largest version, repeating each t
 _Notes: Only part of the Sanskrit is edited/digitized locally; the full text exists in Tibetan and Chinese._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

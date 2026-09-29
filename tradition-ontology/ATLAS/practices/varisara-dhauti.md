@@ -18,4 +18,4 @@ Water is drunk slowly until the body is filled to the throat, moved through the 
 _Notes: Later (recent) teaching calls a comparable practice śaṅkhaprakṣālana; that name is not in the Gheraṇḍa._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._

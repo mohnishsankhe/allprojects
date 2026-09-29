@@ -16,4 +16,4 @@ A lost larger work of Kumārila, known through later quotations and references.
 _Notes: Its scope (a longer treatment of the tarkapāda?) and which later quotations derive from it are uncertain; verses on omniscience quoted in Buddhist and Jain works are sometimes assigned to it._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._

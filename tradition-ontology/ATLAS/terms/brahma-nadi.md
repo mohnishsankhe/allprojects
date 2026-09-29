@@ -15,4 +15,4 @@
 **Related:** [suṣumnā](susumna.md), [citriṇī / citrā](citrini.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

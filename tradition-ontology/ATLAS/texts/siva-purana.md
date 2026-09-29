@@ -134,7 +134,7 @@ Meditation is at first with an object (saviṣaya) and then without (nirviṣaya
 
 _level: conventional · standpoint: analytic · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [sabīja / nirbīja dhyāna](../terms/sabija-nirbija.md) · practices: [Śaiva meditation with and without object](../practices/saiva-dhyana.md)
+terms: [dhyāna](../terms/dhyana.md), [sabīja / nirbīja dhyāna](../terms/sabija-nirbija.md) · practices: [Śaiva meditation with and without object](../practices/saiva-dhyana.md)
 
 ### 7.2.39.10-13 <a id="tea-siva-purana-7-2-39-10-13"></a>
 `sourced` · confidence high
@@ -151,4 +151,4 @@ _Notes: Vidyeśvara: śravaṇa-kīrtana-manana, liṅga worship, the name, bhas
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:zivapurANabooks-1-and-7, catalog:DCS:Śivapurāṇa, catalog:raw_etexts:shiva_purana, https://en.wikipedia.org/wiki/Shiva_Purana — Extant and digitized (GRETIL books 1 and 7; raw_etexts Vidyeśvara and Rudra saṃhitās; peterFreund; DCS). VP 3.6.21 and BhP 12.7.23 counting the Śaiva fourth confirmed locally. Web: oldest core c. 10th-11th c., some chapters after the 14th; the seven-saṃhitā version is one of several.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._

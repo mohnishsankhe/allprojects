@@ -13,4 +13,4 @@ Bhagavad Gītā 1–3: Arjuna, overcome by pity and despairing on seeing his kin
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 1.28–47; 2.3, 2.7; rests_on: ["tea:bhagavad-gita:1.28-30", "tea:bhagavad-gita:1.45-47", "tea:bhagavad-gita:2.3", "tea:bhagavad-gita:2.7"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

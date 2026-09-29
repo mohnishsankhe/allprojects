@@ -42,4 +42,4 @@ _none recorded_
 _Notes: Created as a sub-lineage because the tradition names it a third path; almost nothing of its wider doctrine survives. Low confidence on region and dating; the numbering of homonymous Murāris (II/III) in modern literature is inconsistent._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._

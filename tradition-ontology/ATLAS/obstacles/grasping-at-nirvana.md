@@ -11,4 +11,4 @@ The thought 'without grasping I shall attain nirvāṇa; nirvāṇa will be mine
   - [Mūlamadhyamakakārikā](../texts/mulamadhyamakakarika.md) — ref: 16.9; rests_on: ["tea:mulamadhyamakakarika:16.9"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

@@ -12,4 +12,4 @@ Foods that conflict with the body's tissues by opposed qualities, combination, p
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Sū 26.81-92; rests_on: ["tea:caraka-samhita:su.26.81-86", "tea:caraka-samhita:su.26.83-84"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

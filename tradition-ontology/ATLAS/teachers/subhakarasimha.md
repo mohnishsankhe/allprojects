@@ -10,4 +10,4 @@
 Indian master (637–735) who brought the Mahāvairocana Sūtra to China and translated it with Yixing (724).
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

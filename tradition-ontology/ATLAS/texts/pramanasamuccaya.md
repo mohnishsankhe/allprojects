@@ -98,4 +98,4 @@ terms: [apoha](../terms/apoha.md), [anyāpoha](../terms/anyapoha.md), [śabda](.
 _Notes: The Sanskrit original is lost except fragments; chapter 1 has been reconstructed with the help of Jinendrabuddhi's commentary._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

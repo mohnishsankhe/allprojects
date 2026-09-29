@@ -14,4 +14,4 @@ Each devotee earns a living by honest work in his or her own occupation, done as
 **Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

@@ -18,4 +18,4 @@ Training to see oneself, the deity and the whole world as illusion, dream, mirro
 - Without the self-consecration stage, obtained only by the guru's grace, labour in sūtra and tantra is in vain. — [Pañcakrama](../texts/pancakrama.md) 3.10-11
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

@@ -64,7 +64,7 @@ Sudurjayā (Hard to Conquer): He understands the four noble truths and the two t
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: advanced (bhūmi 5: Sudurjayā) · types: practice_
 
-terms: [sudurjayā](../terms/sudurjaya.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [bhūmi](../terms/bhumi.md) · concepts: [The ten grounds (bhūmi) of the Daśabhūmika](../concepts/ten-bhumis.md), [The ten perfections](../concepts/ten-paramitas.md) · teachers: [Vajragarbha (bodhisattva of the Daśabhūmika)](../teachers/vajragarbha.md)
+terms: [sudurjayā](../terms/sudurjaya.md), [dhyāna](../terms/dhyana.md), [bhūmi](../terms/bhumi.md) · concepts: [The ten grounds (bhūmi) of the Daśabhūmika](../concepts/ten-bhumis.md), [The ten perfections](../concepts/ten-paramitas.md) · teachers: [Vajragarbha (bodhisattva of the Daśabhūmika)](../teachers/vajragarbha.md)
 
 ### 6 <a id="tea-dasabhumika-sutra-6"></a>
 `skeleton` · confidence high
@@ -111,10 +111,10 @@ Dharmameghā (Cloud of Dharma): He is consecrated by the rays of all buddhas as 
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: advanced (bhūmi 10: Dharmameghā) · types: practice_
 
-terms: [dharmamegha](../terms/dharmamegha.md), [jñāna](../terms/jnana.md), [bhūmi](../terms/bhumi.md) · concepts: [The ten grounds (bhūmi) of the Daśabhūmika](../concepts/ten-bhumis.md), [The ten perfections](../concepts/ten-paramitas.md) · teachers: [Vajragarbha (bodhisattva of the Daśabhūmika)](../teachers/vajragarbha.md)
+terms: [dharma-megha](../terms/dharmamegha.md), [jñāna](../terms/jnana.md), [bhūmi](../terms/bhumi.md) · concepts: [The ten grounds (bhūmi) of the Daśabhūmika](../concepts/ten-bhumis.md), [The ten perfections](../concepts/ten-paramitas.md) · teachers: [Vajragarbha (bodhisattva of the Daśabhūmika)](../teachers/vajragarbha.md)
 
 
 _Notes: Ground names and chapter structure read in the local e-text._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

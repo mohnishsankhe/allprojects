@@ -13,4 +13,4 @@
 - part-of → [The individual living self (jīva)](jiva.md): the self known as 'I'; rejects the Advaita view that the 'I' is a superimposition — rests on [1.1.1/6](../texts/sribhasya.md#tea-sribhasya-1-1-1-6)
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._

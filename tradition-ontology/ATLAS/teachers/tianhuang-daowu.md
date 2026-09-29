@@ -11,4 +11,4 @@
 Heir of Shitou (also studied with Mazu), ancestor via Longtan of Deshan and Xuefeng.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

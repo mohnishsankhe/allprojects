@@ -31,4 +31,4 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.288 (45 verses): the golden swan Prajāpati and the Sādhyas (288.2-4). Vulgate colophon 'haṃsagītā' (12.299).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

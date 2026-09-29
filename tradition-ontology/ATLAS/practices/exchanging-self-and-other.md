@@ -21,4 +21,4 @@ In the lamrim and lojong: after equalizing, contemplating the faults of self-che
 _Notes: Contribution of U47 (Sakya/Kadam/Gelug presentation)._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

@@ -12,4 +12,4 @@
 Teacher of Maṇavāḷa Māmuni, who restored the worship at Āḻvār Tirunagari and handed on the Īṭu and Piḷḷai Lokācārya's works.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._

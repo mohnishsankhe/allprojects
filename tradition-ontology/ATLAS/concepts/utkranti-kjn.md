@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Departure through the crown and the path to brahman](yogic-departure-and-krama-mukti.md) (departure through the crown at death): yogic departure at death is also taught in Upaniṣadic and Purāṇic yoga — rests on [20.1-3](../texts/kaulajnananirnaya.md#tea-kaulajnananirnaya-20-1-3)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

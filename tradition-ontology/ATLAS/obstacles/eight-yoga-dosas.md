@@ -12,7 +12,7 @@ Fatigue, anxiety, distraction, agitation, confusion, delight in other things, pa
   - [Yogadṛṣṭisamuccaya](../texts/yogadrstisamuccaya.md) — ref: 16; rests_on: ["tea:yogadrstisamuccaya:16"]
 
 ## Equivalents (interpretation layer)
-- analogous: [The nine obstacles (antarāya), distractions of mind](nine-antarayas.md) — Both are lists of obstacles to yoga; the items differ.
+- analogous: [The nine obstacles (antarāya), distractions of the mind](nine-antarayas.md) — Both are lists of obstacles to yoga; the items differ.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

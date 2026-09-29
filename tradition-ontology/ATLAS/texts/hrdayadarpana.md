@@ -14,4 +14,4 @@
 Bhaṭṭa Nāyaka's lost work on poetics, known through Abhinavagupta and Mahimabhaṭṭa: poetry's language has, beyond denotation, the powers of 'making present' (bhāvakatva) and 'making enjoyable' (bhojakatva), by which rasa is enjoyed in a state of sattva akin to tasting Brahman.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

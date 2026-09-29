@@ -18,4 +18,4 @@ In a cleaned room with an image on the west wall, at a chosen period of the mont
 - The text itself prescribes no sleep for seven days; recorded as the text's instruction only. — [The Dharma Gate of the Merits of the Samādhi of Contemplating the Ocean-like Marks of Amitābha](../texts/guannian-famen.md) 24b06-08
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

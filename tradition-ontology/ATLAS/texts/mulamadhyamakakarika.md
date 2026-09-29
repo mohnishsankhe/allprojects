@@ -1183,4 +1183,4 @@ terms: [dṛṣṭi](../terms/drsti.md), [kāruṇya](../terms/karuna.md) · con
 _Notes: Chapter titles confirmed from the Prasannapadā colophons in the local Vaidya/Tripathi e-text (ch.12 colophon reads 'duḥkhaparīkṣā'). Chapter verse counts (GRETIL): 14,25,9,9,8,10,34,13,12,16,8,10,8,8,11,10,33,12,6,24,21,16,25,40,24,12,30._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

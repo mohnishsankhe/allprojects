@@ -62,4 +62,4 @@ concepts: [The impurities of mercury and the danger of impure preparations](../c
 
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

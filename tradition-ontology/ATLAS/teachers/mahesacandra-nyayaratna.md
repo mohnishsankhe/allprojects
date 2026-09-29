@@ -12,4 +12,4 @@
 Calcutta Sanskrit scholar (principal of the Sanskrit College), author of the Navyanyāyabhāṣāpradīpa, a guide to the technical terms of Navya-Nyāya.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

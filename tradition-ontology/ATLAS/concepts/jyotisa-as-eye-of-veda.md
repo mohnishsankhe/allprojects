@@ -13,4 +13,4 @@
 - part-of → [The six limbs of the Veda](six-vedangas.md): jyotiṣa is one of the six limbs — rests on [r.35](../texts/vedanga-jyotisa.md#tea-vedanga-jyotisa-r-35)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

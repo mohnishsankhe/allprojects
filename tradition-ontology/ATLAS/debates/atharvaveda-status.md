@@ -29,4 +29,4 @@ The Atharvaveda is the fourth Veda and, as the Brahmaveda, belongs to the brahm�
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/gopatha-brahmana.md, text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/4_upa/Chandogya-upanisad_Chandogyopanisad_mula-text.md, text:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki/01/004.md — The low-confidence note is confirmed: Gopatha Brāhmaṇa 1.2.24 'atharvāṅgirovidam eva brahmāṇaṃ vṛṇīṣva, sa hi brahmatvaṃ veda' (and 1.1.28–29 on the Bhṛgvaṅgirovids); Chāndogya 7.1.2 lists the Atharvaveda fourth; Bhāgavata 1.4.19–22 located.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

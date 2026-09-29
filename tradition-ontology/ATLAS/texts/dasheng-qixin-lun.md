@@ -40,4 +40,4 @@ terms: [yixin (the one mind)](../terms/yixin.md), [tathatā](../terms/tathata.md
 _Notes: Its Huayan and Korean commentaries (Fazang, Wonhyo) belong to U54/U55._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

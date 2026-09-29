@@ -16,7 +16,7 @@ Repeated practice of a particular samādhi as the means to knowledge of truth, i
 - Objects intrude by their force and hunger and the like drive one away from samādhi; its arising depends on the continuing effect of previous practice. — [Nyāya Sūtra](../texts/nyaya-sutra.md) 4.2.39–41
 
 ## Equivalents (interpretation layer)
-- partial: [Samādhi as the eighth limb](samadhi.md) — Vātsyāyana refers the method to the Yoga śāstra and names limbs of it; Nyāya's aim is knowledge of the self as distinct, not the Yoga's isolation of puruṣa.
+- partial: [Samādhi (in the Vibhūti-pāda account)](samadhi.md) — Vātsyāyana refers the method to the Yoga śāstra and names limbs of it; Nyāya's aim is knowledge of the self as distinct, not the Yoga's isolation of puruṣa.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

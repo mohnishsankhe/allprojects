@@ -14,4 +14,4 @@ Kashmiri Madhyamaka scholar of the 12th century, author of the only Indian sub-c
 **Realization — the tradition's account:** Tibetan accounts record a debate between Jayānanda and the Tibetan logician Chapa Chökyi Senge on Candrakīrti's rejection of autonomous reasoning; the accounts differ on its outcome.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

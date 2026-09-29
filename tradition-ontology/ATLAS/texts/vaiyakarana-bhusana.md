@@ -15,4 +15,4 @@
 Kauṇḍa Bhaṭṭa's full commentary on his uncle Bhaṭṭoji's kārikās, defending the grammarians' semantics against Mīmāṃsā and Navya-Nyāya.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

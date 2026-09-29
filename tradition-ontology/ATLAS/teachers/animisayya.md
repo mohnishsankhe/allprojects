@@ -10,4 +10,4 @@
 The 'unblinking' yogi who, in Harihara's account, placed the liṅga in Allama's hand in a buried shrine and passed away, awakening him.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

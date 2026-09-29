@@ -16,4 +16,4 @@
 The four are enumerated rather than strictly sequential; compare pth:dattatreya-four-yogas (U51).
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

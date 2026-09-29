@@ -10,4 +10,4 @@
 The emanation of the Medicine Buddha's mind who teaches the Four Tantras (the tradition's account).
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

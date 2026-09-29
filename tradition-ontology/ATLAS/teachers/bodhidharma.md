@@ -16,4 +16,4 @@ First Chinese and twenty-eighth Indian patriarch of Chan. In the tradition's acc
 **Realization — the tradition's account:** Heir of Prajñātāra in the 28-generation Indian line; brought the mind-seal east; 'wall-gazing Brahmin'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

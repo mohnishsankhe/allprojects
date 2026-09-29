@@ -12,4 +12,4 @@ Aversion to the disagreeable, arising from false knowledge.
   - [Nyāyabhāṣya](../texts/nyaya-bhasya.md) — ref: 1.1.2; rests_on: ["tea:nyaya-bhasya:1.1.2/2"]
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

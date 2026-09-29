@@ -14,4 +14,4 @@
 Sureśvara's verse sub-commentary on Śaṅkara's Taittirīya commentary, including the sheaths and the definition of Brahman.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

@@ -35,4 +35,4 @@ The old canon survives in a form the Yāpanīyas accepted and cited (Āvaśyaka,
 **Queue:** RQ-U34-02
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

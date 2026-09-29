@@ -30,4 +30,4 @@ _level: conventional · standpoint: devotional · path: devotion, sound · stage
 
 - 2026-09-29 websearch: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), https://www.hindupedia.com/en/Pandava_Gita, https://www.hinduscriptures.in/vedic-knowledge/sacred-scriptures/gita/pandava-gita-or-prapanna-gita — An anthology of devotional verses, also called the Prapanna Gītā; recensions of 82 and 91 verses exist, and the Gītāsaṅgraha prints 80. Verse 1 lists Prahlāda, Nārada and the other devotees. Its speakers vary: verse 2 is Lomaharṣaṇa, verse 3 Brahmā.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

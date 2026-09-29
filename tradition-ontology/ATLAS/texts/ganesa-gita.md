@@ -79,4 +79,4 @@ _Notes: Verse total 414 recalled (low confidence). lin:ganapatya is referenced b
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), catalog:eBharati:gaNeshagItA, https://en.wikipedia.org/wiki/Ganesha_Purana, https://www.ganeshagita.com/2024/09/contents.html — 11 chapters; the titles and 414 verses (69+43+50+37+27+21+25+26+41+23+52) were verified in the Gītāsaṅgraha. It is Krīḍākhaṇḍa (called Uttarakhaṇḍa in colophons) chs. 138-148, so the entry's low-confidence chapter numbers are right. Preston and Thapan date the Purāṇa to 1100-1400.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

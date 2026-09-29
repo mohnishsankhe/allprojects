@@ -13,4 +13,4 @@
 A Tamil verse classic of Advaita by Tāṇḍavarāya Svāmī in two parts (exposition of the truth; clearing of doubts), teacher–disciple in form.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

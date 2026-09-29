@@ -15,4 +15,4 @@
 **Related:** [ālaya-vijñāna](alaya-vijnana.md)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

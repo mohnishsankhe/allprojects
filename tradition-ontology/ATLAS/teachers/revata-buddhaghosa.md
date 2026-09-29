@@ -11,4 +11,4 @@ The elder in India who, according to the Cūḷavaṃsa, converted the brahmin B
 _Notes: Disambiguated from Revata of the Second Council._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

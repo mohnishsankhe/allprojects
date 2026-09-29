@@ -23,4 +23,4 @@ Gazing at clear water in a bowl or vessel, the meditator repeats its name and ad
 _Notes: Device details from memory (Vism V not read locally)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

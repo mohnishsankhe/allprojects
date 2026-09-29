@@ -13,4 +13,4 @@ Pride in knowledge, honour, family, caste, power, wealth, austerity and body, wh
   - [Ratnakaraṇḍaśrāvakācāra](../texts/ratnakarandasravakacara.md) — ref: 4; rests_on: ["tea:ratnakarandasravakacara:4"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

@@ -13,4 +13,4 @@
 - opposes → [The 'there is not' view (natthika)](natthikavada.md) — rests on [5-12](../texts/apannaka-sutta.md#tea-apannaka-sutta-5-12)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._

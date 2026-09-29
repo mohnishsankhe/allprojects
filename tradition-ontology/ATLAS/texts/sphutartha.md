@@ -17,4 +17,4 @@ Haribhadra's short commentary on the Abhisamayālaṃkāra, the most studied com
   - kind: original; name: Tibetan: Derge D3793
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

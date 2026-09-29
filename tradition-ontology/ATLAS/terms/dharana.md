@@ -1,12 +1,13 @@
 # dhāraṇā
 
-`trm:dharana` · `skeleton` · confidence high
+`trm:dharana` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Native script:** धारणा
-**Literal:** holding
+**Literal:** holding, binding
 
 ## Definitions by tradition
+- [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The binding of the mind (citta) to a place (deśa) (3.1); the bhāṣya lists places such as the navel wheel, the heart lotus, the light in the head, the tip of the nose or tongue, or an external object.
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): Fixing the mind on a support - the Lord's form (VP, BhP) or bodily places and the subtle elements (MkP).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Concentration: binding the mind to a place (3.1) — navel, heart-lotus, light in the head, tip of the nose or tongue, or an external object (YBh 3.1).
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): Concentration, especially the five element-concentrations holding breath and mind in the regions of earth, water, fire, air and space (DYŚ 100–110; GŚ 68–75).
@@ -30,6 +31,7 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: partially-confirmed — tea:yoga-sutra:3.1, tea:yoga-bhasya:3.1, tea:yoga-sutra:3.4, tea:yoga-bhasya:3.4, tea:yoga-sutra:3.7, tea:yoga-bhasya:3.7, tea:yoga-sutra:3.43, tea:yoga-bhasya:3.43 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.12 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:yoga-sutra/p3-4, skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

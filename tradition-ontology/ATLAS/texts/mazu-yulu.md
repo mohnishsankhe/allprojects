@@ -19,4 +19,4 @@ Mazu's sermons and encounters: 'this very mind is buddha', 'neither mind nor bud
 _Notes: Not in the local Taishō volumes (Xuzangjing X69); Mazu's sermon is read locally in Jingde chuandeng lu juan 28._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

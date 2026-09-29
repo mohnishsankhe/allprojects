@@ -18,4 +18,4 @@ The joy that comes at the culmination of absorption into power (śakti), stirred
 _Notes: Verses 69 (KSTS 8 / GRETIL numbering). Restricted: summary of what the verse says only; the text gives no method and none is supplied here. The tradition treats such practices as requiring initiation and a qualified teacher._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

@@ -12,4 +12,4 @@ Worship offering vermilion with each of the three hundred names of the Triśatī
   - [Lalitā Triśatī](../texts/lalita-trisati.md) — ref: structure; rests_on: ["tea:lalita-trisati:structure"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

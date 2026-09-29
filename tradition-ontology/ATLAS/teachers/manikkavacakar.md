@@ -17,4 +17,4 @@ Author of the Tiruvācakam and Tirukkōvaiyār (Tirumuṟai 8); the fourth samay
 _Notes: His absence from Cuntarar's list is used by scholars to date him after Cuntarar._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

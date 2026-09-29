@@ -17,4 +17,4 @@
 _Notes: Homonym: the same word names a fourfold expository scheme (Yoga, after medicine) and the Pāñcarātra doctrine of four emanations. Recorded so the two are not confused._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._

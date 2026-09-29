@@ -28,4 +28,4 @@
 **Related:** [so'ham](soham.md), [ajapā](ajapa.md), [so'ham](so-ham.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U21-natha-aghora, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U28-hatha-texts, skeleton:U24-kali-kaula, skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U21-natha-aghora, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U28-hatha-texts, skeleton:U24-kali-kaula, skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

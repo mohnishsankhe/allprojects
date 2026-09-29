@@ -27,4 +27,4 @@ terms: [iddhipāda](../terms/iddhipada.md), [chanda](../terms/chanda.md), [vīma
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

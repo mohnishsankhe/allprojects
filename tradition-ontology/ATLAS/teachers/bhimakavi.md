@@ -11,4 +11,4 @@
 Kannada poet who rendered the Basava Purāṇa into ṣaṭpadi verse in 1369.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

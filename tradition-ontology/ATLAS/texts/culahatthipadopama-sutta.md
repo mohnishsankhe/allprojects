@@ -35,4 +35,4 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: realiz
 _Notes: SuttaCentral uid mn27; Mahāsaṅgīti title 'Cūḷahatthipadopamasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

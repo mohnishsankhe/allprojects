@@ -18,4 +18,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/isa-upanisad/segments.jsonl (Advaita-Śāradā mūla Isha.md, Śaṅkara numbering), text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūl — All 6 Upaniṣad refs cited in the entry are located in the prepared segments (KU 1.2.4; KU 1.2.5; MuU 1.2.8; Īśa 9-11; ŚU 5.1; ChU 1.1.10). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

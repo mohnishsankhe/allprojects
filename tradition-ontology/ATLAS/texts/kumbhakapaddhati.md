@@ -19,4 +19,4 @@ A manual devoted to breath-retention (kumbhaka), describing many more kinds than
   - kind: original; name: Kumbhaka Paddhati of Raghuvīra, ed. M. L. Gharote (Lonavla 2000); licence: copyright
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

@@ -1,6 +1,6 @@
-# Practices (1535)
+# Practices (1537)
 
-skeleton: 1274 · sourced: 261
+skeleton: 1249 · sourced: 288
 
 - [A-tri meditation](a-tri-meditation.md) — `skeleton`
 - [Abandoning the body to go to birth (sheshen wangsheng) — restricted](shashen-wangsheng.md) — `skeleton`
@@ -88,11 +88,11 @@ skeleton: 1274 · sourced: 261
 - [Breath as sacrifice: offering prāṇa and apāna](prana-apana-offering.md) — `skeleton`
 - [Breath practice (dam) — summary only](dam-sadhana.md) — `skeleton`
 - [Breath purification with Oṃ (Uddhava Gītā)](pranava-pranayama-bhagavata.md) — `sourced`
-- [Breath-control (prāṇāyāma) in haṭha](pranayama.md) — `sourced`
 - [Breath-control as knowledge](jnana-pranayama.md) — `sourced`
 - [Breath-control through moon and sun (Gorakṣaśataka)](gs-candra-surya-pranayama.md) — `skeleton`
 - [Breath-control with Oṃ, the utterances and the Gāyatrī](vedic-pranayama.md) — `sourced`
 - [Breath-holding as the second 'discipline of action' (Rasārṇava)](pavana-dharana-rasa.md) — `skeleton`
+- [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](pranayama.md) — `sourced`
 - [Breathless meditation (appāṇaka jhāna)](appanaka-jhana.md) — `skeleton`
 - [Buddhiyoga, the yoga of understanding (BhG 2.39–53)](buddhi-yoga.md) — `skeleton`
 - [Burial of a yogī in samādhi](natha-samadhi-burial.md) — `skeleton`
@@ -115,6 +115,7 @@ skeleton: 1274 · sourced: 261
 - [Carrying post-meditation onto the path](post-meditation-integration.md) — `skeleton`
 - [Caryā (Śaiva temple service)](saiva-carya.md) — `skeleton`
 - [Casting and reading the horoscope](horoscope-reading.md) — `skeleton`
+- [Cessation of vāsanās and saṃskāras as the text states it](vasana-ksaya.md) — `sourced`
 - [Channels and winds (rtsa rlung)](tsa-lung.md) — `skeleton`
 - [Chanting the Abhidhamma at funerals](abhidhamma-funeral-chanting.md) — `skeleton`
 - [Cheating death (kālavañcana)](kalavancana.md) — `skeleton`
@@ -131,8 +132,7 @@ skeleton: 1274 · sourced: 261
 - [Collyrium (añjana)](anjana.md) — `skeleton`
 - [Combining knowledge with works](jnana-karma-samuccaya.md) — `skeleton`
 - [Comprehension by groups (kalāpa-sammasana)](kalapa-sammasana.md) — `skeleton`
-- [Concentration (dhāraṇā)](dharana.md) — `sourced`
-- [Concentration giving rise to subtle sense-perception (1.35)](visayavati-pravrtti.md) — `skeleton`
+- [Concentration giving rise to subtle sense-perception (YS 1.35)](visayavati-pravrtti.md) — `sourced`
 - [Concentrations (dhāraṇā) in the Mokṣadharma's yoga](element-concentrations-mahabharata.md) — `skeleton`
 - [Concentrations yielding the siddhis (Uddhava Gītā)](siddhi-dharanas-bhagavata.md) — `sourced`
 - [Confession before the thirty-five buddhas](confession-thirty-five-buddhas.md) — `skeleton`
@@ -177,7 +177,8 @@ skeleton: 1274 · sourced: 261
 - [Contemplation of the three targets (lakṣya-traya)](laksya-traya.md) — `sourced`
 - [Contemplation of the unlovely (aśubhā-bhāvanā)](asubha-bhavana.md) — `skeleton`
 - [Contemplation of the worm infested corpse (puḷuvaka)](asubha-worm-infested.md) — `skeleton`
-- [Contentment (saṃtoṣa)](santosa.md) — `skeleton`
+- [Contentment (saṃtoṣa)](santosa.md) — `sourced`
+- [Continence (brahmacarya)](brahmacarya.md) — `sourced`
 - [Contraction of power (śaktisaṅkoca)](sakti-sankoca.md) — `skeleton`
 - [Copying and honoring sūtras](sutra-copying.md) — `skeleton`
 - [Coursing in the perfection of wisdom by non-apprehension](non-apprehending-contemplation.md) — `skeleton`
@@ -185,14 +186,14 @@ skeleton: 1274 · sourced: 261
 - [Cremation-ground practice (Aghora)](aghora-smasana-sadhana.md) — `skeleton`
 - [Cremation-ground practice (śmaśāna-sādhana)](smasana-sadhana.md) — `skeleton`
 - [Cultivating compassion (Kamalaśīla)](compassion-meditation-bhavanakrama.md) — `skeleton`
-- [Cultivating discriminative discernment (viveka-khyāti)](viveka-khyati.md) — `skeleton`
+- [Cultivating discriminative discernment (viveka-khyāti)](viveka-khyati.md) — `sourced`
 - [Cultivating non-discrimination (abheda)](abheda-bhava.md) — `skeleton`
 - [Cultivating patience](cultivating-patience.md) — `skeleton`
 - [Cultivating sameness (samatva)](samatva.md) — `skeleton`
-- [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](four-attitudes.md) — `skeleton`
+- [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](four-attitudes.md) — `sourced`
 - [Cultivating the four gatekeepers](four-gatekeepers-practice.md) — `sourced`
 - [Cultivating the notion of the unlovely (aśubhasaṃjñā)](asubha-samjna-nyaya.md) — `skeleton`
-- [Cultivating the opposite (pratipakṣa-bhāvanā)](pratipaksa-bhavana.md) — `skeleton`
+- [Cultivating the opposite (pratipakṣa-bhāvanā)](pratipaksa-bhavana.md) — `sourced`
 - [Cultivation of compassion over many lives](cultivation-of-compassion-pramana.md) — `skeleton`
 - [Cultivation of the six virtues (ṣaṭ-sampatti)](sat-sampatti.md) — `skeleton`
 - [Cultivation of the vision of selflessness](nairatmya-bhavana-pramana.md) — `skeleton`
@@ -217,12 +218,12 @@ skeleton: 1274 · sourced: 261
 - [Deathbed rites for birth (linzhong xingyi / rinjū gyōgi)](deathbed-rites.md) — `skeleton`
 - [Deathless body and mind (Shangpa)](deathless-body-and-mind.md) — `skeleton`
 - [Debate for determining the truth (vāda)](vada-tattvanirnaya.md) — `skeleton`
+- [Declining the invitations of the high stations (YS 3.51)](ys-declining-invitations.md) — `sourced`
 - [Dedicating merit (pariṇāmanā)](dedication-of-merit.md) — `skeleton`
 - [Defining mentality-materiality (nāmarūpa-pariccheda)](namarupa-pariccheda.md) — `skeleton`
 - [Defining the four elements (catudhātuvavatthāna)](catudhatuvavatthana.md) — `skeleton`
 - [Deity yoga (generation-stage sādhana)](deity-yoga.md) — `skeleton`
 - [Dense recitation (ghanapāṭha)](ghana-patha.md) — `skeleton`
-- [Destruction of latent tendencies (vāsanā-kṣaya)](vasana-ksaya.md) — `skeleton`
 - [Developing the direct knowledges (abhiññā)](abhinna-development.md) — `skeleton`
 - [Development of compassion (karuṇā)](karuna-bhavana.md) — `skeleton`
 - [Development of equanimity (upekkhā)](upekkha-bhavana.md) — `skeleton`
@@ -231,7 +232,7 @@ skeleton: 1274 · sourced: 261
 - [Devotion to the teacher (guru-bhakti)](guru-bhakti.md) — `sourced`
 - [Devotion to the vajra master](guru-devotion-vajrayana.md) — `skeleton`
 - [Devotion to wakefulness](jagariyanuyoga.md) — `skeleton`
-- [Devotion to Īśvara (īśvara-praṇidhāna)](isvara-pranidhana.md) — `skeleton`
+- [Devotion to Īśvara (īśvara-praṇidhāna)](isvara-pranidhana.md) — `sourced`
 - [Devotional drama (bhāonā)](bhaona.md) — `skeleton`
 - [Devotional singing (bhajana, bhajan)](bhajana.md) — `skeleton`
 - [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](kirtana.md) — `sourced`
@@ -243,6 +244,7 @@ skeleton: 1274 · sourced: 261
 - [Dhutaṅga wandering (tudong)](tudong.md) — `skeleton` _(recent)_
 - [Dhyān (contemplation of the master's form)](dhyan-sant-mat.md) — `skeleton` _(recent)_
 - [Dhyāna: visualization in the āṇava means](dhyana-anava.md) — `skeleton`
+- [Dhāraṇā (concentration)](dharana.md) — `sourced`
 - [Dhāraṇī recitation](dharani-recitation.md) — `skeleton`
 - [Diet by measure, doṣa and quality](ahara-vidhi.md) — `skeleton`
 - [Dietary regimen by nyepa and season](sowa-rigpa-diet.md) — `skeleton`
@@ -258,7 +260,7 @@ skeleton: 1274 · sourced: 261
 - [Discrimination of the five sheaths (pañca-kośa-viveka)](panca-kosa-viveka.md) — `skeleton`
 - [Discussion for truth (vāda)](vada-debate.md) — `skeleton`
 - [Discussion with the learned (saṃvāda)](samvada-with-the-learned.md) — `skeleton`
-- [Dispassion (vairāgya)](vairagya.md) — `skeleton`
+- [Dispassion (vairāgya)](vairagya.md) — `sourced`
 - [Dissolution of the mind (mano-nāśa)](manonasa.md) — `skeleton`
 - [Dissolution of thought-constructs (vikalpakṣaya)](vikalpa-ksaya.md) — `skeleton`
 - [Dissolving the syllables of Oṃ into the Self (Rāma Gītā)](pranava-laya-rama-gita.md) — `sourced`
@@ -301,7 +303,7 @@ skeleton: 1274 · sourced: 261
 - [Expansion of power (śaktivikāsa); the bhairavī seal](sakti-vikasa.md) — `skeleton`
 - [Expiation by confession, remorse, austerity and recitation](prayascitta-confession.md) — `sourced`
 - [Expiatory and yogic recitation of the Raudrī Gāyatrī](raudri-gayatri-japa.md) — `skeleton`
-- [Expulsion and retention of breath (1.34)](pracchardana-vidharana.md) — `skeleton`
+- [Expulsion and retention of breath (YS 1.34)](pracchardana-vidharana.md) — `sourced`
 - [External therapies (bloodletting, moxibustion, compresses, baths)](sowa-rigpa-external-therapies.md) — `skeleton`
 - [Extreme reduction of food](ahara-upaccheda.md) — `skeleton`
 - [Fasting (anaśana)](anasana.md) — `skeleton`
@@ -443,7 +445,7 @@ skeleton: 1274 · sourced: 261
 - [Krama contemplation of the twelve Kālīs](krama-twelve-kalis-contemplation.md) — `skeleton`
 - [Krauñca-niṣadana (sitting like a curlew)](krauncanisadanasana.md) — `skeleton`
 - [Kriyā (Śaiva ritual worship)](saiva-kriya.md) — `skeleton`
-- [Kriyā-yoga (austerity, self-study, devotion to Īśvara)](kriya-yoga.md) — `skeleton`
+- [Kriyā-yoga (austerity, self-study, devotion to Īśvara)](kriya-yoga.md) — `sourced`
 - [Kukkuṭāsana (the cockerel)](kukkutasana.md) — `skeleton`
 - [Kula worship (the 'primal sacrifice') as interpreted by Abhinavagupta](kula-yaga.md) — `skeleton`
 - [Kula worship with the five tattvas (pañca-makāra)](pancatattva-puja.md) — `skeleton`
@@ -507,7 +509,7 @@ skeleton: 1274 · sourced: 261
 - [Maṇḍala offering](mandala-offering.md) — `skeleton`
 - [Maṇḍūkāsana (the frog)](mandukasana.md) — `skeleton`
 - [Medicine Buddha practice and consecration of medicines (sman sgrub)](medicine-buddha-practice.md) — `skeleton`
-- [Meditation (dhyāna)](dhyana.md) — `sourced`
+- [Meditation (dhyāna) as the means of abandoning the afflictions' activities](dhyana.md) — `sourced`
 - [Meditation (nididhyāsana / dhyāna)](nididhyasana.md) — `sourced`
 - [Meditation as objectless mind (dhyāna)](nirvisaya-dhyana.md) — `skeleton`
 - [Meditation in the heart lotus](heart-lotus-meditation.md) — `sourced`
@@ -540,7 +542,7 @@ skeleton: 1274 · sourced: 261
 - [Meditation on the syllable A](a-syllable-meditation.md) — `skeleton`
 - [Meditation on the udgītha](udgitha-upasana.md) — `sourced`
 - [Meditation on the vyāhṛtis](vyahrti-upasana.md) — `sourced`
-- [Meditation on whatever is agreeable (1.39)](yathabhimata-dhyana.md) — `skeleton`
+- [Meditation on whatever is agreeable (YS 1.39)](yathabhimata-dhyana.md) — `sourced`
 - [Meditation with and without qualities](saguna-nirguna-dhyana.md) — `sourced`
 - [Meditation with and without qualities (Gorakṣaśataka)](gs-saguna-nirguna-dhyana.md) — `skeleton`
 - [Meditative cultivation of a real object (to yogic perception)](bhutartha-bhavana.md) — `skeleton`
@@ -550,7 +552,7 @@ skeleton: 1274 · sourced: 261
 - [Mental worship of the body-liṅga with eight flowers](deha-linga-manasa-puja.md) — `skeleton`
 - [Metal transmutation (lohavedha / dhātuvāda)](lohavedha.md) — `skeleton`
 - [Method of agreement and difference (anvaya-vyatireka)](anvaya-vyatireka.md) — `skeleton`
-- [Mind on one free of passion (1.37)](vitaraga-visaya-citta.md) — `skeleton`
+- [Mind on one free of passion (YS 1.37)](vitaraga-visaya-citta.md) — `sourced`
 - [Mind training (blo sbyong)](lojong.md) — `skeleton`
 - [Mind-training transference at death (the five powers)](lojong-at-death.md) — `skeleton`
 - [Mindfulness directed to the body (kāyagatāsati)](kayagatasati.md) — `skeleton`
@@ -590,8 +592,8 @@ skeleton: 1274 · sourced: 261
 - [Niṣkramaṇa (first outing)](niskramana.md) — `sourced`
 - [Non-harming (ahiṃsā)](ahimsa.md) — `sourced`
 - [Non-killing (kollāmai)](kollamai.md) — `skeleton`
-- [Non-possessiveness (aparigraha)](aparigraha.md) — `skeleton`
-- [Non-stealing (asteya)](asteya.md) — `skeleton`
+- [Non-possessiveness (aparigraha)](aparigraha.md) — `sourced`
+- [Non-stealing (asteya)](asteya.md) — `sourced`
 - [Not eating at night](ratribhojana-tyaga.md) — `skeleton`
 - [Not suppressing the natural urges](vega-adharana.md) — `skeleton`
 - [Noting (the Mahāsi method)](mahasi-noting.md) — `skeleton` _(recent)_
@@ -668,16 +670,16 @@ skeleton: 1274 · sourced: 261
 - [Placing the syllables for liberation (Kaula nyāsa)](kjn-nyasa.md) — `skeleton`
 - [Plucking out the hair (keśa-loca)](kesaloca.md) — `skeleton`
 - [Plāvinī ('the floating')](plavini.md) — `skeleton`
-- [Posture (āsana)](asana.md) — `skeleton`
+- [Posture (āsana)](asana.md) — `sourced`
 - [Postures of the Yoga Upaniṣads](asanas-yoga-upanisads.md) — `sourced`
 - [Pot-consecration and bathing (kalaśābhiṣeka)](kalasabhiseka.md) — `skeleton`
-- [Practice (abhyāsa)](abhyasa.md) — `skeleton`
+- [Practice (abhyāsa)](abhyasa.md) — `sourced`
 - [Practice and dispassion (abhyāsa and vairāgya)](abhyasa-vairagya.md) — `skeleton`
 - [Practice of Brahman (brahmābhyāsa)](brahmabhyasa.md) — `sourced`
 - [Practice of the Eight Herukas (bka' brgyad)](kagye-sadhana.md) — `skeleton`
 - [Practice of the six perfections](six-paramitas-practice.md) — `skeleton`
 - [Practice of the Sūrimantra](surimantra-sadhana.md) — `skeleton`
-- [Practice on a single principle (ekatattva-abhyāsa)](ekatattva-abhyasa.md) — `skeleton`
+- [Practice on a single principle (ekatattva-abhyāsa)](ekatattva-abhyasa.md) — `sourced`
 - [Practice seated on a corpse (śava-sādhana)](sava-sadhana.md) — `skeleton`
 - [Practice with a consort (latā-sādhana)](lata-sadhana.md) — `skeleton`
 - [Prasaṅkhyāna (repeated contemplation after verbal knowledge)](prasankhyana.md) — `skeleton`
@@ -709,7 +711,7 @@ skeleton: 1274 · sourced: 261
 - [Purification of the elements (bhūtaśuddhi)](bhutasuddhi.md) — `skeleton`
 - [Purification of the self by restraints and observances](atmasamskara-yama-niyama.md) — `skeleton`
 - [Purification rite for the dead (byang chog)](jangchog.md) — `skeleton`
-- [Purity (śauca)](sauca.md) — `skeleton`
+- [Purity (śauca)](sauca.md) — `sourced`
 - [Purity of food (āhāraśuddhi)](ahara-suddhi.md) — `sourced`
 - [Purāṇic prāṇāyāma](pranayama-puranic.md) — `sourced`
 - [Puṃsavana (rite for a male child)](pumsavana.md) — `sourced`
@@ -804,7 +806,7 @@ skeleton: 1274 · sourced: 261
 - [Repeated practice of the principles (tattvābhyāsa)](tattvabhyasa.md) — `skeleton`
 - [Repeated study of the science of the self](jnanagrahana-abhyasa.md) — `skeleton`
 - [Repentance and vows for birth (Zunshi's rite)](pure-land-repentance.md) — `skeleton`
-- [Repetition of and meditation on Oṃ (praṇava-japa, praṇava-upāsanā)](pranava-japa.md) — `skeleton`
+- [Repetition of and meditation on Oṃ (praṇava-japa)](pranava-japa.md) — `sourced`
 - [Repetition of Rāma's name and mantra](rama-nama-japa.md) — `skeleton`
 - [Repetition of the divine name on beads (nāma-japa)](nama-japa.md) — `skeleton`
 - [Repetition of the five-syllable mantra](pancaksara-japa.md) — `sourced`
@@ -841,7 +843,7 @@ skeleton: 1274 · sourced: 261
 - [Samasaṃsthāna (the even configuration)](samasamsthanasana.md) — `skeleton`
 - [Samaya worship in the heart-space (dahara)](samaya-dahara-puja.md) — `skeleton`
 - [Samu / puqing (communal work)](samu.md) — `skeleton`
-- [Samādhi as the eighth limb](samadhi.md) — `sourced`
+- [Samādhi (in the Vibhūti-pāda account)](samadhi.md) — `sourced`
 - [Samāvartana (return home, final bath)](samavartana.md) — `sourced`
 - [Sandhyā (twilight worship)](sandhyavandana.md) — `sourced`
 - [Sapiṇḍīkaraṇa](sapindikarana.md) — `sourced`
@@ -850,7 +852,7 @@ skeleton: 1274 · sourced: 261
 - [Satyakāma's meditation on the four quarters of brahman](sodasakala-vidya.md) — `sourced`
 - [Sautrāmaṇī](sautramani.md) — `sourced`
 - [Savikalpa samādhi (Vedānta)](savikalpa-samadhi.md) — `skeleton`
-- [Saṃyama](samyama.md) — `skeleton`
+- [Saṃyama](samyama.md) — `sourced`
 - [Saṃyamas for powers (Śāṇḍilya)](samyama-yoga-upanisads.md) — `sourced`
 - [Saṅkaṭāsana (the constricted seat)](sankatasana.md) — `skeleton`
 - [Searching for the mind (sems 'tshol)](mind-searching.md) — `skeleton`
@@ -872,7 +874,7 @@ skeleton: 1274 · sourced: 261
 - [Self-study (svādhyāya)](svadhyaya.md) — `sourced`
 - [Sending and taking (gtong len)](tonglen.md) — `skeleton`
 - [Sense restraint (indriyasaṃvara)](indriya-samvara.md) — `skeleton`
-- [Sense-withdrawal (pratyāhāra) in the haṭha texts](pratyahara.md) — `sourced`
+- [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](pratyahara.md) — `sourced`
 - [Senseless acts (avitatkaraṇa)](avitatkarana.md) — `skeleton`
 - [Senseless speech (avitadbhāṣaṇa)](avitadbhasana.md) — `skeleton`
 - [Separating saṃsāra and nirvāṇa ('khor 'das ru shan)](rushen.md) — `skeleton`
@@ -930,7 +932,7 @@ skeleton: 1274 · sourced: 261
 - [Sukhāsana (the comfortable seat)](sukhasana.md) — `skeleton`
 - [Sung and enacted recitation of the Prabandham (araiyar cēvai)](araiyar-sevai.md) — `skeleton`
 - [Superimposition (āropa) — summary only](aropa-sadhana.md) — `skeleton`
-- [Support in the knowledge of dream and sleep (1.38)](svapna-nidra-jnana-alambana.md) — `skeleton`
+- [Support in the knowledge of dream and sleep (YS 1.38)](svapna-nidra-jnana-alambana.md) — `sourced`
 - [Supporting the dying with wholesome objects](deathbed-recollection.md) — `skeleton`
 - [Surat-śabd yoga (the yoga of the sound current)](surat-sabd-yoga.md) — `skeleton` _(recent)_
 - [Surrender (prapatti / śaraṇāgati)](prapatti.md) — `skeleton`
@@ -1005,6 +1007,7 @@ skeleton: 1274 · sourced: 261
 - [The earth kasiṇa (pathavī-kasiṇa)](kasina-earth.md) — `skeleton`
 - [The eight antidotal formations](eight-antidotal-formations.md) — `skeleton`
 - [The eight deliverances (vimokṣa)](eight-vimoksas.md) — `skeleton`
+- [The eight limbs of yoga as a practice (yogāṅga-anuṣṭhāna)](yoganga.md) — `sourced`
 - [The eight modified recitations (vikṛti)](vikrti-pathas.md) — `sourced`
 - [The eight precepts](attha-sila.md) — `skeleton`
 - [The eight spheres of mastery (abhibhvāyatana)](eight-abhibhvayatanas.md) — `skeleton`
@@ -1059,7 +1062,7 @@ skeleton: 1274 · sourced: 261
 - [The Four-Session Guru Yoga of the 8th Karmapa](four-session-guru-yoga.md) — `skeleton`
 - [The fourfold accomplishment (ārādhanā) at life's end](aradhana.md) — `skeleton`
 - [The fourfold purity of virtue (catupārisuddhi-sīla)](catuparisuddhi-sila.md) — `skeleton`
-- [The fourth prāṇāyāma (2.51)](caturtha-pranayama.md) — `skeleton`
+- [The fourth prāṇāyāma (YS 2.51)](caturtha-pranayama.md) — `sourced`
 - [The gift of the Vaitaraṇī cow](godana-vaitarani.md) — `sourced`
 - [The Golden Light confession](golden-light-confession.md) — `skeleton`
 - [The great departure (mahāprasthāna)](mahaprasthana.md) — `sourced`
@@ -1111,7 +1114,7 @@ skeleton: 1274 · sourced: 261
 - [The non-dual caru rite](caru-advaita-acara.md) — `skeleton`
 - [The Nyingma preliminaries (sngon 'gro)](ngondro-nyingma.md) — `skeleton`
 - [The observance (vratacaryā)](vratacarya.md) — `skeleton`
-- [The observances (niyama)](niyama.md) — `skeleton`
+- [The observances (niyama)](niyama.md) — `sourced`
 - [The one-sessioner's practice (ekasanikaṅga)](ekasanikanga.md) — `skeleton`
 - [The open-air dweller's practice (abbhokasikaṅga)](abbhokasikanga.md) — `skeleton`
 - [The postures of the Haṭhābhyāsapaddhati (group entry)](hathabhyasapaddhati-asanas.md) — `skeleton`
@@ -1130,7 +1133,7 @@ skeleton: 1274 · sourced: 261
 - [The red kasiṇa (lohita-kasiṇa)](kasina-red.md) — `skeleton`
 - [The refuse-rag wearer's practice (pamsukulikaṅga)](pamsukulikanga.md) — `skeleton`
 - [The renunciation rite (saṃnyāsa-dīkṣā)](sannyasa-diksa.md) — `sourced`
-- [The restraints (yama)](yama.md) — `skeleton`
+- [The restraints (yama)](yama.md) — `sourced`
 - [The restraints and observances of the haṭha texts](hatha-yama-niyama.md) — `skeleton`
 - [The retentions of the Kumbhakapaddhati (group entry)](kumbhakapaddhati-retentions.md) — `skeleton`
 - [The rites of the royal expedition (yātrā)](yatra-rites.md) — `skeleton`
@@ -1168,7 +1171,7 @@ skeleton: 1274 · sourced: 261
 - [The sixty-four services (catuḥṣaṣṭy-upacāra)](catuhsasti-upacara.md) — `skeleton`
 - [The small vows and lay vows](anuvratas.md) — `skeleton`
 - [The soma sacrifice (agniṣṭoma)](agnistoma.md) — `skeleton`
-- [The sorrowless, luminous activity (1.36)](visoka-jyotismati.md) — `skeleton`
+- [The sorrowless, luminous activity (YS 1.36)](visoka-jyotismati.md) — `sourced`
 - [The space kasiṇa (paricchinnākāsa (limited space)-kasiṇa)](kasina-space.md) — `skeleton`
 - [The Sunlun method](sunlun-method.md) — `skeleton` _(recent)_
 - [The tantric feast (gaṇacakra)](ganacakra.md) — `skeleton`
@@ -1262,7 +1265,6 @@ skeleton: 1274 · sourced: 261
 - [Vastra-dhauti (washing with a cloth; vāso-dhauti)](vastra-dhauti.md) — `skeleton`
 - [Vedic funeral (pitṛmedha / antyeṣṭi as the hymns give it)](pitrmedha.md) — `skeleton`
 - [Vedic recitation (vedapāṭha, svādhyāya of the Saṃhitā)](vedapatha.md) — `skeleton`
-- [Vedic studentship (brahmacarya)](brahmacarya.md) — `sourced`
 - [Vedic studentship (brahmacarya), temporary or lifelong](naisthika-brahmacarya.md) — `sourced`
 - [Vedic study (vedādhyayana / svādhyāya)](vedadhyayana.md) — `skeleton`
 - [Venerating it as the self](atma-upasana.md) — `sourced`

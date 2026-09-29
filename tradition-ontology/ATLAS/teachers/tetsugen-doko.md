@@ -10,4 +10,4 @@
 Japanese Ōbaku monk who produced the woodblock edition of the complete canon (1669–1681), twice diverting the funds to famine relief first.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

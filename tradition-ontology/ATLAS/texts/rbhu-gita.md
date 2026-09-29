@@ -45,4 +45,4 @@ _Notes: The same teacher-disciple pair (Ṛbhu and Nidāgha) appears in Viṣṇ
 
 - 2026-09-29 websearch: partially-confirmed — https://en.wikipedia.org/wiki/Shivarahasya_Purana, https://sanskritdocuments.org/doc_giitaa/RGall.itx, https://archive.arunachala.org/docs/ribhu-gita/intro, https://sanskritdocuments.org/sites/ribhugita/itrans/RGChap37.html — Confirmed: the sixth aṃśa of the 12-part Śivarahasya; about 2,000 (some say 2,200) verses; a Ṛbhu-Nidāgha dialogue on Kedāra; the Sanskrit is online in chapters (sanskritdocuments has at least 37, so 'several dozen' holds). Not confirmed: the exact chapter count and the 44-chapter Tamil rendering. The Sanskrit text is digitized (sanskritdocuments), so availability could be 'digitized-original'.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

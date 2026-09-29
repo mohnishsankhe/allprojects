@@ -1,6 +1,6 @@
-# Teachers (2775)
+# Teachers (2776)
 
-skeleton: 2377 · sourced: 398
+skeleton: 2377 · sourced: 399
 
 - [A. C. Bhaktivedanta Swami Prabhupāda](bhaktivedanta-swami.md) — `skeleton` _(recent)_
 - [Abhayadatta](abhayadatta.md) — `skeleton`
@@ -1477,6 +1477,7 @@ skeleton: 2377 · sourced: 398
 - [Nandikeśvara](nandikesvara.md) — `sourced`
 - [Nandikeśvara (author of the Liṅgadhāraṇacandrikā)](nandikesvara-virasaiva.md) — `skeleton`
 - [Nandīśvara](nandisvara.md) — `skeleton`
+- [Nandīśvara (as named in the Yoga-bhāṣya on 4.3)](nandisvara-bhasya-example.md) — `sourced`
 - [Nanpo Shōmyō 南浦紹明 (Daiō kokushi)](nanpo-shomyo.md) — `skeleton`
 - [Nanquan Puyuan 南泉普願](nanquan.md) — `skeleton`
 - [Nantaṉār (Tirunāḷaippōvār)](nantanar.md) — `skeleton`

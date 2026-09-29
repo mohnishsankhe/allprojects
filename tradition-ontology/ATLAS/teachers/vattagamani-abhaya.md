@@ -9,4 +9,4 @@
 King of Laṅkā in whose reign, by the chronicles, the Tipiṭaka and its commentary were written down at the Āloka-vihāra (Aluvihāra) for fear of their loss.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

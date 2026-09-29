@@ -12,4 +12,4 @@
 Jinul's successor at Suseonsa, who promoted ganhwa Seon and compiled the Seonmun yeomsong jip.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

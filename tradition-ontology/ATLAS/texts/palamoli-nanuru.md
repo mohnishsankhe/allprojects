@@ -14,4 +14,4 @@
 Four hundred quatrains each ending in a proverb (paḻamoḻi), by the Jain poet Muṉṟuṟai Araiyaṉār; one of the Eighteen Minor Classics.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

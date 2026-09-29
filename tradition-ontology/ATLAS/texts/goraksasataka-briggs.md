@@ -62,4 +62,4 @@ terms: [nāda](../terms/nada.md) · practices: [Breath-control through moon and 
 
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

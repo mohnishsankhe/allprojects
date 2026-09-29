@@ -9,4 +9,4 @@
 Kharatara ācārya (1075–1154), the first 'Dādāguru', credited with converting many Rajput and other clans to Jainism.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

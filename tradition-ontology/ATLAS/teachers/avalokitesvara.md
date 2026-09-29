@@ -16,4 +16,4 @@ _Notes: Gender: male in Indian and Tibetan iconography; female forms (Guanyin) p
 
 - 2026-09-29 text: confirmed — src:prajnaparamita-hrdaya — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:prajnaparamita-hrdaya/all, skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:prajnaparamita-hrdaya/all, skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

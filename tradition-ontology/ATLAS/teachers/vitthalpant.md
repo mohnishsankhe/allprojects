@@ -13,4 +13,4 @@ Father of Nivṛttināth, Jñāneśvar, Sopāndev and Muktābāī: a brahmin of 
 _Notes: Name of his sannyāsa-guru differs between accounts (some say Rāmānanda / Śrīpād); not recorded here._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

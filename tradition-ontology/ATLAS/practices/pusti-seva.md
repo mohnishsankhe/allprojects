@@ -13,4 +13,4 @@ Loving, householder service of Kṛṣṇa's image (svarūpa) as a living child 
   - [Sevāphala](../texts/sevaphala.md) — ref: 1-3; rests_on: ["tea:sevaphala:1-3"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

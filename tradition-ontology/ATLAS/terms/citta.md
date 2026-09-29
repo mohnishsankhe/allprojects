@@ -1,12 +1,13 @@
 # citta
 
-`trm:citta` · `skeleton` · confidence high
+`trm:citta` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Native script:** चित्त
-**Literal:** mind; that which is conscious (as if)
+**Literal:** mind
 
 ## Definitions by tradition
+- [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): In this part of the text: the mind is coloured by the seer and the seen and so is 'all-objective' (4.23); it is not self-luminous because it is seen (4.19); though variegated by countless vāsanās it is for another, since it acts in combination (4.24); when discrimination-inclined it slopes towards kaivalya (4.26).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The mind, a product of prakṛti made of the three guṇas, whose activities are to be stilled; it is seen, not self-luminous, and exists for the sake of the puruṣa; one, having many objects, and enduring (YBh 1.32). Commentators gloss it as the inner organ (antaḥkaraṇa).
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): The mind that changes day and night like a monkey (SN 12.61); luminous but defiled by adventitious defilements (AN 1.51–52); to be tamed (Dhp 35); the third establishment of mindfulness; also an iddhipāda (concentration through mind).
 - [Theravāda](../lineages/theravada.md): Consciousness, the bare knowing of an object and forerunner of the mental factors; the first ultimate reality, classified into 89 (or 121) types; synonymous with viññāṇa and mano.
@@ -41,8 +42,9 @@ _Notes: Shared slug with Yoga's citta; this is the early-Buddhist contribution._
 ---
 **Verification checks**
 
+- 2026-09-29 text: partially-confirmed — tea:yoga-sutra:3.1, tea:yoga-bhasya:3.1, tea:yoga-sutra:4.10, tea:yoga-bhasya:4.10, tea:yoga-bhasya:4.10/2, tea:yoga-sutra:4.17, tea:yoga-bhasya:4.17, tea:yoga-sutra:4.19, tea:yoga-bhasya:4.19, tea:yoga-sutra:4.23, tea:yoga-bhasya:4.23, tea:yoga-sutra:4.24 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
 - 2026-09-29 text: corrected — tea:bhagavad-gita:6.10, tea:bhagavad-gita:6.12, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.19, tea:bhagavad-gita:6.20 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.9, tea:bhagavad-gita:12.9 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.10 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U38-early-schools, extraction:bhagavad-gita/ch13-15, skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism, skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:yoga-sutra/p3-4, skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U38-early-schools, extraction:bhagavad-gita/ch13-15, skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

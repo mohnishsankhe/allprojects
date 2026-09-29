@@ -23,4 +23,4 @@ The wording supports the distinction: Manu's 'nakṣatrair yaś ca jīvati' (liv
 **The traditions' own objections:** The jyotiṣa authors would not accept that their statements are mere praise; strict smṛti readers may exclude any professional astrologer.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

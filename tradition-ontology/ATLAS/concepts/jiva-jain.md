@@ -15,4 +15,4 @@
 - contrasts-with → [Puruṣa (the conscious self)](purusa.md): Unlike the Sāṃkhya-Yoga puruṣa, the Jain soul is an agent, changes in its modes and is body-sized. — rests on [5.16](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-5-16), [2](../texts/dravyasangraha.md#tea-dravyasangraha-2)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

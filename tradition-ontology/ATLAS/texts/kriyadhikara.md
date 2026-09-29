@@ -40,4 +40,4 @@ terms: [niṣkala / sakala](../terms/niskala-sakala.md), [dhruva-bera](../terms/
 _Notes: Checked in sources_raw/raw_etexts/mixed/ebhAratI-sampat/AgamaH/vaikhAnasam/bhRgumaharShiH/kriyAdhikAraH.md (Kriyādhikāra, eBhāratī/NSU Tirupati)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

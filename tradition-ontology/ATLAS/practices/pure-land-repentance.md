@@ -12,4 +12,4 @@ Worship of the buddhas, confession of the sins of body, speech and mind, and vow
   - [Precious Mirror of the Lotus School of Lushan](../texts/lushan-lianzong-baojian.md) — ref: 326a22-24; rests_on: ["tea:lushan-lianzong-baojian:326a12"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

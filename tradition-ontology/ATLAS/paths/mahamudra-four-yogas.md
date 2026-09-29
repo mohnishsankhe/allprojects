@@ -27,4 +27,4 @@
 The twelve levels are given as in Dakpo Tashi Namgyal's Moonbeams; descriptions of the middling and greater levels are kept generic because they were not recalled with confidence. The correlations with the five paths differ among Kagyu masters (tea:moonbeams-of-mahamudra:pt.2/7).
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:32 IST._

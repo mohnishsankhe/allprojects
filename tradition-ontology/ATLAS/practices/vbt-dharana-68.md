@@ -18,4 +18,4 @@ Having first pierced some part of the body with a sharp needle or the like, then
 _Notes: Verses 93 (KSTS 8 / GRETIL numbering). Restricted (the verse involves piercing the body). Restricted: summary of what the verse says only; the text gives no method and none is supplied here. The tradition treats such practices as requiring initiation and a qualified teacher._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

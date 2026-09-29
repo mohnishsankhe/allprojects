@@ -21,4 +21,4 @@ The name under which the five 'Dharmas of Maitreya' (Tibetan list) and, in Chine
 _Notes: Whether a historical human teacher named Maitreya(nātha) existed is a scholarly question (Ui Hakuju argued yes; others treat the name as a pious attribution). The registry id is used for the author; the bodhisattva is tch:maitreya-bodhisattva (U39)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

@@ -14,4 +14,4 @@
 - leads-to → [Devotion (bhakti)](bhakti.md) — rests on [38-40](../texts/narada-bhakti-sutra.md#tea-narada-bhakti-sutra-38-40)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._

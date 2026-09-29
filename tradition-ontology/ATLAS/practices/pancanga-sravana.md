@@ -12,4 +12,4 @@ On the lunar or solar New Year the almanac of the coming year — its king and m
 _Notes: Regional practice (e.g. Ugādi, Gudi Padvā, Tamil New Year); not traced to a classical verse here._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

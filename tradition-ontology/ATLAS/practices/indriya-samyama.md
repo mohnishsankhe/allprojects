@@ -22,7 +22,7 @@ Withdraw the senses from their objects on all sides as a tortoise draws in its l
 - Attraction and aversion lie in the object of each sense; do not come under their sway, for they are waylayers. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 3.34
 
 ## Equivalents (interpretation layer)
-- analogous: [Sense-withdrawal (pratyāhāra) in the haṭha texts](pratyahara.md) — The Gītā's withdrawal of the senses from their objects (tortoise image); the word pratyāhāra is not used in ch. 1–3.
+- analogous: [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](pratyahara.md) — The Gītā's withdrawal of the senses from their objects (tortoise image); the word pratyāhāra is not used in ch. 1–3.
 
 _Notes: Merger: probably the same as the skeleton's prc:indriya-nigraha ('Restraint and withdrawal of the senses', BhG 2.58, 3.41); both extractors used this id, so it is kept; flagged for the de-duplication pass._
 
@@ -31,4 +31,4 @@ _Notes: Merger: probably the same as the skeleton's prc:indriya-nigraha ('Restra
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.4 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:32 IST._

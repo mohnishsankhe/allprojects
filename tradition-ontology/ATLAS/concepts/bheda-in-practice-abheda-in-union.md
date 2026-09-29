@@ -13,4 +13,4 @@
 - part-of → [The six stages (ṣaṭsthala)](satsthala.md) — rests on [5.22-23](../texts/siddhantasikhamani.md#tea-siddhantasikhamani-5-22-23)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

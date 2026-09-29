@@ -16,4 +16,4 @@ The mind is rested on an object — a small pebble or stick, an image, the breat
 - Too tight brings agitation, too loose dullness: balance them. — [Moonbeams of Mahāmudrā](../texts/moonbeams-of-mahamudra.md) pt.2
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

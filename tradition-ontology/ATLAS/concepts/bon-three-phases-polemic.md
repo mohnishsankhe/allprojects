@@ -15,4 +15,4 @@
 _Notes: Recorded as the opponents' account (reported by Buddhist historians); see dsp:bon-and-buddhism._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

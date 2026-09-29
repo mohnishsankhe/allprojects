@@ -18,4 +18,4 @@ Vasiṣṭha's instruction on repose in one's own nature (svabhāva-viśrānti) 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Colophons 'vasiṣṭhagītāsu svabhāvaviśrāntiyogopadeśo' (6.196) and 'vasiṣṭhagītāsu ātmaviśrāntikathanaṃ' (6.197) verified.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

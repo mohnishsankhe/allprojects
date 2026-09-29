@@ -55,4 +55,4 @@ The school founded by the first Karmapa, Düsum Khyenpa, a principal disciple of
 _Notes: The recognition of the 17th Karmapa is contested between two candidates (Ogyen Trinley Dorje and Trinley Thaye Dorje); recorded as metadata only (recent)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

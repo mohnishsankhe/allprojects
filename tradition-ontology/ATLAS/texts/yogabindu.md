@@ -23,7 +23,7 @@ Adhyātma, cultivation (bhāvanā), meditation, equanimity (samatā) and the end
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [adhyātma](../terms/adhyatma.md), [bhāvanā](../terms/bhavana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [samatā](../terms/samata.md), [vṛttisaṃkṣaya](../terms/vrttisanksaya.md) · concepts: [The five yogas of the Yogabindu](../concepts/haribhadra-five-yogas.md) · teachers: [Haribhadra Sūri](../teachers/haribhadra.md)
+terms: [adhyātma](../terms/adhyatma.md), [bhāvanā](../terms/bhavana.md), [dhyāna](../terms/dhyana.md), [samatā](../terms/samata.md), [vṛttisaṃkṣaya](../terms/vrttisanksaya.md) · concepts: [The five yogas of the Yogabindu](../concepts/haribhadra-five-yogas.md) · teachers: [Haribhadra Sūri](../teachers/haribhadra.md)
 
 ### anusthana <a id="tea-yogabindu-anusthana"></a>
 `skeleton` · confidence moderate
@@ -63,4 +63,4 @@ terms: [vṛttisaṃkṣaya](../terms/vrttisanksaya.md), [kevala-jñāna](../ter
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

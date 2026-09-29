@@ -10,4 +10,4 @@ Commentator on the Mūlamadhyamakakārikā named in Avalokitavrata's list; his c
 _Notes: Identity with the Yogācāra Guṇamati uncertain._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

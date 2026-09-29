@@ -13,4 +13,4 @@
 Longchenpa's compilation of the instruction-series Heart-essence: the Vima Nyingthig with his Lama Yangtig, and the Khandro Nyingthig with his Khandro Yangtig, completed by his Zabmo Yangtig.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

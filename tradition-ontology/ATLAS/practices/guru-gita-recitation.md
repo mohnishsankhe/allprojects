@@ -19,4 +19,4 @@ Reciting or chanting the Guru Gītā, prescribed in the text for success, protec
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/kAvyam/padyam/peterFreund/stotram/guru_gita.md (Ganeshpuri recension) — Rests on tea:guru-gita:173-181; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

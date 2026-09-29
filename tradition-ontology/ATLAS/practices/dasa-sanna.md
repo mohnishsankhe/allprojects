@@ -12,4 +12,4 @@ Impermanence, not-self, unattractiveness, danger, abandoning, dispassion, cessat
   - [Girimānanda Sutta](../texts/girimananda-sutta.md) — ref: 3-13; rests_on: ["tea:girimananda-sutta:3-13"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

@@ -17,4 +17,4 @@ Bhaṭṭāraka Jñānabhūṣaṇa's Sanskrit verses on realizing the pure self
 _Notes: Title present in the local catalogue (catalog:JainDB:तत्त्वज्ञान-तरंगिणी--भट्टारक-ज्ञानभूषण); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

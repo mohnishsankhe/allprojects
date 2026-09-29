@@ -18,4 +18,4 @@ The Kāṇva recension of the White Yajurveda Saṃhitā, parallel to the Mādhy
 
 - 2026-09-28 websearch: confirmed — https://vedicheritage.gov.in/samhitas/yajurveda/vajasaneyi-kanva-samhita/, text:sources_raw/DharmicData/Yajurveda/vajasneyi_kanva_samhita_chapters.json — Confirmed: 40 adhyāyas and 2,086 verses. Extant locally (DharmicData, partial chapter file).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

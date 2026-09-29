@@ -9,4 +9,4 @@
 The silent teacher of Tāyumāṉavar at Tiruchirappalli, praised in his songs as coming in Tirumūlar's line (mūlaṉ marapu), who taught by the instruction 'be still'.
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

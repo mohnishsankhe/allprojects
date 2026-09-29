@@ -629,4 +629,4 @@ terms: [bādha](../terms/badha-mimamsa.md) · concepts: [Archetype, ectype and t
 _Notes: Sūtra numbers used in this unit were checked against the two local digital editions named in editions; where they differ only in punctuation, the GRETIL wording is quoted._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._

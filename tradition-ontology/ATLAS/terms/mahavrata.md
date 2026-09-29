@@ -26,4 +26,4 @@ _Notes: Homonym of the Vedic śrauta Mahāvrata rite, which is unrelated._
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.2 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U10-yoga, skeleton:U17-pasupata-kapalika, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U10-yoga, skeleton:U17-pasupata-kapalika, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

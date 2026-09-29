@@ -33,4 +33,4 @@ teachers: [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md)
 
 - 2026-09-29 text-locate: partially-confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md — KP 2.12 opens Vyāsa's teaching on the dharma of the twice-born (the student, 2.12; householder, food, śrāddha, impurity, gifts, forest-dweller, renunciant, expiations 2.13-2.33). The tīrtha section begins at 2.34, so the range fits. But the local colophons do not carry the name 'Vyāsa Gītā', and the name was not checked elsewhere.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

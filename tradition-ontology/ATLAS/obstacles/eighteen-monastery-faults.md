@@ -12,4 +12,4 @@ Features that make a dwelling unsuitable for developing concentration.
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: III, PTS p. 118; rests_on: ["tea:visuddhimagga:3/11"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

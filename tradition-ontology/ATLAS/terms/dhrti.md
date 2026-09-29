@@ -25,4 +25,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.7 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.34, tea:bhagavad-gita:11.24 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:32 IST._

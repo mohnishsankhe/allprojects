@@ -12,4 +12,4 @@ The Vajra Verses list obstacles for the yogin of the method side (guarded agains
   - [Lamdre root text: the Vajra Verses (lam 'bras bu dang bcas pa'i gdams ngag)](../texts/lamdre.md) — ref: 139b.7; 140a.1; rests_on: ["tea:lamdre:139b.7", "tea:lamdre:140a.1"]
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

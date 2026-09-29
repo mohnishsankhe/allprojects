@@ -15,4 +15,4 @@
 Commentator and manual author from Uragapura (Uraiyūr) in the Cola country, said to have been a contemporary of Buddhaghosa; author of the Abhidhammāvatāra and the Vinayavinicchaya.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

@@ -28,4 +28,4 @@ _level: conventional · standpoint: divine · path: devotion · stage: all · ty
 
 - 2026-09-29 catalog: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (lines 26335 and 26492, collection nos. 109-110) — The two parts are nos. 109 and 110 of the e-text, both with Atharvan colophons. Note: the 'Oṃ, this all is the one syllable' opening is in the uttara part, not pūrva 1; see the check of tea:ganesatapani-upanisad:purva-1.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._

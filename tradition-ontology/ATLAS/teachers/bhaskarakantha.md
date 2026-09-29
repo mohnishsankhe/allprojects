@@ -20,4 +20,4 @@ _Notes: Identification with the Lallāvākyāni translator is low confidence._
 
 - 2026-09-29 websearch: confirmed — https://www.wisdomlib.org/definition/bhaskarakantha, http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/advaita/motik_pu.htm — 18th-c. Kashmiri (Rājanaka) Bhāskarakaṇṭha, author of the Mokṣopāyaṭīkā and the Bhāskarī on the Īśvarapratyabhijñāvimarśinī.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

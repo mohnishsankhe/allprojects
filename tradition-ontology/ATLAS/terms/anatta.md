@@ -13,8 +13,8 @@
 - Sanskrit: anātman  — exact
 
 ## Equivalents (interpretation layer)
-- exact: `trm:anatman` — same word; the Buddhist Sanskrit form
+- exact: [anātman](anatman.md) — same word; the Buddhist Sanskrit form
 **Related:** [attā](atta.md), [sakkāyadiṭṭhi](sakkaya-ditthi.md), [suññatā](sunnata.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

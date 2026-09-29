@@ -10,4 +10,4 @@
 Scribe who wrote down the Jñāneśvarī at Nevāse as Jñāneśvar spoke it; tradition says Jñāneśvar restored him to life.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

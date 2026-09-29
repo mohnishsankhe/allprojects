@@ -13,4 +13,4 @@ Five Kashmiri hymns to Tripurā (Laghustava, Carcāstava, Ghaṭastava, Ambāsta
   - kind: original; name: stotra e-text (raw_etexts panchastavI); Laghustava and Carcāstava in Muktabodha
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

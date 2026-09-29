@@ -13,4 +13,4 @@
 Kāraikkāl Ammaiyār's twenty-verse 'double gem garland' of alternating metres praising Śiva.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

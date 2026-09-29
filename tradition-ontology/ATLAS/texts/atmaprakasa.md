@@ -21,4 +21,4 @@ _Notes: Named in the heading of the local e-text ('viṣṇucittyātmaprakāśā
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) heading, https://www.wisdomlib.org/history/book/studies-in-indian-literary-history/d/doc1474985.html — Named in the heading of the local VP e-text ('viṣṇucittyātmaprakāśākhyaśrīdharīya vyākhyādvayopetam'); web confirms Śrīdhara's commentary on the Viṣṇu Purāṇa.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._

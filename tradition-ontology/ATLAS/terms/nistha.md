@@ -17,4 +17,4 @@
 **Related:** [jñānayoga](jnana-yoga.md), [karmayoga](karma-yoga.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U16-bhedabheda, skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U16-bhedabheda, skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

@@ -12,4 +12,4 @@ The notion of a body as an attractive whole ('woman', 'man') with its embellishm
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 4.2.3; rests_on: ["tea:nyaya-sutra:4.2.3", "tea:nyaya-bhasya:4.2.3"]
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

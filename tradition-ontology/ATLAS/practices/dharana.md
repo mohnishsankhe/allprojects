@@ -1,4 +1,4 @@
-# Concentration (dhāraṇā)
+# Dhāraṇā (concentration)
 
 `prc:dharana` · `sourced` · confidence high
 
@@ -6,7 +6,7 @@
 **Convergence:** 4 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Taught in:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-Binding the mind to one place — navel wheel, heart-lotus, light in the head, tip of the nose or tongue, or an external object (3.1, YBh 3.1).
+The binding of the mind to a place (3.1); the bhāṣya names as places the navel wheel, the lotus of the heart, the light in the head, the tip of the nose, the tip of the tongue, or an external object, the mind being bound by its activity alone.
 **Stage:** intermediate
 **Prerequisites:** fitness from prāṇāyāma (2.53)
 **Sources:** 
@@ -23,7 +23,8 @@ Binding the mind to one place — navel wheel, heart-lotus, light in the head, t
 ---
 **Verification checks**
 
+- 2026-09-29 text: partially-confirmed — tea:yoga-sutra:3.1, tea:yoga-bhasya:3.1, tea:yoga-sutra:3.43, tea:yoga-bhasya:3.43 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.12, tea:bhagavad-gita:8.12-13 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering) — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (KU 2.3.11; MaiU 6.18; MaiU 6.20; KU 2.3.10-11). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:yoga-sutra/p3-4, skeleton:U10-yoga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._

@@ -26,4 +26,4 @@ Yes: definitions can be made exact by specifying delimitors, relations and count
 **Candidate readings:** P1-level: Śrīharṣa's critique targets the ultimate status of distinctions, while Navya-Nyāya defends their empirical coherence.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

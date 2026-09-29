@@ -15,4 +15,4 @@ Wrong view, non-abstinence, carelessness, passions and activity (8.1).
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:8.1 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions. Generated 2026-09-29 22:32 IST._

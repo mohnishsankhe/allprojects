@@ -16,4 +16,4 @@
 **Related:** [gaṇācāra](ganacara.md), [pramatha](pramatha.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

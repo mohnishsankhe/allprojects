@@ -11,4 +11,4 @@ The agitation of one incapable through his own impurity and longing for things t
   - [Spandakārikā](../texts/spanda-karika.md) — ref: 1.9; rests_on: ["tea:spanda-karika:1.9"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

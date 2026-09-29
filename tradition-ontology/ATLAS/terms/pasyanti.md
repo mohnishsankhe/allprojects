@@ -18,4 +18,4 @@
 - contested: [parā vāk](para-vak.md) — the grammarians treat paśyantī as the supreme; Somānanda and Utpaladeva place parā vāk above it
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._

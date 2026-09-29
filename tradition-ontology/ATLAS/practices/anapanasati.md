@@ -25,7 +25,7 @@ Place and posture: gone to the forest, the root of a tree or an empty hut, the m
 - Mindfulness of breathing is a subject for great persons, difficult to develop; the breath becomes very subtle, and the meditator must not give up but seek it where it touches. — [Visuddhimagga](../texts/visuddhimagga.md) VIII
 
 ## Equivalents (interpretation layer)
-- contested: [Breath-control (prāṇāyāma) in haṭha](pranayama.md) — both take the breath as object, but ānāpānasati observes the natural breath without retention; not the same practice
+- contested: [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](pranayama.md) — both take the breath as object, but ānāpānasati observes the natural breath without retention; not the same practice
 
 ---
 **Verification checks**
@@ -33,4 +33,4 @@ Place and posture: gone to the forest, the root of a tree or an empty hut, the m
 - 2026-09-29 text: partially-confirmed — tea:anapanasati-sutta:mn118:26/2, tea:anapanasati-sutta:thesis — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line.
 - 2026-09-29 text: partially-confirmed — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J.
 
-_Contributed by: extraction:anapanasati-sutta/all, extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:anapanasati-sutta/all, extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

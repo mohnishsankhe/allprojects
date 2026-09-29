@@ -15,4 +15,4 @@
 _Notes: The social class 'brāhmaṇa' is under trm:varna._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

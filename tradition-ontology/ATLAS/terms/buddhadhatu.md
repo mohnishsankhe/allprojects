@@ -20,4 +20,4 @@
 **Related:** [tathāgatagarbha](tathagatagarbha.md), [foxing (buddha-nature)](foxing.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U42-chan-zen, skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U42-chan-zen, skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

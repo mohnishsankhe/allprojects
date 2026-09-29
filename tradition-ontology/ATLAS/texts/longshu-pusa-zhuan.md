@@ -17,4 +17,4 @@ The Chinese 'Life of the Bodhisattva Nāgārjuna', ascribed to Kumārajīva: a b
   - kind: translation; name: Taishō T2047 (two recensions, a/b) — catalog:CBETA:T50n2047a
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

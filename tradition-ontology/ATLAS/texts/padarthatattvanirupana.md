@@ -17,4 +17,4 @@ Raghunātha Śiromaṇi's critical re-examination of the Vaiśeṣika list of ca
 _Notes: The specific revisions (e.g. treatment of space, time and ultimate particularity) are recalled with low confidence and are not asserted as teachings in this skeleton._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

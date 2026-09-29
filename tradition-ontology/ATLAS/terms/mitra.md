@@ -16,4 +16,4 @@
 _Notes: Scholarly metadata only (not used in interpretation): cognate of Avestan Miθra._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

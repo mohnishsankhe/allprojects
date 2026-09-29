@@ -8,4 +8,4 @@
 One of the seven great sages, sons of Brahmā, in the verse quoted by Gauḍapāda on SK 1 (Sanaka, Sananda, Sanātana, Āsuri, Kapila, Voḍhu, Pañcaśikha).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._

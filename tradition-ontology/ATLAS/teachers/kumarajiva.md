@@ -30,4 +30,4 @@ Kuchean monk-translator (344-413 or 350-409) in Chang'an, whose Chinese versions
 _Notes: Also referenced by other units; contribution here: sūtra translations._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U43-pure-land, skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U43-pure-land, skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

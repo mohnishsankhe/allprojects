@@ -28,4 +28,4 @@ The Pali 'deep, immeasurable, hard to fathom' Tathāgata (MN 72) and the Vajracc
 **The traditions' own objections:** Theravāda rejects the positive assertion of a permanent Tathāgata as a view (sassatavāda) and rejects the parinibbāna as a mere display.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The five-year cycle of the Vedāṅga Jyotiṣa](five-year-yuga.md) (cosmic): the five year-names of the Vedāṅga Jyotiṣa's yuga reappear within each yuga of the sixty-year cycle — rests on [8.23-29](../texts/brhat-samhita.md#tea-brhat-samhita-8-23-29), [r.1](../texts/vedanga-jyotisa.md#tea-vedanga-jyotisa-r-1)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

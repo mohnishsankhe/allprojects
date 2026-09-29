@@ -12,4 +12,4 @@ A renunciant Vīraśaiva teacher (parivrājakācārya) to whom the Kaivalyasāra
 _Notes: Relation to Toṇṭada Siddhaliṅga (tch:tontada-siddhalinga) not settled here._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

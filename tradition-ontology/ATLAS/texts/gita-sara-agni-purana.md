@@ -18,4 +18,4 @@ A condensed restatement of the Bhagavad Gītā's teaching placed just before the
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_agnipurANa.txt — Agni Purāṇa 380.1 'gītāsāraṃ pravakṣyāmi ...' and the colophon 'gītāsāro nāmāśītyadhikatriśatatamo 'dhyāyaḥ' verified.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

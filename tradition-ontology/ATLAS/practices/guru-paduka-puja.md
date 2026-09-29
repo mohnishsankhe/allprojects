@@ -13,4 +13,4 @@ Daily contemplation of the guru's feet in the crown with nectar flowing from the
   - [Lalitā Sahasranāma](../texts/lalita-sahasranama.md) — ref: 138; rests_on: ["tea:lalita-sahasranama:138"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

@@ -29,4 +29,4 @@ No (as reported): the tantras are not the Buddha's word; their rites and conduct
 **Queue:** RQ-U44-legitimacy-of-tantra
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

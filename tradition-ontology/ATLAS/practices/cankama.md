@@ -12,4 +12,4 @@ Walking back and forth with the senses turned inward and the mind not going outw
   - [Pacalāyamāna Sutta](../texts/pacalayamana-sutta.md) — ref: 2-11; rests_on: ["tea:pacalayamana-sutta:2-11"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

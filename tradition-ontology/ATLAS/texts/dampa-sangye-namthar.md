@@ -29,4 +29,4 @@ teachers: [Padampa Sangye (pha dam pa sangs rgyas)](../teachers/padampa-sangye.m
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000265 "grub pa'i dbang phyug chen po rje btsun dam pa sangs rgyas kyi rnam par thar pa dngos grub 'od stong 'bar ba'i nyi ma" — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

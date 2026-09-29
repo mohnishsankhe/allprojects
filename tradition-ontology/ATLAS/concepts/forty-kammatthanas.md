@@ -14,4 +14,4 @@
 - contrasts-with → [The four establishments of mindfulness (cattāro satipaṭṭhānā)](four-satipatthanas.md): the Visuddhimagga's subjects of calm versus the sutta frame of mindfulness; several subjects overlap
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@ Worship of one of the ten Mahāvidyās by her mantra (received in initiation), y
 - The claim that Mahāvidyā mantras need no preliminary checks is praise; the checks are still to be made (a hostile mantra's fault has been seen). — [Tantrasāra (Bṛhattantrasāra) of Kṛṣṇānanda Āgamavāgīśa](../texts/tantrasara-krsnananda.md) 1.siddhadi-sodhana
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._

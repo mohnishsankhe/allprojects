@@ -35,4 +35,4 @@ The number depends on the listener: two members for the sharp, more (up to ten) 
 **Candidate readings:** P4-stage / P6-upaya: the number of stated members depends on the hearer's capacity — a principle the Jain side states explicitly and Nyāya approaches by distinguishing inference for oneself (no verbal members) from inference for others.; The shared logical core (pervasion plus the reason's presence in the subject) is common to all sides.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

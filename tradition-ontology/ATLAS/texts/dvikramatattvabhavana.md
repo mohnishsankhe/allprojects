@@ -15,4 +15,4 @@ Buddhajñānapāda's 'Oral Instruction' on meditating the reality of the two sta
 _Notes: Tōh 1853 from memory._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

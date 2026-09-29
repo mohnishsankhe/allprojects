@@ -26,4 +26,4 @@
 **Related:** [ātman](atman.md), [śūnyatā](sunyata.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka, skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka, skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

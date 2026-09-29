@@ -33,4 +33,4 @@ The Platform Sūtra: those who say 'do not use words' slander the scriptures, fo
 **The traditions' own objections:** Strict Linji voices reject subordinating Chan to doctrine; doctrinal schools (e.g. Tiantai) reject the claim of a separate transmission.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

@@ -58,4 +58,4 @@ _none recorded_
 _Notes: The tradition's accounts of the rivalry between Mithilā and Navadvīpa (e.g. Vāsudeva Sārvabhauma carrying the Tattvacintāmaṇi to Navadvīpa from memory; Raghunātha's debate with Pakṣadhara) are recorded in the teacher entries at low confidence._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

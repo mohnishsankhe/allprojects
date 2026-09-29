@@ -19,4 +19,4 @@ Summary only (restricted where it restricts ordinary food). Rejuvenating regimen
 - analogous: [Hut-entering rejuvenation (kuṭīprāveśika)](kutipravesika-rasayana.md) — rejuvenation in seclusion
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

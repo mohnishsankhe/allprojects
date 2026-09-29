@@ -14,4 +14,4 @@ Contemplating the senses, mind and intellect as the seven tongues of the fire Va
 _Notes: Related to the prāṇāgnihotra of the Āraṇyakas (U02)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

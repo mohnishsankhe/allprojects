@@ -14,4 +14,4 @@
 - contrasts-with → [The two chariots: Yogācāra and Madhyamaka](yogacara-madhyamaka-synthesis.md) — rests on [92-93](../texts/madhyamakalamkara.md#tea-madhyamakalamkara-92-93)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

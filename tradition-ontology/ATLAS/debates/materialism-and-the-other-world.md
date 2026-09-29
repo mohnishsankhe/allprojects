@@ -61,4 +61,4 @@ Having granted a knower that lasts through the body, the suśikṣita Cārvāka 
 _Notes: Related existing disputes: dsp:consciousness-from-elements (U09), dsp:validity-of-inference (U11), dsp:jabali-rama (U05)._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._

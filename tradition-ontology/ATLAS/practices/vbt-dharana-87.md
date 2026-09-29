@@ -15,4 +15,4 @@ When, through incapacity or ignorance regarding the supports (objects), or throu
 _Notes: Verses 112 (KSTS 8 / GRETIL numbering). Obscure; readings differ ('śaktyā ... dhyānāt' in the Kaumudī). Low confidence._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

@@ -11,4 +11,4 @@ One of the sixty-three Nāyaṉmārs. A poor brahmin who built a temple in his m
 **Realization — the tradition's account:** A poor brahmin who built a temple in his mind stone by stone and fixed a day for its consecration; the Pallava king, who had fixed the same day for his great stone temple at Kāñcī, was told by Śiva in a dream that he would first attend Pūcalār's consecration, and went to see that temple.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

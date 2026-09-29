@@ -30,4 +30,4 @@ concepts: [Brahmā's request](../concepts/brahma-yacana.md) · teachers: [Brahm�
 _Notes: SuttaCentral uid sn6.1; Mahāsaṅgīti title 'Brahmāyācanasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

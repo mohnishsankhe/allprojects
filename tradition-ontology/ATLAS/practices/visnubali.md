@@ -11,4 +11,4 @@ A saṃskāra performed during pregnancy (the eighth month) dedicating the unbor
   - [Vaikhānasa Smārtasūtra](../texts/vaikhanasa-smartasutra.md) — 
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

@@ -9,4 +9,4 @@
 The extinct buddha of the past whose stūpa rises from the earth in Lotus ch. 11 to hear the sūtra, and who shares his seat with Śākyamuni.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

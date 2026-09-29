@@ -15,4 +15,4 @@ Ratnākaraśānti's instruction on the Middle Way in which cognition-only with i
   - kind: original; name: Tibetan: Derge D4085
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

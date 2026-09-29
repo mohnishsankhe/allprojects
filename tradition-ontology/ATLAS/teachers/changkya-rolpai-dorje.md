@@ -9,4 +9,4 @@
 Gelug scholar at the Qing court, organiser of the Mongolian translation of the Tengyur; author of a presentation of tenets and of the song 'Recognising the Mother' on the view.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

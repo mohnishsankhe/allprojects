@@ -13,4 +13,4 @@ The worshipper contemplates himself as the Goddess ('I am you'), surrounded by h
   - [Saubhāgyabhāskara](../texts/saubhagyabhaskara.md) — ref: phalaśruti; rests_on: ["tea:saubhagyabhaskara:phalasruti-prayoga"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

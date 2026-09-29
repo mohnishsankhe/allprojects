@@ -80,4 +80,4 @@ terms: [śaraṇāgati](../terms/saranagati.md), [nyāsa (surrender)](../terms/n
 _Notes: Passages checked in sources_raw/raw_etexts/mixed/mukta/pAncharAtra/unknown/ahirbudhnya_saMhita_volume_1/2 (Adyar 1916 ed. as transcribed by Muktabodha)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

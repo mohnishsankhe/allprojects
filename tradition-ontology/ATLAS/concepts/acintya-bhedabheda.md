@@ -13,4 +13,4 @@
 - is-a → [Difference-and-non-difference (bhedābheda) of Brahman, souls and world](bhedabheda.md) — rests on [on-paramatma-sandarbha](../texts/sarvasamvadini.md#tea-sarvasamvadini-on-paramatma-sandarbha)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

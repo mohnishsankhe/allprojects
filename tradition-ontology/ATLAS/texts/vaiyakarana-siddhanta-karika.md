@@ -15,4 +15,4 @@ Bhaṭṭoji Dīkṣita's short verse summary of the grammarians' doctrines on t
 **Commentaries on this text:** [Vaiyākaraṇa-bhūṣaṇa of Kauṇḍa Bhaṭṭa](vaiyakarana-bhusana.md), [Vaiyākaraṇa-bhūṣaṇa-sāra of Kauṇḍa Bhaṭṭa](vaiyakarana-bhusana-sara.md)
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

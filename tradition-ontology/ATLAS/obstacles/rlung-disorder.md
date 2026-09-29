@@ -14,4 +14,4 @@ Disturbance of wind: restlessness, sleeplessness, dizziness, wandering thoughts 
 _Notes: Symptom lists simplified and recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

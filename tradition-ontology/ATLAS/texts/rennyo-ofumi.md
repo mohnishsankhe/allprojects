@@ -54,4 +54,4 @@ concepts: [The law of the land and the Buddha's Dharma (ōbō / buppō)](../conc
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

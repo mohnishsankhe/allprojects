@@ -17,4 +17,4 @@ Seeing one's body, appearances and all beings as illusory — like a mirror imag
 _Notes: The contemplative portion is not restricted; the completion-stage 'pure illusory body' depends on restricted wind practices._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

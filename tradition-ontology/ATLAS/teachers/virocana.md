@@ -13,4 +13,4 @@ Lord of the asuras who studies with Prajāpati alongside Indra, concludes that t
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — Located: ChU 8.7.2 and 8.8.4-5 ('asurāṇāṃ hy eṣopaniṣat').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

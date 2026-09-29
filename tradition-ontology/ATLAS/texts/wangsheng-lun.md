@@ -126,4 +126,4 @@ terms: [gensō ekō](../terms/genso-eko.md), [wu nianmen](../terms/wu-nianmen.md
 _Notes: Whole text read locally (T26n1524, 230c13–233a26)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

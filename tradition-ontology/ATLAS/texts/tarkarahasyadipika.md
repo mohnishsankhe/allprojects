@@ -53,4 +53,4 @@ terms: [mahāvratin / mahāvratadhara](../terms/mahavratin.md), [kālāmukha / k
 _Notes: The appendix heading names Haribhadra; the prose is taken here to be Guṇaratna's commentary (moderate confidence)._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._

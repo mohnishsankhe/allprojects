@@ -12,4 +12,4 @@ Lying face down with the hands (palms) on the ground by the chest, the feet rais
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 2.39; rests_on: ["tea:gheranda-samhita:2.39"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._

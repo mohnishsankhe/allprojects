@@ -14,4 +14,4 @@
 Bhāskarabhaṭṭa Borīkar's Marathi poem on Kṛṣṇa's slaying of Śiśupāla, one of the seven classic Mahānubhāva poems.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

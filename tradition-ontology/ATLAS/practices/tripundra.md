@@ -20,4 +20,4 @@ Ash taken with the five brahma-mantras and applied in three horizontal lines, ea
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 6 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:jabali-upanisad:3-4 (partially-confirmed); tea:kalagnirudra-upanisad:1-2 (partially-confirmed); tea:kalagnirudra-upanisad:2-three-lines (partially-confirmed); tea:kalagnirudra-upanisad:3 (partially-confirmed).
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._

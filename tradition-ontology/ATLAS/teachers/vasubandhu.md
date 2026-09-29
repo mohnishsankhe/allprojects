@@ -33,4 +33,4 @@ Author of the Abhidharmakośa and, after his conversion by Asaṅga, of the Twen
 _Notes: U38 owns the Abhidharma side of this entry; U41 contributes the Yogācāra works and account._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools, skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools, skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

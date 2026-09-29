@@ -9,4 +9,4 @@
 Offering sculpted ritual cakes to deities, protectors and spirits, or using them as supports of the deity.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

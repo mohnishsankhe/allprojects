@@ -18,4 +18,4 @@ _Notes: Commentators read the second line either as all paths being finally the 
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.11 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:32 IST._

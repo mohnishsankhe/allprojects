@@ -15,4 +15,4 @@
 The oldest surviving prose commentary on the Āryabhaṭīya, defending Āryabhaṭa's system and explaining the origin of astronomical knowledge from Brahmā.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

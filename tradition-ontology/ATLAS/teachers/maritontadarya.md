@@ -13,4 +13,4 @@
 Author of the Tattvapradīpikā commentary on the Siddhāntaśikhāmaṇi and of the Vīraśaivānandacandrikā.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

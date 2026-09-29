@@ -15,4 +15,4 @@ Wherever, through the path of the senses, the consciousness of the all-pervading
 _Notes: Verses 117 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

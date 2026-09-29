@@ -16,4 +16,4 @@ Bhāskararāya's commentary on the Tripurā Upaniṣad, reading it as Śrīvidy�
 _Notes: From memory._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

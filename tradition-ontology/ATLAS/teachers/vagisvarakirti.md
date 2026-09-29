@@ -10,4 +10,4 @@
 Vikramaśīla 'gatekeeper' (11th c.), author of the Mṛtyuvañcanopadeśa and of works on the Guhyasamāja and consecration.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

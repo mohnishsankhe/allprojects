@@ -15,4 +15,4 @@ The Digambara festival of scripture on the fifth of bright Jyeṣṭha, commemor
 - partial: [Veneration of scripture (Jñāna Pañcamī / Śruta Pañcamī)](jnana-pancami.md) — the Śvetāmbara scripture festival on another date
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

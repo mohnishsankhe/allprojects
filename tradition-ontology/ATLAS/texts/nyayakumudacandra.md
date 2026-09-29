@@ -16,4 +16,4 @@
 Prabhācandra's commentary on Akalaṅka's Laghīyastraya, with extended polemics (including against the kevalin's eating and women's liberation).
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

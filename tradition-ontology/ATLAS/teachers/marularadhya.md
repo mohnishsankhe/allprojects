@@ -13,4 +13,4 @@ One of the five ācāryas of the Pañcācārya tradition, founder in its account
 _Notes: Seat name Saddharma-siṃhāsana (low confidence)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

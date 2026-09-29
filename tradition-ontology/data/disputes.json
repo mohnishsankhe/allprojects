@@ -17292,6 +17292,88 @@
   }
  },
  {
+  "id": "dsp:is-liberation-cessation-of-mind",
+  "question": "Is liberation only the cessation of the mind? (YBh 2.24)",
+  "sides": [
+   {
+    "position": "The one who is almost a teacher (ācāryadeśīya), answering the objector: with the cause of non-seeing absent the buddhi ceases; liberation is the cessation of the mind.",
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "2.24"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:2.24"
+    ],
+    "lineage": "lin:patanjala-yoga"
+   },
+   {
+    "position": "The objector's tale of the impotent husband: knowledge that exists does not bring cessation of the mind; what hope that it will after it is destroyed? Vyāsa's own reply is not in this segment.",
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "2.24"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:2.24"
+    ],
+    "reported_by_opponent": true,
+    "reported_by": "src:yoga-bhasya"
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "explanation": "not yet reconciled: recorded as an argument within the text; candidate readings listed.",
+   "candidate_readings": [
+    "both statements are objections recorded by Vyāsa; see YBh 2.25 for what the text says of the puruṣa's state"
+   ],
+   "rests_on": [
+    "tea:yoga-bhasya:2.24"
+   ]
+  },
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.24"
+     ],
+     "result": "corrected",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated. Corrected by J: YBh 2.24: the unnamed objector mocks the teaching; the ācāryadeśīya answers him from within the school ('kimartham asthāna evāsya mativibhramaḥ')."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "correction_log": [
+   {
+    "field": "sides",
+    "old": "lineage lin:patanjala-yoga on the objector's side; ācāryadeśīya side without lineage",
+    "new": "lineage on the ācāryadeśīya side; objector's side marked reported_by_opponent (reported in src:yoga-bhasya)",
+    "reason": "YBh 2.24: the unnamed objector mocks the teaching; the ācāryadeśīya answers him from within the school ('kimartham asthāna evāsya mativibhramaḥ')",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "dsp:is-lifespan-fixed",
   "question": "Is every life-span fixed, or is there untimely death?",
   "sides": [
@@ -27048,6 +27130,76 @@
   }
  },
  {
+  "id": "dsp:momentary-cognition-vs-abiding-mind",
+  "question": "Is the mind one abiding thing with many objects, or only momentary cognitions each fixed to one object? (YBh 1.32)",
+  "sides": [
+   {
+    "position": "Vyāsa: the mind is one, has many objects and abides; otherwise every mind would be one-pointed, no mind distracted; memory, the enjoyer of the karma-store, and the single notion 'I' would be unaccountable.",
+    "lineage": "lin:patanjala-yoga",
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "1.32"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:1.32"
+    ]
+   },
+   {
+    "position": "The unnamed opponent in the bhāṣya: the mind is only a cognition fixed to each object (pratyartha-niyata) and momentary; the one-pointedness of a stream of like cognitions belongs to the stream or to its parts. Vyāsa does not name the opponent.",
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "1.32"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:1.32"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "explanation": "not yet reconciled: recorded as an argument within the text; candidate readings listed.",
+   "candidate_readings": [
+    "a dispute about the nature of mind stated inside one text; other traditions' own texts are needed for the opponent's side"
+   ],
+   "rests_on": [
+    "tea:yoga-bhasya:1.32"
+   ]
+  },
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:1.32"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "dsp:monastic-higher-initiations",
   "question": "May celibate monastics receive (and practise) the secret and wisdom empowerments?",
   "sides": [
@@ -27444,6 +27596,86 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:nature-of-adarsana",
+  "question": "What is the 'non-seeing' (adarśana) that is the occasion of the conjunction of seer and seen? (YBh 2.23)",
+  "sides": [
+   {
+    "position": "Views listed by Vyāsa as found in the śāstra: the office of the guṇas; the non-arising of the principal mind of the master to whom objects have been shown, that is, the absence of seeing while his own seen is present; the purposiveness (arthavattā) of the guṇas; ignorance stilled with its mind as seed of the mind's arising; the manifestation of the impression of motion on the exhaustion of that of stillness.",
+    "lineage": "lin:patanjala-yoga",
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "2.23"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:2.23"
+    ]
+   },
+   {
+    "position": "Others in the śāstra: seeing-power itself is non-seeing; non-seeing is a property of both; knowledge itself is non-seeing.",
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "2.23"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:2.23"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "explanation": "not yet reconciled: recorded as an argument within the text; candidate readings listed.",
+   "candidate_readings": [
+    "Vyāsa lists but does not decide; the passage is compressed (confidence low)"
+   ],
+   "rests_on": [
+    "tea:yoga-bhasya:2.23"
+   ]
+  },
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.23"
+     ],
+     "result": "corrected",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated. Corrected by J: aligned with YBh 2.23 ('kim arthavattā guṇānām' was omitted and a gloss split off as a view)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "correction_log": [
+   {
+    "field": "(text)",
+    "old": "the non-arising of the pradhāna-mind for the seer to whom objects are shown; the absence of seeing while the seen exists;",
+    "new": "the non-arising of the principal mind of the master to whom objects have been shown, that is, the absence of seeing while his own seen is present; the purposiveness (arthavattā) of the guṇas;",
+    "reason": "aligned with YBh 2.23 ('kim arthavattā guṇānām' was omitted and a gloss split off as a view)",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -38423,9 +38655,44 @@
  },
  {
   "id": "dsp:size-of-citta",
-  "question": "Does the mind contract and expand with the body, or is it all-pervading with only its activity contracting and expanding?",
+  "question": "Is the mind (citta) only of the size of the body, contracting and expanding, or all-pervading with only its function contracting and expanding?",
   "coverage_ref": "G",
   "sides": [
+   {
+    "lineage": "lin:patanjala-yoga",
+    "holder": "'others' (apare) reported in the bhāṣya on 4.10",
+    "position": "The mind is like a lamp placed in a jar or a palace: it contracts and expands and is only of the size of the body; thus an intermediate state (antarābhāva) and saṃsāra are logical.",
+    "arguments": [
+     "ghaṭaprāsādapradīpakalpaṃ saṃkocavikāsi cittaṃ śarīraparimāṇākāramātram ity apare pratipannāḥ tathā cāntarābhāvaḥ saṃsāraś ca yukta iti"
+    ],
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "4.10"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:4.10"
+    ],
+    "reported_by_opponent": true
+   },
+   {
+    "lineage": "lin:patanjala-yoga",
+    "holder": "the ācārya as cited in the bhāṣya on 4.10",
+    "position": "It is the function (vṛtti) of the all-pervading (vibhu) mind that contracts and expands; this depends on dharma and the like as occasion, external or internal.",
+    "arguments": [
+     "vṛttir evāsya vibhunaś cittasya saṃkocavikāsinīty ācāryaḥ"
+    ],
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "4.10"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:4.10"
+    ]
+   },
    {
     "lineage": "lin:patanjala-yoga",
     "position": "Some (apare): the mind, like a lamp placed in a jar or a palace, contracts and expands to the size of the body, which makes the intermediate state and transmigration intelligible.",
@@ -38457,8 +38724,8 @@
   ],
   "reconciliation": {
    "status": "queued",
+   "explanation": "Not yet reconciled: the bhāṣya states the two positions and takes the second; no principle is applied here.",
    "principles": [],
-   "explanation": "Not yet reconciled; the bhāṣya reports both and sides with the ācārya.",
    "candidate_readings": [
     "P2-standpoint: substance (all-pervading mind) vs mode (its contracting activity).",
     "Textual: identify 'the ācārya' and 'others' from the sub-commentaries."
@@ -38467,22 +38734,40 @@
     "tea:yoga-bhasya:4.10"
    ]
   },
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:4.10",
+      "tea:yoga-bhasya:4.10/2"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
   "notes": "Who 'the ācārya' and 'others' are is not identified here (gap).",
   "coverage": [
    "A5",
    "G"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:yoga-sutra/p3-4",
     "skeleton:U10-yoga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -42377,6 +42662,76 @@
   }
  },
  {
+  "id": "dsp:the-whole-and-its-parts",
+  "question": "Is there a real whole (avayavin) over and above the aggregation of atoms? (YBh 1.43)",
+  "sides": [
+   {
+    "position": "Vyāsa: the whole exists — one, great or small, touchable, active, impermanent; ordinary dealings are carried out with it; it is the object of nirvitarkā coalescence; otherwise almost all cognition would be false and even right knowledge would have no object.",
+    "lineage": "lin:patanjala-yoga",
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "1.43"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:1.43"
+    ]
+   },
+   {
+    "position": "The unnamed opponent: the aggregation of atoms is not a real thing (avastuka) and the subtle cause is imperceptible, so there is no whole.",
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "1.43"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:1.43"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "explanation": "not yet reconciled: recorded as an argument within the text; candidate readings listed.",
+   "candidate_readings": [
+    "difficult passage (confidence low); the reading of the opponent's position is the minimal sense"
+   ],
+   "rests_on": [
+    "tea:yoga-bhasya:1.43"
+   ]
+  },
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:1.43"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "dsp:theory-of-error",
   "question": "What happens in erroneous cognition (khyāti)?",
   "coverage_ref": "A5",
@@ -44659,6 +45014,89 @@
   }
  },
  {
+  "id": "dsp:what-is-mastery-of-senses",
+  "question": "What is mastery of the senses (indriya-jaya)? (YBh 2.55)",
+  "sides": [
+   {
+    "position": "Non-addiction to sound and other objects (attachment is addiction, since it throws one off the better).",
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "2.55"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:2.55"
+    ]
+   },
+   {
+    "position": "Contact with sound and the rest at one's own wish; or knowledge of them empty of pleasure and pain when attachment and aversion are absent.",
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "2.55"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:2.55"
+    ]
+   },
+   {
+    "position": "Jaigīṣavya: non-engagement (apratipatti) through one-pointedness of mind; Vyāsa adds that the mastery following sense-withdrawal is supreme because the senses, stilled with the mind, need no other effort-made means.",
+    "lineage": "lin:patanjala-yoga",
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "2.55"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:2.55"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "explanation": "not yet reconciled: recorded as an argument within the text; candidate readings listed.",
+   "candidate_readings": [
+    "four views are listed in one bhāṣya passage; Vyāsa gives Jaigīṣavya's as the last, and says the yogin's mastery is supreme"
+   ],
+   "rests_on": [
+    "tea:yoga-bhasya:2.55"
+   ]
+  },
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.55",
+      "tea:yoga-bhasya:2.55"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "dsp:what-sees",
   "question": "What sees — the eye, consciousness, or neither?",
   "sides": [
@@ -44960,7 +45398,7 @@
      }
     ],
     "reason": "Sides confirmed (Matsya 53.20-22, BhP 12.13.9-15, DBhP 1.3 located; DBhP 1.3.16 lists 'bhāgavatam' among the Upapurāṇas). The historical debate's date '(c. 18th-19th c., not checked)' is corrected: the Durjanamukhacapeṭikā was written by Rāmāśrama (Bhānuji Dīkṣita, son of Bhaṭṭoji Dīkṣita) in defence of the Viṣṇu-Bhāgavata, answered by the Śākta Durjanamukhamahācapeṭikā of Kāśīnātha Bhaṭṭa of Vārāṇasī; Mitra Miśra's Vīramitrodaya (17th c.) also backed the Viṣṇu-Bhāgavata - a 17th-18th c. controversy (later printings exist).",
-    "date": "2026-09-29 22:03 IST",
+    "date": "2026-09-29 22:32 IST",
     "by": "sourcing:U07-puranas"
    }
   ],
@@ -48128,6 +48566,215 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:ys-citta-self-luminous-or-seen",
+  "question": "Is the mind self-luminous (illuminating itself and its objects), or is it seen (an object of the seer)?",
+  "coverage_ref": "G",
+  "sides": [
+   {
+    "lineage": "lin:patanjala-yoga",
+    "holder": "Patañjali and Vyāsa (4.19-4.22)",
+    "position": "The mind is not self-luminous because it is seen; it is grasped by puruṣa, whose consciousness, not passing over, takes the form of the intellect's modification; a mind grasped by another mind leads to regress and confusion of memory.",
+    "arguments": [
+     "na tat svābhāsaṃ dṛśyatvāt",
+     "cittāntaradṛśye buddhibuddher atiprasaṅgaḥ smṛtisaṃkaraś ca"
+    ],
+    "texts": [
+     {
+      "source": "src:yoga-sutra",
+      "ref": "4.19"
+     },
+     {
+      "source": "src:yoga-sutra",
+      "ref": "4.21"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-sutra:4.19",
+     "tea:yoga-sutra:4.20",
+     "tea:yoga-sutra:4.21",
+     "tea:yoga-sutra:4.22",
+     "tea:yoga-bhasya:4.19",
+     "tea:yoga-bhasya:4.21"
+    ]
+   },
+   {
+    "lineage": null,
+    "holder": "positions reported in the bhāṣya on 4.19-4.21 (the objection 'like fire'; the momentarist; those who deny an experiencer)",
+    "position": "The mind itself is self-luminous and illuminates its objects like fire (4.19 objection); in one moment the becoming is itself the action and the agent, so self and other are grasped together (4.20, 'kṣaṇika-vādin'); one mind may be grasped by the next (4.21 objection).",
+    "arguments": [
+     "syād āśaṅkā cittam eva svābhāsaṃ viṣayābhāsaṃ ca bhaviṣyatīty agnivat",
+     "kṣaṇikavādino yad bhavanaṃ saiva kriyā tad eva ca kārakam ity abhyupagamaḥ",
+     "syān matiḥ svarasaniruddhaṃ cittaṃ cittāntareṇa samanantareṇa gṛhyata iti"
+    ],
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "4.19"
+     },
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "4.20"
+     },
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "4.21"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:4.19",
+     "tea:yoga-bhasya:4.20",
+     "tea:yoga-bhasya:4.21"
+    ],
+    "reported_by_opponent": true
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "explanation": "Not yet reconciled: the opposing views are known here only through Vyāsa's report and answer."
+  },
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:4.19",
+      "tea:yoga-bhasya:4.19",
+      "tea:yoga-sutra:4.20",
+      "tea:yoga-bhasya:4.20",
+      "tea:yoga-sutra:4.21",
+      "tea:yoga-bhasya:4.21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p3-4"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "dsp:ys-object-independent-of-mind",
+  "question": "Is the object of cognition independent of any mind, or only a construction of cognition?",
+  "coverage_ref": "G",
+  "sides": [
+   {
+    "lineage": "lin:patanjala-yoga",
+    "holder": "Vyāsa (bhāṣya 4.14-4.16, 4.23)",
+    "position": "The object is one, common to many minds, stands on itself, is not imagined by one or many minds, and is independent of them; minds differ though the object is the same, so the paths of object and cognition are separate; the object is common to all puruṣas and the minds work separately in each.",
+    "arguments": [
+     "bahucittālambanībhūtam ekaṃ vastu sādhāraṇaṃ, tat khalu naikacittaparikalpitaṃ nāpy anekacittaparikalpitaṃ kiṃtu svapratiṣṭham",
+     "tasmāt svatantro 'rthaḥ sarvapuruṣasādhāraṇaḥ svatantrāṇi ca cittāni pratipuruṣaṃ pravartante"
+    ],
+    "texts": [
+     {
+      "source": "src:yoga-sutra",
+      "ref": "4.15"
+     },
+     {
+      "source": "src:yoga-sutra",
+      "ref": "4.16"
+     },
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "4.14"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-sutra:4.15",
+     "tea:yoga-sutra:4.16",
+     "tea:yoga-bhasya:4.15",
+     "tea:yoga-bhasya:4.14",
+     "tea:yoga-bhasya:4.23"
+    ]
+   },
+   {
+    "lineage": null,
+    "holder": "positions reported by Vyāsa and unnamed as schools ('some say', 'others say')",
+    "position": "The thing is a mere conceptual construction of cognition like a dream object (4.14); or the object arises together with cognition, being enjoyable like pleasure (4.15); or all this is mind only and there are no cows or pots (4.23).",
+    "arguments": [
+     "ye vastusvarūpam apahnuvate jñānaparikalpanāmātraṃ vastu svapnaviṣayopamaṃ na paramārthato 'stīti ya āhus",
+     "jñānasahabhūr evārtho bhogyatvāt sukhādivad iti",
+     "apare cittamātram evedaṃ sarvaṃ nāsti khalv ayaṃ gavādir ghaṭādiś ca sakāraṇo loka iti"
+    ],
+    "texts": [
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "4.14"
+     },
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "4.15"
+     },
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "4.23"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-bhasya:4.14",
+     "tea:yoga-bhasya:4.15",
+     "tea:yoga-bhasya:4.23"
+    ],
+    "reported_by_opponent": true
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "explanation": "Not yet reconciled: the opposing views are known here only through Vyāsa's report; the text names no school."
+  },
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:4.14",
+      "tea:yoga-bhasya:4.14",
+      "tea:yoga-sutra:4.15",
+      "tea:yoga-bhasya:4.15",
+      "tea:yoga-sutra:4.16",
+      "tea:yoga-bhasya:4.16",
+      "tea:yoga-sutra:4.23",
+      "tea:yoga-bhasya:4.23"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p3-4"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },

@@ -15,4 +15,4 @@
 The 'madman of Tsang', a Kagyu yogin who compiled and printed the Life and the Hundred Thousand Songs of Milarepa (1488) and the Life of Marpa.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

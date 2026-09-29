@@ -71,4 +71,4 @@ terms: [dīkṣā](../terms/diksa.md) · disputes: [Is liberation won by ritual 
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

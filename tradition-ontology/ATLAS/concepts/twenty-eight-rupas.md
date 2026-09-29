@@ -15,4 +15,4 @@
 - part-of → [The five aggregates](five-aggregates.md): the analysis of the aggregate of matter
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

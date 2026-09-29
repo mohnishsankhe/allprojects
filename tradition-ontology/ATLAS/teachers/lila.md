@@ -12,4 +12,4 @@ Queen who, grieving for her husband Padma, is taught by the goddess Sarasvatī (
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — MU 3.15.19 King Padma; the goddess Jñapti Sarasvatī 3.16.30, 3.17.7.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

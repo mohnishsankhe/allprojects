@@ -13,4 +13,4 @@ Second Chinese patriarch. In the tradition's account he stood in the snow and cu
 **Realization — the tradition's account:** 'I have searched for the mind and cannot find it.' — 'I have pacified your mind for you.' (Jingde chuandeng lu juan 3; Wumenguan case 41).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

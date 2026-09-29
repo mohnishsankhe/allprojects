@@ -15,4 +15,4 @@
 Keizan's monastic code (1324) for Yōkōji, incorporating esoteric and devotional rites.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

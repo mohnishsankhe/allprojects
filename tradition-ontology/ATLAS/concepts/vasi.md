@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [Breath / life-force (prāṇa)](prana.md): vāci is the breath considered as the yogin's mount
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

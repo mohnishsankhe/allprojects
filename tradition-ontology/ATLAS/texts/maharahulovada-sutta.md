@@ -57,4 +57,4 @@ practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati
 _Notes: SuttaCentral uid mn62; Mahāsaṅgīti title 'Mahārāhulovādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

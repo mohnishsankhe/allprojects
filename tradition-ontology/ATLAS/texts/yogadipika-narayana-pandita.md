@@ -50,7 +50,7 @@ Purity, posture, breath-control, non-possession, non-violence, truth, non-steali
 
 _level: conventional · standpoint: seeker · path: general, knowledge, devotion, meditation · stage: all · types: practice, ethics_
 
-terms: [śravaṇa](../terms/sravana.md), [manana](../terms/manana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [bhakti](../terms/bhakti.md), [Ekādaśī (Hari-dina, Nārāyaṇa-dina)](../terms/ekadasi.md) · concepts: [Hearing, reflection and meditation](../concepts/sravana-manana-nididhyasana.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Hearing the scriptures (śravaṇa)](../practices/sravana.md), [Reflection (manana)](../practices/manana.md), [Meditation (nididhyāsana / dhyāna)](../practices/nididhyasana.md), [Ekādaśī fast](../practices/ekadasi-vrata.md)
+terms: [śravaṇa](../terms/sravana.md), [manana](../terms/manana.md), [dhyāna](../terms/dhyana.md), [bhakti](../terms/bhakti.md), [Ekādaśī (Hari-dina, Nārāyaṇa-dina)](../terms/ekadasi.md) · concepts: [Hearing, reflection and meditation](../concepts/sravana-manana-nididhyasana.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Hearing the scriptures (śravaṇa)](../practices/sravana.md), [Reflection (manana)](../practices/manana.md), [Meditation (nididhyāsana / dhyāna)](../practices/nididhyasana.md), [Ekādaśī fast](../practices/ekadasi-vrata.md)
 
 ### 10.43-46 <a id="tea-yogadipika-narayana-pandita-10-43-46"></a>
 `skeleton` · confidence moderate
@@ -65,4 +65,4 @@ concepts: [The Lord as the real agent (hari-kartṛtva)](../concepts/god-as-true
 _Notes: Author named in the opening and closing colophons of the raw_etexts copy; verse references checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

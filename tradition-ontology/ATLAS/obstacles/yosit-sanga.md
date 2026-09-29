@@ -18,4 +18,4 @@ Texts addressed to male renunciants warn that attachment to women and to men att
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/prepared/avadhuta-gita/segments.jsonl — Rests on tea:uddhava-gita:11.8.7-8, tea:uddhava-gita:11.8.13-14, tea:uddhava-gita:11.26.4-24, tea:kapila-gita:3.31.34-42, tea:avadhuta-gita:8.10-26; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

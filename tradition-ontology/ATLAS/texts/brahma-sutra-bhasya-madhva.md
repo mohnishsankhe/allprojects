@@ -66,7 +66,7 @@ terms: [prasāda](../terms/prasada.md), [mokṣa](../terms/moksa.md), [jñāna](
 
 _level: conventional · standpoint: seeker · path: knowledge, devotion, action · stage: all · types: practice, karma-liberation_
 
-terms: [prasāda](../terms/prasada.md), [śravaṇa](../terms/sravana.md), [manana](../terms/manana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [bhakti](../terms/bhakti.md) · concepts: [Three grades of grace](../concepts/three-grades-of-prasada.md), [Hearing, reflection and meditation](../concepts/sravana-manana-nididhyasana.md), [Divine grace (prasāda)](../concepts/grace.md) · practices: [Hearing the scriptures (śravaṇa)](../practices/sravana.md), [Reflection (manana)](../practices/manana.md), [Meditation (nididhyāsana / dhyāna)](../practices/nididhyasana.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
+terms: [prasāda](../terms/prasada.md), [śravaṇa](../terms/sravana.md), [manana](../terms/manana.md), [dhyāna](../terms/dhyana.md), [bhakti](../terms/bhakti.md) · concepts: [Three grades of grace](../concepts/three-grades-of-prasada.md), [Hearing, reflection and meditation](../concepts/sravana-manana-nididhyasana.md), [Divine grace (prasāda)](../concepts/grace.md) · practices: [Hearing the scriptures (śravaṇa)](../practices/sravana.md), [Reflection (manana)](../practices/manana.md), [Meditation (nididhyāsana / dhyāna)](../practices/nididhyasana.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.1.1 <a id="tea-brahma-sutra-bhasya-madhva-1-1-1-6"></a>
 `skeleton` · confidence high
@@ -153,4 +153,4 @@ terms: [sālokya](../terms/salokya.md), [sārūpya](../terms/sarupya.md), [sām�
 _Notes: Opening verse and 1.1.1–1.1.2, 3.1.8, 4.2.16–17, 4.3.10–15, 4.4.19 checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

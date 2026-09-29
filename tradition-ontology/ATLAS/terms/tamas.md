@@ -27,4 +27,4 @@ _Notes: Homonym: distinct from the Sāṃkhya guṇa tamas._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.5, tea:bhagavad-gita:14.8, tea:bhagavad-gita:14.9, tea:bhagavad-gita:14.13, tea:bhagavad-gita:14.15, tea:bhagavad-gita:14.16, tea:bhagavad-gita:14.17, tea:bhagavad-gita:14.18, tea:bhagavad-gita:13.18 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U02-brahmana-vedanga, skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U02-brahmana-vedanga, skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

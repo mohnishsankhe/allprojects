@@ -30,4 +30,4 @@ After the Prājāpatya sacrifice with all possessions given away, the renouncer 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.1, tea:bhagavad-gita:5.2, tea:bhagavad-gita:5.3, tea:bhagavad-gita:5.6, tea:bhagavad-gita:5.13, tea:bhagavad-gita:6.1, tea:bhagavad-gita:6.2 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/vasistadharmasutra.md (GRETIL) — MDh 6.33–49 and VDh 10.4–5 were found. This rests on confirmed teaching checks: tea:manusmrti:6.33-34, tea:manusmrti:6.38-40, tea:manusmrti:6.45-47, tea:manusmrti:6.49, tea:vasistha-dharmasutra:10.4-5.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:32 IST._

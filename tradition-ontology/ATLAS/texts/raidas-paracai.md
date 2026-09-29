@@ -17,4 +17,4 @@ Anantadās's life of Raidās: the leatherworker devotee of Banaras, his humility
   - kind: translation; name: W. M. Callewaert & P. G. Friedlander, The Life and Works of Raidās (1992); licence: copyrighted
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

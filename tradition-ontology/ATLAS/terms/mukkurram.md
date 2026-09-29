@@ -16,4 +16,4 @@
 - same-under-standpoint: [doṣa](dosa.md) (physiology) — equal in function to Āyurveda's tridoṣa; the Siddha tradition claims independent origin
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

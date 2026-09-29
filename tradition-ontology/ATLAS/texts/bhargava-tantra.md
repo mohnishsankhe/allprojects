@@ -14,4 +14,4 @@ Pāñcarātra tantra on worship and ritual.
   - kind: original; name: eBhāratī e-text (bhArgavatantram)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

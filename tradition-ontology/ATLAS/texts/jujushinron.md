@@ -30,4 +30,4 @@ teachers: `tch:kukai`
 _Notes: Minimal entry by U51; owner of lin:shingon (U55) should complete. Text not available locally; the stage names are given from memory._
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:32 IST._

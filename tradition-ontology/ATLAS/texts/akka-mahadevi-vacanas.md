@@ -65,4 +65,4 @@ concepts: [Women's spiritual equality](../concepts/virasaiva-women-equality.md) 
 _Notes: aṅkita (signature): Cennamallikārjuna. Cited by incipit; edition numbering to be fixed in Phase D._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

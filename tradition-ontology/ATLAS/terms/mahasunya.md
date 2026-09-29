@@ -16,4 +16,4 @@
 **Related:** [śūnya](sunya.md), [sarvaśūnya](sarvasunya.md)
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._

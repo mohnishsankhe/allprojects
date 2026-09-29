@@ -15,4 +15,4 @@ Sāhib Kaul's long poem on the names of the Goddess.
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 63 (1942)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

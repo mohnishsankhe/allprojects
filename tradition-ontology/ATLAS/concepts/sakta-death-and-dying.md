@@ -15,4 +15,4 @@
 - part-of → [The cremation ground (śmaśāna)](cremation-ground-symbolism.md) — rests on [2.syama-dhyana](../texts/tantrasara-krsnananda.md#tea-tantrasara-krsnananda-2-syama-dhyana)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._

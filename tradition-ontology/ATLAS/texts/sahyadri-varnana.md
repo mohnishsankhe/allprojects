@@ -14,4 +14,4 @@
 Ravaḷobās's poem describing the Sahyādri region and the Dattātreya sites (Māhūr), among the seven classic Mahānubhāva works.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

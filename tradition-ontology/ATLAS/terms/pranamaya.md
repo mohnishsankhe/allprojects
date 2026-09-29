@@ -19,4 +19,4 @@
 
 - 2026-09-29 text: confirmed — tea:taittiriya-upanisad:2.2.1, tea:taittiriya-upanisad:2.2.1/2 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:taittiriya-upanisad/kosa, skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:taittiriya-upanisad/kosa, skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

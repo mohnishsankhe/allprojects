@@ -14,4 +14,4 @@
 - leads-to → [Descent of power / grace (śaktipāta)](saktipata.md) — rests on [vidyapada](../texts/matangavrtti.md#tea-matangavrtti-vidyapada)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

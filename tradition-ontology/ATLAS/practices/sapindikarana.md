@@ -22,4 +22,4 @@ The rite that unites the preta's piṇḍa with those of father, grandfather and
 
 - sources: The vague ref '1 (śrāddha section)' can be made exact. YS 1.253–255 has the four vessels, the preta's vessel poured into the fathers' ('pitṛpātreṣu pretapātraṃ prasecayet'), 'etat sapiṇḍīkaraṇam', and the rule when it is done before the year. ViSmṛ 21.19–23 has sapiṇḍīkaraṇa after the twelve-day śrāddha or on the thirteenth day, and the same rule. Both agree with the method_summary's 'twelfth day or the end of the first year'. Correction: sources YS 1.253-255 and ViSmṛ 21.19-23.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

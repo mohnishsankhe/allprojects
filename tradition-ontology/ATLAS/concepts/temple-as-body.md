@@ -16,4 +16,4 @@
 _Notes: Stated in many texts; exact loci not verified in this pass (listed as a gap). U58 owns Vāstu/Śilpa._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

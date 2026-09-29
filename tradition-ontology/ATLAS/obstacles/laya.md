@@ -18,4 +18,4 @@ Yogācāra contribution: the sinking of the mind in calm abiding, to be noticed 
 _Notes: Partial parallel: Vedāntasāra's laya among the obstacles to samādhi (list of obstacles to nirvikalpa samādhi; U13). Viśvanātha adds apratipatti._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

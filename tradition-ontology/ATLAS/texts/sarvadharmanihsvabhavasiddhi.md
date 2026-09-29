@@ -16,4 +16,4 @@ Kamalaśīla's short treatise establishing that all dharmas lack own-nature.
   - kind: translation; name: Tibetan translation, Derge Tengyur D3889 (chos thams cad rang bzhin med par grub pa) — catalog:Derge-Tengyur:D3889
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

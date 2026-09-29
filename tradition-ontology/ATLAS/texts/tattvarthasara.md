@@ -15,4 +15,4 @@
 Amṛtacandra's verse restatement of the content of the Tattvārthasūtra.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

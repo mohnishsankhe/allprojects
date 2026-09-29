@@ -15,4 +15,4 @@
 **Related:** [madhyamaka](madhyamaka.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

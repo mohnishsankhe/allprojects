@@ -14,4 +14,4 @@
 Burma-born Indian businessman turned lay teacher (1924–2013), pupil of U Ba Khin, who taught ten-day Vipassana courses in India from 1969 and founded a worldwide network of centres (Dhamma Giri, Igatpuri, 1976).
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

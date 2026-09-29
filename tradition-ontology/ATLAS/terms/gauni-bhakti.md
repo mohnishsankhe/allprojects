@@ -15,4 +15,4 @@
 **Related:** [parā bhakti](para-bhakti.md), [mukhyā bhakti](mukhya-bhakti.md)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._

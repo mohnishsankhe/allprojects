@@ -12,4 +12,4 @@ Taking the body as 'I', the grossest form of superimposition, basis of caste, st
   - [Brahmasūtrabhāṣya of Śaṅkara (Śārīrakamīmāṃsābhāṣya)](../texts/brahma-sutra-bhasya-sankara.md) — ref: intro; rests_on: ["tea:brahma-sutra-bhasya-sankara:intro"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

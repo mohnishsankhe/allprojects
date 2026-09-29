@@ -14,4 +14,4 @@
 Saṅghadāsagaṇi's Prakrit prose romance of the wanderings (hiṇḍī) of Vasudeva, Kṛṣṇa's father, a Jain counterpart of the Bṛhatkathā that frames many stories, including lives of Ṛṣabha and Śānti.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

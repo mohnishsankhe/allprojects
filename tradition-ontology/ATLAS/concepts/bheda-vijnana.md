@@ -11,7 +11,7 @@
 - [Adhyātma movement (Adhyātma-mata)](../lineages/adhyatma-jain.md): The central practice of the Adhyātma path, rendered in the Samayasāra Nāṭaka.
 
 ## Relations (interpretation layer)
-- contrasts-with → [Discriminating knowledge (viveka, vivekakhyāti)](viveka-khyati.md): Parallel discrimination of seer and seen in Yoga, but the Jain knower is an agent with changing modes. — rests on [50](../texts/istopadesa.md#tea-istopadesa-50)
+- contrasts-with → [Discriminative vision (viveka-khyāti)](viveka-khyati.md): Parallel discrimination of seer and seen in Yoga, but the Jain knower is an agent with changing modes. — rests on [50](../texts/istopadesa.md#tea-istopadesa-50)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

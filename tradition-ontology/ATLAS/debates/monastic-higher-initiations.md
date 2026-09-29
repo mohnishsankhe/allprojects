@@ -26,4 +26,4 @@ Monastics may receive the four empowerments of Highest Yoga Tantra, the higher o
 _Notes: The Gelug side is recalled from the tradition's practice; Tsongkhapa's exact wording is not given._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

@@ -40,4 +40,4 @@ concepts: [The two arrows](../concepts/two-arrows.md) · practices: [Contemplati
 _Notes: SuttaCentral uid sn36.6; Mahāsaṅgīti title 'Sallasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

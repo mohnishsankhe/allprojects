@@ -22,4 +22,4 @@ Both sides treat māyā/avidyā as one indescribable principle; the difference i
 **The traditions' own objections:** Some Advaitins insist on a real distinction of function (the Lord is not deluded by māyā; the jīva is by avidyā), which the reconciliation preserves.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

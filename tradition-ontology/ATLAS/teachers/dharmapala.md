@@ -18,4 +18,4 @@ Nālandā master whose interpretation of the Thirty Verses — four divisions of
 _Notes: Not the same as the Pāli commentator Dhammapāla (tch:dhammapala) or the Bengal king Dharmapāla._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

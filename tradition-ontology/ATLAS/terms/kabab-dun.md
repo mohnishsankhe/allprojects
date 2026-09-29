@@ -16,4 +16,4 @@
 _Notes: Distinct from Tāranātha's 'seven instruction lineages' (bka' babs bdun ldan), a set of Indian siddha lineages._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

@@ -16,4 +16,4 @@
 _Notes: Homonym of bhāva 'emotion/state/being' in other traditions; id disambiguated._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

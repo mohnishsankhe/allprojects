@@ -12,4 +12,4 @@ The sage from Kailāsa who, in the tradition's account, taught the child Meyka�
 _Notes: Distinct from Parañcōti Muṉivar, author of the Tiruviḷaiyāṭal Purāṇam (tch:parancoti-tiruvilaiyatal)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

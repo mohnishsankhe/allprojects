@@ -13,4 +13,4 @@ Forty-nine defects that make a mantra fail to protect the practitioner — cut, 
   - [Śāradātilaka](../texts/saradatilaka.md) — ref: 2.64-70; rests_on: ["tea:saradatilaka:2.64-70"]
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

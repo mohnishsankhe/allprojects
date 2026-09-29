@@ -11,4 +11,4 @@
 A monk of Pārśva's line who met Gautama at Śrāvastī and, after their dialogue on the four and five vows and on clothing, accepted Mahāvīra's teaching (Uttarādhyayana 23); in the Rājapraśnīya he converts King Paesi.
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._

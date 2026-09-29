@@ -39,4 +39,4 @@ The Pāñcarātra is fully valid, spoken by the Lord; the Bhāgavatas are brahmi
 **Candidate readings:** P2-standpoint: if the vyūhas are read as forms of the one Lord (Rāmānuja) rather than as the origination of souls (Śaṅkara's report), the Advaitin objection loses its object; Śaṅkara already accepts the worship portion.; P6-upaya: the tradition itself holds different scriptures suited to different devotees.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

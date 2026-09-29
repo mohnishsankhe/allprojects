@@ -10,4 +10,4 @@
 One of the four great masters of the Vibhāṣā: a dharma is called past, present or future relative to what precedes and follows it, as one woman is called daughter and mother (anyathānyathika, AKBh 5.26).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

@@ -13,4 +13,4 @@ Relying on one's own judgement and good to secure birth — the mind of self-pow
   - [Lamp for the Latter Ages (Mattōshō)](../texts/mattosho.md) — ref: 5; rests_on: ["tea:mattosho:5"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

@@ -8006,7 +8006,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The effects of the sounds close the second prose section of the e-text Haṃsa (Adyar §§18-21). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-effects-of-the-sounds (corrected).",
-    "date": "2026-09-29 22:03 IST",
+    "date": "2026-09-29 22:32 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -8061,7 +8061,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The ten sounds are in the second prose section of the e-text Haṃsa, which has vv. 1-3 and prose sections 1-2 but no '4' (Adyar §§15-17). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-ten-sounds (corrected).",
-    "date": "2026-09-29 22:03 IST",
+    "date": "2026-09-29 22:32 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -16285,7 +16285,7 @@
     "old": "1.60-68",
     "new": "1.68-69 (prose closing khaṇḍa 7)",
     "reason": "The list of saṃyamas and their powers is the prose after v. 1.68 that closes khaṇḍa 7. E-text 1.60-68 deal with curing diseases by breath. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:sandilya-upanisad:1.60-68 (corrected).",
-    "date": "2026-09-29 22:03 IST",
+    "date": "2026-09-29 22:32 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -17497,7 +17497,7 @@
     "old": "10.5.2.20",
     "new": "10.5.2.19-20",
     "reason": "The two halves of the description are in adjacent kaṇḍikās. The breaths going into the self in sleep is ŚB 10.5.2.19: 'sa yadā svapity athainam ete prāṇāḥ svā apiyanti tasmāt svāpyayaḥ … taṃ svapna ity ācakṣate'. Knowing nothing by mind, speech, smell, sight or hearing is 10.5.2.20: 'sa etaiḥ suptaḥ na kasya cana veda na manasā saṅkalpayati …'. Correction: ref 10.5.2.19-20, the same range fix as for tea:satapatha-brahmana:10.5.2.20.",
-    "date": "2026-09-29 22:03 IST",
+    "date": "2026-09-29 22:32 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -21518,6 +21518,47 @@
   }
  },
  {
+  "id": "phn:ys-abhinivesa-shows",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.9",
+  "stage": "ordinary",
+  "kind": "difficulty",
+  "description": "How clinging to life shows itself: the constant wish 'may I not cease to be; may I be', fear of death even in a newborn worm and in the wise, of the nature of the view of annihilation (YBh 2.9).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.9"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.9"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:ys-adhyatma-prasada",
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
@@ -21793,6 +21834,104 @@
   }
  },
  {
+  "id": "phn:ys-avidya-shows",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.5",
+  "stage": "ordinary",
+  "kind": "difficulty",
+  "description": "How ignorance shows itself (YBh 2.5): the earth, sky and heaven-dwellers appear lasting; the body appears pure; pain appears as pleasure; the not-self appears as self, so that one rejoices at the prosperity of what is not the self and grieves at its ruin as if it were one's own, and is wholly unawakened.",
+  "rests_on": [
+   "tea:yoga-bhasya:2.5"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.5"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-bhuta-indriya-jaya",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-sutra",
+  "ref": "3.44-3.48",
+  "stage": "advanced",
+  "kind": "power",
+  "description": "Mastery of the elements from saṃyama on their five forms (3.44); the eight powers and perfection of the body (3.45-3.46); mastery of the senses from saṃyama on their five forms (3.47); swiftness like the mind, functioning without instruments and mastery of pradhāna, called madhu-pratīkā in the bhāṣya (3.48). Recorded as the text states it; the text gives no method here and none is given.",
+  "rests_on": [
+   "tea:yoga-sutra:3.44",
+   "tea:yoga-sutra:3.45",
+   "tea:yoga-sutra:3.46",
+   "tea:yoga-sutra:3.47",
+   "tea:yoga-sutra:3.48",
+   "tea:yoga-bhasya:3.44",
+   "tea:yoga-bhasya:3.45",
+   "tea:yoga-bhasya:3.47",
+   "tea:yoga-bhasya:3.48"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.44",
+      "tea:yoga-sutra:3.45",
+      "tea:yoga-sutra:3.46",
+      "tea:yoga-sutra:3.47",
+      "tea:yoga-sutra:3.48",
+      "tea:yoga-bhasya:3.44",
+      "tea:yoga-bhasya:3.45",
+      "tea:yoga-bhasya:3.47",
+      "tea:yoga-bhasya:3.48"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p3-4"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:ys-bhuta-jaya",
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
@@ -21919,27 +22058,49 @@
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
   "ref": "3.34",
-  "stage": "saṃyama (Vibhūti-pāda)",
+  "stage": "advanced",
   "kind": "power",
-  "description": "Understanding of the mind, from saṃyama on the heart.",
+  "description": "From saṃyama on the heart, awareness of the mind (citta-saṃvit) (3.34). Recorded as the text states it; the text gives no method here and none is given.",
   "rests_on": [
-   "tea:yoga-sutra:3.34"
+   "tea:yoga-sutra:3.34",
+   "tea:yoga-bhasya:3.34"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.34",
+      "tea:yoga-bhasya:3.34"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "alt_description": [
+   "Understanding of the mind, from saṃyama on the heart."
   ],
   "coverage": [
    "A5",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:yoga-sutra/p3-4",
     "skeleton:U10-yoga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -22011,28 +22172,55 @@
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
   "ref": "4.29",
-  "stage": "final stage",
+  "stage": "realized",
   "kind": "state",
-  "description": "The cloud of dharma: complete discernment, no other cognitions, the seeds of impressions exhausted.",
+  "description": "Dharma-megha samādhi, for one without desire even in prasaṃkhyāna, from discrimination-vision in every way (4.29); followed by the cessation of afflictions and karma (4.30), the liberation of the knowing one while living (bhāṣya 4.30) and the end of the guṇas' sequence (4.32). Recorded as the text states it; the text gives no method here and none is given.",
   "rests_on": [
    "tea:yoga-sutra:4.29",
-   "tea:yoga-bhasya:4.29"
+   "tea:yoga-sutra:4.30",
+   "tea:yoga-sutra:4.32",
+   "tea:yoga-bhasya:4.29",
+   "tea:yoga-bhasya:4.30"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:4.29",
+      "tea:yoga-sutra:4.30",
+      "tea:yoga-sutra:4.32",
+      "tea:yoga-bhasya:4.29",
+      "tea:yoga-bhasya:4.30"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "alt_description": [
+   "The cloud of dharma: complete discernment, no other cognitions, the seeds of impressions exhausted."
   ],
   "coverage": [
    "A5",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:yoga-sutra/p3-4",
     "skeleton:U10-yoga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -22129,6 +22317,186 @@
   }
  },
  {
+  "id": "phn:ys-divya-srotra-akasa-gamana",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-sutra",
+  "ref": "3.41-3.42",
+  "stage": "advanced",
+  "kind": "power",
+  "description": "Divine hearing from saṃyama on the relation of ear and ākāśa (3.41); going in the sky from saṃyama on the relation of body and ākāśa and attainment of lightness (3.42). Recorded as the text states it; the text gives no method here and none is given.",
+  "rests_on": [
+   "tea:yoga-sutra:3.41",
+   "tea:yoga-sutra:3.42",
+   "tea:yoga-bhasya:3.41",
+   "tea:yoga-bhasya:3.42"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.41",
+      "tea:yoga-sutra:3.42",
+      "tea:yoga-bhasya:3.41",
+      "tea:yoga-bhasya:3.42"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p3-4"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-duhkha-shows-parinama",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.15",
+  "stage": "intermediate",
+  "kind": "difficulty",
+  "description": "Suffering of transformation: pleasure pursued by the habit of enjoyment does not quench craving but increases attachments and the senses' skill, like one afraid of a scorpion's venom bitten by a snake; it torments the yogin even in the state of pleasure (YBh 2.15).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.15"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.15"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-duhkha-shows-samskara",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.15",
+  "stage": "intermediate",
+  "kind": "difficulty",
+  "description": "Suffering of impression: from experiencing pleasure and pain, impressions of pleasure and pain are stored, and when karma ripens as pleasure or pain, a further store of karma is heaped up; the beginningless stream of suffering troubles only the discerning, as a strand of wool troubles the eye and no other limb (YBh 2.15).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.15"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.15"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-duhkha-shows-tapa",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.15",
+  "stage": "intermediate",
+  "kind": "difficulty",
+  "description": "Suffering of torment: pain shot with aversion; seeking the means of pleasure, one acts by body, speech and mind, favours or injures others and heaps up dharma and adharma, from greed and delusion (YBh 2.15).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.15"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.15"
+     ],
+     "result": "corrected",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated. Corrected by J: tāpa rendered 'torment', as in the corrected YBh 2.15."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "correction_log": [
+   {
+    "field": "(text)",
+    "old": "Suffering of anxiety:",
+    "new": "Suffering of torment:",
+    "reason": "tāpa rendered 'torment', as in the corrected YBh 2.15",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:ys-dvandva-anabhighata",
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
@@ -22156,6 +22524,47 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-dvesa-shows",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.8",
+  "stage": "ordinary",
+  "kind": "difficulty",
+  "description": "How aversion shows itself: recoil, resentment, the wish to strike and anger toward pain or its means, preceded by the memory of pain (YBh 2.8).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.8"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.8"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -22374,6 +22783,53 @@
   }
  },
  {
+  "id": "phn:ys-kaivalya-state",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-sutra",
+  "ref": "4.34",
+  "stage": "realized",
+  "kind": "state",
+  "description": "Kaivalya: the return to source of the guṇas empty of puruṣa's purpose, or the establishment of the power of consciousness in its own form (4.34); in the bhāṣya on 3.55, puruṣa then is a light of its own form alone, stainless, isolated. Recorded as the text states it; the text gives no method here and none is given.",
+  "rests_on": [
+   "tea:yoga-sutra:3.55",
+   "tea:yoga-sutra:4.34",
+   "tea:yoga-bhasya:3.55",
+   "tea:yoga-bhasya:4.34"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.55",
+      "tea:yoga-sutra:4.34",
+      "tea:yoga-bhasya:3.55",
+      "tea:yoga-bhasya:4.34"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p3-4"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:ys-kaya-sampat",
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
@@ -22431,6 +22887,252 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-klesa-state-active",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.4",
+  "stage": "ordinary",
+  "kind": "state",
+  "description": "Fully active (udāra) affliction: the one that has gained activity (labdha-vṛtti) toward an object (YBh 2.4).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.4"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.4"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-klesa-state-attenuated",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.4",
+  "stage": "ordinary",
+  "kind": "state",
+  "description": "Attenuated (tanu) affliction: an affliction struck by the cultivation of its opposite becomes thin (YBh 2.4).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.4"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.4"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-klesa-state-burnt-seed",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.4",
+  "stage": "realized",
+  "kind": "state",
+  "description": "Burnt-seed (dagdha-bīja) state, the fifth state Vyāsa adds: in one whose seeds of affliction are burnt by discerning insight, the affliction does not arise again even when the support is present; found only in the one of the last body (YBh 2.4).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.4"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.4"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-klesa-state-dormant",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.4",
+  "stage": "ordinary",
+  "kind": "state",
+  "description": "Dormant (prasupta) affliction: resting in the mind as bare potency, in the seed-state; it awakens on facing a support (ālambana) (YBh 2.4).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.4"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.4"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-klesa-state-interrupted",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.4",
+  "stage": "ordinary",
+  "kind": "state",
+  "description": "Interrupted (vicchinna) affliction: it acts again and again in this or that form, cut off; at the time of passion anger is not seen; passion held for one object is dormant, attenuated or interrupted toward others ('Caitra enamoured of one woman is not thereby disenchanted with the others') (YBh 2.4).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.4"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.4"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-klesas-when-active",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.3",
+  "stage": "ordinary",
+  "kind": "difficulty",
+  "description": "What the afflictions do when active (YBh 2.3): they make firm the office of the guṇas, establish transformation, raise the current of effect and cause, and, interdependent, bring karma to ripening.",
+  "rests_on": [
+   "tea:yoga-bhasya:2.3"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.3"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -22500,27 +23202,49 @@
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
   "ref": "3.43",
-  "stage": "saṃyama (Vibhūti-pāda)",
+  "stage": "advanced",
   "kind": "power",
-  "description": "The great bodiless: an unimagined activity of mind outside the body, by which yogins enter other bodies; the covering of the light is destroyed.",
+  "description": "The non-imagined external functioning of the mind, the Great Bodiless, said to destroy the covering of light (3.43). Recorded as the text states it; the text gives no method here and none is given.",
   "rests_on": [
-   "tea:yoga-sutra:3.43"
+   "tea:yoga-sutra:3.43",
+   "tea:yoga-bhasya:3.43"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.43",
+      "tea:yoga-bhasya:3.43"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "alt_description": [
+   "The great bodiless: an unimagined activity of mind outside the body, by which yogins enter other bodies; the covering of the light is destroyed."
   ],
   "coverage": [
    "A5",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:yoga-sutra/p3-4",
     "skeleton:U10-yoga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -22560,28 +23284,58 @@
   "id": "phn:ys-nirmana-citta",
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
-  "ref": "4.4",
-  "stage": "powers from samādhi (4.1–6)",
+  "ref": "4.4-4.6",
+  "stage": "advanced",
   "kind": "power",
-  "description": "Created minds from I-am-ness alone, directed by one mind (4.4–5).",
+  "description": "Constructed minds from I-ness alone (4.4), impelled by one mind (4.5); the meditation-born one is without residue (4.6). Recorded as the text states it; the text gives no method here and none is given.",
   "rests_on": [
-   "tea:yoga-sutra:4.4"
+   "tea:yoga-sutra:4.4",
+   "tea:yoga-sutra:4.5",
+   "tea:yoga-sutra:4.6",
+   "tea:yoga-bhasya:4.4",
+   "tea:yoga-bhasya:4.5",
+   "tea:yoga-bhasya:4.6"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:4.4",
+      "tea:yoga-sutra:4.5",
+      "tea:yoga-sutra:4.6",
+      "tea:yoga-bhasya:4.4",
+      "tea:yoga-bhasya:4.5",
+      "tea:yoga-bhasya:4.6"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "alt_description": [
+   "Created minds from I-am-ness alone, directed by one mind (4.4–5)."
   ],
   "coverage": [
    "A5",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:yoga-sutra/p3-4",
     "skeleton:U10-yoga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -22615,6 +23369,90 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-para-sarira-avesa",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-sutra",
+  "ref": "3.38",
+  "stage": "advanced",
+  "kind": "power",
+  "description": "The mind's entering another body, said to follow slackening of the cause of bondage and knowledge of the mind's movement (3.38); the bhāṣya says the senses follow the mind like bees the king bee. Recorded as the text states it; the text gives no method here and none is given.",
+  "rests_on": [
+   "tea:yoga-sutra:3.38",
+   "tea:yoga-bhasya:3.38"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.38",
+      "tea:yoga-bhasya:3.38"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p3-4"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-para-vairagya-thought",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "1.16",
+  "stage": "advanced",
+  "kind": "state",
+  "description": "The thought of the yogin in whom discernment has risen, at the higher dispassion: 'What was to be attained is attained; the afflictions to be destroyed are destroyed; the linked chain of becoming, by whose unbroken continuance one is born and dies and is born again, is cut' (YBh 1.16).",
+  "rests_on": [
+   "tea:yoga-bhasya:1.16"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:1.16"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -22675,6 +23513,47 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-prajna-prasada",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "1.47",
+  "stage": "advanced",
+  "kind": "state",
+  "description": "At the lucidity of nirvicārā samādhi: a clear, steady flow of luminous buddhi-sattva, not overcome by rajas and tamas; inner clarity, a light of insight about things as they are, distinct and not following sequence; in the quoted saying the wise one, free of sorrow, looks on the sorrowing as one on a mountain looks on those on the ground (YBh 1.47).",
+  "rests_on": [
+   "tea:yoga-bhasya:1.47"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:1.47"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -22805,28 +23684,49 @@
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
   "ref": "3.35",
-  "stage": "saṃyama (Vibhūti-pāda)",
-  "kind": "power",
-  "description": "Knowledge of the puruṣa, from saṃyama on what exists for itself.",
+  "stage": "advanced",
+  "kind": "state",
+  "description": "From saṃyama on what is for its own sake as against for another's sake, knowledge of puruṣa; the bhāṣya adds that puruṣa is not seen by a cognition in the form of buddhi-sattva but sees that cognition itself (3.35). Recorded as the text states it; the text gives no method here and none is given.",
   "rests_on": [
    "tea:yoga-sutra:3.35",
    "tea:yoga-bhasya:3.35"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.35",
+      "tea:yoga-bhasya:3.35"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "alt_description": [
+   "Knowledge of the puruṣa, from saṃyama on what exists for itself."
   ],
   "coverage": [
    "A5",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:yoga-sutra/p3-4",
     "skeleton:U10-yoga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -22865,31 +23765,95 @@
  {
   "id": "phn:ys-quasi-kaivalya",
   "lineage": "lin:patanjala-yoga",
-  "source": "src:yoga-bhasya",
-  "ref": "1.19",
-  "stage": "videha / prakṛtilaya",
+  "source": "src:yoga-sutra",
+  "ref": "3.50",
+  "stage": "realized",
   "kind": "state",
-  "description": "The bodiless and those merged in prakṛti experience a state 'as if of kaivalya' until they return.",
+  "description": "From dispassion even towards the discrimination-born powers, when the seeds of defect are destroyed, kaivalya (3.50): the seeds of affliction go to dissolution together with the mind; puruṣa no longer undergoes the threefold suffering. Recorded as the text states it; the text gives no method here and none is given.",
   "rests_on": [
+   "tea:yoga-sutra:3.50",
+   "tea:yoga-bhasya:3.50",
    "tea:yoga-sutra:1.19",
    "tea:yoga-bhasya:1.19"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.50",
+      "tea:yoga-bhasya:3.50"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "alt_description": [
+   "The bodiless and those merged in prakṛti experience a state 'as if of kaivalya' until they return."
   ],
   "coverage": [
    "A5",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:yoga-sutra/p3-4",
     "skeleton:U10-yoga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-raga-shows",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.7",
+  "stage": "ordinary",
+  "kind": "difficulty",
+  "description": "How attachment shows itself: greed, thirst and covetousness toward pleasure or its means, preceded by the memory of pleasure (YBh 2.7).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.7"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.7"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -22928,28 +23892,55 @@
   "id": "phn:ys-samadhi-siddhi",
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
-  "ref": "2.45",
-  "stage": "establishment in the restraints and observances",
-  "kind": "sign",
-  "description": "From devotion to Īśvara: perfection of samādhi, knowing what is sought in other places, bodies and times (YBh 2.45).",
+  "ref": "3.36-3.37",
+  "stage": "advanced",
+  "kind": "power",
+  "description": "The arisings of 3.36 (prātibha, hearing, touch, sight, taste, smell) are obstacles for a mind in samādhi and powers for the outgoing mind (3.37). Recorded as the text states it; the text gives no method here and none is given.",
   "rests_on": [
+   "tea:yoga-sutra:3.36",
+   "tea:yoga-sutra:3.37",
+   "tea:yoga-bhasya:3.36",
+   "tea:yoga-bhasya:3.37",
    "tea:yoga-sutra:2.45"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.36",
+      "tea:yoga-sutra:3.37",
+      "tea:yoga-bhasya:3.36",
+      "tea:yoga-bhasya:3.37"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "alt_description": [
+   "From devotion to Īśvara: perfection of samādhi, knowing what is sought in other places, bodies and times (YBh 2.45)."
   ],
   "coverage": [
    "A5",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:yoga-sutra/p3-4",
     "skeleton:U10-yoga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -23106,6 +24097,528 @@
   }
  },
  {
+  "id": "phn:ys-sign-ahimsa",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.35",
+  "stage": "advanced",
+  "kind": "sign",
+  "description": "Sign of establishment in non-harming: hostility is abandoned in the presence of the practitioner, of all living beings (YS 2.35, YBh 2.35).",
+  "rests_on": [
+   "tea:yoga-sutra:2.35",
+   "tea:yoga-bhasya:2.35"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.35",
+      "tea:yoga-bhasya:2.35"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sign-aparigraha",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.39",
+  "stage": "advanced",
+  "kind": "sign",
+  "description": "Sign of steadiness in non-possessiveness: a wish to know his own being in past, future and present — 'Who was I? How was I?...' (YS 2.39, YBh 2.39).",
+  "rests_on": [
+   "tea:yoga-sutra:2.39",
+   "tea:yoga-bhasya:2.39"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.39",
+      "tea:yoga-bhasya:2.39"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sign-asteya",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.37",
+  "stage": "advanced",
+  "kind": "sign",
+  "description": "Sign of establishment in non-stealing: jewels present themselves from all directions (YS 2.37, YBh 2.37). Recorded as the text's description, not a promise.",
+  "rests_on": [
+   "tea:yoga-sutra:2.37",
+   "tea:yoga-bhasya:2.37"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.37",
+      "tea:yoga-bhasya:2.37"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sign-brahmacarya",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.38",
+  "stage": "advanced",
+  "kind": "sign",
+  "description": "Sign of establishment in continence: vigour is gained; unobstructed qualities increase, and the perfected one can place knowledge in those to be taught (YS 2.38, YBh 2.38).",
+  "rests_on": [
+   "tea:yoga-sutra:2.38",
+   "tea:yoga-bhasya:2.38"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.38",
+      "tea:yoga-bhasya:2.38"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sign-isvara-pranidhana",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.45",
+  "stage": "intermediate",
+  "kind": "sign",
+  "description": "Sign of devotion to Īśvara: perfection of samādhi, by which he knows all he wishes in another place, body or time (YS 2.45, YBh 2.45).",
+  "rests_on": [
+   "tea:yoga-sutra:2.45",
+   "tea:yoga-bhasya:2.45"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.45",
+      "tea:yoga-bhasya:2.45"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sign-pranayama",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.52",
+  "stage": "intermediate",
+  "kind": "sign",
+  "description": "Sign of prāṇāyāma: the karma covering the light of discernment grows weak and dwindles moment by moment; the mind becomes fit for concentration (YS 2.52–2.53, YBh 2.52).",
+  "rests_on": [
+   "tea:yoga-sutra:2.52",
+   "tea:yoga-bhasya:2.52",
+   "tea:yoga-sutra:2.53",
+   "tea:yoga-bhasya:2.53"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.52",
+      "tea:yoga-bhasya:2.52",
+      "tea:yoga-sutra:2.53",
+      "tea:yoga-bhasya:2.53"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sign-santosa",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.42",
+  "stage": "intermediate",
+  "kind": "sign",
+  "description": "Sign of contentment: unsurpassed happiness; the quoted verse says desire-pleasure and heavenly pleasure are not worth a sixteenth part of the pleasure of the wearing away of craving (YS 2.42, YBh 2.42).",
+  "rests_on": [
+   "tea:yoga-sutra:2.42",
+   "tea:yoga-bhasya:2.42"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.42",
+      "tea:yoga-bhasya:2.42"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sign-satya",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.36",
+  "stage": "advanced",
+  "kind": "sign",
+  "description": "Sign of establishment in truthfulness: actions and their fruits rest on him; if he says 'be righteous', he becomes righteous; his word is unfailing (YS 2.36, YBh 2.36). Recorded as the text's description, not a promise.",
+  "rests_on": [
+   "tea:yoga-sutra:2.36",
+   "tea:yoga-bhasya:2.36"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.36",
+      "tea:yoga-bhasya:2.36"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sign-sauca",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.40",
+  "stage": "intermediate",
+  "kind": "sign",
+  "description": "Signs of purity: disgust for one's own body and non-contact with others (YS 2.40); purity of sattva, cheerfulness, one-pointedness, mastery of the senses and fitness for seeing the self, each from the previous (YS 2.41, YBh 2.41).",
+  "rests_on": [
+   "tea:yoga-sutra:2.40",
+   "tea:yoga-bhasya:2.40",
+   "tea:yoga-sutra:2.41",
+   "tea:yoga-bhasya:2.41"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.40",
+      "tea:yoga-bhasya:2.40",
+      "tea:yoga-sutra:2.41",
+      "tea:yoga-bhasya:2.41"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sign-svadhyaya",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.44",
+  "stage": "intermediate",
+  "kind": "sign",
+  "description": "Sign of self-study: union with the chosen deity; gods, sages and perfected ones come into view (YS 2.44, YBh 2.44).",
+  "rests_on": [
+   "tea:yoga-sutra:2.44",
+   "tea:yoga-bhasya:2.44"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.44",
+      "tea:yoga-bhasya:2.44"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sign-tapas",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.43",
+  "stage": "intermediate",
+  "kind": "sign",
+  "description": "Sign of austerity: perfection of body (such as minuteness) and of the senses (such as hearing and seeing from afar), through destruction of impurity (YS 2.43, YBh 2.43).",
+  "rests_on": [
+   "tea:yoga-sutra:2.43",
+   "tea:yoga-bhasya:2.43"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:2.43",
+      "tea:yoga-bhasya:2.43"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sleep-recollection",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "1.10",
+  "stage": "ordinary",
+  "kind": "state",
+  "description": "How sleep shows itself afterwards, in the recollection on waking: 'I slept happily; my mind is clear; it makes my understanding lucid' — or 'I slept in pain; my mind, dull, wanders unsteady' — or 'I slept deeply, stupefied; my limbs are heavy; my mind is weary and stays sluggish, as if robbed' (YBh 1.10).",
+  "rests_on": [
+   "tea:yoga-bhasya:1.10"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:1.10"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:ys-sthairya",
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
@@ -23132,6 +24645,92 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-sthanin-invitation",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-sutra",
+  "ref": "3.51",
+  "stage": "advanced",
+  "kind": "difficulty",
+  "description": "The bhāṣya on 3.51 describes gods of high stations inviting the yogin who has realised the madhumatī stage with pleasures, a maiden, an elixir, a sky-vehicle and a deathless station, and the yogin's reflection on attachment and pride. The text's warning is 'sthānyupanimantraṇe saṅgasmayākaraṇaṃ punar aniṣṭaprasaṅgāt'. Recorded as the text states it; the text gives no method here and none is given.",
+  "rests_on": [
+   "tea:yoga-sutra:3.51",
+   "tea:yoga-bhasya:3.51",
+   "tea:yoga-bhasya:3.51/2"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.51",
+      "tea:yoga-bhasya:3.51",
+      "tea:yoga-bhasya:3.51/2"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p3-4"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-subtle-sense-awarenesses",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "1.35",
+  "stage": "intermediate",
+  "kind": "vision",
+  "description": "The awarenesses described for holding the mind at five places: divine smell at the nose-tip, taste at the tongue-tip, form at the palate, touch at the middle of the tongue, sound at the root of the tongue; they bind the mind to steadiness, dispel doubt and become a doorway to the insight of samādhi (YBh 1.35).",
+  "rests_on": [
+   "tea:yoga-bhasya:1.35"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:1.35"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -23318,33 +24917,183 @@
   }
  },
  {
+  "id": "phn:ys-udana-samana-jaya",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-sutra",
+  "ref": "3.39-3.40",
+  "stage": "advanced",
+  "kind": "bodily",
+  "description": "From mastery of udāna, non-contact with water, mud and thorns and rising up (3.39); from mastery of samāna, blazing (3.40). The text gives no method for the mastery. Recorded as the text states it; the text gives no method here and none is given.",
+  "rests_on": [
+   "tea:yoga-sutra:3.39",
+   "tea:yoga-sutra:3.40",
+   "tea:yoga-bhasya:3.39",
+   "tea:yoga-bhasya:3.40"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.39",
+      "tea:yoga-sutra:3.40",
+      "tea:yoga-bhasya:3.39",
+      "tea:yoga-bhasya:3.40"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p3-4"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-viksepa-sahabhu-shows",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "1.31",
+  "stage": "ordinary",
+  "kind": "difficulty",
+  "description": "How distraction shows itself, by its five companions: pain (of oneself, of other beings, of the divine — that by which beings are struck and strive to strike it down), dejection (a disturbance of the mind through the frustration of a wish), trembling of the limbs, and disturbed inhalation and exhalation. They occur in a distracted mind and not in a concentrated one (YBh 1.31). Recorded as text, not diagnosis.",
+  "rests_on": [
+   "tea:yoga-bhasya:1.31"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:1.31"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:ys-visoka-siddhi",
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
   "ref": "3.49",
-  "stage": "saṃyama (Vibhūti-pāda)",
+  "stage": "advanced",
   "kind": "power",
-  "description": "Sovereignty over all states and omniscience for one established in discernment — the power called 'sorrowless' (YBh 3.49).",
+  "description": "For one established only in the cognition of the distinctness of sattva and puruṣa, overlordship of all states and omniscience; the bhāṣya names it viśokā. Recorded as the text states it; the text gives no method here and none is given.",
   "rests_on": [
    "tea:yoga-sutra:3.49",
    "tea:yoga-bhasya:3.49"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.49",
+      "tea:yoga-bhasya:3.49"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "alt_description": [
+   "Sovereignty over all states and omniscience for one established in discernment — the power called 'sorrowless' (YBh 3.49)."
   ],
   "coverage": [
    "A5",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:yoga-sutra/p3-4",
     "skeleton:U10-yoga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-vitarka-shows",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "2.33",
+  "stage": "beginner",
+  "kind": "difficulty",
+  "description": "How harmful thoughts show themselves: 'I will kill the one who has wronged me; I will tell a lie; I will take his goods; I will lie with his wives; I will become owner of his possessions'; the 'fever of thoughts' bent on the wrong road, greatly inflamed (YBh 2.33).",
+  "rests_on": [
+   "tea:yoga-bhasya:2.33"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:2.33"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -23352,30 +25101,96 @@
   "id": "phn:ys-vivekaja-jnana",
   "lineage": "lin:patanjala-yoga",
   "source": "src:yoga-sutra",
-  "ref": "3.52",
-  "stage": "saṃyama (Vibhūti-pāda)",
-  "kind": "power",
-  "description": "Knowledge born of discrimination, from saṃyama on moment and sequence: discerning the indistinguishable (3.53); the deliverer, all-embracing, without sequence (3.54).",
+  "ref": "3.52-3.54",
+  "stage": "advanced",
+  "kind": "state",
+  "description": "Knowledge born of discrimination: from saṃyama on the moment and its sequence (3.52), saving (tāraka), of all objects, in every way, without sequence (3.54). Recorded as the text states it; the text gives no method here and none is given.",
   "rests_on": [
    "tea:yoga-sutra:3.52",
-   "tea:yoga-bhasya:3.52"
+   "tea:yoga-sutra:3.54",
+   "tea:yoga-bhasya:3.52",
+   "tea:yoga-bhasya:3.54"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-sutra:3.52",
+      "tea:yoga-sutra:3.54",
+      "tea:yoga-bhasya:3.52",
+      "tea:yoga-bhasya:3.54"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ]
+  },
+  "alt_description": [
+   "Knowledge born of discrimination, from saṃyama on moment and sequence: discerning the indistinguishable (3.53); the deliverer, all-embracing, without sequence (3.54)."
   ],
   "coverage": [
    "A5",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:yoga-sutra/p3-4",
     "skeleton:U10-yoga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ys-waveless-ocean-asmita",
+  "lineage": "lin:patanjala-yoga",
+  "source": "src:yoga-bhasya",
+  "ref": "1.36",
+  "stage": "intermediate",
+  "kind": "state",
+  "description": "For one who holds the mind in the lotus of the heart: awareness of the buddhi, whose luminous sattva is space-like and takes forms like the light of sun, moon, planet or jewel; the mind in I-am-ness becomes like a great ocean without waves, tranquil, endless, I-am-ness alone (YBh 1.36).",
+  "rests_on": [
+   "tea:yoga-bhasya:1.36"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:yoga-bhasya:1.36"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:yoga-sutra/p1-2"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  }

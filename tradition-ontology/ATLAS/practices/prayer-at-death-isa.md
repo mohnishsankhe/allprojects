@@ -16,4 +16,4 @@ At death one asks Pūṣan to uncover the face of truth covered by the golden ve
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/isa-upanisad/segments.jsonl (Advaita-Śāradā mūla Isha.md, Śaṅkara numbering) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (Īśa 15-18; BĀU 5.15). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

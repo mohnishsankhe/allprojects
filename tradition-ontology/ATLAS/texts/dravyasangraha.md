@@ -35,7 +35,7 @@ Since the sage attains both kinds of the means of liberation (the ultimate and t
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md) · concepts: [The ultimate and conventional standpoints (niścaya and vyavahāra)](../concepts/niscaya-vyavahara.md) · teachers: [Nemicandra Siddhāntacakravartin](../teachers/nemicandra-siddhantacakravartin.md)
+terms: [dhyāna](../terms/dhyana.md) · concepts: [The ultimate and conventional standpoints (niścaya and vyavahāra)](../concepts/niscaya-vyavahara.md) · teachers: [Nemicandra Siddhāntacakravartin](../teachers/nemicandra-siddhantacakravartin.md)
 
 ### 49 <a id="tea-dravyasangraha-49"></a>
 `skeleton` · confidence moderate
@@ -50,4 +50,4 @@ terms: [namaskāra-mantra](../terms/namaskara-mantra.md), [a-si-ā-u-sā](../ter
 _Notes: Title present in the local catalogue (catalog:JainDB:द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

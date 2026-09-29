@@ -15,4 +15,4 @@
 - exact: [kuṇḍalinī](kundalini.md) — Tamil form
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

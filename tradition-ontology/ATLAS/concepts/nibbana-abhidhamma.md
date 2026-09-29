@@ -12,7 +12,7 @@
 - [Suan Mokkh (Buddhadāsa's tradition)](../lineages/suan-mokkh.md): The coolness of extinguished defilements here and now.
 
 ## Relations (interpretation layer)
-- contrasts-with → [Isolation (kaivalya)](kaivalya.md): the Theravāda denies any self in liberation
+- contrasts-with → [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](kaivalya.md): the Theravāda denies any self in liberation
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

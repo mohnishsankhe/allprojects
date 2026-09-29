@@ -14,4 +14,4 @@
 _Notes: The banyan-leaf and world-swallowing images are pervasive in the Prabandham; specific verse refs not recorded._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._

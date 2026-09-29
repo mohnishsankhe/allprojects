@@ -37,4 +37,4 @@ terms: [āpaddharma](../terms/apaddharma.md) · concepts: [Dharma in distress (�
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.139.47-50 (śvajāghanī), local:sources_raw/raw_etexts/mixed/sarit-markdown/mahabharata-devanagari.md (vulgate) colophons "āpaddharmaparvaṇi", https://www.researchgate.net/publication/303724347_Dharma_Di — Exists as a named sub-book of the Śāntiparvan (colophons in the local vulgate; scholarly literature). CE range 12.129–167 consistent with the BORI division; boundary not re-derived from the local JSON.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

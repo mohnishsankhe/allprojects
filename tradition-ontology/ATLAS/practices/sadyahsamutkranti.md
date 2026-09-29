@@ -16,4 +16,4 @@ A rite described in Tantrāloka 19 by which the teacher releases a qualified dis
 _Notes: Restricted (a rite ending bodily life). Content from the chapter title and table of contents only._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

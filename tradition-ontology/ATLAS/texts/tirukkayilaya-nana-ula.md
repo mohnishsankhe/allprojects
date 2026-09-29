@@ -14,4 +14,4 @@
 Cēramāṉ Perumāḷ's ulā ('procession') poem on Śiva at Kailāsa, said to have been recited there; also called Āti Ulā, the first Tamil ulā.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@
 Short barvai-metre verses on the Rāma story in seven kāṇḍas. One of the twelve works generally accepted as Tulsīdās's.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

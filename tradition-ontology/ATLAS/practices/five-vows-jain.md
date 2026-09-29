@@ -16,4 +16,4 @@ Abstention from violence, falsehood, stealing, unchastity and possessiveness, in
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.1, tea:tattvartha-sutra:7.2, tea:tattvartha-sutra:7.3, tea:tattvartha-sutra:7.4, tea:tattvartha-sutra:7.5, tea:tattvartha-sutra:7.6, tea:tattvartha-sutra:7.7, tea:tattvartha-sutra:7.8 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions. Generated 2026-09-29 22:32 IST._

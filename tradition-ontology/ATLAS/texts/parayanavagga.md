@@ -56,4 +56,4 @@ concepts: [Emptiness in the suttas](../concepts/emptiness-early.md) · teachers:
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

@@ -19,4 +19,4 @@ Founder (sūtrakāra) of the Baudhāyana branch of the Taittirīya school; its K
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Baudhayana_sutras — Confirmed: the Baudhāyana sūtra corpus is ascribed to him and regarded as older than Āpastamba (Wikipedia).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

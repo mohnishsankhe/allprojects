@@ -14,4 +14,4 @@
 Eight verses on the blessedness of those who have renounced and know the self.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

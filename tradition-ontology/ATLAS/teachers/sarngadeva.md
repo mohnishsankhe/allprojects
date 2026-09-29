@@ -14,4 +14,4 @@ Author of the Saṅgītaratnākara, of a Kashmiri brahmin family settled at the 
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

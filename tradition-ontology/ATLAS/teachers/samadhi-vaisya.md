@@ -13,4 +13,4 @@ A merchant cast out by his greedy family who still could not stop worrying about
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 81; 93 — MkP 81 (the merchant) and 93 (his boon of knowledge) located.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._

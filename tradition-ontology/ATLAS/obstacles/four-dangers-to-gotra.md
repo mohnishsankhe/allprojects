@@ -12,4 +12,4 @@ Habituation to the afflictions, bad friends, deprivation, and dependence on othe
   - [Mahāyānasūtrālaṃkāra](../texts/mahayanasutralamkara.md) — ref: 3.7; rests_on: ["tea:mahayanasutralamkara:3.1-11"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

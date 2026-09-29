@@ -18,11 +18,11 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [dhyāna (nididhyāsana)](dhyana.md), [ekāgra](ekagra.md)
+**Related:** [dhyāna](dhyana.md), [ekāgra](ekagra.md)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.11, tea:bhagavad-gita:6.12, tea:bhagavad-gita:6.13 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch04-06, skeleton:U04-minor-upanisads, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch04-06, skeleton:U04-minor-upanisads, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

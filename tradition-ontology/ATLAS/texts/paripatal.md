@@ -27,4 +27,4 @@ teachers: [Parimēlaḻakar](../teachers/parimelalakar.md)
 _Notes: Placed with lin:alvar as the earliest Tamil devotional hymns to Tirumāl; it belongs to Saṅgam literature, for which no lineage entry exists. Many poets; attributions per hymn are given in the colophons and not recorded here._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._

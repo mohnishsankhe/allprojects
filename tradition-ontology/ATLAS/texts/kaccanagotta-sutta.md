@@ -41,4 +41,4 @@ terms: [majjhimā paṭipadā](../terms/majjhima-patipada.md) · concepts: [The 
 _Notes: SuttaCentral uid sn12.15; Mahāsaṅgīti title 'Kaccānagottasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

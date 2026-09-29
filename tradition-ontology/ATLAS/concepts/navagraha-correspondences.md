@@ -14,4 +14,4 @@
 _Notes: The planet–gem table is from later texts (commonly Phaladīpikā 2); the Bṛhat Saṃhitā's gem chapters do not assign gems to planets._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

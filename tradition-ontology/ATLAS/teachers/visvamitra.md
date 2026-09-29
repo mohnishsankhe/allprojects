@@ -22,4 +22,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.139.12-91 (viśvāmitra, caṇḍāla, śvajāghanī) — Located as described.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — MU colophons viśvāmitrābhyāgamana (1.5) and viśvāmitravākya (1.6; 2.2).
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

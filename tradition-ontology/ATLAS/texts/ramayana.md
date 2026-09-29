@@ -191,4 +191,4 @@ _Notes: Teachings in this unit are cited by southern vulgate numbering (the numb
 
 - 2026-09-29 catalog: confirmed — catalog:DCS:Rāmāyaṇa, catalog:raw_etexts:baroda_alt, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) sarga counts 77/119/75/67/68/128/111; 1.4.2 — Extant and digitized (southern vulgate, Gita Press and Baroda critical texts all local). The sarga counts stated for the local vulgate match exactly; 1.4.2 (24,000 ślokas, 500 sargas, six books and the Uttara) located. Dates left as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

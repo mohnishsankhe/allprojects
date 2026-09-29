@@ -12,4 +12,4 @@ Son of Mahādevabhaṭṭa, from whom Bhāskara received the Śiva Sūtra teachi
 _Notes: Distinct from tch:srikantha (Śaiva Vedānta) and tch:srikanthanatha (mythic)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

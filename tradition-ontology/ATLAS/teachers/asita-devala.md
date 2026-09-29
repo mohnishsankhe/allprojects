@@ -16,4 +16,4 @@ Sage named in the Gītā among those who proclaim Kṛṣṇa supreme (10.13); h
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:ch10, tea:bhagavad-gita:10.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — local:gita/gita BhG 10.13, local:DharmicData MBh CE 12.267.4 [asita], 12.222.3-4, 9.49.1-60 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:32 IST._

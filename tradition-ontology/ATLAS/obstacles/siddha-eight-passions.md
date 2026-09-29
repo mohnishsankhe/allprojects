@@ -10,4 +10,4 @@ Among the ninety-six principles: desire, anger, greed, delusion, pride, envy, ha
 **Members:** kāmam, kurōtam, lōpam, mōkam, matam, mātcariyam, iṭumpai, akaṅkāram
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

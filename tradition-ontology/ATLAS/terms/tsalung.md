@@ -18,4 +18,4 @@
 **Related:** [nāḍī](nadi.md), [prāṇa](prana.md)
 
 ---
-_Contributed by: skeleton:U46-kagyu, skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu, skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

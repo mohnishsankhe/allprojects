@@ -12,4 +12,4 @@ Bhagavad Gītā 1–3: Arjuna is told not to yield to unmanliness, which does no
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.3; rests_on: ["tea:bhagavad-gita:2.3"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:32 IST._

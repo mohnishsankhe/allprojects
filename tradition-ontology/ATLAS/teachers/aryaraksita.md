@@ -12,4 +12,4 @@
 Elder credited with dividing the teaching into four anuyogas (conduct, narrative, calculation, substance) and with the Anuyogadvāra; the Trairāśika schism of Rohagupta and the Goṣṭhāmāhila schism are placed in his time.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

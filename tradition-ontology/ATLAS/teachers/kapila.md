@@ -27,4 +27,4 @@ _Notes: U05's contribution (the epic account)._
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — Teacher of the Kapila Gītā (BhP 3.25-33) to his mother Devahūti.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.3.10; 3.28; 6.3.20 — BhP 1.3.10 (fifth; Sāṃkhya to Āsuri), 3.28-29, 6.3.20 located.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@ With the tongue in the middle of the wide-open mouth, placing awareness in the m
 _Notes: Verses 81 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

@@ -11,4 +11,4 @@ One of the sixty-three Nāyaṉmārs. A potter of Tillai who, reproached by his 
 **Realization — the tradition's account:** A potter of Tillai who, reproached by his wife for his infidelity, vowed 'by Tirunīlakaṇṭam' never to touch her and kept the vow into old age; when Śiva as a yogī's begging bowl left in his keeping vanished, the couple had to bathe holding hands to prove their word — they held a stick between them, the vow was revealed, and they rose from the water young again.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

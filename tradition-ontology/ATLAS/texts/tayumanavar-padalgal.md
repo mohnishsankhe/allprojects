@@ -41,7 +41,7 @@ One may tame a rutting elephant, bind the mouth of bear and tiger, ride a lion, 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: powers-experiences, consciousness-mind_
 
-concepts: [Stillness (cummā iruttal)](../concepts/cumma-iruttal.md), [The eight lordly powers (aṇimā and the rest)](../concepts/anima-adi-siddhis.md) · obstacles: [Powers as obstacles](../obstacles/siddhis-as-obstacles.md) · teachers: [Tāyumāṉavar](../teachers/tayumanavar.md) · disputes: [Must the body be perfected and made deathless (kāya-citti, kaṟpam) for liberation, or is knowledge alone enough, the body being a pot to be seen through?](../debates/kaya-siddhi-or-jnana.md)
+concepts: [Stillness (cummā iruttal)](../concepts/cumma-iruttal.md), [The eight lordly powers (aṣṭa-aiśvarya)](../concepts/anima-adi-siddhis.md) · obstacles: [Powers as obstacles](../obstacles/siddhis-as-obstacles.md) · teachers: [Tāyumāṉavar](../teachers/tayumanavar.md) · disputes: [Must the body be perfected and made deathless (kāya-citti, kaṟpam) for liberation, or is knowledge alone enough, the body being a pot to be seen through?](../debates/kaya-siddhi-or-jnana.md)
 
 ### mauṉakuru vaṇakkam <a id="tea-tayumanavar-padalgal-mauna-kuru"></a>
 `skeleton` · confidence low
@@ -65,4 +65,4 @@ concepts: [Stillness (cummā iruttal)](../concepts/cumma-iruttal.md) · practice
 _Notes: Section names and counts recalled, not checked; not in the local e-text set._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

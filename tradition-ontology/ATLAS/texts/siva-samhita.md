@@ -193,7 +193,7 @@ When the ghaṭa stage arises in the practice of the breath, there is nothing in
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced (ghaṭa) · types: practice, consciousness-mind_
 
-practices: [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md)
+practices: [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](../practices/pratyahara.md)
 
 ### 3.60-61 <a id="tea-siva-samhita-3-60-61"></a>
 `skeleton` · confidence moderate
@@ -499,4 +499,4 @@ concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hat
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

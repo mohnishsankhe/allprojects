@@ -20,4 +20,4 @@ Those without faith in this dharma return to the path of death and saṃsāra (B
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.39, tea:bhagavad-gita:4.40 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.3 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 22:32 IST._

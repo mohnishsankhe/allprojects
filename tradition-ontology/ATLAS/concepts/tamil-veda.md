@@ -16,4 +16,4 @@
 _Notes: The four-Veda / six-aṅga correspondence is the tradition's account; the source for it is recalled as the Śrīvaiṣṇava commentators and Deśika's Prabandhasāram, not located to a verse._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._

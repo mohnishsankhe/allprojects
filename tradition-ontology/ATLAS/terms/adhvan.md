@@ -20,4 +20,4 @@
 _Notes: Parallels the Sarvāstivāda term adhvan (see brw:sarvastivada-yoga-time-and-transformation)._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

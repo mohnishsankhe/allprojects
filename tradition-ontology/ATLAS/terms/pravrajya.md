@@ -17,4 +17,4 @@
 _Notes: The same category occurs in every surviving Vinaya (Dharmaguptaka, Mahīśāsaka, Mahāsāṃghika, Sarvāstivāda, Mūlasarvāstivāda, Pali); the definition is given once under the Dharmaguptaka code, the living East Asian one._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

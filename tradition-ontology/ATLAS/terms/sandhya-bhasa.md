@@ -17,4 +17,4 @@
 _Notes: The term itself comes from the Buddhist tantric commentarial tradition (Caryāgīti; owned by U44)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul, skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U27-sant-baul, skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

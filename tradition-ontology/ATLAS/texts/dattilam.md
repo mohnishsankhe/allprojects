@@ -15,4 +15,4 @@
 Dattila's concise verse treatise on gāndharva music — śruti, svara, grāma, mūrchanā, tāna, jāti and tāla — closely related to the Nāṭyaśāstra's music chapters.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

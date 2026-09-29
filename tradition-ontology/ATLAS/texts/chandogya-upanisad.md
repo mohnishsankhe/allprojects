@@ -700,7 +700,7 @@ Sanatkumāra: all that you have learned is only name; venerate name as brahman. 
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [saṅkalpa](../terms/sankalpa.md), [citta](../terms/citta.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [vijñāna](../terms/vijnana.md), [prāṇa](../terms/prana.md) · concepts: [Veneration/meditation (upāsanā)](../concepts/upasana.md) · practices: [The meditation on plenitude (bhūma-vidyā)](../practices/bhuma-vidya.md) · teachers: [Sanatkumāra](../teachers/sanatkumara.md), [Nārada](../teachers/narada.md)
+terms: [saṅkalpa](../terms/sankalpa.md), [citta](../terms/citta.md), [dhyāna](../terms/dhyana.md), [vijñāna](../terms/vijnana.md), [prāṇa](../terms/prana.md) · concepts: [Veneration/meditation (upāsanā)](../concepts/upasana.md) · practices: [The meditation on plenitude (bhūma-vidyā)](../practices/bhuma-vidya.md) · teachers: [Sanatkumāra](../teachers/sanatkumara.md), [Nārada](../teachers/narada.md)
 
 ### 7.16.1-7.22.1 <a id="tea-chandogya-upanisad-7-16-1-7-22-1"></a>
 `sourced` · confidence high
@@ -805,7 +805,7 @@ This self is the dam that holds these worlds apart. Day and night do not cross i
 
 _level: ultimate · standpoint: cosmic · path: knowledge · stage: intermediate · types: ultimate, karma-liberation_
 
-terms: [brahmacarya](../terms/brahmacarya.md), [brahmaloka](../terms/brahmaloka.md) · practices: [Vedic studentship (brahmacarya)](../practices/brahmacarya.md) · obstacles: [Evil (pāpman)](../obstacles/papman.md)
+terms: [brahmacarya](../terms/brahmacarya.md), [brahmaloka](../terms/brahmaloka.md) · practices: [Continence (brahmacarya)](../practices/brahmacarya.md) · obstacles: [Evil (pāpman)](../obstacles/papman.md)
 
 ### 8.5.1-4 <a id="tea-chandogya-upanisad-8-5-1-4"></a>
 `sourced` · confidence moderate
@@ -814,7 +814,7 @@ What people call sacrifice is really the life of a brahmacārin; so too what the
 
 _level: conventional · standpoint: seeker · path: action · stage: all · types: ethics, world-fate_
 
-terms: [brahmacarya](../terms/brahmacarya.md) · practices: [Vedic studentship (brahmacarya)](../practices/brahmacarya.md)
+terms: [brahmacarya](../terms/brahmacarya.md) · practices: [Continence (brahmacarya)](../practices/brahmacarya.md)
 
 ### 8.6.1-6 <a id="tea-chandogya-upanisad-8-6-1-6"></a>
 `sourced` · confidence high
@@ -906,7 +906,7 @@ Brahmā taught this to Prajāpati, Prajāpati to Manu, Manu to his creatures. Ha
 
 _level: conventional · standpoint: ethical-social · path: action, knowledge · stage: all · types: ethics, karma-liberation, teacher-transmission_
 
-terms: [svādhyāya](../terms/svadhyaya.md), [brahmaloka](../terms/brahmaloka.md) · concepts: [Stages of life (āśrama)](../concepts/asramas.md) · practices: [Self-study (svādhyāya)](../practices/svadhyaya.md), [Non-harming (ahiṃsā)](../practices/ahimsa.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md) · teachers: [Brahmā (as first teacher)](../teachers/brahma.md), [Prajāpati (as teacher)](../teachers/prajapati.md), [Manu Vaivasvata](../teachers/manu-vaivasvata.md)
+terms: [svādhyāya](../terms/svadhyaya.md), [brahmaloka](../terms/brahmaloka.md) · concepts: [Stages of life (āśrama)](../concepts/asramas.md) · practices: [Self-study (svādhyāya)](../practices/svadhyaya.md), [Non-harming (ahiṃsā)](../practices/ahimsa.md), [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](../practices/pratyahara.md) · teachers: [Brahmā (as first teacher)](../teachers/brahma.md), [Prajāpati (as teacher)](../teachers/prajapati.md), [Manu Vaivasvata](../teachers/manu-vaivasvata.md)
 
 
 _Notes: Forms prapathakas 3-10 of the Chāndogya Brāhmaṇa, whose first two prapathakas are the Mantra Brāhmaṇa (src:mantra-brahmana, U02) (moderate confidence). Veda affiliation: Sāmaveda, Kauthuma-Ranayaniya tradition_
@@ -916,4 +916,4 @@ _Notes: Forms prapathakas 3-10 of the Chāndogya Brāhmaṇa, whose first two pr
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Chāndogyopaniṣad, catalog:GRETIL-dev:Chandogya-upanisad_Chandogyopanisad_mula-text, text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), https://en.wikipedia.org/wiki/Chandogya_Upanishad, https://www.wisdomlib.org/hindui — Confirmed: prapāṭhakas 3–10 of the Chāndogya Brāhmaṇa, whose first two are the Mantra Brāhmaṇa (Wikipedia). 8 prapāṭhakas with 154 khaṇḍas (13+24+19+17+24+16+26+15) in the prepared text. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship. Web results name the Tāṇḍya school; the Kauthuma–Rāṇāyanīya detail was not checked separately.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

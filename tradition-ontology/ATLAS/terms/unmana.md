@@ -17,4 +17,4 @@
 - partial: [unmanī](unmani.md) — the haṭha unmanī is the mind-free state of samādhi; the Kaula unmanā is a named stage of ullāsa
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula, skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula, skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

@@ -193,4 +193,4 @@ practices: [The ten practices of the Dharma (daśa dharmacaritāni)](../practice
 _Notes: One of the 'five Dharmas of Maitreya' in the Tibetan list (Abhisamayālaṃkāra, Mahāyānasūtrālaṃkāra, Madhyāntavibhāga, Dharmadharmatāvibhāga, Ratnagotravibhāga). Chinese tradition instead attributes the Yogācārabhūmi to Maitreya and the Ratnagotravibhāga to Sāramati._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

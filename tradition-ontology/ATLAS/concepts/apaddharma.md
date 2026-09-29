@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — MDh 10.97 was found ('varaṃ svadharmo viguṇo na pārakyaḥ svanuṣṭhitaḥ …') in the āpaddharma section (10.81ff). Rests on teaching checks confirmed in this sweep: tea:manusmrti:10.97.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

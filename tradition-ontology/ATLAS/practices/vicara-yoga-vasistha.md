@@ -19,4 +19,4 @@ Reflecting, with scripture and the wise, on 'who am I? what is this world?', dis
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:moksopaya:2.14, tea:moksopaya:6.82-83, tea:moksopaya:1.2.5-7; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

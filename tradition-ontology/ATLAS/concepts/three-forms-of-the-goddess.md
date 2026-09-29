@@ -18,4 +18,4 @@
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/durgA-saptashatI/goraxapura-pAThaH/raw/source.html (Gita Press Durgā Saptaśatī) — Prādhānika Rahasya located in the local Gita Press Durgā Saptaśatī ('sarvasyādyā mahālakṣmīs triguṇā parameśvarī'). All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

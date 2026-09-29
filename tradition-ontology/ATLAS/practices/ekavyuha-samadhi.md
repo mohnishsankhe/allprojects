@@ -14,4 +14,4 @@ Sitting in solitude facing the direction of a buddha and reciting his name conti
 _Notes: Shandao cites it (not contemplating the marks, only calling the name) as scriptural ground for calling._
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

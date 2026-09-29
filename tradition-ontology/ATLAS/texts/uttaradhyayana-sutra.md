@@ -204,7 +204,7 @@ The rules of monastic routine (sāmācārī): the ten points of correct conduct 
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: intermediate (bhikṣu) · types: practice, teacher-transmission_
 
-terms: [svādhyāya](../terms/svadhyaya.md), [dhyāna (nididhyāsana)](../terms/dhyana.md) · concepts: [The ten points of monastic conduct (sāmācārī)](../concepts/ten-samacari.md)
+terms: [svādhyāya](../terms/svadhyaya.md), [dhyāna](../terms/dhyana.md) · concepts: [The ten points of monastic conduct (sāmācārī)](../concepts/ten-samacari.md)
 
 ### 28 <a id="tea-uttaradhyayana-sutra-28"></a>
 `skeleton` · confidence high
@@ -280,4 +280,4 @@ terms: [siddha](../terms/siddha.md), [siddhaśilā](../terms/siddhasila.md) · c
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._

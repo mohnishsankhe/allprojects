@@ -25,4 +25,4 @@ Brahmin saint of Paiṭhaṇ (1533–1599), disciple of Janārdana Svāmī: corr
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Eknathi_Bhagwat, https://en.wikipedia.org/wiki/Varkari — Author of the Eknāthī Bhāgavata (completed Vārāṇasī 1573).
 
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

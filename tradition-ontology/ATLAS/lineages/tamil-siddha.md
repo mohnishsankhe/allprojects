@@ -59,4 +59,4 @@ A loose, non-institutional stream of Tamil perfected ones (cittar) — yogins, p
 _Notes: Family 'vedic' follows the coverage-map grouping (A7, Śaiva lineages); it does not settle the Siddhars' own rejection of Vedic ritual and caste (see dsp:siddhar-veda-and-scripture). Parent left null: the tradition has Śaiva (Tirumantiram), Nāth and alchemical roots but no single institutional parent._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

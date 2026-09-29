@@ -147,7 +147,7 @@ The method for this: breath-control, withdrawal of the senses, meditation, conce
 
 _level: bridging · standpoint: seeker · path: meditation, body-breath · stage: advanced · types: practice_
 
-terms: [ṣaḍaṅga yoga](../terms/sadanga-yoga.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [dhāraṇā](../terms/dharana.md), [tarka](../terms/tarka.md), [samādhi](../terms/samadhi.md) · practices: [The six-limbed yoga of the Maitrī](../practices/sadanga-yoga-maitri.md), [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md), [Meditation (dhyāna)](../practices/dhyana.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Samādhi as the eighth limb](../practices/samadhi.md)
+terms: [ṣaḍaṅga yoga](../terms/sadanga-yoga.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhyāna](../terms/dhyana.md), [dhāraṇā](../terms/dharana.md), [tarka](../terms/tarka.md), [samādhi](../terms/samadhi.md) · practices: [The six-limbed yoga of the Maitrī](../practices/sadanga-yoga-maitri.md), [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md), [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](../practices/pratyahara.md), [Meditation (dhyāna) as the means of abandoning the afflictions' activities](../practices/dhyana.md), [Dhāraṇā (concentration)](../practices/dharana.md), [Samādhi (in the Vibhūti-pāda account)](../practices/samadhi.md)
 
 ### 6.19 <a id="tea-maitri-upanisad-6-19"></a>
 `sourced` · confidence high
@@ -271,4 +271,4 @@ _Notes: Refs follow the common Cowell/van Buitenen numbering; spot-checked secti
 
 - editions: Confirmed: 7 prapāṭhakas, the Maitrāyaṇīya school of the Black Yajurveda, and its place in the Muktikā canon (no. 24, under the Sāmaveda). Wikipedia gives the late 1st millennium BCE or slightly later, with the chronology contested, which fits -200/300 (moderate). Corrected: the first 'original' edition, 'Sanskrit text with Śaṅkara's bhāṣya (Advaita-Śāradā e-text)', is wrong. There is no Advaita-Śāradā file and no Śaṅkara commentary for the Maitrī; the local text is eBhāratī Ebharati-9566, Cowell's recension with Rāmatīrtha's Dīpikā. Cowell's Bibliotheca Indica edition is on archive.org.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

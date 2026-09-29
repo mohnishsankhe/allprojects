@@ -30,4 +30,4 @@ terms: [bheda](../terms/bheda.md), [jīva](../terms/jiva.md) · concepts: ['Atat
 _Notes: checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions_
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

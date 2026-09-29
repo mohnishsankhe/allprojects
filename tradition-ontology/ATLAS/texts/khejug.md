@@ -13,4 +13,4 @@
 Mipham's manual of the ten topics of scholarship (aggregates, elements, sense bases, dependent origination, correct and incorrect, faculties, times, truths, vehicles, compounded and uncompounded) and of the four reliances and valid cognition.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

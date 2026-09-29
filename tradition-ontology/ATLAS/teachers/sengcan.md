@@ -14,4 +14,4 @@
 Third patriarch. In the tradition's account a layman with a skin disease who asked Huike to absolve his sins and was told 'bring me your sins'; credited with the Xinxin ming. Historically obscure.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

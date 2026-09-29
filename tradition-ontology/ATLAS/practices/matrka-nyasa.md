@@ -18,4 +18,4 @@ The fifty letters from a to kṣa, the manifestations of śabda-brahman, are ins
 - partial: [Placing letters and syllables on the body (nyāsa)](nyasa.md) — one form of nyāsa
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

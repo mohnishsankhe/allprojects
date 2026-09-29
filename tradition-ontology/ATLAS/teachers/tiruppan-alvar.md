@@ -16,4 +16,4 @@ Bard of the pāṇar community, held untouchable, who sang to Raṅganātha from
 _Notes: Aṃśa of the Śrīvatsa mark in the tradition's list (low confidence)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._

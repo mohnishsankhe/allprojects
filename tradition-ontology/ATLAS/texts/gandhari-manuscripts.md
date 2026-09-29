@@ -14,4 +14,4 @@
 The oldest surviving Buddhist manuscripts, in the Gāndhārī language: sūtras with Pali and Āgama parallels, Dharmapada verses, the Rhinoceros Sūtra, Abhidharma and commentary texts, avadānas, Prātimokṣa and early Mahāyāna sūtras.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

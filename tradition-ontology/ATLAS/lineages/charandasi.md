@@ -44,4 +44,4 @@ _none recorded_
 [What place, if any, has yogic discipline (haṭha, aṣṭāṅga, kuṇḍalinī) on the Sant path of the Name?](../debates/yoga-in-the-sant-path.md)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

@@ -24,4 +24,4 @@ _Notes: Chs. 7–9 contribution, combining extractor A's cpt:surrender-to-the-lo
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.14, tea:bhagavad-gita:7.15, tea:bhagavad-gita:7.19, tea:bhagavad-gita:7.29, tea:bhagavad-gita:9.32 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.4, tea:bhagavad-gita:15.3 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15, skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15, skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

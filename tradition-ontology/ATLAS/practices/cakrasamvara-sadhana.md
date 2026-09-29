@@ -14,4 +14,4 @@ Kagyu contribution: the principal Kagyu yidam; his empowerment (the sixty-two-de
 _Notes: U44 owns the Indian Cakrasaṃvara practice; shared id._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

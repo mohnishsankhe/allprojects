@@ -15,4 +15,4 @@
 Śrīdhara's commentary on the Padārthadharmasaṅgraha, dated in its colophon to Śaka 913 (991 CE); it defends Īśvara and the Vaiśeṣika categories against Buddhist and Mīmāṃsaka critics.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

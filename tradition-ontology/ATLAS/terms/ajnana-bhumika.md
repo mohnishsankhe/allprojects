@@ -15,4 +15,4 @@
 **Related:** [bījajāgrat](bija-jagrat.md), [mahājāgrat](maha-jagrat.md), [jāgratsvapna](jagrat-svapna.md), [svapnajāgrat](svapna-jagrat.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

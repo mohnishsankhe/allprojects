@@ -11,4 +11,4 @@
 Poet of the Kṛṣṇakarṇāmṛta, revered by Caitanya; placed by the Vallabha tradition in Viṣṇusvāmin's line.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

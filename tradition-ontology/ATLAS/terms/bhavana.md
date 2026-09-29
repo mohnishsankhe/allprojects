@@ -36,4 +36,4 @@ _Notes: Shared slug with the Sanskrit term; this is the early-Buddhist contribut
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.3, tea:tattvartha-sutra:7.4, tea:tattvartha-sutra:7.5, tea:tattvartha-sutra:7.6, tea:tattvartha-sutra:7.7, tea:tattvartha-sutra:7.8 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U07-puranas, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U07-puranas, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

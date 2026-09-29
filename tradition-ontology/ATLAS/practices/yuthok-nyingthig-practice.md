@@ -15,4 +15,4 @@ The physician's spiritual path: preliminaries, guru yoga of Yuthok, generation a
 - partial: [Guru yoga](guru-yoga.md) — guru yoga with Yuthok as the guru
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

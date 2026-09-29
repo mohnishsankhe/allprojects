@@ -11,7 +11,7 @@
 - [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md): The eight powers arise in the nectar-filled body (GŚ 65); the siddhas broke the staff of Time (HYP 1.9).
 
 ## Relations (interpretation layer)
-- contrasts-with → [Powers as obstacles (the warnings)](siddhis-as-obstacles.md): powers are signs, but are not to be grasped (Akulavīra B.84) — rests on [b.83-84](../texts/akulavira-tantra.md#tea-akulavira-tantra-b-83-84)
+- contrasts-with → [The powers as obstacles in samādhi (3.37)](siddhis-as-obstacles.md): powers are signs, but are not to be grasped (Akulavīra B.84) — rests on [b.83-84](../texts/akulavira-tantra.md#tea-akulavira-tantra-b-83-84)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

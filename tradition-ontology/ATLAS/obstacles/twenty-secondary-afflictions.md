@@ -12,4 +12,4 @@ Anger, enmity, concealment, spite, envy, avarice, deceit, dishonesty, pride, har
   - [Triṃśikā (Triṃśikāvijñaptikārikā)](../texts/trimsika.md) — ref: 12-14; rests_on: ["tea:trimsika:10-14"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

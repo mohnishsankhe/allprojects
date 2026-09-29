@@ -15,4 +15,4 @@
 - part-of → [The awakening mind (bodhicitta) in the Madhyamaka manuals](bodhicitta.md) — rests on [1.15-16](../texts/bodhicaryavatara.md#tea-bodhicaryavatara-1-15-16)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

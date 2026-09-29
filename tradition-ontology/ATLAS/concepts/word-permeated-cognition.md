@@ -16,4 +16,4 @@
 _Notes: Denied by Buddhist logicians (non-conceptual perception is word-free) and by Śāntarakṣita's examination of the Word-brahman._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

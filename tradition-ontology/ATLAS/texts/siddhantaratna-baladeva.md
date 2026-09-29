@@ -11,4 +11,4 @@
 Baladeva's companion treatise to the Govinda-bhāṣya on the Lord, his powers and qualities.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

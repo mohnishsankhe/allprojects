@@ -10,4 +10,4 @@
 Tibetan monk in Amdo who preserved the monastic ordination after the persecution of Langdarma; source of the 'lower Vinaya' (smad 'dul) lineage.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

@@ -17,4 +17,4 @@ Reciting the thirteen chapters of the Devī Māhātmya (with ancillary hymns in 
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:devi-mahatmya:11, tea:devi-mahatmya:12, tea:devi-mahatmya:5 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._

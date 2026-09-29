@@ -34,4 +34,4 @@ Under P1 the goddess's teaching (ultimate) and the sex-change narratives and vow
 **The traditions' own objections:** Traditions that hold the thirty-two marks (including the male mark) to be required of a buddha keep the conventional restriction as binding.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

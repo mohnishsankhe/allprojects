@@ -1,17 +1,21 @@
 # The covering of the light (prakāśāvaraṇa)
 
-`obs:prakasavarana` · `skeleton` · confidence high
+`obs:prakasavarana` · `sourced` · confidence high
 
 **Category:** impurity
 **Convergence:** 1 independent lineage(s): [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md)
 **Taught in:** [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md)
 
-The karma that covers discriminative knowledge, yoking luminous sattva to what should not be done; it dwindles through prāṇāyāma (2.52, YBh 2.52) and is destroyed by the great bodiless concentration (3.43).
-**Antidotes:** [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md)
+Vyāsa: the karma that covers the knowledge of discernment (viveka-jñāna); it covers luminous sattva with a great magic net of delusion and puts it to unfit work; it binds to saṃsāra and, by the practice of prāṇāyāma, grows weak and dwindles moment by moment (YS 2.52, YBh 2.52).
+**Antidotes:** [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md)
 **Sources:** 
   - [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) — ref: 2.52; rests_on: ["tea:yoga-sutra:2.52"]
-  - [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) — ref: 3.43; rests_on: ["tea:yoga-sutra:3.43"]
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 2.52; rests_on: ["tea:yoga-bhasya:2.52"]
+  - [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) — ref: 3.43; rests_on: ["tea:yoga-sutra:3.43"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._
+**Verification checks**
+
+- 2026-09-29 text: partially-confirmed — tea:yoga-sutra:2.52, tea:yoga-bhasya:2.52 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
+
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._

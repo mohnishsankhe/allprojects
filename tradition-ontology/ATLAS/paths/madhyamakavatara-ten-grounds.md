@@ -24,4 +24,4 @@
 Ground names confirmed for grounds 1, 4 and 5 in the local e-text of the bhāṣya; the others and their pairing with the ten perfections follow the Daśabhūmika tradition (pth:ten-bhumis).
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

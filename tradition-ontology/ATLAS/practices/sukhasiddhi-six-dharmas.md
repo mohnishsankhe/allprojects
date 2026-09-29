@@ -11,4 +11,4 @@ Instructions from Sukhasiddhi transmitted in the Shangpa alongside Niguma's; sum
   - [The Six Dharmas of Sukhasiddhi](../texts/sukhasiddhi-six-dharmas.md) — 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

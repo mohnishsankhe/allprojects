@@ -17,4 +17,4 @@ Dazhu Huihai's catechism: sudden awakening means suddenly ending deluded thought
 _Notes: Not held locally (Xuzangjing)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

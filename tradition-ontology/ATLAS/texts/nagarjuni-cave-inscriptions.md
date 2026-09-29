@@ -14,4 +14,4 @@ Dedicatory inscriptions of Daśaratha 'beloved of the gods', Aśoka's grandson, 
 _Notes: Scholarly metadata only; cave names from memory._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._

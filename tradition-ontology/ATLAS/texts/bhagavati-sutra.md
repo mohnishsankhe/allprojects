@@ -183,4 +183,4 @@ terms: [namaskāra-mantra](../terms/namaskara-mantra.md), [parameṣṭhin](../t
 _Notes: Not available locally; from memory._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._

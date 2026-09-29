@@ -12,4 +12,4 @@ The meat-seller serves his aged parents as gods and sends Kauśika home to serve
   - [Vyādha Gītā (the righteous meat-seller's teaching)](../texts/vyadha-gita.md) — ref: 3.204–206; rests_on: ["tea:vyadha-gita:3.204-206"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

@@ -34,4 +34,4 @@ Yājñavalkya: the self within all is the unseen seer, beyond hunger, sorrow and
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3; BĀU 3.4.2; BĀU 3.1-3.9; BĀU 3.8.10). It rests on 10 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

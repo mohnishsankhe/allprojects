@@ -200,7 +200,7 @@ terms: [ghaṭa](../terms/ghata.md), [ārambha](../terms/arambha.md) · concepts
 
 _level: conventional · standpoint: experiential · path: body-breath, meditation · stage: advanced (ghaṭa) · types: powers-experiences, practice_
 
-terms: [pratyāhāra](../terms/pratyahara.md), [siddhi](../terms/siddhi.md) · concepts: [Powers as obstacles (the warnings)](../concepts/siddhis-as-obstacles.md) · practices: [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md)
+terms: [pratyāhāra](../terms/pratyahara.md), [siddhi](../terms/siddhi.md) · concepts: [The powers as obstacles in samādhi (3.37)](../concepts/siddhis-as-obstacles.md) · practices: [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](../practices/pratyahara.md)
 
 ### 91-95 <a id="tea-dattatreyayogasastra-91-95"></a>
 `skeleton` · confidence high
@@ -209,7 +209,7 @@ Then the wise yogin should reflect: these are obstacles to the great accomplishm
 
 _level: conventional · standpoint: ethical-social · path: body-breath, general · stage: beginner · types: powers-experiences, ethics, teacher-transmission_
 
-concepts: [Powers as obstacles (the warnings)](../concepts/siddhis-as-obstacles.md), [Secrecy and the testing of the disciple](../concepts/secrecy-and-testing.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · obstacles: [Powers as obstacles](../obstacles/siddhis-as-obstacles.md) · disputes: [Are the powers (siddhi) arising in yoga signs of attainment or obstacles?](../debates/siddhis-sign-or-obstacle.md)
+concepts: [The powers as obstacles in samādhi (3.37)](../concepts/siddhis-as-obstacles.md), [Secrecy and the testing of the disciple](../concepts/secrecy-and-testing.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · obstacles: [Powers as obstacles](../obstacles/siddhis-as-obstacles.md) · disputes: [Are the powers (siddhi) arising in yoga signs of attainment or obstacles?](../debates/siddhis-sign-or-obstacle.md)
 
 ### 97-99 <a id="tea-dattatreyayogasastra-97-99"></a>
 `skeleton` · confidence high
@@ -330,4 +330,4 @@ terms: [niṣpatti](../terms/nispatti.md), [rājayoga](../terms/raja-yoga.md) ·
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

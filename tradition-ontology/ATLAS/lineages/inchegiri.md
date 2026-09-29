@@ -51,4 +51,4 @@ _none recorded_
 _Notes: The claimed descent from the Navnāths is the tradition's account; its earlier links are not documented historically._
 
 ---
-_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 22:32 IST._

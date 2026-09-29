@@ -13,4 +13,4 @@ Gain and loss, fame and disrepute, praise and blame, pleasure and pain, which tu
   - [Karṇatantravajrapada (the Vajra Verses of the Whispered Lineage)](../texts/karnatantravajrapada.md) — ref: 303a.4; rests_on: ["tea:karnatantravajrapada:303a.4"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

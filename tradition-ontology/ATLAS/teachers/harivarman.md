@@ -12,4 +12,4 @@
 Author of the Satyasiddhiśāstra; trained in the Sarvāstivāda but rejected many of its positions; his school affiliation is variously given as Sautrāntika or Bahuśrutīya.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

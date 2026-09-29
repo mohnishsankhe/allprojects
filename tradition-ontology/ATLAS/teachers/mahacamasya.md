@@ -12,4 +12,4 @@ Knew the fourth vyāhṛti, mahaḥ, as brahman, the self, of which bhūḥ, bhu
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse) — Located: TU 1.5.1 ('tāsām u ha smaitāṃ caturthīm māhācamasyaḥ pravedayate maha iti').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

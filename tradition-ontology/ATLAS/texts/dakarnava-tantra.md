@@ -15,4 +15,4 @@ The 'Ocean of Ḍākas', a late Saṃvara explanatory tantra with Apabhraṃśa 
   - kind: translation; name: Derge Kangyur, Tōh 372 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-kangyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

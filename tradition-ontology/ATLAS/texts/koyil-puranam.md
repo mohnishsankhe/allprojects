@@ -12,4 +12,4 @@
 Umāpati Civācāriyār's Tamil purāṇa of Chidambaram (Kōyil, 'the Temple'): Patañjali and Vyāghrapāda, the dance of Naṭarāja and the sanctity of Tillai.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

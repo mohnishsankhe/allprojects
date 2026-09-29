@@ -8,4 +8,4 @@
 20th-century Vaṭakalai scholar and editor-commentator of Viśiṣṭādvaita works (post-1800; recorded as recent).
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._

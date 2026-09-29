@@ -18,4 +18,4 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu, skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu, skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

@@ -19,4 +19,4 @@ The 'Omniscient' systematizer of the Great Perfection: after monastic studies at
 **Realization — the tradition's account:** Reached the final vision of the exhaustion of phenomena; at his death the earth shook and relics appeared.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

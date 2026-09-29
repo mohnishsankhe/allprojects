@@ -12,4 +12,4 @@
 Member of the Khön clan who turned from the family's Nyingma practice to the new tantras under Drokmi and founded Sakya monastery at the 'grey earth' of Ponpori in 1073.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

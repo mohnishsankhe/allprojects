@@ -16,4 +16,4 @@
 - contrasts-with → [Attributeless and qualified Brahman](nirguna-saguna-brahman.md): The Sants love the nirguṇa as a person without accepting saguṇa forms as final; saguṇa bhaktas (e.g. Tulsīdās) reply that the two are not different. — rests on [dasrath-sut-tihun-lok-bakhana](../texts/kabir-oral-corpus.md#tea-kabir-oral-corpus-dasrath-sut-tihun-lok-bakhana)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

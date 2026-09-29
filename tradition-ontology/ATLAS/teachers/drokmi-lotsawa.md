@@ -12,4 +12,4 @@
 Tibetan translator who studied in India (at Vikramaśīla, with Śāntipa/Ratnākaraśānti among others) and received the Lamdre and the Hevajra cycle from Gayadhara; teacher of Khön Könchok Gyalpo and fountainhead of the Sakya Lamdre in Tibet.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

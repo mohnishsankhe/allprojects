@@ -23,4 +23,4 @@ Yes: whatever exists is momentary (the Buddhist pramāṇa school).
 **Candidate readings:** P2-standpoint: substance vs mode (as in dsp:existence-of-pradhana).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._

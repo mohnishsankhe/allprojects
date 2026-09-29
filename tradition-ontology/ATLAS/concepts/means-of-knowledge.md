@@ -15,4 +15,4 @@
 - contrasts-with → [Dharma (as known through Vedic injunction)](dharma.md): dharma is known only by verbal testimony (the Veda) — rests on [1.1.4](../texts/mimamsa-sutra.md#tea-mimamsa-sutra-1-1-4)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._

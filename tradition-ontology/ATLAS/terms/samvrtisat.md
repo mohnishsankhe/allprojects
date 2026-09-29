@@ -19,4 +19,4 @@
 **Related:** [paramārthasat](paramarthasat.md), [prajñaptisat](prajnaptisat.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

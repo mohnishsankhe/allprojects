@@ -18,4 +18,4 @@ The right ankle set beside the left buttock and the left beside the right, so th
 _Notes: Yoga Yājñavalkya ch. 3 is recalled (low confidence) to describe eight postures: svastika, gomukha, padma, vīra, siṃha, bhadra, mukta, mayūra. The Śivasaṃhitā (5.5) counts 'sitting in gomukha' among the obstacles that take the form of knowledge._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._

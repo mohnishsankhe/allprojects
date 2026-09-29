@@ -216,4 +216,4 @@ terms: [vāc](../terms/vac.md), [Turīya](../terms/turiya.md), [oṃ](../terms/o
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Nirukta, catalog:GRETIL-dev:yaska_nirukta, https://en.wikipedia.org/wiki/Nirukta, https://en.wikipedia.org/wiki/Y%C4%81ska — Extant; 12 + 2 pariśiṣṭa adhyāyas locally (GRETIL keys run to 14). Wikipedia: modern scholars place Yāska between the 7th and 5th c. BCE, before Pāṇini, which agrees with the entry's 600–400 BCE.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

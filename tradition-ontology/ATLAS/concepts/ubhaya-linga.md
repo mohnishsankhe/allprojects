@@ -13,4 +13,4 @@
 - contrasts-with → [The three guṇas](three-gunas.md): the Lord is free of prakṛti's guṇas — rests on [3.2](../texts/sribhasya.md#tea-sribhasya-3-2)
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._

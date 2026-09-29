@@ -14,4 +14,4 @@
 - contrasts-with → [The three minds of the Contemplation Sūtra](three-minds-contemplation-sutra.md): Shinran distinguishes the self-power three minds of the Contemplation Sūtra from those of the vow — rests on [shin.cause](../texts/kyogyoshinsho.md#tea-kyogyoshinsho-shin-cause)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

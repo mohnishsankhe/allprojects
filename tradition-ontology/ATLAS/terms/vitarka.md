@@ -18,4 +18,4 @@
 _Notes: Homonym within the YS itself; do not merge the two senses._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

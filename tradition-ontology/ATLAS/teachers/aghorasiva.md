@@ -20,4 +20,4 @@ Twelfth-century Śaiva ācārya of Chidambaram (Āmardaka lineage — moderate c
 _Notes: Corrected: his Aṣṭaprakaraṇa commentaries cover six treatises (not the Mokṣakārikā or Paramokṣanirāsakārikā)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

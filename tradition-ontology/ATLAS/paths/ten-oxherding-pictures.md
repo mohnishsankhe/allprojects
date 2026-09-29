@@ -22,4 +22,4 @@
 Kuoan Shiyuan (廓庵師遠, 12th c., Linji/Yangqi line), with prefaces by Ciyuan; Xuzangjing X1269 (Kuoan's series) is the text used by U42's teachings. Distinguish from Puming's whitening-ox series (pth:puming-ten-oxherding-pictures).
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:32 IST._

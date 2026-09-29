@@ -9,4 +9,4 @@
 The Indo-Greek king (Menander I) whose questions to Nāgasena form the Milindapañha.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

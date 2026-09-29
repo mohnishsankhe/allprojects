@@ -13,4 +13,4 @@ When unwholesome thoughts of desire, hatred or delusion arise: (1) attend to ano
   - [Vitakkasaṇṭhāna Sutta](../texts/vitakkasanthana-sutta.md) — ref: 2-8; rests_on: ["tea:vitakkasanthana-sutta:2-8"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

@@ -25,4 +25,4 @@
 Names checked in the e-text; the correlation of abodes 3–12 with grounds 1–10 follows the text's own later bhūmi-paṭala as recalled.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

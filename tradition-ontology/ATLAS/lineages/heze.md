@@ -44,4 +44,4 @@ _none recorded_
 [Is Chan a special transmission outside the scriptural teachings, or one with them?](../debates/chan-and-the-teachings.md), [Is all activity the function of buddha-nature (Hongzhou), or must numinous knowing be recognised and cultivated (Zongmi)?](../debates/hongzhou-all-activity-buddha-nature.md), [Who is the true Sixth Patriarch — was the Northern school collateral?](../debates/huatai-true-lineage.md), [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

@@ -18,4 +18,4 @@
 - corresponds-to-in-map → [The four kinds of established tenet (siddhānta)](four-siddhantas.md)
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._

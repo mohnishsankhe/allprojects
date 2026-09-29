@@ -13,4 +13,4 @@ Things to be cut off before developing concentration; supernormal power is an im
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: III, PTS p. 90; rests_on: ["tea:visuddhimagga:3/3", "tea:visuddhimagga:3/4"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

@@ -18,4 +18,4 @@
 **Related:** [svarūpa-yogyatā](svarupa-yogyata.md), [karmaphala](karmaphala.md), [karma](karma.md), [adhikārin](adhikarin.md), [adhikāra-vidhi](adhikara-vidhi.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa, skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa, skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

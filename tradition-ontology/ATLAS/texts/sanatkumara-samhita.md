@@ -14,4 +14,4 @@ Pāñcarātra saṃhitā in several rātras (sections) ascribed to divine speake
   - kind: original; name: ed. V. Krishnamacharya, Adyar 1969
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

@@ -10,4 +10,4 @@
 A rasa work quoted in the Sarvadarśanasaṃgraha's Raseśvara chapter (e.g. on beings who attained jīvanmukti through a mercurial body); not known to survive independently.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

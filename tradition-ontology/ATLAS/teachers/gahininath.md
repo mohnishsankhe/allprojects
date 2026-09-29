@@ -12,4 +12,4 @@
 Nāth yogī, disciple of Gorakṣanātha, who initiated Nivṛttināth in a cave on the Brahmagiri near Tryambakeśvar and charged him to spread devotion to Kṛṣṇa; through him the Vārkarī saints trace their Nāth initiation.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

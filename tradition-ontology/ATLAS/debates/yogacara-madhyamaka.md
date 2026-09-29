@@ -53,4 +53,4 @@ The reconciliation is itself a school position (Śāntarakṣita, Kamalaśīla),
 _Notes: Should be linked with U40's Madhyamaka disputes and dsp:which-turning-is-definitive (U39)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

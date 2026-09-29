@@ -11,4 +11,4 @@
 Born in the city of Pañcanada, he completed Caraka's redaction, a third of which was missing, by gleaning from many tantras seventeen chapters of the Cikitsā and the Kalpa and Siddhi sections (Ca Si 12.38-40).
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

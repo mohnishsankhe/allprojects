@@ -19,4 +19,4 @@ _Notes: Combines the Advaita 'limitation' and 'reflection' accounts in one image
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Rests on tea:adhyatma-ramayana:1.1.44-52, tea:rama-hrdaya:1.1.44-52; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@ A digest of Tripurā worship ascribed to Nāgabhaṭṭa.
   - kind: original; name: Muktabodha M00669
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

@@ -17,4 +17,4 @@ _Notes: Contents not summarized here — gap._
 
 - 2026-09-28 catalog: confirmed — catalog:eBharati:dharmashAstraH_prathamo_bhAgaH (M. N. Dutt 1908: Auśanasa-smṛti), catalog:eBharati:aShTAdashasmRtayaH (auśanasī smṛtiḥ) — Low-confidence entry confirmed as extant; YājñS 1.4 names Uśanas.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

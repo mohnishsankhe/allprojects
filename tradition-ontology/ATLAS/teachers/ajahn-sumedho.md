@@ -10,4 +10,4 @@
 American-born senior Western disciple of Ajahn Chah (b. 1934), founder of Chithurst and Amaravati monasteries in England.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

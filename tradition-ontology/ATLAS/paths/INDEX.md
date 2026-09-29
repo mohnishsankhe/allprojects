@@ -1,6 +1,6 @@
 # Path maps (213)
 
-sourced: 40 · skeleton: 173
+sourced: 45 · skeleton: 168
 
 - [Action, then knowledge or devotion (Uddhava Gītā 11.20)](uddhava-gita-three-yogas.md) — `sourced`
 - [Advayatāraka: targets, voids and tāraka](advayataraka-voids.md) — `sourced`
@@ -47,7 +47,7 @@ sourced: 40 · skeleton: 173
 - [Ouyi's three provisions: faith, vow, holding the name](faith-vow-practice-ouyi.md) — `skeleton`
 - [Pacification (zhi byed) arranged along the five paths](shije-five-paths.md) — `skeleton`
 - [Parting from the Four Attachments as a path](parting-from-four-attachments.md) — `skeleton`
-- [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](yoga-sutra-eight-limbs.md) — `skeleton`
+- [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](yoga-sutra-eight-limbs.md) — `sourced`
 - [Prajāpati's four instructions to Indra (ChU 8.7-12)](indra-prajapati-four-instructions.md) — `sourced`
 - [Puming's ten oxherding pictures (the whitening ox)](puming-ten-oxherding-pictures.md) — `skeleton`
 - [Realization, meditation, conduct (the siddhas' sequence)](mahasiddha-view-meditation-conduct.md) — `skeleton`
@@ -75,10 +75,10 @@ sourced: 40 · skeleton: 173
 - [The fifteen limbs of the Aparokṣānubhūti (pañcadaśāṅga-yoga)](aparoksanubhuti-fifteen-limbs.md) — `skeleton`
 - [The fifty-five stages of the Śūraṅgama](surangama-fifty-five-stages.md) — `skeleton`
 - [The fifty-two stages of the bodhisattva path (ten faiths + forty-two stages of worthies and sages)](yingluo-fifty-two-stages.md) — `skeleton`
-- [The final sequence of the Kaivalya-pāda (YS 4.25–34)](yoga-sutra-kaivalya-sequence.md) — `skeleton`
+- [The final sequence of the Kaivalya-pāda (YS 4.25–34)](yoga-sutra-kaivalya-sequence.md) — `sourced`
 - [The five golden dharmas of the Shangpa (the tree)](shangpa-five-golden-dharmas.md) — `skeleton`
 - [The five limbs of puraścaraṇa (mastery of a mantra)](purascarana-five-limbs.md) — `skeleton`
-- [The five means of YS 1.20 as a sequence (YBh 1.20)](yoga-sutra-five-means.md) — `skeleton`
+- [The five means of YS 1.20 as a sequence (YBh 1.20)](yoga-sutra-five-means.md) — `sourced`
 - [The five paths (pañca-mārga): accumulation, preparation, seeing, cultivation, no-more-learning](five-paths.md) — `skeleton`
 - [The five ranks of merit (Dongshan)](dongshan-five-ranks-of-merit.md) — `skeleton`
 - [The five ranks of the real and the apparent (Dongshan / Caoshan)](dongshan-five-ranks.md) — `skeleton`
@@ -119,7 +119,7 @@ sourced: 40 · skeleton: 173
 - [The Kaṭha's inward withdrawal (KU 1.3.13)](katha-inward-withdrawal.md) — `sourced`
 - [The ladder of births to name-recitation (Rudrayāmala, quoted by Bhāskararāya)](rudrayamala-births-to-srividya.md) — `skeleton`
 - [The ladder of goals in Caitanya's dialogue with Rāmānanda Rāya (CC 2.8)](ramananda-samvada-ladder.md) — `skeleton`
-- [The ladder of samādhi in the Yoga Sūtra (samāpatti → viveka-khyāti → nirbīja → dharmamegha → kaivalya)](yoga-sutra-samadhi-ladder.md) — `skeleton`
+- [The ladder of samādhi in the Yoga Sūtra (samāpatti → viveka-khyāti → nirbīja → dharmamegha → kaivalya): the stages of pādas 1–2](yoga-sutra-samadhi-ladder.md) — `sourced`
 - [The ladder of views (Madhyamakālaṃkāra 92–93)](madhyamakalamkara-ladder.md) — `skeleton`
 - [The lamp of knowledge (Rāmcaritmānas 7.117–118)](manas-jnana-dipa.md) — `skeleton`
 - [The life-cycle of sacraments (saṃskāra), conception to ancestorhood](samskara-life-cycle.md) — `sourced`
@@ -161,7 +161,7 @@ sourced: 40 · skeleton: 173
 - [The seven states of the jīva (Pañcadaśī 7)](pancadasi-seven-states.md) — `skeleton`
 - [The seven ullāsas (Kulārṇava)](kaula-seven-ullasas.md) — `skeleton`
 - [The seven-point cause-and-effect sequence for bodhicitta](seven-point-cause-and-effect.md) — `skeleton`
-- [The sevenfold final insight (YS 2.27 with YBh)](yoga-sutra-sevenfold-prajna.md) — `skeleton`
+- [The sevenfold final insight (YS 2.27 with YBh)](yoga-sutra-sevenfold-prajna.md) — `sourced`
 - [The six stages (ṣaṭsthala) of the Vīraśaiva path](virasaiva-satsthala.md) — `skeleton`
 - [The six-branch yoga (ṣaḍaṅga-yoga) of the Kālacakra](kalacakra-six-branches.md) — `skeleton`
 - [The six-limbed service of the Guhyasamāja (ch. 18)](guhyasamaja-sadanga-yoga.md) — `skeleton`

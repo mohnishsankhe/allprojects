@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A chieftain who pardoned a devotee caught 
 **Realization — the tradition's account:** A chieftain who pardoned a devotee caught stealing paddy from the royal granary to feed devotees, and threw the granary open to all.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

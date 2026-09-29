@@ -30,4 +30,4 @@ terms: [ekaggatā](../terms/ekaggata.md), [cetana](../terms/cetana.md), [manasik
 _Notes: SuttaCentral uid mn111; Mahāsaṅgīti title 'Anupadasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

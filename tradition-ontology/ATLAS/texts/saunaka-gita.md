@@ -25,4 +25,4 @@
 
 - dating: CE 3.2 confirmed. Śaunaka is introduced and starts teaching Yudhiṣṭhira at 3.2.14-15, not only at 3.2.60 (a later speech). The copied Mokṣadharma dating clause is replaced (Āraṇyakaparvan).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

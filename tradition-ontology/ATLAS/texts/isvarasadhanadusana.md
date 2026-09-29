@@ -27,4 +27,4 @@ teachers: [Ratnakīrti](../teachers/ratnakirti.md) · disputes: [Is there an Ī�
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

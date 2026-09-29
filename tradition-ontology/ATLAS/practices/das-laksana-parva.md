@@ -13,4 +13,4 @@ Ten days of the Digambara rains festival, each devoted to one of the ten dharmas
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 9.6
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

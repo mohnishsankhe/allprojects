@@ -10,4 +10,4 @@
 Yangqi master; 'small doubt, small awakening; great doubt, great awakening' (Changuan cejin); teacher of Gaofeng.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

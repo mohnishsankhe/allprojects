@@ -14,4 +14,4 @@
 Puṣpadanta's Apabhraṃśa epic of the sixty-three illustrious persons, written at the Rāṣṭrakūṭa capital Mānyakheṭa (c. 959–965 CE); he also wrote the Jasaharacariu and Ṇāyakumāracariu.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

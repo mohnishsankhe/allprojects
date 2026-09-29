@@ -1,12 +1,13 @@
 # samādhi
 
-`trm:samadhi` · `skeleton` · confidence high
+`trm:samadhi` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Native script:** समाधि
-**Literal:** composure, absorption
+**Literal:** putting together
 
 ## Definitions by tradition
+- [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): That same meditation, shining forth as the object alone and as if empty of its own form (3.3).
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): As salt dissolves in water, the union of self and mind; the sameness when breath is exhausted and mind dissolved; the union of individual and supreme self with all intention ceased (HYP 4.5–7); sixfold in the GS (7.5–6).
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): Unification of mind (MN 44); right concentration is the four jhānas (SN 45.8); noble right concentration is supported by the other seven path factors (MN 117); four developments of concentration (AN 4.41).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Yoga itself (YBh 1.1); the eighth limb — meditation shining only as its object, as if empty of its own form (3.3); of two kinds, samprajñāta and asamprajñāta; with seed or seedless.
@@ -35,6 +36,7 @@ _Notes: Shared slug with the Yoga and Vedānta term; this is the early-Buddhist 
 ---
 **Verification checks**
 
+- 2026-09-29 text: partially-confirmed — tea:yoga-sutra:3.3, tea:yoga-bhasya:3.3, tea:yoga-sutra:3.4, tea:yoga-bhasya:3.4, tea:yoga-sutra:3.7, tea:yoga-bhasya:3.7, tea:yoga-sutra:3.37, tea:yoga-bhasya:3.37, tea:yoga-sutra:4.1, tea:yoga-bhasya:4.1, tea:yoga-sutra:4.29, tea:yoga-bhasya:4.29 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.24, tea:bhagavad-gita:6.7 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U36-pali-suttas, skeleton:U10-yoga, skeleton:U07-puranas, skeleton:U20-virasaiva, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U03-principal-upanisads, skeleton:U21-natha-aghora, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch01-03, skeleton:U04-minor-upanisads, skeleton:U11-nyaya-vaisesika, skeleton:U05-gita-epic, skeleton:U35-jain-philosophy, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:yoga-sutra/p3-4, skeleton:U28-hatha-texts, skeleton:U36-pali-suttas, skeleton:U10-yoga, skeleton:U07-puranas, skeleton:U20-virasaiva, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U03-principal-upanisads, skeleton:U21-natha-aghora, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch01-03, skeleton:U04-minor-upanisads, skeleton:U11-nyaya-vaisesika, skeleton:U05-gita-epic, skeleton:U35-jain-philosophy, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

@@ -11,4 +11,4 @@
 A late Tamil Jain minor epic on Udayana, king of the Vatsas, ending in his renunciation (low confidence).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

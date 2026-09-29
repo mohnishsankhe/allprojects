@@ -12,4 +12,4 @@ Black, blue and grey leśyās, the colouring of cruel and sorrowful states (TS 3
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 3.3; rests_on: ["tea:tattvartha-sutra:3.3"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

@@ -1,6 +1,6 @@
-# Debates (455)
+# Debates (462)
 
-skeleton: 406 · sourced: 49
+skeleton: 405 · sourced: 57
 
 - [After understanding the mahāvākya, is repeated meditative contemplation (prasaṅkhyāna) required for liberating knowledge?](prasankhyana.md) — `skeleton`
 - [Are all nouns derived from verbal roots?](do-all-nouns-derive-from-verbs.md) — `sourced`
@@ -145,7 +145,6 @@ skeleton: 406 · sourced: 49
 - [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](liberation-identity-or-equality-with-siva.md) — `skeleton`
 - [Does the Lord act independently of the karma of souls?](pasupata-isvara-karma.md) — `skeleton`
 - [Does the Lord relish (doṣa-bhogya) or overlook the faults of those who take refuge in him?](dosa-bhogya.md) — `skeleton`
-- [Does the mind contract and expand with the body, or is it all-pervading with only its activity contracting and expanding?](size-of-citta.md) — `skeleton`
 - [Does the omniscient (kevalin) take food?](kevalin-eats.md) — `skeleton`
 - [Does the promise of birth by vows or ten recitations bring birth at once, or only at 'another time' (Mahāyānasaṃgraha)?](intention-for-another-time.md) — `skeleton`
 - [Does the Rāmānandī order descend from Rāmānuja's Śrīvaiṣṇava lineage, or is it an independent sampradāya founded by Rāmānanda with its own line from Rāma?](ramanandi-descent-from-ramanuja.md) — `skeleton`
@@ -228,6 +227,7 @@ skeleton: 406 · sourced: 49
 - [Is Kṛṣṇa a form of Kālī, or is the Goddess a power of Kṛṣṇa?](krsna-and-kali.md) — `skeleton`
 - [Is levirate (niyoga) permitted?](niyoga.md) — `sourced`
 - [Is liberation only the cessation of suffering, or also the attainment of lordship?](duhkhanta-cessation-or-lordship.md) — `skeleton`
+- [Is liberation only the cessation of the mind? (YBh 2.24)](is-liberation-cessation-of-mind.md) — `sourced`
 - [Is liberation possible while living in the body?](jivanmukti.md) — `skeleton`
 - [Is liberation reached by the yogī's body-discipline, or by the Name and the inner guru that the Sants set above it?](kabir-and-the-yogis.md) — `skeleton`
 - [Is liberation while living (jīvanmukti) possible, or only liberation at death?](jivanmukti-possible.md) — `skeleton`
@@ -279,9 +279,13 @@ skeleton: 406 · sourced: 49
 - [Is the Mahāyāna the word of the Buddha?](mahayana-as-buddhavacana.md) — `skeleton`
 - [Is the mantra way superior to the perfection way?](mantra-and-paramita-ways.md) — `skeleton`
 - [Is the material world composed of eternal partless atoms?](atomism.md) — `skeleton`
+- [Is the mind (citta) only of the size of the body, contracting and expanding, or all-pervading with only its function contracting and expanding?](size-of-citta.md) — `sourced`
 - [Is the mind (cognition) self-luminous, or is it seen by a distinct, unchanging seer?](is-mind-self-luminous.md) — `skeleton`
 - [Is the mind a series of momentary cognitions, or one enduring mind with many objects?](citta-momentary-or-enduring.md) — `skeleton`
 - [Is the mind by nature luminous and only adventitiously defiled?](original-purity-of-mind.md) — `skeleton`
+- [Is the mind one abiding thing with many objects, or only momentary cognitions each fixed to one object? (YBh 1.32)](momentary-cognition-vs-abiding-mind.md) — `sourced`
+- [Is the mind self-luminous (illuminating itself and its objects), or is it seen (an object of the seer)?](ys-citta-self-luminous-or-seen.md) — `sourced`
+- [Is the object of cognition independent of any mind, or only a construction of cognition?](ys-object-independent-of-mind.md) — `sourced`
 - [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](one-vehicle-or-three.md) — `skeleton`
 - [Is the outcome of life decided by fate (daiva) or by human effort (pauruṣa)?](daiva-or-paurusa.md) — `sourced`
 - [Is the perfected, indestructible body the goal of yoga, or is it surpassed by the body dissolved in the liṅga (the void)?](allama-goraksa.md) — `skeleton`
@@ -316,6 +320,7 @@ skeleton: 406 · sourced: 49
 - [Is the Yoga smṛti refuted by the Vedānta ('etena yogaḥ pratyuktaḥ', Brahma Sūtra 2.1.3)?](vedanta-on-yoga-smrti.md) — `skeleton`
 - [Is there a permanent mind-nature that leaves the perishing body at death?](srenika-heresy.md) — `skeleton`
 - [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](pudgala.md) — `skeleton`
+- [Is there a real whole (avayavin) over and above the aggregation of atoms? (YBh 1.43)](the-whole-and-its-parts.md) — `sourced`
 - [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](is-there-a-self.md) — `skeleton`
 - [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](sphota.md) — `skeleton`
 - [Is there a store-consciousness (ālaya-vijñāna) distinct from the six consciousnesses?](existence-of-alaya.md) — `skeleton`
@@ -416,8 +421,10 @@ skeleton: 406 · sourced: 49
 - [What is liberation?](nature-of-liberation.md) — `skeleton`
 - [What is liberation? (the Amaraughaśāsana against rival definitions)](false-views-of-moksa.md) — `skeleton`
 - [What is mastery of the senses (indriya-jaya)?](mastery-of-the-senses.md) — `skeleton`
+- [What is mastery of the senses (indriya-jaya)? (YBh 2.55)](what-is-mastery-of-senses.md) — `sourced`
 - [What is Rādhā's status — scriptural basis, relation to Kṛṣṇa, and place in worship?](status-of-radha.md) — `skeleton`
 - [What is the 'luminous mind' — the life-continuum, or the knowing heart known in meditation?](luminous-citta-reading.md) — `skeleton` _(recent)_
+- [What is the 'non-seeing' (adarśana) that is the occasion of the conjunction of seer and seen? (YBh 2.23)](nature-of-adarsana.md) — `sourced`
 - [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](gita-primary-teaching.md) — `skeleton`
 - [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](jiva-brahman-relation-brahma-sutra.md) — `skeleton`
 - [What is the self common to all men (vaiśvānara)?](vaisvanara-six-views.md) — `sourced`

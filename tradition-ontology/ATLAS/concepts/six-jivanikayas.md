@@ -15,4 +15,4 @@
 - causes → [Non-violence in Jainism](ahimsa-jain.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

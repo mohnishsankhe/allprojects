@@ -12,4 +12,4 @@ Walking slowly (Sōtō) or briskly (Rinzai) in line between periods of sitting, 
   - [Song of Realizing the Way (Zhengdao ge)](../texts/zhengdao-ge.md) — ref: 396a10; rests_on: ["tea:zhengdao-ge:396a10"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

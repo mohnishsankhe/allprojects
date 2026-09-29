@@ -13,4 +13,4 @@
 Twelfth-century physician, in the tradition's account the thirteenth-generation descendant of the Elder, who revised the Four Tantras into their present form (in the scholarly account, compiled them) and is the source of the Yuthok Nyingthig, the physicians' spiritual practice.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

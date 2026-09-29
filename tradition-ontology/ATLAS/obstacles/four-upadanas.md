@@ -13,4 +13,4 @@ Clinging to sense pleasures, to views, to rules and observances, to a doctrine o
   - [Cūḷasīhanāda Sutta](../texts/culasihanada-sutta.md) — ref: 2-16; rests_on: ["tea:culasihanada-sutta:2-16"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

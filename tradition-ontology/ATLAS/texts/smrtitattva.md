@@ -18,4 +18,4 @@ Raghunandana's series of twenty-eight 'essences' (tattva) on ritual, time, impur
 
 - 2026-09-28 websearch: confirmed — https://en.banglapedia.org/index.php/Raghunandan_Bhattacharya, https://www.wisdomlib.org/definition/smrititattva — Confirmed: Raghunandana (c. 1510–1580) of Bengal; the Smṛtitattva was composed c. 1550 (Wisdomlib; Banglapedia). This matches the entry's 1520–1580. The count of 28 tattvas was not checked.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

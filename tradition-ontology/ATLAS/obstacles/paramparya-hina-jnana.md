@@ -13,4 +13,4 @@ Knowledge gained from books without the succession of teachers breeds pride and 
   - [Setubandha](../texts/setubandha.md) — ref: yh2.84; rests_on: ["tea:setubandha:yh2.84"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

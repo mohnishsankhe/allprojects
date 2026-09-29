@@ -14,4 +14,4 @@
 Ādikavi Pampa's Kannada campū (941 CE) on the life of Ṛṣabha and the contest between Bharata and Bāhubali, a founding classic of Kannada literature.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

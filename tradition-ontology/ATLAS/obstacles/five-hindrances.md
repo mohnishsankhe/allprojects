@@ -18,7 +18,7 @@ The first field of dhamma-contemplation in MN 10:36. In MN 10:36 the monk knows 
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 5.59; rests_on: ["tea:abhidharmakosa:5.59"]
 
 ## Equivalents (interpretation layer)
-- analogous: [The nine obstacles (antarāya), distractions of mind](nine-antarayas.md) — YS 1.30's nine obstacles overlap in doubt, sloth, sensuality and instability
+- analogous: [The nine obstacles (antarāya), distractions of the mind](nine-antarayas.md) — YS 1.30's nine obstacles overlap in doubt, sloth, sensuality and instability
 - partial: [The six hindrances of the Abhidhamma](six-hindrances-abhidhamma.md) — The Pali Abhidhamma adds ignorance as a sixth hindrance.
 
 ---
@@ -26,4 +26,4 @@ The first field of dhamma-contemplation in MN 10:36. In MN 10:36 the monk knows 
 
 - 2026-09-29 text: partially-confirmed — tea:satipatthana-sutta:mn10:36 — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line.
 
-_Contributed by: extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

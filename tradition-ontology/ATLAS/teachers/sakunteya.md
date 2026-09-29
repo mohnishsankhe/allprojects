@@ -10,4 +10,4 @@ A brahmin speaker: two tastes, the eliminating and the pacifying (Ca Sū 26.8).
 _Notes: Refs checked against the DCS e-text of the Caraka Saṃhitā._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

@@ -11,4 +11,4 @@ Calm on images without discrimination, insight on images with discrimination, re
   - [Saṃdhinirmocana-sūtra](../texts/samdhinirmocana-sutra.md) — ref: ch. 8; rests_on: ["tea:samdhinirmocana-sutra:8"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

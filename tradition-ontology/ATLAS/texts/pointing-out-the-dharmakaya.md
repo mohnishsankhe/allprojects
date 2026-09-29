@@ -28,4 +28,4 @@ terms: [ngo sprod](../terms/ngotro.md), [rang grol](../terms/rangdrol.md) · con
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

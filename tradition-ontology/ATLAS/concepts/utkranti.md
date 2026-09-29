@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Departure through the skull (utkrānti)](utkranti-kjn.md) (haṭha vs Kaula texts) — rests on [115-118](../texts/dattatreyayogasastra.md#tea-dattatreyayogasastra-115-118)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

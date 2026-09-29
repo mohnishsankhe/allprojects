@@ -13,4 +13,4 @@ Chinese Chan master at the Tibetan court whose teaching of not thinking and not 
 _Notes: Scholars link his teaching to Northern-school lines; the tradition's (Tibetan) accounts say he lost the debate, the Chinese record says he won._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

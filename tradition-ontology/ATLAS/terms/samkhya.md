@@ -18,7 +18,7 @@
 - Tibetan: grangs can pa  — exact — as used in Tibetan doxographies (grub mtha'); recalled, verify
 
 ## Equivalents (interpretation layer)
-**Related:** [tattva](tattva.md), [viveka](viveka.md), [puruṣa](purusa.md), [prakṛti](prakrti.md), [dhyāna (nididhyāsana)](dhyana.md), [karmayoga](karma-yoga.md), [yoga](yoga.md), [jñānayoga](jnana-yoga.md), [saṃnyāsa](samnyasa.md)
+**Related:** [tattva](tattva.md), [viveka](viveka.md), [puruṣa](purusa.md), [prakṛti](prakrti.md), [dhyāna](dhyana.md), [karmayoga](karma-yoga.md), [yoga](yoga.md), [jñānayoga](jnana-yoga.md), [saṃnyāsa](samnyasa.md)
 
 _Notes: U05's definition (the epic usage); classical Sāṃkhya is defined by U09._
 
@@ -28,4 +28,4 @@ _Notes: U05's definition (the epic usage); classical Sāṃkhya is defined by U0
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.25 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.4, tea:bhagavad-gita:5.5 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:32 IST._

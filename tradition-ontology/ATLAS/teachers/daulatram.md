@@ -13,4 +13,4 @@ Hindi Digambara poet (1798–1866), author of the Chahḍhālā (1834).
 _Notes: Distinct from the 18th-c. Daulatrām Kāslīvāl._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

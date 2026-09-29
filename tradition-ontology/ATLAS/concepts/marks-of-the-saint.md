@@ -17,4 +17,4 @@
 - same-as-under-standpoint → [The person of steady wisdom (sthitaprajña)](sthitaprajna.md) (ethical-social): the Gītā's steady-minded one and the saint share equanimity and freedom from passion — rests on [12.bhakta](../texts/jnanesvari.md#tea-jnanesvari-12-bhakta)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

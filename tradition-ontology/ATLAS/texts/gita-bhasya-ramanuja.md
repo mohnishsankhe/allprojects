@@ -55,7 +55,7 @@ Four kinds of virtuous people worship the Lord — the distressed seeking lost w
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: practice_
 
-terms: [ananya-prayojana](../terms/ananya-prayojana.md) · concepts: [Powers, wealth and self-enjoyment as lower ends](../concepts/lower-ends-aisvarya-kaivalya.md), [Isolation (kaivalya)](../concepts/kaivalya.md) · teachers: [Rāmānuja](../teachers/ramanuja.md)
+terms: [ananya-prayojana](../terms/ananya-prayojana.md) · concepts: [Powers, wealth and self-enjoyment as lower ends](../concepts/lower-ends-aisvarya-kaivalya.md), [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md) · teachers: [Rāmānuja](../teachers/ramanuja.md)
 
 ### 9.32 <a id="tea-gita-bhasya-ramanuja-9-32"></a>
 `skeleton` · confidence moderate
@@ -117,4 +117,4 @@ terms: [Śriyaḥpati / Śrīman Nārāyaṇa](../terms/sriyahpati.md), [saulabh
 
 - 2026-09-29 catalog: confirmed — catalog:GRETIL:rAmAnuja-bhagavadgItAbhASya, local:sources_raw/gita/data/commentary.json (Sri Ramanujacharya) — Extant and digitized; attribution accepted. Traditional 1017–1137 and scholarly 11th–12th c. ranges are the usual ones.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._

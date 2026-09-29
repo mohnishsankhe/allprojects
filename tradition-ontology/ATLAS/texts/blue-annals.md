@@ -49,4 +49,4 @@ concepts: [The three transmissions of Pacification](../concepts/shije-three-tran
 _Notes: Book numbers of the Shije and Chöd sections not recalled with confidence._
 
 ---
-_Contributed by: skeleton:U46-kagyu, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

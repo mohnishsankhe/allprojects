@@ -23,7 +23,7 @@
 ## Equivalents (interpretation layer)
 - partial: [pāramī](parami.md) — the Theravāda ten pāramīs list renunciation, truth, resolution, loving-kindness and equanimity where the Mahāyāna has meditation, method, aspiration, power and knowledge
 - exact: [pāramī](parami.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
-**Related:** [dāna](dana.md), [sīla](sila.md), [kṣānti](ksanti.md), [vīrya](virya.md), [dhyāna (nididhyāsana)](dhyana.md), [Prājña](prajna.md)
+**Related:** [dāna](dana.md), [sīla](sila.md), [kṣānti](ksanti.md), [vīrya](virya.md), [dhyāna](dhyana.md), [Prājña](prajna.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

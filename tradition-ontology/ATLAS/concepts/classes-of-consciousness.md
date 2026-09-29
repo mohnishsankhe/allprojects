@@ -11,7 +11,7 @@
 - [Theravāda](../lineages/theravada.md): Consciousness is one in its characteristic of knowing but 89 types by plane, kind and association: 54 sense-sphere (12 unwholesome, 18 rootless, 24 beautiful), 15 fine-material, 12 immaterial, 8 supramundane (121 when the supramundane are multiplied by five jhānas).
 
 ## Relations (interpretation layer)
-- contrasts-with → [The mind (citta) in Yoga](citta.md): Yoga's citta is one mind-stuff with modifications; the Abhidhamma's citta is a series of momentary consciousnesses of many types
+- contrasts-with → [The mind (citta) in YS 4.15-4.24](citta.md): Yoga's citta is one mind-stuff with modifications; the Abhidhamma's citta is a series of momentary consciousnesses of many types
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

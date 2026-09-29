@@ -34,10 +34,10 @@ Citta is the inner organ (antaḥkaraṇa); nirodha of its activities is their t
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind_
 
-terms: [citta](../terms/citta.md), [nirodha](../terms/nirodha.md) · concepts: [The mind (citta) in Yoga](../concepts/citta.md), [Yoga as the stilling of the mind's activities (citta-vṛtti-nirodha)](../concepts/yoga-as-nirodha.md)
+terms: [citta](../terms/citta.md), [nirodha](../terms/nirodha.md) · concepts: [The mind (citta) in YS 4.15-4.24](../concepts/citta.md), [Yoga as the stilling of the mind's activities (citta-vṛtti-nirodha)](../concepts/yoga-as-nirodha.md)
 
 
 _Notes: Nāgeśa is reported to have written a longer and a shorter vṛtti (Bṛhatī, Laghvī) — which one the local raw_etexts file contains is not verified._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._

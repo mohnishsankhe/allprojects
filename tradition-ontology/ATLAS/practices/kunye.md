@@ -16,4 +16,4 @@ Massage with warmed oils, especially for rlung disorders, the elderly and in dai
 - exact: [Oil massage (abhyaṅga)](abhyanga.md) — oil massage
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

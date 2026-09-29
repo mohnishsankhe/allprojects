@@ -447,4 +447,4 @@ _Notes: Vulgate range given from memory (moderate)._
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.168.8 (Senajit), 12.353.9 (last verse of the book), https://link.springer.com/article/10.1007/s10781-016-9293-z — CE 12.168–353 confirmed as the closing section of the Śāntiparvan (186 chapters). The vulgate range 12.174–365 was not verified (the local vulgate file follows a different, 375-chapter Śāntiparvan numbering).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

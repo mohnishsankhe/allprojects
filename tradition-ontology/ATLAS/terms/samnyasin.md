@@ -20,4 +20,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.3, tea:bhagavad-gita:6.1, tea:bhagavad-gita:6.4 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._

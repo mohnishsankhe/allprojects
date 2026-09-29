@@ -25,4 +25,4 @@ After hearing the principles (manifest, unmanifest, knower) from scripture and t
 - analogous: [Meditation (nididhyāsana / dhyāna)](nididhyasana.md) — long uninterrupted contemplation after hearing and reflection, as in Advaita's nididhyāsana; content and goal differ (discrimination vs identity)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._

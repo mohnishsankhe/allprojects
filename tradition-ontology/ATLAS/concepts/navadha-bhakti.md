@@ -20,4 +20,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:7.5.23-24, tea:siva-purana:1.3-4 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

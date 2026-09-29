@@ -15,4 +15,4 @@ Harm from spirits: in Sowa Rigpa a condition and a class of disease requiring ri
 - partial: [Seizure by spirits (graha)](grahabadha.md) — Āyurvedic seizure by spirits
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

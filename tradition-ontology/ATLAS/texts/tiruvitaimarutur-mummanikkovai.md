@@ -16,4 +16,4 @@ One of the five poems of Paṭṭiṉattup Piḷḷaiyār included in the eleven
 _Notes: The five titles are recalled at moderate confidence and not checked (the local 11th-Tirumuṟai file covers only pācurams 1–825). Whether this poet is the Siddhar Paṭṭiṉattār is disputed (dsp:pattinattar-identity)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

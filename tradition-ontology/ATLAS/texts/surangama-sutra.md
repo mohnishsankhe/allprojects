@@ -105,4 +105,4 @@ disputes: [Is awakening sudden â€” an all-at-once seeing of the mind's nature â€
 _Notes: T945 (vol. 19) is not in the local CBETA subset; fascicle-level refs from memory. The Tibetan Toh 236 (a translation from Chinese of part of the last chapter) is attested in the local Derge catalogue._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

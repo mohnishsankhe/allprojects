@@ -10,4 +10,4 @@
 A student of Dolpopa who upheld the other-emptiness teaching and taught widely in central Tibet.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

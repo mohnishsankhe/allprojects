@@ -15,4 +15,4 @@ The second 'secret': how Mahālakṣmī, Mahākālī and Mahāsarasvatī are to 
 _Notes: Recited as a limb (aṅga) of the Durgā Saptaśatī (Devī Māhātmya, U07); U23 records the Śākta liturgy._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

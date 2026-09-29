@@ -15,4 +15,4 @@ From the bound kukkuṭa position the neck is clasped with the arms and one lies
   - [Triśikhibrāhmaṇa Upaniṣad](../texts/trisikhibrahmana-upanisad.md) — ref: 34-52; rests_on: ["tea:trisikhibrahmana-upanisad:34-52"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._

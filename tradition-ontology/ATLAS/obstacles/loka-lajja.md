@@ -14,4 +14,4 @@ Concern for public opinion and family honour that keeps one from wholehearted de
   - [Vinaya Patrikā](../texts/vinaya-patrika.md) — ref: 174; rests_on: ["tea:vinaya-patrika:174"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@ Candrakīrti's short manual of the five aggregates, the elements and the sense-b
   - kind: translation; name: Tibetan translation, Derge Tengyur D3866 (phung po lnga'i rab tu byed pa) — catalog:Derge-Tengyur:D3866
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

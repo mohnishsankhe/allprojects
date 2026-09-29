@@ -14,4 +14,4 @@
 Brahmin hagiographer of Tāharābād (1715–1790), author of the Bhaktavijaya, Santalīlāmṛta and Bhaktalīlāmṛta, through which the Vārkarī saints' lives are told.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

@@ -50,4 +50,4 @@ _none recorded_
 _Notes: Several independent kriyā lines descend from Lahiri's other disciples (e.g. Panchanan Bhattacharya's Arya Mission); only the lineage names are recorded here._
 
 ---
-_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 22:32 IST._

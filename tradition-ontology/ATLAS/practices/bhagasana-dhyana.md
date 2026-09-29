@@ -13,4 +13,4 @@ Summary only: an opponent's one-line report that the Kāpālas attain nirvāṇa
 _Notes: Sexual rite category: restricted, summary only._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:32 IST._

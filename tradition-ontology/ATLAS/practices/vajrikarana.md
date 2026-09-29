@@ -14,4 +14,4 @@ Bhairava's own practice by which he survived dissolution: meditation on the inna
 - 'This most secret teaching is to be guarded with effort.' — [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) 15.27
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

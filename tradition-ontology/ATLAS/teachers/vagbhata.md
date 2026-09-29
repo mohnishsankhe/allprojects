@@ -15,4 +15,4 @@ Author of the Aṣṭāṅgahṛdaya, 'son of Siṃhagupta, lord of physicians' 
 _Notes: Buddhist affiliation is a scholarly inference from AHS Sū 1.1 and 2.21-22. Some later authors distinguish an elder Vāgbhaṭa (Aṣṭāṅgasaṅgraha). The Rasaratnasamuccaya's author also calls himself son of Siṃhagupta._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

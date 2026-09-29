@@ -862,7 +862,7 @@ Now the excellent withdrawal (pratyāhāra), by merely knowing which enemies lik
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [pratyāhāra](../terms/pratyahara.md) · practices: [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md)
+terms: [pratyāhāra](../terms/pratyahara.md) · practices: [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](../practices/pratyahara.md)
 
 ### 4.1-7 <a id="tea-gheranda-samhita-4-1-7"></a>
 `skeleton` · confidence high
@@ -871,7 +871,7 @@ Withdrawal (pratyāhāra), by knowing which desire and the other enemies are des
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice, consciousness-mind_
 
-practices: [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md)
+practices: [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](../practices/pratyahara.md)
 
 ### 5.1-2 <a id="tea-gheranda-samhita-5-1-2"></a>
 `skeleton` · confidence high
@@ -882,7 +882,7 @@ Now the method of breath-control, by merely accomplishing which a man becomes li
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: beginner · types: practice_
 
-concepts: [The place and hut for yoga](../concepts/yoga-matha.md), [The preliminaries of breath-control (place, time, diet, purification)](../concepts/four-preliminaries-of-pranayama.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md), [Moderate diet (mitāhāra) in the haṭha texts](../practices/mitahara.md), [Purification of the channels (nāḍī-śodhana, nāḍī-śuddhi)](../practices/nadi-sodhana.md)
+concepts: [The place and hut for yoga](../concepts/yoga-matha.md), [The preliminaries of breath-control (place, time, diet, purification)](../concepts/four-preliminaries-of-pranayama.md) · practices: [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md), [Moderate diet (mitāhāra) in the haṭha texts](../practices/mitahara.md), [Purification of the channels (nāḍī-śodhana, nāḍī-śuddhi)](../practices/nadi-sodhana.md)
 
 ### 5.3-4 <a id="tea-gheranda-samhita-5-3-4"></a>
 `skeleton` · confidence high
@@ -1103,7 +1103,7 @@ Meditation is of three kinds: gross (sthūla), of light (jyotis) and subtle (sū
 
 _level: conventional · standpoint: analytic · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md) · concepts: [The three kinds of meditation (Gheraṇḍa)](../concepts/three-dhyanas-gheranda.md) · practices: [Gross, luminous and subtle meditation (Gheraṇḍa)](../practices/gheranda-three-dhyanas.md)
+terms: [dhyāna](../terms/dhyana.md) · concepts: [The three kinds of meditation (Gheraṇḍa)](../concepts/three-dhyanas-gheranda.md) · practices: [Gross, luminous and subtle meditation (Gheraṇḍa)](../practices/gheranda-three-dhyanas.md)
 
 ### 6.2-8 <a id="tea-gheranda-samhita-6-2-8"></a>
 `skeleton` · confidence high
@@ -1272,4 +1272,4 @@ concepts: [Dissolution of breath and mind (laya)](../concepts/laya-natha.md) · 
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

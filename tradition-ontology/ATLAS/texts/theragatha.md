@@ -37,4 +37,4 @@ practices: [The thirteen ascetic practices (dhutaṅga)](../practices/dhutanga.m
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

@@ -28,4 +28,4 @@
 **Related:** [tathatā](tathata.md), [tattva](tattva.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U43-pure-land, skeleton:U47-sakya-kadam-gelug, skeleton:U45-nyingma-bon, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U43-pure-land, skeleton:U47-sakya-kadam-gelug, skeleton:U45-nyingma-bon, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

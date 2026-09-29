@@ -42,7 +42,7 @@ For those endowed with the yogas beginning with restraint (yama), [the views] ar
 
 _level: conventional · standpoint: analytic · path: meditation · stage: all · types: practice_
 
-terms: [yama](../terms/yama.md), [niyama](../terms/niyama.md), [āsana](../terms/asana.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhāraṇā](../terms/dharana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [samādhi](../terms/samadhi.md) · concepts: [Haribhadra's eight views of yoga](../concepts/haribhadra-eight-drstis.md) · obstacles: [Haribhadra's eight faults of the mind in yoga](../obstacles/eight-yoga-dosas.md) · teachers: [Haribhadra Sūri](../teachers/haribhadra.md)
+terms: [yama](../terms/yama.md), [niyama](../terms/niyama.md), [āsana](../terms/asana.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhāraṇā](../terms/dharana.md), [dhyāna](../terms/dhyana.md), [samādhi](../terms/samadhi.md) · concepts: [Haribhadra's eight views of yoga](../concepts/haribhadra-eight-drstis.md) · obstacles: [Haribhadra's eight faults of the mind in yoga](../obstacles/eight-yoga-dosas.md) · teachers: [Haribhadra Sūri](../teachers/haribhadra.md)
 
 ### 129-130 <a id="tea-yogadrstisamuccaya-129-130"></a>
 `skeleton` · confidence moderate
@@ -154,4 +154,4 @@ terms: [kula-yogin](../terms/kula-yogin.md), [pravṛttacakra-yogin](../terms/pr
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

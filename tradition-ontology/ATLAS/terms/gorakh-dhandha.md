@@ -14,4 +14,4 @@
 _Notes: Popular usage; meaning in the tradition recalled in outline._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

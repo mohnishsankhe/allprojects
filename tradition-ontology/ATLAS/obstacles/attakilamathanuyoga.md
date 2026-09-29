@@ -13,4 +13,4 @@ The extreme of tormenting the body, practised by the naked ascetics and by the B
   - [Kassapa-sīhanāda Sutta](../texts/kassapasihanada-sutta.md) — ref: DN 8; rests_on: ["tea:kassapasihanada-sutta:14"]
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._

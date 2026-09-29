@@ -31,4 +31,4 @@ concepts: [The four noble truths (cattāri ariyasaccāni)](../concepts/four-nobl
 _Notes: SuttaCentral uid sn56.31; Mahāsaṅgīti title 'Sīsapāvanasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

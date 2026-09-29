@@ -13,4 +13,4 @@ Fifty verses to the Sun ascribed to Sāmba, with Kṣemarāja's commentary readi
   - kind: original; name: Trivandrum Sanskrit Series 104 (1930)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

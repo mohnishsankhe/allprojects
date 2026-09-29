@@ -19,4 +19,4 @@ Paramāra king of Dhārā and polymath, author of the Rājamārtaṇḍa, a conc
 _Notes: Contribution from U08; registry id shared with U10 (Rājamārtaṇḍa)._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue, skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue, skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

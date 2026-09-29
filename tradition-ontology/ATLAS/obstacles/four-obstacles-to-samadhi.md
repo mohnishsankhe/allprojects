@@ -14,4 +14,4 @@ Dullness (laya), distraction (vikṣepa), latent attachment (kaṣāya) and reli
   - [Māṇḍūkya Kārikā (Gauḍapāda Kārikā, Āgamaśāstra)](../texts/mandukya-karika.md) — ref: 3.44–45; rests_on: ["tea:mandukya-karika:3.44", "tea:mandukya-karika:3.45"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

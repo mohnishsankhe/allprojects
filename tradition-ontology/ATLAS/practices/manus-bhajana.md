@@ -12,4 +12,4 @@ Serving and worshipping the divine in human beings, above all in the living guru
   - [Kartābhajā sayings and maxims (oral)](../texts/kartabhaja-sayings.md) — ref: 'mānuṣ bhaja'; rests_on: ["tea:kartabhaja-sayings:manus-bhaja"]
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

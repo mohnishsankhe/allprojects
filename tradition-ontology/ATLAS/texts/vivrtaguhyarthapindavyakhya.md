@@ -17,4 +17,4 @@ A short explanation attributed to Asaṅga (in Tibetan) of the hidden meaning of
 _Notes: Content summary reconstructed from memory; to be checked._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

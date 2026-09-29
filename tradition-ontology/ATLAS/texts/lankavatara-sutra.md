@@ -100,7 +100,7 @@ Four kinds of dhyāna: that practiced by the foolish (bālopacārika — śrāva
 
 _level: conventional · standpoint: analytic · path: meditation · stage: all · types: practice, consciousness-mind_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [tathatā](../terms/tathata.md) · concepts: [The four dhyānas of the Laṅkāvatāra](../concepts/four-dhyanas-lankavatara.md) · practices: [The four dhyānas of the Laṅkāvatāra](../practices/four-dhyanas-lankavatara.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md)
+terms: [dhyāna](../terms/dhyana.md), [tathatā](../terms/tathata.md) · concepts: [The four dhyānas of the Laṅkāvatāra](../concepts/four-dhyanas-lankavatara.md) · practices: [The four dhyānas of the Laṅkāvatāra](../practices/four-dhyanas-lankavatara.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md)
 
 ### 2.p52 <a id="tea-lankavatara-sutra-2-p52"></a>
 `skeleton` · confidence high
@@ -168,4 +168,4 @@ concepts: [The four yogic stages (Laṅkāvatāra)](../concepts/four-yogic-stage
 _Notes: Locator: chapter.pPAGE (Vaidya's page). Chapter colophons and cited passages read in the local e-text._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

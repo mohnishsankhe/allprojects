@@ -15,4 +15,4 @@ One should contemplate that [power] from the root (mūla), shining like rays, ev
 _Notes: Verses 28 (KSTS 8 / GRETIL numbering). Kaumudī: the fifth dhāraṇā._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

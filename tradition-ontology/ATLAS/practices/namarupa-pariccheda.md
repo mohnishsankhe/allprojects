@@ -13,4 +13,4 @@ Purification of view: discerning the jhāna factors and their associates (calm v
 **Sequences:** [The seven purifications (satta visuddhi)](../paths/seven-purifications.md), [The sixteen insight knowledges (soḷasa ñāṇa)](../paths/sixteen-insight-knowledges.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

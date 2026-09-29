@@ -15,4 +15,4 @@
 Rāmakaṇṭha's commentary on Sadyojyoti's Nareśvaraparīkṣā, extending its arguments for the soul and the Lord against the Buddhist logicians.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

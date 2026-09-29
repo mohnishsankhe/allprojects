@@ -32,4 +32,4 @@ The texts give both reasons themselves: the questions are unbeneficial, and they
 **The traditions' own objections:** Theravāda rejects reading the silence as implying an inexpressible self (a reading later associated with the Pudgalavāda, U38); the wanderers' side would reject the claim that their questions are ill-framed.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

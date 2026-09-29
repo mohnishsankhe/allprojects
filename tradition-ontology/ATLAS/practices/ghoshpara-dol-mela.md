@@ -9,4 +9,4 @@
 At Dol Pūrṇimā (Holi) devotees gather at Ghoshpara at Satī Mā's shrine, bathe in the Himsāgar tank, tie threads at the pomegranate tree for healing and boons, and sing; many are possessed by bhāva.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

@@ -30,4 +30,4 @@ practices: [Perception of light](../practices/aloka-sanna.md), [Walking meditati
 _Notes: SuttaCentral uid an7.61; Mahāsaṅgīti title 'Pacalāyamānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

@@ -14,4 +14,4 @@
 - causes → [Non-violence in Jainism](ahimsa-jain.md): The extent of non-violence follows from the extent of life (one-sensed beings included). — rests on [2.13](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-2-13), [2.22-23](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-2-22-23)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

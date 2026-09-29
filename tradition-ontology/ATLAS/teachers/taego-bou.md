@@ -9,4 +9,4 @@
 Goryeo master who received Linji (Yangqi) transmission from Shiwu Qinggong in China (1348); regarded as reviver of the Jogye lineage and eponym of the Taego order.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@
 _Notes: The numbering systems (13th 'Vajradhara' ground, 14th etc.) belong to later commentaries; not resolved here._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

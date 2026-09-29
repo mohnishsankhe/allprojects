@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Buddha-nature (tathāgatagarbha, buddhadhātu)](buddha-nature.md) (Nyingma) — rests on [1](../texts/sugatagarbha-lions-roar-mipham.md#tea-sugatagarbha-lions-roar-mipham-1)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

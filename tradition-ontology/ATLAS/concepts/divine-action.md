@@ -20,4 +20,4 @@ _Notes: Chs. 4–6 contribution, from extractor A's cpt:akartrtva (the Lord's si
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.13, tea:bhagavad-gita:4.14, tea:bhagavad-gita:4.15 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:32 IST._

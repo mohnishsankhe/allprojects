@@ -26,4 +26,4 @@ After mutual testing, the guru initiates by touch, sight or piercing; Śākta in
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/dcs/dcs/data/conllu/files/Aitareyabrāhmaṇa (DCS, pañcikā.khaṇḍa) — AB 1.3 (the consecrated sacrificer made an embryo) was found. This rests on confirmed teaching checks: tea:aitareya-brahmana:1.3.
 
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U02-brahmana-vedanga, skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U02-brahmana-vedanga, skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

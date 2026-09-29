@@ -15,4 +15,4 @@
 _Notes: Disambiguated from trm:bhava (used by other units for Sāṃkhya's bhāvas, Rudra's name 'Bhava' and the Gauḍīya stage 'bhāva')._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

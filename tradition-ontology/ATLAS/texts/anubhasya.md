@@ -39,4 +39,4 @@ terms: [viruddha-dharmāśraya](../terms/viruddha-dharmasraya.md) · concepts: [
 _Notes: The point at which Vallabha's portion ends (c. BS 3.2.33) is commonly stated; verify._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

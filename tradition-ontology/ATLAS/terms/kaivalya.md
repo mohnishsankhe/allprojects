@@ -1,12 +1,13 @@
 # kaivalya
 
-`trm:kaivalya` · `skeleton` · confidence high
+`trm:kaivalya` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Native script:** कैवल्य
-**Literal:** aloneness, isolation
+**Literal:** isolation, aloneness
 
 ## Definitions by tradition
+- [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Isolation of puruṣa. Named at 3.50 (from dispassion even towards the discrimination-born powers, when the seeds of defect are destroyed), 3.55 (sattva and puruṣa equal in purity), 4.26 (the mind slopes towards it) and 4.34 (the return to source of the guṇas empty of puruṣa's purpose, or the establishment of the power of consciousness in its own form).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The aloneness of the seer: the absence of the conjunction (2.25); arising when sattva and puruṣa are equal in purity (3.55) or from dispassion even toward the highest power (3.50); defined as the guṇas' return to their source, or the power of consciousness established in its own form (4.34).
 - [Sāṃkhya](../lineages/samkhya.md): (1) Puruṣa's intrinsic isolation (SK 19). (2) The goal: isolation that is certain and final, attained when the body falls and pradhāna, its purpose fulfilled, ceases (SK 68); prakṛti's activity is for its sake (SK 17, 21).
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): What remains when the mind is dissolved by abandoning the knowable (HYP 4.62).
@@ -28,4 +29,8 @@
 _Notes: The Śākta sense (liberation as oneness with the Goddess) is only analogous to Pātañjala kaivalya (isolation of puruṣa); the two definitions should not be merged as one sense._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U28-hatha-texts, skeleton:U07-puranas, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita, skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+**Verification checks**
+
+- 2026-09-29 text: partially-confirmed — tea:yoga-bhasya:3.18/2, tea:yoga-sutra:3.50, tea:yoga-bhasya:3.50, tea:yoga-sutra:3.55, tea:yoga-bhasya:3.55, tea:yoga-sutra:4.26, tea:yoga-bhasya:4.26, tea:yoga-sutra:4.34, tea:yoga-bhasya:4.34 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
+
+_Contributed by: extraction:yoga-sutra/p3-4, skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U28-hatha-texts, skeleton:U07-puranas, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita, skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

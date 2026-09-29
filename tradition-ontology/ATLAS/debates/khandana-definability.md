@@ -21,4 +21,4 @@ Nyāya (and later Navya-Nyāya, esp. Gaṅgeśa): definitions can be refined to 
 **Candidate readings:** P1-level: Nyāya's definitions hold for empirical usage (which Śrīharṣa also allows), not as ultimate truths.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

@@ -14,4 +14,4 @@
 - contrasts-with → [The sentence as the indivisible unit of meaning (akhaṇḍa-vākya)](sentence-as-unit.md): the sphoṭa at its fullest is the sentence — rests on [sphotanirnaya](../texts/vaiyakarana-bhusana-sara.md#tea-vaiyakarana-bhusana-sara-sphotanirnaya)
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._

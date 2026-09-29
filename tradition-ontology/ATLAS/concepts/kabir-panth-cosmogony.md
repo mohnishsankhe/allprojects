@@ -14,4 +14,4 @@
 - contrasts-with → [Creation and dissolution of the world](creation-and-dissolution.md): Inverts the Purāṇic account by making the creator a fallen power. — rests on [kal-niranjan-austerity-and-three-worlds](../texts/anurag-sagar.md#tea-anurag-sagar-kal-niranjan-austerity-and-three-worlds)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._

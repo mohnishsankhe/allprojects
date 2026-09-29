@@ -56,4 +56,4 @@ A Śaiva tantric science, presented as revealed by Bhairava to the Goddess, that
 _Notes: family 'shared': predominantly Śaiva (the Raseśvara is counted among the Māheśvara systems in the Sarvadarśanasaṃgraha), but alchemical works are ascribed to the Buddhist Nāgārjuna and a Jain (Merutuṅga) commented on the Rasādhyāya. No processes, quantities or recipes are recorded anywhere in this unit._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

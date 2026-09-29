@@ -19,4 +19,4 @@ Reviver of Japanese Rinzai: stressed great doubt, kenshō and post-awakening pra
 **Realization — the tradition's account:** After days in great doubt, 'as if frozen in a sheet of ice', he broke through on hearing the distant sound of a temple bell (Eiganji, 1708); Shōju later rebuked his pride and he had further awakenings (Itsumadegusa).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

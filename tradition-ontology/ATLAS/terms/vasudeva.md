@@ -27,4 +27,4 @@ _Notes: The Gītā verse gives no etymology of the name._
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.19 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.37, tea:bhagavad-gita:11.50 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

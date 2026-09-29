@@ -34,4 +34,4 @@ concepts: [The Cīnācāra and the Vasiṣṭha–Buddha story](../concepts/cina
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._

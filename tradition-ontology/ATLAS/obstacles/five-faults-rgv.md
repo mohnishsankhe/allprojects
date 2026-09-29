@@ -12,4 +12,4 @@ Discouragement, contempt for inferior beings, grasping the unreal, denying the r
   - [Ratnagotravibhāga (Mahāyānottaratantraśāstra)](../texts/ratnagotravibhaga.md) — ref: 1.156-157; rests_on: ["tea:ratnagotravibhaga:1.156-157"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

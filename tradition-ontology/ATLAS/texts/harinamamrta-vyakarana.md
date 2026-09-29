@@ -12,4 +12,4 @@
 Jīva's Sanskrit grammar in which every technical term is replaced by names of Kṛṣṇa, so that learning grammar is remembering the Lord.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

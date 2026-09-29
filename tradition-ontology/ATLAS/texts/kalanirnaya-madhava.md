@@ -17,4 +17,4 @@ Mādhava's treatise on the proper times of rites, fasts and festivals.
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:kAlanirNayaH (mAdhavAchAryaH), https://en.wikipedia.org/wiki/Vidyaranya — Low-confidence entry confirmed as extant (eBhāratī, Mādhavācārya's Kālanirṇaya / Kālamādhava).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

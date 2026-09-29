@@ -16,4 +16,4 @@ The root of existence: six anuśayas (passion, aversion, pride, ignorance, view,
 - partial: [The seven latent tendencies (anusaya)](seven-anusayas.md) — The seven are the base of the Kośa's ninety-eight, which are counted by realm and mode of abandonment.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

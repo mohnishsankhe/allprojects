@@ -20,9 +20,9 @@ Summary only: the Siddhars' mastery of the breath, imaged as binding the 'horse 
 - For the true knower who has seen the true thing, kaṟpam and yoga are needless (the means are not the goal). — [Kutampaic cittar pāṭalkaḷ (the songs of Kuṭampai)](../texts/kudambai-padalgal.md) 2, 22
 
 ## Equivalents (interpretation layer)
-- partial: [Breath-control (prāṇāyāma) in haṭha](pranayama.md) — vāci includes breath-restraint but is framed as body-perfection and inner turning
+- partial: [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](pranayama.md) — vāci includes breath-restraint but is framed as body-perfection and inner turning
 
 _Notes: Restricted as a retention-based practice; the texts' claims are recorded as claims._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

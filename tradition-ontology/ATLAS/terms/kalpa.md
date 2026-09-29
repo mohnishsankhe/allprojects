@@ -26,4 +26,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.7 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U32-jyotisa, skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U32-jyotisa, skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

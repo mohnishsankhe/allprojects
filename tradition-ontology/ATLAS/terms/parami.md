@@ -17,4 +17,4 @@
 **Related:** [dāna](dana.md), [nekkhamma](nekkhamma.md), [adhiṭṭhāna](adhitthana.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

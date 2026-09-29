@@ -16,4 +16,4 @@ An Anuyoga sūtra of the Old Tantra section, counted among the root sūtras of A
 _Notes: Existence local (catalog:Derge-Kangyur:D830); the Tibetan title in the catalogue is abbreviated and its classification is from memory._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

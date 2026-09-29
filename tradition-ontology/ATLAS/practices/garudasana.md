@@ -14,4 +14,4 @@ Pressing the ground with shins and thighs, the body steadied by the knees, the h
 _Notes: The Gheraṇḍa's garuḍāsana is not the modern standing posture of the same name._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._

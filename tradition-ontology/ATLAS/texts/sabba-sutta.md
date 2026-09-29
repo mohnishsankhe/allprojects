@@ -41,4 +41,4 @@ concepts: [The six internal and external sense bases (chaḷ ajjhattikabāhirāy
 _Notes: SuttaCentral uid sn35.23; Mahāsaṅgīti title 'Sabbasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

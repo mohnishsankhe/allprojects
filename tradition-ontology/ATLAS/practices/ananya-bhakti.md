@@ -37,4 +37,4 @@ _Notes: Chs. 13–15 contribution, merged from extractor B's prc:ananya-bhakti a
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.54, tea:bhagavad-gita:11.55, tea:bhagavad-gita:12.2, tea:bhagavad-gita:12.6, tea:bhagavad-gita:12.7 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8-12, tea:bhagavad-gita:13.11, tea:bhagavad-gita:14.26, tea:bhagavad-gita:15.19 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:32 IST._

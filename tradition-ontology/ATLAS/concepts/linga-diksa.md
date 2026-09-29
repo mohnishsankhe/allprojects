@@ -16,4 +16,4 @@
 _Notes: Secrecy: the mantra is given 'secretly' (nigūḍham, SSM 6.21)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

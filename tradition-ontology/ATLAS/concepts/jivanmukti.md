@@ -29,7 +29,7 @@
 
 ## Relations (interpretation layer)
 - leads-to → [Bodiless liberation (videhamukti)](videhamukti.md) — rests on [67](../texts/samkhya-karika.md#tea-samkhya-karika-67), [68](../texts/samkhya-karika.md#tea-samkhya-karika-68), [4.1.19](../texts/brahma-sutra.md#tea-brahma-sutra-4-1-19)
-- leads-to → [Isolation (kaivalya)](kaivalya.md) — rests on [4.34](../texts/yoga-sutra.md#tea-yoga-sutra-4-34)
+- leads-to → [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](kaivalya.md) — rests on [4.34](../texts/yoga-sutra.md#tea-yoga-sutra-4-34)
 
 ---
 **Verification checks**
@@ -38,4 +38,4 @@
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text), local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/prepared/astavakra-gita/segments.jsonl (GRETIL e-text), local:sources_raw/raw_etexts/purANa — Rests on tea:moksopaya:3.118.16-26, tea:moksopaya:5.77, tea:moksopaya:5.91.12-15, tea:astavakra-gita:18.96-100, tea:rama-gita:7.5.53-57, tea:uddhava-gita:11.13.36-37 …; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda, skeleton:U21-natha-aghora, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda, skeleton:U21-natha-aghora, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@
 Vinayavijaya's commentary on the Kalpa Sūtra (1639 CE), the one most used for the public reading of the text during Paryuṣaṇa.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._

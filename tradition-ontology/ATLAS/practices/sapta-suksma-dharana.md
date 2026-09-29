@@ -19,4 +19,4 @@ Holding the mind at the head on earth, water, fire, air, space, mind and intelle
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:markandeya-purana:40.14-28 — MkP 40.14-28 (40.23-26 the warning) located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._

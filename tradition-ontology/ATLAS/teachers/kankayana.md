@@ -10,4 +10,4 @@ Speaker: the opposite of the provoking factors pacifies vāyu (Ca Sū 12.6); tas
 _Notes: Refs checked against the DCS e-text of the Caraka Saṃhitā._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

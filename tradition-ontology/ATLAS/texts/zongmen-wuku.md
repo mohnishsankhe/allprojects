@@ -16,4 +16,4 @@ Anecdotes of Chan masters told by Dahui, recorded by his disciple Daoqian.
   - kind: original; name: CBETA XML P5, Taishō T47n1998B (T47n1998B); local copy sources_raw/cbeta/T/T47/T47n1998B.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

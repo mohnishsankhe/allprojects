@@ -17,4 +17,4 @@ A work combining Machig's life story with an explanation of the Chöd body-offer
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000220 "dus gsum rgyal ba kun gyi yum gcig 'phags ma lab kyi sgrol ma'i rnam par thar pa dang / phung po gzan bskyur gyi rnam par bshad pa mkha' 'gro bye ba'i gsang lam" — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

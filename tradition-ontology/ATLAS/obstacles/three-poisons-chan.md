@@ -13,4 +13,4 @@ Greed, hatred and delusion, which great wisdom turns into precepts, samādhi and
   - [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) — ref: 5.3; 13.14; rests_on: ["tea:platform-sutra:5.3"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

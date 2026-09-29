@@ -15,4 +15,4 @@ Of a sound that has visarga, place awareness at the end of the visarga; with a s
 _Notes: Verses 91 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._

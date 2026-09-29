@@ -97,4 +97,4 @@ terms: [ōsō ekō](../terms/oso-eko.md), [gensō ekō](../terms/genso-eko.md), 
 _Notes: T40 is not in the local corpus; all teachings from this text are recalled (no original quoted)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

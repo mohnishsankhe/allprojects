@@ -21,4 +21,4 @@ With steady eyes and concentrated mind, one gazes without blinking at a small ta
 _Notes: The texts name only a 'small target' (sūkṣma-lakṣya); gazing at a candle flame is later usage (recent teachers)._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._

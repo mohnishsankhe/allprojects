@@ -13,4 +13,4 @@ A collection of formulations found among the Bower manuscripts from Kucha (Centr
 _Notes: Edited and published (Hoernle); digitization status not checked._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

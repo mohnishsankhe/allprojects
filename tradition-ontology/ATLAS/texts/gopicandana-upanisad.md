@@ -29,4 +29,4 @@ practices: [Ūrdhvapuṇḍra (vertical Vaiṣṇava mark)](../practices/urdhvap
 
 - 2026-09-29 catalog: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (line 26820, collection no. 112), catalog:eBharati:gopIchandanopaniShat, catalog:eBharati:atharvaNopaniShadaH — No. 112 of the e-text (Atharvan colophon). The etymologies (gopī as protector; candana as cause of the bliss of Brahman) are located. Jacob's Atharvaṇopaniṣadaḥ (1916, with Nārāyaṇa's Dīpikā; local eBhāratī copy) also edits the Gopīcandana.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._

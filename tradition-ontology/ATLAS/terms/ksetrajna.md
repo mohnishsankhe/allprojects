@@ -26,4 +26,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.1, tea:bhagavad-gita:13.2, tea:bhagavad-gita:13.3, tea:bhagavad-gita:13.27, tea:bhagavad-gita:13.35 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

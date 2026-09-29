@@ -23,8 +23,8 @@ A steady state of mind is meditation (dhyāna); a moving one is thought (citta),
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind, practice_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [bhāvanā](../terms/bhavana.md), [anuprekṣā](../terms/anupreksa.md) · concepts: [The four meditations](../concepts/four-dhyanas.md) · teachers: [Jinabhadra Gaṇi Kṣamāśramaṇa](../teachers/jinabhadra.md)
+terms: [dhyāna](../terms/dhyana.md), [bhāvanā](../terms/bhavana.md), [anuprekṣā](../terms/anupreksa.md) · concepts: [The four meditations](../concepts/four-dhyanas.md) · teachers: [Jinabhadra Gaṇi Kṣamāśramaṇa](../teachers/jinabhadra.md)
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

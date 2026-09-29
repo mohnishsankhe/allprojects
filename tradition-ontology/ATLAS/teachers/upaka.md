@@ -8,4 +8,4 @@
 An Ājīvika ascetic who met the newly awakened Buddha on the road to Benares and did not accept his claim (MN 26; Vin Mv 1.6).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

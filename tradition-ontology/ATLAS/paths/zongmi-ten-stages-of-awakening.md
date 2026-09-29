@@ -22,4 +22,4 @@
 Zongmi pairs ten phases of delusion (from the original enlightened mind, through non-awakening, to the reception of karmic results) with ten phases of awakening that overturn them in reverse order. The phase names used here are descriptive labels drawn from the chart's text as read in CBETA (T2015); they are not a fixed list of titles, and the division of phases 5-6 is uncertain.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:32 IST._

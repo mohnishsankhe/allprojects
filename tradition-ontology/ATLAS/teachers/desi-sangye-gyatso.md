@@ -16,4 +16,4 @@
 Regent of the Fifth Dalai Lama's government, scholar of medicine and astronomy; author of the Blue Beryl commentary, the Supplement to the Oral Instructions and the history of medicine (Khogbug); he commissioned the medical paintings and founded the Chakpori medical college in Lhasa (1696).
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

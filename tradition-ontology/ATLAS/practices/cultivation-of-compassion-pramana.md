@@ -11,4 +11,4 @@ Compassion, repeatedly cultivated, becomes the mind's nature and grows by its ow
   - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: 1.36-37; 1.126-133; rests_on: ["tea:pramanavarttika:1.36-37", "tea:pramanavarttika:1.126-133"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

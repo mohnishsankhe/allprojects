@@ -30,4 +30,4 @@ Grounded in Sureśvara's principle that any method leading to knowledge of the i
 **The traditions' own objections:** Partisans on each side (Amalānanda for the Bhāmatī; Prakāśātman, Madhusūdana for the Vivaraṇa) argue that the other view is untenable, not merely another method; the reconciliation holds only at the level of the ultimate purport, not of the theories.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

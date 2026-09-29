@@ -12,4 +12,4 @@ One's own duty is performing the acts enjoined for one's stage of life; with con
 **Sequences:** [The Sāṃkhya Sūtra's path of meditation and discrimination](../paths/samkhya-sutra-path.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._

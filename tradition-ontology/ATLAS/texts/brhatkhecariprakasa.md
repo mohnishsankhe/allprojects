@@ -15,4 +15,4 @@
 A long commentary on the Khecarīvidyā that quotes many earlier yoga texts. RESTRICTED subject matter; summary only.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

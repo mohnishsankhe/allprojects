@@ -13,4 +13,4 @@ Son of Divodāsa, who reached Indra's abode by fighting and valour and asked Ind
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering) — Located: KauU 3.1 ('pratardano ha vai daivodāsir indrasya priyaṃ dhāmopajagāma yuddhena pauruṣeṇa ca') and 2.5 ('prātardanam āntaram agnihotram').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

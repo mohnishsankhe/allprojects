@@ -47,7 +47,7 @@ Following the yoga of meditation (dhyāna-yoga), they saw the self-power of God 
 
 _level: bridging · standpoint: divine · path: meditation · stage: advanced · types: ultimate, practice_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [śakti](../terms/sakti.md), [guṇa](../terms/guna.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md) · practices: [Meditation (dhyāna)](../practices/dhyana.md)
+terms: [dhyāna](../terms/dhyana.md), [śakti](../terms/sakti.md), [guṇa](../terms/guna.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md) · practices: [Meditation (dhyāna) as the means of abandoning the afflictions' activities](../practices/dhyana.md)
 
 ### 1.4-5 <a id="tea-svetasvatara-upanisad-1-4-5"></a>
 `sourced` · confidence moderate
@@ -110,7 +110,7 @@ As the form of fire latent in its source is not seen, yet its seed is not destro
 
 _level: bridging · standpoint: seeker · path: meditation, sound · stage: intermediate · types: practice_
 
-terms: [praṇava](../terms/pranava.md), [dhyāna (nididhyāsana)](../terms/dhyana.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md) · practices: [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md), [Meditation (dhyāna)](../practices/dhyana.md)
+terms: [praṇava](../terms/pranava.md), [dhyāna](../terms/dhyana.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md) · practices: [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md), [Meditation (dhyāna) as the means of abandoning the afflictions' activities](../practices/dhyana.md)
 
 ### 1.15-16 <a id="tea-svetasvatara-upanisad-1-15-16"></a>
 `sourced` · confidence high
@@ -137,7 +137,7 @@ Holding the body steady with the three upper parts (chest, neck and head) erect,
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: intermediate · types: practice_
 
-terms: [yoga](../terms/yoga.md), [hṛdaya](../terms/hrdaya.md) · practices: [The yoga of the Śvetāśvatara (posture, breath, place)](../practices/svetasvatara-yoga.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md)
+terms: [yoga](../terms/yoga.md), [hṛdaya](../terms/hrdaya.md) · practices: [The yoga of the Śvetāśvatara (posture, breath, place)](../practices/svetasvatara-yoga.md), [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](../practices/pratyahara.md)
 
 ### 2.9 <a id="tea-svetasvatara-upanisad-2-9"></a>
 `sourced` · confidence high
@@ -146,7 +146,7 @@ Restraining the breaths here, with movements controlled, when the breath is dimi
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: intermediate · types: practice_
 
-terms: [prāṇāyāma](../terms/pranayama.md) · practices: [The yoga of the Śvetāśvatara (posture, breath, place)](../practices/svetasvatara-yoga.md), [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md) · obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md)
+terms: [prāṇāyāma](../terms/pranayama.md) · practices: [The yoga of the Śvetāśvatara (posture, breath, place)](../practices/svetasvatara-yoga.md), [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md) · obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md)
 
 ### 2.10 <a id="tea-svetasvatara-upanisad-2-10"></a>
 `sourced` · confidence high
@@ -575,4 +575,4 @@ _Notes: A commentary on it is attributed to Śaṅkara (attribution doubted). Ve
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:svetasvatara-upanisad, text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md), text:sources_raw/dcs/dcs/data/conllu/files/Vājasaneyisaṃhitā (Mādhyandina)/ (VSM 11.1-5 'yuñjānaḥ prathamam manaḥ …'), https://en.wikipedia.org/wiki/Shvetashvatara_U — Confirmed: 6 adhyāyas and 113 verses (16, 17, 21, 22, 14, 23) in the prepared text. The seer's name is at 6.21, and the commentary attributed to Śaṅkara is in the Advaita-Śāradā files. Wikipedia gives c. 4th–1st c. BCE and notes the doubted Śaṅkara attribution. ŚU 2.1-5 = VSM 11.1-5 is confirmed in the DCS Vājasaneyi Saṃhitā.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

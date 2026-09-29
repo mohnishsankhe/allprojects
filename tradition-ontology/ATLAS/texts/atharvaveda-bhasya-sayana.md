@@ -21,4 +21,4 @@ _Notes: Which books lack the commentary is not recalled with confidence._
 
 - 2026-09-28 websearch: confirmed — https://archive.org/details/in.ernet.dli.2015.405503, https://groups.google.com/g/bvparishat/c/VFskOD1aVRg — Confirmed: S. P. Pandit's edition (1895–98) with Sāyaṇa's commentary; the commentary is lacking for some books (e.g. kāṇḍa 12) — agrees with 'most but not all of its books'.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@ A gentle retention in which the breath is drawn down and held below the navel in
 _Notes: Owned by U45 (brief). Also a Kagyu and Gelug practice (other units)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

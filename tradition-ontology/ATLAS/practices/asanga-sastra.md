@@ -18,4 +18,4 @@ Bhagavad Gītā 13–15: The text gives the method as an image: the firmly roote
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.3, tea:bhagavad-gita:15.4, tea:bhagavad-gita:15.5 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:32 IST._

@@ -18,7 +18,7 @@ Seeing a form with the eye (and so for each sense) one does not grasp at its sig
 **Sequences:** [The gradual training (anupubbasikkhā) of the Sāmaññaphala and related suttas](../paths/gradual-training.md)
 
 ## Equivalents (interpretation layer)
-- analogous: [Sense-withdrawal (pratyāhāra) in the haṭha texts](pratyahara.md) — Yoga's withdrawal of the senses; the Buddhist practice guards the senses while they function
+- analogous: [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](pratyahara.md) — Yoga's withdrawal of the senses; the Buddhist practice guards the senses while they function
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

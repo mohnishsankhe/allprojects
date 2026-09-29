@@ -16,4 +16,4 @@ Perceiving, thinking and viewing the impermanent as permanent, suffering as happ
 - partial: [Ignorance (avidyā)](avidya.md) — YS 2.5 defines avidyā with the same four inversions; see brw:buddhism-yoga-four-inversions
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

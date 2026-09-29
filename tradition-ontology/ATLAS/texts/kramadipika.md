@@ -97,7 +97,7 @@ Liberation is threefold: by the increase of knowledge, by the calming of the sen
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: [Threefold bondage and threefold release](../concepts/threefold-bondage-and-release.md), [Isolation (kaivalya)](../concepts/kaivalya.md)
+concepts: [Threefold bondage and threefold release](../concepts/threefold-bondage-and-release.md), [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md)
 
 ### 22 <a id="tea-kramadipika-22"></a>
 `skeleton` · confidence high
@@ -121,4 +121,4 @@ concepts: [Teacher, student and transmission in Sāṃkhya](../concepts/teacher-
 _Notes: Attribution and Gauḍīya use to confirm._
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

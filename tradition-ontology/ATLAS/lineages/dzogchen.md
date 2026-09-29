@@ -51,4 +51,4 @@ The Great Perfection: the Nyingma (and Bön) teaching that the mind's nature, aw
 _none recorded_
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

@@ -88,4 +88,4 @@ concepts: [The fourteen root downfalls](../concepts/fourteen-root-downfalls.md),
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

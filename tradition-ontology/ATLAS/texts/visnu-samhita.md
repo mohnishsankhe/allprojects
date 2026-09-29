@@ -14,4 +14,4 @@ A Pāñcarātra-type saṃhitā published from Kerala, on the worship and instal
   - kind: original; name: ed. T. Gaṇapati Śāstrī, Trivandrum Sanskrit Series 85, 1925
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

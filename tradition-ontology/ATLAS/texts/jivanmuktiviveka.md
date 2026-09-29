@@ -31,7 +31,7 @@ Knowledge of the truth, destruction of latent tendencies (vāsanā-kṣaya) and 
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation · stage: advanced · types: practice, karma-liberation_
 
-terms: [vāsanākṣaya](../terms/vasana-ksaya.md), [manonāśa](../terms/manonasa.md) · concepts: [Knowledge, destruction of tendencies, dissolution of mind](../concepts/vasanaksaya-manonasa.md) · practices: [Destruction of latent tendencies (vāsanā-kṣaya)](../practices/vasana-ksaya.md), [Dissolution of the mind (mano-nāśa)](../practices/manonasa.md) · teachers: [Vidyāraṇya](../teachers/vidyaranya.md)
+terms: [vāsanākṣaya](../terms/vasana-ksaya.md), [manonāśa](../terms/manonasa.md) · concepts: [Knowledge, destruction of tendencies, dissolution of mind](../concepts/vasanaksaya-manonasa.md) · practices: [Cessation of vāsanās and saṃskāras as the text states it](../practices/vasana-ksaya.md), [Dissolution of the mind (mano-nāśa)](../practices/manonasa.md) · teachers: [Vidyāraṇya](../teachers/vidyaranya.md)
 
 ### 3 <a id="tea-jivanmuktiviveka-3"></a>
 `skeleton` · confidence low
@@ -57,4 +57,4 @@ concepts: [The five purposes of jīvanmukti](../concepts/five-purposes-of-jivanm
 
 - 2026-09-29 websearch: confirmed — https://www.wisdomlib.org/definition/jivanmuktiviveka, https://www.celextel.org/articles-and-summary/jivanmukti-viveka-summary/ — Vidyāraṇya's Jīvanmuktiviveka is confirmed. Its five chapters treat vividiṣā- and vidvat-saṃnyāsa, and tattvajñāna, vāsanākṣaya and manonāśa as the means. The entry has no authors field; tch:vidyaranya could be added.
 
-_Contributed by: skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._

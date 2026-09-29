@@ -16,4 +16,4 @@ The Tirumantiram's third tantra has sections on the breath flowing through the l
 _Notes: Section titles checked in the local TM e-text; contents not summarized._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

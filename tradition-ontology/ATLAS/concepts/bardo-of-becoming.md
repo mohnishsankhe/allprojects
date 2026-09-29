@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Intermediate existence (antarābhava)](antarabhava.md) (Abhidharma / tantra) — rests on [sidpa](../texts/bardo-thodol.md#tea-bardo-thodol-sidpa)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

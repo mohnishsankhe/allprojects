@@ -15,4 +15,4 @@ The domestic-rite manual of the Kaṭha school, ascribed to Laugākṣi.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Kāṭhakagṛhyasūtra, catalog:eBharati:kAThakagRhyasUtram, catalog:raw_etexts:kathaka_grihya_sutra — Low-confidence entry confirmed as extant. The ascription to Laugākṣi is the usual one; a Laugākṣi-branch nityakarmavidhi and the Laugākṣi Śikṣā are also held locally.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

@@ -17,4 +17,4 @@
 _Notes: Skeleton summary; the Vinaya permission to learn the words of the Buddha 'in one's own dialect' (Cullavagga V.33 and parallels) is interpreted differently by the schools (not detailed here)._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

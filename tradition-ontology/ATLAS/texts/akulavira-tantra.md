@@ -150,7 +150,7 @@ Intentions and conceptions, the arts and works, the many powers in the world, th
 
 _level: conventional · standpoint: seeker · path: general · stage: advanced · types: powers-experiences, ethics_
 
-concepts: [Powers as obstacles (the warnings)](../concepts/siddhis-as-obstacles.md) · obstacles: [Attachment to powers](../obstacles/siddhi-attachment.md)
+concepts: [The powers as obstacles in samādhi (3.37)](../concepts/siddhis-as-obstacles.md) · obstacles: [Attachment to powers](../obstacles/siddhi-attachment.md)
 
 ### b.93-96 <a id="tea-akulavira-tantra-b-93-96"></a>
 `skeleton` · confidence moderate
@@ -165,4 +165,4 @@ concepts: [The Nāth critique of ritual and caste](../concepts/natha-critique-of
 _Notes: Refs in this shard use 'A.n' for the first recension and 'B.n' for the text after the lacuna in the e-text; the assignment of the post-lacuna verses to recension B follows the e-text's layout and should be checked against the printed edition._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@ A Nepalese-transmitted tantra combining Gāruḍa (anti-venom) and Bhūta (spiri
 _Notes: Classification after recent scholarship on the Gāruḍa tantras (M. Slouber); not verified here._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

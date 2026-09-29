@@ -26,4 +26,4 @@ Worship of the Goddess and Bhairava with consecrated wine, meat, fish, parched g
 - partial: [Kula worship (the 'primal sacrifice') as interpreted by Abhinavagupta](kula-yaga.md) — Abhinavagupta's reading of the Kula worship (U19)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._

@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The gradual training (anupubbasikkhā) of the Sāmaññaphala and related suttas](../paths/gradual-training.md) — rests on [5.5](../texts/udana.md#tea-udana-5-5)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

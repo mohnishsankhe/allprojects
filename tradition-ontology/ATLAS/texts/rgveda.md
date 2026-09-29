@@ -1685,4 +1685,4 @@ _Notes: Language: Vedic Sanskrit. The local copy used for spot-checks: sources_r
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Ṛgveda, text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_1.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_1.json (Anukramaṇī seer/deity/metre headers), https://en.wikipedia.org/wiki/Rigveda — Extant (DCS, GRETIL, DharmicData). Local count: 1,028 hymns, 10,552 verses (GRETIL) — as the entry says; the family-book seers (2 Gṛtsamada … 7 Vasiṣṭha) and book 8 Kāṇvas confirmed in the Anukramaṇī headers. Scholarly date c. 1500–1000 BCE agrees with Wikipedia/Witzel (family books c. 1500–1200 BCE). Vyāsa as arranger is the tradition's account (Bhāgavata 1.4.19–22, Viṣṇu Purāṇa 3.4, both located).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

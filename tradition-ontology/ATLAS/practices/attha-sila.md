@@ -12,4 +12,4 @@ On the uposatha, abstaining also from all sexual activity, eating after midday, 
   - [Aṅguttara Nikāya](../texts/anguttara-nikaya.md) — ref: 8.41; rests_on: ["tea:anguttara-nikaya:8.41"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

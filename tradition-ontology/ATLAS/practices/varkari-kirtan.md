@@ -12,4 +12,4 @@ A kīrtankār takes an abhaṅga as text and expounds it in song and speech, ill
   - [Nāmdev Gāthā](../texts/namdev-gatha.md) — ref: nacu-kirtanace-rangi; rests_on: ["tea:namdev-gatha:nacu-kirtanace-rangi"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

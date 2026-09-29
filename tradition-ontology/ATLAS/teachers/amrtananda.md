@@ -13,4 +13,4 @@
 Disciple of Puṇyānanda, author of the Dīpikā on the Yoginīhṛdaya (and, by tradition, the Saubhāgyasudhodaya); he explains Tripurā as the fusion of light and self-awareness.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._

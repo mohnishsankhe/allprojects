@@ -12,4 +12,4 @@ Mentioned only: Arjuna says that when a family's classes are mixed its ancestors
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 1.42; rests_on: ["tea:bhagavad-gita:1.42"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:32 IST._

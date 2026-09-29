@@ -16,4 +16,4 @@ Two beginningless coverings in each soul — one hiding the soul's own nature an
 - contested: [Ignorance (avidyā)](avidya.md) — Same word as Advaita's avidyā, but for Dvaita a real covering removed by grace, not a superimposition on Brahman.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

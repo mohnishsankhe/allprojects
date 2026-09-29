@@ -1,12 +1,13 @@
 # siddhi
 
-`trm:siddhi` · `skeleton` · confidence high
+`trm:siddhi` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Native script:** सिद्धि
-**Literal:** accomplishment
+**Literal:** accomplishment, power
 
 ## Definitions by tradition
+- [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): A power. Powers arise from birth, herbs, mantras, austerity or samādhi (4.1) and, as the text lists them, from saṃyama on various objects (3.16 onward); for a mind in samādhi they are obstacles (upasarga), for the outgoing mind they are powers (3.37).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): Yogic power: eighteen are listed (eight chief, ten from the guṇas) plus lesser ones; they are obstacles and a waste of time for one seeking the Lord.
 - [Sāṃkhya](../lineages/samkhya.md): In the Sāṃkhya Kārikā, the eight accomplishments conducive to knowledge: reasoning, words (hearing), study, the three destructions of suffering, gaining friends and giving (SK 51) — not supernormal powers, which Sāṃkhya calls aiśvarya (SK 23).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Powers arising from birth, herbs, mantras, austerity or samādhi (4.1); those from samādhi are obstacles in samādhi but powers in emergence (3.37).
@@ -33,9 +34,10 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: partially-confirmed — tea:yoga-sutra:3.16, tea:yoga-bhasya:3.16, tea:yoga-sutra:3.17, tea:yoga-bhasya:3.17, tea:yoga-sutra:3.19, tea:yoga-bhasya:3.19, tea:yoga-sutra:3.21, tea:yoga-bhasya:3.21, tea:yoga-sutra:3.22, tea:yoga-bhasya:3.22, tea:yoga-bhasya:3.22/2, tea:yoga-sutra:3.24 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.3, tea:bhagavad-gita:8.15 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.12, tea:bhagavad-gita:4.22 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.10 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.1 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch01-03, skeleton:U07-puranas, extraction:bhagavad-gita/ch07-09, skeleton:U17-pasupata-kapalika, skeleton:U44-indian-vajrayana, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:yoga-sutra/p3-4, skeleton:U06-other-gitas, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch01-03, skeleton:U07-puranas, extraction:bhagavad-gita/ch07-09, skeleton:U17-pasupata-kapalika, skeleton:U44-indian-vajrayana, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

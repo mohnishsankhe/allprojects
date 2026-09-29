@@ -16,4 +16,4 @@
 _Notes: The numbered list of sixteen is later than the Visuddhimagga (correction to the unit brief); path map pth:sixteen-insight-knowledges is owned by U51._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

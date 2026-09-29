@@ -15,4 +15,4 @@ A month-long observance in Mārgaśīrṣa by unmarried girls: early bathing in 
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:10.22.4 — BhP 10.22.1-4 located (first month of hemanta; a sand image of the goddess, 10.22.2). All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._

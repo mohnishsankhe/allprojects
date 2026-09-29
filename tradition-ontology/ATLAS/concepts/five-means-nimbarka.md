@@ -15,4 +15,4 @@
 _Notes: Listed in the school's manuals (e.g. Vedāntaratnamañjūṣā); exact locus to verify._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

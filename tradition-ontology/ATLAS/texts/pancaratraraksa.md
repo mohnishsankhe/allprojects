@@ -16,4 +16,4 @@ Vedānta Deśika's defence of the Pāñcarātra and exposition of its ritual, bu
   - kind: original; name: ed. M. Duraiswami Aiyangar and T. Venugopalacharya, Adyar (Muktabodha M00040)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

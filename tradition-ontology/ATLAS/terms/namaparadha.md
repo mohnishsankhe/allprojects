@@ -19,4 +19,4 @@
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/peterFreund/purANam/padma_purana_II.md Brahmakhaṇḍa 25.13-19, local:sources_raw/dcs/corpus/GRETIL/sa_nAradapurANa.txt (Sansknet) 1.82.22-24 — The term and the list of ten are attested in the Padma Brahmakhaṇḍa 25.13-19 ('nāmāparādha', 'nāmno 'parādhān daśa'; local peterFreund e-text) and Nārada Purāṇa 1.82.22-24.
 
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._

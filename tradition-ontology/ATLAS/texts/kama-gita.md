@@ -37,4 +37,4 @@ obstacles: [Craving (tṛṣṇā)](../obstacles/trsna.md) · teachers: [Kṛṣ
 
 - dating: CE 14.13.11 'atra gāthāḥ kāmagītāḥ kīrtayanti purāvidaḥ' confirmed. It is in the Āśvamedhikaparvan; the copied Mokṣadharma dating clause is replaced.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

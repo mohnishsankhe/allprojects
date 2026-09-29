@@ -11,4 +11,4 @@
 Disciple of Śaṅkara; in the tradition's account a seemingly dull boy who, asked 'who are you?', answered with the verses of the Hastāmalakīya, knowing the self as clearly as 'an āmalaka fruit in the hand'; first head of the Dvārakā (Śāradā) maṭha.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._

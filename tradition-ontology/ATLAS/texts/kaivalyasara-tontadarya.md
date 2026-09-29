@@ -16,4 +16,4 @@ An exposition of the 101 sthalas with strings of Vedic (śruti) quotations, styl
 _Notes: Colophon: 'ekottaraśatasthala-śrutimālā-vivaraṇa'._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._

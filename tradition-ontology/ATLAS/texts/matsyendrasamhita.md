@@ -16,4 +16,4 @@ A Śaiva tantric compendium on yoga and ritual transmitted in Matsyendra's name,
 _Notes: Recalled: a partial critical edition exists (C. Kiss, Oxford DPhil); chapter count and contents to be checked in sourcing. Not available locally._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

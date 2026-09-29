@@ -51,4 +51,4 @@ concepts: [The four assurances](../concepts/four-assurances.md) · practices: [D
 _Notes: SuttaCentral uid an3.65; Mahāsaṅgīti title 'Kesamuttisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

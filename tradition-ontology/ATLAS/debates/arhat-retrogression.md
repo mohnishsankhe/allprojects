@@ -36,4 +36,4 @@ The Kośa's threefold falling back (from what is obtained, not obtained, enjoyme
 _Notes: Related dispute from the Theravāda side: dsp:kv-arahant-falling-away (U37, the Kathāvatthu debate); this entry records the cross-school debate — candidate for dedupe/merge at synthesis._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

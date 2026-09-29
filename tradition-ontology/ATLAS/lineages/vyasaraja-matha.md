@@ -42,4 +42,4 @@ _none recorded_
 _Notes: Its descent from Madhva through Rājendra Tīrtha, Jayadhvaja, Puruṣottama and Brahmaṇya Tīrtha is recorded from memory at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

@@ -12,4 +12,4 @@
 The Sun as the source of astronomical knowledge: he taught the Sūrya Siddhānta to the asura Maya through a person born of his own portion (SS 1.4–9); he granted Varāhamihira a boon at Kāpitthaka (BJ 28.9); in horā he is the self (ātman) of the Kālapuruṣa (BJ 2.1) and the lord of planets to whom Parāśara bows (BPHS 1.6).
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

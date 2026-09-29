@@ -56,4 +56,4 @@ terms: [tariki](../terms/tariki.md), [shinian](../terms/shinian.md) · concepts:
 _Notes: Read locally (T47n1957)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

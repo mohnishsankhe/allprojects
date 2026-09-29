@@ -38,4 +38,4 @@ practices: [The sixteen drops of the Kadam (bka' gdams thig le bcu drug)](../pra
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

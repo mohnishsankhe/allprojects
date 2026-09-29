@@ -15,4 +15,4 @@ The collection of Kongtrul's own treasure revelations, counted in some lists amo
 _Notes: Its standing within the 'five' varies by list; low confidence._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

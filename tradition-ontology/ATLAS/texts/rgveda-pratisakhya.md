@@ -24,4 +24,4 @@ _Notes: Primary owner of prātiśākhya literature: U02._
 - 2026-09-28 catalog+websearch: confirmed — catalog:raw_etexts:rik_veda_pratishakhya, https://en.wikipedia.org/wiki/Shaunaka — Extant; ascription to Śaunaka confirmed.
 - 2026-09-28 catalog+websearch: confirmed — catalog:raw_etexts:rik_veda_pratishakhya, https://en.wikipedia.org/wiki/Pratishakhyas, https://en.wikipedia.org/wiki/Uva%E1%B9%ADa — Extant locally with 18 paṭalas ('iti ṛgvedaprātiśākhye 'ṣṭādaśaṃ paṭalam'). Ascribed to Śaunaka, with a commentary by Uvaṭa (Wikipedia 'Pratishakhyas', 'Uvaṭa'). The date estimate was not checked.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

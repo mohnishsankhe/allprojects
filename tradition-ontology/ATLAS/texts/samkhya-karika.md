@@ -43,7 +43,7 @@ The means known from Vedic tradition (ānuśravika) are like the visible means, 
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: beginner · types: karma-liberation, practice_
 
-terms: [ānuśravika](../terms/anusravika.md), [vyakta](../terms/vyakta.md), [avyakta](../terms/avyakta.md), [jña](../terms/jna.md), [viveka](../terms/viveka.md) · concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md), [Ethics and conduct in Sāṃkhya](../concepts/dharma-in-samkhya.md) · disputes: [Does killing prescribed in Vedic sacrifice incur demerit?](../debates/does-sacrificial-killing-incur-demerit.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
+terms: [ānuśravika](../terms/anusravika.md), [vyakta](../terms/vyakta.md), [avyakta](../terms/avyakta.md), [jña](../terms/jna.md), [viveka](../terms/viveka.md) · concepts: [Discriminative vision (viveka-khyāti)](../concepts/viveka-khyati.md), [Ethics and conduct in Sāṃkhya](../concepts/dharma-in-samkhya.md) · disputes: [Does killing prescribed in Vedic sacrifice incur demerit?](../debates/does-sacrificial-killing-incur-demerit.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3 <a id="tea-samkhya-karika-3"></a>
 `skeleton` · confidence high
@@ -382,7 +382,7 @@ Because buddhi accomplishes every experience of puruṣa, it is also buddhi that
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, karma-liberation_
 
-terms: [buddhi](../terms/buddhi.md), [viveka](../terms/viveka.md), [bhoga](../terms/bhoga.md) · concepts: [Buddhi (intellect)](../concepts/buddhi.md), [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md)
+terms: [buddhi](../terms/buddhi.md), [viveka](../terms/viveka.md), [bhoga](../terms/bhoga.md) · concepts: [Buddhi (intellect)](../concepts/buddhi.md), [Discriminative vision (viveka-khyāti)](../concepts/viveka-khyati.md)
 
 ### 38 <a id="tea-samkhya-karika-38"></a>
 `skeleton` · confidence high
@@ -449,7 +449,7 @@ Through virtue there is upward movement, through non-virtue downward movement; t
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [dharma](../terms/dharma.md), [adharma](../terms/adharma.md), [jñāna](../terms/jnana.md), [apavarga](../terms/apavarga.md), [viparyaya](../terms/viparyaya.md), [bandha](../terms/bandha.md) · concepts: [The eight dispositions of buddhi (bhāva)](../concepts/eight-bhavas.md), [Karma](../concepts/karma.md), [Isolation (kaivalya)](../concepts/kaivalya.md)
+terms: [dharma](../terms/dharma.md), [adharma](../terms/adharma.md), [jñāna](../terms/jnana.md), [apavarga](../terms/apavarga.md), [viparyaya](../terms/viparyaya.md), [bandha](../terms/bandha.md) · concepts: [The eight dispositions of buddhi (bhāva)](../concepts/eight-bhavas.md), [Karma](../concepts/karma.md), [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md)
 
 ### 45 <a id="tea-samkhya-karika-45"></a>
 `skeleton` · confidence high
@@ -458,7 +458,7 @@ Through dispassion, absorption into prakṛti; through passion of the nature of 
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [vairāgya](../terms/vairagya.md), [prakṛtilaya](../terms/prakrtilaya.md), [rāga](../terms/raga.md), [aiśvarya](../terms/aisvarya.md) · concepts: [Absorption into prakṛti (prakṛtilaya)](../concepts/prakrtilaya.md), [The eight dispositions of buddhi (bhāva)](../concepts/eight-bhavas.md) · obstacles: [Absorption into prakṛti mistaken for liberation](../obstacles/prakrtilaya.md), [Passion, attachment (rāga)](../obstacles/raga.md)
+terms: [vairāgya](../terms/vairagya.md), [prakṛtilaya](../terms/prakrtilaya.md), [rāga](../terms/raga.md), [aiśvarya](../terms/aisvarya.md) · concepts: [Absorption into prakṛti (prakṛtilaya)](../concepts/prakrtilaya.md), [The eight dispositions of buddhi (bhāva)](../concepts/eight-bhavas.md) · obstacles: [Absorption into prakṛti mistaken for liberation](../obstacles/prakrtilaya.md), [Attachment (rāga)](../obstacles/raga.md)
 
 ### 46 <a id="tea-samkhya-karika-46"></a>
 `skeleton` · confidence high
@@ -588,7 +588,7 @@ As a dancer, having shown herself to the audience, ceases from dancing, so prak�
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: advanced · types: karma-liberation, world-fate_
 
-terms: [prakṛti](../terms/prakrti.md) · concepts: [Isolation (kaivalya)](../concepts/kaivalya.md), [The two purposes: experience and release](../concepts/bhoga-and-apavarga.md)
+terms: [prakṛti](../terms/prakrti.md) · concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md), [The two purposes: experience and release](../concepts/bhoga-and-apavarga.md)
 
 ### 60 <a id="tea-samkhya-karika-60"></a>
 `skeleton` · confidence high
@@ -606,7 +606,7 @@ Nothing, I think, is more modest than prakṛti, who, (knowing) 'I have been see
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: advanced · types: karma-liberation_
 
-terms: [prakṛti](../terms/prakrti.md) · concepts: [Isolation (kaivalya)](../concepts/kaivalya.md)
+terms: [prakṛti](../terms/prakrti.md) · concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md)
 
 ### 62 <a id="tea-samkhya-karika-62"></a>
 `skeleton` · confidence high
@@ -617,7 +617,7 @@ Therefore no one (no puruṣa) is in truth bound, released, or transmigrates; it
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, karma-liberation_
 
-terms: [bandha](../terms/bandha.md), [mokṣa](../terms/moksa.md), [prakṛti](../terms/prakrti.md), [puruṣa](../terms/purusa.md) · concepts: [Isolation (kaivalya)](../concepts/kaivalya.md), [Puruṣa (the conscious self)](../concepts/purusa.md), [Threefold bondage and threefold release](../concepts/threefold-bondage-and-release.md)
+terms: [bandha](../terms/bandha.md), [mokṣa](../terms/moksa.md), [prakṛti](../terms/prakrti.md), [puruṣa](../terms/purusa.md) · concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md), [Puruṣa (the conscious self)](../concepts/purusa.md), [Threefold bondage and threefold release](../concepts/threefold-bondage-and-release.md)
 
 ### 63 <a id="tea-samkhya-karika-63"></a>
 `skeleton` · confidence high
@@ -628,7 +628,7 @@ Prakṛti binds herself by herself by means of seven forms; and for the sake of 
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [bhāva](../terms/bhava.md), [bandha](../terms/bandha.md), [jñāna](../terms/jnana.md) · concepts: [The eight dispositions of buddhi (bhāva)](../concepts/eight-bhavas.md), [Isolation (kaivalya)](../concepts/kaivalya.md)
+terms: [bhāva](../terms/bhava.md), [bandha](../terms/bandha.md), [jñāna](../terms/jnana.md) · concepts: [The eight dispositions of buddhi (bhāva)](../concepts/eight-bhavas.md), [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md)
 
 ### 64 <a id="tea-samkhya-karika-64"></a>
 `skeleton` · confidence high
@@ -639,7 +639,7 @@ Thus, from repeated practice of the principles, there arises the knowledge 'I am
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: advanced (tattvābhyāsa culminating in knowledge) · types: karma-liberation, practice, consciousness-mind_
 
-terms: [tattvābhyāsa](../terms/tattvabhyasa.md), [jñāna](../terms/jnana.md), [viveka](../terms/viveka.md), [vivekakhyāti](../terms/vivekakhyati.md) · concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md), [Isolation (kaivalya)](../concepts/kaivalya.md) · practices: [Repeated practice of the principles (tattvābhyāsa)](../practices/tattvabhyasa.md)
+terms: [tattvābhyāsa](../terms/tattvabhyasa.md), [jñāna](../terms/jnana.md), [viveka](../terms/viveka.md), [vivekakhyāti](../terms/vivekakhyati.md) · concepts: [Discriminative vision (viveka-khyāti)](../concepts/viveka-khyati.md), [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md) · practices: [Repeated practice of the principles (tattvābhyāsa)](../practices/tattvabhyasa.md)
 
 ### 65 <a id="tea-samkhya-karika-65"></a>
 `skeleton` · confidence high
@@ -648,7 +648,7 @@ Through that (knowledge) puruṣa, like a spectator, at ease, sees prakṛti, wh
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: realized · types: karma-liberation, consciousness-mind_
 
-terms: [puruṣa](../terms/purusa.md), [prakṛti](../terms/prakrti.md), [bhāva](../terms/bhava.md) · concepts: [Isolation (kaivalya)](../concepts/kaivalya.md), [The witness (sākṣin)](../concepts/saksin.md)
+terms: [puruṣa](../terms/purusa.md), [prakṛti](../terms/prakrti.md), [bhāva](../terms/bhava.md) · concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md), [The witness (sākṣin)](../concepts/saksin.md)
 
 ### 66 <a id="tea-samkhya-karika-66"></a>
 `skeleton` · confidence high
@@ -659,7 +659,7 @@ One (puruṣa), (thinking) 'I have seen her', is indifferent; the other, (thinki
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: realized · types: karma-liberation_
 
-terms: [saṃyoga](../terms/samyoga.md), [udāsīna](../terms/udasina.md) · concepts: [Isolation (kaivalya)](../concepts/kaivalya.md), [The conjunction of puruṣa and prakṛti (saṃyoga)](../concepts/conjunction-of-purusa-and-prakrti.md)
+terms: [saṃyoga](../terms/samyoga.md), [udāsīna](../terms/udasina.md) · concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md), [The conjunction of puruṣa and prakṛti (saṃyoga)](../concepts/conjunction-of-purusa-and-prakrti.md)
 
 ### 67 <a id="tea-samkhya-karika-67"></a>
 `skeleton` · confidence high
@@ -681,7 +681,7 @@ When separation from the body is attained and pradhāna ceases because its purpo
 
 _level: ultimate · standpoint: causal · path: knowledge · stage: realized · types: karma-liberation, death-dying_
 
-terms: [kaivalya](../terms/kaivalya.md), [aikāntika](../terms/aikantika.md), [ātyantika](../terms/atyantika.md) · concepts: [Isolation (kaivalya)](../concepts/kaivalya.md), [Bodiless liberation (videhamukti)](../concepts/videhamukti.md) · disputes: [What is liberation?](../debates/nature-of-liberation.md)
+terms: [kaivalya](../terms/kaivalya.md), [aikāntika](../terms/aikantika.md), [ātyantika](../terms/atyantika.md) · concepts: [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md), [Bodiless liberation (videhamukti)](../concepts/videhamukti.md) · disputes: [What is liberation?](../debates/nature-of-liberation.md)
 
 ### 69 <a id="tea-samkhya-karika-69"></a>
 `skeleton` · confidence high
@@ -738,4 +738,4 @@ terms: [ṣaṣṭitantra](../terms/sastitantra.md) · concepts: [The sixty topi
 _Notes: Verse numbers and wording used in this unit's SK teachings were checked against the local GRETIL/DCS e-texts in sources_raw/; entries stay at skeleton level until Phase C/D._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._

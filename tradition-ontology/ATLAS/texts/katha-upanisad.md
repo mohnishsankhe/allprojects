@@ -369,7 +369,7 @@ The discerning one should restrain speech in the mind, restrain that in the self
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: [ātman](../terms/atman.md), [manas](../terms/manas.md), [mahat](../terms/mahat.md) · practices: [Restraining speech in the mind, and the mind in ever finer selves (Kaṭha 1.3.13)](../practices/vak-manas-niyamana.md), [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+terms: [ātman](../terms/atman.md), [manas](../terms/manas.md), [mahat](../terms/mahat.md) · practices: [Restraining speech in the mind, and the mind in ever finer selves (Kaṭha 1.3.13)](../practices/vak-manas-niyamana.md), [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md), [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](../practices/pratyahara.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 1.3.14 <a id="tea-katha-upanisad-1-3-14"></a>
 `text-verified` · confidence moderate
@@ -431,7 +431,7 @@ The self-existent pierced the openings outward; therefore one looks outward, not
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: [dhīra](../terms/dhira.md), [amṛtatva](../terms/amrtatva.md) · practices: [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md), [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+terms: [dhīra](../terms/dhira.md), [amṛtatva](../terms/amrtatva.md) · practices: [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](../practices/pratyahara.md), [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 2.1.2 <a id="tea-katha-upanisad-2-1-2"></a>
 `sourced` · confidence high
@@ -608,7 +608,7 @@ When the five senses of knowledge stand still together with the mind, and the in
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: [yoga](../terms/yoga.md), [dhāraṇā](../terms/dharana.md), [buddhi](../terms/buddhi.md), [manas](../terms/manas.md) · practices: [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md) · obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+terms: [yoga](../terms/yoga.md), [dhāraṇā](../terms/dharana.md), [buddhi](../terms/buddhi.md), [manas](../terms/manas.md) · practices: [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md), [Dhāraṇā (concentration)](../practices/dharana.md), [Sense-withdrawal (pratyāhāra) in the Yoga Sūtra](../practices/pratyahara.md) · obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 2.3.12-13 <a id="tea-katha-upanisad-2-3-12-13"></a>
 `sourced` · confidence high
@@ -670,4 +670,4 @@ _Notes: The Naciketas story has an older ritual form in Taittirīya Brāhmaṇa 
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:katha-upanisad, catalog:eBharati:kAThakopaniShat, text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/kAThakam/2.md (TB 3.11; section 8.1 'uśan ha vai vājaśravasaḥ … — Structure confirmed: 29, 25, 17 / 15, 15, 19 = 120 verses in the prepared Śaṅkara text. The older Naciketas story is confirmed at TB 3.11.8: the raw_etexts Kāṭhaka file 2 (= TB 3.11), section 8.1, opens 'uśan ha vai vājaśravasaḥ sarvavedasaṃ dadau | tasya ha naciketā nāma putra āsa'. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

@@ -10,4 +10,4 @@ The Dzogchen teacher who, in the Life of Milarepa, gave Milarepa the Great Perfe
 **Realization — the tradition's account:** He told Milarepa that his Dzogchen was such that one who meditates on it by day is awakened by day; Milarepa, overconfident, did not practise and gained nothing, and was sent to Marpa, with whom he had a karmic link.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._

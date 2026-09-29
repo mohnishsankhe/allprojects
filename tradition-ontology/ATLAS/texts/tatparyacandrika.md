@@ -21,4 +21,4 @@ Vyāsatīrtha's commentary on Jayatīrtha's Tattvaprakāśikā, comparing Madhva
 
 - 2026-09-29 catalog: confirmed — catalog:eBharati:gItAbhAShyatAtparyachandrikA, local:sources_raw/gita/data/commentary.json (Sri Vedantadeshikacharya Venkatanatha) — Extant and digitized; Vedānta Deśika 1268–1369 is the usual dating.
 
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

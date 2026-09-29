@@ -13,4 +13,4 @@
 Sakya master of Madhyamaka and Abhidharma, champion of Candrakīrti's Prāsaṅgika in Tibet and principal teacher of Tsongkhapa; critic of the Kālacakra (tradition's account).
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._

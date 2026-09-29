@@ -11,4 +11,4 @@ One whose tendency (vāsanā) is outside the body is a paśu coloured by externa
   - [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) — ref: 3.31; rests_on: ["tea:kaulajnananirnaya:3.30-31"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

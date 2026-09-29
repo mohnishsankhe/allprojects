@@ -14,4 +14,4 @@
 A large Śaiva text combining mercurial alchemy, rejuvenation (kalpa) regimens and haṭha-yogic practices, framed as Bhairava's teaching. RESTRICTED: summary only.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

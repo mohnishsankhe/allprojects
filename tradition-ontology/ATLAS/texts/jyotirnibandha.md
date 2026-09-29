@@ -11,4 +11,4 @@
 A digest of muhūrta and related rules compiled by Śivarāja, quoting many earlier authorities.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

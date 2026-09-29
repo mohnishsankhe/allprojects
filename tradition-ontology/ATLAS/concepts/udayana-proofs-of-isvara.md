@@ -15,4 +15,4 @@
 _Notes: Counted as eight or nine depending on whether 'ādi' is taken separately; glosses follow the usual explanation._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._

@@ -14,4 +14,4 @@
 Vādirāja Tīrtha's mahākāvya on Kṛṣṇa's winning of Rukmiṇī.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

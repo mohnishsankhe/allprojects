@@ -14,4 +14,4 @@
 Cēntaṉār's benedictory hymn ('may he live many years') to Śiva, sung at the close of temple worship; part of the ninth Tirumuṟai.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

@@ -14,4 +14,4 @@ Reversing the hearing to hear the self-nature: entering the stream of hearing, f
 - The fifty demonic states arising in meditation are not to be taken as sagehood. — [Śūraṅgama-sūtra (Chinese Shoulengyan jing, T945)](../texts/surangama-sutra.md) juan 9-10
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

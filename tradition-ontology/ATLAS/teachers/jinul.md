@@ -20,4 +20,4 @@ Goryeo reformer of Seon: founded the Samādhi and Prajñā Community (Suseonsa, 
 **Realization — the tradition's account:** Three awakenings through texts rather than a living teacher: reading the Platform Sūtra (the self-nature is not defiled by the senses), Li Tongxuan's Huayan commentary, and Dahui's records (freedom from lingering obstruction).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

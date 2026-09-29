@@ -19,4 +19,4 @@ Bhadrakāpya: all fish may be taken with milk except the cilicima.
 **Candidate readings:** Bhadrakāpya names the most dangerous case; Ātreya generalizes the rule (degree, not kind)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._

@@ -97,4 +97,4 @@ _Notes: Its philosophy-of-language reception (Bhartṛhari, sphoṭa) belongs to
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Aṣṭādhyāyī, catalog:GRETIL-dev:panini_astadhyayi — Extant; 8 adhyāyas × 4 pādas; the local GRETIL text has 3,951 sūtras ('nearly 4,000'). The dating 5th–4th c. BCE is the standard range (see tch:panini).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

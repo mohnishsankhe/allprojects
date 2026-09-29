@@ -13,4 +13,4 @@
 Sanron monk of Tōdaiji lineage and abbot of Zenrin-ji who practised and taught exclusive recitation (Ōjō jūin); tradition says Amida turned to look back at him as he circumambulated (the 'looking-back Amida' of Eikandō).
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

@@ -96,7 +96,7 @@ Searching unwaveringly for the virtuous one whom the gods call Lord, I saw the p
 
 _level: conventional · standpoint: experiential · path: devotion, meditation · stage: realized · types: powers-experiences, karma-liberation_
 
-concepts: [The eight lordly powers (aṇimā and the rest)](../concepts/anima-adi-siddhis.md) · teachers: [Tirumūlar](../teachers/tirumular.md)
+concepts: [The eight lordly powers (aṣṭa-aiśvarya)](../concepts/anima-adi-siddhis.md) · teachers: [Tirumūlar](../teachers/tirumular.md)
 
 ### 643 <a id="tea-tirumantiram-643"></a>
 `skeleton` · confidence low
@@ -107,7 +107,7 @@ Knowledge, one and beginningless, that has left the elements from the body up, t
 
 _level: conventional · standpoint: experiential · path: knowledge, meditation · stage: advanced · types: powers-experiences_
 
-concepts: [The eight lordly powers (aṇimā and the rest)](../concepts/anima-adi-siddhis.md) · teachers: [Tirumūlar](../teachers/tirumular.md)
+concepts: [The eight lordly powers (aṣṭa-aiśvarya)](../concepts/anima-adi-siddhis.md) · teachers: [Tirumūlar](../teachers/tirumular.md)
 
 ### 722 <a id="tea-tirumantiram-722"></a>
 `skeleton` · confidence moderate · _restricted: summary only_
@@ -230,4 +230,4 @@ concepts: [The dance of Naṭarāja and the Chidambaram tradition](../concepts/d
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

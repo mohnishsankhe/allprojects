@@ -14,4 +14,4 @@ A king who, about to sacrifice, questions Śvetaketu on the closed place of the 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering) — Located: KauU 1.1. The Advaita-Śāradā text reads 'citro ha vai gārgyāyaṇiḥ', as the alternative name in the entry says.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

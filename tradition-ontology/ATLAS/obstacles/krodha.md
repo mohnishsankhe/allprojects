@@ -20,4 +20,4 @@ Bhagavad Gītā 1–3: Anger arises from desire and gives rise to delusion, conf
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.10, tea:bhagavad-gita:5.23, tea:bhagavad-gita:5.26, tea:bhagavad-gita:5.28 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:32 IST._

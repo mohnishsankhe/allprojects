@@ -14,4 +14,4 @@
 **Related:** [gter ma](terma.md), [mkha' 'gro brda yig](dayig.md)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

@@ -21,4 +21,4 @@ The 'four hymns' ascribed to Nāgārjuna — to the Buddha as beyond the world (
   - kind: original; name: Acintyastava in the DCS corpus (sources_raw/dcs)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

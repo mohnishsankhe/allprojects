@@ -19,4 +19,4 @@ _Notes: MkP 50-100 (chapter colophons checked) narrates the manvantaras._
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:devi-mahatmya:13 — DM 13 (MkP 93.17) located; MkP manvantara chapters confirmed by colophons (e.g. 53 'manvantarakathana'); the local e-text ends at ch. 93, so 'MkP 50-100' is only partly checkable. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._

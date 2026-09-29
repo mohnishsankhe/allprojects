@@ -10,4 +10,4 @@ A grammarian named once by Pāṇini (6.1.123); later tradition, reading his nam
 _Notes: The link with the sphoṭa doctrine is a later traditional inference from the name._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

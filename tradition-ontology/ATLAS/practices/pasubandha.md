@@ -15,4 +15,4 @@ The offering of an animal bound to the sacrificial post (yūpa); recorded as a s
 - The Vedic verses ask that the victim 'not die but go to the gods by easy paths'; later traditions (Upaniṣadic, Jain, Buddhist, Vaiṣṇava) criticize or replace animal offerings. — [Ṛgveda Saṃhitā](../texts/rgveda.md) 1.162.21
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

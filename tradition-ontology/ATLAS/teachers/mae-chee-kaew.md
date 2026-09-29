@@ -11,4 +11,4 @@ Thai forest nun (1901–1991), pupil of Ajahn Mun and Ajahn Maha Boowa, whose bi
 **Realization — the tradition's account:** Her biography (by Ajahn Dick Sīlaratano) presents her as having attained arahantship.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._

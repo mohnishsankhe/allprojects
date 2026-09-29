@@ -14,4 +14,4 @@ Disciple of Madhva and his successor after Padmanābha Tīrtha in the Uttarādi 
 _Notes: The tradition also credits him with fostering Yakṣagāna — low confidence, not verified._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

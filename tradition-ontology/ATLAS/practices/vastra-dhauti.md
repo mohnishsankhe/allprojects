@@ -20,4 +20,4 @@ A moistened strip of fine cloth is slowly swallowed as the guru teaches and then
 - Dhauti is done 'by the way the guru teaches'. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 2.24
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._

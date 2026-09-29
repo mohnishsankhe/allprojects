@@ -11,4 +11,4 @@ Thinking oneself independent of the Lord, one's own master and one's own means �
   - [Mumukṣuppaṭi](../texts/mumuksuppadi.md) — ref: 1; rests_on: ["tea:mumuksuppadi:1"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._

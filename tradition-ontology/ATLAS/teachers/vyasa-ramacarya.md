@@ -14,4 +14,4 @@ Mādhva scholar who wrote the Nyāyāmṛta-taraṅgiṇī defending Vyāsatīrt
 _Notes: A story that he first studied Advaita under Madhusūdana before refuting him circulates in modern accounts — low confidence, not verified._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

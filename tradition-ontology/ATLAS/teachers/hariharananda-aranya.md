@@ -14,4 +14,4 @@ Renunciant who founded the Kāpil Maṭh at Madhupur as a monastery of Sāṃkhy
 _Notes: Dates, titles and the Maṭh's founding recalled, not checked._
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._

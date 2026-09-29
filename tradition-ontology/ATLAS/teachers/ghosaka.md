@@ -12,4 +12,4 @@
 One of the four great masters of the Vibhāṣā: dharmas differ in the three times by their characteristic (lakṣaṇa) — a past dharma has the past characteristic without being dissociated from the future and present ones, as a man attached to one woman is not without attachment to others (AKBh 5.26). The Abhidharmāmṛtarasa is attributed to him.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._

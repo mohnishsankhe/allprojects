@@ -14,4 +14,4 @@
 Udbhaṭa's classification of figures of speech; the first to bring rasa into the figure called rasavat with the language of vibhāva and sthāyin.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

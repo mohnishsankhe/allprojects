@@ -13,4 +13,4 @@ King of Mithilā who questions Vasiṣṭha on the perishable and imperishable a
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.291.7-10, 12.294.1 [karālajanaka] — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

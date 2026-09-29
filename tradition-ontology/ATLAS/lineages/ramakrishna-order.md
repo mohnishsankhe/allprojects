@@ -57,4 +57,4 @@ _none recorded_
 _Notes: Ramakrishna's own sādhanas (Śākta, Vaiṣṇava, Advaita, and, in the tradition's account, Islamic and Christian) are known from the Kathāmṛta and the Līlāprasaṅga; U23/U24 hold his Śākta context._
 
 ---
-_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 22:32 IST._

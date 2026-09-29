@@ -79,7 +79,7 @@ Without equanimity there is no meditation, and without meditation equanimity doe
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: [sāmya](../terms/samya.md), [dhyāna (nididhyāsana)](../terms/dhyana.md) · practices: [Sāmāyika (equanimity practice)](../practices/samayika.md), [Dharma-dhyāna (virtuous meditation)](../practices/dharma-dhyana.md) · teachers: [Hemacandra](../teachers/hemacandra.md)
+terms: [sāmya](../terms/samya.md), [dhyāna](../terms/dhyana.md) · practices: [Sāmāyika (equanimity practice)](../practices/samayika.md), [Dharma-dhyāna (virtuous meditation)](../practices/dharma-dhyana.md) · teachers: [Hemacandra](../teachers/hemacandra.md)
 
 ### 4.117-122 <a id="tea-yogasastra-hemacandra-4-117-122"></a>
 `skeleton` · confidence moderate
@@ -115,7 +115,7 @@ The mind tormented by breath-control does not attain well-being: restraining the
 
 _level: conventional · standpoint: polemical · path: body-breath, meditation · stage: all · types: practice, dispute_
 
-terms: [prāṇāyāma](../terms/pranayama.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md) · teachers: [Hemacandra](../teachers/hemacandra.md) · disputes: [Does breath-control (prāṇāyāma) serve meditation and liberation?](../debates/pranayama-and-liberation.md)
+terms: [prāṇāyāma](../terms/pranayama.md) · practices: [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md) · teachers: [Hemacandra](../teachers/hemacandra.md) · disputes: [Does breath-control (prāṇāyāma) serve meditation and liberation?](../debates/pranayama-and-liberation.md)
 
 ### 7.8 <a id="tea-yogasastra-hemacandra-7-8"></a>
 `skeleton` · confidence moderate
@@ -169,7 +169,7 @@ Breath-control, the five winds and their seats, the four 'circles' (maṇḍala)
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: advanced · types: body-layers, death-dying, powers-experiences_
 
-terms: [prāṇa (vāyu)](../terms/prana-vayu-jain.md), [kālajñāna](../terms/kalajnana.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md), [Kālajñāna (foreknowing the time of death)](../practices/kalajnana.md) · teachers: [Hemacandra](../teachers/hemacandra.md)
+terms: [prāṇa (vāyu)](../terms/prana-vayu-jain.md), [kālajñāna](../terms/kalajnana.md) · practices: [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](../practices/pranayama.md), [Kālajñāna (foreknowing the time of death)](../practices/kalajnana.md) · teachers: [Hemacandra](../teachers/hemacandra.md)
 
 ### ch.8 <a id="tea-yogasastra-hemacandra-ch-8"></a>
 `skeleton` · confidence moderate
@@ -218,4 +218,4 @@ terms: [audāsīnya](../terms/audasinya.md), [unmanībhāva](../terms/unmanibhav
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

@@ -9,4 +9,4 @@
 Professor of astronomy at the Sanskrit College, Benares; worked on almanac (pañcāṅga) reform and wrote Sanskrit works on astronomy.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

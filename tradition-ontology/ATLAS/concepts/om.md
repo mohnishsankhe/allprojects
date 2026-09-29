@@ -21,4 +21,4 @@ _Notes: U05's contribution; the Upaniṣadic and mantra-śāstra accounts are gi
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.8, tea:bhagavad-gita:8.13, tea:bhagavad-gita:9.17, tea:bhagavad-gita:8.12-13 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.25, tea:bhagavad-gita:8.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:32 IST._

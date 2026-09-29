@@ -27,4 +27,4 @@
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:8.9 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.12, tea:bhagavad-gita:14.17 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U36-pali-suttas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch13-15, skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U36-pali-suttas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch13-15, skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._

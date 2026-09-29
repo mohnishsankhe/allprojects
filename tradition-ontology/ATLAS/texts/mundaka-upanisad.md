@@ -163,7 +163,7 @@ Taking as bow the great weapon of the Upaniṣad, one should set on it an arrow 
 
 _level: bridging · standpoint: seeker · path: meditation, sound · stage: advanced · types: practice_
 
-terms: [praṇava](../terms/pranava.md), [oṃ](../terms/om.md), [upāsanā](../terms/upasana.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md) · practices: [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md), [Meditation (dhyāna)](../practices/dhyana.md) · obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md)
+terms: [praṇava](../terms/pranava.md), [oṃ](../terms/om.md), [upāsanā](../terms/upasana.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md) · practices: [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md), [Meditation (dhyāna) as the means of abandoning the afflictions' activities](../practices/dhyana.md) · obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md)
 
 ### 2.2.5 <a id="tea-mundaka-upanisad-2-2-5"></a>
 `sourced` · confidence high
@@ -268,7 +268,7 @@ This self is attained by truth, by austerity, by right knowledge, by constant ce
 
 _level: conventional · standpoint: ethical-social · path: action, knowledge · stage: all · types: ethics, karma-liberation_
 
-terms: [satya](../terms/satya.md), [tapas](../terms/tapas.md), [brahmacarya](../terms/brahmacarya.md), [devayāna](../terms/devayana.md) · practices: [Truthfulness (satya)](../practices/satya.md), [Austerity (tapas)](../practices/tapas.md), [Vedic studentship (brahmacarya)](../practices/brahmacarya.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md)
+terms: [satya](../terms/satya.md), [tapas](../terms/tapas.md), [brahmacarya](../terms/brahmacarya.md), [devayāna](../terms/devayana.md) · practices: [Truthfulness (satya)](../practices/satya.md), [Austerity (tapas)](../practices/tapas.md), [Continence (brahmacarya)](../practices/brahmacarya.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md)
 
 ### 3.1.8 <a id="tea-mundaka-upanisad-3-1-8"></a>
 `sourced` · confidence high
@@ -277,7 +277,7 @@ He is not grasped by the eye, nor by speech, nor by the other senses, nor by aus
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice, ultimate_
 
-terms: [prasāda](../terms/prasada.md), [dhyāna (nididhyāsana)](../terms/dhyana.md) · practices: [Meditation (dhyāna)](../practices/dhyana.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md)
+terms: [prasāda](../terms/prasada.md), [dhyāna](../terms/dhyana.md) · practices: [Meditation (dhyāna) as the means of abandoning the afflictions' activities](../practices/dhyana.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md)
 
 ### 3.1.10 <a id="tea-mundaka-upanisad-3-1-10"></a>
 `sourced` · confidence moderate
@@ -359,4 +359,4 @@ _Notes: Veda affiliation: Atharvaveda (traditionally the Śaunaka śākhā)_
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:raw_etexts:Mundaka, text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering), text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/upaniShadaH/dashopaniShadaH/svAmIsharvAnandaH/muNDakopaniShat.md (Śarvānanda edition; 'bhidyate hṛdayagranthiḥ' — Structure confirmed: 9+13 / 10+12 / 10+11 = 65 verses in Śaṅkara's text, and 64 where 2.2.7 is one verse (Śarvānanda edition, eBhāratī). The teacher-line Brahmā → Atharvan → Aṅgir → Satyavāha → Aṅgiras → Śaunaka is at 1.1.1-3. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._

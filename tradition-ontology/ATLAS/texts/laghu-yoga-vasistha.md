@@ -25,4 +25,4 @@ _Notes: The Persian 'Jūg Bāsisht' made for Prince Salīm (1597) is recalled as
 
 - 2026-09-29 catalog+websearch: partially-confirmed — local:sources_raw/raw_etexts/mixed/mukta/vedAnta/abhinanda_Atmasukha/laghuyogavAsiShTha_with_vAsiShThachandrikA__M00351.md, catalog:eBharati:laghuyogavAsiShTham, https://en.wikipedia.org/wiki/Yoga_Vasishtha, https://www.celextel.org/vedanta-books-other/laghu-yoga-vasishta/ — Confirmed: extant and local (Nirṇaya Sāgara 1933 with the Vāsiṣṭhacandrikā; eBhārati). It has six prakaraṇas (3 + 1 + 9 + 5 + 10 + 18 sargas), the closing verse lists the six, and it runs to about 6,000 verses. The final colophon ascribes it to 'gauḍamaṇḍalālaṅkāra śrīmad-abhinanda'. Some colophons call it 'yogavāsiṣṭhasāra', which supports that alt title. Not settled: Slaje argues that the Kashmiri Abhinanda (Jayanta's son) and the Gauḍa Abhinanda of that colophon are distinct, so a 10th-c. date is untenable. The entry's c. 10th-11th c. stays low confidence. Availability is digitized-original.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@ Doing the prescribed duties and avoiding the forbidden, without desire for resul
 **Sequences:** [The Dvaita sequence of means (sādhana-krama)](../paths/dvaita-sadhana-krama.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

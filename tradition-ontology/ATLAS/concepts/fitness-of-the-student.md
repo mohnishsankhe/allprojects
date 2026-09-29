@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), tex — The definition's cited passages were all checked in this sweep and support it: tea:nirukta:2.3-4 (confirmed); tea:manusmrti:2.113-115 (confirmed); tea:vasistha-dharmasutra:2.8-9 (confirmed).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._

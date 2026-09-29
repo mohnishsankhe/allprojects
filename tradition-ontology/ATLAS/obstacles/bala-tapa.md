@@ -13,4 +13,4 @@ Severe fasting and mortification without understanding of the dharma, 'not worth
   - [Dhammapada](../texts/dhammapada.md) — ref: 70; rests_on: ["tea:dhammapada:70"]
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._

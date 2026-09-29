@@ -10,4 +10,4 @@
 Vasiṣṭha's son, father of Parāśara, to whom Vasiṣṭha teaches yoga in the Vasiṣṭha Saṃhitā (as recalled).
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

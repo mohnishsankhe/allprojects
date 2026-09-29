@@ -12,4 +12,4 @@ First Śaiva initiation making the disciple a samayin, bound by post-initiatory 
   - [Somaśambhupaddhati](../texts/somasambhupaddhati.md) — ref: dīkṣā; rests_on: ["tea:somasambhupaddhati:diksa"]
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._

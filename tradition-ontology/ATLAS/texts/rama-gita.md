@@ -125,4 +125,4 @@ teachers: [Rāma (Dāśarathi)](../teachers/rama.md) · disputes: [Is the ultima
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press), local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), https://en.wikipedia.org/wiki/Adhyatma_Ramayana — AR Uttarakāṇḍa sarga 5 (heading 'rāmagītā') has exactly 62 verses in both the Gita Press text and the Gītāsaṅgraha.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

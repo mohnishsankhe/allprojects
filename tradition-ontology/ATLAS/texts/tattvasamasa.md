@@ -135,10 +135,10 @@ This is the truth handed down by tradition; knowing all this one is fulfilled an
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: teacher-transmission, karma-liberation_
 
-concepts: [The Sāṃkhya line of teachers](../concepts/samkhya-parampara.md), [Isolation (kaivalya)](../concepts/kaivalya.md)
+concepts: [The Sāṃkhya line of teachers](../concepts/samkhya-parampara.md), [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](../concepts/kaivalya.md)
 
 
 _Notes: Teaching refs follow Ṣimānanda's 25-sūtra division as printed in the GRETIL 'four versions' file._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._

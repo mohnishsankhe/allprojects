@@ -14,4 +14,4 @@
 The great digest of portents and omens begun by King Ballālasena of Bengal and completed by Lakṣmaṇasena, compiling Garga, Parāśara, Varāhamihira and the Purāṇas on celestial, atmospheric and terrestrial wonders and their pacification.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._

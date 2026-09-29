@@ -10,4 +10,4 @@
 Compiler of the Caturaśītisiddhapravṛtti, the lives of the eighty-four siddhas (c. 11th–12th c.); often identified with Abhayadattaśrī of Campāraṇya.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

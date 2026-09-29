@@ -13,4 +13,4 @@ The second unwholesome root, one of the three fires.
   - [Aṅguttara Nikāya](../texts/anguttara-nikaya.md) — ref: 3.34; rests_on: ["tea:anguttara-nikaya:3.34"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

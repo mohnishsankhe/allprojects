@@ -16,4 +16,4 @@ Contemplating white, cool nectar pouring from the sky through the openings of th
 - To be given only to a devoted disciple tested (even for a year); kept secret from the deceitful, cruel and undevoted. — [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) 5.34-35; 14.4-11
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._

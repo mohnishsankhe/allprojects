@@ -30,4 +30,4 @@ A practice composed in Tibet, lacking an Indian tantra or sūtra as its source a
 _Notes: Low confidence on the critics' side; it is recorded so that the debate named in the coverage brief has an entry, and should be sourced before any reconciliation._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

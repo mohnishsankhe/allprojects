@@ -24,4 +24,4 @@ Polymath of Mithilā who commented on every Vedic school; for Nyāya he wrote th
 _Notes: His non-Nyāya works belong to U09, U10, U12 and U13._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U13-advaita, skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U13-advaita, skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._

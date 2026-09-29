@@ -15,4 +15,4 @@ CONTEXT ONLY. Questions on the ascetic life, the guru, the name, the body and li
 _Notes: Low confidence on title forms and on Bābā Lāl's affiliation (variously described as a Vaiṣṇava or Kabīr-like ascetic); flagged in REPORT.md for checking. No teachings extracted._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._

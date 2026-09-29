@@ -22,4 +22,4 @@
 **Related:** [jina](jina.md), [arhat](arhat.md), [kevalin](kevalin.md), [caturvidha saṅgha](caturvidha-sangha.md), [tīrthakaratva (Tīrthaṅkara-nāma)](tirthankara-nama-karma.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._

@@ -49,4 +49,4 @@ _none recorded_
 [How should the Saṃhitās be interpreted — by the rite, the gods, the self, history, or one God?](../debates/how-to-read-the-samhitas.md)
 
 ---
-_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 22:32 IST._

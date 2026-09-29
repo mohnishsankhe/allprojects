@@ -15,8 +15,8 @@
 - Sanskrit: dhyāna  — partial
 
 ## Equivalents (interpretation layer)
-- partial: [dhyāna (nididhyāsana)](dhyana.md) — Chan transcribes dhyāna, but as a school name it means the lineage of the buddha-mind, and the Platform Sūtra redefines it as seeing the self-nature rather than a meditative absorption.
-**Related:** [zuochan (seated meditation, zazen)](zuochan.md), [dhyāna (nididhyāsana)](dhyana.md)
+- partial: [dhyāna](dhyana.md) — Chan transcribes dhyāna, but as a school name it means the lineage of the buddha-mind, and the Platform Sūtra redefines it as seeing the self-nature rather than a meditative absorption.
+**Related:** [zuochan (seated meditation, zazen)](zuochan.md), [dhyāna](dhyana.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._

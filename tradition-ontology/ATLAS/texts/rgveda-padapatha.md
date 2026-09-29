@@ -23,4 +23,4 @@ _Notes: The omission of 10.121.10 and of the Vālakhilya hymns from the Padapā�
 
 - 2026-09-28 catalog+websearch: partially-confirmed — catalog:GRETIL-dev:rgveda-samhita_padapatha_text_mandala_10, https://sacred-texts.com/hin/sbe32/sbe3215.htm, https://en.wikipedia.org/wiki/Shakalya, https://en.wikipedia.org/wiki/Rigveda — Extant; ascription to Śākalya (named by Yāska and Pāṇini) confirmed. The omission of 10.121.10 is confirmed (Max Müller, SBE 32: 'not decomposed in the Pada-pāṭha'; the GRETIL Padapāṭha file carries it only in saṃhitā form). The reported omission of the Vālakhilya hymns could NOT be confirmed: web sources only say the Vālakhilya are an appendix, and the GRETIL Padapāṭha does give pada text for 8.49ff. (possibly editorial). Date 'before Yāska and Pāṇini' consistent with sources placing Śākalya c. 700 BCE.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

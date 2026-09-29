@@ -345,7 +345,7 @@ The Vedic student (brahmacārin) goes about quickening both worlds; in him the g
 
 _level: conventional · standpoint: cosmic · path: action, general · stage: beginner · types: teacher-transmission, ethics_
 
-terms: [brahmacārin](../terms/brahmacarin.md), [ācārya](../terms/acarya.md), [tapas](../terms/tapas.md) · concepts: [Brahmacarya, Vedic studentship](../concepts/brahmacarya-vedic.md) · practices: [Vedic studentship (brahmacarya)](../practices/brahmacarya.md)
+terms: [brahmacārin](../terms/brahmacarin.md), [ācārya](../terms/acarya.md), [tapas](../terms/tapas.md) · concepts: [Brahmacarya, Vedic studentship](../concepts/brahmacarya-vedic.md) · practices: [Continence (brahmacarya)](../practices/brahmacarya.md)
 
 ### 11.5.3 <a id="tea-atharvaveda-saunaka-11-5-3"></a>
 `sourced` · confidence high
@@ -354,7 +354,7 @@ The teacher, initiating (upanayamāna) the student, makes him an embryo within; 
 
 _level: conventional · standpoint: ritual · path: ritual · stage: beginner · types: teacher-transmission, practice_
 
-terms: [upanayana](../terms/upanayana.md), [ācārya](../terms/acarya.md), [brahmacārin](../terms/brahmacarin.md) · concepts: [Brahmacarya, Vedic studentship](../concepts/brahmacarya-vedic.md), [Transmission of the Veda: teacher, śākhā and oral recitation](../concepts/vedic-transmission-sakha.md) · practices: [Vedic studentship (brahmacarya)](../practices/brahmacarya.md)
+terms: [upanayana](../terms/upanayana.md), [ācārya](../terms/acarya.md), [brahmacārin](../terms/brahmacarin.md) · concepts: [Brahmacarya, Vedic studentship](../concepts/brahmacarya-vedic.md), [Transmission of the Veda: teacher, śākhā and oral recitation](../concepts/vedic-transmission-sakha.md) · practices: [Continence (brahmacarya)](../practices/brahmacarya.md)
 
 ### 11.5.4-6 <a id="tea-atharvaveda-saunaka-11-5-4-6"></a>
 `sourced` · confidence high
@@ -363,7 +363,7 @@ This fuel is the earth, the second the sky; he fills the atmosphere with fuel; w
 
 _level: conventional · standpoint: cosmic · path: action, ritual · stage: beginner · types: practice, teacher-transmission_
 
-terms: [brahmacārin](../terms/brahmacarin.md), [tapas](../terms/tapas.md), [dīkṣā](../terms/diksa.md) · concepts: [Brahmacarya, Vedic studentship](../concepts/brahmacarya-vedic.md), [Tapas: generative heat and austerity](../concepts/tapas-vedic.md) · practices: [Vedic studentship (brahmacarya)](../practices/brahmacarya.md), [Austerity (tapas)](../practices/tapas.md)
+terms: [brahmacārin](../terms/brahmacarin.md), [tapas](../terms/tapas.md), [dīkṣā](../terms/diksa.md) · concepts: [Brahmacarya, Vedic studentship](../concepts/brahmacarya-vedic.md), [Tapas: generative heat and austerity](../concepts/tapas-vedic.md) · practices: [Continence (brahmacarya)](../practices/brahmacarya.md), [Austerity (tapas)](../practices/tapas.md)
 
 ### 11.5.17-19 <a id="tea-atharvaveda-saunaka-11-5-17-19"></a>
 `sourced` · confidence high
@@ -372,7 +372,7 @@ By brahmacarya and tapas the king protects the realm; by brahmacarya the teacher
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, death-dying_
 
-terms: [brahmacārin](../terms/brahmacarin.md), [tapas](../terms/tapas.md), [mṛtyu](../terms/mrtyu.md) · concepts: [Brahmacarya, Vedic studentship](../concepts/brahmacarya-vedic.md), [Tapas: generative heat and austerity](../concepts/tapas-vedic.md) · practices: [Vedic studentship (brahmacarya)](../practices/brahmacarya.md) · disputes: [Who may learn and recite the Veda?](../debates/who-may-learn-the-veda.md)
+terms: [brahmacārin](../terms/brahmacarin.md), [tapas](../terms/tapas.md), [mṛtyu](../terms/mrtyu.md) · concepts: [Brahmacarya, Vedic studentship](../concepts/brahmacarya-vedic.md), [Tapas: generative heat and austerity](../concepts/tapas-vedic.md) · practices: [Continence (brahmacarya)](../practices/brahmacarya.md) · disputes: [Who may learn and recite the Veda?](../debates/who-may-learn-the-veda.md)
 
 ### 11.7.1 <a id="tea-atharvaveda-saunaka-11-7-1"></a>
 `sourced` · confidence high
@@ -575,4 +575,4 @@ _Notes: Sūkta numbering in some printed editions (e.g. the local DharmicData te
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Atharvaveda (Śaunaka), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/atharvaveda-samhita_saunaka_rechension_unachchented_teXt.md (GRETIL, Roth–Whitney numbering), https://en.wikipedia.org/wiki/Atharvaveda — Extant. Local GRETIL count: 20 kāṇḍas, 731 sūktas, c. 5,840 numbered verses (entry: c. 730 sūktas, c. 6,000 verses — agrees); book 13 has 4 sūktas in Whitney's numbering; 9.9–10 reproduce RV 1.164 (located). Witzel dates it at or slightly after c. 1200/1000 BCE (entry: c. 1200–900 BCE). Sumantu as receiver is the tradition's account (Bhāgavata 1.4.22, located).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._

@@ -73,7 +73,7 @@ The limbs of yoga in successive chapters: yama and niyama (371); posture, breath
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: all · types: practice_
 
-terms: [yama](../terms/yama.md), [niyama](../terms/niyama.md), [āsana](../terms/asana.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [dhāraṇā](../terms/dharana.md), [samādhi](../terms/samadhi.md) · concepts: [Purāṇic eightfold yoga](../concepts/puranic-astanga-yoga.md)
+terms: [yama](../terms/yama.md), [niyama](../terms/niyama.md), [āsana](../terms/asana.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhyāna](../terms/dhyana.md), [dhāraṇā](../terms/dharana.md), [samādhi](../terms/samadhi.md) · concepts: [Purāṇic eightfold yoga](../concepts/puranic-astanga-yoga.md)
 
 ### 376-379 <a id="tea-agni-purana-376-379"></a>
 `sourced` · confidence low
@@ -97,4 +97,4 @@ _Notes: Chs. 2-16: the ten avatāras (16: the Buddha as Māyāmoha, then Kalki);
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:agnipurANa, catalog:DCS:Agnipurāṇa, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.28, https://en.wikipedia.org/wiki/Agni_Purana — Extant and digitized (GRETIL, R. Mitra's Bibliotheca Indica ed. 1870-79, 382 chapters; eBhārati; DCS). Matsya 53.28 (Agni to Vasiṣṭha, Īśāna-kalpa) confirmed. Web: 382 or 383 chapters; composed after the 7th and before the 11th c. (Al-Biruni) - the entry's 9th-11th c. is within.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._

@@ -15,4 +15,4 @@ Retreat in complete darkness for a prescribed period, in Nyingma Heart-essence (
 _Notes: RESTRICTED: durations and methods not recorded._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._

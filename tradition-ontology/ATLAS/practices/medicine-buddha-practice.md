@@ -15,4 +15,4 @@ Visualizing the Medicine Buddha, reciting his mantra and supplication, and in th
 - partial: [Bhaiṣajyaguru rites for the sick and dying](bhaisajyaguru-rite.md) — sūtra-based Bhaiṣajyaguru rites for the sick
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._

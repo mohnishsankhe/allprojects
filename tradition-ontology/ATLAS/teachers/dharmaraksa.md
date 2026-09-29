@@ -16,4 +16,4 @@
 Yuezhi-descended monk of Dunhuang (c. 233-310) who translated the Lotus (286), the 25,000-line Perfection of Wisdom (Guangzan, 286), the Lalitavistara, the Daśabhūmika and many others.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._

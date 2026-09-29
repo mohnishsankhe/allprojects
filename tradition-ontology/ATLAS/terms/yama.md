@@ -25,4 +25,4 @@
 _Notes: Scholarly metadata only (not used in interpretation): cognate of Avestan Yima._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U07-puranas, skeleton:U17-pasupata-kapalika, skeleton:U04-minor-upanisads, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U07-puranas, skeleton:U17-pasupata-kapalika, skeleton:U04-minor-upanisads, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._

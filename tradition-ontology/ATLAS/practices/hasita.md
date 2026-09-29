@@ -14,4 +14,4 @@ Loud laughter ('a-ha-ha'), opening throat and lips, offered to the Lord while ab
 **Sequences:** [The five stages of the Pāśupata path (avasthā-pañcaka)](../paths/pasupata-five-stages.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:32 IST._

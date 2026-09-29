@@ -10,4 +10,4 @@
 Yoginī of Kashmir who, per the Shangpa account, became a siddha late in life under Virūpa; named in Tilopa's Ṣaḍdharmopadeśa (Tōh 2330) as the source of the instructions on the intermediate state and transference.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

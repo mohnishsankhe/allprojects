@@ -133,4 +133,4 @@ concepts: [The twenty (sixteen, eighteen) emptinesses](../concepts/twenty-emptin
 _Notes: Chapter structure beyond ch.10 and total verse count from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._

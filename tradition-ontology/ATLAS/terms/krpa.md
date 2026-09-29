@@ -18,4 +18,4 @@
 **Related:** [viṣāda](visada.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._

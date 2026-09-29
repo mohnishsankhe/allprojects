@@ -11,4 +11,4 @@ Jōdo-shū's multi-day rite transmitting the teaching of the school in five stag
 _Notes: Outline only; details not recalled with confidence._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._

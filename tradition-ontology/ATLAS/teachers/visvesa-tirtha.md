@@ -10,4 +10,4 @@
 Pontiff of the Pejavara maṭha (Uḍupi) in the 20th and early 21st centuries, who presided over the Uḍupi Kṛṣṇa paryāya five times.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

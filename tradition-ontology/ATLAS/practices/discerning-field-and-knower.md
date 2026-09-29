@@ -29,4 +29,4 @@ _Notes: New practice (extractor B) in the Gītā's own terms._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.2, tea:bhagavad-gita:13.3, tea:bhagavad-gita:13.6-7, tea:bhagavad-gita:13.24, tea:bhagavad-gita:13.28, tea:bhagavad-gita:13.30, tea:bhagavad-gita:13.31, tea:bhagavad-gita:13.35 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:04 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:32 IST._

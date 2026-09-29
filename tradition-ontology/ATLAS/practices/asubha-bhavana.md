@@ -31,4 +31,4 @@ For one in whom passion predominates: the skeleton contemplation — visualizing
 _Notes: Shared id; U41 contributes the Yogācāra (Śrāvakabhūmi) placement only._
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U36-pali-suttas, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U36-pali-suttas, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._

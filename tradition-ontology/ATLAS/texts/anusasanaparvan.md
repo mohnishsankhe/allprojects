@@ -24,4 +24,4 @@ The book of instruction: Bhīṣma's further teaching on giving (dāna), fasts, 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_13.json (BORI Critical Edition text) book 13: 154 chapters — Book 13 has exactly 154 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

@@ -58,4 +58,4 @@ terms: [svara](../terms/svara.md), [iḍā](../terms/ida.md), [piṅgalā](../te
 _Notes: Verse numbers not recalled; teachings cite sections._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._

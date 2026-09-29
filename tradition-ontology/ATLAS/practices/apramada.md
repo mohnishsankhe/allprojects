@@ -13,4 +13,4 @@ Constant heedfulness, which Sanatsujāta calls immortality, as against heedlessn
   - [Mahābhārata](../texts/mahabharata.md) — ref: 11.7.19; rests_on: ["tea:mahabharata:11.7.13-20"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

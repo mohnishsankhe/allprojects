@@ -13,4 +13,4 @@ The form of a swan in which the Lord appeared before Brahmā and the Kumāras to
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — The swan form of BhP 11.13.19-42.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._

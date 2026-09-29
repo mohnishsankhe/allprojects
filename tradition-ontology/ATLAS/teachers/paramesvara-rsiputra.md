@@ -12,4 +12,4 @@ Kerala scholar credited with the Gopālikā commentary on Maṇḍana's Sphoṭa
 _Notes: Several Kerala scholars named Parameśvara are known; the identification needs checking._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._

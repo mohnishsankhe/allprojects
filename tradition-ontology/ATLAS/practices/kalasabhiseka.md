@@ -12,4 +12,4 @@ Water is consecrated in arrays of pots in which deities are invoked and then pou
   - [Tantrasamuccaya](../texts/tantrasamuccaya.md) — 
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._

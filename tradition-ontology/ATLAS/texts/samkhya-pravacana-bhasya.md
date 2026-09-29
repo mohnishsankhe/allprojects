@@ -32,4 +32,4 @@ teachers: [Vijñānabhikṣu](../teachers/vijnanabhiksu.md) · disputes: [Is Adv
 _Notes: Doctrinal characterization partly recalled (low–moderate confidence); edition from Ruzsa's GRETIL header._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._

@@ -14,4 +14,4 @@ Lust for form, lust for the formless, conceit, restlessness and ignorance, aband
   - [Sutta Nipāta](../texts/sutta-nipata.md) — ref: 4.9; rests_on: ["tea:sutta-nipata:4.9"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._

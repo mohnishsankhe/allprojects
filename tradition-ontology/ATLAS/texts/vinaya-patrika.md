@@ -56,4 +56,4 @@ teachers: [Tulsīdās](../teachers/tulsidas.md)
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._

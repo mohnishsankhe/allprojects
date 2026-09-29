@@ -14,4 +14,4 @@
 - part-of → [Gradation of souls (tāratamya)](taratamya.md): gradation continues in liberation as graded bliss — rests on [4.4.19](../texts/brahma-sutra-bhasya-madhva.md#tea-brahma-sutra-bhasya-madhva-4-4-19)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._

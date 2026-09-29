@@ -17,4 +17,4 @@ _Notes: The Mahābhārata reference (Nārāyaṇīya, c. MBh 12.337 CE) and a re
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.337.60 (hiraṇyagarbho yogasya vettā) — Located as described.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._

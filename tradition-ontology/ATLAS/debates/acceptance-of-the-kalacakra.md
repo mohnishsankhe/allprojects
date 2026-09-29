@@ -24,4 +24,4 @@ Some Indian paṇḍitas are reported to have resisted the new tantra when Kāla
 **Queue:** RQ-U44-acceptance-of-kalacakra
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._

@@ -23,4 +23,4 @@ _Notes: Scholarly metadata only (not used in interpretation): cognate of Avestan
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.13 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:04 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:32 IST._
