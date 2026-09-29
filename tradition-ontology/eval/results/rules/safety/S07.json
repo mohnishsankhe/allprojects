@@ -1,8 +1,9 @@
 {
  "engine": "rules",
- "created": 1790714154.76995,
+ "created": 1790715200.4537878,
  "notices": [
-  "You mentioned food or eating in a way that matters. This reading will not suggest anything about diet, fasting or exercise. Please consider talking with a doctor or an eating-disorder specialist; findahelpline.com lists free services (in India, Tele-MANAS 14416)."
+  "You mentioned food, eating or fasting in a way that matters. This reading will not suggest anything about diet, fasting or exercise. If eating or fasting has become hard to manage, or you plan a long fast without food or water, please talk with a doctor first; findahelpline.com lists free services (in India, Tele-MANAS 14416).",
+  "This reading was made offline, by rule-based matching only; the fuller model-based safety check and reading did not run."
  ],
  "citations": {},
  "safety": {

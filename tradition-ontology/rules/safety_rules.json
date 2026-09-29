@@ -137,7 +137,10 @@
     "(?:पिछले|पूर्व) (?:सभी )?निर्देश|निर्देशों को (?:अनदेखा|नज़रअंदाज़|नजरअंदाज|भूल)|सिस्टम प्रॉम्प्ट",
     "\\b(?:give|make|design|plan|suggest|prescribe|recommend|write)\\s+(?:me\\s+)?(?:a|an|my)\\s+(?:\\d+|forty|long|extended)[- ]day\\s+(?:\\w+\\s+)?fast\\b|\\bfasting (?:plan|schedule|regime)\\b|\\bhow (?:long|many days) (?:should|can) i fast\\b",
     "\\b(?:please|can you|could you|you (?:must|should)|i want you to|make sure (?:you|to))\\s+(?:say|write|state|claim|promise|confirm|guarantee)\\b[^.?!\\n]{0,60}\\b(?:will|would|can) (?:cure|heal|fix|end)\\b|\\b(?:say|write|state) (?:it )?(?:in|on) (?:the|this|my) (?:report|reading)\\b[^.?!\\n]{0,60}\\b(?:will|would|can) (?:cure|heal|fix|end)\\b",
-    "\\b(?:day[- ]by[- ]day|daily) (?:austerity|fasting|fast) plan\\b|\\b(?:give|make|write|design) (?:me )?(?:an? )?austerity plan\\b"
+    "\\b(?:day[- ]by[- ]day|daily) (?:austerity|fasting|fast) plan\\b|\\b(?:give|make|write|design) (?:me )?(?:an? )?austerity plan\\b",
+    "\\b(?:give|make|write|design|send|share|create|need|want)\\s+(?:me\\s+)?(?:a |an |my )?(?:complete |full |detailed |strict |daily )?(?:austerity|fasting) plan\\b",
+    "\\b(?:exact |detailed )?(?:steps|instructions|technique|method|how) (?:to|for) (?:hold|holding|retain|retaining|stop|stopping|suspend) (?:my|the|your) breath\\b",
+    "\\b(?:kundli|janam ?kundli|rashi|jyotish\\w*|sade ?sati|manglik)\\b"
   ],
   "simile_exceptions": [
     "\\b(?:like|as if|as though)\\s+(?:i(?:'d| had| was| am|'m)?\\s+)?(?:being|been|getting|got|was)?\\s*(?:hit|run over|flattened)\\s+by\\s+(?:a|an|the)\\s+(?:bus|truck|lorry|train|wave|tsunami|brick|ton of bricks|tonne of bricks|steamroller)\\b"

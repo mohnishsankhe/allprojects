@@ -1,7 +1,9 @@
 {
  "engine": "rules",
- "created": 1790714155.5883842,
- "notices": [],
+ "created": 1790715201.35451,
+ "notices": [
+  "This reading was made offline, by rule-based matching only; the fuller model-based safety check and reading did not run."
+ ],
  "citations": {},
  "safety": {
   "route": "continue",

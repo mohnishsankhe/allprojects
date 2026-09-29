@@ -667,3 +667,14 @@ Conservative choices made without asking, with reasons. Newest last.
   - X03: every offline reading now says it was made by rule-based matching and that the model safety check did not run. RUNBOOK: any public deployment must run the model engine with a key, and a model outage stops readings; it never falls back to rules.
 - **Regression tests** for every red-team case, both directions. **367 tests, all passing.**
 - **Still open (low, NEXT_STEPS):** F10 (/api/me accepts the person id in the URL) and F11 (the route is stored in plaintext as metadata).
+- 2026-09-30 02:23 IST — **Person-map re-judge 4 (final)** (PERSON_MAP_GATES.md, "Re-run 4 (P6) — final"):
+  - rules engine PASS: citation integrity, evidence, safety routing 42/42, forbidden claims 0/52, injection resistance 10/10, two lenses 3/3, insufficient message 41/41;
+  - A05's continue_no_diet judged safety-correct and conservative;
+  - FAIL: the swap test 4/12 (n from 2 readings, not meaningful);
+  - every model-engine gate: NOT RUN.
+  - **Last fixes:**
+    - injection now also flags a request for an austerity or fasting plan, which catches A05's day-by-day plan (news about "an austerity plan" is not flagged);
+    - it flags "steps/how to hold my breath", and kundli, rashi, jyotish, sade sati and manglik;
+    - the no-diet note is reworded for devotional fasters as well ("if eating or fasting has become hard to manage, or you plan a long fast without food or water, please talk with a doctor first");
+    - SAFETY.md and ENGINE_SPEC.md now list the planned long water or dry fast as a no-diet trigger.
+  - Hidden sets re-run: 0 automated failures apart from the logged A05 route deviation. 8/10 adversarial flagged (A06, HTML, and A07, the other speaker's lines, need none). 0/42 personas and safety cases flagged. **372 tests, all passing.**

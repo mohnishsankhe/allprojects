@@ -1,7 +1,8 @@
 {
  "engine": "rules",
- "created": 1790714152.3412168,
+ "created": 1790715198.087991,
  "notices": [
+  "This reading was made offline, by rule-based matching only; the fuller model-based safety check and reading did not run.",
   "There are not yet enough gentle practices in the texts' own terms that match what you described, so the pathway below is short."
  ],
  "citations": {

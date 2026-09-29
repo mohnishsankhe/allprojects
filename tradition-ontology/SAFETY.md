@@ -20,7 +20,7 @@ patterns and wording are in `rules/safety_rules.json` and `rules/safety_messages
 | `decline_minor` | age under 18, or a sign of it in the text | A polite decline and youth helplines. Nothing is stored. |
 | `stop_crisis` | suicidal thoughts, self-harm, abuse, signs of psychosis, a medical emergency | The reading stops. Warm words and crisis resources: Tele-MANAS 14416 or 1-800-891-4416 and 112 (India); 988 and 911 (US); Samaritans 116 123 and 999 (UK); findahelpline.com elsewhere. There is an emergency line for medical emergencies and a helpline line for abuse (Women Helpline 181 in India). The person's words are not kept after a stop. |
 | `stop_unavailable` | the model safety screen could not run in model mode | No reading. A plain note that the safety check could not run, and help resources. |
-| `continue_no_diet` | signs of disordered eating | The reading continues with no guidance on diet, fasting or exercise, and a referral to professional help. Sentences about food, eating or weight are never evidence. Practices whose steps or warnings touch food or exercise are removed. |
+| `continue_no_diet` | signs of disordered eating, or a planned long fast without food or water (e.g. a 21-day water fast) | The reading continues with no guidance on diet, fasting or exercise, and a referral to professional help. Sentences about food, eating or weight are never evidence. Practices whose steps or warnings touch food or exercise are removed. |
 | `continue_medical_note` | a medical condition is mentioned | "This is not medical advice; continue your treatment." The condition is never interpreted, and the sentences that mention it are never evidence. |
 | `continue` | none of the above | The normal reading. |
 

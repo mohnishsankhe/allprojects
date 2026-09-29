@@ -1,8 +1,10 @@
 {
  "engine": "rules",
- "created": 1790714155.506701,
+ "created": 1790715201.2688558,
  "notices": [
-  "You mentioned food or eating in a way that matters. This reading will not suggest anything about diet, fasting or exercise. Please consider talking with a doctor or an eating-disorder specialist; findahelpline.com lists free services (in India, Tele-MANAS 14416)."
+  "You mentioned food, eating or fasting in a way that matters. This reading will not suggest anything about diet, fasting or exercise. If eating or fasting has become hard to manage, or you plan a long fast without food or water, please talk with a doctor first; findahelpline.com lists free services (in India, Tele-MANAS 14416).",
+  "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, instructions for breath retention or fasting, promises of a cure, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience.",
+  "This reading was made offline, by rule-based matching only; the fuller model-based safety check and reading did not run."
  ],
  "citations": {},
  "safety": {
@@ -11,7 +13,7 @@
    "disordered_eating"
   ],
   "model_checked": false,
-  "injection": false
+  "injection": true
  },
  "mapping_audit": {
   "unmapped_reason": "no_entry_met_floor",
