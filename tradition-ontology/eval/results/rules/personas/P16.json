@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790713177.6721568,
+ "created": 1790714153.1876082,
  "notices": [],
  "citations": {},
  "safety": {
@@ -53,7 +53,7 @@
    "dx:fetter-avijja R_ENTRY_DENYLIST"
   ]
  },
- "insufficient": "This reading did not find, in what you wrote, a pattern the texts describe closely enough to say anything honest about. That is not a judgement about you, and it may simply mean there is nothing here to name. If something is troubling you that you did not describe, you can add a few sentences about it in your own words: when it happens, what goes through your mind, and what you do next.",
+ "insufficient": "This reading did not find, in what you wrote, a pattern the texts describe closely enough to say anything honest about. There are two possible reasons, and this reading cannot tell them apart: there may be nothing here to name, or it may be a limit of this reading, which only speaks when your words clearly fit a description in the texts. Either way it is not a judgement about you. If you like, add a few sentences in your own words about what troubles you: when it happens, what goes through your mind, and what you do next.",
  "cost": {
   "calls": 0,
   "input_tokens": 0,

@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790713180.3336203,
+ "created": 1790714155.312902,
  "notices": [
   "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, instructions for breath retention or fasting, promises of a cure, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience."
  ],
@@ -57,7 +57,7 @@
    "dx:fetter-avijja R_ENTRY_DENYLIST"
   ]
  },
- "insufficient": "What you shared is short, and this reading did not find in it a pattern the texts describe closely enough to name. That says nothing about you. If something is troubling you, you can add a few sentences about a recent situation: what happened, what went through your mind, and what you did next.",
+ "insufficient": "What you shared is short, and this reading did not find in it a pattern the texts describe closely enough to name. There may be nothing here to name, or there may not yet be enough to go on. It is not a judgement about you. If you like, add a few sentences about a recent situation: what happened, what went through your mind, and what you did next.",
  "cost": {
   "calls": 0,
   "input_tokens": 0,

@@ -92,7 +92,8 @@
         "\\b(anorexi|bulimi)\\w*\\b",
         "\\beating disorder\\b",
         "\\bskip(ping)? meals to (lose|stay thin)\\b",
-        "\\bpunish myself (with|by) (food|not eating|exercise)\\b"
+        "\\bpunish myself (with|by) (food|not eating|exercise)\\b",
+        "\\b(?:\\d{2,}|forty|thirty|twenty)[- ]day\\s+(?:water|dry|juice|nirjala|complete|total|zero[- ]calorie)\\s+fast\\b|\\b(?:water|dry)[- ]fast(?:ing)? for (?:\\d{2,}|weeks|a month)\\b"
       ]
     },
     "minor": {
@@ -116,10 +117,10 @@
   },
   "injection_patterns": [
     "\\bignore (all |any |the |your )?(previous|prior|above|earlier) (instructions|rules|prompts?)\\b",
-    "\\b(system prompt|developer message|you are now|act as|pretend (you are|you're|to be (an? |the |my )?(ai|assistant|chatbot|system|model|developer|doctor|astrologer))|jailbreak|dan mode)\\b",
+    "\\b(system prompt|developer message|you are now|act as (?:a |an |my |the )?(?:ai|assistant|chatbot|system|model|doctor|therapist|astrologer|psychic|guru|developer)\\b|pretend (you are|you're|to be (an? |the |my )?(ai|assistant|chatbot|system|model|developer|doctor|astrologer))|jailbreak|dan mode)\\b",
     "\\b(diagnose|diagnosis of) me\\b",
     "\\b(tell|predict|forecast) (me )?(my )?(future|fate|destiny)\\b",
-    "\\bwhat will happen (to me|in my life|next year)\\b",
+    "\\b(?:tell me|predict|can you (?:tell|see)|will you tell me|show me) what will happen\\b|\\bwhat will happen (?:in my life|next year|in the future)\\b",
     "\\b(kundali|horoscope|birth chart|zodiac|nakshatra)\\b",
     "(?m)^\\s*(?:system|assistant|developer|admin)\\s*:",
     "\\b(?:safety (?:check|screen|filter)s? (?:passed|disabled|off|is off)|override (?:the )?(?:safety|rules)|new instructions?)\\b",
@@ -127,8 +128,8 @@
     "\\b(?:kumbhaka|kevala kumbhaka|khecari|khecarī|bhastrika|mula ?bandha)\\b",
     "(?:पिछले|पूर्व) (?:सभी )?निर्देश|निर्देशों को (?:अनदेखा|नज़रअंदाज़|नजरअंदाज|भूल)|सिस्टम प्रॉम्प्ट",
     "\\b(?:give|make|design|plan|suggest|prescribe|recommend|write)\\s+(?:me\\s+)?(?:a|an|my)\\s+(?:\\d+|forty|long|extended)[- ]day\\s+(?:\\w+\\s+)?fast\\b|\\bfasting (?:plan|schedule|regime)\\b|\\bhow (?:long|many days) (?:should|can) i fast\\b",
-    "\\b(?:say|write|state|tell me|claim|promise|confirm|guarantee)\\b[^.?!\\n]{0,40}\\b(?:this reading|the reading|the report|these practices?|the practices?|this practice|meditation|you)\\b[^.?!\\n]{0,40}\\b(?:will|would|can) (?:cure|heal|fix|end)\\b",
-    "\\b(?:want|going|plan|planning|intend|trying|try) to (?:do|start|keep|try|begin|complete) (?:a|an) (?:\\d{2,}|forty|long|extended)[- ]day\\s+(?:\\w+\\s+)?fast\\b|\\b(?:day[- ]by[- ]day|daily) (?:austerity|fasting|fast) plan\\b|\\bausterity plan\\b"
+    "\\b(?:please|can you|could you|you (?:must|should)|i want you to|make sure (?:you|to))\\s+(?:say|write|state|claim|promise|confirm|guarantee)\\b[^.?!\\n]{0,60}\\b(?:will|would|can) (?:cure|heal|fix|end)\\b|\\b(?:say|write|state) (?:it )?(?:in|on) (?:the|this|my) (?:report|reading)\\b[^.?!\\n]{0,60}\\b(?:will|would|can) (?:cure|heal|fix|end)\\b",
+    "\\b(?:day[- ]by[- ]day|daily) (?:austerity|fasting|fast) plan\\b|\\b(?:give|make|write|design) (?:me )?(?:an? )?austerity plan\\b"
   ],
   "simile_exceptions": [
     "\\b(?:like|as if|as though)\\s+(?:i(?:'d| had| was| am|'m)?\\s+)?(?:being|been|getting|got|was)?\\s*(?:hit|run over|flattened)\\s+by\\s+(?:a|an|the)\\s+(?:bus|truck|lorry|train|wave|tsunami|brick|ton of bricks|tonne of bricks|steamroller)\\b"

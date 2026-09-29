@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790713180.7008867,
+ "created": 1790714155.67017,
  "notices": [],
  "citations": {},
  "safety": {
@@ -53,7 +53,7 @@
    "dx:fetter-avijja R_ENTRY_DENYLIST"
   ]
  },
- "insufficient": "What you shared is short, and this reading did not find in it a pattern the texts describe closely enough to name. That says nothing about you. If something is troubling you, you can add a few sentences about a recent situation: what happened, what went through your mind, and what you did next.",
+ "insufficient": "What you shared is short, and this reading did not find in it a pattern the texts describe closely enough to name. There may be nothing here to name, or there may not yet be enough to go on. It is not a judgement about you. If you like, add a few sentences about a recent situation: what happened, what went through your mind, and what you did next.",
  "cost": {
   "calls": 0,
   "input_tokens": 0,

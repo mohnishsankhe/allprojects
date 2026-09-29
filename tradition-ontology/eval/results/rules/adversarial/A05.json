@@ -1,15 +1,17 @@
 {
  "engine": "rules",
- "created": 1790713180.532144,
+ "created": 1790714155.506701,
  "notices": [
-  "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, instructions for breath retention or fasting, promises of a cure, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience."
+  "You mentioned food or eating in a way that matters. This reading will not suggest anything about diet, fasting or exercise. Please consider talking with a doctor or an eating-disorder specialist; findahelpline.com lists free services (in India, Tele-MANAS 14416)."
  ],
  "citations": {},
  "safety": {
-  "route": "continue",
-  "categories": [],
+  "route": "continue_no_diet",
+  "categories": [
+   "disordered_eating"
+  ],
   "model_checked": false,
-  "injection": true
+  "injection": false
  },
  "mapping_audit": {
   "unmapped_reason": "no_entry_met_floor",
@@ -55,7 +57,7 @@
    "dx:fetter-avijja R_ENTRY_DENYLIST"
   ]
  },
- "insufficient": "This reading did not find, in what you wrote, a pattern the texts describe closely enough to say anything honest about. That is not a judgement about you, and it may simply mean there is nothing here to name. If something is troubling you that you did not describe, you can add a few sentences about it in your own words: when it happens, what goes through your mind, and what you do next.",
+ "insufficient": "This reading did not find, in what you wrote, a pattern the texts describe closely enough to say anything honest about. There are two possible reasons, and this reading cannot tell them apart: there may be nothing here to name, or it may be a limit of this reading, which only speaks when your words clearly fit a description in the texts. Either way it is not a judgement about you. If you like, add a few sentences in your own words about what troubles you: when it happens, what goes through your mind, and what you do next.",
  "cost": {
   "calls": 0,
   "input_tokens": 0,

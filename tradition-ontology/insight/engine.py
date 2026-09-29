@@ -17,12 +17,14 @@ from .llm import Ledger, ModelClient
 
 INSUFFICIENT = {
     None: ("This reading did not find, in what you wrote, a pattern the texts describe closely enough to say anything "
-           "honest about. That is not a judgement about you, and it may simply mean there is nothing here to name. If "
-           "something is troubling you that you did not describe, you can add a few sentences about it in your own "
-           "words: when it happens, what goes through your mind, and what you do next."),
+           "honest about. There are two possible reasons, and this reading cannot tell them apart: there may be nothing "
+           "here to name, or it may be a limit of this reading, which only speaks when your words clearly fit a "
+           "description in the texts. Either way it is not a judgement about you. If you like, add a few sentences in "
+           "your own words about what troubles you: when it happens, what goes through your mind, and what you do next."),
     "short": ("What you shared is short, and this reading did not find in it a pattern the texts describe closely "
-              "enough to name. That says nothing about you. If something is troubling you, you can add a few sentences "
-              "about a recent situation: what happened, what went through your mind, and what you did next."),
+              "enough to name. There may be nothing here to name, or there may not yet be enough to go on. It is not a "
+              "judgement about you. If you like, add a few sentences about a recent situation: what happened, what "
+              "went through your mind, and what you did next."),
     "not_enough_own_words": ("There is not yet enough of your own writing for a reading: it needs at least a few "
                              "sentences. If you like, describe a recent situation: what happened, what went through "
                              "your mind, and what you did next."),
