@@ -82,12 +82,19 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U02-brahmana-vedanga | done — 723 checked: 689 confirmed · 17 partial · 17 corrected · 0 not-found (157 terms not in scope) |
 | U03-principal-upanisads | done — 736 checked: 729 confirmed · 2 partial · 5 corrected (fabricated default edition strings) · 0 not-found |
 | U04-minor-upanisads | done — 915 checked: 772 confirmed · 20 partial · 123 corrected (95 default Adyar edition strings; overlong verse ranges) · 0 not-found |
-| U06-other-gitas | running |
+| U06-other-gitas | done — 556 checked: 522 confirmed · 13 partial · 20 corrected (13 copied Mokṣadharma dating defaults) · 1 not-found (tea:uttara-gita:1) |
 | U07-puranas | done — 470 checked: 453 confirmed · 11 partial · 6 corrected · 0 not-found |
 | U08-agama-catalogue | running |
 | U09-samkhya | running |
 | U10-yoga | running |
+| U11-nyaya-vaisesika | running |
 ### Sweep follow-ups (for Phase D / S5 / later sweeps)
+- C-U06:
+  - Local but missed by the unit: the Yoga Vāsiṣṭha vulgate with the Tātparyaprakāśa (Muktabodha M00335–339, M00345) and the Laghu Yoga Vāsiṣṭha with the Vāsiṣṭhacandrikā (M00351). Phase D can extract from them.
+  - The Akṣi Upaniṣad reproduces Mokṣopāya 6.140–141, not 3.118 (for U04).
+  - The Pāṇḍava Gītā has three speakers that the paraphrase merges.
+  - Devī Bhāgavata 7.39.43–46 (not 7.40) ranks inner worship above outer.
+  - The local mAdhva Bhāgavata skips the number 3.25.33.
 - U49 dedupe candidates for S5:
   - brw pairs: mimamsa-hermeneutics-to-vedanta / -vedanta; samkhya-to-yoga / samkhya-patanjala-yoga; epic-samkhya / epic-samkhya-to-classical-samkhya; upanisads-to-gita / -bhagavad-gita; adhyatma-ramayana-to-manas / -ramcaritmanas; rasa-sastra-hatha / -hatha-yoga; samkhya-saiva-tattvas / samkhya-to-kashmir-saivism; sautrantika-pramana / sautrantika-to-pramana; kagyu-to-gelug / -mahamudra; kadam-to-kagyu / kadam-to-dakpo-kagyu.
   - brw:pure-land-chan: U42 gives a direction (from→to); U43 gives mutual.
