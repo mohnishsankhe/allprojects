@@ -250,3 +250,8 @@ Conservative choices made without asking, with reasons. Newest last.
   - G15: the Jains count two pramāṇas (direct and indirect), not three; Caraka counts four (with yukti); the Paurāṇika count of eight is confirmed from the Dinakarī doxography.
   - G6: "gradual" is the Southern school's characterization of the Northern school; the Northern school's own text uses sudden-transcendence language (頓超佛地).
 - **Tibetan labels.** The Tibetan construction of the Prāsaṅgika/Svātantrika categories is recorded as metadata, not as an Indian position.
+
+## 2026-09-29 18:18 IST — Run paused: the user stopped all running agents
+- At about 18:17 IST the user stopped all ten running agents: skeleton U51–U54, Phase C sweeps U08–U11, the Gītā ch16-18 merger, and the lojong root reconstruction.
+- Conservative reading: this is a deliberate pause. None is resumed or relaunched, and the self-scheduled check-in that would launch more agents is disabled, not deleted.
+- Partial output is kept as it stands; the two partial skeleton shards (U51, U52) validate with 0 errors. PROGRESS.md lists exactly what each item had written, so "continue" can restart them.

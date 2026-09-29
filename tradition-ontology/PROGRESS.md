@@ -63,16 +63,29 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U48-jonang-chod-medicine-rime | done | 51 src · 45 tch · 90 tea · 12 prc (5 restricted) · 3 dsp | REPORT.md; Four Tantras chapter refs low; Tibetan works not local |
 | U49-cross-family | done | 53 brw (41 new + 12 evidence re-emits) · 36 cpt · 31 tea · 3 dsp; new explicit evidence: Tōh 2285 Amṛtasiddhimūla colophon (Virūpa) | REPORT.md; dedupe list for S5 |
 | U50-debates | done | 15 dsp (8 partially reconciled, 7 queued) · 19 new tea (originals verified: BSBh, CBETA, eBhāratī) | REPORT.md |
-| U51-path-maps | running | | |
-| U52-recent-teachers | running | | |
-| U53-glossary-ultimate | running | | |
-| U54-chinese-schools | running | | |
+| U51-path-maps | stopped by user (partial kept) | | |
+| U52-recent-teachers | stopped by user (partial kept) | | |
+| U53-glossary-ultimate | stopped by user (partial kept) | | |
+| U54-chinese-schools | stopped by user (partial kept) | | |
 | U55-japan-korea-vietnam-nepal | queued | | |
 | U56-datta-haridasa-odisha | queued | | |
 | U57-ascetic-orders | queued | | |
 | U58-sacred-sciences-body-arts | queued | | |
 | U59-folk-regional | queued | | |
 | U60-ganapatya-saura-smarta | queued | | added to close gaps |
+
+## PAUSED — 2026-09-29 18:18 IST: all running agents were stopped by the user
+Nothing has been relaunched. The fallback check-in (trig_01TAWjatPpGAGwbxcCz6ynAP) is disabled, so no new agents start. On "continue", restart these items; restarting fresh is safest, and each agent's partial output is kept.
+
+| item | state at stop | what is on disk |
+|---|---|---|
+| U51-path-maps (skeleton) | stopped mid-run | 37 paths, 15 teachings, 3 sources, 150 interpretation-log lines — valid (0 errors), no REPORT |
+| U52-recent-teachers (skeleton) | stopped mid-run | 48 lines (lineages / ultimate views begun) — valid, no REPORT |
+| U53-glossary-ultimate (skeleton) | stopped while surveying | nothing written |
+| U54-chinese-schools (skeleton) | stopped at start | nothing written |
+| C-U08, C-U09, C-U10, C-U11 (Phase C sweeps) | stopped | no checks written (drafts only in _gen/, if any) |
+| Gītā ch16-18 merger M (+ thesis) | stopped at start | nothing written; A.jsonl (137) and B.jsonl (136) with notes are complete and waiting |
+| lojong root reconstruction (Phase D prep) | stopped at start | nothing written |
 
 ## Phase C — Hallucination sweep
 | unit | status |
@@ -84,10 +97,10 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U04-minor-upanisads | done — 915 checked: 772 confirmed · 20 partial · 123 corrected (95 default Adyar edition strings; overlong verse ranges) · 0 not-found |
 | U06-other-gitas | done — 556 checked: 522 confirmed · 13 partial · 20 corrected (13 copied Mokṣadharma dating defaults) · 1 not-found (tea:uttara-gita:1) |
 | U07-puranas | done — 470 checked: 453 confirmed · 11 partial · 6 corrected · 0 not-found |
-| U08-agama-catalogue | running |
-| U09-samkhya | running |
-| U10-yoga | running |
-| U11-nyaya-vaisesika | running |
+| U08-agama-catalogue | stopped by user — to restart |
+| U09-samkhya | stopped by user — to restart |
+| U10-yoga | stopped by user — to restart |
+| U11-nyaya-vaisesika | stopped by user — to restart |
 ### Sweep follow-ups (for Phase D / S5 / later sweeps)
 - C-U06:
   - Local but missed by the unit: the Yoga Vāsiṣṭha vulgate with the Tātparyaprakāśa (Muktabodha M00335–339, M00345) and the Laghu Yoga Vāsiṣṭha with the Vāsiṣṭhacandrikā (M00351). Phase D can extract from them.
@@ -135,8 +148,8 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | bhagavad-gita | ch07-09 | done (95) | done (95) | done (97 tea, 449 disagreements; skeleton 40 up · 6 corr · 0 ret) | done: 68 passed · 29 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch10-12 | done (120) | done (120) | done (125 tea, 498 disagreements; skeleton 33 up · 3 corr · 0 ret) | done: 121 passed · 4 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch13-15 | done (85) | done (88) | done (88 tea, 545 disagreements; skeleton 23 up · 19 corr · 0 ret) | done: 86 passed · 2 fixed · 0 failed → text-verified | |
-| bhagavad-gita | ch16-18 | done (137) | done (136) | running (+ thesis) | | |
-| seven-point-mind-training + eight-verses | root reconstruction from OpenPecha lemmata (prep) — running | | | | | |
+| bhagavad-gita | ch16-18 | done (137) | done (136) | stopped by user — to restart (+ thesis) | | |
+| seven-point-mind-training + eight-verses | root reconstruction from OpenPecha lemmata (prep) — stopped by user, to restart | | | | | |
 
 ### Gītā text-level gates (after ch16-18)
 - One consistency pass across all 18 chapters: citta/cetas → "thought (citta/cetas)" (ch. 6.18–23 still read "mind (citta)"), reflexive ātman, adhyātma gloss; one policy for the level tag 'bridging' vs 'unmarked'; resolve forward links to later chapters (13.x uses this edition's numbering); errata pass for the edition's glitches (DECISIONS 2026-09-28); then the quality gates (misreading hunter, hallucination hunter, reconciliation auditor, reviewer 5%) and the thesis entry by the ch16-18 merger.

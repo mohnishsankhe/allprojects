@@ -28,3 +28,4 @@
 - 2026-09-29 18:10 IST  C-U06 sweep done (556: 522 conf · 13 partial · 20 corr · 1 nf). C-U11 launched.
 - 2026-09-29 18:14 IST  U50 skeleton done (REPORT; decisions). Reconcile queue now lists partially reconciled disputes (418 items). U54 launched. Merge + atlas.
 - 2026-09-29 18:15 IST  Gītā ch13-15 F done (86 passed, 2 fixed → 88 text-verified; ch. 13 numbering merge verified: no collisions). 599 text-verified. Lojong root reconstruction agent launched.
+- 2026-09-29 18:18 IST  USER STOPPED ALL 10 RUNNING AGENTS (U51–U54, C-U08–U11, Gītā ch16-18 M, lojong prep). Nothing relaunched; check-in trigger disabled; partial output kept and committed. Waiting for 'continue'.
