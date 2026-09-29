@@ -186,6 +186,9 @@ class GuardMiddleware:
                 await resp(scope, receive, send_wrapped)
 
 
+app.add_middleware(GuardMiddleware)
+
+
 @app.exception_handler(ServiceError)
 async def _service_error(_request: Request, exc: ServiceError):
     return JSONResponse({"error": exc.code, "message": exc.message}, status_code=exc.status)
@@ -393,5 +396,3 @@ def admin_buckets(request: Request):
     return {"buckets": [{"id": k, "name": v.get("name", k)} for k, v in content.buckets().items()],
             "formats": sorted(set(content.formats()) | set(content.DEFAULT_FORMATS))}
 
-
-app = GuardMiddleware(app)  # type: ignore[assignment]  # uvicorn insight.api:app serves the guarded app
