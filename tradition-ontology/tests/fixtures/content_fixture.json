@@ -1,0 +1,37 @@
+{
+  "_about": "Small stand-in for rules/content/buckets.json and formats.json, used only when the real files are absent. Scenes are written by the product (no personal data); teachings are sourced or text-verified ids.",
+  "buckets": [
+    {"id": "work", "name": "Work pressure and burnout",
+     "scenes": [
+       "It is 9 pm and you are still answering messages that could have waited until morning, one after another.",
+       "The meeting ends, and you are already replaying what you said and what they might have thought of it.",
+       "You promise yourself a break after this one task, then another task appears, and the break never comes."
+     ],
+     "teaching_pool": [
+       {"tid": "tea:bhagavad-gita:2.47", "point": "Your right is to the action alone, never to its fruits; do not let the fruit be your motive.",
+        "angle": "The message thread has no end, but the next reply is a single act. The Gita asks where the attention rests: on the doing in front of you, or on the outcome you are trying to secure. Notice which of the two is pulling you at this moment, and put the attention back on the one act."},
+       {"tid": "tea:bhagavad-gita:6.26", "point": "Wherever the restless, unsteady mind wanders, bring it back and hold it in the self.",
+        "angle": "The replaying is the mind wandering off to a room that no longer exists. The verse does not scold the wandering. It gives one instruction, to bring the mind back each time it leaves, and to do so as often as it leaves, without any drama about how often that turns out to be."},
+       {"tid": "tea:bhagavad-gita:2.62", "point": "Dwelling on the objects of the senses, attachment to them arises; from attachment, desire; from desire, anger.",
+        "angle": "The chain starts small: one more look at the screen. The Gita describes how dwelling turns into wanting, and wanting into irritation. Seeing the first link, the dwelling, is the place where the text says the chain can be noticed before it gathers speed and becomes a bad evening."}
+     ]},
+    {"id": "sleep", "name": "Sleep",
+     "scenes": [
+       "It is midnight, the lights are off, and the day starts replaying itself the moment you lie down.",
+       "You wake at three and your mind is already sorting tomorrow's list, item by item, with great energy."
+     ],
+     "teaching_pool": [
+       {"tid": "tea:yoga-sutra:2.33", "point": "When troubling thoughts arise, cultivate their opposite.",
+        "angle": "The thought at midnight is not an enemy to be fought. The Sutra gives a method of turning: when one kind of thought keeps returning, deliberately take up its opposite and stay with that instead, until the first thought loses its hold on the attention for a while."},
+       {"tid": "tea:yoga-sutra:1.2", "point": "Yoga is the stilling of the movements of the mind.",
+        "angle": "A list at three in the morning is movement of the mind, nothing more. The Sutra defines the whole path by one thing, the stilling of that movement, and it names no shortcut. Watching the list, without adding to it, is a small first step toward what the text is describing."}
+     ]}
+  ],
+  "formats": {
+    "x_post": {"parts": [1, 1], "max_chars_per_part": 280},
+    "x_thread": {"parts": [4, 7], "max_chars_per_part": 400},
+    "ig_carousel": {"parts": [6, 9], "max_words_per_part": 60, "caption_max_words": 120},
+    "short_video": {"parts": [4, 10], "total_words": [80, 160]},
+    "long_video": {"parts": [5, 7]}
+  }
+}

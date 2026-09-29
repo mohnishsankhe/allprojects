@@ -1976,10 +1976,13 @@ def _locate(unit: Unit, text: str) -> tuple:
     return None, None, False
 
 
+MAX_RECHECKS = 40      # per reading: a cost guard; beyond it "no recheck available" applies (Tier A direct only)
+
+
 def _recheck(R: Reading, mk: Marker, unit: Unit, sent: Sentence, quote: str) -> Optional[dict]:
     """Blind recheck: sees the marker text and cues (no entry name), the sentence and the one before it, and the quote."""
-    if R.recheck_calls >= 40:
-        return None
+    if R.recheck_calls >= MAX_RECHECKS:
+        return {"unavailable": True}
     R.recheck_calls += 1
     prev = unit.sentences[sent.idx - 1] if sent.idx > 0 else None
     ptxt = ("[removed]" if sentence_code(R.ctx, unit, prev) else prev.text) if prev else ""
@@ -2072,6 +2075,10 @@ def _process_candidates(R: Reading, cands: list) -> None:
             need = match is None or base != "direct" or (ev.clause_neg > 0 and not explained)
             if need:
                 rc = _recheck(R, mk, unit, sent, ev.quote)
+                if rc and rc.get("unavailable"):
+                    # no recheck available: keep only Tier A direct items (with no unexplained negator)
+                    R.reject("model", eid, ev.quote, "R_NO_RELEVANCE")
+                    continue
                 if rc is None or not rc["ok"]:
                     R.reject("model", eid, ev.quote, "R_RECHECK_FAILED")
                     continue
