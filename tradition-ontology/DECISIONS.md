@@ -61,3 +61,8 @@ Conservative choices made without asking, with reasons. Newest last.
 ## 2026-09-28 09:12 IST — U30 lineage family and homonyms
 - `lin:ayurveda` and `lin:rasa-sastra` marked family "shared" (Āyurveda calls itself an upāṅga of the Atharvaveda but Buddhist and Jain authors wrote within it; Rasa is mainly Śaiva but has Buddhist-ascribed and Jain-commented works). Accepted. Sub-lineages lin:atreya-sampradaya, lin:dhanvantari-sampradaya, lin:kerala-astavaidya (low) accepted.
 - Homonym teacher ids kept apart: tch:nagarjuna-siddha / tch:nagarjuna; tch:govinda-rasahrdaya / tch:govinda-bhagavatpada; tch:vyadi-rasasiddha / tch:vyadi; tch:kumarasiras-bharadvaja / tch:bharadvaja; tch:sarngadhara-vaidya / tch:sarngadhara-anthologist. śamana filed as trm:samsamana to avoid colliding with trm:samana (the breath).
+
+## 2026-09-29 16:00 IST — weekly usage limit; resumption policy
+- 2026-09-28 ~09:20 IST every running subagent (13) stopped with "You've hit your weekly limit · resets Sep 29, 10am (UTC)". Partial shards were committed as they stood. Resumed after the reset (2026-09-29 15:59 IST) by messaging each stopped agent (it continues from its own transcript and the files on disk), not by relaunching, so no finished work is redone.
+- Pacing from now on: at most ~10 concurrent subagents, and the orchestrator keeps merges/atlas builds to milestones, because the weekly allowance — not wall time — is the binding constraint. Nothing in scope is dropped; the run simply continues across allowance windows.
+- U31 (sound arts) had already handed back its complete report before the stop; saved (0 validator errors).

@@ -43,7 +43,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U28-hatha-texts | done | 31 src · 35 tch · 288 tea (96 HYP with originals) · 122 trm · 65 cpt · 12 prc · 27 phn · 3 dsp | report saved |
 | U29-hatha-practices | done | 141 prc (19 restricted) · 354 tea (57 originals) · 42 trm · 15 phn · 1 dsp | report saved; 107 tea ids shared with U28 (union at merge) |
 | U30-ayurveda-rasa | done | 5 lin · 69 src · 97 tch · 259 tea (71 originals) · 181 trm · 112 cpt · 32 prc · 15 dsp · 68 restricted | report saved |
-| U31-sound-arts | running | | |
+| U31-sound-arts | done | 4 lin · 76 src · 81 tch · 148 tea · 119 trm · 38 cpt · 19 prc · 12 dsp | report saved |
 | U32-jyotisa | running | | |
 | U33-sramana | running | | |
 | U34-jain-canon | running | | |
