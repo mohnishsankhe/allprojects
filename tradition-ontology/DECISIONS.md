@@ -111,3 +111,24 @@ Conservative choices made without asking, with reasons. Newest last.
 - Two twentieth-century commentaries on OpenPecha (P000209, P000200) are used only to check that a headword's wording matches. None of their own commentary is quoted or extracted, because their licence is not stated in the repository metadata.
 - The order and wording of the root differ between recensions. Every difference is recorded in RECONCILE_QUEUE-style notes on the source, never settled by choosing one.
 - The Eight Verses (Langri Thangpa, 11th c.) come from Chekawa's own narrative commentary (P000222, 12th c.). Both works are public domain; the e-text is openly distributed on GitHub.
+
+## 2026-09-29 17:18 IST — Gītā ch10-12 merger (M) decisions (reported by the merger; recorded by the orchestrator)
+- **Sentence entries** under the split-verse rule: 10.4-5, 12.3-4, 12.6-7, 12.13-14, 12.18-19. These ids equal skeleton ids, which are upgraded. No span for 10.12-13 (10.12 has its own main clause), 11.9-11, 11.26-27 or 11.41-42 (narration or a request). Those verses carry "[continuing X]" markers instead.
+- **Id harmonisation.** One way to write each id, kept consistent with ch07-09:
+  - practices: prc:smarana for fixing manas/buddhi on the Lord; prc:abhyasa; prc:kirtana for 10.9 "speaking of me to one another"; prc:vibhuti-cintana; prc:avyakta-upasana;
+  - terms: trm:vac, not trm:vak; trm:ahankara for nirahaṅkāra; trm:ananya-bhakti for ananyatā;
+  - concept: cpt:qualities-of-the-devotee.
+- **Homonyms deliberately not linked:**
+  - trm:nimitta (the Pali meditation sign); 11.33 uses trm:nimitta-matra;
+  - trm:nidhana (the closing part of a sāman chant), at 11.18 and 11.38;
+  - cpt:real-and-unreal at 11.37;
+  - tch:rama at 10.31 (the verse gives only "Rāma"; tch:parasurama also exists).
+- **Dispute.** dsp:bhagavad-gita-lord-or-unmanifest (12.1–5) absorbs B's dsp:bhagavad-gita-manifest-or-unmanifest-worship and the undefined dsp:saguna-nirguna at those verses. Its two sides, Śaṅkara and Rāmānuja, are marked recalled with low confidence; check them against the bhāṣyas in Wave 2.
+- **Tags.** A means and its result is tagged conventional. Portraits of the devotee and descriptions of the Lord are unmarked. Vision verses take path devotion; 11.48 and 11.53 take ritual. 12.2 is advanced, with stage_native yuktatama (parallel 6.47).
+- **For the Gītā-wide consistency pass:**
+  - ch01-03 did not link dsp:violence-and-svadharma at 2.18–38, although that dispute cites those verses;
+  - dedupe prc:vandana ≈ prc:namaskara;
+  - decide whether "fixing manas and buddhi on the Lord" is its own practice or part of prc:smarana.
+- **Errata for the post-ch18 correction pass:**
+  - misspellings: 10.1 and 10.18 śrṛ-; 10.14 vyakitaṃ; 10.29 stray nukta; 10.41 tejoṃ'śa-; 11.6 and 11.22 aśivanau; 11.51 tavasaumyaṃ; 11.54 dṛṣṭuṃ; 12.17 and 12.19 bhakitamān;
+  - layout: 12.1 and 12.2 headings fused to the verse; ch12 segments lack line breaks; lines broken inside sandhi at 11.15, 11.17, 11.19, 11.29, 11.30, 11.38, 11.46 and 11.48.
