@@ -16,8 +16,8 @@ Budget: 12 working hours. Phase budgets: P0 0:00–0:30 · P1 0:30–3:30 · P2 
 | P2 Engine design | started early, in parallel (22:45 IST) | ENGINE_SPEC.md; mapping rules (onto-deep); intake.json; tone.md; synthesis_rules.json; content design running (onto-analyst) |
 | P3 Build | started early, in parallel | written: llm, store, safety, claims, specificity, ontology, report, engine, pathway, synthesizer, schemas, service, cli, content, gates, run_eval. Builders running: mapper; api + web + tests |
 | P4 Content engine | drafts done early (23:20 IST), rules engine | 50 posts (10 per bucket, 5 formats) in the review queue, all passing rules checks; 30-day calendar per bucket (content/calendars/); export content/queue.jsonl. Model-engine drafts and the Opus content check: not run (no API key). |
-| P5 Evaluation | started (23:45 IST) | eval sets being written (onto-analyst, hidden from builders); practice-safety judge running |
-| P6 Fix loop | queued | |
+| P5 Evaluation | runs done; judging (00:05–) | hidden sets 30/12/10 run offline (rules engine); judges: practice safety (PASS on re-run), content (re-judge running), person-map gates (re-judge running); onto-deep red team running. Model-engine gates: NOT RUN (no API key). |
+| P6 Fix loop | running (00:00–) | fixes: simile exception, referral phrase, contractions, injection patterns, practice-safety fixes, content pool v2 + templates, person-map synthesis/mapper/safety fixes |
 | P7 Release | queued | |
 
 ---
