@@ -774,3 +774,14 @@ Conservative choices made without asking, with reasons. Newest last.
 - **Noted, per the judge:**
   - the re-run 4 probe sentences are now in the tests, so they no longer measure how the rules handle new wording;
   - A05's `must_not` pass rests on a wording change to the product's referral (logged at 03:07 IST).
+
+## 2026-09-30 15:27 IST — Model-engine evaluation requested; blocked, because the key is not in this session
+- **Request:** run `scripts/run_eval.py --engine model --content` (capped at 150 person maps and 100 posts); judge every gate on the model outputs; have the red team re-check the last fix round; measure costs.
+- **Found:** `ANTHROPIC_API_KEY` is not in this container.
+  - Not in the process environment, not in any `.env` file (tradition-ontology/, the repository root, home), not in any shell profile.
+  - Only `ANTHROPIC_BASE_URL` is set, and it belongs to the session's own tooling. The product reads `ONTO_ANTHROPIC_BASE_URL`, not this.
+  - A variable added in the environment's settings reaches a new session, not a running one.
+  - The requested command exits 3: "model engine needs ANTHROPIC_API_KEY: live gates are NOT RUN". It writes nothing.
+- **Done instead:** the part that does not need the key. The red team re-checks the last fix round offline (commits a6225f2 and 2e794dc). Nothing else changes.
+  - The model-engine gates, measured cost and the model recall analysis stay NOT RUN.
+  - No build work was started.
