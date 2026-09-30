@@ -13,6 +13,14 @@
 
 What passed offline is real and is listed below, with its evidence.
 
+**Model-engine evaluation, requested 2026-09-30: blocked.** `ANTHROPIC_API_KEY` was not in the session.
+- It was not in the environment, in any `.env` file or in the shell profiles.
+- `scripts/run_eval.py --engine model --content` exits 3 and writes nothing.
+- A variable added in the environment's settings reaches a new session only.
+
+So every model-engine gate, measured cost and model recall stay **not run**. Only the red team's re-check of the last
+fix round could run, offline (below).
+
 ## Gate results (brief, section 7)
 Legend:
 - **Rules** is the offline, deterministic engine, and was the only one that could run.
@@ -32,7 +40,7 @@ Legend:
 | 9 | Engineering | tests pass; schema validates; runs from a clean checkout via README | **PASS**: see below | n/a | **PASS** | see Engineering below |
 | 10 | Measured cost | per person map and per 10 posts, from real runs | NOT RUN | NOT RUN | **NOT RUN** | COSTS.md (estimates only) |
 | 11 | Post quality | 50 posts: faithful cites, 0 claims, 0 near-duplicates, idea-specific | **PASS**: 50/50 on (a)–(d); 10 per bucket | NOT RUN (Sonnet drafts, Opus check) | **PASS** for the 50 queued rules drafts; model drafts NOT RUN | eval/judge/CONTENT_JUDGE.md Re-run 4; content_verdicts_rerun4.jsonl; content/queue.jsonl |
-| — | Final red team (onto-deep) | no open critical or high finding | **PASS** on the replay after the last fixes: 81/81 recorded probes, 110/110 sentences, 10/10 bad edits; no finding open | NOT RUN (model screen) | **NOT RUN** (the model engine was never red-teamed) | eval/redteam/RED_TEAM.md (Replay); probes_replay.jsonl |
+| — | Final red team (onto-deep) | no open critical or high finding | **PASS**: the replay after the Re-run 2 fixes (81/81 probes, 110/110 sentences, 10/10 edits), then an offline re-check of the last fix round (203/203 replayed records; 234 records, 10 fails, all low: F26–F32 open) | NOT RUN (model screen) | **NOT RUN** (the model engine was never red-teamed) | eval/redteam/RED_TEAM.md (Replay; Re-check of the last fix round); probes_replay.jsonl; probes_recheck.jsonl |
 
 **Count:**
 - PASS: 2 (engineering; post quality for the queued drafts).
@@ -110,7 +118,23 @@ New wording may still find gaps: the screen is keyword-based.
     - clause-level removal of verdict clauses;
     - display names never put in the texts' mouth.
 - *Verification.* These fixes were checked by tests and by re-running the hidden sets: only S07.md and A05.md changed, in
-  their notes. They were not re-judged or re-red-teamed, because of the loop limit.
+  their notes. They were not re-judged.
+- *Red-team re-check of that round (2026-09-30, offline): PASS.*
+  - All 203 earlier records replay correctly, and every stop and decline report now validates.
+  - The eating-disorder referral is unconditional, and the fasting note is separate.
+  - Devotional fasts continue with no note.
+  - No orphan cite, point without cites, or verdict was found in a sweep of 105 readings (68 mapped).
+- *Seven low findings are open and not fixed; no new build work was started:*
+  - F26: display names are still put in the texts' mouth in the summary, in "Why this fits" and at the head of
+    counterpart points;
+  - F27: a stray full stop after a closing quote;
+  - F28 (latent): removing a sentence's last clause can drop the cites of the clauses it keeps;
+  - F29: the guṇa "arise and pass" line is added to a tamas point that says tamas is "not a passing state";
+  - F30: the bare-word "treat(s)" claim pattern removes 7 sentences that make no claim;
+  - F31: a claim word inside the person's own quote strips a lens point's opening sentence;
+  - F32: "I plan a 30-day water fast" gets the injection notice.
+
+  F29–F32 predate the last round.
 
 **Not tested:**
 - the model engine's screen, and injection through the model prompts (no key);
@@ -154,7 +178,8 @@ New wording may still find gaps: the screen is keyword-based.
   (≈ $0.37 per 10 posts). None of it is measured.
 
 ## To reach ready
-1. Set `ANTHROPIC_API_KEY`.
+1. Add `ANTHROPIC_API_KEY` as an environment variable in the environment's settings, then start a **new** session
+   (a running session does not pick it up).
 2. Run `python3 scripts/run_eval.py --engine model --content`, capped at 150 person maps and 100 posts.
 3. Have onto-judge score every gate on the model outputs, including a swap test on at least 20 mapped readings.
 4. Have onto-deep run the red team against the model engine: the safety screen, and injection through

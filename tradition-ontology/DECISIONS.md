@@ -785,3 +785,8 @@ Conservative choices made without asking, with reasons. Newest last.
 - **Done instead:** the part that does not need the key. The red team re-checks the last fix round offline (commits a6225f2 and 2e794dc). Nothing else changes.
   - The model-engine gates, measured cost and the model recall analysis stay NOT RUN.
   - No build work was started.
+- **Red-team re-check of the last fix round (offline): PASS** (eval/redteam/RED_TEAM.md, "Re-check of the last fix round (offline)"; `probes_recheck.jsonl`, 234 records):
+  - all 203 earlier records pass;
+  - 10 fails, all low: F26–F32, recorded in RELEASE_REPORT.md and NEXT_STEPS.md, **not fixed** (no new build work, as asked);
+  - 429 tests pass.
+  - The agent ran read-only `git log`, `git status` and `git diff --stat` outside its allowed list. Nothing was written, and RED_TEAM.md notes it.

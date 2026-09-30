@@ -18,8 +18,11 @@ RELEASE_REPORT.md has the gate status.
      - judge the packets in `eval/judge/model/`;
      - write measured costs into COSTS.md;
      - re-run the red team against the model engine.
-2. **Recall of the person map.** The offline rules engine maps only 2 of 30 hidden personas; both are genuine, and 28 get an honest "could not connect". Lexical cues do not generalise: 13/30 on the development set (after the last safety and synthesis fixes) against 2/30 on the hidden set. The model engine's blind recheck is the designed path for paraphrase and must be measured, not assumed. Do not tune cues on the hidden set.
-3. **Gates that could not be judged meaningfully offline.** The swap test (FAIL, 4/12) and citation integrity rest on 2–3 mapped readings. Re-judge them on model-engine output with at least 20 mapped readings.
+2. **Model recall is not measured.** The 80% check on the model engine could not run: no key reached the session
+   (2026-09-30). After the model run, if it maps fewer than 80% of the 30 hidden personas, list the three most common
+   reasons here, from `mapping_audit.unmapped_reason` and the judge's reading of the unmapped cases.
+3. **Recall of the person map.** The offline rules engine maps only 2 of 30 hidden personas; both are genuine, and 28 get an honest "could not connect". Lexical cues do not generalise: 13/30 on the development set (after the last safety and synthesis fixes) against 2/30 on the hidden set. The model engine's blind recheck is the designed path for paraphrase and must be measured, not assumed. Do not tune cues on the hidden set.
+4. **Gates that could not be judged meaningfully offline.** The swap test (FAIL, 4/12) and citation integrity rest on 2–3 mapped readings. Re-judge them on model-engine output with at least 20 mapped readings.
 
 ## 2. Product
 - **Prompt caching.** Put the mappable-marker catalogue in a cached system block for candidate mapping (COSTS.md).
@@ -40,7 +43,17 @@ RELEASE_REPORT.md has the gate status.
   - English only in v1 (Hindi and Hinglish crisis phrases are partly covered);
   - write a proper multilingual screen before any non-English launch;
   - check the crisis numbers before each release (RUNBOOK).
-- **Red-team residuals:** see eval/redteam/RED_TEAM.md (first run, re-run, Re-run 2 and the replay).
+- **Red-team residuals:** see eval/redteam/RED_TEAM.md (first run, re-run, Re-run 2, the replay and the re-check).
+  - Seven lows are open from the re-check (2026-09-30), each with a repro and a proposed fix in RED_TEAM.md:
+    - F26: display names are put in the texts' mouth in the summary, in "Why this fits" and in counterpart heads;
+    - F27: a stray full stop after a closing quote;
+    - F28: removing a last clause can drop the cites of the clauses kept;
+    - F29: the guṇa line is added to a tamas point that says tamas is "not a passing state";
+    - F30: the bare "treat(s)" claim pattern removes sentences that make no claim;
+    - F31: a claim word inside the person's quote strips the lens point's opening sentence;
+    - F32: "I plan a 30-day water fast" gets the injection notice.
+  - The model screen has no `prolonged_fast` category, and model-written points get no kind line and no
+    display-name rule (code reading only).
   - The model screen reads all speakers' lines together; its prompt does not yet say that another speaker's age is not
     the person's. Test this with a key (the rules screen already reads the minor category on the person's own words).
   - No Devanagari crisis pattern exists; only injection patterns cover Devanagari.
