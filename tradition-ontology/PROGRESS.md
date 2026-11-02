@@ -207,3 +207,10 @@ Prepared verse-level segments (sources_raw/prepared/, git-ignored) as of 2026-09
 
 ## Morning report (07:00 IST)
 ## Waves 1–5
+
+## Ontology layer (Study and Read texts), started 2026-11-02 20:06 IST
+- [x] Register: 604 rows linked to sources and passage scopes; 10,106 teachings in scope (Study 4,777; Read 5,329). Rows with any text-verified teaching: Study 9 of 203, Read 9 of 401; rows with no teaching: Study 12, Read 61.
+- [x] Schema, briefs, checker.
+- [ ] Study units S01–S11 (whys)
+- [ ] Read units R01–R10 (results)
+- [ ] Merge, checks, fidelity sample, coverage report, extraction queue

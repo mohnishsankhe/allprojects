@@ -11,3 +11,6 @@ __pycache__/
 *.sqlite3
 data.key
 .pytest_cache/
+
+# Ontology layer: agent inputs are rebuilt by scripts/ontology_layer_register.py
+ontology_layer/_inputs/

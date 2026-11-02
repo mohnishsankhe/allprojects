@@ -790,3 +790,17 @@ Conservative choices made without asking, with reasons. Newest last.
   - 10 fails, all low: F26–F32, recorded in RELEASE_REPORT.md and NEXT_STEPS.md, **not fixed** (no new build work, as asked);
   - 429 tests pass.
   - The agent ran read-only `git log`, `git status` and `git diff --stat` outside its allowed list. Nothing was written, and RED_TEAM.md notes it.
+
+## 2026-11-02 — Ontology layer from the Study and Read texts
+- **Request:** "First let's make the ontology layer with the study and reads." The founder turned down a scoping question, so the reading below was chosen without asking (CLAUDE.md rule 2).
+- **Reading taken:** build the layer the Map engine stands on from the 604 Study and Read rows of the tier catalog only (Skim and Index left out):
+  - every row linked to its texts and passages in `data/` (`ontology_layer/register/texts.jsonl`);
+  - the Study texts' workings as cited cause-and-effect links (`whys.jsonl`);
+  - the results the texts teach (methods, conduct, counsel, devotion, mantra, regimen, signs, warnings), each tied to the why it rests on (`results.jsonl`);
+  - engine-layer tags (L0–L7, M, W) on every entry; a coverage report and an extraction queue.
+- **Conservative choices:**
+  - nothing in `data/` is changed: the layer is a new interpretation layer in `ontology_layer/`, built from shards in `shards/ontology_layer/` (rule 9);
+  - verification is computed from the cited teachings, never asserted; entries with no teaching in the ontology are marked `outline` and queued for extraction (rule 10);
+  - restricted practices are summary-only with the texts' warnings (rule 11);
+  - catalog rows were matched to sources by title, then 299 uncertain matches were checked by hand (`scripts/ontology_layer_overrides.py`). Twelve rows have no source in the ontology (Kṣapaṇāsāra, Mayamata, Mānasāra and the modern teachers' works); they get outline entries only.
+- **Units:** 11 Study units (whys, run first) and 10 Read units (results, run once the whys they depend on exist). Briefs: `ontology_layer/BRIEF_STUDY.md`, `ontology_layer/BRIEF_READ.md`. Checker: `scripts/ontology_layer_check.py`.
