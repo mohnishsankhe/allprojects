@@ -804,3 +804,13 @@ Conservative choices made without asking, with reasons. Newest last.
   - restricted practices are summary-only with the texts' warnings (rule 11);
   - catalog rows were matched to sources by title, then 299 uncertain matches were checked by hand (`scripts/ontology_layer_overrides.py`). Twelve rows have no source in the ontology (Kṣapaṇāsāra, Mayamata, Mānasāra and the modern teachers' works); they get outline entries only.
 - **Units:** 11 Study units (whys, run first) and 10 Read units (results, run once the whys they depend on exist). Briefs: `ontology_layer/BRIEF_STUDY.md`, `ontology_layer/BRIEF_READ.md`. Checker: `scripts/ontology_layer_check.py`.
+
+## 2026-11-02 — Results record who they are for (before the Read units start)
+- **Change:** optional `suits` and `not_for` fields on results (`ontology_layer/SCHEMA.md`, `ontology_layer/BRIEF_READ.md`,
+  `scripts/ontology_layer_check.py`): who the text says a result is for (stage, temperament, constitution, capacity) and who
+  should not do it, each with cites, filled only when a cited passage says so.
+- **Reason:** the engine routes people by these conditions, and the texts state them (BhG 6.3; HYP 2.21; Bhāgavata
+  11.20.7–8; Visuddhimagga ch. 3). Most of the recorded method disputes are settled in the texts by exactly this kind of
+  condition. Additive only: no field changes meaning, and Study shards already written stay valid.
+- **Not done, proposed to the founder instead:** copying each cited passage's dispute ids onto whys and results at merge,
+  and a cross-tradition file of the product-relevant method disputes (competing results with each text's own condition).

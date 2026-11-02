@@ -115,6 +115,8 @@ One link per line. A chain is several whys (A causes B; B causes C).
  "rests_on": [{"why": "why:gita:attachment-to-fruit-binds", "link": "same-text", "note": ""}],
  "why_gap": "",
  "layers": ["L6"], "cites": ["tea:bhagavad-gita:2.47"], "basis": "stated", "ref_hint": "",
+ "suits": [{"text": "one who is still climbing (ārurukṣu), for whom action is the means (6.3)", "cites": ["tea:bhagavad-gita:6.3"]}],
+ "not_for": [],
  "restricted": false, "warnings": [], "test": {"text": "...", "cites": []},
  "confidence": "high", "tradition": "lin:..."}
 ```
@@ -129,6 +131,8 @@ One link per line. A chain is several whys (A causes B; B causes C).
 | `targets` | no | Node ids of that condition |
 | `rests_on` | yes, unless `why_gap` | `[{why, link, note}]`. `link`: `same-text` (this text states the why), `same-tradition`, or `other-tradition` (only when the text borrows that frame, or the row's `why_lives_in` names it) |
 | `why_gap` | when no why fits | What the missing why would have to explain |
+| `suits` | no | Who the text says it is for: the seeker's stage, temperament, constitution (doṣa), strength or capacity (adhikāra), as `[{text, cites}]`. Only what the cited passages say. The engine routes people by this |
+| `not_for` | no | Who the text says should not do it, or when not to, as `[{text, cites}]` (e.g. HYP 2.21: the cleansing acts are not for one whose humours are balanced) |
 | `layers`, `cites`, `basis`, `ref_hint`, `confidence`, `tradition` | as for whys | |
 | `restricted` | yes | `true` for body-cutting, metals or mercury, extreme breath retention, sexual rites, prolonged fasting and the advanced energy practices (CLAUDE.md rule 11). Then `statement` is a summary only and `warnings` carries the texts' own warnings |
 | `warnings` | no | The texts' own warnings, with cites |

@@ -243,6 +243,8 @@ def main(argv):
                 W.append(f'{i}: looks like a restricted practice; check restricted=true and summary-only wording')
             check_sub(x, i, 'warnings')
             check_sub(x, i, 'test')
+            check_sub(x, i, 'suits')
+            check_sub(x, i, 'not_for')
         # coverage of the unit's rows
         covered = collections.Counter()
         for w in whys:

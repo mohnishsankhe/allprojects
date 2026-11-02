@@ -29,6 +29,12 @@ already built. Read `ontology_layer/SCHEMA.md` first: it defines every field. Fo
    - `kind`: `method`, `conduct`, `counsel`, `devotion`, `mantra`, `ritual`, `regimen`, `sign`, `warning`.
    - `for`: the condition or aim it works on, in plain words. This is what the engine matches a person against, so make
      it concrete ("anger that flares at an insult", "a mind that scatters at the start of a task").
+   - `suits` / `not_for`: who the text says the result is for, and who should not do it or when not to: the seeker's
+     stage, temperament, constitution (doṣa), strength or capacity (adhikāra). Examples: BhG 6.3 (action is the means for
+     one still climbing, calm for one who has arrived); HYP 2.21 (the cleansing acts only for one with excess fat or
+     phlegm; one whose humours are balanced should not do them). Fill these only when a cited passage says so, with its
+     cites; otherwise leave them empty. They are the conditions the engine routes people by, and they are where the texts
+     settle what looks like disagreement between traditions.
 3. Tie each result to the why it rests on (`rests_on`):
    - `same-text`: this text itself states the reason (cite it in the result);
    - `same-tradition`: a Study why of the same tradition explains it (start with `why_lives_in`);
